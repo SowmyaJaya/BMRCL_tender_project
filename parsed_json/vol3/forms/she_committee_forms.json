@@ -1,0 +1,2076 @@
+{
+  "source_id": "bmrcl-volume-3",
+  "source_path": "data/Vol3DLNP1.pdf",
+  "source_sha256": "1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52",
+  "source_section": "I",
+  "source_section_label": "SHE - Manual (for Reference only)",
+  "title": "SHE Committee Form Templates",
+  "pdf_pages": [
+    116,
+    117,
+    118
+  ],
+  "review_status": "pending_manual_review",
+  "forms": [
+    {
+      "form_id": "SF/001",
+      "title": "Formation of Site SHE Committee",
+      "document_role": "form_template",
+      "pdf_pages": [
+        116
+      ],
+      "source_heading": {
+        "form_id": "SF/001",
+        "pdf_page": 116,
+        "source_text": "                     FORM No. : SF/001"
+      },
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 116,
+          "text": "BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                     FORM No. : SF/001\n\n\n\n\n               FORMATION OF SITE SHE COMMITTEE\n\n Contract No\n\n Contractor Name\n\n Contract Title\n\n\n\n                             CIRCULAR\n\n  Committee\n\n     The following SHE Committee is constituted with immediate effect:\n\n         Chairman:\n\n        Members:\n\n                    1)\n\n                    2)\n\n                    3)\n\n                    4)\n\n                    5)\n\n          Secretary:\n\n\n  Periodicity\n\n    The committee will meet at least once in a month on the day (specify date)\n\n\n  Agenda\n\n     Secretary will circulate agenda of the meeting at least two days in advance of the schedule\n     date of the meeting.\n\n  Circulation\n\n  Gist of the meeting will be minuted in the standard format and circulated to the\n  following under the signature of the secretary\n\n           1. Chairman                    3. BMRC Representatives\n\n           2. Members                     4. Others concerned\n\n\n\n\n  Date:                                            Signed By:      --------------------------\n\n                                             CHAIRMAN"
+        }
+      ],
+      "retained_lines": [
+        {
+          "pdf_page": 116,
+          "source_line_number": 3,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 4,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 5,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 6,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 7,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 8,
+          "text": "                  BANGALORE METRO RAIL CORPORATION LTD."
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 9,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 10,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 11,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 12,
+          "text": "                     FORM No. : SF/001"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 13,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 14,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 15,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 16,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 17,
+          "text": "               FORMATION OF SITE SHE COMMITTEE"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 18,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 19,
+          "text": " Contract No"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 20,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 21,
+          "text": " Contractor Name"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 22,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 23,
+          "text": " Contract Title"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 24,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 25,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 26,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 27,
+          "text": "                             CIRCULAR"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 28,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 29,
+          "text": "  Committee"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 30,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 31,
+          "text": "     The following SHE Committee is constituted with immediate effect:"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 32,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 33,
+          "text": "         Chairman:"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 34,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 35,
+          "text": "        Members:"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 36,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 37,
+          "text": "                    1)"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 38,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 39,
+          "text": "                    2)"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 40,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 41,
+          "text": "                    3)"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 42,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 43,
+          "text": "                    4)"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 44,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 45,
+          "text": "                    5)"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 46,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 47,
+          "text": "          Secretary:"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 48,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 49,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 50,
+          "text": "  Periodicity"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 51,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 52,
+          "text": "    The committee will meet at least once in a month on the day (specify date)"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 53,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 54,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 55,
+          "text": "  Agenda"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 56,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 57,
+          "text": "     Secretary will circulate agenda of the meeting at least two days in advance of the schedule"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 58,
+          "text": "     date of the meeting."
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 59,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 60,
+          "text": "  Circulation"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 61,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 62,
+          "text": "  Gist of the meeting will be minuted in the standard format and circulated to the"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 63,
+          "text": "  following under the signature of the secretary"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 64,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 65,
+          "text": "           1. Chairman                    3. BMRC Representatives"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 66,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 67,
+          "text": "           2. Members                     4. Others concerned"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 68,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 69,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 70,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 71,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 72,
+          "text": "  Date:                                            Signed By:      --------------------------"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 73,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 74,
+          "text": "                                             CHAIRMAN"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 75,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 76,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 77,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 78,
+          "text": ""
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 79,
+          "text": ""
+        }
+      ],
+      "removed_lines": [
+        {
+          "pdf_page": 116,
+          "source_line_number": 1,
+          "text": "300",
+          "reason": "printed_booklet_page_number"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 2,
+          "text": "                                                                 Safety Health & Environment (SHE) Manual",
+          "reason": "manual_page_header"
+        },
+        {
+          "pdf_page": 116,
+          "source_line_number": 80,
+          "text": "Bangalore Metro Rail Corporation Ltd.              September 2026     Section Page 112 of 114",
+          "reason": "combined_page_footer"
+        }
+      ],
+      "source_page_context": [
+        {
+          "pdf_page": 116,
+          "rotation": 0,
+          "page_rect": [
+            0.0,
+            0.0,
+            595.219970703125,
+            842.0
+          ],
+          "extraction_method": "geometric_sort",
+          "text": "300\n                                                                 Safety Health & Environment (SHE) Manual\n\n\n\n\n\n                  BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                     FORM No. : SF/001\n\n\n\n\n               FORMATION OF SITE SHE COMMITTEE\n\n Contract No\n\n Contractor Name\n\n Contract Title\n\n\n\n                             CIRCULAR\n\n  Committee\n\n     The following SHE Committee is constituted with immediate effect:\n\n         Chairman:\n\n        Members:\n\n                    1)\n\n                    2)\n\n                    3)\n\n                    4)\n\n                    5)\n\n          Secretary:\n\n\n  Periodicity\n\n    The committee will meet at least once in a month on the day (specify date)\n\n\n  Agenda\n\n     Secretary will circulate agenda of the meeting at least two days in advance of the schedule\n     date of the meeting.\n\n  Circulation\n\n  Gist of the meeting will be minuted in the standard format and circulated to the\n  following under the signature of the secretary\n\n           1. Chairman                    3. BMRC Representatives\n\n           2. Members                     4. Others concerned\n\n\n\n\n  Date:                                            Signed By:      --------------------------\n\n                                             CHAIRMAN\n\n\n\n\n\nBangalore Metro Rail Corporation Ltd.              September 2026     Section Page 112 of 114",
+          "text_blocks": [
+            {
+              "block_number": 0,
+              "bbox": [
+                36.59998321533203,
+                37.608280181884766,
+                550.6591796875,
+                46.05027770996094
+              ],
+              "text": "                                                                                                                                   Safety Health & Environment (SHE) Manual \n"
+            },
+            {
+              "block_number": 1,
+              "bbox": [
+                71.99996948242188,
+                48.41946029663086,
+                74.76715087890625,
+                57.77189636230469
+              ],
+              "text": " \n"
+            },
+            {
+              "block_number": 2,
+              "bbox": [
+                71.99996948242188,
+                781.9227294921875,
+                503.2270812988281,
+                803.451416015625
+              ],
+              "text": "Bangalore Metro Rail Corporation Ltd.                              September 2026         Section Page 112 of 114 \n \n"
+            },
+            {
+              "block_number": 3,
+              "bbox": [
+                100.5599594116211,
+                77.46939849853516,
+                103.32714080810547,
+                86.81187438964844
+              ],
+              "text": " \n"
+            },
+            {
+              "block_number": 4,
+              "bbox": [
+                200.3999786376953,
+                88.3893814086914,
+                435.4872741699219,
+                97.73185729980469
+              ],
+              "text": "BANGALORE METRO RAIL CORPORATION LTD. \n"
+            },
+            {
+              "block_number": 5,
+              "bbox": [
+                238.79989624023438,
+                127.80321502685547,
+                340.2672119140625,
+                138.1587371826172
+              ],
+              "text": "FORM No. : SF/001 \n"
+            },
+            {
+              "block_number": 6,
+              "bbox": [
+                71.99996948242188,
+                157.1494598388672,
+                74.76715087890625,
+                166.49192810058594
+              ],
+              "text": " \n"
+            },
+            {
+              "block_number": 7,
+              "bbox": [
+                184.31993103027344,
+                175.20318603515625,
+                394.6271667480469,
+                185.55870056152344
+              ],
+              "text": "FORMATION OF SITE SHE COMMITTEE \n"
+            },
+            {
+              "block_number": 8,
+              "bbox": [
+                77.39997100830078,
+                194.34934997558594,
+                174.0071563720703,
+                203.8118133544922
+              ],
+              "text": "Contract No \n \n"
+            },
+            {
+              "block_number": 9,
+              "bbox": [
+                77.39997100830078,
+                212.34934997558594,
+                174.00711059570312,
+                221.8118133544922
+              ],
+              "text": "Contractor Name \n \n"
+            },
+            {
+              "block_number": 10,
+              "bbox": [
+                77.39997100830078,
+                230.34934997558594,
+                174.0071563720703,
+                239.8118133544922
+              ],
+              "text": "Contract Title \n \n"
+            },
+            {
+              "block_number": 11,
+              "bbox": [
+                288.7198791503906,
+                248.45938110351562,
+                291.487060546875,
+                257.81182861328125
+              ],
+              "text": " \n"
+            },
+            {
+              "block_number": 12,
+              "bbox": [
+                82.19996643066406,
+                266.3493347167969,
+                316.8071594238281,
+                290.21185302734375
+              ],
+              "text": "CIRCULAR \n Committee \n"
+            },
+            {
+              "block_number": 13,
+              "bbox": [
+                99.23995971679688,
+                295.4994201660156,
+                396.007568359375,
+                304.85186767578125
+              ],
+              "text": "The following SHE Committee is constituted with immediate effect: \n"
+            },
+            {
+              "block_number": 14,
+              "bbox": [
+                118.20028686523438,
+                309.8994445800781,
+                167.0474395751953,
+                333.7718505859375
+              ],
+              "text": "Chairman: \nMembers: \n"
+            },
+            {
+              "block_number": 15,
+              "bbox": [
+                118.20028686523438,
+                338.93939208984375,
+                188.1691131591797,
+                420.7717590332031
+              ],
+              "text": "1) \n \n2) \n \n3) \n \n4) \n \n5) \n \nSecretary: \n"
+            },
+            {
+              "block_number": 16,
+              "bbox": [
+                406.2001953125,
+                425.8292541503906,
+                408.9673767089844,
+                435.1717529296875
+              ],
+              "text": " \n"
+            },
+            {
+              "block_number": 17,
+              "bbox": [
+                82.19996643066406,
+                443.8292541503906,
+                136.08714294433594,
+                453.1717529296875
+              ],
+              "text": "Periodicity \n"
+            },
+            {
+              "block_number": 18,
+              "bbox": [
+                94.79996490478516,
+                458.4593200683594,
+                429.369140625,
+                467.811767578125
+              ],
+              "text": "The committee will meet at least once in a month on the day (specify date)  \n"
+            },
+            {
+              "block_number": 19,
+              "bbox": [
+                82.19996643066406,
+                485.5892639160156,
+                121.6871566772461,
+                494.9317626953125
+              ],
+              "text": "Agenda \n"
+            },
+            {
+              "block_number": 20,
+              "bbox": [
+                94.79996490478516,
+                500.2193298339844,
+                498.2474060058594,
+                521.0917358398438
+              ],
+              "text": "Secretary will circulate agenda of the meeting at least two days in advance of the schedule \ndate of the meeting. \n"
+            },
+            {
+              "block_number": 21,
+              "bbox": [
+                80.99996948242188,
+                531.0692749023438,
+                501.36761474609375,
+                566.4517211914062
+              ],
+              "text": "Circulation \nGist of the meeting will be minuted in the standard format and circulated to the \nfollowing under the signature of the secretary  \n"
+            },
+            {
+              "block_number": 22,
+              "bbox": [
+                118.19999694824219,
+                571.6192626953125,
+                408.96710205078125,
+                609.8916625976562
+              ],
+              "text": "1. Chairman \n \n \n3. BMRC Representatives \n2. Members \n \n \n4. Others concerned \n \n"
+            },
+            {
+              "block_number": 23,
+              "bbox": [
+                82.19996643066406,
+                622.3792114257812,
+                490.8202819824219,
+                646.251708984375
+              ],
+              "text": " \nDate: \n \n \n \n \n Signed By: \n-------------------------- \n"
+            },
+            {
+              "block_number": 24,
+              "bbox": [
+                401.39984130859375,
+                654.471923828125,
+                463.1470947265625,
+                664.8385009765625
+              ],
+              "text": "CHAIRMAN \n"
+            },
+            {
+              "block_number": 25,
+              "bbox": [
+                71.99996948242188,
+                693.17919921875,
+                74.76715087890625,
+                745.9716796875
+              ],
+              "text": " \n \n \n \n"
+            },
+            {
+              "block_number": 26,
+              "bbox": [
+                546.0439453125,
+                24.479991912841797,
+                570.0199584960938,
+                41.38799285888672
+              ],
+              "text": "300\n"
+            }
+          ],
+          "has_extracted_text": true,
+          "review_status": "pending_manual_review"
+        }
+      ],
+      "field_reconstruction_status": "not_performed",
+      "table_reconstruction_status": "not_performed",
+      "checks": {
+        "source_hash": "passed",
+        "page_sequence": "passed",
+        "form_identifier": "passed",
+        "line_preservation_with_removal_logs": "passed"
+      }
+    },
+    {
+      "form_id": "SF/002",
+      "title": "Minutes of SHE Committee Meeting",
+      "document_role": "form_template",
+      "pdf_pages": [
+        117,
+        118
+      ],
+      "source_heading": {
+        "form_id": "SF/002",
+        "pdf_page": 117,
+        "source_text": "                            FORM No. : SF/002"
+      },
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 117,
+          "text": "BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                            FORM No. : SF/002\n\n\n\n                        MINUTES OF SHE COMMITTEE MEETING\n\n           Contract No.\n\n           Contractor Name\n\n           Contract Title\n\n          Meeting No.                               Date of Meeting\n\n           Location of Meeting\n\n\n          MEMBERS PRESENT              INVITEES           MEMBERS ABSENT\n\n\n\n\n\n        REPORT SENT TO\n\n           No. of     Name / Dept.     No. of      Name / Dept.      No. of      Name / Dept.\n           Copies                     Copies                        Copies\n\n\n\n\n\n          Prepared by:                             Location:                       Date:"
+        },
+        {
+          "pdf_page": 118,
+          "text": "MINUTES OF SHE MEETING\n\n\n   Item\n             Description of Discussion       Action By     Target     Remarks\n   No.\n\n\n           Complaints received from Clients and\n    1\n            corrective and preventive action\n\n\n    2     Review of MOM of previous meeting\n\n\n    3     NCR's / Observation from third party\n\n\n              First - Aid cases / Reportable accident\n    4\n          cases\n\n\n    5      Future jobs and specific requirement\n\n\n           Status of implementation of Safety\n    6\n           plan\n\n\n    7      Sub-contractor performance\n\n\n\n    8      Analysis of first-aid cases\n\n\n         Need for any specific system / training\n    9\n                   / PPE's / resources\n\n\n           Observation of SHE committee during\n   10\n              last walk down\n\n\n\n\n\nNext SHE Meeting is scheduled on:\n\n\n\n Date:                                                             Chief SHE Manager\n\n                                                                    (Signature & Name)\n\n\n\n\n Date:                                                                Project Manager\n\n                                                                    (Signature & Name)"
+        }
+      ],
+      "retained_lines": [
+        {
+          "pdf_page": 117,
+          "source_line_number": 3,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 4,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 5,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 6,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 7,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 8,
+          "text": "                          BANGALORE METRO RAIL CORPORATION LTD."
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 9,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 10,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 11,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 12,
+          "text": "                            FORM No. : SF/002"
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 13,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 14,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 15,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 16,
+          "text": "                        MINUTES OF SHE COMMITTEE MEETING"
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 17,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 18,
+          "text": "           Contract No."
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 19,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 20,
+          "text": "           Contractor Name"
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 21,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 22,
+          "text": "           Contract Title"
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 23,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 24,
+          "text": "          Meeting No.                               Date of Meeting"
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 25,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 26,
+          "text": "           Location of Meeting"
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 27,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 28,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 29,
+          "text": "          MEMBERS PRESENT              INVITEES           MEMBERS ABSENT"
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 30,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 31,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 32,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 33,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 34,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 35,
+          "text": "        REPORT SENT TO"
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 36,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 37,
+          "text": "           No. of     Name / Dept.     No. of      Name / Dept.      No. of      Name / Dept."
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 38,
+          "text": "           Copies                     Copies                        Copies"
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 39,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 40,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 41,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 42,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 43,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 44,
+          "text": "          Prepared by:                             Location:                       Date:"
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 45,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 46,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 47,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 48,
+          "text": ""
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 49,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 3,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 4,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 5,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 6,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 7,
+          "text": " MINUTES OF SHE MEETING"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 8,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 9,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 10,
+          "text": "   Item"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 11,
+          "text": "             Description of Discussion       Action By     Target     Remarks"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 12,
+          "text": "   No."
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 13,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 14,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 15,
+          "text": "           Complaints received from Clients and"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 16,
+          "text": "    1"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 17,
+          "text": "            corrective and preventive action"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 18,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 19,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 20,
+          "text": "    2     Review of MOM of previous meeting"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 21,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 22,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 23,
+          "text": "    3     NCR's / Observation from third party"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 24,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 25,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 26,
+          "text": "              First - Aid cases / Reportable accident"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 27,
+          "text": "    4"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 28,
+          "text": "          cases"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 29,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 30,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 31,
+          "text": "    5      Future jobs and specific requirement"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 32,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 33,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 34,
+          "text": "           Status of implementation of Safety"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 35,
+          "text": "    6"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 36,
+          "text": "           plan"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 37,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 38,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 39,
+          "text": "    7      Sub-contractor performance"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 40,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 41,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 42,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 43,
+          "text": "    8      Analysis of first-aid cases"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 44,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 45,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 46,
+          "text": "         Need for any specific system / training"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 47,
+          "text": "    9"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 48,
+          "text": "                   / PPE's / resources"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 49,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 50,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 51,
+          "text": "           Observation of SHE committee during"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 52,
+          "text": "   10"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 53,
+          "text": "              last walk down"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 54,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 55,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 56,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 57,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 58,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 59,
+          "text": "Next SHE Meeting is scheduled on:"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 60,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 61,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 62,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 63,
+          "text": " Date:                                                             Chief SHE Manager"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 64,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 65,
+          "text": "                                                                    (Signature & Name)"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 66,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 67,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 68,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 69,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 70,
+          "text": " Date:                                                                Project Manager"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 71,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 72,
+          "text": "                                                                    (Signature & Name)"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 73,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 74,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 75,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 76,
+          "text": ""
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 77,
+          "text": ""
+        }
+      ],
+      "removed_lines": [
+        {
+          "pdf_page": 117,
+          "source_line_number": 1,
+          "text": "301",
+          "reason": "printed_booklet_page_number"
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 2,
+          "text": "                                                                            Safety Health & Environment (SHE) Manual",
+          "reason": "manual_page_header"
+        },
+        {
+          "pdf_page": 117,
+          "source_line_number": 50,
+          "text": "          Bangalore Metro Rail Corporation Ltd.              September 2026     Section Page 113 of 114",
+          "reason": "combined_page_footer"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 1,
+          "text": "302",
+          "reason": "printed_booklet_page_number"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 2,
+          "text": "                                                                 Safety Health & Environment (SHE) Manual",
+          "reason": "manual_page_header"
+        },
+        {
+          "pdf_page": 118,
+          "source_line_number": 78,
+          "text": "Bangalore Metro Rail Corporation Ltd.              September 2026     Section Page 114 of 114",
+          "reason": "combined_page_footer"
+        }
+      ],
+      "source_page_context": [
+        {
+          "pdf_page": 117,
+          "rotation": 0,
+          "page_rect": [
+            0.0,
+            0.0,
+            595.219970703125,
+            842.0
+          ],
+          "extraction_method": "geometric_sort",
+          "text": "301\n                                                                            Safety Health & Environment (SHE) Manual\n\n\n\n\n\n                          BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                            FORM No. : SF/002\n\n\n\n                        MINUTES OF SHE COMMITTEE MEETING\n\n           Contract No.\n\n           Contractor Name\n\n           Contract Title\n\n          Meeting No.                               Date of Meeting\n\n           Location of Meeting\n\n\n          MEMBERS PRESENT              INVITEES           MEMBERS ABSENT\n\n\n\n\n\n        REPORT SENT TO\n\n           No. of     Name / Dept.     No. of      Name / Dept.      No. of      Name / Dept.\n           Copies                     Copies                        Copies\n\n\n\n\n\n          Prepared by:                             Location:                       Date:\n\n\n\n\n\n          Bangalore Metro Rail Corporation Ltd.              September 2026     Section Page 113 of 114",
+          "text_blocks": [
+            {
+              "block_number": 0,
+              "bbox": [
+                54.5999755859375,
+                37.608280181884766,
+                568.6592407226562,
+                46.05027770996094
+              ],
+              "text": "                                                                                                                                   Safety Health & Environment (SHE) Manual \n"
+            },
+            {
+              "block_number": 1,
+              "bbox": [
+                89.99996185302734,
+                48.41946029663086,
+                92.76714324951172,
+                57.77189636230469
+              ],
+              "text": " \n"
+            },
+            {
+              "block_number": 2,
+              "bbox": [
+                89.99996185302734,
+                781.9227294921875,
+                521.2269897460938,
+                803.451416015625
+              ],
+              "text": "Bangalore Metro Rail Corporation Ltd.                              September 2026         Section Page 113 of 114 \n \n"
+            },
+            {
+              "block_number": 3,
+              "bbox": [
+                119.63994598388672,
+                77.46939849853516,
+                122.4071273803711,
+                86.81187438964844
+              ],
+              "text": " \n"
+            },
+            {
+              "block_number": 4,
+              "bbox": [
+                228.48004150390625,
+                88.3893814086914,
+                463.5673522949219,
+                97.73185729980469
+              ],
+              "text": "BANGALORE METRO RAIL CORPORATION LTD. \n"
+            },
+            {
+              "block_number": 5,
+              "bbox": [
+                265.79986572265625,
+                127.80321502685547,
+                367.2671813964844,
+                138.1587371826172
+              ],
+              "text": "FORM No. : SF/002 \n"
+            },
+            {
+              "block_number": 6,
+              "bbox": [
+                89.99996185302734,
+                154.25949096679688,
+                92.76714324951172,
+                163.61192321777344
+              ],
+              "text": " \n"
+            },
+            {
+              "block_number": 7,
+              "bbox": [
+                207.11990356445312,
+                168.003173828125,
+                425.9471740722656,
+                178.3586883544922
+              ],
+              "text": "MINUTES OF SHE COMMITTEE MEETING \n"
+            },
+            {
+              "block_number": 8,
+              "bbox": [
+                95.39996337890625,
+                185.8293914794922,
+                211.56741333007812,
+                195.29185485839844
+              ],
+              "text": "Contract No. \n \n"
+            },
+            {
+              "block_number": 9,
+              "bbox": [
+                95.39996337890625,
+                203.8293914794922,
+                211.56741333007812,
+                213.29185485839844
+              ],
+              "text": "Contractor Name  \n \n"
+            },
+            {
+              "block_number": 10,
+              "bbox": [
+                95.39996337890625,
+                221.8293914794922,
+                211.56741333007812,
+                231.29185485839844
+              ],
+              "text": "Contract Title \n \n"
+            },
+            {
+              "block_number": 11,
+              "bbox": [
+                95.39996337890625,
+                239.8293914794922,
+                409.5672607421875,
+                249.29185485839844
+              ],
+              "text": "Meeting No. \n \nDate of Meeting \n \n"
+            },
+            {
+              "block_number": 12,
+              "bbox": [
+                95.39996337890625,
+                257.8293762207031,
+                211.56741333007812,
+                267.2918701171875
+              ],
+              "text": "Location of Meeting \n \n"
+            },
+            {
+              "block_number": 13,
+              "bbox": [
+                89.99996185302734,
+                272.9394226074219,
+                92.76714324951172,
+                282.2918701171875
+              ],
+              "text": " \n"
+            },
+            {
+              "block_number": 14,
+              "bbox": [
+                113.63993072509766,
+                287.8293762207031,
+                518.2906494140625,
+                297.171875
+              ],
+              "text": "MEMBERS PRESENT  \nINVITEES \nMEMBERS ABSENT \n"
+            },
+            {
+              "block_number": 15,
+              "bbox": [
+                95.39996337890625,
+                305.9394226074219,
+                404.17034912109375,
+                315.2918701171875
+              ],
+              "text": " \n \n \n"
+            },
+            {
+              "block_number": 16,
+              "bbox": [
+                89.99996185302734,
+                420.0593566894531,
+                92.76714324951172,
+                429.41180419921875
+              ],
+              "text": " \n"
+            },
+            {
+              "block_number": 17,
+              "bbox": [
+                95.39996337890625,
+                434.94927978515625,
+                186.0071258544922,
+                444.2917785644531
+              ],
+              "text": "REPORT SENT TO \n"
+            },
+            {
+              "block_number": 18,
+              "bbox": [
+                95.39996337890625,
+                453.059326171875,
+                129.2471466064453,
+                473.9317626953125
+              ],
+              "text": "No. of \nCopies \n"
+            },
+            {
+              "block_number": 19,
+              "bbox": [
+                152.760009765625,
+                453.059326171875,
+                268.68719482421875,
+                476.9317626953125
+              ],
+              "text": "Name / Dept. \nNo. of  \nCopies \n"
+            },
+            {
+              "block_number": 20,
+              "bbox": [
+                298.9200439453125,
+                453.059326171875,
+                421.687255859375,
+                476.9317626953125
+              ],
+              "text": "Name / Dept. \nNo. of  \nCopies \n"
+            },
+            {
+              "block_number": 21,
+              "bbox": [
+                454.2000732421875,
+                453.059326171875,
+                515.8872680664062,
+                462.4117736816406
+              ],
+              "text": "Name / Dept. \n"
+            },
+            {
+              "block_number": 22,
+              "bbox": [
+                95.39996337890625,
+                485.5793151855469,
+                435.61553955078125,
+                494.9317626953125
+              ],
+              "text": " \n \n \n \n \n \n"
+            },
+            {
+              "block_number": 23,
+              "bbox": [
+                95.39996337890625,
+                671.459228515625,
+                462.84796142578125,
+                695.211669921875
+              ],
+              "text": " \nPrepared by:                                               Location:                                       Date: \n"
+            },
+            {
+              "block_number": 24,
+              "bbox": [
+                89.99996185302734,
+                723.6591796875,
+                92.76714324951172,
+                733.0116577148438
+              ],
+              "text": " \n"
+            },
+            {
+              "block_number": 25,
+              "bbox": [
+                39.599998474121094,
+                24.479991912841797,
+                63.57600021362305,
+                41.38799285888672
+              ],
+              "text": "301\n"
+            }
+          ],
+          "has_extracted_text": true,
+          "review_status": "pending_manual_review"
+        },
+        {
+          "pdf_page": 118,
+          "rotation": 0,
+          "page_rect": [
+            0.0,
+            0.0,
+            595.219970703125,
+            842.0
+          ],
+          "extraction_method": "geometric_sort",
+          "text": "302\n                                                                 Safety Health & Environment (SHE) Manual\n\n\n\n\n MINUTES OF SHE MEETING\n\n\n   Item\n             Description of Discussion       Action By     Target     Remarks\n   No.\n\n\n           Complaints received from Clients and\n    1\n            corrective and preventive action\n\n\n    2     Review of MOM of previous meeting\n\n\n    3     NCR's / Observation from third party\n\n\n              First - Aid cases / Reportable accident\n    4\n          cases\n\n\n    5      Future jobs and specific requirement\n\n\n           Status of implementation of Safety\n    6\n           plan\n\n\n    7      Sub-contractor performance\n\n\n\n    8      Analysis of first-aid cases\n\n\n         Need for any specific system / training\n    9\n                   / PPE's / resources\n\n\n           Observation of SHE committee during\n   10\n              last walk down\n\n\n\n\n\nNext SHE Meeting is scheduled on:\n\n\n\n Date:                                                             Chief SHE Manager\n\n                                                                    (Signature & Name)\n\n\n\n\n Date:                                                                Project Manager\n\n                                                                    (Signature & Name)\n\n\n\n\n\nBangalore Metro Rail Corporation Ltd.              September 2026     Section Page 114 of 114",
+          "text_blocks": [
+            {
+              "block_number": 0,
+              "bbox": [
+                36.59998321533203,
+                37.608280181884766,
+                550.6591796875,
+                46.05027770996094
+              ],
+              "text": "                                                                                                                                   Safety Health & Environment (SHE) Manual \n"
+            },
+            {
+              "block_number": 1,
+              "bbox": [
+                71.99996948242188,
+                48.41946029663086,
+                74.76715087890625,
+                57.77189636230469
+              ],
+              "text": " \n"
+            },
+            {
+              "block_number": 2,
+              "bbox": [
+                71.99996948242188,
+                781.9227294921875,
+                503.2270812988281,
+                803.451416015625
+              ],
+              "text": "Bangalore Metro Rail Corporation Ltd.                              September 2026         Section Page 114 of 114 \n \n"
+            },
+            {
+              "block_number": 3,
+              "bbox": [
+                77.39997100830078,
+                83.7094497680664,
+                213.48712158203125,
+                93.05192565917969
+              ],
+              "text": "MINUTES OF SHE MEETING \n"
+            },
+            {
+              "block_number": 4,
+              "bbox": [
+                85.67996215820312,
+                108.4294204711914,
+                108.96715545654297,
+                117.77189636230469
+              ],
+              "text": "Item \n"
+            },
+            {
+              "block_number": 5,
+              "bbox": [
+                87.9599609375,
+                113.76317596435547,
+                491.77056884765625,
+                129.2919158935547
+              ],
+              "text": "No. \nDescription of Discussion \nAction By \nTarget \nRemarks \n"
+            },
+            {
+              "block_number": 6,
+              "bbox": [
+                93.23995971679688,
+                144.17947387695312,
+                294.2471923828125,
+                165.0519256591797
+              ],
+              "text": "1 \nComplaints received from Clients and \ncorrective and preventive action \n"
+            },
+            {
+              "block_number": 7,
+              "bbox": [
+                309.5997619628906,
+                138.65951538085938,
+                439.9302978515625,
+                148.01194763183594
+              ],
+              "text": " \n \n \n"
+            },
+            {
+              "block_number": 8,
+              "bbox": [
+                93.23995971679688,
+                179.21939086914062,
+                439.93048095703125,
+                195.41184997558594
+              ],
+              "text": "2 \nReview of MOM of previous meeting \n \n \n \n"
+            },
+            {
+              "block_number": 9,
+              "bbox": [
+                93.23995971679688,
+                210.77944946289062,
+                439.93048095703125,
+                226.7318572998047
+              ],
+              "text": "3 \nNCR's / Observation from third party \n \n \n \n"
+            },
+            {
+              "block_number": 10,
+              "bbox": [
+                93.23995971679688,
+                245.45938110351562,
+                297.12884521484375,
+                266.33184814453125
+              ],
+              "text": "4 \nFirst - Aid cases / Reportable accident \ncases \n"
+            },
+            {
+              "block_number": 11,
+              "bbox": [
+                309.5997619628906,
+                241.97940063476562,
+                439.9302978515625,
+                251.3318328857422
+              ],
+              "text": " \n \n \n"
+            },
+            {
+              "block_number": 12,
+              "bbox": [
+                93.23995971679688,
+                286.9794006347656,
+                289.9273986816406,
+                296.33184814453125
+              ],
+              "text": "5 \nFuture jobs and specific requirement \n"
+            },
+            {
+              "block_number": 13,
+              "bbox": [
+                309.5999450683594,
+                278.4593811035156,
+                439.93048095703125,
+                287.81182861328125
+              ],
+              "text": " \n \n \n"
+            },
+            {
+              "block_number": 14,
+              "bbox": [
+                93.23995971679688,
+                316.1393737792969,
+                280.32720947265625,
+                337.01177978515625
+              ],
+              "text": "6 \nStatus of implementation of Safety \nplan \n"
+            },
+            {
+              "block_number": 15,
+              "bbox": [
+                309.5997619628906,
+                313.4993591308594,
+                439.9302978515625,
+                322.851806640625
+              ],
+              "text": " \n \n \n"
+            },
+            {
+              "block_number": 16,
+              "bbox": [
+                93.23995971679688,
+                356.8193664550781,
+                252.60719299316406,
+                366.17181396484375
+              ],
+              "text": "7 \nSub-contractor performance \n"
+            },
+            {
+              "block_number": 17,
+              "bbox": [
+                309.5999450683594,
+                348.41937255859375,
+                439.93048095703125,
+                357.7718200683594
+              ],
+              "text": " \n \n \n"
+            },
+            {
+              "block_number": 18,
+              "bbox": [
+                93.23995971679688,
+                391.8593444824219,
+                240.96722412109375,
+                401.2117919921875
+              ],
+              "text": "8 \nAnalysis of first-aid cases \n"
+            },
+            {
+              "block_number": 19,
+              "bbox": [
+                309.5999450683594,
+                383.33935546875,
+                439.93048095703125,
+                392.6918029785156
+              ],
+              "text": " \n \n \n"
+            },
+            {
+              "block_number": 20,
+              "bbox": [
+                93.23995971679688,
+                421.01934814453125,
+                297.00732421875,
+                441.8917541503906
+              ],
+              "text": "9 \nNeed for any specific system / training \n/ PPE's / resources \n"
+            },
+            {
+              "block_number": 21,
+              "bbox": [
+                309.5997619628906,
+                418.25933837890625,
+                439.9302978515625,
+                427.6117858886719
+              ],
+              "text": " \n \n \n"
+            },
+            {
+              "block_number": 22,
+              "bbox": [
+                90.3599624633789,
+                455.9393005371094,
+                295.92718505859375,
+                476.8117370605469
+              ],
+              "text": "10 \nObservation of SHE committee during \nlast walk down \n"
+            },
+            {
+              "block_number": 23,
+              "bbox": [
+                309.5997009277344,
+                453.2992858886719,
+                439.93023681640625,
+                462.6517333984375
+              ],
+              "text": " \n \n \n"
+            },
+            {
+              "block_number": 24,
+              "bbox": [
+                95.99996185302734,
+                496.61932373046875,
+                128.16880798339844,
+                505.9717712402344
+              ],
+              "text": " \n \n"
+            },
+            {
+              "block_number": 25,
+              "bbox": [
+                309.59967041015625,
+                488.2193298339844,
+                439.9302062988281,
+                497.57177734375
+              ],
+              "text": " \n \n \n"
+            },
+            {
+              "block_number": 26,
+              "bbox": [
+                95.99996185302734,
+                531.6593017578125,
+                128.16880798339844,
+                541.0117797851562
+              ],
+              "text": " \n \n"
+            },
+            {
+              "block_number": 27,
+              "bbox": [
+                309.59967041015625,
+                523.1392822265625,
+                439.9302062988281,
+                532.4917602539062
+              ],
+              "text": " \n \n \n"
+            },
+            {
+              "block_number": 28,
+              "bbox": [
+                71.99996948242188,
+                555.0592651367188,
+                232.08724975585938,
+                587.4517211914062
+              ],
+              "text": " \nNext SHE Meeting is scheduled on: \n \n"
+            },
+            {
+              "block_number": 29,
+              "bbox": [
+                77.39997100830078,
+                592.9892578125,
+                500.28741455078125,
+                616.8516845703125
+              ],
+              "text": " \nDate:                                                                                                             Chief SHE Manager \n"
+            },
+            {
+              "block_number": 30,
+              "bbox": [
+                405.8398132324219,
+                622.0292358398438,
+                498.5545654296875,
+                631.3717041015625
+              ],
+              "text": "(Signature & Name)\n"
+            },
+            {
+              "block_number": 31,
+              "bbox": [
+                77.39997100830078,
+                654.42919921875,
+                497.04736328125,
+                678.2916870117188
+              ],
+              "text": " \nDate:                                                                                                                Project Manager  \n"
+            },
+            {
+              "block_number": 32,
+              "bbox": [
+                405.8399658203125,
+                683.46923828125,
+                498.5547180175781,
+                692.8117065429688
+              ],
+              "text": "(Signature & Name)\n"
+            },
+            {
+              "block_number": 33,
+              "bbox": [
+                71.99996948242188,
+                713.0991821289062,
+                382.4469909667969,
+                745.3716430664062
+              ],
+              "text": " \n \n \n \n"
+            },
+            {
+              "block_number": 34,
+              "bbox": [
+                546.0439453125,
+                24.479991912841797,
+                570.0199584960938,
+                41.38799285888672
+              ],
+              "text": "302\n"
+            }
+          ],
+          "has_extracted_text": true,
+          "review_status": "pending_manual_review"
+        }
+      ],
+      "field_reconstruction_status": "not_performed",
+      "table_reconstruction_status": "not_performed",
+      "checks": {
+        "source_hash": "passed",
+        "page_sequence": "passed",
+        "form_identifier": "passed",
+        "line_preservation_with_removal_logs": "passed"
+      }
+    }
+  ],
+  "limitations": [
+    "These are source templates, not completed records.",
+    "Printed statements do not establish that a committee was formed or a meeting occurred.",
+    "Blank fields and signature placeholders are retained within the source text.",
+    "Individual form fields have not been reconstructed.",
+    "SF/002 attendance, distribution and discussion table cells require layout review.",
+    "Page 118 remains part of SF/002.",
+    "The source labels this manual for reference only.",
+    "Contractual applicability has not been decided."
+  ]
+}

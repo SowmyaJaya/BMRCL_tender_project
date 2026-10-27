@@ -1,0 +1,843 @@
+{
+  "source_id": "bmrcl-volume-1",
+  "source_path": "data/Vol1DLNP1.pdf",
+  "source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+  "section": "D",
+  "form_id": "attachment_6",
+  "pdf_page": 46,
+  "title": "Summary of Information Provided in Attachment 5",
+  "document_role": "template",
+  "review_status": "pending_visual_review",
+  "extraction_method": "source_hash_bound_layout_profile",
+  "original_rotation": 90,
+  "coordinate_system": "Rotation-normalized page coordinates, in points",
+  "main_form_table": {
+    "bbox": [
+      35.964,
+      117.47,
+      802.697,
+      259.81
+    ],
+    "columns": [
+      {
+        "column_number": 1,
+        "field_id": "serial_number",
+        "source_header": "Sl\nNo",
+        "header_bbox": [
+          35.964,
+          117.47,
+          63.351,
+          206.28
+        ]
+      },
+      {
+        "column_number": 2,
+        "field_id": "work_name",
+        "source_header": "Name\nof the\nWork",
+        "header_bbox": [
+          63.351,
+          117.47,
+          103.551,
+          206.28
+        ]
+      },
+      {
+        "column_number": 3,
+        "field_id": "employer_or_client",
+        "source_header": "Name  of\nthe\nEmployer\n/client",
+        "header_bbox": [
+          103.551,
+          117.47,
+          162.11,
+          206.28
+        ]
+      },
+      {
+        "column_number": 4,
+        "field_id": "contractor_role",
+        "source_header": "Work  executed\nas   a   Prime\nContractor\n(single entity or\nMember  of  a\nJV)",
+        "header_bbox": [
+          162.11,
+          117.47,
+          249.95,
+          206.28
+        ]
+      },
+      {
+        "column_number": 5,
+        "field_id": "jv_participation_percentage",
+        "source_header": "Percentage  of\nParticipation\nin Case of JV/\nconsortium for\nthat work",
+        "header_bbox": [
+          249.95,
+          117.47,
+          333.11,
+          206.28
+        ]
+      },
+      {
+        "column_number": 6,
+        "field_id": "commencement_date",
+        "source_header": "Date     of\ncommence\nment     of\nwork",
+        "header_bbox": [
+          333.11,
+          117.47,
+          398.75,
+          206.28
+        ]
+      },
+      {
+        "column_number": 7,
+        "field_id": "original_completion_date",
+        "source_header": "Original\nDate      of\ncompletion\nof work",
+        "header_bbox": [
+          398.75,
+          117.47,
+          469.67,
+          206.28
+        ]
+      },
+      {
+        "column_number": 8,
+        "field_id": "final_completion_date",
+        "source_header": "Final date of\ncompletion\nof work",
+        "header_bbox": [
+          469.67,
+          117.47,
+          540.47,
+          206.28
+        ]
+      },
+      {
+        "column_number": 9,
+        "field_id": "awarded_contract_value",
+        "source_header": "Contract\nValue\n\n(at   the\ntime   of\naward)",
+        "header_bbox": [
+          540.47,
+          117.47,
+          597.23,
+          206.28
+        ]
+      },
+      {
+        "column_number": 10,
+        "field_id": "completed_contract_value_inr",
+        "source_header": "Complet\ned\ncontract\nvalue  in\nINR",
+        "header_bbox": [
+          597.23,
+          117.47,
+          653.87,
+          206.28
+        ]
+      },
+      {
+        "column_number": 11,
+        "field_id": "updated_completed_contract_value_inr",
+        "source_header": "Updated\nValue    of\ncompleted\n\ncontract  in\nEquivalent\nINR",
+        "header_bbox": [
+          653.87,
+          117.47,
+          724.55,
+          206.28
+        ]
+      },
+      {
+        "column_number": 12,
+        "field_id": "substantially_completed_contract_value_inr",
+        "source_header": "Value      of\nSubstantially\ncompleted\n\ncontract    in\nEquivalent\nINR",
+        "header_bbox": [
+          724.55,
+          117.47,
+          802.697,
+          206.28
+        ]
+      }
+    ],
+    "entry_rows": [
+      {
+        "template_row": 1,
+        "fields": [
+          {
+            "field_id": "serial_number",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              35.964,
+              206.28,
+              63.351,
+              224.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "work_name",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              63.351,
+              206.28,
+              103.551,
+              224.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "employer_or_client",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              103.551,
+              206.28,
+              162.11,
+              224.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "contractor_role",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              162.11,
+              206.28,
+              249.95,
+              224.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "jv_participation_percentage",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              249.95,
+              206.28,
+              333.11,
+              224.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "commencement_date",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              333.11,
+              206.28,
+              398.75,
+              224.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "original_completion_date",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              398.75,
+              206.28,
+              469.67,
+              224.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "final_completion_date",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              469.67,
+              206.28,
+              540.47,
+              224.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "awarded_contract_value",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              540.47,
+              206.28,
+              597.23,
+              224.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "completed_contract_value_inr",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              597.23,
+              206.28,
+              653.87,
+              224.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "updated_completed_contract_value_inr",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              653.87,
+              206.28,
+              724.55,
+              224.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "substantially_completed_contract_value_inr",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              724.55,
+              206.28,
+              802.697,
+              224.28
+            ],
+            "review_status": "pending_visual_review"
+          }
+        ]
+      },
+      {
+        "template_row": 2,
+        "fields": [
+          {
+            "field_id": "serial_number",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              35.964,
+              224.28,
+              63.351,
+              242.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "work_name",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              63.351,
+              224.28,
+              103.551,
+              242.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "employer_or_client",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              103.551,
+              224.28,
+              162.11,
+              242.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "contractor_role",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              162.11,
+              224.28,
+              249.95,
+              242.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "jv_participation_percentage",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              249.95,
+              224.28,
+              333.11,
+              242.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "commencement_date",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              333.11,
+              224.28,
+              398.75,
+              242.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "original_completion_date",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              398.75,
+              224.28,
+              469.67,
+              242.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "final_completion_date",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              469.67,
+              224.28,
+              540.47,
+              242.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "awarded_contract_value",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              540.47,
+              224.28,
+              597.23,
+              242.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "completed_contract_value_inr",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              597.23,
+              224.28,
+              653.87,
+              242.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "updated_completed_contract_value_inr",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              653.87,
+              224.28,
+              724.55,
+              242.28
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "substantially_completed_contract_value_inr",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              724.55,
+              224.28,
+              802.697,
+              242.28
+            ],
+            "review_status": "pending_visual_review"
+          }
+        ]
+      },
+      {
+        "template_row": 3,
+        "fields": [
+          {
+            "field_id": "serial_number",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              35.964,
+              242.28,
+              63.351,
+              259.81
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "work_name",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              63.351,
+              242.28,
+              103.551,
+              259.81
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "employer_or_client",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              103.551,
+              242.28,
+              162.11,
+              259.81
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "contractor_role",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              162.11,
+              242.28,
+              249.95,
+              259.81
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "jv_participation_percentage",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              249.95,
+              242.28,
+              333.11,
+              259.81
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "commencement_date",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              333.11,
+              242.28,
+              398.75,
+              259.81
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "original_completion_date",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              398.75,
+              242.28,
+              469.67,
+              259.81
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "final_completion_date",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              469.67,
+              242.28,
+              540.47,
+              259.81
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "awarded_contract_value",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              540.47,
+              242.28,
+              597.23,
+              259.81
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "completed_contract_value_inr",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              597.23,
+              242.28,
+              653.87,
+              259.81
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "updated_completed_contract_value_inr",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              653.87,
+              242.28,
+              724.55,
+              259.81
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "substantially_completed_contract_value_inr",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              724.55,
+              242.28,
+              802.697,
+              259.81
+            ],
+            "review_status": "pending_visual_review"
+          }
+        ]
+      }
+    ],
+    "table_region_token_check": "passed"
+  },
+  "financial_year_factors": {
+    "bbox": [
+      111.783,
+      327.827,
+      740.678,
+      363.853
+    ],
+    "source_labels": [
+      "Financial year",
+      "Indian Currency"
+    ],
+    "records": [
+      {
+        "financial_year": "2019-20",
+        "factor_text": "1.41",
+        "year_bbox": [
+          205.07,
+          327.827,
+          275.87,
+          345.84
+        ],
+        "factor_bbox": [
+          205.07,
+          345.84,
+          275.87,
+          363.853
+        ],
+        "review_status": "pending_visual_review"
+      },
+      {
+        "financial_year": "2020-21",
+        "factor_text": "1.34",
+        "year_bbox": [
+          275.87,
+          327.827,
+          342.71,
+          345.84
+        ],
+        "factor_bbox": [
+          275.87,
+          345.84,
+          342.71,
+          363.853
+        ],
+        "review_status": "pending_visual_review"
+      },
+      {
+        "financial_year": "2021-2022",
+        "factor_text": "1.28",
+        "year_bbox": [
+          342.71,
+          327.827,
+          414.23,
+          345.84
+        ],
+        "factor_bbox": [
+          342.71,
+          345.84,
+          414.23,
+          363.853
+        ],
+        "review_status": "pending_visual_review"
+      },
+      {
+        "financial_year": "2022-2023",
+        "factor_text": "1.22",
+        "year_bbox": [
+          414.23,
+          327.827,
+          485.99,
+          345.84
+        ],
+        "factor_bbox": [
+          414.23,
+          345.84,
+          485.99,
+          363.853
+        ],
+        "review_status": "pending_visual_review"
+      },
+      {
+        "financial_year": "2023-2024",
+        "factor_text": "1.16",
+        "year_bbox": [
+          485.99,
+          327.827,
+          547.31,
+          345.84
+        ],
+        "factor_bbox": [
+          485.99,
+          345.84,
+          547.31,
+          363.853
+        ],
+        "review_status": "pending_visual_review"
+      },
+      {
+        "financial_year": "2024-2025",
+        "factor_text": "1.10",
+        "year_bbox": [
+          547.31,
+          327.827,
+          614.15,
+          345.84
+        ],
+        "factor_bbox": [
+          547.31,
+          345.84,
+          614.15,
+          363.853
+        ],
+        "review_status": "pending_visual_review"
+      },
+      {
+        "financial_year": "2025-2026",
+        "factor_text": "1.05",
+        "year_bbox": [
+          614.15,
+          327.827,
+          677.39,
+          345.84
+        ],
+        "factor_bbox": [
+          614.15,
+          345.84,
+          677.39,
+          363.853
+        ],
+        "review_status": "pending_visual_review"
+      },
+      {
+        "financial_year": "2026-2027",
+        "factor_text": "1.00",
+        "year_bbox": [
+          677.39,
+          327.827,
+          740.678,
+          345.84
+        ],
+        "factor_bbox": [
+          677.39,
+          345.84,
+          740.678,
+          363.853
+        ],
+        "review_status": "pending_visual_review"
+      }
+    ],
+    "table_region_token_check": "passed"
+  },
+  "full_form_context": [
+    {
+      "pdf_page": 46,
+      "text": "ATTACHMENT -6 \nSummary of Information provided in ATTACHMENT -5 \n(To be submitted by tenderer) \nSl \nNo \nName \nof the \nWork \nName \nof \nthe \nEmployer \n/client \nWork executed \nas \na \nPrime \nContractor \n(single entity or \nMember \nof \na \nJV)  \nPercentage of \nParticipation \nin Case of JV/ \nconsortium for \nthat work \nDate \nof \ncommence\nment \nof  \nwork \nOriginal \nDate \nof \ncompletion \nof work \nFinal date of \ncompletion \nof work  \nContract \nValue \n(at \nthe \ntime \nof \naward)  \nComplet\ned \ncontract \nvalue  in \nINR \nUpdated \nValue \nof \ncompleted \ncontract in \nEquivalent \nINR  \nValue \nof \nSubstantially \ncompleted \ncontract \nin \nEquivalent \nINR \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nNotes: \n \n1. Value of completed Similar Nature Work(s) executed shall be updated to the price level of the financial year in which the tenders are invited as per table \ngiven below: \nFinancial year \n2019-20 \n2020-21 \n2021-2022 \n2022-2023 \n2023-2024 \n2024-2025 \n2025-2026 \n2026-2027 \nIndian Currency \n1.41 \n1.34 \n1.28 \n1.22 \n1.16 \n1.10 \n1.05 \n1.00 \n \n2. Value of completed/ substantially completed Similar Nature Work(s) in foreign currency shall be converted to Equivalent INR by adopting Exchange rate \nbetween the foreign currency and INR as prevailing on the date of completion / date given in the substantial completion certificate as applicable, as per the \nwebsite of Reserve Bank of India (RBI). \n \n3. In case the work of Similar Nature is executed by the Joint venture, the value of Similar Nature of work executed shall be considered as per percentage \nparticipation by the member(s) in that Joint venture/consortium. \n \n(Signature) …………………… \nName of signatory: ……………………………… \nCapacity of signatory: …………………………… \nName and address of Tenderer: ………………."
+    }
+  ],
+  "limitations": [
+    "Field IDs are application-defined labels.",
+    "Blank classification requires visual confirmation.",
+    "Null values must not be treated as zero.",
+    "Full form context retains notes and signature placeholders.",
+    "Notes have not yet been isolated into individual records.",
+    "No bidder information or calculations have been added."
+  ]
+}

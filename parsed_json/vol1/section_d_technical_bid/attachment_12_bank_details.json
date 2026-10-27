@@ -1,0 +1,239 @@
+{
+  "source_id": "bmrcl-volume-1",
+  "source_path": "data/Vol1DLNP1.pdf",
+  "source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+  "title": "Attachment 12 — Tender Security Bank Details",
+  "form_id": "attachment_12",
+  "pdf_page": 54,
+  "document_role": "table_within_guarantee_template",
+  "review_status": "pending_visual_review",
+  "extraction_method": "Table detection with direct PDF cell-text extraction",
+  "coordinate_system": "PyMuPDF unrotated page coordinates, in points",
+  "table_bbox": [
+    70.04999780654907,
+    669.2996215820312,
+    445.8299865722656,
+    764.9398193359375
+  ],
+  "source_headers": [
+    "Sl. No.",
+    "Particulars",
+    "Details"
+  ],
+  "details": [
+    {
+      "serial_source_text": "i",
+      "field_id": "beneficiary_name",
+      "particular_source_text": "Name of Beneficiary",
+      "value": "Bangalore Metro Rail Corporation Limited",
+      "value_type": "string",
+      "raw_cells": [
+        "i",
+        "Name of Beneficiary",
+        "Bangalore Metro Rail Corporation Limited"
+      ],
+      "cell_bboxes": [
+        [
+          70.04999780654907,
+          681.359619140625,
+          112.67999649047852,
+          693.359619140625
+        ],
+        [
+          112.67999649047852,
+          681.359619140625,
+          226.07999420166016,
+          693.359619140625
+        ],
+        [
+          226.07999420166016,
+          681.359619140625,
+          445.8299865722656,
+          693.359619140625
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_source_text": "ii",
+      "field_id": "bank_name",
+      "particular_source_text": "Name of Bank",
+      "value": "Bank of India",
+      "value_type": "string",
+      "raw_cells": [
+        "ii",
+        "Name of Bank",
+        "Bank of India"
+      ],
+      "cell_bboxes": [
+        [
+          70.04999780654907,
+          693.359619140625,
+          112.67999649047852,
+          705.359619140625
+        ],
+        [
+          112.67999649047852,
+          693.359619140625,
+          226.07999420166016,
+          705.359619140625
+        ],
+        [
+          226.07999420166016,
+          693.359619140625,
+          445.8299865722656,
+          705.359619140625
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_source_text": "iii",
+      "field_id": "branch_name",
+      "particular_source_text": "Branch",
+      "value": "Cantonment Branch, Bengaluru.",
+      "value_type": "string",
+      "raw_cells": [
+        "iii",
+        "Branch",
+        "Cantonment Branch, Bengaluru."
+      ],
+      "cell_bboxes": [
+        [
+          70.04999780654907,
+          705.359619140625,
+          112.67999649047852,
+          717.359619140625
+        ],
+        [
+          112.67999649047852,
+          705.359619140625,
+          226.07999420166016,
+          717.359619140625
+        ],
+        [
+          226.07999420166016,
+          705.359619140625,
+          445.8299865722656,
+          717.359619140625
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_source_text": "iv",
+      "field_id": "branch_address",
+      "particular_source_text": "Address of Branch",
+      "value": "49, Jyothi Mahal,\nSt. Mark’s Road, Bangalore - 560001",
+      "value_type": "string",
+      "raw_cells": [
+        "iv",
+        "Address of Branch",
+        "49, Jyothi Mahal,\nSt. Mark’s Road, Bangalore - 560001"
+      ],
+      "cell_bboxes": [
+        [
+          70.04999780654907,
+          717.359619140625,
+          112.67999649047852,
+          740.8798217773438
+        ],
+        [
+          112.67999649047852,
+          717.359619140625,
+          226.07999420166016,
+          740.8798217773438
+        ],
+        [
+          226.07999420166016,
+          717.359619140625,
+          445.8299865722656,
+          740.8798217773438
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_source_text": "v",
+      "field_id": "account_number",
+      "particular_source_text": "Account No.",
+      "value": "840420110000760",
+      "value_type": "string",
+      "raw_cells": [
+        "v",
+        "Account No.",
+        "840420110000760"
+      ],
+      "cell_bboxes": [
+        [
+          70.04999780654907,
+          740.8798217773438,
+          112.67999649047852,
+          752.8798217773438
+        ],
+        [
+          112.67999649047852,
+          740.8798217773438,
+          226.07999420166016,
+          752.8798217773438
+        ],
+        [
+          226.07999420166016,
+          740.8798217773438,
+          445.8299865722656,
+          752.8798217773438
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_source_text": "vi",
+      "field_id": "ifsc_code",
+      "particular_source_text": "IFSC Code:",
+      "value": "BKID0008404",
+      "value_type": "string",
+      "raw_cells": [
+        "vi",
+        "IFSC Code:",
+        "BKID0008404"
+      ],
+      "cell_bboxes": [
+        [
+          70.04999780654907,
+          752.8798217773438,
+          112.67999649047852,
+          764.9398193359375
+        ],
+        [
+          112.67999649047852,
+          752.8798217773438,
+          226.07999420166016,
+          764.9398193359375
+        ],
+        [
+          226.07999420166016,
+          752.8798217773438,
+          445.8299865722656,
+          764.9398193359375
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    }
+  ],
+  "table_region_token_check": "passed",
+  "form_context_reference": {
+    "file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+    "form_id": "attachment_12",
+    "pdf_pages": [
+      54,
+      55
+    ]
+  },
+  "limitations": [
+    "Field IDs are application-defined labels.",
+    "Original spelling, punctuation and spacing preserved.",
+    "No account number or IFSC value converted to a number.",
+    "Records are not merged across the two templates.",
+    "Later amendments and applicability have not been checked."
+  ]
+}

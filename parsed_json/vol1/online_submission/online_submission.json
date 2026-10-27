@@ -1,0 +1,345 @@
+{
+  "source_id": "bmrcl-volume-1",
+  "source_path": "data/Vol1DLNP1.pdf",
+  "source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+  "title": "Instructions for Online Bid Submission",
+  "pdf_page": 9,
+  "review_status": "pending_manual_review",
+  "introduction": [
+    {
+      "pdf_page": 9,
+      "text": "Instructions for Online Bid Submission                 003\n\n\n\n  (Department User may attach this Document as an Annexure in their Tender Document which\n              provides complete Instructions for on line Bid submission for Bidders)\n\n\n\nThe bidders are required to submit soft copies of their bids electronically on the CPP Portal, using\nvalid Digital Signature Certificates. The instructions given below are meant to assist the bidders in\nregistering on the CPP Portal, prepare their bids in accordance with the requirements and submitting\ntheir bids online on the CPP Portal.\n\nMore information useful for submitting online bids on the CPP Portal may be obtained  at:\nhttps://etenders.gov.in/eprocure/app ."
+    }
+  ],
+  "topics": [
+    {
+      "topic_id": "registration",
+      "title": "REGISTRATION",
+      "heading_line": "REGISTRATION",
+      "review_status": "pending_manual_review",
+      "lead_in": [],
+      "steps": [
+        {
+          "number": 1,
+          "review_status": "pending_manual_review",
+          "fragments": [
+            {
+              "pdf_page": 9,
+              "text": "1)  Bidders are required to enroll on the e-Procurement module of the Central Public\n        Procurement Portal (URL: https://etenders.gov.in/eprocure/app ) by clicking on the link\n        “Online bidder Enrollment” on the CPP Portal which is free of charge."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "review_status": "pending_manual_review",
+          "fragments": [
+            {
+              "pdf_page": 9,
+              "text": "2)  As part of the enrolment process, the bidders will be required to choose a unique username\n       and assign a password for their accounts."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "review_status": "pending_manual_review",
+          "fragments": [
+            {
+              "pdf_page": 9,
+              "text": "3)  Bidders are advised to register their valid email address and mobile numbers as part of the\n         registration process. These would be used for any communication from the CPP Portal."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "review_status": "pending_manual_review",
+          "fragments": [
+            {
+              "pdf_page": 9,
+              "text": "4) Upon enrolment, the bidders will be required to register their valid Digital Signature\n          Certificate (Class III Certificates with signing key usage) issued by any Certifying Authority\n        recognized by CCA India (e.g. Sify / nCode / eMudhra etc.), with their profile."
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "review_status": "pending_manual_review",
+          "fragments": [
+            {
+              "pdf_page": 9,
+              "text": "5)  Only one valid DSC should be registered by a bidder. Please note that the bidders are\n         responsible to ensure that they do not lend their DSC’s to others which may lead to misuse."
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "review_status": "pending_manual_review",
+          "fragments": [
+            {
+              "pdf_page": 9,
+              "text": "6)  Bidder then logs in to the site through the secured log-in by entering their user ID /\n        password and the password of the DSC / e-Token."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic_id": "searching_for_tender_documents",
+      "title": "SEARCHING FOR TENDER DOCUMENTS",
+      "heading_line": "SEARCHING FOR TENDER DOCUMENTS",
+      "review_status": "pending_manual_review",
+      "lead_in": [],
+      "steps": [
+        {
+          "number": 1,
+          "review_status": "pending_manual_review",
+          "fragments": [
+            {
+              "pdf_page": 9,
+              "text": "1)  There are various search options built in the CPP Portal, to facilitate bidders to search\n         active tenders by  several parameters. These parameters could  include Tender  ID,\n        Organization Name, Location, Date, Value, etc. There is also an option of advanced search\n         for tenders, wherein the bidders may combine a number of search parameters such as\n        Organization Name, Form of Contract, Location, Date, Other keywords etc. to search for a\n        tender published on the CPP Portal."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "review_status": "pending_manual_review",
+          "fragments": [
+            {
+              "pdf_page": 9,
+              "text": "2)  Once the bidders have selected the tenders they are interested in, they may download the\n        required documents / tender schedules. These tenders can be moved to the respective ‘My\n        Tenders’ folder. This would enable the CPP Portal to intimate the bidders through SMS / e-\n        mail in case there is any corrigendum issued to the tender document."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "review_status": "pending_manual_review",
+          "fragments": [
+            {
+              "pdf_page": 9,
+              "text": "3)  The bidder should make a note of the unique Tender ID assigned to each tender, in case\n        they want to obtain any clarification / help from the Helpdesk."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "original_page": {
+    "pdf_page": 9,
+    "rotation": 0,
+    "extraction_method": "geometric_sort",
+    "text": "Instructions for Online Bid Submission                 003\n\n\n\n  (Department User may attach this Document as an Annexure in their Tender Document which\n              provides complete Instructions for on line Bid submission for Bidders)\n\n\n\nThe bidders are required to submit soft copies of their bids electronically on the CPP Portal, using\nvalid Digital Signature Certificates. The instructions given below are meant to assist the bidders in\nregistering on the CPP Portal, prepare their bids in accordance with the requirements and submitting\ntheir bids online on the CPP Portal.\n\nMore information useful for submitting online bids on the CPP Portal may be obtained  at:\nhttps://etenders.gov.in/eprocure/app .\n\n\n\nREGISTRATION\n\n     1)  Bidders are required to enroll on the e-Procurement module of the Central Public\n        Procurement Portal (URL: https://etenders.gov.in/eprocure/app ) by clicking on the link\n        “Online bidder Enrollment” on the CPP Portal which is free of charge.\n\n     2)  As part of the enrolment process, the bidders will be required to choose a unique username\n       and assign a password for their accounts.\n\n     3)  Bidders are advised to register their valid email address and mobile numbers as part of the\n         registration process. These would be used for any communication from the CPP Portal.\n\n     4) Upon enrolment, the bidders will be required to register their valid Digital Signature\n          Certificate (Class III Certificates with signing key usage) issued by any Certifying Authority\n        recognized by CCA India (e.g. Sify / nCode / eMudhra etc.), with their profile.\n\n     5)  Only one valid DSC should be registered by a bidder. Please note that the bidders are\n         responsible to ensure that they do not lend their DSC’s to others which may lead to misuse.\n\n     6)  Bidder then logs in to the site through the secured log-in by entering their user ID /\n        password and the password of the DSC / e-Token.\n\n\n\nSEARCHING FOR TENDER DOCUMENTS\n\n     1)  There are various search options built in the CPP Portal, to facilitate bidders to search\n         active tenders by  several parameters. These parameters could  include Tender  ID,\n        Organization Name, Location, Date, Value, etc. There is also an option of advanced search\n         for tenders, wherein the bidders may combine a number of search parameters such as\n        Organization Name, Form of Contract, Location, Date, Other keywords etc. to search for a\n        tender published on the CPP Portal.\n\n     2)  Once the bidders have selected the tenders they are interested in, they may download the\n        required documents / tender schedules. These tenders can be moved to the respective ‘My\n        Tenders’ folder. This would enable the CPP Portal to intimate the bidders through SMS / e-\n        mail in case there is any corrigendum issued to the tender document.\n\n     3)  The bidder should make a note of the unique Tender ID assigned to each tender, in case\n        they want to obtain any clarification / help from the Helpdesk.",
+    "text_blocks": [
+      {
+        "block_number": 0,
+        "bbox": [
+          186.77000427246094,
+          28.949981689453125,
+          411.8430480957031,
+          42.9899787902832
+        ],
+        "text": "Instructions for Online Bid Submission \n"
+      },
+      {
+        "block_number": 1,
+        "bbox": [
+          297.6700134277344,
+          48.989959716796875,
+          300.8430480957031,
+          63.02995681762695
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 2,
+        "bbox": [
+          84.38400268554688,
+          71.29995727539062,
+          513.2329711914062,
+          82.33995819091797
+        ],
+        "text": "(Department User may attach this Document as an Annexure in their Tender Document which \n"
+      },
+      {
+        "block_number": 3,
+        "bbox": [
+          72.02400207519531,
+          85.22000122070312,
+          457.39501953125,
+          117.04998016357422
+        ],
+        "text": "provides complete Instructions for on line Bid submission for Bidders) \n \n"
+      },
+      {
+        "block_number": 4,
+        "bbox": [
+          72.02400207519531,
+          125.29995727539062,
+          525.83544921875,
+          178.33995056152344
+        ],
+        "text": "The bidders are required to submit soft copies of their bids electronically on the CPP Portal, using \nvalid Digital Signature Certificates. The instructions given below are meant to assist the bidders in \nregistering on the CPP Portal, prepare their bids in accordance with the requirements and submitting \ntheir bids online on the CPP Portal.  \n"
+      },
+      {
+        "block_number": 5,
+        "bbox": [
+          72.02400207519531,
+          187.22000122070312,
+          525.5691528320312,
+          212.2999725341797
+        ],
+        "text": "More information useful for submitting online bids on the CPP Portal may be obtained at: \nhttps://etenders.gov.in/eprocure/app . \n"
+      },
+      {
+        "block_number": 6,
+        "bbox": [
+          72.02400207519531,
+          221.29995727539062,
+          74.51904296875,
+          232.33995056152344
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 7,
+        "bbox": [
+          72.02400207519531,
+          241.24996948242188,
+          142.55503845214844,
+          252.2899627685547
+        ],
+        "text": "REGISTRATION \n"
+      },
+      {
+        "block_number": 8,
+        "bbox": [
+          94.58399963378906,
+          259.57879638671875,
+          525.8746337890625,
+          300.28997802734375
+        ],
+        "text": "1) Bidders are required to enroll on the e-Procurement module of the Central Public \nProcurement Portal (URL: https://etenders.gov.in/eprocure/app ) by clicking on the link \n“Online bidder Enrollment” on the CPP Portal which is free of charge. \n"
+      },
+      {
+        "block_number": 9,
+        "bbox": [
+          94.58399963378906,
+          307.57879638671875,
+          525.685791015625,
+          334.3699951171875
+        ],
+        "text": "2) As part of the enrolment process, the bidders will be required to choose a unique username \nand assign a password for their accounts.  \n"
+      },
+      {
+        "block_number": 10,
+        "bbox": [
+          94.58399963378906,
+          341.53875732421875,
+          525.8034057617188,
+          368.3299865722656
+        ],
+        "text": "3) Bidders are advised to register their valid email address and mobile numbers as part of the \nregistration process. These would be used for any communication from the CPP Portal.  \n"
+      },
+      {
+        "block_number": 11,
+        "bbox": [
+          94.58399963378906,
+          375.6187744140625,
+          525.7692260742188,
+          416.3500061035156
+        ],
+        "text": "4) Upon enrolment, the bidders will be required to register their valid Digital Signature \nCertificate (Class III Certificates with signing key usage) issued by any Certifying Authority \nrecognized by CCA India (e.g. Sify /  nCode / eMudhra etc.), with their profile. \n"
+      },
+      {
+        "block_number": 12,
+        "bbox": [
+          94.58399963378906,
+          423.6387634277344,
+          525.6304931640625,
+          450.30999755859375
+        ],
+        "text": "5) Only one valid DSC should be registered by a bidder. Please note that the bidders are \nresponsible to ensure that they do not lend their DSC’s to others which may lead to misuse. \n"
+      },
+      {
+        "block_number": 13,
+        "bbox": [
+          94.58399963378906,
+          457.5987854003906,
+          525.8341674804688,
+          484.3899841308594
+        ],
+        "text": "6) Bidder then logs in to the site through the secured log-in by entering their user ID / \npassword and the password of the DSC / e-Token. \n"
+      },
+      {
+        "block_number": 14,
+        "bbox": [
+          72.02400207519531,
+          493.2699890136719,
+          74.51904296875,
+          504.30999755859375
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 15,
+        "bbox": [
+          72.02400207519531,
+          513.3099365234375,
+          253.3450469970703,
+          524.3499755859375
+        ],
+        "text": "SEARCHING FOR TENDER DOCUMENTS  \n"
+      },
+      {
+        "block_number": 16,
+        "bbox": [
+          94.58399963378906,
+          531.6387939453125,
+          525.7802734375,
+          614.3800048828125
+        ],
+        "text": "1) There are various search options built in the CPP Portal, to facilitate bidders to search \nactive tenders by several parameters. These parameters could include Tender ID, \nOrganization Name, Location, Date, Value, etc. There is also an option of advanced search \nfor tenders, wherein the bidders may combine a number of search parameters such as \nOrganization Name, Form of Contract, Location, Date, Other keywords etc. to search for a \ntender published on the CPP Portal.  \n"
+      },
+      {
+        "block_number": 17,
+        "bbox": [
+          94.58399963378906,
+          621.6687622070312,
+          525.6415405273438,
+          676.4199829101562
+        ],
+        "text": "2) Once the bidders have selected the tenders they are interested in, they may download the \nrequired documents / tender schedules. These tenders can be moved to the respective ‘My \nTenders’ folder. This would enable the CPP Portal to intimate the bidders through SMS / e-\nmail in case there is any corrigendum issued to the tender document.  \n"
+      },
+      {
+        "block_number": 18,
+        "bbox": [
+          94.58399963378906,
+          683.5887451171875,
+          525.6193237304688,
+          710.4000244140625
+        ],
+        "text": "3) The bidder should make a note of the unique Tender ID assigned to each tender, in case \nthey want to obtain any clarification / help from the Helpdesk.  \n"
+      },
+      {
+        "block_number": 19,
+        "bbox": [
+          72.02400207519531,
+          719.3999633789062,
+          74.51904296875,
+          730.4400024414062
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 20,
+        "bbox": [
+          546.1439819335938,
+          24.479991912841797,
+          570.1199951171875,
+          41.38799285888672
+        ],
+        "text": "003\n"
+      }
+    ],
+    "has_extracted_text": true,
+    "review_status": "pending_manual_review"
+  },
+  "scope_note": "Only instructions present on supplied PDF page 9 are captured. No missing portal instructions have been invented or added."
+}

@@ -1,0 +1,265 @@
+{
+  "source_id": "bmrcl-volume-1",
+  "source_path": "data/Vol1DLNP1.pdf",
+  "source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+  "section": "E",
+  "gcc_subclause_id": "8.8",
+  "title": "Original GCC Suspension-Period Table",
+  "pdf_page": 107,
+  "review_status": "pending_manual_review",
+  "extraction_method": "Table detection with direct PDF cell-text extraction",
+  "coordinate_system": "PyMuPDF unrotated page coordinates, in points",
+  "table_bbox": [
+    205.15199584960936,
+    46.279642740885414,
+    541.2479858398438,
+    335.9196243286133
+  ],
+  "columns": [
+    {
+      "column_number": 1,
+      "field_id": "serial_number",
+      "source_header": "Sr.\nNo.",
+      "header_bbox": [
+        205.15199584960936,
+        46.279642740885414,
+        232.91999053955078,
+        92.879638671875
+      ]
+    },
+    {
+      "column_number": 2,
+      "field_id": "suspension_period",
+      "source_header": "Suspen\nsion\nPeriod",
+      "header_bbox": [
+        232.91999053955078,
+        46.279642740885414,
+        278.3999938964844,
+        92.879638671875
+      ]
+    },
+    {
+      "column_number": 3,
+      "field_id": "extension_of_time",
+      "source_header": "Exten\nsion of\n Time",
+      "header_bbox": [
+        278.3999938964844,
+        46.279642740885414,
+        318.9599914550781,
+        92.879638671875
+      ]
+    },
+    {
+      "column_number": 4,
+      "field_id": "compensation_for_suspension",
+      "source_header": "Compensation for the\n suspension period",
+      "header_bbox": [
+        318.9599914550781,
+        46.279642740885414,
+        463.1999969482422,
+        92.879638671875
+      ]
+    },
+    {
+      "column_number": 5,
+      "field_id": "remarks",
+      "source_header": "Remarks",
+      "header_bbox": [
+        463.1999969482422,
+        46.279642740885414,
+        541.2479858398438,
+        92.879638671875
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "serial_number": "1",
+      "suspension_period_source_text": "Up   to\n60 days",
+      "extension_of_time_source_text": "NO",
+      "compensation_source_text": "NO",
+      "remarks_source_text": "Engineer may\ngive extension\nof   time    in\nexceptional\ncircumstances",
+      "raw_cells": [
+        "1",
+        "Up   to\n60 days",
+        "NO",
+        "NO",
+        "Engineer may\ngive extension\nof   time    in\nexceptional\ncircumstances"
+      ],
+      "cell_bboxes": [
+        [
+          205.15199584960936,
+          92.879638671875,
+          232.91999053955078,
+          162.359619140625
+        ],
+        [
+          232.91999053955078,
+          92.879638671875,
+          278.3999938964844,
+          162.359619140625
+        ],
+        [
+          278.3999938964844,
+          92.879638671875,
+          318.9599914550781,
+          162.359619140625
+        ],
+        [
+          318.9599914550781,
+          92.879638671875,
+          463.1999969482422,
+          162.359619140625
+        ],
+        [
+          463.1999969482422,
+          92.879638671875,
+          541.2479858398438,
+          162.359619140625
+        ]
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "serial_number": "2",
+      "suspension_period_source_text": "60-90\ndays",
+      "extension_of_time_source_text": "YES",
+      "compensation_source_text": "NO",
+      "remarks_source_text": "Extension    of\ntime       as\nconsidered\nproper by the\nEngineer",
+      "raw_cells": [
+        "2",
+        "60-90\ndays",
+        "YES",
+        "NO",
+        "Extension    of\ntime       as\nconsidered\nproper by the\nEngineer"
+      ],
+      "cell_bboxes": [
+        [
+          205.15199584960936,
+          162.359619140625,
+          232.91999053955078,
+          220.31964111328125
+        ],
+        [
+          232.91999053955078,
+          162.359619140625,
+          278.3999938964844,
+          220.31964111328125
+        ],
+        [
+          278.3999938964844,
+          162.359619140625,
+          318.9599914550781,
+          220.31964111328125
+        ],
+        [
+          318.9599914550781,
+          162.359619140625,
+          463.1999969482422,
+          220.31964111328125
+        ],
+        [
+          463.1999969482422,
+          162.359619140625,
+          541.2479858398438,
+          220.31964111328125
+        ]
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "serial_number": "3",
+      "suspension_period_source_text": "Above\n90 days",
+      "extension_of_time_source_text": "YES",
+      "compensation_source_text": " As per Daily rate of wages\n   for idle labour/employees\n 70% of the rate for hire\n   charges for idle plant and\n   machinery (excluding cost\n   of fuel and lubricants)\n 15% above all these items\n   to cover overhead costs",
+      "remarks_source_text": "Compensation\nas   assessed\nby         the\nEngineer   on\nsubmission  of\ndocumentary\nproof  by  the\nContractor   to\nEngineer’s\nsatisfaction",
+      "raw_cells": [
+        "3",
+        "Above\n90 days",
+        "YES",
+        " As per Daily rate of wages\n   for idle labour/employees\n 70% of the rate for hire\n   charges for idle plant and\n   machinery (excluding cost\n   of fuel and lubricants)\n 15% above all these items\n   to cover overhead costs",
+        "Compensation\nas   assessed\nby         the\nEngineer   on\nsubmission  of\ndocumentary\nproof  by  the\nContractor   to\nEngineer’s\nsatisfaction"
+      ],
+      "cell_bboxes": [
+        [
+          205.15199584960936,
+          220.31964111328125,
+          232.91999053955078,
+          335.9196243286133
+        ],
+        [
+          232.91999053955078,
+          220.31964111328125,
+          278.3999938964844,
+          335.9196243286133
+        ],
+        [
+          278.3999938964844,
+          220.31964111328125,
+          318.9599914550781,
+          335.9196243286133
+        ],
+        [
+          318.9599914550781,
+          220.31964111328125,
+          463.1999969482422,
+          335.9196243286133
+        ],
+        [
+          463.1999969482422,
+          220.31964111328125,
+          541.2479858398438,
+          335.9196243286133
+        ]
+      ],
+      "review_status": "pending_manual_review"
+    }
+  ],
+  "table_region_token_check": "passed",
+  "introducing_paragraph": {
+    "pdf_page": 106,
+    "text": "If suspension is ordered by the Engineer for reasons other than those mentioned\n                                           in Sub Clause 8.8 then the Contractor’s entitlement is in the table below. However,\n                                   Engineer’s decision is final and binding in regard to defining suspension and\n                                     specifying the suspension period. Contractor has no right to claim or appeal\n                                    against this decision."
+  },
+  "gcc_context_reference": {
+    "file": "output/vol1/parsed/section_e_gcc/gcc_clauses.json",
+    "clause_id": "8",
+    "subclause_id": "8.8",
+    "pdf_pages": [
+      106,
+      107
+    ]
+  },
+  "linked_scc_instruction": {
+    "file": "output/vol1/parsed/section_f_scc/scc_entries.json",
+    "scc_clause_id": "3",
+    "gcc_subclause_id": "8.8",
+    "change_type": "delete_specified_paragraph_and_following_table",
+    "scope": "specified_paragraph_and_following_table",
+    "instruction_fragments": [
+      {
+        "pdf_page": 145,
+        "text": "3     Sub-Clause 8.8         Following Para of the sub- clause 8.8 along with the contents of the\n         Consequences     of  table provided after this para stands deleted;\n          Suspension                    “If suspension is ordered by the Engineer for reasons other than those\n                                 mentioned in Sub Clause 8.8 ……………………….against this decision”."
+      }
+    ],
+    "scc_introduction": [
+      {
+        "pdf_page": 145,
+        "text": "Following Special Conditions of Contract (SCC) shall be in addition to the General Conditions of\n Contract (GCC). Wherever there is a conflict, the provisions here in (SCC) shall prevail over those\n  in the GCC.\n\n\n\n  SCC  GCC\n Clause  Sub-Clause\n  No"
+      }
+    ],
+    "review_status": "pending_manual_review"
+  },
+  "applicability": {
+    "status": "requires_linked_scc_and_corrigenda_review",
+    "standalone_use": "not_approved",
+    "note": "This is the original GCC table. SCC entry 3 instructs deletion of the specified paragraph and its following table. Both source records must accompany any interpretation."
+  },
+  "limitations": [
+    "No source text has been deleted or overwritten.",
+    "YES and NO wording remains source text, not automatic entitlement decisions.",
+    "Remarks and exceptions remain attached to each row.",
+    "Period boundaries have not been reinterpreted.",
+    "Compensation calculations have not been performed.",
+    "Later corrigenda have not been applied."
+  ]
+}

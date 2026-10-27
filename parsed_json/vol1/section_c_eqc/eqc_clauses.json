@@ -1,0 +1,2226 @@
+{
+  "source_id": "bmrcl-volume-1",
+  "source_path": "data/Vol1DLNP1.pdf",
+  "source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+  "section": "C",
+  "title": "Eligibility cum Qualification Criteria",
+  "review_status": "pending_manual_review",
+  "contents_page": {
+    "pdf_page": 26,
+    "rotation": 0,
+    "extraction_method": "geometric_sort",
+    "text": "020\n       BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157             Eligibility cum Qualification Criteria (EQC)\n\n\n\n\n                 SECTION-C: ELIGIBILITY CUM QUALIFICATION CRITERIA (EQC)\n\n\n\n              Sl.No.                     Description                    Section Page No.\n\n\n\n               1.0   General Information and Qualification Requirement         2\n\n\n               2.0    Eligible Tenderers                                         2-6\n\n               3.0    Qualification Criteria                                     7-11\n\n\n\n\n\nBangalore Metro Rail Corporation Ltd.                    September-2026                     Section Page 1 of 11",
+    "text_blocks": [
+      {
+        "block_number": 0,
+        "bbox": [
+          71.99996948242188,
+          37.3140983581543,
+          538.5394287109375,
+          56.76031494140625
+        ],
+        "text": "BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                   Eligibility cum Qualification Criteria (EQC) \n \n"
+      },
+      {
+        "block_number": 1,
+        "bbox": [
+          36.59998321533203,
+          771.1678466796875,
+          555.3407592773438,
+          810.9598388671875
+        ],
+        "text": " \n \nBangalore Metro Rail Corporation Ltd. \n               September-2026 \nSection Page 1 of 11 \n \n"
+      },
+      {
+        "block_number": 2,
+        "bbox": [
+          312.35986328125,
+          65.88317108154297,
+          315.4271545410156,
+          76.23868560791016
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 3,
+        "bbox": [
+          143.7598114013672,
+          87.48314666748047,
+          484.1466979980469,
+          97.83866119384766
+        ],
+        "text": "SECTION-C: ELIGIBILITY CUM QUALIFICATION CRITERIA (EQC) \n"
+      },
+      {
+        "block_number": 4,
+        "bbox": [
+          312.35986328125,
+          109.20317840576172,
+          315.4271545410156,
+          119.5586929321289
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 5,
+        "bbox": [
+          107.51995086669922,
+          131.283203125,
+          517.3870849609375,
+          141.6387176513672
+        ],
+        "text": "Sl.No.\nDescription\nSection Page No.\n"
+      },
+      {
+        "block_number": 6,
+        "bbox": [
+          115.43995666503906,
+          172.44317626953125,
+          475.45440673828125,
+          182.79869079589844
+        ],
+        "text": "1.0\nGeneral Information and Qualification Requirement\n2\n"
+      },
+      {
+        "block_number": 7,
+        "bbox": [
+          115.43995666503906,
+          200.52313232421875,
+          480.3743896484375,
+          210.87864685058594
+        ],
+        "text": "2.0\nEligible Tenderers\n2-6\n"
+      },
+      {
+        "block_number": 8,
+        "bbox": [
+          115.43995666503906,
+          222.00311279296875,
+          483.494384765625,
+          232.35862731933594
+        ],
+        "text": "3.0\nQualification Criteria\n7-11\n"
+      },
+      {
+        "block_number": 9,
+        "bbox": [
+          312.35986328125,
+          243.2431640625,
+          315.4271545410156,
+          253.5986785888672
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 10,
+        "bbox": [
+          312.35986328125,
+          264.8431396484375,
+          315.4271545410156,
+          275.1986389160156
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 11,
+        "bbox": [
+          312.35986328125,
+          286.443115234375,
+          315.4271545410156,
+          296.7986145019531
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 12,
+        "bbox": [
+          312.35986328125,
+          308.1630859375,
+          315.4271545410156,
+          318.5185852050781
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 13,
+        "bbox": [
+          312.35986328125,
+          329.7630615234375,
+          315.4271545410156,
+          340.1185607910156
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 14,
+        "bbox": [
+          312.35986328125,
+          351.4830627441406,
+          315.4271545410156,
+          361.83856201171875
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 15,
+        "bbox": [
+          312.35986328125,
+          373.0830383300781,
+          315.4271545410156,
+          383.43853759765625
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 16,
+        "bbox": [
+          312.35986328125,
+          394.80303955078125,
+          315.4271545410156,
+          405.1585388183594
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 17,
+        "bbox": [
+          312.35986328125,
+          416.4030456542969,
+          315.4271545410156,
+          426.758544921875
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 18,
+        "bbox": [
+          312.35986328125,
+          438.0030212402344,
+          315.4271545410156,
+          448.3585205078125
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 19,
+        "bbox": [
+          312.35986328125,
+          459.7230224609375,
+          315.4271545410156,
+          470.0785217285156
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 20,
+        "bbox": [
+          312.35986328125,
+          481.3230285644531,
+          315.4271545410156,
+          491.67852783203125
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 21,
+        "bbox": [
+          71.99978637695312,
+          503.04302978515625,
+          75.06707000732422,
+          513.3985595703125
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 22,
+        "bbox": [
+          71.99978637695312,
+          524.6430053710938,
+          75.06707000732422,
+          534.99853515625
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 23,
+        "bbox": [
+          71.99978637695312,
+          546.2430419921875,
+          75.06707000732422,
+          556.5985717773438
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 24,
+        "bbox": [
+          71.99978637695312,
+          567.9630126953125,
+          75.06707000732422,
+          578.3185424804688
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 25,
+        "bbox": [
+          71.99978637695312,
+          589.56298828125,
+          75.06707000732422,
+          599.9185180664062
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 26,
+        "bbox": [
+          71.99978637695312,
+          611.282958984375,
+          75.06707000732422,
+          621.6384887695312
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 27,
+        "bbox": [
+          71.99978637695312,
+          632.8829956054688,
+          75.06707000732422,
+          643.238525390625
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 28,
+        "bbox": [
+          71.99978637695312,
+          654.6029663085938,
+          75.06707000732422,
+          664.95849609375
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 29,
+        "bbox": [
+          71.99978637695312,
+          676.2030029296875,
+          75.06707000732422,
+          686.5585327148438
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 30,
+        "bbox": [
+          71.99978637695312,
+          697.802978515625,
+          75.06707000732422,
+          708.1585083007812
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 31,
+        "bbox": [
+          71.99978637695312,
+          719.52294921875,
+          75.06707000732422,
+          729.8784790039062
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 32,
+        "bbox": [
+          71.99978637695312,
+          741.1229248046875,
+          75.06707000732422,
+          751.4784545898438
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 33,
+        "bbox": [
+          39.599998474121094,
+          24.479991912841797,
+          63.57600021362305,
+          41.38799285888672
+        ],
+        "text": "020\n"
+      }
+    ],
+    "has_extracted_text": true,
+    "review_status": "pending_manual_review"
+  },
+  "preamble": [],
+  "removed_lines": [
+    {
+      "pdf_page": 27,
+      "text": "021",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 27,
+      "text": "       BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157             Eligibility cum Qualification Criteria (EQC)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 27,
+      "text": "Bangalore Metro Rail Corporation Ltd.                    September-2026                     Section Page 2 of 11",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 28,
+      "text": "022",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 28,
+      "text": "       BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157             Eligibility cum Qualification Criteria (EQC)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 28,
+      "text": "Bangalore Metro Rail Corporation Ltd.                    September-2026                     Section Page 3 of 11",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 29,
+      "text": "023",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 29,
+      "text": "       BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157             Eligibility cum Qualification Criteria (EQC)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 29,
+      "text": "Bangalore Metro Rail Corporation Ltd.                    September-2026                     Section Page 4 of 11",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 30,
+      "text": "024",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 30,
+      "text": "       BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157             Eligibility cum Qualification Criteria (EQC)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 30,
+      "text": "Bangalore Metro Rail Corporation Ltd.                    September-2026                     Section Page 5 of 11",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 31,
+      "text": "025",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 31,
+      "text": "       BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157             Eligibility cum Qualification Criteria (EQC)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 31,
+      "text": "Bangalore Metro Rail Corporation Ltd.                    September-2026                     Section Page 6 of 11",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 32,
+      "text": "BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157  ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 32,
+      "text": "Eligibility cum Qualification Criteria (EQC) ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 32,
+      "text": "Bangalore Metro Rail Corporation Ltd. ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 32,
+      "text": "               September -2026 ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 32,
+      "text": "Section Page 7 of 11 ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 32,
+      "text": "026",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 33,
+      "text": "BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157  ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 33,
+      "text": "Eligibility cum Qualification Criteria (EQC) ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 33,
+      "text": "Bangalore Metro Rail Corporation Ltd. ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 33,
+      "text": "               September -2026 ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 33,
+      "text": "Section Page 8 of 11 ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 33,
+      "text": "027",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 34,
+      "text": "BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157  ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 34,
+      "text": "Eligibility cum Qualification Criteria (EQC) ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 34,
+      "text": "Bangalore Metro Rail Corporation Ltd. ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 34,
+      "text": "               September -2026 ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 34,
+      "text": "Section Page 9 of 11 ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 34,
+      "text": "028",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 35,
+      "text": "BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157  ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 35,
+      "text": "Eligibility cum Qualification Criteria (EQC) ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 35,
+      "text": "Bangalore Metro Rail Corporation Ltd. ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 35,
+      "text": "               September -2026 ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 35,
+      "text": "Section Page 10 of 11 ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 35,
+      "text": "029",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 36,
+      "text": "BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157  ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 36,
+      "text": "Eligibility cum Qualification Criteria (EQC) ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 36,
+      "text": "Bangalore Metro Rail Corporation Ltd. ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 36,
+      "text": "               September -2026 ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 36,
+      "text": "Section Page 11 of 11 ",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 36,
+      "text": "030",
+      "reason": "Page header, footer or booklet page number"
+    }
+  ],
+  "clauses": [
+    {
+      "clause_id": "1.0",
+      "title": "General Information and Qualification Requirement",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 27,
+          "text": "1.0    GENERAL INFORMATION AND QUALIFICATION REQUIREMENT\n\n\n       1.1.   The Tenderers should demonstrate their capabilities by providing data based on their\n              experience, past performance, their personnel, equipment and financial resources. Client\n                certificates are mandatory for the work done.\n\n       1.2.    Information supplied by the Tenderer must apply to the Tenderer named in the application\n            and not, unless specifically requested, to other associated companies or firms.\n\n       1.3.   Tenderers will not be required to submit on their own, additional information or material\n            subsequent to the date of submission and such material if submitted will be disregarded.\n\n       1.4.   Tenders will be evaluated as per the Eligibility cum Qualification criteria & other requirements\n               stipulated in the Tender document.\n\n       1.5.   Tenderers will be deemed to have understood and agreed that no explanation or justification\n            on any aspect of the Qualification process will be given and that BMRCL qualification\n              decisions are without any right of appeal whatsoever. Tenderers are advised that neither\n         BMRCL nor its successors, assignees/Consultants will respond to enquiries or enter into\n            communications concerning or relating to the selection process."
+        }
+      ]
+    },
+    {
+      "clause_id": "2.0",
+      "title": "Eligible Tenderers",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 27,
+          "text": "2.0     ELIGIBLE TENDERERS\n\n\n       2.1.   Tenderer may be a Proprietorship Firm/ Partnership Firm/Private Limited Company/ Public\n              Limited Company. Tenderer shall apply as a Single Entity. Joint Venture/Consortium is\n            not permitted in this tender.\n\n       2.2.   Only those Tenderers who satisfy the condition of ‘Class-I Local Supplier’ as per Clause\n              2.3 of EQC shall be eligible to participate in this Tender.\n\n       2.3.    ‘Class-I Local Supplier’ means a supplier or service provider whose goods, services or works\n              offered for procurement, meets the minimum Local content of 90%.\n\n       2.4.    ‘Local content’ means the amount of value added in India which shall, be the total value of\n              the item procured (excluding net domestic indirect taxes) minus the value of imported content\n                 in the item (including all customs duties) as proportion of the total value, in percent.\n\n       2.5.   The minimum Local Content for this service shall be certified as below;\n\n                (a) The ‘Class-I Local Supplier’ at the time of Bid submission shall provide a Declaration\n                    that the item offered meets the minimum ‘Local Content’ and shall give details of the\n                    location(s) at which the local value addition is made. (Attachment-1 to Letter of Technical\n                    Bid).\n\n                (b) DELETED\n\n       2.6.   Bidder claiming as ‘Class-I Local Supplier is exempted from meeting the stipulated\n             ‘Local content’ in case, if the product is being manufactured in India under a license from a\n               foreign manufacturer, who holds intellectual property rights and where there is a technology\n               collaboration agreement/transfer of technology agreement for indigenous manufacture of a\n             product developed abroad with clear phasing of increase in local content, subject to\n             submission of necessary documents.\n\n       2.7.   Bidder  shall note  that  in case  of ‘Imported Products’, the related services such as\n               transportation, insurance,  installation, commissioning, training and after sales services"
+        },
+        {
+          "pdf_page": 28,
+          "text": "support like AMC/CMC etc., shall not be claimed as Local value addition. Such services will\n              not be considered as ‘Local Content’.\n\n       2.8.   A committee  with  Internal and  external experts  for Independent  verification  of  self-\n              Declarations by the Bidder may be constituted by BMRCL on random basis and in case of\n              complaints.\n\n       2.9.    In case of false declarations by a Bidder claiming as Class-I Local Supplier, the following\n              actions will be taken;\n\n                (a) The proposal submitted by the Bidder will be rejected.\n\n                (b) The Bidder will be debarred for up to Two years.\n\n       2.10.  Any Bidder from a country which shares a land border with India will be eligible to bid in this\n             Bid only  if the Bidder  is registered with the Competent Authority. Further, any bidder\n               (including from India) having specified Transfer of Technology (ToT) arrangement with an\n                entity from a country which share a land border with India, shall also require to be registered\n              with the same competent authority constituted by Department for Promotion of Industry and\n               Internal Trade (DPIIT), Government of India or the Competent Authority constituted by\n            Government of Karnataka.\n\n                          i.  \"Bidder\" (including the term 'Bidder', 'consultant' or 'service provider' in certain contexts)\n             means any person or firm or company, including any member of a consortium or joint\n                venture (that is an association of several persons, or firms or companies), every artificial\n                    juridical person not falling in any of the descriptions of Bidders stated hereinbefore,\n                  including any agency branch or office controlled by such person, participating in a\n               procurement process.\n\n                          ii.  \"Bidder from a country which shares a land border with India” means:\n\n                    (a) An entity incorporated, established or registered in such a country; or\n\n                    (b) A subsidiary of an entity incorporated, established or registered in such a country; or\n\n                     (c) An  entity  substantially  controlled through  entities  incorporated,  established  or\n                      registered in such a country; or\n\n                    (d) An entity whose beneficial owner is situated in such a country; or\n\n                    (e) An Indian (or other) agent of such an entity; or\n\n                         (f) A natural person who is a citizen of such a country; or\n\n                    (g) A consortium or Joint venture where any member of the consortium or joint venture\n                           falls under any of the above.\n\n                          iii. The beneficial owner for the purpose of (ii) above will be as under:\n\n                    (a) In case of a company or Limited Liability Partnership, the beneficial owner is the\n                      natural person(s), who, whether acting alone or together, or through one or more\n                          juridical person, has a controlling ownership interest or who exercises control through\n                     other means.\n\n                         \"Controlling ownership interest\" means ownership of or entitlement to more than\n                           twenty-five per cent of shares or capital or profits of the company;"
+        },
+        {
+          "pdf_page": 29,
+          "text": "   \"Control” shall include the right to appoint majority of the directors or to control\n                         the management or policy decisions including by virtue of their shareholding or\n                    management rights or shareholders  agreements  or voting agreements;\n                    (b) In case of a partnership firm, the beneficial owner is the natural person(s) who,\n                   whether acting alone or together, or through one or more juridical person, has\n                   ownership of entitlement to more than fifteen percent of capital or profits of the\n                      partnership;\n\n                     (c) In case of an unincorporated association or body of individuals, the beneficial owner\n                           is the natural person(s), who, whether acting alone or together, or through one or\n                 more juridical person, has ownership of or entitlement to more than fifteen percent of\n                     the property or capital or profits of such association or body of individuals;\n\n                    (d) Where no natural person is identified under (a) or (b) or (c) above, the beneficial\n                  owner is the relevant natural person who holds the position of senior managing\n                            official;\n\n                    (e) In case of a trust, the identification  of beneficial  owner(s) shall include identification\n                       of the author of the trust, the trustee, the beneficiaries with fifteen percent or more\n                        interest in the trust and any other natural person exercising ultimate effective control\n                    over the trust through a chain of control or ownership.\n\n                         (f) An Agent is a person employed to do any act for another, or to represent another in\n                     dealings with third person.\n\n                                      i. Successful Bidder shall not be allowed to sub-contract works to any contractor from\n                  a country which shares a land border with India unless such contractor is registered\n                       with the Competent Authority. The definition of “Contractor from a country which\n                     shares a land border with India” shall be as in para (ii) above.\n                                       ii. The registration shall be valid at the time of submission of bids and at the time of\n                    acceptance of bid.\n                                       iii. If the bidder was validly registered at the time of acceptance / placement of order,\n                         registration shall not be relevant consideration during contract execution.\n       2.11.  Bidder  is required  to submit undertaking  for compliance  of the above Clause 2.10\n             (Attachment-1 to Letter of Technical Bid).\n\n       2.12.  The above Clause 2.10 will not apply to Bidders from those countries (even if sharing a land\n             border with India) to which the Government of India has extended lines of credit or in which\n              the Government of India is engaged in development projects. Updated lists of countries to\n             which lines of credit have been extended or in which development projects are undertaken\n             are given in the website of the Ministry of External Affairs.\n\n       2.13.  Tenderers shall not have a conflict of interest that affects the Bidding Process. Any Tenderer\n             found to have a Conflict of Interest shall be disqualified. A Tenderer will be deemed to have\n               Conflict of interest with one or more parties in this Tendering process, if:\n\n                (a) A tenderer submits more than one bid either individually or as a member of a JV for a\n                work will result in disqualification of all its bids for that work.\n\n                (b) The Tenderer has been engaged by the Employer to provide consulting services for the\n                  preparation related to procurement for or implementation of this work.\n\n                 (c) Any association/affiliation (inclusive of parent firms) of the Bidder has been engaged by\n                  the Employer to provide consulting services for the preparation related to procurement"
+        },
+        {
+          "pdf_page": 30,
+          "text": "for or implementation of this work.\n\n                (d) The Tenderer lends, or temporarily seconds its personnel to Firms or organizations\n                which are engaged in Consulting services for the preparation related to procurement for\n                   or implementation of this work.\n\n       2.14.  DELETED\n\n       2.15.  As on date of submission of Bid, the Bidder (each member, in case of JV) should not be\n             excluded as per the GROUNDS FOR EXCLUSION. The Bidder should submit an\n              undertaking to this effect.\n\n                      (i) GROUNDS FOR EXCLUSION will constitute the following, if the Bidders (in case of JV\n                 applicable to all member(s));\n\n                  (a) are bankrupt, being wound up or ceasing their activities, are having their activities\n                   administered by the courts, have entered into receivership, or are in any analogous\n                      situation arising from any similar procedure; or\n\n                         is under insolvency proceedings at the time of bid submission and until the contract is\n                awarded or adjudged insolvent by the National Company Law Tribunal (NCLT), with\n                 any resolution proceedings pending before the NCLT;\n\n                  (b) have been convicted within the past five years by a court decision, which has the force\n                      of residential jurisdiction in the country where the project is implemented, of fraud or\n                    corruption or any other offence committed during the procurement or performance of a\n                     contract, unless they provide supporting information together with their Statement of\n                       Integrity which shows that this conviction is not relevant in the context of this project;\n\n                   (c) have committed serious professional misconduct within the past five years during the\n                 Procurement or performance of a contract, as evidenced by any means by the\n                  Employer;\n\n                  (d) have not fulfilled their obligations regarding the payment of social security contributions\n                    or taxes in accordance with the legal provisions of the country where they are\n                    established or the Employer ‘s country;\n\n                  (e) have indulged in ‘Corrupt Practice’; “corrupt practice” means the offering, giving,\n                    receiving or soliciting of anything of value to influence the action of a public official in\n                   the procurement process or in contract execution;\n\n                       (f) have indulged in ‘Fraudulent Practice’; “fraudulent practice” means a misrepresentation\n                      of facts in order to influence an evaluation process or the execution of a contract, and\n                    includes misleading or false representation in forms or statements or attachment\n                   submitted and collusive practices among Bidders (prior to or after bid submission)\n                  designed to establish bid prices at artificial, non-competitive levels and to deprive the\n                 Employer of the benefits of free and open competitions;\n\n                  (g) have been considered ineligible due to execution of Bid–Securing Declaration by any\n                    Central Govt./State Govt./PSUs;\n\n                  (h) have been Black  listed/debarred /banned business by any Central Govt./State\n                 Govt./PSUs or Local Authority or World Bank or ADB or JICA or any other International\n                   Financing Institution, or any entity controlled by them;\n\n                         (i) have left/abandoned the awarded works on his own in the last 05 years;"
+        },
+        {
+          "pdf_page": 31,
+          "text": "(j) “have been rescinded / terminated by any Central Govt. or State Govt. or PSUs or\n                Government entity after award, during last 5 years”;\n\n                   (k) have been either penalized with liquidated damages of 5% (or more) of the contract\n                   value due to delay or imposed with penalty of 5% (or more) of the contract value due\n                     to any other reason in any Contract awarded by BMRCL/ any other Metro Organization\n                (100% owned by Govt.), during last three years (from the day of bid submission);\n\n                       (ii) Bidders may also note that in case the Bidder is excluded as per Ground for Exclusion\n               mentioned above, after the due date of submission of Bid but before award of the contract\n               by BMRCL, they shall inform the same to BMRCL in writing within 5 working days, failing\n               which it will be considered that the Bidder has wilfully concealed the information and the\n                Bidder shall be solely responsible for all implications that may arise in accordance with\n                 the conditions of this Bid.\n\n                        (iii) Any such exclusion will result in disqualification of the Bidder and the financial proposal\n                   of such Bidder shall not be opened in case the technical evaluation is still in progress. In\n               case the Financial Proposals have already been opened, and the work not yet awarded,\n                 the Financial Proposal will not be further considered for evaluation."
+        }
+      ]
+    },
+    {
+      "clause_id": "3.0",
+      "title": "Qualification Criteria",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 32,
+          "text": "3.0 \nQUALIFICATION CRITERIA \n \nPursuant to clause 2.0, tenderers shall meet the qualification criteria stipulated in the succeeding paragraphs in order to qualify. \n3.1 WORK EXPERIENCE & FINANCIAL STANDING: \n3.1. A. WORK EXPERIENCE \nSl. No \nCriteria Requirement \nDocument Submission \nRequirement \n3.1.A.(i) \nTenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven) \nyears ending as on last day of the month previous to the month of invitation of this tender, \nshould have completed/ **substantially completed One work of *Similar nature, where the \nvalue of the work is equal to or exceed ₹ 3.79 Crores.*** \nAttachment-5 & Attachment-\n6 to Letter of Technical Bid \nOR \n3.1.A. (ii) \nTenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven) \nyears ending as on last day of the month previous to the month of invitation of this tender, \nshould have completed/ **substantially completed Two works of *Similar nature, where the \nvalue of each work is equal to or exceed ₹ 2.37 Crores. *** \nAttachment-5 & Attachment-\n6 to Letter of Technical Bid \nOR \n3.1.A. (iii) Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven) \nyears ending as on last day of the month previous to the month of invitation of this tender, \nshould have completed/ **substantially completed Three works of *Similar nature, where the \nvalue of each work is equal to or exceed ₹ 1.90 Crores.*** \nAttachment-5 & Attachment-\n6 to Letter of Technical Bid \nOR \n3.1.A. (iv) Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven) \nyears ending as on last day of the month previous to the month of invitation of this tender, \nAttachment-5 & Attachment-\n6 to Letter of Technical Bid"
+        },
+        {
+          "pdf_page": 33,
+          "text": "should have completed/ **substantially completed in any number of works of *Similar nature, \nwhere the combined value of works is equal to or exceed ₹ 4.74 Crores.*** \nNotes: \n1) \n* Similar nature work for this contract shall be, ‘Demolition/Dismantling of Buildings/Structures’. \n2) \n** Similar nature work(s) where Financial value of physically executed work is 90%  or more of the original awarded contract value or \nrevised contract value (if any), duly certified by the client, will be treated as substantially completed Similar nature work(s) and will be \nconsidered for qualification of work experience criteria. In case original contract value has been revised, the revised contract value shall \nbe considered for this purpose.  \n3) \nThe Tenderer shall furnish the Client’s Completion Certificate in support of the Work Experience criteria as specified under Clause 3.1A. \nThe certificate shall clearly indicate the Nature and Scope of Similar Nature Work, Awarded Contract Value (excluding GST), Actual \nCompletion Value (excluding GST), and the Actual Date of Completion. Where applicable, the certificate shall also specify the Revised \nContract Value (excluding GST), along with details of any variation orders and extensions of time granted. \n4) \nIn cases where the Client’s Completion Certificate indicates values inclusive of GST and/or other applicable taxes, the Tenderer shall \nsubmit the actual completion cost after deducting the applicable GST dully certified by Chartered Accountant. For portions of Similar \nNature Works executed in the pre-GST period, the Tenderer shall make a deduction towards taxes at the rate of 12% to arrive at the \ncompletion cost exclusive of taxes. \n5) \nIf a Tenderer has completed /substantially completed the Similar Nature Work(s) as a member of a Joint Venture (JV), the value of \n‘Similar Nature Work(s)’ will be recognized only in proportion to the Tenderer’s stipulated financial share in that JV. A copy of the JV \nAgreement must be submitted with the bid. \n6) \nFor the purpose of evaluation, value of works in foreign currencies shall be converted to equivalent INR as per the following procedure: \nValue of completed/ substantially completed Similar Nature Work(s) in foreign currency shall be converted to Equivalent INR by adopting \nExchange rate between the foreign currency and INR as prevailing on the date of completion / date given in the substantial completion \ncertificate as applicable, as per the website of Reserve Bank of India (RBI). \n7) \n***The value of Completed Similar Nature Work(s) executed during the previous financial years shall be updated at a rate of 5% per \nyear, compounded annually, for the Indian Rupees portion (including foreign currencies, converted to Equivalent INR), to bring them to \nthe price level of the financial year of this Tender Invitation."
+        },
+        {
+          "pdf_page": 34,
+          "text": "The value of ongoing work(s) that are substantially completed shall not be updated to the price level of the financial year of this Tender \nInvitation. \n8) \nIn case the Similar Nature Work(s) are executed for client other than Government Department, PSU, or other Government Body, Contract \nAgreement, Bill wise details of payment received and Proof of TDS (Form 26AS) deducted by clients for all payments received shall be \nsubmitted duly certified by Chartered Accountant. \n9) \nWork experience certificates of the tenderers with qualification as a sub-contractor will not be considered. \n3.1. B.  FINANCIAL STANDING: The Tenderer should meet the following financial qualification criteria: \nSl. No \nCriteria Requirement \nDocument Submission \nrequirement \n3.1.B (i) \nLiquidity: Tenderer shall demonstrate that it has access to, or possess liquid assets and /or \navailability of credit facilities of not less than ₹ 1.19 Crores (Credit lines/ letter of credit/ certificates \nfrom banks for meeting the fund requirement etc.). \nAttachment-13 to Letter of \nTechnical Bid \n3.1.B (ii) \nAnnual Turnover: Tenderer in its name should have in the last five financial years (2021-2022 \nto 2025-2026) achieved in at least two financial years a minimum financial turnover (in all \nclasses of civil engineering construction works only) ≥ ₹ 9.48 Crores. **** \nAttachment-8 to Letter of \nTechnical Bid \n      Notes: \n1) \nA copy of the Banker’s Certificate issued from a Nationalised / Scheduled Bank in India (for liquidity) needs to be uploaded in the \nTechnical Proposal in respect of EQC Clause 3.1 B (i). \n2) \nAnnual financial statements (Audited Balance sheets including all related notes and income statements) for last five financial years \n(2021-2022 to 2025-2026) shall be submitted by the Tenderer. The financial information of the Tenderer must be certified either by the \nIndependent Financial Auditor (statutory Auditor) of the company appointed under the companies’ Act or by a Chartered Accountant with \nhis stamp and signature with membership number and firm registration number. \n3) \nIn case any discrepancy in data is found between the Audited Balance sheet and the financial information submitted, the data as available \nin the Audited Balance sheet will be considered."
+        },
+        {
+          "pdf_page": 35,
+          "text": "4) \nIn case Audited Balance sheet of the last financial year ending with 2025-2026 is not made available by the Tenderer, he has to submit \nan affidavit certifying that 'The Balance Sheet has actually not been audited so far'. In such a case the financial data of previous '4' \naudited financial years will be taken into consideration for evaluation. If audited Balance sheet of any year other than the last financial \nyear ending with 2025-2026 is not submitted even when requested for as a clarification under clause 20 of ITT, then the Tender will be \nconsidered as non-responsive. \n5) \nAll documents shall reflect the stand-alone financial status of the Tenderer and not the Tenderer’s parent companies, subsidiaries, or \naffiliates. \n6) \nFor the purpose of evaluation, amounts in foreign currencies shall be converted to equivalent INR as per the following procedure: \nIn cases where the financial data is denominated in a currency other than Indian Rupees, it shall be converted into the equivalent value \nin Indian Rupees by adopting the exchange rate between the foreign currency and INR prevailing on the last day of the respective \nfinancial year, as published on the Reserve Bank of India (RBI) website, for the purpose of bid evaluation. \n7) \nTo align a January–December financial year with the standard April–March fiscal year, use the following conversion: \nA calendar year (e.g., January–December 2023) corresponds to the subsequent fiscal year (e.g., FY 2023–24, covering April 2023 to \nMarch 2024). Apply this rule consistently to all such conversions. \n8) \n****Financial turnover in INR/converted equivalent INR of previous financial years shall be given a weightage of 5% per year \n(compounded annually) to bring them to the price level of the Financial Year of this Tender Invitation. \n9) \nAll the documents or certifications, which are provided by Chartered Accountant after 1st July, 2019, must contain UDIN thereon and \nthe particulars of certifications must be same as mentioned on document/certification and submitted to ICAI on its website which can be \nverified online on https://udin.icai.org/search-udin. \n3.2 BID CAPACITY: \nRequirement \nDocument Submission \nRequirement \nAvailable Bid capacity should be ≥ ₹ 4.74 Crores \nFormula: \nAvailable Bid Capacity = (1.5 × A × N) – B  \nAttachment-7, Attachment-\n8 to Letter of Technical Bid"
+        },
+        {
+          "pdf_page": 36,
+          "text": "Requirement \nDocument Submission \nRequirement \nWhere: \nA = Maximum value of total Civil Engineering works executed (annual turnover from Civil Engineering works) \nin any one year during the last five financial years. The turnover for previous years shall be updated by 5% \nper year (compounded annually) to bring them to the price level of the Financial Year of this Tender Invitation.  \nN = Number of years prescribed for completion of this tendered work as mentioned in NIT.  \nB = Total value (updated to the price level of the Financial Year of this Tender Invitation) of existing \ncommitments for ongoing Civil Engineering works during the completion period mentioned in NIT, from the \nlast day of the month previous to the month of invitation of this tender. \nNotes: \n1) Works in Hand information provided in ‘Attachment-7 to Letter of Technical Bid’ must be certified either by the Independent Financial \nAuditor (Statutory Auditor) of the company appointed under the companies’ Act or by a Chartered Accountant with his stamp and signature \nwith Membership Number and Firm’s Registration Number. \n2) All the documents or certifications, which are provided by Chartered Accountant after 1st July 2019, must contain UDIN thereon and the \nparticulars of certifications must be same as mentioned on document/certification and submitted to ICAI on its website, which can be \nverified online on https://udin.icai.org/search-udin."
+        }
+      ]
+    }
+  ],
+  "table_review": {
+    "pdf_pages": [
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "status": "pending_manual_review",
+    "note": "Table text remains within clause 3.0. Rows and columns are not reconstructed. Requirement 3.1.A.(iv) continues from PDF page 32 to PDF page 33."
+  },
+  "layout_pages": [
+    {
+      "pdf_page": 32,
+      "rotation": 90,
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            37.313743591308594,
+            69.58556365966797,
+            46.169979095458984,
+            770.0093994140625
+          ],
+          "text": "BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157  \n \nEligibility cum Qualification Criteria (EQC) \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            49.793739318847656,
+            767.5130004882812,
+            56.75997543334961,
+            770.0093994140625
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            529.9677734375,
+            802.9061279296875,
+            538.4097900390625,
+            805.409423828125
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            540.2877807617188,
+            802.9061279296875,
+            548.7297973632812,
+            805.409423828125
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            550.3135375976562,
+            69.59288024902344,
+            559.1697998046875,
+            805.409423828125
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd. \n               September -2026 \nSection Page 7 of 11 \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            74.16284942626953,
+            589.6976928710938,
+            84.51836395263672,
+            779.12939453125
+          ],
+          "text": "3.0 \nQUALIFICATION CRITERIA \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            87.266845703125,
+            767.7731323242188,
+            94.80836486816406,
+            770.0093994140625
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            97.8028335571289,
+            148.222900390625,
+            108.1583480834961,
+            770.0093994140625
+          ],
+          "text": "Pursuant to clause 2.0, tenderers shall meet the qualification criteria stipulated in the succeeding paragraphs in order to qualify. \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            117.24282836914062,
+            502.6982116699219,
+            127.59834289550781,
+            770.0093994140625
+          ],
+          "text": "3.1 WORK EXPERIENCE & FINANCIAL STANDING: \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            137.76283264160156,
+            604.5794677734375,
+            148.11834716796875,
+            752.009521484375
+          ],
+          "text": "3.1. A. WORK EXPERIENCE \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            158.8828125,
+            85.57909393310547,
+            169.2383270263672,
+            734.7290649414062
+          ],
+          "text": "Sl. No \nCriteria Requirement \nDocument Submission \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            173.40281677246094,
+            111.61876678466797,
+            183.75833129882812,
+            181.8892822265625
+          ],
+          "text": "Requirement \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            194.52279663085938,
+            226.580810546875,
+            204.87831115722656,
+            738.3290405273438
+          ],
+          "text": "3.1.A.(i) \nTenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven) \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            209.1627960205078,
+            226.58062744140625,
+            219.518310546875,
+            683.9691772460938
+          ],
+          "text": "years ending as on last day of the month previous to the month of invitation of this tender, \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            223.5627899169922,
+            226.5784912109375,
+            233.91830444335938,
+            683.9691772460938
+          ],
+          "text": "should have completed/ **substantially completed One work of *Similar nature, where the \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            238.08277893066406,
+            405.1396179199219,
+            248.43829345703125,
+            683.9688720703125
+          ],
+          "text": "value of the work is equal to or exceed ₹ 3.79 Crores.*** \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            194.52279663085938,
+            79.09375762939453,
+            204.87831115722656,
+            217.41656494140625
+          ],
+          "text": "Attachment-5 & Attachment-\n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            209.1627960205078,
+            79.82128143310547,
+            219.518310546875,
+            213.691162109375
+          ],
+          "text": "6 to Letter of Technical Bid \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            265.082763671875,
+            399.25848388671875,
+            275.4382629394531,
+            418.8891906738281
+          ],
+          "text": "OR \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            286.32275390625,
+            226.58062744140625,
+            296.6782531738281,
+            741.0890502929688
+          ],
+          "text": "3.1.A. (ii) \nTenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven) \n"
+        },
+        {
+          "block_number": 20,
+          "bbox": [
+            300.8427429199219,
+            226.5810546875,
+            311.1982421875,
+            683.9696044921875
+          ],
+          "text": "years ending as on last day of the month previous to the month of invitation of this tender, \n"
+        },
+        {
+          "block_number": 21,
+          "bbox": [
+            315.24273681640625,
+            226.58135986328125,
+            325.5982360839844,
+            683.9696044921875
+          ],
+          "text": "should have completed/ **substantially completed Two works of *Similar nature, where the \n"
+        },
+        {
+          "block_number": 22,
+          "bbox": [
+            329.8827209472656,
+            389.900390625,
+            340.23822021484375,
+            683.9698486328125
+          ],
+          "text": "value of each work is equal to or exceed ₹ 2.37 Crores. *** \n"
+        },
+        {
+          "block_number": 23,
+          "bbox": [
+            286.32275390625,
+            79.09491729736328,
+            296.6782531738281,
+            217.417724609375
+          ],
+          "text": "Attachment-5 & Attachment-\n"
+        },
+        {
+          "block_number": 24,
+          "bbox": [
+            300.8427429199219,
+            79.82244110107422,
+            311.1982421875,
+            213.69232177734375
+          ],
+          "text": "6 to Letter of Technical Bid \n"
+        },
+        {
+          "block_number": 25,
+          "bbox": [
+            356.88275146484375,
+            399.25848388671875,
+            367.2382507324219,
+            418.8891906738281
+          ],
+          "text": "OR \n"
+        },
+        {
+          "block_number": 26,
+          "bbox": [
+            378.00274658203125,
+            226.581787109375,
+            402.9982604980469,
+            742.2894287109375
+          ],
+          "text": "3.1.A. (iii) Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven) \nyears ending as on last day of the month previous to the month of invitation of this tender, \n"
+        },
+        {
+          "block_number": 27,
+          "bbox": [
+            407.042724609375,
+            226.58013916015625,
+            417.3982238769531,
+            683.970458984375
+          ],
+          "text": "should have completed/ **substantially completed Three works of *Similar nature, where the \n"
+        },
+        {
+          "block_number": 28,
+          "bbox": [
+            421.5627136230469,
+            392.901123046875,
+            431.918212890625,
+            683.9703369140625
+          ],
+          "text": "value of each work is equal to or exceed ₹ 1.90 Crores.*** \n"
+        },
+        {
+          "block_number": 29,
+          "bbox": [
+            378.00274658203125,
+            79.09497833251953,
+            388.3582458496094,
+            217.41778564453125
+          ],
+          "text": "Attachment-5 & Attachment-\n"
+        },
+        {
+          "block_number": 30,
+          "bbox": [
+            392.64276123046875,
+            79.82250213623047,
+            402.9982604980469,
+            213.6923828125
+          ],
+          "text": "6 to Letter of Technical Bid \n"
+        },
+        {
+          "block_number": 31,
+          "bbox": [
+            448.5627136230469,
+            399.25848388671875,
+            458.918212890625,
+            418.8891906738281
+          ],
+          "text": "OR \n"
+        },
+        {
+          "block_number": 32,
+          "bbox": [
+            469.80267333984375,
+            79.09394073486328,
+            494.67816162109375,
+            742.6494140625
+          ],
+          "text": "3.1.A. (iv) Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven) \nyears ending as on last day of the month previous to the month of invitation of this tender, \nAttachment-5 & Attachment-\n"
+        },
+        {
+          "block_number": 33,
+          "bbox": [
+            484.3226623535156,
+            79.82146453857422,
+            494.67816162109375,
+            213.69134521484375
+          ],
+          "text": "6 to Letter of Technical Bid \n"
+        },
+        {
+          "block_number": 34,
+          "bbox": [
+            24.479991912841797,
+            778.4240112304688,
+            41.38799285888672,
+            802.4000244140625
+          ],
+          "text": "026\n"
+        }
+      ]
+    },
+    {
+      "pdf_page": 33,
+      "rotation": 90,
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            37.313743591308594,
+            69.58556365966797,
+            46.169979095458984,
+            770.0093994140625
+          ],
+          "text": "BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157  \n \nEligibility cum Qualification Criteria (EQC) \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            49.793739318847656,
+            767.5130004882812,
+            56.75997543334961,
+            770.0093994140625
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            529.9677734375,
+            802.9061279296875,
+            538.4097900390625,
+            805.409423828125
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            540.2877807617188,
+            802.9061279296875,
+            548.7297973632812,
+            805.409423828125
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            550.3135375976562,
+            69.59288024902344,
+            559.1697998046875,
+            805.409423828125
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd. \n               September -2026 \nSection Page 8 of 11 \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            74.52284240722656,
+            226.57708740234375,
+            84.87835693359375,
+            683.9690551757812
+          ],
+          "text": "should have completed/ **substantially completed in any number of works of *Similar nature, \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            89.0428466796875,
+            315.73822021484375,
+            99.39836120605469,
+            683.9676513671875
+          ],
+          "text": "where the combined value of works is equal to or exceed ₹ 4.74 Crores.*** \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            122.1628189086914,
+            714.7388916015625,
+            132.51834106445312,
+            752.0094604492188
+          ],
+          "text": "Notes: \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            142.80282592773438,
+            284.8984375,
+            153.15834045410156,
+            752.0094604492188
+          ],
+          "text": "1) \n* Similar nature work for this contract shall be, ‘Demolition/Dismantling of Buildings/Structures’. \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            163.2028045654297,
+            69.01757049560547,
+            188.1983184814453,
+            752.0071411132812
+          ],
+          "text": "2) \n** Similar nature work(s) where Financial value of physically executed work is 90%  or more of the original awarded contract value or \nrevised contract value (if any), duly certified by the client, will be treated as substantially completed Similar nature work(s) and will be \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            192.48280334472656,
+            69.01995086669922,
+            202.83831787109375,
+            727.40771484375
+          ],
+          "text": "considered for qualification of work experience criteria. In case original contract value has been revised, the revised contract value shall \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            207.00279235839844,
+            570.2572631835938,
+            217.35830688476562,
+            727.40771484375
+          ],
+          "text": "be considered for this purpose.  \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            227.52279663085938,
+            69.01824188232422,
+            237.87831115722656,
+            752.0072021484375
+          ],
+          "text": "3) \nThe Tenderer shall furnish the Client’s Completion Certificate in support of the Work Experience criteria as specified under Clause 3.1A. \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            242.04278564453125,
+            69.02001190185547,
+            252.39830017089844,
+            727.40771484375
+          ],
+          "text": "The certificate shall clearly indicate the Nature and Scope of Similar Nature Work, Awarded Contract Value (excluding GST), Actual \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            256.6827697753906,
+            69.01988983154297,
+            267.03826904296875,
+            727.4077758789062
+          ],
+          "text": "Completion Value (excluding GST), and the Actual Date of Completion. Where applicable, the certificate shall also specify the Revised \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            271.2027587890625,
+            210.01953125,
+            281.5582580566406,
+            727.4077758789062
+          ],
+          "text": "Contract Value (excluding GST), along with details of any variation orders and extensions of time granted. \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            291.7227478027344,
+            69.01970672607422,
+            302.0782470703125,
+            752.0072631835938
+          ],
+          "text": "4) \nIn cases where the Client’s Completion Certificate indicates values inclusive of GST and/or other applicable taxes, the Tenderer shall \n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            306.24273681640625,
+            69.01873016357422,
+            316.5982360839844,
+            727.4076538085938
+          ],
+          "text": "submit the actual completion cost after deducting the applicable GST dully certified by Chartered Accountant. For portions of Similar \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            320.7627258300781,
+            69.01940155029297,
+            331.11822509765625,
+            727.4076538085938
+          ],
+          "text": "Nature Works executed in the pre-GST period, the Tenderer shall make a deduction towards taxes at the rate of 12% to arrive at the \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            335.4027099609375,
+            555.0147705078125,
+            345.7582092285156,
+            727.4066772460938
+          ],
+          "text": "completion cost exclusive of taxes. \n"
+        },
+        {
+          "block_number": 20,
+          "bbox": [
+            355.9226989746094,
+            69.01927947998047,
+            366.2781982421875,
+            752.006591796875
+          ],
+          "text": "5) \nIf a Tenderer has completed /substantially completed the Similar Nature Work(s) as a member of a Joint Venture (JV), the value of \n"
+        },
+        {
+          "block_number": 21,
+          "bbox": [
+            370.44268798828125,
+            69.01598358154297,
+            380.7981872558594,
+            727.4071044921875
+          ],
+          "text": "‘Similar Nature Work(s)’ will be recognized only in proportion to the Tenderer’s stipulated financial share in that JV. A copy of the JV \n"
+        },
+        {
+          "block_number": 22,
+          "bbox": [
+            384.9626770019531,
+            515.89794921875,
+            395.31817626953125,
+            727.4130859375
+          ],
+          "text": "Agreement must be submitted with the bid. \n"
+        },
+        {
+          "block_number": 23,
+          "bbox": [
+            405.6026611328125,
+            69.38054656982422,
+            415.9581604003906,
+            752.0076293945312
+          ],
+          "text": "6) \nFor the purpose of evaluation, value of works in foreign currencies shall be converted to equivalent INR as per the following procedure: \n"
+        },
+        {
+          "block_number": 24,
+          "bbox": [
+            426.1226501464844,
+            69.02098846435547,
+            436.4781494140625,
+            727.4081420898438
+          ],
+          "text": "Value of completed/ substantially completed Similar Nature Work(s) in foreign currency shall be converted to Equivalent INR by adopting \n"
+        },
+        {
+          "block_number": 25,
+          "bbox": [
+            440.64263916015625,
+            69.02068328857422,
+            450.9981384277344,
+            727.4081420898438
+          ],
+          "text": "Exchange rate between the foreign currency and INR as prevailing on the date of completion / date given in the substantial completion \n"
+        },
+        {
+          "block_number": 26,
+          "bbox": [
+            455.1626281738281,
+            359.1777648925781,
+            465.51812744140625,
+            727.4081420898438
+          ],
+          "text": "certificate as applicable, as per the website of Reserve Bank of India (RBI). \n"
+        },
+        {
+          "block_number": 27,
+          "bbox": [
+            475.6825866699219,
+            69.02080535888672,
+            500.6781005859375,
+            752.0086669921875
+          ],
+          "text": "7) \n***The value of Completed Similar Nature Work(s) executed during the previous financial years shall be updated at a rate of 5% per \nyear, compounded annually, for the Indian Rupees portion (including foreign currencies, converted to Equivalent INR), to bring them to \n"
+        },
+        {
+          "block_number": 28,
+          "bbox": [
+            504.84259033203125,
+            437.5367431640625,
+            515.1981201171875,
+            727.4081420898438
+          ],
+          "text": "the price level of the financial year of this Tender Invitation. \n"
+        },
+        {
+          "block_number": 29,
+          "bbox": [
+            24.479991912841797,
+            25.200016021728516,
+            41.38799285888672,
+            49.176025390625
+          ],
+          "text": "027\n"
+        }
+      ]
+    },
+    {
+      "pdf_page": 34,
+      "rotation": 90,
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            37.313743591308594,
+            69.58556365966797,
+            46.169979095458984,
+            770.0093994140625
+          ],
+          "text": "BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157  \n \nEligibility cum Qualification Criteria (EQC) \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            49.793739318847656,
+            767.5130004882812,
+            56.75997543334961,
+            770.0093994140625
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            529.9677734375,
+            802.9061279296875,
+            538.4097900390625,
+            805.409423828125
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            540.2877807617188,
+            802.9061279296875,
+            548.7297973632812,
+            805.409423828125
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            550.3135375976562,
+            69.59288024902344,
+            559.1697998046875,
+            805.409423828125
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd. \n               September -2026 \nSection Page 9 of 11 \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            74.16284942626953,
+            69.02153778076172,
+            84.51836395263672,
+            727.4090576171875
+          ],
+          "text": "The value of ongoing work(s) that are substantially completed shall not be updated to the price level of the financial year of this Tender \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            88.68284606933594,
+            677.2965698242188,
+            99.03836059570312,
+            727.4089965820312
+          ],
+          "text": "Invitation. \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            109.20284271240234,
+            69.02068328857422,
+            119.55835723876953,
+            752.12890625
+          ],
+          "text": "8) \nIn case the Similar Nature Work(s) are executed for client other than Government Department, PSU, or other Government Body, Contract \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            123.84282684326172,
+            69.02129364013672,
+            134.19834899902344,
+            727.5343627929688
+          ],
+          "text": "Agreement, Bill wise details of payment received and Proof of TDS (Form 26AS) deducted by clients for all payments received shall be \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            138.3628387451172,
+            484.09698486328125,
+            148.71835327148438,
+            727.5283813476562
+          ],
+          "text": "submitted duly certified by Chartered Accountant. \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            158.88282775878906,
+            213.380126953125,
+            169.23834228515625,
+            752.1282958984375
+          ],
+          "text": "9) \nWork experience certificates of the tenderers with qualification as a sub-contractor will not be considered. \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            185.28282165527344,
+            246.2598876953125,
+            195.63833618164062,
+            752.0082397460938
+          ],
+          "text": "3.1. B.  FINANCIAL STANDING: The Tenderer should meet the following financial qualification criteria: \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            214.32281494140625,
+            79.21965789794922,
+            224.67832946777344,
+            735.5681762695312
+          ],
+          "text": "Sl. No \nCriteria Requirement \nDocument Submission \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            228.9628143310547,
+            107.05944061279297,
+            239.31832885742188,
+            173.72998046875
+          ],
+          "text": "requirement \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            255.9627685546875,
+            213.7410888671875,
+            266.4382629394531,
+            739.1690673828125
+          ],
+          "text": "3.1.B (i) \nLiquidity: Tenderer shall demonstrate that it has access to, or possess liquid assets and /or \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            270.4827575683594,
+            213.73956298828125,
+            280.8382568359375,
+            685.5296630859375
+          ],
+          "text": "availability of credit facilities of not less than ₹ 1.19 Crores (Credit lines/ letter of credit/ certificates \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            285.1227722167969,
+            437.9001159667969,
+            295.478271484375,
+            685.529296875
+          ],
+          "text": "from banks for meeting the fund requirement etc.). \n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            256.082763671875,
+            74.66057586669922,
+            266.4382629394531,
+            206.017822265625
+          ],
+          "text": "Attachment-13 to Letter of \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            270.6027526855469,
+            136.9420166015625,
+            280.958251953125,
+            206.012451171875
+          ],
+          "text": "Technical Bid \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            312.1227722167969,
+            213.7386474609375,
+            322.5982666015625,
+            740.3690185546875
+          ],
+          "text": "3.1.B (ii) \nAnnual Turnover: Tenderer in its name should have in the last five financial years (2021-2022 \n"
+        },
+        {
+          "block_number": 20,
+          "bbox": [
+            326.6427307128906,
+            213.74169921875,
+            336.99822998046875,
+            685.529052734375
+          ],
+          "text": "to 2025-2026) achieved in at least two financial years a minimum financial turnover (in all \n"
+        },
+        {
+          "block_number": 21,
+          "bbox": [
+            341.1627197265625,
+            301.10101318359375,
+            351.5182189941406,
+            685.530029296875
+          ],
+          "text": "classes of civil engineering construction works only) ≥ ₹ 9.48 Crores. **** \n"
+        },
+        {
+          "block_number": 22,
+          "bbox": [
+            312.24273681640625,
+            74.66210174560547,
+            322.5982360839844,
+            206.01763916015625
+          ],
+          "text": "Attachment-8 to Letter of \n"
+        },
+        {
+          "block_number": 23,
+          "bbox": [
+            326.7626953125,
+            136.94183349609375,
+            337.1181945800781,
+            206.01226806640625
+          ],
+          "text": "Technical Bid \n"
+        },
+        {
+          "block_number": 24,
+          "bbox": [
+            374.2827453613281,
+            714.3788452148438,
+            384.63824462890625,
+            770.0093994140625
+          ],
+          "text": "      Notes: \n"
+        },
+        {
+          "block_number": 25,
+          "bbox": [
+            394.9227294921875,
+            69.02190399169922,
+            405.2782287597656,
+            752.009521484375
+          ],
+          "text": "1) \nA copy of the Banker’s Certificate issued from a Nationalised / Scheduled Bank in India (for liquidity) needs to be uploaded in the \n"
+        },
+        {
+          "block_number": 26,
+          "bbox": [
+            409.4427185058594,
+            459.0204162597656,
+            419.7982177734375,
+            727.4099731445312
+          ],
+          "text": "Technical Proposal in respect of EQC Clause 3.1 B (i). \n"
+        },
+        {
+          "block_number": 27,
+          "bbox": [
+            429.96270751953125,
+            69.02220916748047,
+            440.3182067871094,
+            752.009521484375
+          ],
+          "text": "2) \nAnnual financial statements (Audited Balance sheets including all related notes and income statements) for last five financial years \n"
+        },
+        {
+          "block_number": 28,
+          "bbox": [
+            444.60272216796875,
+            69.02239227294922,
+            454.9582214355469,
+            727.4099731445312
+          ],
+          "text": "(2021-2022 to 2025-2026) shall be submitted by the Tenderer. The financial information of the Tenderer must be certified either by the \n"
+        },
+        {
+          "block_number": 29,
+          "bbox": [
+            459.1227111816406,
+            69.02263641357422,
+            469.47821044921875,
+            727.409912109375
+          ],
+          "text": "Independent Financial Auditor (statutory Auditor) of the company appointed under the companies’ Act or by a Chartered Accountant with \n"
+        },
+        {
+          "block_number": 30,
+          "bbox": [
+            473.6426696777344,
+            337.22064208984375,
+            483.9981689453125,
+            727.409912109375
+          ],
+          "text": "his stamp and signature with membership number and firm registration number. \n"
+        },
+        {
+          "block_number": 31,
+          "bbox": [
+            494.16265869140625,
+            69.02202606201172,
+            504.5181579589844,
+            752.0094604492188
+          ],
+          "text": "3) \nIn case any discrepancy in data is found between the Audited Balance sheet and the financial information submitted, the data as available \n"
+        },
+        {
+          "block_number": 32,
+          "bbox": [
+            508.6826171875,
+            490.6993103027344,
+            519.0381469726562,
+            727.4089965820312
+          ],
+          "text": "in the Audited Balance sheet will be considered. \n"
+        },
+        {
+          "block_number": 33,
+          "bbox": [
+            24.479991912841797,
+            778.4240112304688,
+            41.38799285888672,
+            802.4000244140625
+          ],
+          "text": "028\n"
+        }
+      ]
+    },
+    {
+      "pdf_page": 35,
+      "rotation": 90,
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            37.313743591308594,
+            69.58556365966797,
+            46.169979095458984,
+            770.0093994140625
+          ],
+          "text": "BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157  \n \nEligibility cum Qualification Criteria (EQC) \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            49.793739318847656,
+            767.5130004882812,
+            56.75997543334961,
+            770.0093994140625
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            529.9677734375,
+            802.9061279296875,
+            538.4097900390625,
+            805.409423828125
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            540.2877807617188,
+            802.9061279296875,
+            548.7297973632812,
+            805.409423828125
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            550.3135375976562,
+            69.59288024902344,
+            559.1697998046875,
+            805.409423828125
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd. \n               September -2026 \nSection Page 10 of 11 \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            74.16284942626953,
+            69.02251434326172,
+            84.51836395263672,
+            752.0094604492188
+          ],
+          "text": "4) \nIn case Audited Balance sheet of the last financial year ending with 2025-2026 is not made available by the Tenderer, he has to submit \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            88.68284606933594,
+            69.02190399169922,
+            99.03836059570312,
+            727.4099731445312
+          ],
+          "text": "an affidavit certifying that 'The Balance Sheet has actually not been audited so far'. In such a case the financial data of previous '4' \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            103.20284271240234,
+            69.02275848388672,
+            113.55835723876953,
+            727.409912109375
+          ],
+          "text": "audited financial years will be taken into consideration for evaluation. If audited Balance sheet of any year other than the last financial \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            117.84283447265625,
+            69.02239227294922,
+            128.19834899902344,
+            727.410888671875
+          ],
+          "text": "year ending with 2025-2026 is not submitted even when requested for as a clarification under clause 20 of ITT, then the Tender will be \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            132.3628387451172,
+            574.5799560546875,
+            142.71835327148438,
+            727.4119262695312
+          ],
+          "text": "considered as non-responsive. \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            152.88284301757812,
+            69.02428436279297,
+            163.2383575439453,
+            752.0118408203125
+          ],
+          "text": "5) \nAll documents shall reflect the stand-alone financial status of the Tenderer and not the Tenderer’s parent companies, subsidiaries, or \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            167.40283203125,
+            680.89990234375,
+            177.7583465576172,
+            727.412353515625
+          ],
+          "text": "affiliates. \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            188.04283142089844,
+            97.46453094482422,
+            198.39834594726562,
+            752.0122680664062
+          ],
+          "text": "6) \nFor the purpose of evaluation, amounts in foreign currencies shall be converted to equivalent INR as per the following procedure: \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            208.5628204345703,
+            69.02489471435547,
+            218.9183349609375,
+            727.4127197265625
+          ],
+          "text": "In cases where the financial data is denominated in a currency other than Indian Rupees, it shall be converted into the equivalent value \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            223.08282470703125,
+            69.02495574951172,
+            233.43833923339844,
+            727.4127197265625
+          ],
+          "text": "in Indian Rupees by adopting the exchange rate between the foreign currency and INR prevailing on the last day of the respective \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            237.60281372070312,
+            211.22259521484375,
+            247.9583282470703,
+            727.4126586914062
+          ],
+          "text": "financial year, as published on the Reserve Bank of India (RBI) website, for the purpose of bid evaluation. \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            258.122802734375,
+            160.58355712890625,
+            268.4783020019531,
+            752.0121459960938
+          ],
+          "text": "7) \nTo align a January–December financial year with the standard April–March fiscal year, use the following conversion: \n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            278.7628173828125,
+            69.02599334716797,
+            289.1183166503906,
+            727.4166259765625
+          ],
+          "text": "A calendar year (e.g., January–December 2023) corresponds to the subsequent fiscal year (e.g., FY 2023–24, covering April 2023 to \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            293.2828063964844,
+            409.4621276855469,
+            303.6383056640625,
+            727.41162109375
+          ],
+          "text": "March 2024). Apply this rule consistently to all such conversions. \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            313.80279541015625,
+            69.02391815185547,
+            338.6782531738281,
+            752.0111083984375
+          ],
+          "text": "8) \n****Financial turnover in INR/converted equivalent INR of previous financial years shall be given a weightage of 5% per year \n(compounded annually) to bring them to the price level of the Financial Year of this Tender Invitation. \n"
+        },
+        {
+          "block_number": 20,
+          "bbox": [
+            348.9627380371094,
+            69.02355194091797,
+            359.3182373046875,
+            752.0111083984375
+          ],
+          "text": "9) \nAll the documents or certifications, which are provided by Chartered Accountant after 1st July, 2019, must contain UDIN thereon and \n"
+        },
+        {
+          "block_number": 21,
+          "bbox": [
+            363.48272705078125,
+            69.02416229248047,
+            373.8382263183594,
+            727.41162109375
+          ],
+          "text": "the particulars of certifications must be same as mentioned on document/certification and submitted to ICAI on its website which can be \n"
+        },
+        {
+          "block_number": 22,
+          "bbox": [
+            378.0027160644531,
+            482.1800537109375,
+            388.35821533203125,
+            727.4116821289062
+          ],
+          "text": "verified online on https://udin.icai.org/search-udin. \n"
+        },
+        {
+          "block_number": 23,
+          "bbox": [
+            404.4027099609375,
+            667.2173461914062,
+            414.7582092285156,
+            770.0093994140625
+          ],
+          "text": "3.2 BID CAPACITY: \n"
+        },
+        {
+          "block_number": 24,
+          "bbox": [
+            425.522705078125,
+            82.09905242919922,
+            435.8782043457031,
+            516.569091796875
+          ],
+          "text": "Requirement \nDocument Submission \n"
+        },
+        {
+          "block_number": 25,
+          "bbox": [
+            440.0426940917969,
+            108.13878631591797,
+            450.398193359375,
+            178.4093017578125
+          ],
+          "text": "Requirement \n"
+        },
+        {
+          "block_number": 26,
+          "bbox": [
+            461.0426940917969,
+            501.2599792480469,
+            471.398193359375,
+            743.3748168945312
+          ],
+          "text": "Available Bid capacity should be ≥ ₹ 4.74 Crores \n"
+        },
+        {
+          "block_number": 27,
+          "bbox": [
+            481.5626525878906,
+            693.259521484375,
+            491.91815185546875,
+            743.3700561523438
+          ],
+          "text": "Formula: \n"
+        },
+        {
+          "block_number": 28,
+          "bbox": [
+            502.2026672363281,
+            531.4981689453125,
+            512.5581665039062,
+            743.37548828125
+          ],
+          "text": "Available Bid Capacity = (1.5 × A × N) – B  \n"
+        },
+        {
+          "block_number": 29,
+          "bbox": [
+            461.1626892089844,
+            77.65674591064453,
+            471.5181884765625,
+            211.77783203125
+          ],
+          "text": "Attachment-7, Attachment-\n"
+        },
+        {
+          "block_number": 30,
+          "bbox": [
+            475.6826477050781,
+            77.90239715576172,
+            486.03814697265625,
+            211.7724609375
+          ],
+          "text": "8 to Letter of Technical Bid \n"
+        },
+        {
+          "block_number": 31,
+          "bbox": [
+            24.479991912841797,
+            25.200016021728516,
+            41.38799285888672,
+            49.176025390625
+          ],
+          "text": "029\n"
+        }
+      ]
+    },
+    {
+      "pdf_page": 36,
+      "rotation": 90,
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            37.313743591308594,
+            69.58556365966797,
+            46.169979095458984,
+            770.0093994140625
+          ],
+          "text": "BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157  \n \nEligibility cum Qualification Criteria (EQC) \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            49.793739318847656,
+            767.5130004882812,
+            56.75997543334961,
+            770.0093994140625
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            529.9677734375,
+            802.9061279296875,
+            538.4097900390625,
+            805.409423828125
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            540.2877807617188,
+            802.9061279296875,
+            548.7297973632812,
+            805.409423828125
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            550.3135375976562,
+            69.59288024902344,
+            559.1697998046875,
+            805.409423828125
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd. \n               September -2026 \nSection Page 11 of 11 \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            74.52284240722656,
+            82.09905242919922,
+            84.87835693359375,
+            516.569091796875
+          ],
+          "text": "Requirement \nDocument Submission \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            89.0428466796875,
+            108.13878631591797,
+            99.39836120605469,
+            178.4093017578125
+          ],
+          "text": "Requirement \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            104.16283416748047,
+            702.978271484375,
+            114.51834869384766,
+            743.3694458007812
+          ],
+          "text": "Where: \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            124.68282318115234,
+            219.501953125,
+            135.03834533691406,
+            743.3694458007812
+          ],
+          "text": "A = Maximum value of total Civil Engineering works executed (annual turnover from Civil Engineering works) \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            139.3228302001953,
+            219.50164794921875,
+            149.6783447265625,
+            743.3707275390625
+          ],
+          "text": "in any one year during the last five financial years. The turnover for previous years shall be updated by 5% \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            153.84283447265625,
+            216.4984130859375,
+            164.19834899902344,
+            743.3697509765625
+          ],
+          "text": "per year (compounded annually) to bring them to the price level of the Financial Year of this Tender Invitation.  \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            174.36280822753906,
+            299.0609130859375,
+            184.71832275390625,
+            743.3694458007812
+          ],
+          "text": "N = Number of years prescribed for completion of this tendered work as mentioned in NIT.  \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            194.88279724121094,
+            219.499755859375,
+            205.23831176757812,
+            743.3688354492188
+          ],
+          "text": "B = Total value (updated to the price level of the Financial Year of this Tender Invitation) of existing \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            209.52279663085938,
+            219.4996337890625,
+            219.87831115722656,
+            743.3682861328125
+          ],
+          "text": "commitments for ongoing Civil Engineering works during the completion period mentioned in NIT, from the \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            224.0428009033203,
+            400.9378356933594,
+            234.3983154296875,
+            743.3682861328125
+          ],
+          "text": "last day of the month previous to the month of invitation of this tender. \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            251.04275512695312,
+            714.7405395507812,
+            261.39825439453125,
+            752.0094604492188
+          ],
+          "text": "Notes: \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            271.6827392578125,
+            69.02172088623047,
+            296.5582275390625,
+            750.689453125
+          ],
+          "text": "1) Works in Hand information provided in ‘Attachment-7 to Letter of Technical Bid’ must be certified either by the Independent Financial \nAuditor (Statutory Auditor) of the company appointed under the companies’ Act or by a Chartered Accountant with his stamp and signature \n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            300.72271728515625,
+            444.7403259277344,
+            311.0782165527344,
+            734.609619140625
+          ],
+          "text": "with Membership Number and Firm’s Registration Number. \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            321.3627014160156,
+            69.01885223388672,
+            346.2381896972656,
+            750.689453125
+          ],
+          "text": "2) All the documents or certifications, which are provided by Chartered Accountant after 1st July 2019, must contain UDIN thereon and the \nparticulars of certifications must be same as mentioned on document/certification and submitted to ICAI on its website, which can be \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            350.4026794433594,
+            489.37701416015625,
+            360.7581787109375,
+            734.608642578125
+          ],
+          "text": "verified online on https://udin.icai.org/search-udin. \n"
+        },
+        {
+          "block_number": 20,
+          "bbox": [
+            370.9227294921875,
+            748.9386596679688,
+            381.2782287597656,
+            752.0094604492188
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 21,
+          "bbox": [
+            24.479991912841797,
+            778.4240112304688,
+            41.38799285888672,
+            802.4000244140625
+          ],
+          "text": "030\n"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1614 @@
+{
+  "source_id": "bmrcl-volume-3",
+  "source_path": "data/Vol3DLNP1.pdf",
+  "source_sha256": "1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52",
+  "source_section": "I",
+  "source_section_label": "SHE - Manual (for Reference only)",
+  "appendix_id": "3",
+  "title": "Site SHE Plan",
+  "document_role": "plan_outline_template",
+  "pdf_pages": [
+    93,
+    94
+  ],
+  "review_status": "pending_manual_review",
+  "introduction_and_template_labels": {
+    "fragments": [
+      {
+        "pdf_page": 93,
+        "text": "BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                                APPENDIX NO.: 3\n\n\n\n                                      SITE SHE PLAN\n\n\n          Contract No\n\n          Contractor Name\n\n           Project Name"
+      }
+    ],
+    "retained_lines": [
+      {
+        "pdf_page": 93,
+        "source_line_number": 3,
+        "text": ""
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 4,
+        "text": "                          BANGALORE METRO RAIL CORPORATION LTD."
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 5,
+        "text": ""
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 6,
+        "text": ""
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 7,
+        "text": ""
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 8,
+        "text": "                                APPENDIX NO.: 3"
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 9,
+        "text": ""
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 10,
+        "text": ""
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 11,
+        "text": ""
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 12,
+        "text": "                                      SITE SHE PLAN"
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 13,
+        "text": ""
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 14,
+        "text": ""
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 15,
+        "text": "          Contract No"
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 16,
+        "text": ""
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 17,
+        "text": "          Contractor Name"
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 18,
+        "text": ""
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 19,
+        "text": "           Project Name"
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 20,
+        "text": ""
+      },
+      {
+        "pdf_page": 93,
+        "source_line_number": 21,
+        "text": ""
+      }
+    ],
+    "individual_field_reconstruction": "not_performed"
+  },
+  "topics": [
+    {
+      "topic_id": "1",
+      "record_id": "vol3-appendix-3-topic-1",
+      "title": "Project Highlights",
+      "heading_line": "                1.   Project Highlights",
+      "starting_pdf_page": 93,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 93,
+          "source_line_number": 22,
+          "text": "                1.   Project Highlights"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 23,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 24,
+          "text": "                                    i)     Title of the content"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 25,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 26,
+          "text": "                                       ii)   Contractor Number"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 27,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 28,
+          "text": "                                        iii)   Brief scope of work"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 29,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 30,
+          "text": "                             iv)   Location map/ key plan"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 31,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 32,
+          "text": "                        v)   Period of the project"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 33,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 34,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 93,
+          "text": "1.   Project Highlights\n\n                                    i)     Title of the content\n\n                                       ii)   Contractor Number\n\n                                        iii)   Brief scope of work\n\n                             iv)   Location map/ key plan\n\n                        v)   Period of the project"
+        }
+      ]
+    },
+    {
+      "topic_id": "2",
+      "record_id": "vol3-appendix-3-topic-2",
+      "title": "SHE Policy",
+      "heading_line": "                2.  SHE Policy",
+      "starting_pdf_page": 93,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 93,
+          "source_line_number": 35,
+          "text": "                2.  SHE Policy"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 36,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 37,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 93,
+          "text": "2.  SHE Policy"
+        }
+      ]
+    },
+    {
+      "topic_id": "3",
+      "record_id": "vol3-appendix-3-topic-3",
+      "title": "Site Organisation Chart",
+      "heading_line": "                3.   Site Organisation Chart",
+      "starting_pdf_page": 93,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 93,
+          "source_line_number": 38,
+          "text": "                3.   Site Organisation Chart"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 39,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 40,
+          "text": "                    Chart indicating reporting of SHE personnel"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 41,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 93,
+          "text": "3.   Site Organisation Chart\n\n                    Chart indicating reporting of SHE personnel"
+        }
+      ]
+    },
+    {
+      "topic_id": "4",
+      "record_id": "vol3-appendix-3-topic-4",
+      "title": "Roles & Responsibility",
+      "heading_line": "                4.  Roles & Responsibility",
+      "starting_pdf_page": 93,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 93,
+          "source_line_number": 42,
+          "text": "                4.  Roles & Responsibility"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 43,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 44,
+          "text": "                        Individual responsibility of the"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 45,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 46,
+          "text": "                                    i)    Project Manager"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 47,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 48,
+          "text": "                                       ii)   Construction Manager"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 49,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 50,
+          "text": "                                        iii)   Construction Supervisors"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 51,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 52,
+          "text": "                             iv)  SHE Committee Members"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 53,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 54,
+          "text": "                        v)  SHE In charge"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 55,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 56,
+          "text": "                             vi)   Site Engineers"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 57,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 58,
+          "text": "                                vii)   First Line Supervisors"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 59,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 60,
+          "text": "                                  viii)  Sub-contractors"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 61,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 93,
+          "text": "4.  Roles & Responsibility\n\n                        Individual responsibility of the\n\n                                    i)    Project Manager\n\n                                       ii)   Construction Manager\n\n                                        iii)   Construction Supervisors\n\n                             iv)  SHE Committee Members\n\n                        v)  SHE In charge\n\n                             vi)   Site Engineers\n\n                                vii)   First Line Supervisors\n\n                                  viii)  Sub-contractors"
+        }
+      ]
+    },
+    {
+      "topic_id": "5",
+      "record_id": "vol3-appendix-3-topic-5",
+      "title": "SHE Committee",
+      "heading_line": "                5.  SHE Committee",
+      "starting_pdf_page": 93,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 93,
+          "source_line_number": 62,
+          "text": "                5.  SHE Committee"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 63,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 64,
+          "text": "                                    i)    Details - Chairman, Members, Secretary and Employer’s representative,"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 65,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 66,
+          "text": "                                       ii)   Procedures for effective conduct of meeting"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 67,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 93,
+          "text": "5.  SHE Committee\n\n                                    i)    Details - Chairman, Members, Secretary and Employer’s representative,\n\n                                       ii)   Procedures for effective conduct of meeting"
+        }
+      ]
+    },
+    {
+      "topic_id": "6",
+      "record_id": "vol3-appendix-3-topic-6",
+      "title": "SHE Training",
+      "heading_line": "                6.  SHE Training",
+      "starting_pdf_page": 93,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 93,
+          "source_line_number": 68,
+          "text": "                6.  SHE Training"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 69,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 93,
+          "text": "6.  SHE Training"
+        }
+      ]
+    },
+    {
+      "topic_id": "7",
+      "record_id": "vol3-appendix-3-topic-7",
+      "title": "Subcontractor Evaluation, Selection and Control",
+      "heading_line": "                7.   Subcontractor Evaluation, Selection and Control",
+      "starting_pdf_page": 93,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 93,
+          "source_line_number": 70,
+          "text": "                7.   Subcontractor Evaluation, Selection and Control"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 71,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 93,
+          "text": "7.   Subcontractor Evaluation, Selection and Control"
+        }
+      ]
+    },
+    {
+      "topic_id": "8",
+      "record_id": "vol3-appendix-3-topic-8",
+      "title": "SHE Inspection",
+      "heading_line": "                8.  SHE Inspection",
+      "starting_pdf_page": 93,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 93,
+          "source_line_number": 72,
+          "text": "                8.  SHE Inspection"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 73,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 93,
+          "text": "8.  SHE Inspection"
+        }
+      ]
+    },
+    {
+      "topic_id": "9",
+      "record_id": "vol3-appendix-3-topic-9",
+      "title": "SHE Audit",
+      "heading_line": "                9.  SHE Audit",
+      "starting_pdf_page": 93,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 93,
+          "source_line_number": 74,
+          "text": "                9.  SHE Audit"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 75,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 93,
+          "text": "9.  SHE Audit"
+        }
+      ]
+    },
+    {
+      "topic_id": "10",
+      "record_id": "vol3-appendix-3-topic-10",
+      "title": "Accident Investigation And Reporting Procedures",
+      "heading_line": "              10.  Accident Investigation And Reporting Procedures",
+      "starting_pdf_page": 93,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 93,
+          "source_line_number": 76,
+          "text": "              10.  Accident Investigation And Reporting Procedures"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 77,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 93,
+          "text": "10.  Accident Investigation And Reporting Procedures"
+        }
+      ]
+    },
+    {
+      "topic_id": "11",
+      "record_id": "vol3-appendix-3-topic-11",
+      "title": "Occupational Health Measures",
+      "heading_line": "              11.  Occupational Health Measures",
+      "starting_pdf_page": 93,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 93,
+          "source_line_number": 78,
+          "text": "              11.  Occupational Health Measures"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 79,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 93,
+          "text": "11.  Occupational Health Measures"
+        }
+      ]
+    },
+    {
+      "topic_id": "12",
+      "record_id": "vol3-appendix-3-topic-12",
+      "title": "Labour Welfare Measures",
+      "heading_line": "              12.  Labour Welfare Measures",
+      "starting_pdf_page": 93,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 93,
+          "source_line_number": 80,
+          "text": "              12.  Labour Welfare Measures"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 81,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 93,
+          "text": "12.  Labour Welfare Measures"
+        }
+      ]
+    },
+    {
+      "topic_id": "13",
+      "record_id": "vol3-appendix-3-topic-13",
+      "title": "Risk assessment and mitigation procedures",
+      "heading_line": "              13.  Risk assessment and mitigation procedures",
+      "starting_pdf_page": 93,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 93,
+          "source_line_number": 82,
+          "text": "              13.  Risk assessment and mitigation procedures"
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 83,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 84,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 85,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 86,
+          "text": ""
+        },
+        {
+          "pdf_page": 93,
+          "source_line_number": 87,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 93,
+          "text": "13.  Risk assessment and mitigation procedures"
+        }
+      ]
+    },
+    {
+      "topic_id": "14",
+      "record_id": "vol3-appendix-3-topic-14",
+      "title": "Safe Work Procedures",
+      "heading_line": "    14.  Safe Work Procedures",
+      "starting_pdf_page": 94,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 94,
+          "source_line_number": 3,
+          "text": "    14.  Safe Work Procedures"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 4,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 5,
+          "text": "                    i)    Work at Height"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 6,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 7,
+          "text": "                     ii)     Structural Steel Erection"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 8,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 9,
+          "text": "                      iii)   Launching of segments"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 10,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 11,
+          "text": "                iv)    Floor, Wall Openings and Stairways"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 12,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 13,
+          "text": "             v)    Welding, Cutting and Bracing"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 14,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 15,
+          "text": "                vi)    Lifting appliances"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 16,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 17,
+          "text": "                 vii)  Work Permit Systems"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 18,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 19,
+          "text": "                  viii)   Electrical Equipments"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 20,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 21,
+          "text": "               ix)   Mechanical Equipments"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 22,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 23,
+          "text": "             x)    Excavation"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 24,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 25,
+          "text": "               xi)    Fire Prevention"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 26,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 27,
+          "text": "                 xii)   Hazardous Chemicals and Solvents"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 28,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 29,
+          "text": "                  xiii)   Ionising Radiation"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 30,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 31,
+          "text": "              xiv)   Lighting"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 32,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 33,
+          "text": "            xv)   Abrasive Blasting"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 34,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 94,
+          "text": "14.  Safe Work Procedures\n\n                    i)    Work at Height\n\n                     ii)     Structural Steel Erection\n\n                      iii)   Launching of segments\n\n                iv)    Floor, Wall Openings and Stairways\n\n             v)    Welding, Cutting and Bracing\n\n                vi)    Lifting appliances\n\n                 vii)  Work Permit Systems\n\n                  viii)   Electrical Equipments\n\n               ix)   Mechanical Equipments\n\n             x)    Excavation\n\n               xi)    Fire Prevention\n\n                 xii)   Hazardous Chemicals and Solvents\n\n                  xiii)   Ionising Radiation\n\n              xiv)   Lighting\n\n            xv)   Abrasive Blasting"
+        }
+      ]
+    },
+    {
+      "topic_id": "15",
+      "record_id": "vol3-appendix-3-topic-15",
+      "title": "Work Permit System",
+      "heading_line": "    15.  Work Permit System",
+      "starting_pdf_page": 94,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 94,
+          "source_line_number": 35,
+          "text": "    15.  Work Permit System"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 36,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 94,
+          "text": "15.  Work Permit System"
+        }
+      ]
+    },
+    {
+      "topic_id": "16",
+      "record_id": "vol3-appendix-3-topic-16",
+      "title": "List of standard job specific PPEs to be used in the site",
+      "heading_line": "    16.  List of standard job specific PPEs to be used in the site",
+      "starting_pdf_page": 94,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 94,
+          "source_line_number": 37,
+          "text": "    16.  List of standard job specific PPEs to be used in the site"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 38,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 94,
+          "text": "16.  List of standard job specific PPEs to be used in the site"
+        }
+      ]
+    },
+    {
+      "topic_id": "17",
+      "record_id": "vol3-appendix-3-topic-17",
+      "title": "Maintenance of Regime for construction Equipment and Machinery",
+      "heading_line": "    17.  Maintenance of Regime for construction Equipment and Machinery",
+      "starting_pdf_page": 94,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 94,
+          "source_line_number": 39,
+          "text": "    17.  Maintenance of Regime for construction Equipment and Machinery"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 40,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 94,
+          "text": "17.  Maintenance of Regime for construction Equipment and Machinery"
+        }
+      ]
+    },
+    {
+      "topic_id": "18",
+      "record_id": "vol3-appendix-3-topic-18",
+      "title": "Traffic management",
+      "heading_line": "    18.  Traffic management",
+      "starting_pdf_page": 94,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 94,
+          "source_line_number": 41,
+          "text": "    18.  Traffic management"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 42,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 94,
+          "text": "18.  Traffic management"
+        }
+      ]
+    },
+    {
+      "topic_id": "19",
+      "record_id": "vol3-appendix-3-topic-19",
+      "title": "Housekeeping",
+      "heading_line": "    19.  Housekeeping",
+      "starting_pdf_page": 94,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 94,
+          "source_line_number": 43,
+          "text": "    19.  Housekeeping"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 44,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 94,
+          "text": "19.  Housekeeping"
+        }
+      ]
+    },
+    {
+      "topic_id": "20",
+      "record_id": "vol3-appendix-3-topic-20",
+      "title": "Environmental Management",
+      "heading_line": "    20.  Environmental Management",
+      "starting_pdf_page": 94,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 94,
+          "source_line_number": 45,
+          "text": "    20.  Environmental Management"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 46,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 94,
+          "text": "20.  Environmental Management"
+        }
+      ]
+    },
+    {
+      "topic_id": "21",
+      "record_id": "vol3-appendix-3-topic-21",
+      "title": "Emergency Management",
+      "heading_line": "    21.  Emergency Management",
+      "starting_pdf_page": 94,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 94,
+          "source_line_number": 47,
+          "text": "    21.  Emergency Management"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 48,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 94,
+          "text": "21.  Emergency Management"
+        }
+      ]
+    },
+    {
+      "topic_id": "22",
+      "record_id": "vol3-appendix-3-topic-22",
+      "title": "Visitors and Security arrangement",
+      "heading_line": "    22.  Visitors and Security arrangement",
+      "starting_pdf_page": 94,
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 94,
+          "source_line_number": 49,
+          "text": "    22.  Visitors and Security arrangement"
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 50,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 51,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 52,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 53,
+          "text": ""
+        },
+        {
+          "pdf_page": 94,
+          "source_line_number": 54,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 94,
+          "text": "22.  Visitors and Security arrangement"
+        }
+      ]
+    }
+  ],
+  "removed_lines": [
+    {
+      "pdf_page": 93,
+      "source_line_number": 1,
+      "text": "Safety Health & Environment (SHE) Manual",
+      "reason": "manual_page_header"
+    },
+    {
+      "pdf_page": 93,
+      "source_line_number": 2,
+      "text": "277",
+      "reason": "printed_booklet_page_number"
+    },
+    {
+      "pdf_page": 93,
+      "source_line_number": 88,
+      "text": "         Bangalore Metro Rail Corporation Ltd.              September 2026     Section Page 89 of 114",
+      "reason": "combined_page_footer"
+    },
+    {
+      "pdf_page": 94,
+      "source_line_number": 1,
+      "text": "Safety Health & Environment (SHE) Manual",
+      "reason": "manual_page_header"
+    },
+    {
+      "pdf_page": 94,
+      "source_line_number": 2,
+      "text": "                                                          278",
+      "reason": "printed_booklet_page_number"
+    },
+    {
+      "pdf_page": 94,
+      "source_line_number": 55,
+      "text": "Bangalore Metro Rail Corporation Ltd.              September 2026     Section Page 90 of 114",
+      "reason": "combined_page_footer"
+    }
+  ],
+  "source_page_context": [
+    {
+      "pdf_page": 93,
+      "rotation": 0,
+      "page_rect": [
+        0.0,
+        0.0,
+        595.219970703125,
+        842.0
+      ],
+      "extraction_method": "geometric_sort",
+      "text": "Safety Health & Environment (SHE) Manual\n277\n\n                          BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                                APPENDIX NO.: 3\n\n\n\n                                      SITE SHE PLAN\n\n\n          Contract No\n\n          Contractor Name\n\n           Project Name\n\n\n                1.   Project Highlights\n\n                                    i)     Title of the content\n\n                                       ii)   Contractor Number\n\n                                        iii)   Brief scope of work\n\n                             iv)   Location map/ key plan\n\n                        v)   Period of the project\n\n\n                2.  SHE Policy\n\n\n                3.   Site Organisation Chart\n\n                    Chart indicating reporting of SHE personnel\n\n                4.  Roles & Responsibility\n\n                        Individual responsibility of the\n\n                                    i)    Project Manager\n\n                                       ii)   Construction Manager\n\n                                        iii)   Construction Supervisors\n\n                             iv)  SHE Committee Members\n\n                        v)  SHE In charge\n\n                             vi)   Site Engineers\n\n                                vii)   First Line Supervisors\n\n                                  viii)  Sub-contractors\n\n                5.  SHE Committee\n\n                                    i)    Details - Chairman, Members, Secretary and Employer’s representative,\n\n                                       ii)   Procedures for effective conduct of meeting\n\n                6.  SHE Training\n\n                7.   Subcontractor Evaluation, Selection and Control\n\n                8.  SHE Inspection\n\n                9.  SHE Audit\n\n              10.  Accident Investigation And Reporting Procedures\n\n              11.  Occupational Health Measures\n\n              12.  Labour Welfare Measures\n\n              13.  Risk assessment and mitigation procedures\n\n\n\n\n\n         Bangalore Metro Rail Corporation Ltd.              September 2026     Section Page 89 of 114",
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            50.15998077392578,
+            15.768376350402832,
+            564.21923828125,
+            24.210372924804688
+          ],
+          "text": "                                                                                                                                   Safety Health & Environment (SHE) Manual \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            85.5599594116211,
+            26.57955551147461,
+            88.32714080810547,
+            35.93199157714844
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            85.5599594116211,
+            809.042724609375,
+            511.7470703125,
+            830.5714111328125
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                              September 2026         Section Page 89 of 114 \n \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            128.15994262695312,
+            41.589454650878906,
+            130.9271240234375,
+            50.93193054199219
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            227.99996948242188,
+            52.509437561035156,
+            463.0889587402344,
+            61.85191345214844
+          ],
+          "text": "BANGALORE METRO RAIL CORPORATION LTD. \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            266.7598876953125,
+            91.80321502685547,
+            361.5072326660156,
+            102.15872955322266
+          ],
+          "text": "APPENDIX NO.: 3 \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            85.5599594116211,
+            118.26944732666016,
+            88.32714080810547,
+            127.61192321777344
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            85.5599594116211,
+            132.84320068359375,
+            357.3071594238281,
+            157.85191345214844
+          ],
+          "text": "SITE SHE PLAN \n \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            90.8399658203125,
+            163.37948608398438,
+            192.607177734375,
+            172.85191345214844
+          ],
+          "text": "Contract No \n \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            90.83995819091797,
+            181.38938903808594,
+            364.9273376464844,
+            190.8518524169922
+          ],
+          "text": "Contractor Name  \n \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            90.83995819091797,
+            199.38938903808594,
+            192.607177734375,
+            208.8518524169922
+          ],
+          "text": "Project Name \n \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            85.5599594116211,
+            214.49942016601562,
+            88.32714080810547,
+            223.8518524169922
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            105.00000762939453,
+            229.38938903808594,
+            215.16708374023438,
+            238.7318572998047
+          ],
+          "text": "1.\nProject Highlights \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            139.4398956298828,
+            244.01943969726562,
+            268.4488220214844,
+            311.33197021484375
+          ],
+          "text": "i) \nTitle of the content \nii) \nContractor Number \niii) \nBrief scope of work \niv) \nLocation map/ key plan \nv) \nPeriod of the project \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            104.99995422363281,
+            326.10931396484375,
+            182.40711975097656,
+            335.4518127441406
+          ],
+          "text": "2.\nSHE Policy \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            104.99995422363281,
+            350.2293395996094,
+            241.3270721435547,
+            359.57183837890625
+          ],
+          "text": "3.\nSite Organisation Chart \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            139.4398956298828,
+            364.859375,
+            335.1672668457031,
+            374.2118225097656
+          ],
+          "text": "Chart indicating reporting of SHE personnel \n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            104.99995422363281,
+            382.7492980957031,
+            237.96719360351562,
+            392.091796875
+          ],
+          "text": "4.\nRoles & Responsibility \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            139.4398956298828,
+            397.3793640136719,
+            281.76873779296875,
+            522.7716674804688
+          ],
+          "text": "Individual responsibility of the \ni) \nProject Manager  \nii) \nConstruction Manager \niii) \nConstruction Supervisors \niv) \nSHE Committee Members \nv) \nSHE In charge \nvi) \nSite Engineers \nvii) First Line Supervisors \nviii) Sub-contractors  \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            104.99995422363281,
+            531.3092651367188,
+            204.6070556640625,
+            540.6517333984375
+          ],
+          "text": "5.\nSHE Committee \n"
+        },
+        {
+          "block_number": 20,
+          "bbox": [
+            139.4398956298828,
+            545.8192138671875,
+            487.44683837890625,
+            569.6917114257812
+          ],
+          "text": "i) \nDetails - Chairman, Members, Secretary and Employer’s representative,  \nii) \nProcedures for effective conduct of meeting \n"
+        },
+        {
+          "block_number": 21,
+          "bbox": [
+            104.99995422363281,
+            578.21923828125,
+            192.3671417236328,
+            587.5717163085938
+          ],
+          "text": "6.\nSHE Training \n"
+        },
+        {
+          "block_number": 22,
+          "bbox": [
+            104.99995422363281,
+            596.229248046875,
+            360.2471008300781,
+            605.5717163085938
+          ],
+          "text": "7.\nSubcontractor Evaluation, Selection and Control \n"
+        },
+        {
+          "block_number": 23,
+          "bbox": [
+            104.99995422363281,
+            614.21923828125,
+            202.92715454101562,
+            623.5717163085938
+          ],
+          "text": "8.\nSHE Inspection \n"
+        },
+        {
+          "block_number": 24,
+          "bbox": [
+            104.99995422363281,
+            632.229248046875,
+            178.4470977783203,
+            641.5717163085938
+          ],
+          "text": "9.\nSHE Audit \n"
+        },
+        {
+          "block_number": 25,
+          "bbox": [
+            102.23995208740234,
+            650.229248046875,
+            366.2472229003906,
+            659.5717163085938
+          ],
+          "text": "10.\nAccident Investigation And Reporting Procedures \n"
+        },
+        {
+          "block_number": 26,
+          "bbox": [
+            102.23995208740234,
+            668.229248046875,
+            275.1671447753906,
+            677.5717163085938
+          ],
+          "text": "11.\nOccupational Health Measures \n"
+        },
+        {
+          "block_number": 27,
+          "bbox": [
+            102.23995208740234,
+            686.2291870117188,
+            251.28707885742188,
+            695.5716552734375
+          ],
+          "text": "12.\nLabour Welfare Measures \n"
+        },
+        {
+          "block_number": 28,
+          "bbox": [
+            102.23995208740234,
+            704.2291870117188,
+            339.127197265625,
+            713.5716552734375
+          ],
+          "text": "13.\nRisk assessment and mitigation procedures \n"
+        },
+        {
+          "block_number": 29,
+          "bbox": [
+            85.5599594116211,
+            719.3391723632812,
+            88.32714080810547,
+            728.691650390625
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 30,
+          "bbox": [
+            39.599998474121094,
+            24.479991912841797,
+            63.57600021362305,
+            41.38799285888672
+          ],
+          "text": "277\n"
+        }
+      ],
+      "has_extracted_text": true,
+      "review_status": "pending_manual_review"
+    },
+    {
+      "pdf_page": 94,
+      "rotation": 0,
+      "page_rect": [
+        0.0,
+        0.0,
+        595.219970703125,
+        842.0
+      ],
+      "extraction_method": "geometric_sort",
+      "text": "Safety Health & Environment (SHE) Manual\n                                                          278\n    14.  Safe Work Procedures\n\n                    i)    Work at Height\n\n                     ii)     Structural Steel Erection\n\n                      iii)   Launching of segments\n\n                iv)    Floor, Wall Openings and Stairways\n\n             v)    Welding, Cutting and Bracing\n\n                vi)    Lifting appliances\n\n                 vii)  Work Permit Systems\n\n                  viii)   Electrical Equipments\n\n               ix)   Mechanical Equipments\n\n             x)    Excavation\n\n               xi)    Fire Prevention\n\n                 xii)   Hazardous Chemicals and Solvents\n\n                  xiii)   Ionising Radiation\n\n              xiv)   Lighting\n\n            xv)   Abrasive Blasting\n\n    15.  Work Permit System\n\n    16.  List of standard job specific PPEs to be used in the site\n\n    17.  Maintenance of Regime for construction Equipment and Machinery\n\n    18.  Traffic management\n\n    19.  Housekeeping\n\n    20.  Environmental Management\n\n    21.  Emergency Management\n\n    22.  Visitors and Security arrangement\n\n\n\n\n\nBangalore Metro Rail Corporation Ltd.              September 2026     Section Page 90 of 114",
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            47.039981842041016,
+            15.768376350402832,
+            561.0993041992188,
+            24.210372924804688
+          ],
+          "text": "                                                                                                                                   Safety Health & Environment (SHE) Manual \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            82.4399642944336,
+            26.57955551147461,
+            85.20714569091797,
+            35.93199157714844
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            82.4399642944336,
+            809.042724609375,
+            508.6270751953125,
+            830.5714111328125
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                              September 2026         Section Page 90 of 114 \n \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            99.23995971679688,
+            41.589454650878906,
+            233.2870635986328,
+            50.93193054199219
+          ],
+          "text": "14.\nSafe Work Procedures \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            136.4398956298828,
+            56.09951400756836,
+            325.21051025390625,
+            268.4921875
+          ],
+          "text": "i) \nWork at Height \nii) \nStructural Steel Erection \niii) \nLaunching of segments \niv) \nFloor, Wall Openings and Stairways \nv) \nWelding, Cutting and Bracing \nvi) \nLifting appliances \nvii) \nWork Permit Systems \nviii) \nElectrical Equipments \nix) \nMechanical Equipments \nx) \nExcavation \nxi) \nFire Prevention \nxii) \nHazardous Chemicals and Solvents \nxiii) \nIonising Radiation \nxiv) \nLighting \nxv) \nAbrasive Blasting  \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            99.23995971679688,
+            277.0293884277344,
+            226.6870880126953,
+            286.37188720703125
+          ],
+          "text": "15.\nWork Permit System  \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            99.23995971679688,
+            295.0293884277344,
+            390.00701904296875,
+            304.37188720703125
+          ],
+          "text": "16.\nList of standard job specific PPEs to be used in the site \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            99.23995971679688,
+            313.0293884277344,
+            444.9674072265625,
+            322.37188720703125
+          ],
+          "text": "17.\nMaintenance of Regime for construction Equipment and Machinery \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            99.23995971679688,
+            331.0293273925781,
+            221.6470489501953,
+            340.371826171875
+          ],
+          "text": "18.\nTraffic management \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            99.23995971679688,
+            349.0293273925781,
+            195.0071258544922,
+            358.371826171875
+          ],
+          "text": "19.\nHousekeeping \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            99.23995971679688,
+            367.029296875,
+            259.9270324707031,
+            376.3717956542969
+          ],
+          "text": "20.\nEnvironmental Management \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            99.23995971679688,
+            385.029296875,
+            244.44705200195312,
+            394.3717956542969
+          ],
+          "text": "21.\nEmergency Management \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            99.23995971679688,
+            403.029296875,
+            289.44696044921875,
+            412.3717956542969
+          ],
+          "text": "22.\nVisitors and Security arrangement \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            82.4399642944336,
+            421.13934326171875,
+            85.20714569091797,
+            758.4515380859375
+          ],
+          "text": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            546.0439453125,
+            24.479991912841797,
+            570.0199584960938,
+            41.38799285888672
+          ],
+          "text": "278\n"
+        }
+      ],
+      "has_extracted_text": true,
+      "review_status": "pending_manual_review"
+    }
+  ],
+  "checks": {
+    "source_hash": "passed",
+    "page_sequence": "passed",
+    "topic_sequence_1_to_22": "passed",
+    "topic_start_pages": "passed",
+    "retained_line_preservation": "passed"
+  },
+  "limitations": [
+    "This is a plan outline template, not a completed plan.",
+    "Contract No, Contractor Name and Project Name labels remain in their source context.",
+    "Individual template fields have not been reconstructed.",
+    "Roman-numbered lists remain within parent topics.",
+    "Original wording has not been corrected.",
+    "Listing a topic does not establish contractor compliance.",
+    "The source labels this manual for reference only.",
+    "Safety adequacy and applicability were not assessed."
+  ]
+}

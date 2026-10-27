@@ -1,0 +1,422 @@
+{
+  "source_id": "bmrcl-volume-2",
+  "source_path": "data/Vol2DLNP1.pdf",
+  "source_sha256": "e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b",
+  "source_section": "H",
+  "part_id": "3",
+  "title": "Scope of Work",
+  "pdf_pages": [
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "review_status": "pending_manual_review",
+  "preamble": [
+    {
+      "pdf_page": 15,
+      "text": "PART-3: SCOPE OF WORK"
+    }
+  ],
+  "removed_lines": [
+    {
+      "pdf_page": 15,
+      "text": "162",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 15,
+      "text": "       BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157       Employer Requirement, Scope of Work &",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 15,
+      "text": "                                                                              Technical Specifications",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 15,
+      "text": "       Bangalore Metro Rail Corporation Ltd.                 September 2026           Section Page 12 of 37",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 16,
+      "text": "163",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 16,
+      "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157       Employer Requirement, Scope of Work &",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 16,
+      "text": "                                                                       Technical Specifications",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 16,
+      "text": "Bangalore Metro Rail Corporation Ltd.                 September 2026           Section Page 13 of 37",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 17,
+      "text": "164",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 17,
+      "text": "       BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157       Employer Requirement, Scope of Work &",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 17,
+      "text": "                                                                              Technical Specifications",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 17,
+      "text": "       Bangalore Metro Rail Corporation Ltd.                 September 2026           Section Page 14 of 37",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 18,
+      "text": "165",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 18,
+      "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157       Employer Requirement, Scope of Work &",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 18,
+      "text": "                                                                       Technical Specifications",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 18,
+      "text": "Bangalore Metro Rail Corporation Ltd.                 September 2026           Section Page 15 of 37",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 19,
+      "text": "166",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 19,
+      "text": "       BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157       Employer Requirement, Scope of Work &",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 19,
+      "text": "                                                                              Technical Specifications",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 19,
+      "text": "       Bangalore Metro Rail Corporation Ltd.                 September 2026           Section Page 16 of 37",
+      "reason": "Page header, footer or booklet page number"
+    }
+  ],
+  "clauses": [
+    {
+      "clause_id": "1",
+      "title": "General Requirements",
+      "heading_line": "1.    General Requirements",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 15,
+          "text": "1.    General Requirements\n\n           (a) Contract Package – P1: “Partial and Full Demolition/Dismantling of Buildings/Structures\n               identified from JP Nagar 4th Phase Station to Mysore Road Station (from Ch: (-) 0.330\n        Km to Ch: 10.550 Km) in Corridor-1of Bangalore Metro Rail Project Phase-3.”\n\n          To  commence  the   civil   construction  works  and   float  the    civil   tenders,\n              demolition/dismantling of the buildings and structures identified for the viaduct, double-\n            decker structure, stations, loops, and ramps shall be undertaken.\n\n             This package includes the demolition/dismantling of various types of commercial and\n               residential buildings ranging from Basements, Ground Floor (G+0) to Ground +4 (G+4),\n            as well as sheds. The scope of work includes demolition of the identified structures,\n             salvage of specified items and materials, and removal and disposal of the resulting debris,\n              walls with all leads and lifts, etc. The debris shall be disposed of at BBMP/GBA identified\n         C&D waste management facility.\n\n           The identified buildings and structures have been classified into the following categories:\n\n              1.  Partial demolition/dismantling of all types of structures of varying heights, consisting of\n              basements, ground floor and/or one or more upper floors (RCC framed structures,\n                load-bearing structures with RCC roofs, and other structures such as AC roof\n                  structures, etc.), by mechanical and manual methods, comprising cement concrete,\n               stone masonry,  brickwork, steelwork, woodwork,  etc.,  with a  total quantity as\n              mentioned in the BoQ.\n\n\n              2.  Full demolition/dismantling of all types of structures of varying heights, consisting of\n              basement level, ground floor and/or one or more upper floors (RCC framed structures,\n                load-bearing structures with RCC roofs, and other structures such as AC roof\n                  structures,  etc.), by mechanical and manual methods, with a  total quantity as\n              mentioned in the BoQ.\n\n\n              3.  Demolition/dismantling of compound walls of all shapes and heights by mechanical\n             and manual methods, comprising cement concrete, stone masonry, brickwork,\n                 steelwork, fencing, stone slab walls, chain-link fencing, etc., with a total quantity as\n              mentioned in the BoQ.\n\n\n              4.  Demolition/dismantling of steel structures such as bus stops, median grills, compound\n                 wall grills, signboards, hoardings, etc., with a total quantity as mentioned in the BoQ.\n                Dismantled/released material to be handed over to the concerned authority at the\n                 locations specified by owning authority and removal of resulting debris with all lead\n             and lifts and as directed by the Engineer.\n\n\n           (b) Demolition and dismantling works.\n           The work includes demolition, salvage of identified items and materials, and removal of\n               resulting debris.  Debris shall be removed from the premises daily, unless otherwise\n              directed, to avoid accumulation at the demolition premises.  The demolition shall be\n              carried out after taking necessary strengthening methods for the buildings proposed for\n              demolition and also for neighboring buildings. The contractor shall develop and take\n            necessary strengthening methods for the balance portion of the structure not being\n             dismantled. In the interest of occupational safety and health, the work shall be performed"
+        },
+        {
+          "pdf_page": 16,
+          "text": "in accordance with relevant IS codes on demolition and other applicable Sections. In the\n        interest of conservation, salvage shall be pursued to the maximum extent possible. The\n      salvaged items and materials shall be disposed of as specified in which the ‘owner losing\n       structure totally/partially’ and the ‘contractor’ has no interest. The work also includes\n       disconnection of power supply with the permission of BESCOM, rewiring and shifting of\n      energy meter along with accessories to the suitable place as per BESCOM’s direction for\n        partially demolished building. For full demolition of buildings, disconnection of power\n       supply, releasing and handing over the electrical energy meter along with accessories as\n       per directions of concerned BESCOM office through govt. licensed electrician.\n\n    (c) Restoration works for safety reasons.\n      The BMRCL has appointed consultant/Engineer who has conducted Building Condition\n      Study (BCS) and suggest sequence and methodology of demolition including remedial\n      measures required to be undertaken prior to demolition and / or during demolition and /\n       or post demolition.\n\n            It is anticipated that, certain structures will be required to be constructed for safety and\n        functional reasons as a result of Building Condition Study. The structures anticipated\n       are front walls, doors, windows, beams and columns etc.\n      Works done as permanent remedial measures (for example –excavation, backfilling,\n     PCC, RCC, brick/RR/CC block masonry, fixing of doors, windows, plastering, painting of\n       face of wall remained after demolition, water supply, sanitation, electrical works including\n       restoration of power supply to the balance building portion through govt. licensed\n        electrician, etc.) shall be paid as per accepted price for the BoQ schedule for KPWD-\n     Common SR 2023-24. The contractor shall carry out these works  after obtaining\n        instructions from Consultant  / Engineer/BMRCL to that effect. The contractor has to\n      execute these items in accordance with KPWD-Common SR 2023-24 and rate in the\n      accepted priced bill of quantities. Measurements will be recorded for only those buildings\n      completed under the supervision of consultant/Engineer appointed for Building Condition\n       Study."
+        }
+      ]
+    },
+    {
+      "clause_id": "2",
+      "title": "Work Plan",
+      "heading_line": "2.   Work Plan.   The procedures shall provide for safe conduct of the work, including",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 16,
+          "text": "2.   Work Plan.   The procedures shall provide for safe conduct of the work, including\n     methods to provide necessary supports, lateral bracing and shoring when required, careful\n      removal and disposition of materials to be salvaged, protection of property, which is to\n      remain undisturbed, coordination with other work in progress, and timely disconnection of\n         utility services. The procedures shall include a detailed description of methods and\n      equipment to be used for each operation, and the sequence of operations.\n     The contractor in addition to the proposed methodology should include the following:\n           Initial Engineering survey of the building to be done.\n         Developing strengthening methods of the balance portion of the structure not being\n          dismantled and neighboring buildings.\n         The actual method of dismantling proposed to be adopted."
+        }
+      ]
+    },
+    {
+      "clause_id": "3",
+      "title": "Dust Control",
+      "heading_line": "3.    Dust Control. The dust resulting from demolition shall be controlled to prevent the spread",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 16,
+          "text": "3.    Dust Control. The dust resulting from demolition shall be controlled to prevent the spread\n       of dust to occupied portions of the construction site and to avoid creation of a nuisance in\n      the surrounding area. Use of water will not be permitted when it will result in, or create,\n      hazardous or objectionable conditions such as flooding and pollution. The contractor shall\n      take all measures to bring down dust level and cause least pollution in air quality and take\n      necessary measures to keep the noise pollution as low as possible."
+        }
+      ]
+    },
+    {
+      "clause_id": "4",
+      "title": "Protection of Personnel",
+      "heading_line": "4.    Protection of Personnel.    During  the   demolition  work   the   contractor   shall",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 16,
+          "text": "4.    Protection of Personnel.    During  the   demolition  work   the   contractor   shall\n      continuously evaluate the condition of the structure being demolished and take immediate\n      action to protect all people working in and around the demolition site. No area, section, or\n     component of floors, roofs, walls, columns, pilasters, or other structural element will be\n      allowed to be left standing without sufficient bracing, shoring, or lateral support to prevent"
+        },
+        {
+          "pdf_page": 17,
+          "text": "collapse or failure while workmen remove debris or perform other work in the immediate\n             area. The contractor shall use wire nets etc., liberally so that falling debris etc., will not\n           cause any  injury  to  people  in  the  premises. The methods  to be adopted  for\n             dismantling/demolition of the structures should be apprised in advance to BMRCL."
+        }
+      ]
+    },
+    {
+      "clause_id": "5",
+      "title": "Protection of Structures",
+      "heading_line": "5.    Protection of Structures.    Floors, roofs, walls, columns, pilasters, and other structural",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 17,
+          "text": "5.    Protection of Structures.    Floors, roofs, walls, columns, pilasters, and other structural\n           components that are designed and constructed to stand without lateral support or shoring,\n          and are determined to be in stable condition, shall remain standing without additional\n             bracing, shoring, of lateral support until demolished, unless directed otherwise by the\n             contracting officer.  The contractor shall ensure that no elements determined to be\n            unstable are left unsupported and shall be responsible for placing and securing bracing,\n             shoring, or lateral supports as may be required as a result of any cutting, removal, or\n             demolition work performed under this contract."
+        }
+      ]
+    },
+    {
+      "clause_id": "6",
+      "title": "Protection of Existing Property",
+      "heading_line": "6.    Protection of Existing Property.    Before  beginning  any  demolition  work,  the",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 17,
+          "text": "6.    Protection of Existing Property.    Before  beginning  any  demolition  work,  the\n             contractor shall survey the site and examine the drawings and specifications to determine\n            the extent of the work. The contractor shall take necessary precautions to avoid damage\n              to existing items to remain in place, to be reused or to remain the property any damaged\n            items shall be repaired or replaced as approved by the Engineer. The contractor shall\n            coordinate the work of this section with all other work and shall construct and maintain that\n              structural elements are not overloaded and shall be responsible for increasing structural\n            supports or adding new supports as may be required as a result of any cutting, removal,\n             or demolition work performed under this contract."
+        }
+      ]
+    },
+    {
+      "clause_id": "7",
+      "title": "Protection from the weather",
+      "heading_line": "7.    Protection from the weather.      Salvageable  materials and equipment  shall be",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 17,
+          "text": "7.    Protection from the weather.      Salvageable  materials and equipment  shall be\n             protected from the weather at all times."
+        }
+      ]
+    },
+    {
+      "clause_id": "8",
+      "title": "Protection of Trees",
+      "heading_line": "8.    Protection of Trees.  Trees within the project sites which might be damaged during",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 17,
+          "text": "8.    Protection of Trees.  Trees within the project sites which might be damaged during\n             demolition and which are indicated to be left in place shall be protected by a high fence.\n          The fence shall be securely erected a minimum of 2 m from the trunk of individual trees\n             or follow the outer perimeter of branches or clumps of trees. Any tree designated to remain\n              that is damaged during the work under this contract shall be replaced in kind or as\n           approved by the contracting officer."
+        }
+      ]
+    },
+    {
+      "clause_id": "9",
+      "title": "Environmental Protection",
+      "heading_line": "9.    Environmental Protection.  The work shall comply with the requirements of relevant",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 17,
+          "text": "9.    Environmental Protection.  The work shall comply with the requirements of relevant\n            environment protection clauses."
+        }
+      ]
+    },
+    {
+      "clause_id": "10",
+      "title": "Burning",
+      "heading_line": "10.   Burning.      Burning at the project site for disposal of refuse and debris is not permitted.",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 17,
+          "text": "10.   Burning.      Burning at the project site for disposal of refuse and debris is not permitted."
+        }
+      ]
+    },
+    {
+      "clause_id": "11",
+      "title": "Use of explosives",
+      "heading_line": "11.   Use of explosives.  Use of explosives will not be permitted",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 17,
+          "text": "11.   Use of explosives.  Use of explosives will not be permitted"
+        }
+      ]
+    },
+    {
+      "clause_id": "12",
+      "title": "Utilities",
+      "heading_line": "12.    Utilities.       Existing utilities shall be removed as indicated. When utility lines are",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 17,
+          "text": "12.    Utilities.       Existing utilities shall be removed as indicated. When utility lines are\n           encountered that is not indicated on the drawings, the contractor shall be notified prior to\n              further work in that area, and shall follow instruction."
+        }
+      ]
+    },
+    {
+      "clause_id": "13",
+      "title": "Filling",
+      "heading_line": "13.    Filling. Holes, open basements and  other hazardous openings  shall be  filled  in",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 17,
+          "text": "13.    Filling. Holes, open basements and  other hazardous openings  shall be  filled  in\n           accordance with relevant IS codes."
+        }
+      ]
+    },
+    {
+      "clause_id": "14",
+      "title": "Disposal of material",
+      "heading_line": "14.    Disposal of material. The Contractor shall dispose the demolished materials except",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 17,
+          "text": "14.    Disposal of material. The Contractor shall dispose the demolished materials except\n           Government Salvage and historical items, which shall be duly informed to the Engineer\n           and shall be handed over to the appropriate authorities as per the procedure in vogue.\n           The rates quoted by the contractor includes loading, unloading and stacking with all lead\n           and lifts to dispose the demolished materials."
+        }
+      ]
+    },
+    {
+      "clause_id": "15",
+      "title": "Salvageable items and material",
+      "heading_line": "15.   Salvageable items and material. As per Compensation and Resettlement guidelines of",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 18,
+          "text": "15.   Salvageable items and material. As per Compensation and Resettlement guidelines of\n     BMRCL, the owner losing land and structure has the right to salvage materials totally. In\n       the case of items required by the ‘owner losing structure totally/partially’, he shall remove\n       the same from the site before the contractor demobilizes from the site. The salvage\n       materials in which the ‘owner losing structure totally/partially’ is not interested shall be\n      owned by the Contractor and the value of the same shall be credited to BMRCL to the\n     maximum extent possible."
+        }
+      ]
+    },
+    {
+      "clause_id": "16",
+      "title": "Material Salvaged for the contractor",
+      "heading_line": "16.   Material Salvaged for the contractor.     The contractor shall not sell the salvaged",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 18,
+          "text": "16.   Material Salvaged for the contractor.     The contractor shall not sell the salvaged\n      materials at site."
+        }
+      ]
+    },
+    {
+      "clause_id": "17",
+      "title": "Item salvaged for the Government",
+      "heading_line": "17.   Item salvaged for the Government.        In the case of salvaged materials of the",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 18,
+          "text": "17.   Item salvaged for the Government.        In the case of salvaged materials of the\n     Government, the contractor shall remove the salvaged materials in a manner that there is\n     no damage while packing or carting and protect the materials from damage during storage\n      or transportation. In case of any damage during storage or transportation, the same shall\n     be repaired or replaced to match the existing items. Dismantled/released materials to be\n     handed over to the concerned authorities at the locations specified by the owning\n       authority."
+        }
+      ]
+    },
+    {
+      "clause_id": "18",
+      "title": "Clean up",
+      "heading_line": "18.   Clean up.     Debris and rubbish shall be removed from basement, ground and any",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 18,
+          "text": "18.   Clean up.     Debris and rubbish shall be removed from basement, ground and any\n      other stacking place. Debris shall be removed and transported in a manner that prevents\n       spillage on streets or adjacent areas and no spillage is allowed during transportation."
+        }
+      ]
+    },
+    {
+      "clause_id": "19",
+      "title": "Handing over of work front",
+      "heading_line": "19.   Handing over of work front. List  of  buildings  to be demolished  including area  of",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 18,
+          "text": "19.   Handing over of work front. List  of  buildings  to be demolished  including area  of\n      demolition etc. will be made available to the contractor by BMRCL progressively."
+        }
+      ]
+    },
+    {
+      "clause_id": "20",
+      "title": "Barricading the properties during demolition / dismantling",
+      "heading_line": "20.   Barricading the properties during demolition / dismantling.   The structure  to be",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 18,
+          "text": "20.   Barricading the properties during demolition / dismantling.   The structure  to be\n      demolished/dismantled must have barricades, which shall be of plain MS Sheet of 16\n     gauge fixed with steel frame, painting, with synthetic enamel paint of approved color,\n       quality and brand, writing letter and logo of metro including maintenance of the same, duly\n      cleaning the same frequently, arrangement for blinker light as per requirement. During\n      demolition barricades has to be kept continuously. Removal of barricade will not be\n      permitted till completion of demolition, dismantling of properties."
+        }
+      ]
+    },
+    {
+      "clause_id": "21",
+      "title": "Demolition of buildings/structures",
+      "heading_line": "21.   Demolition of buildings/structures is to be done by ensuring minimal vibration, without",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 18,
+          "text": "21.   Demolition of buildings/structures is to be done by ensuring minimal vibration, without\n       affecting the stability/serviceability of the remaining structure after demolition. Dismantling\n       of structure is permitted only by using diamond disc cutter/floor saw machine at all levels.\n     However, the decision of Engineer in charge is final and binding on the contractor. The\n       structural integrity of the remaining structure  will be analyzed by structural experts\n     engaged by Employer/Engineer by visual observation and necessary Non-Destructive\n      Tests. In case any defect is noticed on account of demolition / dismantling activity and/or\n     any claim is raised by the owner of the building/structure, the damage will be repaired and\n       claim, if any, shall be settled by the contractor, failing which the defects will be rectified at\n      the risk and cost of the contractor as per the directions of Engineer/Employer and the\n     same will be recovered from the contractor. Necessary scaffolding to be provided to\n        facilitate the dismantling of buildings/structures as mentioned in the line-of-cut proposed\n     by structural experts or as directed by the Engineer In-charge. The scaffolding shall have\n       to be erected with proper anchors to ensure safety &  stability during demolition  /\n      dismantling."
+        }
+      ]
+    }
+  ],
+  "other_numbered_lines": [
+    {
+      "pdf_page": 15,
+      "text": "              1.  Partial demolition/dismantling of all types of structures of varying heights, consisting of",
+      "parent_clause_id": "1",
+      "handling": "retained_with_parent_text"
+    },
+    {
+      "pdf_page": 15,
+      "text": "              2.  Full demolition/dismantling of all types of structures of varying heights, consisting of",
+      "parent_clause_id": "1",
+      "handling": "retained_with_parent_text"
+    },
+    {
+      "pdf_page": 15,
+      "text": "              3.  Demolition/dismantling of compound walls of all shapes and heights by mechanical",
+      "parent_clause_id": "1",
+      "handling": "retained_with_parent_text"
+    },
+    {
+      "pdf_page": 15,
+      "text": "              4.  Demolition/dismantling of steel structures such as bus stops, median grills, compound",
+      "parent_clause_id": "1",
+      "handling": "retained_with_parent_text"
+    }
+  ],
+  "pages_without_body_text": [
+    19
+  ],
+  "limitations": [
+    "Main clauses are recognized by number and heading prefix.",
+    "Nested numbered work items remain within clause 1.",
+    "Blank body pages remain preserved in the section extraction.",
+    "No technical interpretation or compliance decision made.",
+    "Later corrigenda have not been applied."
+  ]
+}

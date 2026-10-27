@@ -1,0 +1,535 @@
+{
+  "source_id": "bmrcl-volume-1",
+  "source_path": "data/Vol1DLNP1.pdf",
+  "source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+  "section": "C",
+  "title": "Linked Qualification Criteria and Notes",
+  "review_status": "pending_manual_review",
+  "criteria": [
+    {
+      "criterion_id": "3.1.A.(i)",
+      "group_id": "work_experience",
+      "review_status": "pending_manual_review",
+      "requirement_fragments": [
+        {
+          "pdf_page": 32,
+          "text": "Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven)\nyears ending as on last day of the month previous to the month of invitation of this tender,\nshould have completed/ **substantially completed One work of *Similar nature, where the\nvalue of the work is equal to or exceed ₹ 3.79 Crores.***",
+          "table_id": "eqc_page_32",
+          "physical_row": 2,
+          "column": 2,
+          "extraction_method": "detected_table_with_direct_cell_text"
+        }
+      ],
+      "combined_requirement_text": "Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven)\nyears ending as on last day of the month previous to the month of invitation of this tender,\nshould have completed/ **substantially completed One work of *Similar nature, where the\nvalue of the work is equal to or exceed ₹ 3.79 Crores.***",
+      "supporting_document_fragments": [
+        {
+          "pdf_page": 32,
+          "text": "Attachment-5 & Attachment-\n 6 to Letter of Technical Bid",
+          "table_id": "eqc_page_32",
+          "physical_row": 2,
+          "column": 3,
+          "extraction_method": "detected_table_with_direct_cell_text"
+        }
+      ],
+      "note_group_id": "work_experience",
+      "individual_note_applicability": "pending_review",
+      "source_label": "3.1.A.(i)"
+    },
+    {
+      "criterion_id": "3.1.A.(ii)",
+      "group_id": "work_experience",
+      "review_status": "pending_manual_review",
+      "requirement_fragments": [
+        {
+          "pdf_page": 32,
+          "text": "Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven)\nyears ending as on last day of the month previous to the month of invitation of this tender,\nshould have completed/ **substantially completed Two works of *Similar nature, where the\nvalue of each work is equal to or exceed ₹ 2.37 Crores. ***",
+          "table_id": "eqc_page_32",
+          "physical_row": 4,
+          "column": 2,
+          "extraction_method": "detected_table_with_direct_cell_text"
+        }
+      ],
+      "combined_requirement_text": "Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven)\nyears ending as on last day of the month previous to the month of invitation of this tender,\nshould have completed/ **substantially completed Two works of *Similar nature, where the\nvalue of each work is equal to or exceed ₹ 2.37 Crores. ***",
+      "supporting_document_fragments": [
+        {
+          "pdf_page": 32,
+          "text": "Attachment-5 & Attachment-\n 6 to Letter of Technical Bid",
+          "table_id": "eqc_page_32",
+          "physical_row": 4,
+          "column": 3,
+          "extraction_method": "detected_table_with_direct_cell_text"
+        }
+      ],
+      "note_group_id": "work_experience",
+      "individual_note_applicability": "pending_review",
+      "source_label": "3.1.A. (ii)"
+    },
+    {
+      "criterion_id": "3.1.A.(iii)",
+      "group_id": "work_experience",
+      "review_status": "pending_manual_review",
+      "requirement_fragments": [
+        {
+          "pdf_page": 32,
+          "text": "Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven)\nyears ending as on last day of the month previous to the month of invitation of this tender,\nshould have completed/ **substantially completed Three works of *Similar nature, where the\nvalue of each work is equal to or exceed ₹ 1.90 Crores.***",
+          "table_id": "eqc_page_32",
+          "physical_row": 6,
+          "column": 2,
+          "extraction_method": "detected_table_with_direct_cell_text"
+        }
+      ],
+      "combined_requirement_text": "Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven)\nyears ending as on last day of the month previous to the month of invitation of this tender,\nshould have completed/ **substantially completed Three works of *Similar nature, where the\nvalue of each work is equal to or exceed ₹ 1.90 Crores.***",
+      "supporting_document_fragments": [
+        {
+          "pdf_page": 32,
+          "text": "Attachment-5 & Attachment-\n 6 to Letter of Technical Bid",
+          "table_id": "eqc_page_32",
+          "physical_row": 6,
+          "column": 3,
+          "extraction_method": "detected_table_with_direct_cell_text"
+        }
+      ],
+      "note_group_id": "work_experience",
+      "individual_note_applicability": "pending_review",
+      "source_label": "3.1.A. (iii)"
+    },
+    {
+      "criterion_id": "3.1.A.(iv)",
+      "group_id": "work_experience",
+      "review_status": "pending_manual_review",
+      "requirement_fragments": [
+        {
+          "pdf_page": 32,
+          "text": "Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven)\nyears ending as on last day of the month previous to the month of invitation of this tender,",
+          "table_id": "eqc_page_32",
+          "physical_row": 8,
+          "column": 2,
+          "extraction_method": "detected_table_with_direct_cell_text"
+        },
+        {
+          "pdf_page": 33,
+          "text": "should have completed/ **substantially completed in any number of works of *Similar nature, \nwhere the combined value of works is equal to or exceed ₹ 4.74 Crores.***",
+          "table_id": "eqc_page_33",
+          "physical_row": null,
+          "column": 2,
+          "extraction_method": "anchored_text_blocks"
+        }
+      ],
+      "combined_requirement_text": "Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven)\nyears ending as on last day of the month previous to the month of invitation of this tender,\n\nshould have completed/ **substantially completed in any number of works of *Similar nature, \nwhere the combined value of works is equal to or exceed ₹ 4.74 Crores.***",
+      "supporting_document_fragments": [
+        {
+          "pdf_page": 32,
+          "text": "Attachment-5 & Attachment-\n 6 to Letter of Technical Bid",
+          "table_id": "eqc_page_32",
+          "physical_row": 8,
+          "column": 3,
+          "extraction_method": "detected_table_with_direct_cell_text"
+        }
+      ],
+      "note_group_id": "work_experience",
+      "individual_note_applicability": "pending_review",
+      "source_label": "3.1.A. (iv)"
+    },
+    {
+      "criterion_id": "3.1.B.(i)",
+      "group_id": "financial_standing",
+      "review_status": "pending_manual_review",
+      "requirement_fragments": [
+        {
+          "pdf_page": 34,
+          "text": "Liquidity: Tenderer shall demonstrate that  it has access to, or possess liquid assets and /or\navailability of credit facilities of not less than ₹ 1.19 Crores (Credit lines/ letter of credit/ certificates\nfrom banks for meeting the fund requirement etc.).",
+          "table_id": "eqc_page_34",
+          "physical_row": 2,
+          "column": 2,
+          "extraction_method": "detected_table_with_direct_cell_text"
+        }
+      ],
+      "combined_requirement_text": "Liquidity: Tenderer shall demonstrate that  it has access to, or possess liquid assets and /or\navailability of credit facilities of not less than ₹ 1.19 Crores (Credit lines/ letter of credit/ certificates\nfrom banks for meeting the fund requirement etc.).",
+      "supporting_document_fragments": [
+        {
+          "pdf_page": 34,
+          "text": "Attachment-13 to Letter of\nTechnical Bid",
+          "table_id": "eqc_page_34",
+          "physical_row": 2,
+          "column": 3,
+          "extraction_method": "detected_table_with_direct_cell_text"
+        }
+      ],
+      "note_group_id": "financial_standing",
+      "individual_note_applicability": "pending_review",
+      "source_label": "3.1.B (i)"
+    },
+    {
+      "criterion_id": "3.1.B.(ii)",
+      "group_id": "financial_standing",
+      "review_status": "pending_manual_review",
+      "requirement_fragments": [
+        {
+          "pdf_page": 34,
+          "text": "Annual Turnover: Tenderer in its name should have in the last five financial years (2021-2022\nto 2025-2026) achieved in at least two financial years a minimum financial turnover (in all\nclasses of civil engineering construction works only) ≥ ₹ 9.48 Crores. ****",
+          "table_id": "eqc_page_34",
+          "physical_row": 3,
+          "column": 2,
+          "extraction_method": "detected_table_with_direct_cell_text"
+        }
+      ],
+      "combined_requirement_text": "Annual Turnover: Tenderer in its name should have in the last five financial years (2021-2022\nto 2025-2026) achieved in at least two financial years a minimum financial turnover (in all\nclasses of civil engineering construction works only) ≥ ₹ 9.48 Crores. ****",
+      "supporting_document_fragments": [
+        {
+          "pdf_page": 34,
+          "text": "Attachment-8 to Letter of\nTechnical Bid",
+          "table_id": "eqc_page_34",
+          "physical_row": 3,
+          "column": 3,
+          "extraction_method": "detected_table_with_direct_cell_text"
+        }
+      ],
+      "note_group_id": "financial_standing",
+      "individual_note_applicability": "pending_review",
+      "source_label": "3.1.B (ii)"
+    },
+    {
+      "criterion_id": "3.2",
+      "group_id": "bid_capacity",
+      "review_status": "pending_manual_review",
+      "requirement_fragments": [
+        {
+          "pdf_page": 35,
+          "text": "Available Bid capacity should be ≥ ₹ 4.74 Crores\n\nFormula:\n\nAvailable Bid Capacity = (1.5 × A × N) – B",
+          "table_id": "eqc_page_35",
+          "physical_row": 2,
+          "column": 1,
+          "extraction_method": "detected_table_with_direct_cell_text"
+        }
+      ],
+      "combined_requirement_text": "Available Bid capacity should be ≥ ₹ 4.74 Crores\n\nFormula:\n\nAvailable Bid Capacity = (1.5 × A × N) – B",
+      "supporting_document_fragments": [
+        {
+          "pdf_page": 35,
+          "text": "Attachment-7, Attachment-\n8 to Letter of Technical Bid",
+          "table_id": "eqc_page_35",
+          "physical_row": 2,
+          "column": 2,
+          "extraction_method": "detected_table_with_direct_cell_text"
+        }
+      ],
+      "note_group_id": "bid_capacity",
+      "individual_note_applicability": "pending_review",
+      "definition_fragments": [
+        {
+          "pdf_page": 36,
+          "text": "A = Maximum value of total Civil Engineering works executed (annual turnover from Civil Engineering works) \nin any one year during the last five financial years. The turnover for previous years shall be updated by 5% \nper year (compounded annually) to bring them to the price level of the Financial Year of this Tender Invitation.\nN = Number of years prescribed for completion of this tendered work as mentioned in NIT.\nB = Total value (updated to the price level of the Financial Year of this Tender Invitation) of existing \ncommitments for ongoing Civil Engineering works during the completion period mentioned in NIT, from the \nlast day of the month previous to the month of invitation of this tender.",
+          "table_id": "eqc_page_36",
+          "physical_row": null,
+          "column": 1,
+          "extraction_method": "anchored_text_blocks"
+        }
+      ]
+    }
+  ],
+  "work_experience_alternatives": {
+    "operator": "OR",
+    "criterion_ids": [
+      "3.1.A.(i)",
+      "3.1.A.(ii)",
+      "3.1.A.(iii)",
+      "3.1.A.(iv)"
+    ],
+    "source_pdf_page": 32,
+    "separator_rows": [
+      {
+        "physical_row": 3,
+        "cells": [
+          "OR",
+          null,
+          null
+        ],
+        "cell_bboxes": [
+          [
+            93.33651778277229,
+            256.8000030517578,
+            769.6844985064338,
+            283.9199981689453
+          ],
+          null,
+          null
+        ]
+      },
+      {
+        "physical_row": 5,
+        "cells": [
+          "OR",
+          null,
+          null
+        ],
+        "cell_bboxes": [
+          [
+            93.33651778277229,
+            348.59999084472656,
+            769.6844985064338,
+            375.59999084472656
+          ],
+          null,
+          null
+        ]
+      },
+      {
+        "physical_row": 7,
+        "cells": [
+          "OR",
+          null,
+          null
+        ],
+        "cell_bboxes": [
+          [
+            93.33651778277229,
+            440.2799835205078,
+            769.6844985064338,
+            467.3999938964844
+          ],
+          null,
+          null
+        ]
+      }
+    ]
+  },
+  "note_groups": {
+    "work_experience": [
+      {
+        "note_id": "work_experience_note_1",
+        "number": 1,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 33,
+            "text": "1) \n* Similar nature work for this contract shall be, ‘Demolition/Dismantling of Buildings/Structures’."
+          }
+        ]
+      },
+      {
+        "note_id": "work_experience_note_2",
+        "number": 2,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 33,
+            "text": "2) \n** Similar nature work(s) where Financial value of physically executed work is 90%  or more of the original awarded contract value or \nrevised contract value (if any), duly certified by the client, will be treated as substantially completed Similar nature work(s) and will be \nconsidered for qualification of work experience criteria. In case original contract value has been revised, the revised contract value shall \nbe considered for this purpose."
+          }
+        ]
+      },
+      {
+        "note_id": "work_experience_note_3",
+        "number": 3,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 33,
+            "text": "3) \nThe Tenderer shall furnish the Client’s Completion Certificate in support of the Work Experience criteria as specified under Clause 3.1A. \nThe certificate shall clearly indicate the Nature and Scope of Similar Nature Work, Awarded Contract Value (excluding GST), Actual \nCompletion Value (excluding GST), and the Actual Date of Completion. Where applicable, the certificate shall also specify the Revised \nContract Value (excluding GST), along with details of any variation orders and extensions of time granted."
+          }
+        ]
+      },
+      {
+        "note_id": "work_experience_note_4",
+        "number": 4,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 33,
+            "text": "4) \nIn cases where the Client’s Completion Certificate indicates values inclusive of GST and/or other applicable taxes, the Tenderer shall \nsubmit the actual completion cost after deducting the applicable GST dully certified by Chartered Accountant. For portions of Similar \nNature Works executed in the pre-GST period, the Tenderer shall make a deduction towards taxes at the rate of 12% to arrive at the \ncompletion cost exclusive of taxes."
+          }
+        ]
+      },
+      {
+        "note_id": "work_experience_note_5",
+        "number": 5,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 33,
+            "text": "5) \nIf a Tenderer has completed /substantially completed the Similar Nature Work(s) as a member of a Joint Venture (JV), the value of \n‘Similar Nature Work(s)’ will be recognized only in proportion to the Tenderer’s stipulated financial share in that JV. A copy of the JV \nAgreement must be submitted with the bid."
+          }
+        ]
+      },
+      {
+        "note_id": "work_experience_note_6",
+        "number": 6,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 33,
+            "text": "6) \nFor the purpose of evaluation, value of works in foreign currencies shall be converted to equivalent INR as per the following procedure: \nValue of completed/ substantially completed Similar Nature Work(s) in foreign currency shall be converted to Equivalent INR by adopting \nExchange rate between the foreign currency and INR as prevailing on the date of completion / date given in the substantial completion \ncertificate as applicable, as per the website of Reserve Bank of India (RBI)."
+          }
+        ]
+      },
+      {
+        "note_id": "work_experience_note_7",
+        "number": 7,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 33,
+            "text": "7) \n***The value of Completed Similar Nature Work(s) executed during the previous financial years shall be updated at a rate of 5% per \nyear, compounded annually, for the Indian Rupees portion (including foreign currencies, converted to Equivalent INR), to bring them to \nthe price level of the financial year of this Tender Invitation."
+          },
+          {
+            "pdf_page": 34,
+            "text": "The value of ongoing work(s) that are substantially completed shall not be updated to the price level of the financial year of this Tender \nInvitation."
+          }
+        ]
+      },
+      {
+        "note_id": "work_experience_note_8",
+        "number": 8,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 34,
+            "text": "8) \nIn case the Similar Nature Work(s) are executed for client other than Government Department, PSU, or other Government Body, Contract \nAgreement, Bill wise details of payment received and Proof of TDS (Form 26AS) deducted by clients for all payments received shall be \nsubmitted duly certified by Chartered Accountant."
+          }
+        ]
+      },
+      {
+        "note_id": "work_experience_note_9",
+        "number": 9,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 34,
+            "text": "9) \nWork experience certificates of the tenderers with qualification as a sub-contractor will not be considered."
+          }
+        ]
+      }
+    ],
+    "financial_standing": [
+      {
+        "note_id": "financial_standing_note_1",
+        "number": 1,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 34,
+            "text": "1) \nA copy of the Banker’s Certificate issued from a Nationalised / Scheduled Bank in India (for liquidity) needs to be uploaded in the \nTechnical Proposal in respect of EQC Clause 3.1 B (i)."
+          }
+        ]
+      },
+      {
+        "note_id": "financial_standing_note_2",
+        "number": 2,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 34,
+            "text": "2) \nAnnual financial statements (Audited Balance sheets including all related notes and income statements) for last five financial years \n(2021-2022 to 2025-2026) shall be submitted by the Tenderer. The financial information of the Tenderer must be certified either by the \nIndependent Financial Auditor (statutory Auditor) of the company appointed under the companies’ Act or by a Chartered Accountant with \nhis stamp and signature with membership number and firm registration number."
+          }
+        ]
+      },
+      {
+        "note_id": "financial_standing_note_3",
+        "number": 3,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 34,
+            "text": "3) \nIn case any discrepancy in data is found between the Audited Balance sheet and the financial information submitted, the data as available \nin the Audited Balance sheet will be considered."
+          }
+        ]
+      },
+      {
+        "note_id": "financial_standing_note_4",
+        "number": 4,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 35,
+            "text": "4) \nIn case Audited Balance sheet of the last financial year ending with 2025-2026 is not made available by the Tenderer, he has to submit \nan affidavit certifying that 'The Balance Sheet has actually not been audited so far'. In such a case the financial data of previous '4' \naudited financial years will be taken into consideration for evaluation. If audited Balance sheet of any year other than the last financial \nyear ending with 2025-2026 is not submitted even when requested for as a clarification under clause 20 of ITT, then the Tender will be \nconsidered as non-responsive."
+          }
+        ]
+      },
+      {
+        "note_id": "financial_standing_note_5",
+        "number": 5,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 35,
+            "text": "5) \nAll documents shall reflect the stand-alone financial status of the Tenderer and not the Tenderer’s parent companies, subsidiaries, or \naffiliates."
+          }
+        ]
+      },
+      {
+        "note_id": "financial_standing_note_6",
+        "number": 6,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 35,
+            "text": "6) \nFor the purpose of evaluation, amounts in foreign currencies shall be converted to equivalent INR as per the following procedure: \nIn cases where the financial data is denominated in a currency other than Indian Rupees, it shall be converted into the equivalent value \nin Indian Rupees by adopting the exchange rate between the foreign currency and INR prevailing on the last day of the respective \nfinancial year, as published on the Reserve Bank of India (RBI) website, for the purpose of bid evaluation."
+          }
+        ]
+      },
+      {
+        "note_id": "financial_standing_note_7",
+        "number": 7,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 35,
+            "text": "7) \nTo align a January–December financial year with the standard April–March fiscal year, use the following conversion: \nA calendar year (e.g., January–December 2023) corresponds to the subsequent fiscal year (e.g., FY 2023–24, covering April 2023 to \nMarch 2024). Apply this rule consistently to all such conversions."
+          }
+        ]
+      },
+      {
+        "note_id": "financial_standing_note_8",
+        "number": 8,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 35,
+            "text": "8) \n****Financial turnover in INR/converted equivalent INR of previous financial years shall be given a weightage of 5% per year \n(compounded annually) to bring them to the price level of the Financial Year of this Tender Invitation."
+          }
+        ]
+      },
+      {
+        "note_id": "financial_standing_note_9",
+        "number": 9,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 35,
+            "text": "9) \nAll the documents or certifications, which are provided by Chartered Accountant after 1st July, 2019, must contain UDIN thereon and \nthe particulars of certifications must be same as mentioned on document/certification and submitted to ICAI on its website which can be \nverified online on https://udin.icai.org/search-udin."
+          }
+        ]
+      }
+    ],
+    "bid_capacity": [
+      {
+        "note_id": "bid_capacity_note_1",
+        "number": 1,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 36,
+            "text": "1) Works in Hand information provided in ‘Attachment-7 to Letter of Technical Bid’ must be certified either by the Independent Financial \nAuditor (Statutory Auditor) of the company appointed under the companies’ Act or by a Chartered Accountant with his stamp and signature \nwith Membership Number and Firm’s Registration Number."
+          }
+        ]
+      },
+      {
+        "note_id": "bid_capacity_note_2",
+        "number": 2,
+        "review_status": "pending_manual_review",
+        "fragments": [
+          {
+            "pdf_page": 36,
+            "text": "2) All the documents or certifications, which are provided by Chartered Accountant after 1st July 2019, must contain UDIN thereon and the \nparticulars of certifications must be same as mentioned on document/certification and submitted to ICAI on its website, which can be \nverified online on https://udin.icai.org/search-udin."
+          }
+        ]
+      }
+    ]
+  },
+  "note_linking_scope": "Notes are linked as group context. This does not assert that every group note applies to every criterion. Individual applicability requires review.",
+  "limitations": [
+    "No eligibility decision has been made.",
+    "No formula has been executed.",
+    "Source notes and exceptions remain authoritative evidence.",
+    "Later corrigenda have not been applied."
+  ]
+}

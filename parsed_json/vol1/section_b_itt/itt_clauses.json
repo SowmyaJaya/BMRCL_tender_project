@@ -1,0 +1,689 @@
+{
+  "source_id": "bmrcl-volume-1",
+  "source_path": "data/Vol1DLNP1.pdf",
+  "source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+  "section": "B",
+  "title": "Instructions to Tenderers",
+  "review_status": "pending_manual_review",
+  "contents_page": {
+    "pdf_page": 10,
+    "rotation": 0,
+    "extraction_method": "geometric_sort",
+    "text": "004      BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                       Instructions to Tenderers (ITT)\n\n\n\n                      SECTION - B: INSTRUCTIONS TO TENDERERS (ITT)\n\n\n           Clause                              Description                             Section\n          No                                                              Page No\n\n           A. GENERAL                                                                        2-3\n\n                1.0      Introduction\n\n                2.0      Information & Requirements\n\n                3.0     Cost of Tendering\n\n                4.0       Site Visit\n\n           B. TENDER DOCUMENTS                                                            3-4\n\n                5.0      Contents of Tender Documents\n\n                6.0       Clarification on Tender Documents\n\n                7.0     Amendment to Tender Documents\n\n           C. PREPARATION OF TENDERS                                                     4-9\n\n                8.0     Language of Tender\n\n                9.0      Composition of Tender Submittals\n\n              10.0     Tender Price\n\n              11.0     Currencies of the Tender\n\n              12.0     Tender Validity\n\n              13.0     Tender Security (EMD)\n\n              14.0     Format and Signing of Tenders\n\n           D. SUBMISSION OF TENDERS                                                   10-10\n\n              15.0     Submission of Tenders\n\n              16.0      Failure to submit tenders in time\n\n              17.0      Modification and withdrawal of tenders\n\n            E. TENDER OPENING AND EVALUATION                                         11-14\n\n              18.0     Tender Opening\n\n              19.0     Process to be Confidential\n\n              20.0      Clarification of Tenders\n\n              21.0     Determination of Responsiveness\n\n              22.0     Evaluation of Tender\n\n            F. AWARD OF CONTRACT                                                      14-16\n\n              23.0    Award Criteria\n\n              24.0     Employer's Right to Accept any Tender and to Reject any or All Tenders\n\n              25.0      Notification of Award\n\n              26.0     Signing of Contract Agreement\n              27.0     Performance Security\n\n              28.0     Annulment of the award\n\n              29.0     Completion Period\n\n              30.0     Appeal\n\n              31.0     Contact Person in the BMRCL Office\n\n\n\n\n\n      Bangalore Metro Rail Corporation Ltd.                September 2026             Section Page 1 of 16",
+    "text_blocks": [
+      {
+        "block_number": 0,
+        "bbox": [
+          70.91996765136719,
+          15.768376350402832,
+          538.060546875,
+          55.2003173828125
+        ],
+        "text": " \n \nBMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                       Instructions to Tenderers (ITT) \n \n"
+      },
+      {
+        "block_number": 1,
+        "bbox": [
+          70.91996765136719,
+          774.52783203125,
+          535.4202270507812,
+          793.4098510742188
+        ],
+        "text": " \nBangalore Metro Rail Corporation Ltd.                                 September 2026                        Section Page 1 of 16 \n"
+      },
+      {
+        "block_number": 2,
+        "bbox": [
+          70.91996765136719,
+          69.4294204711914,
+          431.2939147949219,
+          90.29191589355469
+        ],
+        "text": " \n \nSECTION - B: INSTRUCTIONS TO TENDERERS (ITT) \n \n"
+      },
+      {
+        "block_number": 3,
+        "bbox": [
+          70.91995239257812,
+          674.1091918945312,
+          307.5673522949219,
+          763.9716186523438
+        ],
+        "text": " \n \n \n \n \n \n \n \n"
+      },
+      {
+        "block_number": 4,
+        "bbox": [
+          101.63996124267578,
+          95.9494400024414,
+          139.92715454101562,
+          105.29191589355469
+        ],
+        "text": "Clause  \n"
+      },
+      {
+        "block_number": 5,
+        "bbox": [
+          108.9599609375,
+          107.4694595336914,
+          125.0471420288086,
+          116.81193542480469
+        ],
+        "text": "No \n"
+      },
+      {
+        "block_number": 6,
+        "bbox": [
+          286.4398498535156,
+          95.9494400024414,
+          532.0872802734375,
+          116.81193542480469
+        ],
+        "text": "Description \nSection \nPage No \n"
+      },
+      {
+        "block_number": 7,
+        "bbox": [
+          93.83995819091797,
+          125.22940826416016,
+          519.3639526367188,
+          268.73187255859375
+        ],
+        "text": "A. GENERAL \n2-3 \n1.0 \nIntroduction \n2.0 \nInformation & Requirements \n3.0\nCost of Tendering \n4.0 \nSite Visit \nB. TENDER DOCUMENTS \n3-4 \n5.0 \nContents of Tender Documents \n6.0 \nClarification on Tender Documents \n7.0 \nAmendment to Tender Documents \nC. PREPARATION OF TENDERS \n4-9 \n"
+      },
+      {
+        "block_number": 8,
+        "bbox": [
+          93.83995819091797,
+          275.7093811035156,
+          524.887451171875,
+          669.6516723632812
+        ],
+        "text": "8.0 \nLanguage of Tender \n9.0 \nComposition of Tender Submittals \n10.0\nTender Price \n11.0 \nCurrencies of the Tender \n12.0 \nTender Validity \n13.0 \nTender Security (EMD) \n14.0 \nFormat and Signing of Tenders \nD. SUBMISSION OF TENDERS \n10-10 \n15.0\nSubmission of Tenders \n16.0 \nFailure to submit tenders in time \n17.0 \nModification and withdrawal of tenders \nE. TENDER OPENING AND EVALUATION \n11-14 \n18.0 \nTender Opening \n19.0 \nProcess to be Confidential \n20.0\nClarification of Tenders \n21.0 \nDetermination of Responsiveness \n22.0 \nEvaluation of Tender \nF. AWARD OF CONTRACT \n14-16 \n23.0 \nAward Criteria \n24.0 \nEmployer's Right to Accept any Tender and to Reject any or All Tenders \n25.0\nNotification of Award \n26.0 \nSigning of Contract Agreement \n27.0 \nPerformance Security \n28.0 \nAnnulment of the award \n29.0 \nCompletion Period \n30.0 \nAppeal \n31.0 \nContact Person in the BMRCL Office \n"
+      },
+      {
+        "block_number": 9,
+        "bbox": [
+          39.599998474121094,
+          24.479991912841797,
+          63.57600021362305,
+          41.38799285888672
+        ],
+        "text": "004\n"
+      }
+    ],
+    "has_extracted_text": true,
+    "review_status": "pending_manual_review"
+  },
+  "preamble": [
+    {
+      "pdf_page": 11,
+      "text": "INSTRUCTIONS TO TENDERERS (ITT)\n\n  Name of the work: “Partial and Full Demolition/Dismantling of Buildings/Structures identified in\n  Bangalore Metro Rail Project Phase-3.”\n          Contract Package-P1:  “Partial and  Full  Demolition/Dismantling  of  Buildings/Structures\n            identified from JP Nagar 4th Phase Station to Mysore Road Station (from Ch: (-) 0.330 Km to\n          Ch: 10.550 Km) in Corridor-1of Bangalore Metro Rail Project Phase-3.”\n\n  Bangalore Metro Rail Corporation Limited (BMRCL) invited bids through open e-tender (Single Stage –\n  Two Cover System) on the eProcurement Portal from eligible applicants for the above-mentioned work.\n\n  A      GENERAL"
+    }
+  ],
+  "group_headings": [
+    {
+      "pdf_page": 12,
+      "text": "        B.      TENDER DOCUMENTS"
+    },
+    {
+      "pdf_page": 13,
+      "text": "  C.      PREPARATION OF TENDERS"
+    },
+    {
+      "pdf_page": 19,
+      "text": "  D.      SUBMISSION OF TENDERS"
+    },
+    {
+      "pdf_page": 20,
+      "text": "         E.      TENDER OPENING AND EVALUATION"
+    },
+    {
+      "pdf_page": 23,
+      "text": "  F.      AWARD OF CONTRACT"
+    }
+  ],
+  "removed_lines": [
+    {
+      "pdf_page": 11,
+      "text": "005BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                       Instructions to Tenderers (ITT)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 11,
+      "text": "Bangalore Metro Rail Corporation Ltd.                September 2026             Section Page 2 of 16",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 12,
+      "text": "006      BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                       Instructions to Tenderers (ITT)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 12,
+      "text": "      Bangalore Metro Rail Corporation Ltd.                September 2026             Section Page 3 of 16",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 13,
+      "text": "007BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                       Instructions to Tenderers (ITT)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 13,
+      "text": "Bangalore Metro Rail Corporation Ltd.                September 2026             Section Page 4 of 16",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 14,
+      "text": "008      BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                       Instructions to Tenderers (ITT)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 14,
+      "text": "      Bangalore Metro Rail Corporation Ltd.                September 2026             Section Page 5 of 16",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 15,
+      "text": "009BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                       Instructions to Tenderers (ITT)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 15,
+      "text": "Bangalore Metro Rail Corporation Ltd.                September 2026             Section Page 6 of 16",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 16,
+      "text": "010      BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                       Instructions to Tenderers (ITT)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 16,
+      "text": "      Bangalore Metro Rail Corporation Ltd.                September 2026             Section Page 7 of 16",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 17,
+      "text": "011BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                       Instructions to Tenderers (ITT)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 17,
+      "text": "Bangalore Metro Rail Corporation Ltd.                September 2026             Section Page 8 of 16",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 18,
+      "text": "012      BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                       Instructions to Tenderers (ITT)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 18,
+      "text": "      Bangalore Metro Rail Corporation Ltd.                September 2026             Section Page 9 of 16",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 19,
+      "text": "013BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                       Instructions to Tenderers (ITT)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 19,
+      "text": "Bangalore Metro Rail Corporation Ltd.                September 2026             Section Page 10 of 16",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 20,
+      "text": "014      BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                       Instructions to Tenderers (ITT)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 20,
+      "text": "      Bangalore Metro Rail Corporation Ltd.                September 2026             Section Page 11 of 16",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 21,
+      "text": "015BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                       Instructions to Tenderers (ITT)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 21,
+      "text": "Bangalore Metro Rail Corporation Ltd.                September 2026             Section Page 12 of 16",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 22,
+      "text": "016      BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                       Instructions to Tenderers (ITT)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 22,
+      "text": "      Bangalore Metro Rail Corporation Ltd.                September 2026             Section Page 13 of 16",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 23,
+      "text": "017BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                       Instructions to Tenderers (ITT)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 23,
+      "text": "Bangalore Metro Rail Corporation Ltd.                September 2026             Section Page 14 of 16",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 24,
+      "text": "018      BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                       Instructions to Tenderers (ITT)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 24,
+      "text": "      Bangalore Metro Rail Corporation Ltd.                September 2026             Section Page 15 of 16",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 25,
+      "text": "019BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                       Instructions to Tenderers (ITT)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 25,
+      "text": "Bangalore Metro Rail Corporation Ltd.                September 2026             Section Page 16 of 16",
+      "reason": "Page header, footer or booklet page number"
+    }
+  ],
+  "clauses": [
+    {
+      "clause_id": "1.0",
+      "heading_line": "1.0      INTRODUCTION",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 11,
+          "text": "1.0      INTRODUCTION\n\n  1.1       Bangalore Metro Rail Corporation Limited\n\n           The Bangalore Metro Rail Corporation Limited is a Joint venture enterprise of the Government\n               of India and the Government of Karnataka, entrusted with the responsibility of implementation\n               of the Bangalore Metro Rail project.\n\n  1.2        Project\n\n            Bangalore Metro Rail Project Phase 3 consists of Two Corridors;\n\n              Corridor 1: JP Nagar 4th Phase to Kempapura with a total length of 32.15 km includes 22\n             elevated stations.\n\n              Corridor 2: Hosahalli to Kadabagere with a total length of 12.50 km includes 9 elevated\n               stations."
+        }
+      ]
+    },
+    {
+      "clause_id": "2.0",
+      "heading_line": "2.0      INFORMATION & REQUIREMENTS",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 11,
+          "text": "2.0      INFORMATION & REQUIREMENTS\n\n  2.1       Tenderers shall submit their bids as a Single Entity only. All Tenderers, shall meet the\n               Eligibility and Qualification Criteria specified in Clauses 2.0 and 3.0 of the EQC.\n\n  2.2        Joint Venture: Participation as a Joint Venture is Not Permitted in this tender.\n\n  2.3      The  present  Tender   i.e.,  Tender  No:  BMRCL/Phase-3/JPN-MRS/Demolition/DLN-\n            P1/2026/157, has been issued concurrently with other three similar tenders with Tender Nos\n            BMRCL/Phase-3/MRS-SKS/Demolition/DLN-P2/2026/158,    BMRCL/Phase-3/SUS-KES/\n             Demolition/DLN-P3/2026/159,     and     BMRCL/Phase-3/HOS-KAS/Demolition/DLN-\n            P4/2026/160. Tenderer may submit tender for any One or Two or Three or All the Four\n             Tenders."
+        }
+      ]
+    },
+    {
+      "clause_id": "3.0",
+      "heading_line": "3.0     COST OF TENDERING:",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 11,
+          "text": "3.0     COST OF TENDERING:\n\n           The Tenderer shall bear all costs associated with the preparation and submission of its\n             Tender, and the Employer shall in no case be responsible or liable for those costs, regardless\n               of the conduct or outcome of the Tendering process."
+        }
+      ]
+    },
+    {
+      "clause_id": "4.0",
+      "heading_line": "4.0       SITE VISIT:",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 11,
+          "text": "4.0       SITE VISIT:\n\n  4.1     BMRCL will facilitate a site visit on the date and time specified in the Notice Inviting Tender\n              (NIT). Prospective tenderers must submit the details of their representative(s)—a maximum\n               of two—to the Site Visit Coordinator at the e-mail address provided below, at least one day\n                in advance. The submission deadline is 11:00 Hrs on the day preceding the scheduled site\n                   visit.\n\n            For further coordination in connection with site visit, please contact the following BMRCL\n                  official:\n\n              Site Visit Coordinator:\n\n             Name: Mr. Ravindra H. Bettaller\n\n                 Designation: Additional Chief Engineer\n\n                Email (Official): ravindra@bmrc.co.in\n\n                Contact No (Mob): 8277890469"
+        },
+        {
+          "pdf_page": 12,
+          "text": "(i)  Any site information provided in this Tender Document is for the Tenderer’s general\n                      guidance only. The Tenderer shall be responsible for visiting and examining the Site of\n                   Works and its surroundings at their own risk and cost, and for obtaining all information\n                      necessary for the preparation of the Tender and the execution of the Contract.\n\n                      Permission for the Tenderer to enter Employer’s premises and lands shall be deemed to\n                    have been granted on the express condition that the Tenderer, its personnel, and agents\n                           shall indemnify and hold harmless the Employer, its personnel, and agents from and\n                        against all claims, liabilities, costs, and expenses whatsoever, including but not limited to,\n                     any death, personal injury, or loss of or damage to property arising out of or in connection\n                         with such site visit.\n\n                                  (ii) The Tenderer shall be deemed to have inspected the site, its surroundings, and all\n                         relevant conditions, including sources of materials, access roads, environmental factors,\n                    and time-related restrictions, and to have accepted full responsibility for the implications\n                          thereof. No claim whatsoever shall be entertained on the grounds of lack of knowledge\n                         or ignorance of such site conditions."
+        }
+      ]
+    },
+    {
+      "clause_id": "5.0",
+      "heading_line": "5.0     CONTENTS OF TENDER DOCUMENTS",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 12,
+          "text": "5.0     CONTENTS OF TENDER DOCUMENTS\n\n         5.1      The Tender Documents as listed below have been prepared for inviting tenders:\n\n\n\n                                         CONTENT\n\n                                             Technical Document (Volume -1)\n\n                                 Section -A     Notice Inviting Tender (NIT)\n                                 Section -B      Instructions to Tenderers (ITT)\n                                 Section -C       Eligibility cum Qualification Criteria (EQC)\n                                 Section -D      Letter of Technical Bid (Including Attachments)\n\n                                             General Conditions of Contract (GCC) including\n                                 Section -E\n                                                Contract Data\n                                 Section -F      Special Conditions of Contract (SCC)\n                                 Section -G     Contract Forms\n\n                                            Technical Document (Volume -2)\n\n                                Section-H     Employer’s Requirements & Technical Specifications\n\n                                            Technical Document (Volume -3)\n                                    Section-I       Safety, Health & Environment (SHE) Manual\n\n                                      Financial Document (Pricing Document) (Volume -4)\n\n                                                      Letter of Price Bid\n\n                                           Preamble\n                                 Section -J\n                                                                     Bill of Quantities (BOQ)\n\n                                     Summary of Bill of Quantities (.xls)\n\n\n\n         5.2      The Tenderer is expected to examine carefully all instructions, forms, terms, conditions,\n                      specifications, and other contents of the Tender Documents, and to take them fully into\n                   account before submitting the Tender. Failure to comply with any of the requirements or\n                     provisions set forth in the Tender Documents shall be entirely at the Tenderer’s own risk."
+        }
+      ]
+    },
+    {
+      "clause_id": "6.0",
+      "heading_line": "6.0      CLARIFICATION ON TENDER DOCUMENTS",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 12,
+          "text": "6.0      CLARIFICATION ON TENDER DOCUMENTS\n\n         6.1       While all efforts have been made to avoid errors in drafting the Tender documents, the\n                  Tenderer is advised to check the same carefully and seek clarifications within the scheduled"
+        },
+        {
+          "pdf_page": 13,
+          "text": "period only. No claim on account of any errors detected in the Tender documents later shall\n           be entertained.\n\n  6.2      The tenderer shall submit/upload any query on the eProcurement Portal not later than the last\n             date of seeking clarification as mentioned in NIT. Only the Clarifications sought through the\n               portal will be considered.\n\n  6.3      A Pre-Bid Meeting will be held on the date and time specified in the NIT. The meeting will be\n             accessible via video conference. To receive the virtual meeting link and access credentials\n                (e.g., software, meeting ID, password), prospective bidders must register the details of their\n              representative(s) - a maximum of two - by sending the information to the official email of GM\n              (Contracts), BMRCL, at contracts@bmrc.co.in. Registration must be completed at least one\n           day in advance, no later than 17:00 Hrs on the day preceding the meeting.\n\n            Non-attendance at the Pre-bid meeting will not be a cause for disqualification of a Tenderer.\n\n  6.4       Response in writing for the Clarifications sought through the portal will be made available at\n             the eProcurement Portal. Bidders are advised to visit the Portal frequently.\n\n  6.5       Tenderers to note that seeking clarification regarding qualification shall only be for criteria set\n                for Eligibility and Qualification. Bidder has to read the tender document completely and\n            understand the requirement on his own and employer will not advice any prospective tenderer\n             regarding participation in this tender. Employer reserves the right not to reply to presumptive\n              or hypothetical queries."
+        }
+      ]
+    },
+    {
+      "clause_id": "7.0",
+      "heading_line": "7.0     AMENDMENT TO TENDER DOCUMENTS",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 13,
+          "text": "7.0     AMENDMENT TO TENDER DOCUMENTS\n\n  7.1        Before the deadline for submission of Tenders, the Employer may issue further instructions\n               to Tenderers or any modifications to existing Tender documents in the form of an addendum\n         & corrigendum. Such an amendment in the form of an addendum/corrigendum will be made\n              available at the eProcurement Portal. Bidders are advised to visit the Portal frequently.\n\n  7.2        Without prejudice to the order of preference as specified in Clause 1.5 of the General\n             Conditions of Contract, the provisions in such addenda and/or corrigenda shall take priority\n             over the Tender Documents issued previously.\n\n  7.3      To afford Tenderers reasonable time for preparing their Tenders after considering such\n           amendments, the Employer may, at his discretion, extend the deadline for the submission of\n             tenders in accordance with Clause 15.0 of Instructions to Tenderers (ITT)."
+        }
+      ]
+    },
+    {
+      "clause_id": "8.0",
+      "heading_line": "8.0     LANGUAGE OF TENDER: Tender and all accompanying documents shall be in English",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 13,
+          "text": "8.0     LANGUAGE OF TENDER: Tender and all accompanying documents shall be in English\n             language. In the event that any printed literature or document submitted by the Tenderer is in\n           a language other than English, it shall be accompanied by an accurate English translation.\n            For the purpose of interpretation and evaluation of the Tender, the English version shall\n               prevail."
+        }
+      ]
+    },
+    {
+      "clause_id": "9.0",
+      "heading_line": "9.0      COMPOSITION OF TENDER SUBMITTALS",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 13,
+          "text": "9.0      COMPOSITION OF TENDER SUBMITTALS\n\n  9.1       The Tenderer's tender submittals shall comprise of (a) Technical Bid (Cover) containing the\n           documents listed in sub-clause 9.2 of Instructions to Tenderers (ITT)) and (b) Financial Bid\n             (Cover) containing the documents listed in sub-clause 9.4 of Instructions to Tenderers (ITT).\n\n  9.2      TECHNICAL BID\n\n  9.2.1     The Tenderer shall upload soft copies (in .pdf format) of the duly completed Technical Bid on\n             the e-Procurement Portal under the “Technical Cover.” The Technical Cover shall comprise\n             the documents and information specified herein.\n\n               (a)   Copy of Tender Security (EMD) in accordance with Clause 13 of Instructions to\n                  Tenderers (ITT).\n\n               (b)   Copy of Power  of Attorney authorizing the signatory to commit the Tender,  in\n                 accordance with sub clause 14.1 of Instructions to Tenderers (ITT).\n\n                (c)   The Letter of Technical Bid (including all Attachments) shall be complete without any\n                      alterations to their content/format."
+        },
+        {
+          "pdf_page": 14,
+          "text": "(d)   Documentary evidence/ qualification documents required to establish the Tenderer’s\n                             qualifications under Eligibility and qualification criteria.\n\n                       (e)    ‘Tenderer’s Brief of Technical Details’ for performing the assignment/work as per\n                        Attachment 14 to Letter of Technical bid.\n\n                             (f)   Any other documents requested in the Bid document as a part of the Technical Bid.\n\n          9.2.2     The technical bid must have all pages sequentially numbered, with an index sheet indicating\n                    the corresponding page numbers. Tenderers should note that submitting a copy of the\n                  tender documents downloaded from the e-Procurement portal is not required.\n\n         9.3      No information relating to Financial Terms of Service, Conditions, or Prices should be\n                  included in the Technical bid. Any such violation will result in the rejection of the Tender.\n\n         9.4      FINANCIAL BID\n\n          9.4.1     The Tenderer shall upload soft copies (.pdf/ .xls) of Financial Proposal duly completed/filled\n                 on the e-Procurement Portal in the ‘Financial Cover’ which shall comprise of following:\n\n                         (a) The Letter of Price Bid shall be completed without any alterations to their content/\n\n                          format.\n\n                         (b) Price Bid (.xls format) shall be completed as per clause 10.1 of ITT.\n\n          9.4.2      Bidders shall submit their Price bid only in the format (.xls format) provided and no other\n                    format is acceptable. If the Price bid format is found to be modified by the bidder, the bid may\n                 be rejected.\n\n         9.5      The  list of documents to be submitted, as described under Clauses 9.2 and 9.4 of the\n                      Instructions to Tenderers (ITT), has been provided solely for the convenience of the Tenderer.\n                Any omission or oversight in this list shall not relieve the Tenderer of the responsibility to\n                    thoroughly review all provisions of the Tender Documents and to submit all information and\n                 documents specifically required or implied therein.\n\n             BMRCL shall not take cognizance  of, nor be bound by, any additional information or\n                 documents submitted by the Tenderer if, in the opinion of BMRCL, such information is not\n                    required or is likely to materially affect the tendering process."
+        }
+      ]
+    },
+    {
+      "clause_id": "10.0",
+      "heading_line": "10.0     TENDER PRICE",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 14,
+          "text": "10.0     TENDER PRICE\n\n         10.1          (i)  The provisions  of the Tender Documents, as specified under Clause 5.1  of the\n                          Instructions to Tenderers (ITT), govern the Quoted Tender Prices.\n\n                      Tenderers shall download the Price Bid file (.xls format) from the eProcurement Portal\n                    and fill in only the coloured (unprotected) cells by entering their name and financial offer.\n                      For Schedule-A, tenderer shall select the applicable option “At Par / Excess / Less” and\n                        enter percentage rate in figures, for Schedule-B - ‘Items under schedule of rates published\n                     by KPWD’, tenderer is required to select percentage option as ‘At Par’ (as the items\n                      operated under this schedule shall be paid as per the rates of KPWD SoR) and for\n                     Schedule-C tenderer shall offer Credit to BMRCL for Salvageable Items, in ‘Lump sum’\n                     amount. The Tenderer’s quoted price shall be (Total Amount of Schedule  - A and\n                     Schedule – B, calculated based on Tenderer’s quote) – (Tenderer’s quoted ‘Lump sum\n                      amount’ for Schedule-C) in Price Bid - Summary of BoQ.\n\n                                  (ii)  After entering the required details, the Tenderer shall validate the Price Bid file (.xls), save\n                                             it without changing the original file name, and upload the validated file under the “Financial\n                      Cover” on the eProcurement Portal.\n\n         10.2          (i)  The Tendered or Quoted Price includes all applicable taxes, duties, cess, royalties, and\n                          statutory levies as per the laws in force as on last day of the month previous to the month\n                           of invitation of this tender, except Goods and Services Tax (GST). BMRCL will reimburse\n                GST to the Contractor based on the output GST levied on works contract services\n                       corresponding to the taxable value of the works executed and duly remitted by the\n                         Contractor. BMRCL will make this reimbursement upon receipt of a valid GST-compliant\n                         tax invoice submitted along with the corresponding Interim Payment Certificates (IPC)\n                       and/ or Final Payment Certificate (FPC)."
+        },
+        {
+          "pdf_page": 15,
+          "text": "(ii) The Quoted Price (exclusive of GST) remains firm and binding for the entire duration of\n                 the Contract, including any extensions, and does not vary due to input cost fluctuations\n                  or changes in tax laws or tax rates.\n\n  10.3     The Tenderer shall keep the contents of his Tender and the amount quoted by him\n               confidential."
+        }
+      ]
+    },
+    {
+      "clause_id": "11.0",
+      "heading_line": "11.0     CURRENCIES OF THE TENDER: Tender prices shall be quoted in Indian Rupees only.",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 15,
+          "text": "11.0     CURRENCIES OF THE TENDER: Tender prices shall be quoted in Indian Rupees only."
+        }
+      ]
+    },
+    {
+      "clause_id": "12.0",
+      "heading_line": "12.0     TENDER VALIDITY",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 15,
+          "text": "12.0     TENDER VALIDITY\n\n  12.1     The Tender shall remain valid and open for acceptance for a period of One hundred and\n              eighty (180) days, both days inclusive - i.e., from the last date for submission of Tenders as\n              specified in the Notice Inviting Tender (NIT) (or as amended, if applicable) up to the last date\n               of the validity period.\n\n         A tender valid for a shorter period than required shall be considered non-responsive and\n              rejected by the Employer.\n\n  12.2        In case, it becomes unavoidable, and before the expiry of the original Tender Validity period,\n             the Employer may request the Tenderers, in writing through the eProcurement Portal or by e-\n              mail/post, to extend the period of Tender Validity for a specified duration.\n\n         A Tenderer may refuse such a request without forfeiting its Tender Security (EMD). However,\n           a Tenderer who agrees to the request shall not be permitted to modify or alter any part of its\n             Tender, including the quoted prices or terms."
+        }
+      ]
+    },
+    {
+      "clause_id": "13.0",
+      "heading_line": "13.0     TENDER SECURITY (EMD)",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 15,
+          "text": "13.0     TENDER SECURITY (EMD)\n\n\n  13.1      The Tenderer shall submit a Tender Security (Earnest Money Deposit – EMD) for the amount\n               specified in the Notice Inviting Tender (NIT). The Tender Security shall be furnished in the\n             form of an irrevocable and unconditional Bank Guarantee (Physical or e-BG; Preferably e-\n           BG) or an Insurance Surety Bond or Demand Draft or Banker’s Cheque or online payment\n            by NEFT/RTGS, in accordance with the provisions set out below.\n\n                       i.     Bank Guarantee (Physical or e-BG):\n\n           The Bank Guarantee (Physical or e-BG) shall be issued by an Indian Scheduled Bank or a\n            Scheduled Foreign Bank (as defined in Section 2(e) of the Reserve Bank of India Act, 1934),\n              excluding Co-operative Banks. In the case of a Foreign Bank having no branch in India, the\n         BG (Physical or e-BG) shall be accompanied by a counter-guarantee from a Scheduled\n          Bank in India.\n\n           The Bank Guarantee (Physical or e-BG) shall be payable in India in favour of Bangalore\n            Metro Rail Corporation Limited (BMRCL) and shall conform to the prescribed format provided\n                 in Attachment–12 of the Letter of Technical Bid.\n\n           The Bank Guarantee (Physical or e-BG) shall remain valid for a period of sixty (60) days\n           beyond the Tender Validity Period, including any extensions under ITT Sub-Clause 12.2\n            and shall have been issued prior to Tender submission deadline (in case of e-BG,  it shall\n              also be fully accessible on the NeSL portal prior to Tender submission deadline).\n\n           The Bank that is issuing the BG shall be on the “Structured Financing Messaging System\n            (SFMS)” platform. Separate advice of the BG shall be sent by the issuing Bank to the\n             Employer’s Bank through SFMS to ensure a secure BG. For “SFMS” the following details are\n               to be considered:\n\n                 Name: BANGALORE METRO RAIL CORPORATION LIMITED\n               Name of the Bank: BANK OF INDIA\n                     Branch: CANTONMENT BRANCH, BENGALURU.\n                    Account No. 840420110000760\n                  RTGS/IFSC: BKID0008404\n           Copy of Bank Guarantee along with a copy of MT760COV (for Bank Guarantee message) /\n          MT767COV (for Bank Guarantee amendment message) report sent by the issuing Bank shall\n            be submitted by the Tenderer as a part of their Bidding documents on e-Procurement Portal."
+        },
+        {
+          "pdf_page": 16,
+          "text": "Banks shall use the following details for issuing e-BG on the NeSL Portal:\n\n                   PAN of BMRCL (Beneficiary): AAACB4881D\n                            E-mail ID of Beneficiary: yogish_nayak@bmrc.co.in\n                         Tender Reference No.: (Tender number as mentioned in NIT)\n\n                                   ii.     Insurance Surety Bond:\n\n                The Insurance Surety Bond shall be issued by an Insurance Company authorised by the\n                   Insurance Regulatory and Development Authority of India (IRDAI) and shall be payable in\n                      India in favour of Bangalore Metro Rail Corporation Limited (BMRCL).\n\n                                  It shall conform to the prescribed format provided in Attachment–12A of the Letter of\n                    Technical Bid and shall remain valid for a period of sixty (60) days beyond the Tender\n                     Validity Period, including any extensions under ITT Sub-Clause 12.2.\n\n                The Insurance Surety Bond shall be issued prior to the Tender submission deadline.\n\n                                   iii.    Demand Draft or Banker’s Cheque:\n\n               Demand Draft/ Banker’s Cheque drawn prior to the Tender submission deadline in favour of\n                   Bangalore Metro Rail Corporation Limited payable at Bengaluru issued from a Scheduled/\n                     Nationalised Bank in India.\n\n                          iv.    NEFT/RTGS:\n\n               NEFT/RTGS payment shall be made prior to the Tender submission deadline, to the BMRCL\n                   account given below:\n\n                      Name: BANGALORE METRO RAIL CORPORATION LIMITED\n                    Name of the Bank: BANK OF INDIA\n                           Branch: CANTONMENT BRANCH, BENGALURU.\n                          Account No. 840420110000760\n                        RTGS/IFSC: BKID0008404\n\n         13.1.1      In Case of Tender Security (EMD) in the form of Physical Bank Guarantee or Insurance\n                    Surety Bond or Demand Draft or Banker’s Cheque, the Tenderer shall submit the original\n                  Tender Security (EMD) to BMRCL within the due date & time stipulated in Notice Inviting\n                  Tender (NIT) (or as amended, if applicable).\n\n         13.2       In case Joint Venture (JV) participation is permitted in this tender, Tender Security (EMD) can\n                 be furnished by the intended JV or any member of the JV.\n         13.3     As part of the tender submission, the Tenderer shall upload a copy of the Tender Security\n                (EMD) on e-Procurement Portal.\n\n                                           i.    For the purpose of tender evaluation and all subsequent contractual proceedings, the\n\n                             authentic and legally binding version of the Tender Security shall be:\n\n                               (a) The original Physical Bank Guarantee received by BMRCL; or\n\n                               (b) The version electronically received by BMRCL through direct intimation from the\n                       NeSL portal (in the case of an e-BG); or\n\n                                (c) The original physical Insurance Surety Bond received by BMRCL; or\n\n                               (d) The original Demand Draft / Banker’s Cheque received by BMRCL (subject to\n                                   realisation of amount in BMRCL account); or\n\n                               (e) The amount received  in the prescribed BMRCL account vide NEFT/RTGS\n                          payment made by the tenderer before the deadline for submission of tender.\n\n                                            ii.    In the event of any discrepancy between the uploaded copy and the authoritative\n\n                              version, the following shall prevail:\n\n                               (a) For a Physical Bank Guarantee, the original physical document received by\n                       BMRCL.\n\n                               (b) For an e-BG, the version confirmed by the NeSL portal.\n\n                                (c) For an Insurance Surety Bond, the original physical document received by"
+        },
+        {
+          "pdf_page": 17,
+          "text": "BMRCL.\n\n                       (d) For a Demand Draft / Banker’s Cheque, the original physical document received\n                     by BMRCL.\n\n                       (e) For NEFT/RTGS payment made by the tenderer, amount received in prescribed\n                BMRCL account before the deadline for submission of tender.\n\n   13.4     The Employer shall summarily reject the Tender in any of the following cases:\n\n                           (i)   If the required Tender Security (EMD) is not effectively provided:\n\n                       (a) For a Physical Bank Guarantee:  If the  original physical document as per\n                       requirement is not received by BMRCL within the due date & time stipulated in\n                        Notice Inviting Tender (NIT) (or as amended, if applicable).\n\n                       (b) For an e-Bank Guarantee (e-BG):  If  it  is not accessible to BMRCL as per\n                       requirement on the NeSL portal within the deadline for submission of tender\n                          stipulated in Notice Inviting Tender (NIT) (or as amended, if applicable).\n\n                        (c) For an Insurance Surety Bond:  If the  original physical document as per\n                       requirement is not received by BMRCL within the due date & time stipulated in\n                        Notice Inviting Tender (NIT) (or as amended, if applicable).\n\n                       (d) For a Demand Draft / Banker’s Cheque: If the original physical document as per\n                       requirement is not received by BMRCL within the due date & time stipulated in\n                        Notice Inviting Tender (NIT) (or as amended, if applicable) and if the submitted\n                  Demand Draft / Banker’s Cheque is not realized in BMRCL account.\n\n                       (e) For a NEFT/RTGS: Required amount is not received in the prescribed BMRCL\n                       account before the deadline for submission of tender.\n\n                             (ii)  If the Bank Guarantee (Physical or e-BG) or Insurance Surety Bond or Demand Draft\n\n                      or Banker’s Cheque is issued after the tender submission deadline.\n\n                              (iii)  If the Bank Guarantee (Physical or e-BG) is issued by any bank other than an Indian\n\n                   Scheduled Bank or a Scheduled Foreign Bank as defined under Section 2(e) of the\n\n                  Reserve Bank of India Act, 1934, read with the Second Schedule thereto.\n\n                       (iv) If the Bank Guarantee (Physical or e-BG) is issued by a Co-operative Bank.\n\n                     (v)  If the Insurance Surety Bond is issued by an insurance company not authorized by\n\n                     the Insurance Regulatory and Development Authority of India (IRDAI).\n\n                       (vi) If the furnished amount of the Tender Security (EMD) is less than the amount\n\n                      specified in the Notice Inviting Tender (NIT).\n\n                         (vii) If the validity period of the Bank Guarantee (Physical or e-BG) or Insurance Surety\n\n                 Bond is shorter than the Tender validity period required under Clause 12.0 of the\n\n                       Instructions to Tenderers (ITT).\n\n  13.4.1        If the validity of the Tender Security (Bank Guarantee (Physical or e-BG) / Insurance Surety\n            Bond) submitted by the Tenderer meets the prescribed Tender Validity Period but does not\n            conform to the required Tender Security Validity Period, the Employer shall notify the\n            Tenderer in writing through the eProcurement Portal or by e-mail/post, directing submission\n               of a compliant Bank Guarantee (Physical or e-BG)  / Insurance Surety Bond within fifteen (15)\n             working days from the date of such notification.\n\n              Failure of the Tenderer to furnish a compliant Tender Security within the stipulated period shall\n               result in the Tender being rejected and declared non-responsive.\n\n  13.4.2    Where the Employer, in its sole discretion, extends the deadline for submission of Bids in\n            accordance  with ITT Clause  15.5,  after commencement  of  Bid submission on  the\n            eProcurement Portal, any Bid already submitted shall remain valid, subject to compliance\n              with the revised Tender Security Validity Period. In the event that the Tender Security (Bank\n            Guarantee (Physical or e-BG) / Insurance Surety Bond) submitted with such Bid does not\n            conform to the revised validity requirements,  if necessary, the Employer shall notify the"
+        },
+        {
+          "pdf_page": 18,
+          "text": "concerned Tenderer in writing, through the eProcurement Portal or by e-mail/post, and\n                     require submission of a compliant Bank Guarantee (Physical or e-BG) / Insurance Surety\n                Bond within fifteen (15) working days from the date of issuance of such notice.\n\n                     Failure of the Tenderer to furnish a compliant Tender Security within the stipulated period\n                       shall result in the tender being rejected and declared non-responsive.\n\n         13.5      Tender Securities (EMD) of the non-responsive or unsuccessful bidders will be returned in\n                  accordance with sub-clause 22.1.7 or 25.3 of Instruction to Tenderers (ITT) respectively as\n                    the case may be.\n\n         13.6     The Tender Security (EMD) of the Successful Tenderer shall be returned upon the Tenderer\n                    executing the Contract Agreement after furnishing the required Performance guarantee as\n                   per the Contract.\n\n         13.7     The Tender Security (EMD) shall be forfeited;\n\n                       (a)       if a Tenderer withdraws his tender during the period of tender validity;\n\n                       (b)       if the tenderer does not accept the correction of his tendered price in terms of Clause\n                          22.2.5 of Instructions to Tenderers (ITT);\n\n                        (c)       if a tenderer misrepresents or omits the facts to influence the procurement process.\n\n                       (d)    in the case of a successful tenderer if he fails to;\n\n                                         (i)    Furnish the necessary Performance guarantee.\n\n                                            (ii)    Enter into Contract within the time limit specified.\n\n                       (e)    In case Joint Venture (JV) participation is permitted in this tender and if any, JV member/s\n                          withdraws from the JV after submission of the tender.\n\n         13.8     No interest will be payable by the Employer on the Tender Security amount."
+        }
+      ]
+    },
+    {
+      "clause_id": "14.0",
+      "heading_line": "14.0    FORMAT AND SIGNING OF TENDERS",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 18,
+          "text": "14.0    FORMAT AND SIGNING OF TENDERS\n\n         14.1     The tender shall be submitted online using the class III digital signature of the authorized\n                     signatory of the tenderer. The tender shall be signed by a person holding Power of Attorney\n                    duly authorized to sign as follows.\n\n                        (a)   In the case of a Proprietary firm, the Power of Attorney shall be duly signed by the\n                             Proprietor.\n\n                        (b)   In the case of a Partnership Firm, the Power of Attorney shall be duly signed by all the\n                          Partners OR the Partner/Partners holding the Power of Attorney. Copy of Partnership\n                    Deed shall also be submitted.\n\n                         (c)   In the case of Private/Public Companies/ Limited Liability Partnership (LLP), a Power\n                             of Attorney from the Legal Representative of the Company who has been authorized\n                       by the Board of Directors through resolution to sign on behalf of the Company. Copy\n                             of Board Resolution, Constitution of the Legal Entity, Articles of Incorporation, or other\n                              valid legal instruments shall also be submitted.\n\n         14.2      Documents submitted in Tender submission shall contain no alterations, omissions, or\n                      additions, except those to comply with instructions issued by the Employer, or as necessary\n                      to correct errors made by the Tenderer, in which case such corrections shall be initialed and\n                   dated by the person or persons signing the Tender before scanning and uploading/submitting.\n\n         14.3         All witnesses and sureties shall be persons of status and probity and their  full name,\n                    occupation, and address shall be written below their signatures.\n\n         14.4       Cancellation or creation of a document such as Power of Attorney, Partnership deed,\n                     Constitution of Firm,  etc., which may have bearing on the Tender/Contract, shall be\n                 communicated   forthwith   in   writing  by  the  Tenderer   to  the  General  Manager\n                    (Contracts)/Engineer and the Employer.\n\n         14.5      General Power of Attorney (GPA) is also acceptable in place of Power of Attorney. GPA\n                   should contain the power of signing the Tender given by the Board of Directors. The said\n             GPA should have come into force before the last date & time of submission of the Tender."
+        }
+      ]
+    },
+    {
+      "clause_id": "15.0",
+      "heading_line": "15.0      Submission of Tenders",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 19,
+          "text": "15.0      Submission of Tenders\n\n  15.1     The tenderer shall submit his tender i.e. Technical Bid and Financial Bid respectively on the\n            e-Procurement Portal mentioned in NIT before the closing time on the scheduled last date as\n              indicated in NIT or as mentioned in subsequent addendum/corrigendum. The Technical and\n              Financial Bids shall be complete in line with clause 9.2 & clause 9.4 above.\n\n  15.2         All documents which are to be uploaded/ submitted as soft copies/ scanned documents shall\n           be typed or written in indelible ink and all the pages shall be signed by the authorized signatory\n               of the Tenderer before scanning and uploading. The employer is not responsible for any\n            misplacement or non-uploading of any required documents to qualify in the bidding process.\n\n  15.3     The Tenderer shall include with his Tender an index that cross-refers all the Employer’s\n             tender requirements elaborated in these documents to  all the individual sections within\n             Technical Bid and Financial Bid, which the Tenderer intends to be the responses to every one\n               of those requirements. The Tender submittals i.e. Technical Bid and Financial Bid must be\n             presented, all pages numbered, and laid out in a logical sequence with main and subheadings\n               to facilitate evaluation.\n\n  15.4     The server time (which is displayed on the bidder’s dashboard) will be considered as\n            the standard time for referencing the deadlines for submission of the bids by the\n             bidders, opening of bids,  etc. The bidders should follow  this time during bid\n            submission.\n\n  15.5     The Employer may, at his discretion, extend the date for the submission of the Tender by\n           amending the Tender Documents in which case all rights and obligations of the Employer and\n             the Tenderer previously subject to the original date shall thereafter be subject to the new\n             deadline as extended.\n\n  15.6     Upon the successful and timely submission of bids (i.e. after Clicking “Freeze Bid Submission”\n                in the portal), the portal will give a successful bid submission message & a bid summary will\n           be displayed with the bid number and the date & time of submission of the bid with all other\n              relevant details.\n\n  15.7     The Tenderer shall ensure that a receipt/acknowledgment is obtained for the submission of\n               his tender at the e-Procurement Portal.\n\n  15.8     The Tenderer shall note that, ‘No Physical Tender will be accepted’."
+        }
+      ]
+    },
+    {
+      "clause_id": "16.0",
+      "heading_line": "16.0     FAILURE TO SUBMIT TENDERS IN TIME:",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 19,
+          "text": "16.0     FAILURE TO SUBMIT TENDERS IN TIME:\n\n            Submission of Tenders shall be closed on the eProcurement Portal at the last date & time of\n            submission prescribed in NIT or as mentioned in subsequent addendum/corrigendum after\n            which no tender shall be accepted by the eProcurement portal.\n\n         BMRCL will not be responsible for any delay, internet connection failure, or any error\n              in uploading the tender. The tenderers are advised to upload their submissions well\n            before the due date and time of tender submission to avoid any problems and last-\n           minute rush."
+        }
+      ]
+    },
+    {
+      "clause_id": "17.0",
+      "heading_line": "17.0     MODIFICATION AND WITHDRAWAL OF TENDERS",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 19,
+          "text": "17.0     MODIFICATION AND WITHDRAWAL OF TENDERS\n\n  17.1      Except where expressly permitted by these Instructions, the Tenderer shall not make or cause\n           any alteration, erasure, or obliteration to the text of the documents prepared by the Employer\n           and submitted by the Tenderer with or as part of his Tender.\n\n  17.2     No modifications or withdrawal of tender shall be permitted after the deadline for submission\n               of the Tender. Withdrawal of the Tender after the deadline for submission of Tenders but\n             before the period of Tender Validity shall result in Employer’s action as per Clause 13.7 of\n               Instructions to Tenderers (ITT).\n\n  17.3     The Tender submitted online will be taken as the final bid."
+        }
+      ]
+    },
+    {
+      "clause_id": "18.0",
+      "heading_line": "18.0     TENDER OPENING",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 20,
+          "text": "18.0     TENDER OPENING\n\n         18.1     The tenders shall be opened online in the eProcurement Portal by the Employer on the\n                  scheduled date and time of tender opening as mentioned in NIT or as per subsequent\n                amendment if any at the office of the General Manager (Contracts) address mentioned in NIT.\n                               (If such scheduled date for opening of Bid is subsequently declared as a Public Holiday by\n                    the Employer, the next official working day shall be deemed to be the date of opening of the\n                      Bids).\n\n         18.2     On opening the technical bid, the tender opening committee will first check the tender security\n                (EMD) documents submitted by the bidder on the eProcurement Portal.\n\n         18.4      Tender  submittals/ documents  of  all  online  bids accepted by the Employer on the\n                  eProcurement Portal shall be downloaded for further technical evaluation.\n\n         18.5     The Financial Bid(s) will be opened on the eProcurement portal on a subsequent date after\n                    the evaluation of technical bids. Financial Bids of only those tenderers whose submissions\n                   are found substantially responsive and technically compliant as per clause 22.1 of ITT will be\n                  opened. The time of opening of financial bids shall be informed through the eProcurement\n                       Portal. Bidders shall visit the eProcurement Portal regularly for updates."
+        }
+      ]
+    },
+    {
+      "clause_id": "19.0",
+      "heading_line": "19.0     PROCESS TO BE CONFIDENTIAL",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 20,
+          "text": "19.0     PROCESS TO BE CONFIDENTIAL\n\n         19.1      Except for the public opening of Tender on the eProcurement Portal, information relating to\n                    the examination, clarification, evaluation, and comparison of Tenders and recommendations\n                   concerning the award of Contract shall not be disclosed to Tenderers or other persons not\n                          officially concerned with such process.\n\n         19.2     Any effort by a Tenderer to influence the Employer in the process of examination, clarification,\n                     evaluation, and comparison of Tenders and decisions concerning the award of contract, may\n                       result in the rejection of the Tender."
+        }
+      ]
+    },
+    {
+      "clause_id": "20.0",
+      "heading_line": "20.0     CLARIFICATION OF TENDERS",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 20,
+          "text": "20.0     CLARIFICATION OF TENDERS\n\n         20.1       Evaluation of Technical Bids submitted by Tenderers shall be undertaken based on details\n                   submitted in the Technical Bids only. Employer may at his discretion ask any Tenderer for\n                        clarification on his submittals through eProcurement portal. The Tenderer, in response to the\n                         clarification, is not permitted to submit additional document not pertaining to the clarification\n                    sought. The request for clarification and the response shall be in writing only through\n                  eProcurement Portal and no response leading to material change in the submittals will be\n                   taken into consideration.  It is not mandatory for Employer to seek clarification. Employer\n                   reserves the right to evaluate the bids based on documents submitted by the bidders.\n\n         20.2       Notwithstanding the provision in Para 20.1 above, the Tenderer must take care that all\n                    required documents  to  establish  their  Eligibility &  Qualification and other mandatory\n                   requirements must be submitted before the deadline for submission.\n\n         20.3      During the evaluation of financial bid, the Employer may ask Tenderers individually for\n                        clarification regarding their price bids, including the breakup of prices. The request for\n                        clarification and the response shall be in writing and no change in the price or substance of\n                    the Price bid shall be sought, offered, or permitted except as required to confirm the correction\n                      of arithmetical errors discovered by the Employer during the evaluation of Tenders in\n                  accordance with Clause 22.2.5.\n\n         20.4           If a Bidder does not provide clarifications of his bid by the date and time set in the Employer’s\n                    request for clarification, their bid shall be evaluated as per the available information in the\n                   submitted bid."
+        }
+      ]
+    },
+    {
+      "clause_id": "21.0",
+      "heading_line": "21.0     DETERMINATION OF RESPONSIVENESS",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 20,
+          "text": "21.0     DETERMINATION OF RESPONSIVENESS\n\n         21.1      Tender shall be considered responsive  if  it conforms to  all the terms, conditions, and\n                      specifications of the Tender documents without any material deviation or reservation which\n                     include exceptions, exclusions & qualifications. A material deviation or reservation is one\n                  which affects in any substantial way the scope, quality, performance, or administration of the\n                  works to be undertaken by the Tenderer under the Contract, or which limits in any substantial"
+        },
+        {
+          "pdf_page": 21,
+          "text": "way, the Employer’s rights or the Tenderer obligations under the Contract as provided for in\n             the Tender documents and/or is of an essential condition, the rectification of which would\n               affect unfairly the competitive position of other Tenderers presenting substantially responsive\n            Tenders at reasonable price.\n\n  21.2     The Employer may waive any nonconformities in the Tender that do not constitute a material\n              deviation, reservation, or omission. The Employer may request the Tenderer to submit the\n            necessary information or documentation, within a reasonable period, to rectify nonmaterial\n             nonconformities  in  the  Tender  related  to  documentation  requirements.  Requesting\n              information or documentation on such nonconformities shall not be related to any aspect of\n             the price of the Tender. The request of the Employer for clarification and the response of the\n             bidder shall be in writing through eProcurement portal. Failure of the Tenderer to comply with\n             the request may result in the rejection of his Tender.\n\n  21.3           If a Tender is not substantially responsive to the requirements as stipulated in Tender\n            documents, it will be rejected by the Employer, and subsequently will not be permitted to be\n          made responsive by the Tenderer by correction or withdrawal of the non-conformity or\n                 infirmity. The Financial Bid of such Tenderer shall not be opened on the eProcurement Portal.\n\n  21.4     The decision of the Employer as to which of the Tenders are not substantially responsive\n               shall be final."
+        }
+      ]
+    },
+    {
+      "clause_id": "22.0",
+      "heading_line": "22.0     EVALUATION OF TENDER",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 21,
+          "text": "22.0     EVALUATION OF TENDER\n\n  22.1      Evaluation of Technical bids\n\n  22.1.1    The Employer will carry out the technical evaluation of Tender submittals/ documents of all\n              online bids accepted by the Employer on the eProcurement Portal to determine that the\n            Tenderer has a full comprehension of the work of the contract. Where a Tenderer’s Technical\n              submittal is found to contain any material deviation or reservation with the requirement of\n             work, the tender may be rejected.\n\n  22.1.2     Evaluation of bids involves verification of payment of requisite Tender Fees.\n\n  22.1.3    The evaluation of the Technical Bid includes verification of the Tender Security to ensure it is\n            adequate and fully compliant with Clause 13.0 of the Instructions to Tenderers (ITT).\n\n  22.1.4     Further Technical bids will be evaluated for Eligibility cum Qualification Criteria (EQC). If the\n            Tenderer fails to meet the requirements of EQC, then evaluation of other technical parameters\n                  will not be done, and financial bids of those Tenderers will not be opened.\n\n  22.1.5     Tenderer’s Financial bid will be opened only if Technical bid meet the requirements of EQC\n           and is found to be substantially responsive to the requirements stipulated in the Tender\n            document. The date and time of opening of financial bid shall be informed online on the\n            eProcurement Portal to the Tenderers who are found to be substantially responsive.\n\n  22.1.6    The offers of Tenderers which have not been found to be substantially responsive to the\n             requirements of the Tender document and which have been determined as being not qualified\n                in the evaluation of technical bid, the financial bid(s) of such Tenderer(s) shall not be opened\n           on eProcurement Portal.\n\n  22.1.7    Tender Securities (EMDs) of nonresponsive bidders (whose financial bids are not opened)\n               shall be returned  after  finalization of technical evaluation and updating the same on\n            eProcurement Portal.\n\n  22.2      Evaluation of Financial bid\n\n  22.2.1    The Financial Bids of all Technically qualified and substantially responsive Tenderers shall\n           be opened online on the eProcurement Portal by the Employer on the due date and time of\n            opening notified under Clause 22.1.5 of ITT. The Financial bids of all such Tenderers shall\n           be downloaded by the Employer from the eProcurement Portal for office records and further\n               financial evaluation.\n\n  22.2.2     Offers, deviations, and other factors that are more than the requirements of the Tender\n           documents or will otherwise result in the accrual of unsolicited benefits to the Employer shall\n             not be considered in the Tender evaluation.\n\n  22.2.3     Evaluation of the Financial bid will be based on the Price Bid summary of BOQ in the Pricing\n           Document, i.e. the Tenderer’s quoted price which shall be (Total Amount of Schedule - A and"
+        },
+        {
+          "pdf_page": 22,
+          "text": "Schedule – B, calculated based on Tenderer’s quote) – (Tenderer’s quoted ‘Lump sum\n                  amount’ for Schedule-C). Any alteration in Price Bid will not be given any cognizance. The\n                 amount quoted by Tenderers must be found to be reasonable and acceptable.\n\n         22.2.4    The evaluation of Financial Bids by the employer will take into account, in addition to the\n                  Tender amounts, the following factors.\n\n                        (a)   Arithmetical errors corrected by the Employer as per Clause 22.2.5 of Instructions to\n                        Tenderers (ITT).\n\n                        (b)  Such other factors of an administrative nature as the Employer may consider having a\n                              potentially significant impact on contract execution, price and payments, including the\n                              effect of items or unit rates that are unbalanced or unrealistically priced.\n\n         22.2.5     Correction of Errors\n\n                      a)   Bidders are required to select option ‘At Par/ Excess / Less’ and quote percentage rate\n                                in figures for Schedule – A, select option ‘At Par’ for Schedule - B  ‘Items under\n                        schedule of rates published by KPWD’ and shall quote ‘Lump sum’ amount for\n                       Schedule - C.\n\n                      b)    In case the bidder selects the percentage option of ‘At Par’ and also quotes Percentage\n                            rate in figures for Schedule – A, the selected Percentage option ‘At Par’ will only govern\n                      and percentage in figures will be ignored for evaluation of the bids.\n\n                       c)    In case of discrepancy as per 22.2.5(b), the tenderer shall be bound to accept the\n                           evaluation based on ‘At Par’ rate. In case the tenderer does not accept, his bid will be\n                             rejected.\n\n         22.2.6    The effect of the price adjustment provisions (if applicable for this tender) stipulated in the\n                  General Conditions of Contract (GCC), applicable during the execution period of the Contract,\n                       shall not be taken into account for the purpose of bid evaluation.\n\n         22.2.7     Conditional quotes for any or all schedules of Price Bid may lead to rejection of Tender.\n\n         22.2.8      In case of more than one L1 bidder, the tender may be awarded to a tenderer having a higher\n                    Bid Capacity. In case the Bid capacity is also the same, the tenderer having done higher value\n                      of similar work in the last three previous financial years and the current financial year up to\n                        last day of the month previous to the month of invitation of this tender, may be selected for\n                    the award.\n\n         22.3           If the lowest evaluated Quoted Price for Schedule A & Schedule B of BoQ (combined total\n                  amount)  is seriously unbalanced, front-loaded, or abnormally low in the opinion of the\n                   Employer, the Employer may require the Tenderer to produce a detailed price analysis for\n                 any or all schedules of the Price Bid-BoQ to demonstrate the internal consistency of those\n                     prices with the work execution methods proposed. If after evaluating the price analyses, the\n                  Employer determines that the tenderer has substantially failed to demonstrate its capability\n                      to deliver the contract at the offered price, the employer may reject the Tender/bid.\n\n                      In case of bids with abnormally low quote for Schedule A & Schedule B of BoQ (combined\n                         total amount), the Employer may require “Additional ‘Performance Security” over and above\n                    the ‘Performance Security’ outlined in Clause 27.1 of ITT and may be obtained at the expense\n                      of the successful Tenderer to a level sufficient to protect the Employer against financial loss\n                        in the event of default of the successful Tenderer under the contract. If such an additional\n                  Performance Security is required by the Employer, the successful Tenderer shall furnish the\n               same failing which his Tender shall be liable to be rejected.\n\n                      “Additional Performance Security” is calculated as follows:\n\n                                      (i)   If the Bid Price quoted for Schedule A & Schedule B of BoQ (combined total amount)\n                        by the Bidder is lower by more than 10% but up to 20% of the total estimated cost of\n                         Schedule A & Schedule B, then the additional Performance Security shall be\n                             calculated @ 10% of the difference in the (a) Combined total Estimated cost of\n                         Schedule A & Schedule B – 10% of the combined total estimated cost of Schedule A\n                   & Schedule B and (b) the Bid Price quoted by the Bidder for Schedule A & Schedule\n                   B (combined total amount).\n\n                                        (ii)   If the Bid Price quoted for Schedule A & Schedule B of BoQ (combined total amount)\n                        by the Bidder is lower by more than 20% of the combined total estimated cost of"
+        },
+        {
+          "pdf_page": 23,
+          "text": "Schedule A & Schedule B, then the additional Performance Security shall be\n                      calculated @ 15% of the difference in the (a) Combined total Estimated cost of\n                   Schedule A & Schedule B – 10% of the combined total amount estimated cost of\n                   Schedule A & Schedule B and (b) the bid price quoted by the Bidder for Schedule A\n               & Schedule B.\n\n  22.4       Evaluation for Award of Multiple Contracts:\n\n  22.4.1     Tenderers can participate in any One or Two or Three or All the four Tenders, issued under\n            Tender Notifications mentioned under clause 2.3 of ITT. However, Maximum  of Two\n            Contracts only will be awarded to a tenderer.\n\n                      If a Tenderer intends to participate in more than one Tender and seeking for the award of\n          Two Contracts, the Tenderer must demonstrate having experience and resources to meet the\n            aggregate of the prescribed qualifying criteria of individual Tenders. Tenderer shall submit\n              required documents, certificates and other credentials along with his bid so as to qualify for\n             the award of Two Contracts. Pursuant to Clause 22.1 & 22.2 of ITT, evaluation for award of\n              Multiple Contracts shall be done as under:\n\n                a.  In the first stage, the eligibility cum qualification of the Tenderer shall be evaluated\n                  separately as per ITT Clause 22.1 for each individual Tender for which the Tenderer has\n                  submitted his Bid.\n\n                b.  In the second stage, the Tenderer whose bids have been determined substantially\n                  responsive and meeting the  eligibility cum qualification requirements of individual\n                  tenders in accordance with ITT Clause 22.1, the technical evaluation of such Tenderers\n              who have submitted Annexure-1A, will be carried out for the aggregated requirements\n                (combined requirements) of the following qualification criteria of the respective tenders\n                      for which he has submitted his bids and found substantially responsive:\n\n                             (i) Similar Nature work requirements\n\n                               (ii) Liquidity\n\n                                (iii) Annual Turnover\n\n                         (iv) Bid Capacity\n\n  22.4.2         If a Tenderer is submitting one or more tenders mentioned in ITB Clause 2.3 and seeking\n           award of only One Contract, then he is not required to submit Attachment-1A to Letter of\n             Technical Bid and such bidder will be considered for evaluation as per Clause 22.4.1(a) and\n                  will not be consider for evaluation under 22.4.1(b).\n\n                     If a Tenderer is participating in two or more tenders mentioned in ITB Clause 2.3 and\n            seeking award of Two Contracts, then he must submit Attachment-1A to Letter of\n            Technical Bid along with their bids without fail, otherwise such bidder will not be\n            considered for evaluation as per Clause 22.4.1(b)."
+        }
+      ]
+    },
+    {
+      "clause_id": "23.0",
+      "heading_line": "23.0    AWARD CRITERIA",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 23,
+          "text": "23.0    AWARD CRITERIA\n\n  23.1       Subject to the provisions of Clause 24.0 of the Instructions to Tenderers (ITT), the Employer\n               shall award the Contract in accordance with Sub-Clause 23.2 of ITT to the Tenderer whose\n              bid has been determined to be substantially responsive and compliant with the requirements\n               of the bidding documents, in accordance with Sub-Clause 22.1, 22.2.\n\n\n  23.2           If a Tenderer has participated in one or more Tenders mentioned in ITT Clause 2.3 and if he\n                 is determined to be lowest (L1) in any one or more tenders, then the Employer shall award\n          One or Maximum of Two Contracts which are financially beneficial to Employer based on\n               least cumulative cost for award of all the works contracts taken together as under;\n\n                              i.       If a Tenderer is determined to be lowest (L1) in any one or more bids and has not\n                    submitted Attachment-1A, then he will be awarded only One Contract which is\n                        financially beneficial to the Employer (based on least cumulative cost for award of all\n                     the four contracts taken together)."
+        },
+        {
+          "pdf_page": 24,
+          "text": "ii.       If the Tenderer meets the aggregated requirements (combined requirements) of\n                                qualification criteria as per ITT clause 22.4.1 for award of Two contracts among the\n                           tenders for which his offer is lowest and has submitted Attachment-1A to Letter of\n                           Technical Bid as mentioned in ITT Clause 22.4.2, then he will be awarded Two\n                             contracts which are financially more beneficial to Employer based on least cumulative\n                            cost for award of all the works taken together. In such case, other contracts will be\n                        awarded to next lowest offered bidder(s) as per least cumulative cost for award of all\n                            the works taken together with/without negotiation as decided by the Employer.\n\n                                           iii.       If the Tenderer meets the aggregated requirements (combined requirements) of\n                                qualification criteria as per ITT clause 22.4.1 for the award of Two contracts among\n                            the Contracts  for which his offer is lowest and has not submitted Attachment-1A to\n                               Letter of Technical Bid as mentioned in ITT Clause 22.4.2, then he will not be\n                        awarded Two contracts among the Contracts for which he is lowest, but he will be\n                        awarded only that one contract which is financially beneficial to the Employer (based\n                       on least cumulative cost for award of all the works taken together) among the work\n                             contracts  for which he is found lowest (L1).  In such case, other contracts will be\n                        awarded to next lowest offered bidder(s) as per least cumulative cost for award of all\n                            the works taken together with/without negotiation as decided by the Employer."
+        }
+      ]
+    },
+    {
+      "clause_id": "24.0",
+      "heading_line": "24.0     EMPLOYER'S RIGHT TO ACCEPT ANY TENDER AND TO REJECT ANY OR ALL",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 24,
+          "text": "24.0     EMPLOYER'S RIGHT TO ACCEPT ANY TENDER AND TO REJECT ANY OR ALL\n              TENDERS\n\n                    Notwithstanding the provision in Clause 23.0, the Employer reserves the right to accept or\n                       reject any Tender and to annul the Tender process and reject all Tenders, at any time before\n                    the award of contract without thereby incurring any liability to the affected Tenderer or\n                  Tenderers or any obligations to inform the affected Tenderer or Tenderers of the grounds for\n                   Employer’s action."
+        }
+      ]
+    },
+    {
+      "clause_id": "25.0",
+      "heading_line": "25.0     NOTIFICATION OF AWARD",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 24,
+          "text": "25.0     NOTIFICATION OF AWARD\n\n         25.1      Before the tender validity period expires, the Employer will notify the successful Tenderer of\n                        their accepted tender. This formal notification, referred to in the Contract as the 'Letter of\n                    Acceptance,' will state the 'Contract Price' - the total sum to be paid to the Tenderer for the\n                    execution, completion, maintenance, and guarantee of the works as prescribed by the\n                     Contract. The Letter of Acceptance will be sent in duplicate to the successful Tenderer, who\n                 must return one duly signed and acknowledged copy to the Employer within one week of\n                       receipt. A copy will also be uploaded to the eProcurement portal.\n\n         25.2        Until a formal contract is prepared and executed, the issuance of a ‘Letter of Acceptance’\n                       shall constitute a binding Contract.\n\n         25.3      Tender Securities (EMD) of the unsuccessful bidders (whose financial bids are opened) will\n                 be returned to them immediately after issuance of a ‘Letter of Acceptance’ to the successful\n                     bidder."
+        }
+      ]
+    },
+    {
+      "clause_id": "26.0",
+      "heading_line": "26.0     SIGNING OF CONTRACT AGREEMENT",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 24,
+          "text": "26.0     SIGNING OF CONTRACT AGREEMENT\n\n         26.1     The Employer shall prepare the Contract Agreement in the format as prescribed in Contract\n                Forms (Form-1), with such modifications as may be necessary for duly incorporating all the\n                   terms of the agreement between the two parties. The successful Tenderer will be required to\n                   execute the Contract Agreement within the period stated in Contract Data of General\n                    Conditions of Contract (GCC). One copy of the Contract Agreement duly signed by the\n                  Employer and the Tenderer through their authorized signatories will be supplied by the\n                  Employer to the Tenderer."
+        }
+      ]
+    },
+    {
+      "clause_id": "27.0",
+      "heading_line": "27.0    PERFORMANCE SECURITY",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 24,
+          "text": "27.0    PERFORMANCE SECURITY\n\n         27.1     The successful Tenderer shall furnish to the Employer a Performance Security and Additional\n                  Performance      Security          (if      applicable)     under     Sub-Clause      4.2\n                      of General Conditions of Contract within the period as stated in the Contract Data of General\n                    Conditions of Contract.\n\n         27.2     The successful tenderer shall furnish either (i) a Bank Guarantee (physical or e-BG) or (ii) an\n                   Insurance Surety Bond towards the Performance Security, in the prescribed format provided\n                  under the Contract Forms (Form–2/2A)."
+        },
+        {
+          "pdf_page": 25,
+          "text": "For issuance of e-Bank Guarantees, duly incorporate the beneficiary details specified under\n            Clause 13.0 of the Instructions to Tenderers (ITT)."
+        }
+      ]
+    },
+    {
+      "clause_id": "28.0",
+      "heading_line": "28.0     ANNULMENT OF THE AWARD",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 25,
+          "text": "28.0     ANNULMENT OF THE AWARD\n\n              Failure of the successful Tenderer to comply with the requirements of Instructions to\n            Tenderers (ITT) Clauses 25.0, 26.0 and 27.0 shall constitute sufficient grounds for the\n            annulment of the award and forfeiture of the Tender security."
+        }
+      ]
+    },
+    {
+      "clause_id": "29.0",
+      "heading_line": "29.0     COMPLETION PERIOD",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 25,
+          "text": "29.0     COMPLETION PERIOD\n\n           Time for Completion is given in the Contract Data of General Conditions of Contract."
+        }
+      ]
+    },
+    {
+      "clause_id": "30.0",
+      "heading_line": "30.0     APPEAL",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 25,
+          "text": "30.0     APPEAL\n\n  30.1      Under section 16 of the KTPP Act, any aggrieved Bidder may appeal, within the specified\n              period, to the Appellate Authority – Managing Director / BMRCL.\n\n  30.2     Any suit or application, arising out of any dispute or differences on account of this Tender\n               after the first step of Bidder’s appeal to the Appellate Authority is exhausted shall be filed in\n           a competent court of Law at Bangalore, Karnataka only and no other court or any other district\n               of the country shall have any Jurisdiction in the matter."
+        }
+      ]
+    },
+    {
+      "clause_id": "31.0",
+      "heading_line": "31.0     CONTACT PERSON IN THE BMRCL OFFICE",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 25,
+          "text": "31.0     CONTACT PERSON IN THE BMRCL OFFICE\n\n           The contact person in BMRCL office regarding this Tender  will be General Manager\n             (Contracts), Bangalore Metro Rail Corporation Limited, Annex-1, Project & Planning, 4th\n               Floor, BMTC Complex, KH Road, Shantinagar, Bangalore-560027, Karnataka,  India,\n            Telephone No. 080-22969300 and Fax No: 080-22969222, Email: contracts@bmrc.co.in."
+        }
+      ]
+    }
+  ]
+}

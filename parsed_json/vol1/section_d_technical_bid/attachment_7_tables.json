@@ -1,0 +1,348 @@
+{
+  "source_id": "bmrcl-volume-1",
+  "source_path": "data/Vol1DLNP1.pdf",
+  "source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+  "section": "D",
+  "form_id": "attachment_7",
+  "title": "Works in Hand",
+  "document_role": "template",
+  "pdf_pages": [
+    47,
+    48
+  ],
+  "review_status": "pending_visual_review",
+  "extraction_method": "source_hash_bound_layout_profile",
+  "original_table_page_rotation": 90,
+  "coordinate_system": "Rotation-normalized page coordinates, in points",
+  "main_table": {
+    "pdf_page": 47,
+    "bbox": [
+      84.564,
+      121.058,
+      767.897,
+      334.248
+    ],
+    "columns": [
+      {
+        "column_number": 1,
+        "field_id": "contract_description_and_award_date",
+        "source_header": "Name          and\ndescription        of\ncontract and date of\naward",
+        "header_bbox": [
+          84.564,
+          121.058,
+          207.11,
+          243.48
+        ]
+      },
+      {
+        "column_number": 2,
+        "field_id": "client_and_telephone",
+        "source_header": "Name  of  client  with\ntelephone number",
+        "header_bbox": [
+          207.11,
+          121.058,
+          335.15,
+          243.48
+        ]
+      },
+      {
+        "column_number": 3,
+        "field_id": "awarded_contract_value_inr",
+        "source_header": "Contract  Value  at  the\ntime of Award (in INR)",
+        "header_bbox": [
+          335.15,
+          121.058,
+          473.87,
+          243.48
+        ]
+      },
+      {
+        "column_number": 4,
+        "field_id": "anticipated_completion_date",
+        "source_header": "Anticipated\nCompletion Date",
+        "header_bbox": [
+          473.87,
+          121.058,
+          591.47,
+          243.48
+        ]
+      },
+      {
+        "column_number": 5,
+        "field_id": "updated_balance_work_value_inr",
+        "source_header": "*The updated value (**in INR)\nof     the    balance     Civil\nEngineering  works remaining\nto  be  executed  during  the\ncompletion period specified in\nthe NIT of this tender, as on the\nlast day of the month previous\nto the month of invitation of\nthis tender",
+        "header_bbox": [
+          591.47,
+          121.058,
+          767.897,
+          243.48
+        ]
+      }
+    ],
+    "entry_rows": [
+      {
+        "template_row": 1,
+        "fields": [
+          {
+            "field_id": "contract_description_and_award_date",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              84.564,
+              243.48,
+              207.11,
+              273.72
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "client_and_telephone",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              207.11,
+              243.48,
+              335.15,
+              273.72
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "awarded_contract_value_inr",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              335.15,
+              243.48,
+              473.87,
+              273.72
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "anticipated_completion_date",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              473.87,
+              243.48,
+              591.47,
+              273.72
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "updated_balance_work_value_inr",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              591.47,
+              243.48,
+              767.897,
+              273.72
+            ],
+            "review_status": "pending_visual_review"
+          }
+        ]
+      },
+      {
+        "template_row": 2,
+        "fields": [
+          {
+            "field_id": "contract_description_and_award_date",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              84.564,
+              273.72,
+              207.11,
+              303.96
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "client_and_telephone",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              207.11,
+              273.72,
+              335.15,
+              303.96
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "awarded_contract_value_inr",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              335.15,
+              273.72,
+              473.87,
+              303.96
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "anticipated_completion_date",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              473.87,
+              273.72,
+              591.47,
+              303.96
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "field_id": "updated_balance_work_value_inr",
+            "value": null,
+            "source_text": "",
+            "source_status": "no_text_in_template_cell",
+            "interpretation": "expected_blank_bidder_entry_field",
+            "bbox": [
+              591.47,
+              273.72,
+              767.897,
+              303.96
+            ],
+            "review_status": "pending_visual_review"
+          }
+        ]
+      }
+    ],
+    "total_row": {
+      "label": "Total",
+      "label_colspan": 4,
+      "label_bbox": [
+        84.564,
+        303.96,
+        591.47,
+        334.248
+      ],
+      "value_field_id": "updated_balance_work_value_inr",
+      "value": null,
+      "source_text": "",
+      "value_bbox": [
+        591.47,
+        303.96,
+        767.897,
+        334.248
+      ],
+      "source_status": "no_text_in_template_cell",
+      "review_status": "pending_visual_review"
+    },
+    "table_region_token_check": "passed"
+  },
+  "notes": [
+    {
+      "note_id": "attachment_7_note_1",
+      "number": 1,
+      "fragments": [
+        {
+          "pdf_page": 47,
+          "text": "1. * For calculation of Updated Balance work to the price level of the financial year in which this tender is invited, assume inflation as per multiplying Factors given in \nthe table under note 1 of Attachment-6."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "note_id": "attachment_7_note_2",
+      "number": 2,
+      "fragments": [
+        {
+          "pdf_page": 47,
+          "text": "2. Tenderer should provide information on their current commitments or all contracts that have been awarded or for which a letter of intent or acceptance has been \nreceived or for contracts approaching completion but for which a completion certificate is yet to be issued."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "note_id": "attachment_7_note_3",
+      "number": 3,
+      "fragments": [
+        {
+          "pdf_page": 47,
+          "text": "3. **Total Equivalent INR for balance work in foreign currency should be calculated using the selling exchange rate of Reserve Bank of India as on the last day of the \nmonth previous to the month of invitation of this tender. In case publication is not available on the above day, previous working day published exchange rate shall \nbe considered for evaluation."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "note_id": "attachment_7_note_4",
+      "number": 4,
+      "fragments": [
+        {
+          "pdf_page": 47,
+          "text": "4. Works in Hand information must be certified either by the Independent Financial Auditor (statutory Auditor) of the company appointed under the Companies’ Act or \nby a Chartered Accountant with his stamp and signature in original with membership number and firm registration number."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "note_id": "attachment_7_note_5",
+      "number": 5,
+      "fragments": [
+        {
+          "pdf_page": 48,
+          "text": "5. All the documents or certifications, which are provided by CA after 1st July 2019, must contain UDIN thereon and the particulars of certifications must be same as \nmentioned on document/certification and submitted to ICAI on its website which can be verified online on https://udin.icai.org/search-udin."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    }
+  ],
+  "references": [
+    {
+      "source_note_number": 1,
+      "target_form_id": "attachment_6",
+      "target_component": "financial_year_factors",
+      "target_file": "output/vol1/parsed/section_d_technical_bid/attachment_6_tables.json",
+      "basis": "explicit",
+      "review_status": "pending_manual_review"
+    }
+  ],
+  "signature_template_fragments": [
+    {
+      "pdf_page": 48,
+      "text": "(Signature) …………………… \nName of signatory: ……………………………… \nCapacity of signatory: …………………………… \nName and address of Tenderer: ………………."
+    }
+  ],
+  "full_form_context": [
+    {
+      "pdf_page": 47,
+      "text": "ATTACHMENT -7 \n             Works in Hand \n            (To be submitted by tenderer) \nName \nand \ndescription \nof \ncontract and date of \naward \n \nName of client with \ntelephone number \n \nContract Value at the \ntime of Award (in INR) \nAnticipated \nCompletion Date \n \n *The updated value (**in INR) \nof \nthe \nbalance \nCivil \nEngineering  works remaining \nto be executed during the \ncompletion period specified in \nthe NIT of this tender, as on the \nlast day of the month previous \nto the month of invitation of \nthis tender  \n \n \n \n \n \n \n \n \n \n \nTotal \n \n \nNote:  \n1. * For calculation of Updated Balance work to the price level of the financial year in which this tender is invited, assume inflation as per multiplying Factors given in \nthe table under note 1 of Attachment-6. \n2. Tenderer should provide information on their current commitments or all contracts that have been awarded or for which a letter of intent or acceptance has been \nreceived or for contracts approaching completion but for which a completion certificate is yet to be issued. \n3. **Total Equivalent INR for balance work in foreign currency should be calculated using the selling exchange rate of Reserve Bank of India as on the last day of the \nmonth previous to the month of invitation of this tender. In case publication is not available on the above day, previous working day published exchange rate shall \nbe considered for evaluation. \n4. Works in Hand information must be certified either by the Independent Financial Auditor (statutory Auditor) of the company appointed under the Companies’ Act or \nby a Chartered Accountant with his stamp and signature in original with membership number and firm registration number."
+    },
+    {
+      "pdf_page": 48,
+      "text": "5. All the documents or certifications, which are provided by CA after 1st July 2019, must contain UDIN thereon and the particulars of certifications must be same as \nmentioned on document/certification and submitted to ICAI on its website which can be verified online on https://udin.icai.org/search-udin. \n \n \n \n \n(Signature) …………………… \nName of signatory: ……………………………… \nCapacity of signatory: …………………………… \nName and address of Tenderer: ………………."
+    }
+  ],
+  "limitations": [
+    "Page 48 continues notes and signatures, not the table.",
+    "Field IDs are application-defined labels.",
+    "Blank values must not be interpreted as zero.",
+    "No balance-work values or totals have been calculated.",
+    "Historical JV references do not establish permission to submit this tender as a JV.",
+    "Individual note applicability requires review."
+  ]
+}
