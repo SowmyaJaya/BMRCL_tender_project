@@ -1,15 +1,15 @@
 ---
 type: tender_section
-title: "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work"
+title: "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work and Annexures"
 status: source-derived
 source_document: Vol2DLNP1.pdf
 tender_no: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157
 section: H
 part: "3"
 clause_range: "1-21"
-booklet_pages: "012-016"
-printed_page_numbers: "162-166"
-pdf_pages: "15-19"
+booklet_pages: "012-169"
+printed_page_numbers: "162-22"
+pdf_pages: "15-22"
 tags:
   - section-h
   - bmrcl
@@ -27,6 +27,11 @@ tags:
   - barricading
   - metro-rail
   - phase-3
+  - milestones
+  - liquidated-damages
+  - key-personnel
+  - plant-and-equipment
+  - annexures
 ---
 
 # Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work
@@ -120,3 +125,14 @@ This part contains the scope of work of Section H (Employer Requirement, Scope o
 <!-- Source: PDF page 18; Section H booklet page 015 -->
 
 ---
+
+## ANNEXURES
+
+### Annexure-1 — MILESTONES (KEY DATES) AND LIQUIDATED DAMAGES
+<!-- Source: PDF page 20; Section H booklet page 17 -->
+
+### Annexure-2 — MINIMUM QUALIFICATION AND EXPERIENCE REQUIRED FOR KEY PERSONNEL TO BE DEPLOYED FOR THE WORK
+<!-- Source: PDF page 21; Section H booklet page 18 -->
+
+### Annexure-3 — MINIMUM PLANTS & EQUIPMENTS FOR THE WORK (To be submitted by Tenderer)
+<!-- Source: PDF page 22; Section H booklet page 19 -->
