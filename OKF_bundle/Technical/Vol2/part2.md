@@ -1,6 +1,6 @@
 ---
 type: tender_section
-title: Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices
+title: "Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices"
 status: source-derived
 source_document: Vol2DLNP1.pdf
 tender_no: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157

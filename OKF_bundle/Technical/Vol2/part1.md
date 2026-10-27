@@ -1,6 +1,6 @@
 ---
 type: tender_section
-title: Employer Requirement, Scope of Work and Technical Specifications – Part 1: General
+title: "Employer Requirement, Scope of Work and Technical Specifications – Part 1: General"
 status: source-derived
 source_document: Vol2DLNP1.pdf
 tender_no: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157
