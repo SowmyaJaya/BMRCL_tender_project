@@ -1,0 +1,3925 @@
+{
+  "source_id": "bmrcl-volume-3",
+  "source_path": "data/Vol3DLNP1.pdf",
+  "source_sha256": "1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52",
+  "source_section": "I",
+  "source_section_label": "SHE - Manual (for Reference only)",
+  "appendix_id": "2",
+  "title": "Safety, Welfare and Occupational Health Requirements",
+  "pdf_pages": [
+    90,
+    91,
+    92
+  ],
+  "review_status": "pending_manual_review",
+  "introduction_and_reference_legend": {
+    "fragments": [
+      {
+        "pdf_page": 90,
+        "text": "BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                          APPENDIX NO.: 2\n\n\n\n  Safety, Welfare and Occupational Health requirements as per BOCW Act 1996 and\n                     Rules 1998 and BOCWKR Rules 2006.\n\n\n(This list has been prepared in chronological order with primary importance to Section of Act and\nsecondary importance to Rules)\n\nS -   Refers relevant Sections in BOCWA\n\nR -   Refers relevant Rules in BOCWR\n\nC -   Refers relevant Chapter No. in BOCWR\n\nP -   Refers to relevant rules in BOCWWCR 1998\n\nK -   Refers to relevant rules in BOCWKR 2006\n\n                                                      Relevant Sections / Rules in\n   Sl. No                      Items              BOCWA and BOCWR and\n                                         BOCWKR 2006"
+      }
+    ],
+    "retained_lines": [
+      {
+        "pdf_page": 90,
+        "source_line_number": 3,
+        "text": ""
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 4,
+        "text": "                   BANGALORE METRO RAIL CORPORATION LTD."
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 5,
+        "text": ""
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 6,
+        "text": ""
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 7,
+        "text": ""
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 8,
+        "text": "                          APPENDIX NO.: 2"
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 9,
+        "text": ""
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 10,
+        "text": ""
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 11,
+        "text": ""
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 12,
+        "text": "  Safety, Welfare and Occupational Health requirements as per BOCW Act 1996 and"
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 13,
+        "text": "                     Rules 1998 and BOCWKR Rules 2006."
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 14,
+        "text": ""
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 15,
+        "text": ""
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 16,
+        "text": "(This list has been prepared in chronological order with primary importance to Section of Act and"
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 17,
+        "text": "secondary importance to Rules)"
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 18,
+        "text": ""
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 19,
+        "text": "S -   Refers relevant Sections in BOCWA"
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 20,
+        "text": ""
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 21,
+        "text": "R -   Refers relevant Rules in BOCWR"
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 22,
+        "text": ""
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 23,
+        "text": "C -   Refers relevant Chapter No. in BOCWR"
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 24,
+        "text": ""
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 25,
+        "text": "P -   Refers to relevant rules in BOCWWCR 1998"
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 26,
+        "text": ""
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 27,
+        "text": "K -   Refers to relevant rules in BOCWKR 2006"
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 28,
+        "text": ""
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 29,
+        "text": "                                                      Relevant Sections / Rules in"
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 30,
+        "text": "   Sl. No                      Items              BOCWA and BOCWR and"
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 31,
+        "text": "                                         BOCWKR 2006"
+      },
+      {
+        "pdf_page": 90,
+        "source_line_number": 32,
+        "text": ""
+      }
+    ]
+  },
+  "items": [
+    {
+      "item_number": 1,
+      "record_id": "vol3-appendix-2-item-1",
+      "starting_pdf_page": 90,
+      "starting_line": "   1.     Registration of establishment               S – 7,",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 33,
+          "text": "   1.     Registration of establishment               S – 7,"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 34,
+          "text": ""
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 35,
+          "text": "                                      R – 23 to 27"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 36,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "1.     Registration of establishment               S – 7,\n\n                                      R – 23 to 27"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 2,
+      "record_id": "vol3-appendix-2-item-2",
+      "starting_pdf_page": 90,
+      "starting_line": "   2.     Display of registration certification at workplace   R – 26 (5)",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 37,
+          "text": "   2.     Display of registration certification at workplace   R – 26 (5)"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 38,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "2.     Display of registration certification at workplace   R – 26 (5)"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 3,
+      "record_id": "vol3-appendix-2-item-3",
+      "starting_pdf_page": 90,
+      "starting_line": "   3.    Hours of work                         S – 28",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 39,
+          "text": "   3.    Hours of work                         S – 28"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 40,
+          "text": ""
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 41,
+          "text": "                                      R – 234 to 237"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 42,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "3.    Hours of work                         S – 28\n\n                                      R – 234 to 237"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 4,
+      "record_id": "vol3-appendix-2-item-4",
+      "starting_pdf_page": 90,
+      "starting_line": "   4.     Register of overtime                     S – 28; S – 29",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 43,
+          "text": "   4.     Register of overtime                     S – 28; S – 29"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 44,
+          "text": ""
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 45,
+          "text": "                                      R – 241(1) Form XXII"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 46,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "4.     Register of overtime                     S – 28; S – 29\n\n                                      R – 241(1) Form XXII"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 5,
+      "record_id": "vol3-appendix-2-item-5",
+      "starting_pdf_page": 90,
+      "starting_line": "   5.    Weekly rest and payment at rest            R – 235",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 47,
+          "text": "   5.    Weekly rest and payment at rest            R – 235"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 48,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "5.    Weekly rest and payment at rest            R – 235"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 6,
+      "record_id": "vol3-appendix-2-item-6",
+      "starting_pdf_page": 90,
+      "starting_line": "   6.     Night shift                          R – 236",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 49,
+          "text": "   6.     Night shift                          R – 236"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 50,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "6.     Night shift                          R – 236"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 7,
+      "record_id": "vol3-appendix-2-item-7",
+      "starting_pdf_page": 90,
+      "starting_line": "   7.    Maintenance of workers registers and records    S – 30",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 51,
+          "text": "   7.    Maintenance of workers registers and records    S – 30"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 52,
+          "text": ""
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 53,
+          "text": "                                      R – 238"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 54,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "7.    Maintenance of workers registers and records    S – 30\n\n                                      R – 238"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 8,
+      "record_id": "vol3-appendix-2-item-8",
+      "starting_pdf_page": 90,
+      "starting_line": "   8.     Notice of commencement and completion       S – 46",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 55,
+          "text": "   8.     Notice of commencement and completion       S – 46"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 56,
+          "text": ""
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 57,
+          "text": "                                      R – 239"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 58,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "8.     Notice of commencement and completion       S – 46\n\n                                      R – 239"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 9,
+      "record_id": "vol3-appendix-2-item-9",
+      "starting_pdf_page": 90,
+      "starting_line": "   9.     Register of persons employed as building workers R – 240",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 59,
+          "text": "   9.     Register of persons employed as building workers R – 240"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 60,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "9.     Register of persons employed as building workers R – 240"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 10,
+      "record_id": "vol3-appendix-2-item-10",
+      "starting_pdf_page": 90,
+      "starting_line": "   10.   Muster roll and wages register             R – 241(1) (a); Form XVI and XVII",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 61,
+          "text": "   10.   Muster roll and wages register             R – 241(1) (a); Form XVI and XVII"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 62,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "10.   Muster roll and wages register             R – 241(1) (a); Form XVI and XVII"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 11,
+      "record_id": "vol3-appendix-2-item-11",
+      "starting_pdf_page": 90,
+      "starting_line": "   11.   Payment of wages                    R – 248",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 63,
+          "text": "   11.   Payment of wages                    R – 248"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 64,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "11.   Payment of wages                    R – 248"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 12,
+      "record_id": "vol3-appendix-2-item-12",
+      "starting_pdf_page": 90,
+      "starting_line": "   12.    Display of notice of wages regarding          R – 249",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 65,
+          "text": "   12.    Display of notice of wages regarding          R – 249"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 66,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "12.    Display of notice of wages regarding          R – 249"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 13,
+      "record_id": "vol3-appendix-2-item-13",
+      "starting_pdf_page": 90,
+      "starting_line": "   13.    Register of damage or loss               R – 241(1)(a); Form XIX, XX, XXI",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 67,
+          "text": "   13.    Register of damage or loss               R – 241(1)(a); Form XIX, XX, XXI"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 68,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "13.    Register of damage or loss               R – 241(1)(a); Form XIX, XX, XXI"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 14,
+      "record_id": "vol3-appendix-2-item-14",
+      "starting_pdf_page": 90,
+      "starting_line": "   14.    Issue of wages book                   R – 241(2)(a); Form XXIII",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 69,
+          "text": "   14.    Issue of wages book                   R – 241(2)(a); Form XXIII"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 70,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "14.    Issue of wages book                   R – 241(2)(a); Form XXIII"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 15,
+      "record_id": "vol3-appendix-2-item-15",
+      "starting_pdf_page": 90,
+      "starting_line": "   15.    Service certificate for each workers          R – 241(2)(b); Form XXIV",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 71,
+          "text": "   15.    Service certificate for each workers          R – 241(2)(b); Form XXIV"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 72,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "15.    Service certificate for each workers          R – 241(2)(b); Form XXIV"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 16,
+      "record_id": "vol3-appendix-2-item-16",
+      "starting_pdf_page": 90,
+      "starting_line": "   16.    Display an abstract of BOCWA and BOCWR    R – 241(5)",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 73,
+          "text": "   16.    Display an abstract of BOCWA and BOCWR    R – 241(5)"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 74,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "16.    Display an abstract of BOCWA and BOCWR    R – 241(5)"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 17,
+      "record_id": "vol3-appendix-2-item-17",
+      "starting_pdf_page": 90,
+      "starting_line": "   17.    Deduction of welfare cess by the government    P – 4(3)",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 75,
+          "text": "   17.    Deduction of welfare cess by the government    P – 4(3)"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 76,
+          "text": "         agencies"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 77,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "17.    Deduction of welfare cess by the government    P – 4(3)\n         agencies"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 18,
+      "record_id": "vol3-appendix-2-item-18",
+      "starting_pdf_page": 90,
+      "starting_line": "   18.   Annual return                        R – 242; Form XXV",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 78,
+          "text": "   18.   Annual return                        R – 242; Form XXV"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 79,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "18.   Annual return                        R – 242; Form XXV"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 19,
+      "record_id": "vol3-appendix-2-item-19",
+      "starting_pdf_page": 90,
+      "starting_line": "   19.    Drinking water                         S – 32",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 80,
+          "text": "   19.    Drinking water                         S – 32"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 81,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "19.    Drinking water                         S – 32"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 20,
+      "record_id": "vol3-appendix-2-item-20",
+      "starting_pdf_page": 90,
+      "starting_line": "   20.    Latrines and Urinals                     S – 33",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 82,
+          "text": "   20.    Latrines and Urinals                     S – 33"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 83,
+          "text": ""
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 84,
+          "text": "                                      R – 243"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 85,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "20.    Latrines and Urinals                     S – 33\n\n                                      R – 243"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 21,
+      "record_id": "vol3-appendix-2-item-21",
+      "starting_pdf_page": 90,
+      "starting_line": "   21.   Accommodation                        S – 34",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 90,
+          "source_line_number": 86,
+          "text": "   21.   Accommodation                        S – 34"
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 87,
+          "text": ""
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 88,
+          "text": ""
+        },
+        {
+          "pdf_page": 90,
+          "source_line_number": 89,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 90,
+          "text": "21.   Accommodation                        S – 34"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 22,
+      "record_id": "vol3-appendix-2-item-22",
+      "starting_pdf_page": 91,
+      "starting_line": "             22.   Creches                             S – 35",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 3,
+          "text": "             22.   Creches                             S – 35"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 4,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "22.   Creches                             S – 35"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 23,
+      "record_id": "vol3-appendix-2-item-23",
+      "starting_pdf_page": 91,
+      "starting_line": "             23.    First-aid boxes                         S – 36",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 5,
+          "text": "             23.    First-aid boxes                         S – 36"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 6,
+          "text": ""
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 7,
+          "text": "                                             R – 231 and Schedule III"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 8,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "23.    First-aid boxes                         S – 36\n\n                                             R – 231 and Schedule III"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 24,
+      "record_id": "vol3-appendix-2-item-24",
+      "starting_pdf_page": 91,
+      "starting_line": "             24.   Canteens                            S – 37",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 9,
+          "text": "             24.   Canteens                            S – 37"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 10,
+          "text": ""
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 11,
+          "text": "                                             R – 244"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 12,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "24.   Canteens                            S – 37\n\n                                             R – 244"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 25,
+      "record_id": "vol3-appendix-2-item-25",
+      "starting_pdf_page": 91,
+      "starting_line": "             25.   Food stuff and other items served in the canteens R – 245",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 13,
+          "text": "             25.   Food stuff and other items served in the canteens R – 245"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 14,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "25.   Food stuff and other items served in the canteens R – 245"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 26,
+      "record_id": "vol3-appendix-2-item-26",
+      "starting_pdf_page": 91,
+      "starting_line": "             26.   Supply of tea and snacks in work place        R – 246",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 15,
+          "text": "             26.   Supply of tea and snacks in work place        R – 246"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 16,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "26.   Supply of tea and snacks in work place        R – 246"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 27,
+      "record_id": "vol3-appendix-2-item-27",
+      "starting_pdf_page": 91,
+      "starting_line": "             27.   Food charges on no loss no profit basis        R – 247",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 17,
+          "text": "             27.   Food charges on no loss no profit basis        R – 247"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 18,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "27.   Food charges on no loss no profit basis        R – 247"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 28,
+      "record_id": "vol3-appendix-2-item-28",
+      "starting_pdf_page": 91,
+      "starting_line": "             28.  BOCWKR 2006 welfare Board Rules          K – 261 to 267",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 19,
+          "text": "             28.  BOCWKR 2006 welfare Board Rules          K – 261 to 267"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 20,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "28.  BOCWKR 2006 welfare Board Rules          K – 261 to 267"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 29,
+      "record_id": "vol3-appendix-2-item-29",
+      "starting_pdf_page": 91,
+      "starting_line": "             29.    Safety committee                       S – 38",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 21,
+          "text": "             29.    Safety committee                       S – 38"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 22,
+          "text": ""
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 23,
+          "text": "                                             R – 208"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 24,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "29.    Safety committee                       S – 38\n\n                                             R – 208"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 30,
+      "record_id": "vol3-appendix-2-item-30",
+      "starting_pdf_page": 91,
+      "starting_line": "             30.    Safety officer                          S – 38",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 25,
+          "text": "             30.    Safety officer                          S – 38"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 26,
+          "text": ""
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 27,
+          "text": "                                             R – 209 and Schedule VII"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 28,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "30.    Safety officer                          S – 38\n\n                                             R – 209 and Schedule VII"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 31,
+      "record_id": "vol3-appendix-2-item-31",
+      "starting_pdf_page": 91,
+      "starting_line": "             31.    Reporting of accidents and dangerous occurrences S – 39",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 29,
+          "text": "             31.    Reporting of accidents and dangerous occurrences S – 39"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 30,
+          "text": ""
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 31,
+          "text": "                                             R – 210"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 32,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "31.    Reporting of accidents and dangerous occurrences S – 39\n\n                                             R – 210"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 32,
+      "record_id": "vol3-appendix-2-item-32",
+      "starting_pdf_page": 91,
+      "starting_line": "             32.   Procedure for inquiry in to the causes of accidents R – 211",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 33,
+          "text": "             32.   Procedure for inquiry in to the causes of accidents R – 211"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 34,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "32.   Procedure for inquiry in to the causes of accidents R – 211"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 33,
+      "record_id": "vol3-appendix-2-item-33",
+      "starting_pdf_page": 91,
+      "starting_line": "             33.    Responsibility of employer                 S - 44",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 35,
+          "text": "             33.    Responsibility of employer                 S - 44"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 36,
+          "text": ""
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 37,
+          "text": "                                             R – 5"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 38,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "33.    Responsibility of employer                 S - 44\n\n                                             R – 5"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 34,
+      "record_id": "vol3-appendix-2-item-34",
+      "starting_pdf_page": 91,
+      "starting_line": "             34.    Responsibility of Architects, Project engineer and  R – 6",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 39,
+          "text": "             34.    Responsibility of Architects, Project engineer and  R – 6"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 40,
+          "text": "                  Designers"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 41,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "34.    Responsibility of Architects, Project engineer and  R – 6\n                  Designers"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 35,
+      "record_id": "vol3-appendix-2-item-35",
+      "starting_pdf_page": 91,
+      "starting_line": "             35.    Responsibility of workmen                R – 8",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 42,
+          "text": "             35.    Responsibility of workmen                R – 8"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 43,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "35.    Responsibility of workmen                R – 8"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 36,
+      "record_id": "vol3-appendix-2-item-36",
+      "starting_pdf_page": 91,
+      "starting_line": "             36.    Responsibility for payment of wages and        S – 45",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 44,
+          "text": "             36.    Responsibility for payment of wages and        S – 45"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 45,
+          "text": "                  compensation"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 46,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "36.    Responsibility for payment of wages and        S – 45\n                  compensation"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 37,
+      "record_id": "vol3-appendix-2-item-37",
+      "starting_pdf_page": 91,
+      "starting_line": "             37.    Penalties and Procedures                 S – 47; S – 55",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 47,
+          "text": "             37.    Penalties and Procedures                 S – 47; S – 55"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 48,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "37.    Penalties and Procedures                 S – 47; S – 55"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 38,
+      "record_id": "vol3-appendix-2-item-38",
+      "starting_pdf_page": 91,
+      "starting_line": "             38.    Excessive noise, vibration etc              R – 34",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 49,
+          "text": "             38.    Excessive noise, vibration etc              R – 34"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 50,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "38.    Excessive noise, vibration etc              R – 34"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 39,
+      "record_id": "vol3-appendix-2-item-39",
+      "starting_pdf_page": 91,
+      "starting_line": "             39.    Fire Protection                       R – 35",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 51,
+          "text": "             39.    Fire Protection                       R – 35"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 52,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "39.    Fire Protection                       R – 35"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 40,
+      "record_id": "vol3-appendix-2-item-40",
+      "starting_pdf_page": 91,
+      "starting_line": "             40.   Emergency action plan                  R – 36",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 53,
+          "text": "             40.   Emergency action plan                  R – 36"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 54,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "40.   Emergency action plan                  R – 36"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 41,
+      "record_id": "vol3-appendix-2-item-41",
+      "starting_pdf_page": 91,
+      "starting_line": "             41.    Fencing of motors                     R – 37",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 55,
+          "text": "             41.    Fencing of motors                     R – 37"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 56,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "41.    Fencing of motors                     R – 37"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 42,
+      "record_id": "vol3-appendix-2-item-42",
+      "starting_pdf_page": 91,
+      "starting_line": "             42.     Lifting of carrying of excessive weight         R – 38",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 57,
+          "text": "             42.     Lifting of carrying of excessive weight         R – 38"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 58,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "42.     Lifting of carrying of excessive weight         R – 38"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 43,
+      "record_id": "vol3-appendix-2-item-43",
+      "starting_pdf_page": 91,
+      "starting_line": "             43.    Health, Safety and Environmental Policy       R – 39",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 59,
+          "text": "             43.    Health, Safety and Environmental Policy       R – 39"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 60,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "43.    Health, Safety and Environmental Policy       R – 39"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 44,
+      "record_id": "vol3-appendix-2-item-44",
+      "starting_pdf_page": 91,
+      "starting_line": "             44.   Dangerous and Harmful Environment         R – 40",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 61,
+          "text": "             44.   Dangerous and Harmful Environment         R – 40"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 62,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "44.   Dangerous and Harmful Environment         R – 40"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 45,
+      "record_id": "vol3-appendix-2-item-45",
+      "starting_pdf_page": 91,
+      "starting_line": "             45.   Overhead protection                   R – 41",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 63,
+          "text": "             45.   Overhead protection                   R – 41"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 64,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "45.   Overhead protection                   R – 41"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 46,
+      "record_id": "vol3-appendix-2-item-46",
+      "starting_pdf_page": 91,
+      "starting_line": "             46.    Slipping, Tripping, Cutting, Drowning and Falling  R – 42",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 65,
+          "text": "             46.    Slipping, Tripping, Cutting, Drowning and Falling  R – 42"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 66,
+          "text": "                 Hazards"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 67,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "46.    Slipping, Tripping, Cutting, Drowning and Falling  R – 42\n                 Hazards"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 47,
+      "record_id": "vol3-appendix-2-item-47",
+      "starting_pdf_page": 91,
+      "starting_line": "             47.    Dust, Gases, Fumes, etc                 R – 43",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 68,
+          "text": "             47.    Dust, Gases, Fumes, etc                 R – 43"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 69,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "47.    Dust, Gases, Fumes, etc                 R – 43"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 48,
+      "record_id": "vol3-appendix-2-item-48",
+      "starting_pdf_page": 91,
+      "starting_line": "             48.    Corrosive substance                   R – 49",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 70,
+          "text": "             48.    Corrosive substance                   R – 49"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 71,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "48.    Corrosive substance                   R – 49"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 49,
+      "record_id": "vol3-appendix-2-item-49",
+      "starting_pdf_page": 91,
+      "starting_line": "             49.   Eye Protection                       R – 45",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 72,
+          "text": "             49.   Eye Protection                       R – 45"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 73,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "49.   Eye Protection                       R – 45"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 50,
+      "record_id": "vol3-appendix-2-item-50",
+      "starting_pdf_page": 91,
+      "starting_line": "             50.   Head Protection and other protection apparel    R – 46; R – 54",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 74,
+          "text": "             50.   Head Protection and other protection apparel    R – 46; R – 54"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 75,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "50.   Head Protection and other protection apparel    R – 46; R – 54"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 51,
+      "record_id": "vol3-appendix-2-item-51",
+      "starting_pdf_page": 91,
+      "starting_line": "             51.    Electrical Hazards                     R – 47",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 76,
+          "text": "             51.    Electrical Hazards                     R – 47"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 77,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "51.    Electrical Hazards                     R – 47"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 52,
+      "record_id": "vol3-appendix-2-item-52",
+      "starting_pdf_page": 91,
+      "starting_line": "             52.    Vehicular traffic                      R – 48",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 78,
+          "text": "             52.    Vehicular traffic                      R – 48"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 79,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "52.    Vehicular traffic                      R – 48"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 53,
+      "record_id": "vol3-appendix-2-item-53",
+      "starting_pdf_page": 91,
+      "starting_line": "             53.     Stability of structure                    R – 49",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 80,
+          "text": "             53.     Stability of structure                    R – 49"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 81,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "53.     Stability of structure                    R – 49"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 54,
+      "record_id": "vol3-appendix-2-item-54",
+      "starting_pdf_page": 91,
+      "starting_line": "             54.    Illumination                         R – 50; R – 124",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 82,
+          "text": "             54.    Illumination                         R – 50; R – 124"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 83,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "54.    Illumination                         R – 50; R – 124"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 55,
+      "record_id": "vol3-appendix-2-item-55",
+      "starting_pdf_page": 91,
+      "starting_line": "             55.    Stacking of materials                   R – 51",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 84,
+          "text": "             55.    Stacking of materials                   R – 51"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 85,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "55.    Stacking of materials                   R – 51"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 56,
+      "record_id": "vol3-appendix-2-item-56",
+      "starting_pdf_page": 91,
+      "starting_line": "             56.    Disposal of debris                     R – 52",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 91,
+          "source_line_number": 86,
+          "text": "             56.    Disposal of debris                     R – 52"
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 87,
+          "text": ""
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 88,
+          "text": ""
+        },
+        {
+          "pdf_page": 91,
+          "source_line_number": 89,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 91,
+          "text": "56.    Disposal of debris                     R – 52"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 57,
+      "record_id": "vol3-appendix-2-item-57",
+      "starting_pdf_page": 92,
+      "starting_line": "   57.   Numbering and marking of floors            R – 53",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 3,
+          "text": "   57.   Numbering and marking of floors            R – 53"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 4,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "57.   Numbering and marking of floors            R – 53"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 58,
+      "record_id": "vol3-appendix-2-item-58",
+      "starting_pdf_page": 92,
+      "starting_line": "   58.     Lifting appliances and gears               C – VII; R – 55 to 81",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 5,
+          "text": "   58.     Lifting appliances and gears               C – VII; R – 55 to 81"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 6,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "58.     Lifting appliances and gears               C – VII; R – 55 to 81"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 59,
+      "record_id": "vol3-appendix-2-item-59",
+      "starting_pdf_page": 92,
+      "starting_line": "   59.   Runways and Ramps                   C – VIII; R – 82 to 85",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 7,
+          "text": "   59.   Runways and Ramps                   C – VIII; R – 82 to 85"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 8,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "59.   Runways and Ramps                   C – VIII; R – 82 to 85"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 60,
+      "record_id": "vol3-appendix-2-item-60",
+      "starting_pdf_page": 92,
+      "starting_line": "   60.   Working on or adjacent to water            C – IX; R – 86 & 87",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 9,
+          "text": "   60.   Working on or adjacent to water            C – IX; R – 86 & 87"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 10,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "60.   Working on or adjacent to water            C – IX; R – 86 & 87"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 61,
+      "record_id": "vol3-appendix-2-item-61",
+      "starting_pdf_page": 92,
+      "starting_line": "   61.    Transport and earthmoving equipments        C – X; R – 88 to 95",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 11,
+          "text": "   61.    Transport and earthmoving equipments        C – X; R – 88 to 95"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 12,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "61.    Transport and earthmoving equipments        C – X; R – 88 to 95"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 62,
+      "record_id": "vol3-appendix-2-item-62",
+      "starting_pdf_page": 92,
+      "starting_line": "   62.    Concrete work                       C – XI; R – 96 to 107",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 13,
+          "text": "   62.    Concrete work                       C – XI; R – 96 to 107"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 14,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "62.    Concrete work                       C – XI; R – 96 to 107"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 63,
+      "record_id": "vol3-appendix-2-item-63",
+      "starting_pdf_page": 92,
+      "starting_line": "   63.    Demolition                         C – XII; R – 108 to 118",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 15,
+          "text": "   63.    Demolition                         C – XII; R – 108 to 118"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 16,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "63.    Demolition                         C – XII; R – 108 to 118"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 64,
+      "record_id": "vol3-appendix-2-item-64",
+      "starting_pdf_page": 92,
+      "starting_line": "   64.    Excavation and Tunnelling works            C – XIII; R – 119 to 168",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 17,
+          "text": "   64.    Excavation and Tunnelling works            C – XIII; R – 119 to 168"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 18,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "64.    Excavation and Tunnelling works            C – XIII; R – 119 to 168"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 65,
+      "record_id": "vol3-appendix-2-item-65",
+      "starting_pdf_page": 92,
+      "starting_line": "   65.    Ventilation                         R – 153",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 19,
+          "text": "   65.    Ventilation                         R – 153"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 20,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "65.    Ventilation                         R – 153"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 66,
+      "record_id": "vol3-appendix-2-item-66",
+      "starting_pdf_page": 92,
+      "starting_line": "   66.    Construction, repair and maintenance of step roof C – XIV; R – 169 to 171",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 21,
+          "text": "   66.    Construction, repair and maintenance of step roof C – XIV; R – 169 to 171"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 22,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "66.    Construction, repair and maintenance of step roof C – XIV; R – 169 to 171"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 67,
+      "record_id": "vol3-appendix-2-item-67",
+      "starting_pdf_page": 92,
+      "starting_line": "   67.   Ladders and Step ladders                C – XV; R – 172 to 174",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 23,
+          "text": "   67.   Ladders and Step ladders                C – XV; R – 172 to 174"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 24,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "67.   Ladders and Step ladders                C – XV; R – 172 to 174"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 68,
+      "record_id": "vol3-appendix-2-item-68",
+      "starting_pdf_page": 92,
+      "starting_line": "   68.   Catch platform and hoardings, chutes, safety belts C – XVI; R – 175 to 180",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 25,
+          "text": "   68.   Catch platform and hoardings, chutes, safety belts C – XVI; R – 175 to 180"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 26,
+          "text": "        and nets"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 27,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "68.   Catch platform and hoardings, chutes, safety belts C – XVI; R – 175 to 180\n        and nets"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 69,
+      "record_id": "vol3-appendix-2-item-69",
+      "starting_pdf_page": 92,
+      "starting_line": "   69.    Structural frame and formworks             C – XVII; R – 181 to 185",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 28,
+          "text": "   69.    Structural frame and formworks             C – XVII; R – 181 to 185"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 29,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "69.    Structural frame and formworks             C – XVII; R – 181 to 185"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 70,
+      "record_id": "vol3-appendix-2-item-70",
+      "starting_pdf_page": 92,
+      "starting_line": "   70.    Stacking and unstacking                 C – XVIII; R – 186 & 187",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 30,
+          "text": "   70.    Stacking and unstacking                 C – XVIII; R – 186 & 187"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 31,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "70.    Stacking and unstacking                 C – XVIII; R – 186 & 187"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 71,
+      "record_id": "vol3-appendix-2-item-71",
+      "starting_pdf_page": 92,
+      "starting_line": "   71.    Scaffold                           C – XIX; R – 188 to 205",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 32,
+          "text": "   71.    Scaffold                           C – XIX; R – 188 to 205"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 33,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "71.    Scaffold                           C – XIX; R – 188 to 205"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 72,
+      "record_id": "vol3-appendix-2-item-72",
+      "starting_pdf_page": 92,
+      "starting_line": "   72.   Cofferdams and Caissons                C – XX; R – 206 to 211",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 34,
+          "text": "   72.   Cofferdams and Caissons                C – XX; R – 206 to 211"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 35,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "72.   Cofferdams and Caissons                C – XX; R – 206 to 211"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 73,
+      "record_id": "vol3-appendix-2-item-73",
+      "starting_pdf_page": 92,
+      "starting_line": "   73.    Explosives                         C – XXI; R – 212 & 213",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 36,
+          "text": "   73.    Explosives                         C – XXI; R – 212 & 213"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 37,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "73.    Explosives                         C – XXI; R – 212 & 213"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 74,
+      "record_id": "vol3-appendix-2-item-74",
+      "starting_pdf_page": 92,
+      "starting_line": "   74.    Piling                             C – XXII; R – 214 to 222",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 38,
+          "text": "   74.    Piling                             C – XXII; R – 214 to 222"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 39,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "74.    Piling                             C – XXII; R – 214 to 222"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 75,
+      "record_id": "vol3-appendix-2-item-75",
+      "starting_pdf_page": 92,
+      "starting_line": "   75.    Medical Examination for building and other      R – 81; R – 223(a)(iii) and",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 40,
+          "text": "   75.    Medical Examination for building and other      R – 81; R – 223(a)(iii) and"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 41,
+          "text": "          construction worker, Crane operator an Transport  Schedule XII"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 42,
+          "text": "          vehicle drivers"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 43,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "75.    Medical Examination for building and other      R – 81; R – 223(a)(iii) and\n          construction worker, Crane operator an Transport  Schedule XII\n          vehicle drivers"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 76,
+      "record_id": "vol3-appendix-2-item-76",
+      "starting_pdf_page": 92,
+      "starting_line": "   76.    Medical examination for occupational health     R – 223(a)(iv)",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 44,
+          "text": "   76.    Medical examination for occupational health     R – 223(a)(iv)"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 45,
+          "text": "         hazards"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 46,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "76.    Medical examination for occupational health     R – 223(a)(iv)\n         hazards"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 77,
+      "record_id": "vol3-appendix-2-item-77",
+      "starting_pdf_page": 92,
+      "starting_line": "   77.    Charging of workers for Medical Examination    R – 223(b)",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 47,
+          "text": "   77.    Charging of workers for Medical Examination    R – 223(b)"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 48,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "77.    Charging of workers for Medical Examination    R – 223(b)"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 78,
+      "record_id": "vol3-appendix-2-item-78",
+      "starting_pdf_page": 92,
+      "starting_line": "   78.    Occupational health centres and Medical officers  R – 225 and Schedule X &XI",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 49,
+          "text": "   78.    Occupational health centres and Medical officers  R – 225 and Schedule X &XI"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 50,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "78.    Occupational health centres and Medical officers  R – 225 and Schedule X &XI"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 79,
+      "record_id": "vol3-appendix-2-item-79",
+      "starting_pdf_page": 92,
+      "starting_line": "   79.   Ambulance van & room                 R – 226 & 227 and Schedule IV &",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 51,
+          "text": "   79.   Ambulance van & room                 R – 226 & 227 and Schedule IV &"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 52,
+          "text": "                                         V"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 53,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "79.   Ambulance van & room                 R – 226 & 227 and Schedule IV &\n                                         V"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 80,
+      "record_id": "vol3-appendix-2-item-80",
+      "starting_pdf_page": 92,
+      "starting_line": "   80.    Stretchers                          R – 228",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 54,
+          "text": "   80.    Stretchers                          R – 228"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 55,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "80.    Stretchers                          R – 228"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 81,
+      "record_id": "vol3-appendix-2-item-81",
+      "starting_pdf_page": 92,
+      "starting_line": "   81.    Occupational health service for building workers  R – 229",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 56,
+          "text": "   81.    Occupational health service for building workers  R – 229"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 57,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "81.    Occupational health service for building workers  R – 229"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 82,
+      "record_id": "vol3-appendix-2-item-82",
+      "starting_pdf_page": 92,
+      "starting_line": "   82.    Medical examination for occupational health     R – 223(a)(iv)",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 58,
+          "text": "   82.    Medical examination for occupational health     R – 223(a)(iv)"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 59,
+          "text": "         hazards"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 60,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "82.    Medical examination for occupational health     R – 223(a)(iv)\n         hazards"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 83,
+      "record_id": "vol3-appendix-2-item-83",
+      "starting_pdf_page": 92,
+      "starting_line": "   83.   Emergency care services and emergency      R – 232",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 61,
+          "text": "   83.   Emergency care services and emergency      R – 232"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 62,
+          "text": "          treatment"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 63,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "83.   Emergency care services and emergency      R – 232\n          treatment"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 84,
+      "record_id": "vol3-appendix-2-item-84",
+      "starting_pdf_page": 92,
+      "starting_line": "   84.   Panel of experts and agencies                     Central Rule 250",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 64,
+          "text": "   84.   Panel of experts and agencies                     Central Rule 250"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 65,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "84.   Panel of experts and agencies                     Central Rule 250"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    },
+    {
+      "item_number": 85,
+      "record_id": "vol3-appendix-2-item-85",
+      "starting_pdf_page": 92,
+      "starting_line": "   85.   Power of inspectors                               Central rule 251",
+      "review_status": "pending_manual_review",
+      "retained_lines": [
+        {
+          "pdf_page": 92,
+          "source_line_number": 66,
+          "text": "   85.   Power of inspectors                               Central rule 251"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 67,
+          "text": ""
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 68,
+          "text": "                                                      Karnataka Rules 268"
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 69,
+          "text": ""
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 70,
+          "text": ""
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 71,
+          "text": ""
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 72,
+          "text": ""
+        },
+        {
+          "pdf_page": 92,
+          "source_line_number": 73,
+          "text": ""
+        }
+      ],
+      "fragments": [
+        {
+          "pdf_page": 92,
+          "text": "85.   Power of inspectors                               Central rule 251\n\n                                                      Karnataka Rules 268"
+        }
+      ],
+      "column_reconstruction_status": "item_and_reference_columns_not_separated"
+    }
+  ],
+  "removed_lines": [
+    {
+      "pdf_page": 90,
+      "source_line_number": 1,
+      "text": "Safety Health & Environment (SHE) Manual",
+      "reason": "manual_page_header"
+    },
+    {
+      "pdf_page": 90,
+      "source_line_number": 2,
+      "text": "                                                          274",
+      "reason": "printed_booklet_page_number"
+    },
+    {
+      "pdf_page": 90,
+      "source_line_number": 90,
+      "text": "Bangalore Metro Rail Corporation Ltd.              September 2026     Section Page 86 of 114",
+      "reason": "combined_page_footer"
+    },
+    {
+      "pdf_page": 91,
+      "source_line_number": 1,
+      "text": "Safety Health & Environment (SHE) Manual",
+      "reason": "manual_page_header"
+    },
+    {
+      "pdf_page": 91,
+      "source_line_number": 2,
+      "text": "275",
+      "reason": "printed_booklet_page_number"
+    },
+    {
+      "pdf_page": 91,
+      "source_line_number": 90,
+      "text": "         Bangalore Metro Rail Corporation Ltd.              September 2026     Section Page 87 of 114",
+      "reason": "combined_page_footer"
+    },
+    {
+      "pdf_page": 92,
+      "source_line_number": 1,
+      "text": "Safety Health & Environment (SHE) Manual",
+      "reason": "manual_page_header"
+    },
+    {
+      "pdf_page": 92,
+      "source_line_number": 2,
+      "text": "                                                          276",
+      "reason": "printed_booklet_page_number"
+    },
+    {
+      "pdf_page": 92,
+      "source_line_number": 74,
+      "text": "Bangalore Metro Rail Corporation Ltd.              September 2026     Section Page 88 of 114",
+      "reason": "combined_page_footer"
+    }
+  ],
+  "source_page_context": [
+    {
+      "pdf_page": 90,
+      "rotation": 0,
+      "page_rect": [
+        0.0,
+        0.0,
+        595.219970703125,
+        842.0
+      ],
+      "extraction_method": "geometric_sort",
+      "text": "Safety Health & Environment (SHE) Manual\n                                                          274\n\n                   BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                          APPENDIX NO.: 2\n\n\n\n  Safety, Welfare and Occupational Health requirements as per BOCW Act 1996 and\n                     Rules 1998 and BOCWKR Rules 2006.\n\n\n(This list has been prepared in chronological order with primary importance to Section of Act and\nsecondary importance to Rules)\n\nS -   Refers relevant Sections in BOCWA\n\nR -   Refers relevant Rules in BOCWR\n\nC -   Refers relevant Chapter No. in BOCWR\n\nP -   Refers to relevant rules in BOCWWCR 1998\n\nK -   Refers to relevant rules in BOCWKR 2006\n\n                                                      Relevant Sections / Rules in\n   Sl. No                      Items              BOCWA and BOCWR and\n                                         BOCWKR 2006\n\n   1.     Registration of establishment               S – 7,\n\n                                      R – 23 to 27\n\n   2.     Display of registration certification at workplace   R – 26 (5)\n\n   3.    Hours of work                         S – 28\n\n                                      R – 234 to 237\n\n   4.     Register of overtime                     S – 28; S – 29\n\n                                      R – 241(1) Form XXII\n\n   5.    Weekly rest and payment at rest            R – 235\n\n   6.     Night shift                          R – 236\n\n   7.    Maintenance of workers registers and records    S – 30\n\n                                      R – 238\n\n   8.     Notice of commencement and completion       S – 46\n\n                                      R – 239\n\n   9.     Register of persons employed as building workers R – 240\n\n   10.   Muster roll and wages register             R – 241(1) (a); Form XVI and XVII\n\n   11.   Payment of wages                    R – 248\n\n   12.    Display of notice of wages regarding          R – 249\n\n   13.    Register of damage or loss               R – 241(1)(a); Form XIX, XX, XXI\n\n   14.    Issue of wages book                   R – 241(2)(a); Form XXIII\n\n   15.    Service certificate for each workers          R – 241(2)(b); Form XXIV\n\n   16.    Display an abstract of BOCWA and BOCWR    R – 241(5)\n\n   17.    Deduction of welfare cess by the government    P – 4(3)\n         agencies\n\n   18.   Annual return                        R – 242; Form XXV\n\n   19.    Drinking water                         S – 32\n\n   20.    Latrines and Urinals                     S – 33\n\n                                      R – 243\n\n   21.   Accommodation                        S – 34\n\n\n\nBangalore Metro Rail Corporation Ltd.              September 2026     Section Page 86 of 114",
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            47.039981842041016,
+            15.768376350402832,
+            561.0993041992188,
+            24.210372924804688
+          ],
+          "text": "                                                                                                                                   Safety Health & Environment (SHE) Manual \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            82.4399642944336,
+            26.57955551147461,
+            85.20714569091797,
+            35.93199157714844
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            82.4399642944336,
+            809.042724609375,
+            508.6270751953125,
+            830.5714111328125
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                              September 2026         Section Page 86 of 114 \n \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            119.51994323730469,
+            41.589454650878906,
+            122.28712463378906,
+            50.93193054199219
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            219.2399444580078,
+            52.509437561035156,
+            454.3272399902344,
+            61.85191345214844
+          ],
+          "text": "BANGALORE METRO RAIL CORPORATION LTD. \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            263.7598876953125,
+            91.80321502685547,
+            358.5072326660156,
+            102.15872955322266
+          ],
+          "text": "APPENDIX NO.: 2 \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            82.4399642944336,
+            121.26944732666016,
+            85.20714569091797,
+            130.61192321777344
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            93.47996520996094,
+            135.84320068359375,
+            524.4672241210938,
+            146.19871520996094
+          ],
+          "text": "Safety, Welfare and Occupational Health requirements as per BOCW Act 1996 and \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            82.43901824951172,
+            148.44317626953125,
+            535.2062377929688,
+            268.85198974609375
+          ],
+          "text": "Rules 1998 and BOCWKR Rules 2006. \n \n(This list has been prepared in chronological order with primary importance to Section of Act and \nsecondary importance to Rules) \nS - \nRefers relevant Sections in BOCWA \nR - \nRefers relevant Rules in BOCWR \nC - \nRefers relevant Chapter No. in BOCWR \nP - \nRefers to relevant rules in BOCWWCR 1998 \nK - \nRefers to relevant rules in BOCWKR 2006 \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            94.19995880126953,
+            289.0293884277344,
+            264.8470764160156,
+            298.37188720703125
+          ],
+          "text": "Sl. No\nItems \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            364.9195861816406,
+            277.5093688964844,
+            501.0069274902344,
+            286.85186767578125
+          ],
+          "text": "Relevant Sections / Rules in \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            370.7995910644531,
+            289.0293884277344,
+            495.2467956542969,
+            298.37188720703125
+          ],
+          "text": "BOCWA and BOCWR and \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            395.9996032714844,
+            300.5494079589844,
+            469.9268493652344,
+            309.89190673828125
+          ],
+          "text": "BOCWKR 2006 \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            96.83995819091797,
+            318.6593933105469,
+            415.08734130859375,
+            342.53179931640625
+          ],
+          "text": "1.\nRegistration of establishment \nS – 7, \nR – 23 to 27 \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            96.83995819091797,
+            351.17938232421875,
+            405.12725830078125,
+            360.5318298339844
+          ],
+          "text": "2.\nDisplay of registration certification at workplace \nR – 26 (5) \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            96.83995819091797,
+            369.1793518066406,
+            426.24737548828125,
+            392.9317932128906
+          ],
+          "text": "3.\nHours of work \nS – 28 \nR – 234 to 237 \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            96.83995819091797,
+            401.579345703125,
+            455.64739990234375,
+            425.4517822265625
+          ],
+          "text": "4.\nRegister of overtime \nS – 28; S – 29 \nR – 241(1) Form XXII \n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            96.83995819091797,
+            434.09930419921875,
+            395.6491394042969,
+            443.4517517089844
+          ],
+          "text": "5.\nWeekly rest and payment at rest \nR – 235 \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            96.83995819091797,
+            452.09930419921875,
+            395.6473083496094,
+            461.4517517089844
+          ],
+          "text": "6.\nNight shift \nR – 236 \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            96.83995819091797,
+            470.09930419921875,
+            395.64752197265625,
+            493.97174072265625
+          ],
+          "text": "7.\nMaintenance of workers registers and records \nS – 30 \nR – 238 \n"
+        },
+        {
+          "block_number": 20,
+          "bbox": [
+            96.83995819091797,
+            502.61932373046875,
+            395.6473083496094,
+            526.4917602539062
+          ],
+          "text": "8.\nNotice of commencement and completion \nS – 46 \nR – 239 \n"
+        },
+        {
+          "block_number": 21,
+          "bbox": [
+            96.83995819091797,
+            535.1392822265625,
+            395.64727783203125,
+            544.4917602539062
+          ],
+          "text": "9.\nRegister of persons employed as building workers\nR – 240 \n"
+        },
+        {
+          "block_number": 22,
+          "bbox": [
+            96.83995819091797,
+            553.1392822265625,
+            508.80712890625,
+            562.4917602539062
+          ],
+          "text": "10.\nMuster roll and wages register \nR – 241(1) (a); Form XVI and XVII\n"
+        },
+        {
+          "block_number": 23,
+          "bbox": [
+            96.83995819091797,
+            571.1392822265625,
+            395.6487731933594,
+            580.4917602539062
+          ],
+          "text": "11.\nPayment of wages \nR – 248 \n"
+        },
+        {
+          "block_number": 24,
+          "bbox": [
+            96.83995819091797,
+            589.1392211914062,
+            398.4092712402344,
+            598.49169921875
+          ],
+          "text": "12.\nDisplay of notice of wages regarding \nR – 249  \n"
+        },
+        {
+          "block_number": 25,
+          "bbox": [
+            96.83995819091797,
+            607.1392211914062,
+            508.4473876953125,
+            616.49169921875
+          ],
+          "text": "13.\nRegister of damage or loss \nR – 241(1)(a); Form XIX, XX, XXI \n"
+        },
+        {
+          "block_number": 26,
+          "bbox": [
+            96.83995819091797,
+            625.1392211914062,
+            473.4090576171875,
+            634.49169921875
+          ],
+          "text": "14.\nIssue of wages book \nR – 241(2)(a); Form XXIII \n"
+        },
+        {
+          "block_number": 27,
+          "bbox": [
+            96.83995819091797,
+            643.1392211914062,
+            474.4869689941406,
+            652.49169921875
+          ],
+          "text": "15.\nService certificate for each workers \nR – 241(2)(b); Form XXIV \n"
+        },
+        {
+          "block_number": 28,
+          "bbox": [
+            96.83995819091797,
+            661.1392211914062,
+            407.8891906738281,
+            670.49169921875
+          ],
+          "text": "16.\nDisplay an abstract of BOCWA and BOCWR \nR – 241(5) \n"
+        },
+        {
+          "block_number": 29,
+          "bbox": [
+            96.83995819091797,
+            679.13916015625,
+            331.20733642578125,
+            700.0116577148438
+          ],
+          "text": "17.\nDeduction of welfare cess by the government \nagencies  \n"
+        },
+        {
+          "block_number": 30,
+          "bbox": [
+            357.8398742675781,
+            679.13916015625,
+            396.1272888183594,
+            688.4916381835938
+          ],
+          "text": "P – 4(3) \n"
+        },
+        {
+          "block_number": 31,
+          "bbox": [
+            96.83995819091797,
+            708.6591796875,
+            447.3674011230469,
+            718.0116577148438
+          ],
+          "text": "18.\nAnnual return \nR – 242; Form XXV \n"
+        },
+        {
+          "block_number": 32,
+          "bbox": [
+            96.83995819091797,
+            726.6591796875,
+            389.5273132324219,
+            736.0116577148438
+          ],
+          "text": "19.\nDrinking water \nS – 32 \n"
+        },
+        {
+          "block_number": 33,
+          "bbox": [
+            96.83995819091797,
+            744.6589965820312,
+            395.6473083496094,
+            768.4114379882812
+          ],
+          "text": "20.\nLatrines and Urinals \nS – 33 \nR – 243 \n"
+        },
+        {
+          "block_number": 34,
+          "bbox": [
+            96.83995819091797,
+            777.0589599609375,
+            389.5286560058594,
+            786.4114379882812
+          ],
+          "text": "21.\nAccommodation \nS – 34 \n"
+        },
+        {
+          "block_number": 35,
+          "bbox": [
+            546.0439453125,
+            24.479991912841797,
+            570.0199584960938,
+            41.38799285888672
+          ],
+          "text": "274\n"
+        }
+      ],
+      "has_extracted_text": true,
+      "review_status": "pending_manual_review"
+    },
+    {
+      "pdf_page": 91,
+      "rotation": 0,
+      "page_rect": [
+        0.0,
+        0.0,
+        595.219970703125,
+        842.0
+      ],
+      "extraction_method": "geometric_sort",
+      "text": "Safety Health & Environment (SHE) Manual\n275\n             22.   Creches                             S – 35\n\n             23.    First-aid boxes                         S – 36\n\n                                             R – 231 and Schedule III\n\n             24.   Canteens                            S – 37\n\n                                             R – 244\n\n             25.   Food stuff and other items served in the canteens R – 245\n\n             26.   Supply of tea and snacks in work place        R – 246\n\n             27.   Food charges on no loss no profit basis        R – 247\n\n             28.  BOCWKR 2006 welfare Board Rules          K – 261 to 267\n\n             29.    Safety committee                       S – 38\n\n                                             R – 208\n\n             30.    Safety officer                          S – 38\n\n                                             R – 209 and Schedule VII\n\n             31.    Reporting of accidents and dangerous occurrences S – 39\n\n                                             R – 210\n\n             32.   Procedure for inquiry in to the causes of accidents R – 211\n\n             33.    Responsibility of employer                 S - 44\n\n                                             R – 5\n\n             34.    Responsibility of Architects, Project engineer and  R – 6\n                  Designers\n\n             35.    Responsibility of workmen                R – 8\n\n             36.    Responsibility for payment of wages and        S – 45\n                  compensation\n\n             37.    Penalties and Procedures                 S – 47; S – 55\n\n             38.    Excessive noise, vibration etc              R – 34\n\n             39.    Fire Protection                       R – 35\n\n             40.   Emergency action plan                  R – 36\n\n             41.    Fencing of motors                     R – 37\n\n             42.     Lifting of carrying of excessive weight         R – 38\n\n             43.    Health, Safety and Environmental Policy       R – 39\n\n             44.   Dangerous and Harmful Environment         R – 40\n\n             45.   Overhead protection                   R – 41\n\n             46.    Slipping, Tripping, Cutting, Drowning and Falling  R – 42\n                 Hazards\n\n             47.    Dust, Gases, Fumes, etc                 R – 43\n\n             48.    Corrosive substance                   R – 49\n\n             49.   Eye Protection                       R – 45\n\n             50.   Head Protection and other protection apparel    R – 46; R – 54\n\n             51.    Electrical Hazards                     R – 47\n\n             52.    Vehicular traffic                      R – 48\n\n             53.     Stability of structure                    R – 49\n\n             54.    Illumination                         R – 50; R – 124\n\n             55.    Stacking of materials                   R – 51\n\n             56.    Disposal of debris                     R – 52\n\n\n\n         Bangalore Metro Rail Corporation Ltd.              September 2026     Section Page 87 of 114",
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            50.15998077392578,
+            15.768376350402832,
+            564.21923828125,
+            24.210372924804688
+          ],
+          "text": "                                                                                                                                   Safety Health & Environment (SHE) Manual \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            85.5599594116211,
+            26.57955551147461,
+            88.32714080810547,
+            35.93199157714844
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            85.5599594116211,
+            809.042724609375,
+            511.7470703125,
+            830.5714111328125
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                              September 2026         Section Page 87 of 114 \n \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            99.83995819091797,
+            41.69948959350586,
+            392.5273132324219,
+            51.05192565917969
+          ],
+          "text": "22.\nCreches \nS – 35 \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            99.83995819091797,
+            59.69948959350586,
+            473.6474609375,
+            83.45195007324219
+          ],
+          "text": "23.\nFirst-aid boxes \nS – 36 \nR – 231 and Schedule III \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            99.83995819091797,
+            92.09945678710938,
+            398.6473083496094,
+            115.97190856933594
+          ],
+          "text": "24.\nCanteens \nS – 37 \nR – 244 \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            99.83995819091797,
+            124.61947631835938,
+            398.64727783203125,
+            133.97190856933594
+          ],
+          "text": "25.\nFood stuff and other items served in the canteens\nR – 245 \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            99.83995819091797,
+            142.61947631835938,
+            398.6492004394531,
+            151.97190856933594
+          ],
+          "text": "26.\nSupply of tea and snacks in work place \nR – 246 \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            99.83995819091797,
+            160.61947631835938,
+            398.64910888671875,
+            169.97190856933594
+          ],
+          "text": "27.\nFood charges on no loss no profit basis \nR – 247 \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            99.83995819091797,
+            178.61941528320312,
+            428.6492004394531,
+            187.9718475341797
+          ],
+          "text": "28.\nBOCWKR 2006 welfare Board Rules \nK – 261 to 267 \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            99.83995819091797,
+            196.61941528320312,
+            398.6473083496094,
+            220.4918670654297
+          ],
+          "text": "29.\nSafety committee \nS – 38 \nR – 208 \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            99.83995819091797,
+            229.13943481445312,
+            477.60748291015625,
+            253.0118865966797
+          ],
+          "text": "30.\nSafety officer \nS – 38 \nR – 209 and Schedule VII \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            99.83995819091797,
+            261.6593933105469,
+            392.52728271484375,
+            271.0118408203125
+          ],
+          "text": "31.\nReporting of accidents and dangerous occurrences S – 39 \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            360.83984375,
+            276.1794128417969,
+            398.64727783203125,
+            285.5318603515625
+          ],
+          "text": "R – 210 \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            99.83995819091797,
+            294.1794128417969,
+            398.64727783203125,
+            303.5318603515625
+          ],
+          "text": "32.\nProcedure for inquiry in to the causes of accidents R – 211 \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            99.83995819091797,
+            312.1794128417969,
+            390.2505187988281,
+            335.93182373046875
+          ],
+          "text": "33.\nResponsibility of employer  \nS - 44 \nR – 5  \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            99.83995819091797,
+            344.5793762207031,
+            351.3672790527344,
+            365.4518127441406
+          ],
+          "text": "34.\nResponsibility of Architects, Project engineer and \nDesigners  \n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            360.8398742675781,
+            344.5793762207031,
+            387.4857482910156,
+            353.93182373046875
+          ],
+          "text": "R – 6 \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            99.83995819091797,
+            374.0993347167969,
+            387.4879455566406,
+            383.4517822265625
+          ],
+          "text": "35.\nResponsibility of workmen \nR – 8 \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            99.83995819091797,
+            392.0993347167969,
+            313.687255859375,
+            412.9717712402344
+          ],
+          "text": "36.\nResponsibility for payment of wages and \ncompensation \n"
+        },
+        {
+          "block_number": 20,
+          "bbox": [
+            360.8398742675781,
+            392.0993347167969,
+            392.5273132324219,
+            401.4517822265625
+          ],
+          "text": "S – 45 \n"
+        },
+        {
+          "block_number": 21,
+          "bbox": [
+            99.83995819091797,
+            421.6193542480469,
+            426.9689636230469,
+            430.9718017578125
+          ],
+          "text": "37.\nPenalties and Procedures \nS – 47; S – 55 \n"
+        },
+        {
+          "block_number": 22,
+          "bbox": [
+            99.83995819091797,
+            439.61932373046875,
+            393.1291198730469,
+            448.9717712402344
+          ],
+          "text": "38.\nExcessive noise, vibration etc \nR – 34 \n"
+        },
+        {
+          "block_number": 23,
+          "bbox": [
+            99.83995819091797,
+            457.61932373046875,
+            393.1286315917969,
+            466.9717712402344
+          ],
+          "text": "39.\nFire Protection \nR – 35 \n"
+        },
+        {
+          "block_number": 24,
+          "bbox": [
+            99.83995819091797,
+            475.61932373046875,
+            393.1287536621094,
+            484.9717712402344
+          ],
+          "text": "40.\nEmergency action plan \nR – 36 \n"
+        },
+        {
+          "block_number": 25,
+          "bbox": [
+            99.83995819091797,
+            493.61932373046875,
+            393.129150390625,
+            502.9717712402344
+          ],
+          "text": "41.\nFencing of motors \nR – 37 \n"
+        },
+        {
+          "block_number": 26,
+          "bbox": [
+            99.83995819091797,
+            511.6192932128906,
+            393.12908935546875,
+            520.9717407226562
+          ],
+          "text": "42.\nLifting of carrying of excessive weight \nR – 38 \n"
+        },
+        {
+          "block_number": 27,
+          "bbox": [
+            99.83995819091797,
+            529.6192626953125,
+            393.12908935546875,
+            538.9717407226562
+          ],
+          "text": "43.\nHealth, Safety and Environmental Policy \nR – 39 \n"
+        },
+        {
+          "block_number": 28,
+          "bbox": [
+            99.83995819091797,
+            547.6192626953125,
+            393.129150390625,
+            556.9717407226562
+          ],
+          "text": "44.\nDangerous and Harmful Environment \nR – 40 \n"
+        },
+        {
+          "block_number": 29,
+          "bbox": [
+            99.83995819091797,
+            565.6192626953125,
+            393.12908935546875,
+            574.9717407226562
+          ],
+          "text": "45.\nOverhead protection \nR – 41 \n"
+        },
+        {
+          "block_number": 30,
+          "bbox": [
+            99.83995819091797,
+            583.6192626953125,
+            348.1271667480469,
+            604.4917602539062
+          ],
+          "text": "46.\nSlipping, Tripping, Cutting, Drowning and Falling \nHazards \n"
+        },
+        {
+          "block_number": 31,
+          "bbox": [
+            360.8398742675781,
+            583.6192626953125,
+            393.1272888183594,
+            592.9717407226562
+          ],
+          "text": "R – 42 \n"
+        },
+        {
+          "block_number": 32,
+          "bbox": [
+            99.83995819091797,
+            613.1392211914062,
+            393.1292419433594,
+            622.49169921875
+          ],
+          "text": "47.\nDust, Gases, Fumes, etc \nR – 43 \n"
+        },
+        {
+          "block_number": 33,
+          "bbox": [
+            99.83995819091797,
+            631.1392211914062,
+            393.1288757324219,
+            640.49169921875
+          ],
+          "text": "48.\nCorrosive substance \nR – 49 \n"
+        },
+        {
+          "block_number": 34,
+          "bbox": [
+            99.83995819091797,
+            649.1392211914062,
+            393.1286315917969,
+            658.49169921875
+          ],
+          "text": "49.\nEye Protection \nR – 45 \n"
+        },
+        {
+          "block_number": 35,
+          "bbox": [
+            99.83995819091797,
+            667.1392211914062,
+            428.0476379394531,
+            676.49169921875
+          ],
+          "text": "50.\nHead Protection and other protection apparel  \nR – 46; R – 54 \n"
+        },
+        {
+          "block_number": 36,
+          "bbox": [
+            99.83995819091797,
+            685.13916015625,
+            393.1288757324219,
+            694.4916381835938
+          ],
+          "text": "51.\nElectrical Hazards \nR – 47 \n"
+        },
+        {
+          "block_number": 37,
+          "bbox": [
+            99.83995819091797,
+            703.13916015625,
+            393.12939453125,
+            712.4916381835938
+          ],
+          "text": "52.\nVehicular traffic \nR – 48 \n"
+        },
+        {
+          "block_number": 38,
+          "bbox": [
+            99.83995819091797,
+            721.13916015625,
+            393.1293029785156,
+            730.4916381835938
+          ],
+          "text": "53.\nStability of structure \nR – 49 \n"
+        },
+        {
+          "block_number": 39,
+          "bbox": [
+            99.83995819091797,
+            739.1389770507812,
+            433.6875305175781,
+            748.491455078125
+          ],
+          "text": "54.\nIllumination \nR – 50; R – 124 \n"
+        },
+        {
+          "block_number": 40,
+          "bbox": [
+            99.83995819091797,
+            757.1389770507812,
+            393.12860107421875,
+            766.491455078125
+          ],
+          "text": "55.\nStacking of materials \nR – 51 \n"
+        },
+        {
+          "block_number": 41,
+          "bbox": [
+            99.83995819091797,
+            775.1389770507812,
+            393.1287536621094,
+            784.491455078125
+          ],
+          "text": "56.\nDisposal of debris  \nR – 52 \n"
+        },
+        {
+          "block_number": 42,
+          "bbox": [
+            39.599998474121094,
+            24.479991912841797,
+            63.57600021362305,
+            41.38799285888672
+          ],
+          "text": "275\n"
+        }
+      ],
+      "has_extracted_text": true,
+      "review_status": "pending_manual_review"
+    },
+    {
+      "pdf_page": 92,
+      "rotation": 0,
+      "page_rect": [
+        0.0,
+        0.0,
+        595.219970703125,
+        842.0
+      ],
+      "extraction_method": "geometric_sort",
+      "text": "Safety Health & Environment (SHE) Manual\n                                                          276\n   57.   Numbering and marking of floors            R – 53\n\n   58.     Lifting appliances and gears               C – VII; R – 55 to 81\n\n   59.   Runways and Ramps                   C – VIII; R – 82 to 85\n\n   60.   Working on or adjacent to water            C – IX; R – 86 & 87\n\n   61.    Transport and earthmoving equipments        C – X; R – 88 to 95\n\n   62.    Concrete work                       C – XI; R – 96 to 107\n\n   63.    Demolition                         C – XII; R – 108 to 118\n\n   64.    Excavation and Tunnelling works            C – XIII; R – 119 to 168\n\n   65.    Ventilation                         R – 153\n\n   66.    Construction, repair and maintenance of step roof C – XIV; R – 169 to 171\n\n   67.   Ladders and Step ladders                C – XV; R – 172 to 174\n\n   68.   Catch platform and hoardings, chutes, safety belts C – XVI; R – 175 to 180\n        and nets\n\n   69.    Structural frame and formworks             C – XVII; R – 181 to 185\n\n   70.    Stacking and unstacking                 C – XVIII; R – 186 & 187\n\n   71.    Scaffold                           C – XIX; R – 188 to 205\n\n   72.   Cofferdams and Caissons                C – XX; R – 206 to 211\n\n   73.    Explosives                         C – XXI; R – 212 & 213\n\n   74.    Piling                             C – XXII; R – 214 to 222\n\n   75.    Medical Examination for building and other      R – 81; R – 223(a)(iii) and\n          construction worker, Crane operator an Transport  Schedule XII\n          vehicle drivers\n\n   76.    Medical examination for occupational health     R – 223(a)(iv)\n         hazards\n\n   77.    Charging of workers for Medical Examination    R – 223(b)\n\n   78.    Occupational health centres and Medical officers  R – 225 and Schedule X &XI\n\n   79.   Ambulance van & room                 R – 226 & 227 and Schedule IV &\n                                         V\n\n   80.    Stretchers                          R – 228\n\n   81.    Occupational health service for building workers  R – 229\n\n   82.    Medical examination for occupational health     R – 223(a)(iv)\n         hazards\n\n   83.   Emergency care services and emergency      R – 232\n          treatment\n\n   84.   Panel of experts and agencies                     Central Rule 250\n\n   85.   Power of inspectors                               Central rule 251\n\n                                                      Karnataka Rules 268\n\n\n\n\n\nBangalore Metro Rail Corporation Ltd.              September 2026     Section Page 88 of 114",
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            47.039981842041016,
+            15.768376350402832,
+            561.0993041992188,
+            24.210372924804688
+          ],
+          "text": "                                                                                                                                   Safety Health & Environment (SHE) Manual \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            82.4399642944336,
+            26.57955551147461,
+            85.20714569091797,
+            35.93199157714844
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            82.4399642944336,
+            809.042724609375,
+            508.6270751953125,
+            830.5714111328125
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                              September 2026         Section Page 88 of 114 \n \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            96.83995819091797,
+            41.69948959350586,
+            390.1290588378906,
+            51.05192565917969
+          ],
+          "text": "57.\nNumbering and marking of floors \nR – 53 \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            96.83995819091797,
+            59.69948959350586,
+            451.2097473144531,
+            69.05192565917969
+          ],
+          "text": "58.\nLifting appliances and gears \nC – VII; R – 55 to 81 \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            96.83995819091797,
+            77.69949340820312,
+            453.9690246582031,
+            87.05192565917969
+          ],
+          "text": "59.\nRunways and Ramps \nC – VIII; R – 82 to 85 \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            96.83995819091797,
+            95.69949340820312,
+            446.76708984375,
+            105.05192565917969
+          ],
+          "text": "60.\nWorking on or adjacent to water \nC – IX; R – 86 & 87 \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            96.83995819091797,
+            113.69949340820312,
+            445.68756103515625,
+            123.05192565917969
+          ],
+          "text": "61.\nTransport and earthmoving equipments \nC – X; R – 88 to 95 \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            96.83995819091797,
+            131.69949340820312,
+            456.7289733886719,
+            141.0519256591797
+          ],
+          "text": "62.\nConcrete work  \nC – XI; R – 96 to 107  \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            96.83995819091797,
+            149.69949340820312,
+            462.3676452636719,
+            159.0519256591797
+          ],
+          "text": "63.\nDemolition \nC – XII; R – 108 to 118 \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            96.83995819091797,
+            167.69949340820312,
+            465.1273193359375,
+            177.0519256591797
+          ],
+          "text": "64.\nExcavation and Tunnelling works \nC – XIII; R – 119 to 168 \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            96.83995819091797,
+            185.69943237304688,
+            398.4073181152344,
+            195.05186462402344
+          ],
+          "text": "65.\nVentilation \nR – 153  \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            96.83995819091797,
+            203.57943725585938,
+            466.2076416015625,
+            212.93186950683594
+          ],
+          "text": "66.\nConstruction, repair and maintenance of step roof\nC – XIV; R – 169 to 171 \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            96.83995819091797,
+            221.57943725585938,
+            463.4491271972656,
+            230.93186950683594
+          ],
+          "text": "67.\nLadders and Step ladders \nC – XV; R – 172 to 174 \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            96.83995819091797,
+            239.57943725585938,
+            353.4071960449219,
+            260.45184326171875
+          ],
+          "text": "68.\nCatch platform and hoardings, chutes, safety belts \nand nets  \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            357.8398742675781,
+            239.57937622070312,
+            466.2076721191406,
+            248.9318084716797
+          ],
+          "text": "C – XVI; R – 175 to 180 \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            96.83995819091797,
+            269.0993957519531,
+            468.967529296875,
+            278.45184326171875
+          ],
+          "text": "69.\nStructural frame and formworks \nC – XVII; R – 181 to 185 \n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            96.83995819091797,
+            287.0993957519531,
+            470.1698303222656,
+            296.45184326171875
+          ],
+          "text": "70.\nStacking and unstacking \nC – XVIII; R – 186 & 187 \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            96.83995819091797,
+            305.0993957519531,
+            466.2076721191406,
+            314.45184326171875
+          ],
+          "text": "71.\nScaffold \nC – XIX; R – 188 to 205 \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            96.83995819091797,
+            323.099365234375,
+            463.44970703125,
+            332.4518127441406
+          ],
+          "text": "72.\nCofferdams and Caissons  \nC – XX; R – 206 to 211 \n"
+        },
+        {
+          "block_number": 20,
+          "bbox": [
+            96.83995819091797,
+            341.099365234375,
+            464.5276794433594,
+            350.4518127441406
+          ],
+          "text": "73.\nExplosives \nC – XXI; R – 212 & 213 \n"
+        },
+        {
+          "block_number": 21,
+          "bbox": [
+            96.83995819091797,
+            359.099365234375,
+            468.9676818847656,
+            368.4518127441406
+          ],
+          "text": "74.\nPiling \nC – XXII; R – 214 to 222 \n"
+        },
+        {
+          "block_number": 22,
+          "bbox": [
+            96.83995819091797,
+            377.0993347167969,
+            350.0472412109375,
+            409.49176025390625
+          ],
+          "text": "75.\nMedical Examination for building and other \nconstruction worker, Crane operator an Transport \nvehicle drivers \n"
+        },
+        {
+          "block_number": 23,
+          "bbox": [
+            357.8398742675781,
+            377.09930419921875,
+            475.5675048828125,
+            397.97174072265625
+          ],
+          "text": "R – 81; R – 223(a)(iii) and \nSchedule XII \n"
+        },
+        {
+          "block_number": 24,
+          "bbox": [
+            96.83995819091797,
+            418.13934326171875,
+            325.56719970703125,
+            439.01177978515625
+          ],
+          "text": "76.\nMedical examination for occupational health \nhazards \n"
+        },
+        {
+          "block_number": 25,
+          "bbox": [
+            357.8398742675781,
+            418.13934326171875,
+            421.68719482421875,
+            427.4917907714844
+          ],
+          "text": "R – 223(a)(iv) \n"
+        },
+        {
+          "block_number": 26,
+          "bbox": [
+            96.83995819091797,
+            447.6593322753906,
+            407.8875732421875,
+            457.01177978515625
+          ],
+          "text": "77.\nCharging of workers for Medical Examination \nR – 223(b) \n"
+        },
+        {
+          "block_number": 27,
+          "bbox": [
+            96.83995819091797,
+            465.6593322753906,
+            487.9275207519531,
+            475.01177978515625
+          ],
+          "text": "78.\nOccupational health centres and Medical officers \nR – 225 and Schedule X &XI \n"
+        },
+        {
+          "block_number": 28,
+          "bbox": [
+            96.83995819091797,
+            483.6593322753906,
+            510.0072937011719,
+            504.5317687988281
+          ],
+          "text": "79.\nAmbulance van & room \nR – 226 & 227 and Schedule IV & \nV \n"
+        },
+        {
+          "block_number": 29,
+          "bbox": [
+            96.83995819091797,
+            513.1792602539062,
+            395.6473083496094,
+            522.53173828125
+          ],
+          "text": "80.\nStretchers \nR – 228 \n"
+        },
+        {
+          "block_number": 30,
+          "bbox": [
+            96.83995819091797,
+            531.0592651367188,
+            395.6471862792969,
+            540.4117431640625
+          ],
+          "text": "81.\nOccupational health service for building workers \nR – 229 \n"
+        },
+        {
+          "block_number": 31,
+          "bbox": [
+            96.83995819091797,
+            549.0592651367188,
+            325.56890869140625,
+            569.9317016601562
+          ],
+          "text": "82.\nMedical examination for occupational health \nhazards \n"
+        },
+        {
+          "block_number": 32,
+          "bbox": [
+            357.8398742675781,
+            549.0592651367188,
+            421.68719482421875,
+            558.4117431640625
+          ],
+          "text": "R – 223(a)(iv) \n"
+        },
+        {
+          "block_number": 33,
+          "bbox": [
+            96.83995819091797,
+            578.5792236328125,
+            315.0072021484375,
+            599.4517211914062
+          ],
+          "text": "83.\nEmergency care services and emergency \ntreatment  \n"
+        },
+        {
+          "block_number": 34,
+          "bbox": [
+            357.8398742675781,
+            578.5792236328125,
+            395.6473083496094,
+            587.9317016601562
+          ],
+          "text": "R – 232 \n"
+        },
+        {
+          "block_number": 35,
+          "bbox": [
+            96.83995819091797,
+            608.0992431640625,
+            435.60888671875,
+            617.4517211914062
+          ],
+          "text": "84.\nPanel of experts and agencies \nCentral Rule 250 \n"
+        },
+        {
+          "block_number": 36,
+          "bbox": [
+            96.83995819091797,
+            626.0992431640625,
+            453.96722412109375,
+            649.9716796875
+          ],
+          "text": "85.\nPower of inspectors  \nCentral rule 251 \nKarnataka Rules 268 \n"
+        },
+        {
+          "block_number": 37,
+          "bbox": [
+            82.4399642944336,
+            655.6192016601562,
+            85.20714569091797,
+            768.4116821289062
+          ],
+          "text": " \n \n \n \n \n \n \n \n \n \n"
+        },
+        {
+          "block_number": 38,
+          "bbox": [
+            546.0439453125,
+            24.479991912841797,
+            570.0199584960938,
+            41.38799285888672
+          ],
+          "text": "276\n"
+        }
+      ],
+      "has_extracted_text": true,
+      "review_status": "pending_manual_review"
+    }
+  ],
+  "source_quirks": [
+    {
+      "item_numbers": [
+        76,
+        82
+      ],
+      "description": "Both printed entries concern medical examination for occupational health hazards.",
+      "handling": "Both entries preserved with their original item numbers."
+    }
+  ],
+  "checks": {
+    "source_hash": "passed",
+    "page_sequence": "passed",
+    "item_sequence_1_to_85": "passed",
+    "item_start_pages": "passed",
+    "retained_line_preservation": "passed"
+  },
+  "limitations": [
+    "Item and reference columns remain combined as source text.",
+    "Column relationships require layout review.",
+    "Repeated entries have not been removed.",
+    "Printed references are transcribed, not verified.",
+    "Current legal or regulatory validity was not assessed.",
+    "The source labels this manual for reference only.",
+    "Contractual applicability has not been decided.",
+    "Later amendments have not been applied."
+  ]
+}

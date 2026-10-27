@@ -1,0 +1,164 @@
+{
+  "source_id": "bmrcl-volume-2",
+  "source_path": "data/Vol2DLNP1.pdf",
+  "source_sha256": "e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b",
+  "source_section": "H",
+  "part_id": "1",
+  "title": "General",
+  "review_status": "pending_manual_review",
+  "preamble": [
+    {
+      "pdf_page": 5,
+      "text": "PART 1 - GENERAL"
+    }
+  ],
+  "removed_lines": [
+    {
+      "pdf_page": 5,
+      "text": "152",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 5,
+      "text": "       BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157       Employer Requirement, Scope of Work &",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 5,
+      "text": "                                                                              Technical Specifications",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 5,
+      "text": "       Bangalore Metro Rail Corporation Ltd.                 September 2026           Section Page 2 of 37",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 6,
+      "text": "153",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 6,
+      "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157       Employer Requirement, Scope of Work &",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 6,
+      "text": "                                                                       Technical Specifications",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 6,
+      "text": "Bangalore Metro Rail Corporation Ltd.                 September 2026           Section Page 3 of 37",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 7,
+      "text": "154",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 7,
+      "text": "       BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157       Employer Requirement, Scope of Work &",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 7,
+      "text": "                                                                              Technical Specifications",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 7,
+      "text": "       Bangalore Metro Rail Corporation Ltd.                 September 2026           Section Page 4 of 37",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 8,
+      "text": "155",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 8,
+      "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157       Employer Requirement, Scope of Work &",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 8,
+      "text": "                                                                       Technical Specifications",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 8,
+      "text": "Bangalore Metro Rail Corporation Ltd.                 September 2026           Section Page 5 of 37",
+      "reason": "Page header, footer or booklet page number"
+    }
+  ],
+  "clauses": [
+    {
+      "clause_id": "1",
+      "title": "The Employer’s Responsibility",
+      "heading_line": "1.    The Employer’s Responsibility:",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 5,
+          "text": "1.    The Employer’s Responsibility:\n\n      1.1   The Employer shall grant the Contractor right of access to, and possession of, the Site\n              progressively for the completion of Works. Such right and possession may not be\n              exclusive to the Contractor. The Contractor will draw/modify the schedule for completion\n               of Works according to progressive possession/right of such sites.\n      1.2       If the Contractor suffers delay from failure on the part of the Employer to grant right of\n            access to, or possession of the Site, the Contractor shall give notice to the Engineer in a\n             period of 28 days of such occurrence. After receipt of such notice the Engineer shall\n            proceed to determine any extension of time to which the Contractor is entitled and shall\n               notify the Contractor accordingly.\n            For any such delay in handing over of site, Contractors will be entitled to only reasonable\n             extension of time and no monetary claims whatsoever shall be paid or entertained on this\n             account.\n      1.3   The Employer may (Where he is in a position to do so) provide reasonable assistance to\n              contractor in getting permits, license on approvals during contract.\n      1.4   The successful tenderer will be issued with “Demolition/ Dismantling” scheme drawings\n           on award of contract."
+        }
+      ]
+    },
+    {
+      "clause_id": "2",
+      "title": "The Contractor’s Responsibility",
+      "heading_line": "2.    The Contractor’s Responsibility:",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 5,
+          "text": "2.    The Contractor’s Responsibility:\n\n      2.1   The Works as completed by the Contractor shall be wholly in accordance with the\n             Contract and fit for the purposes for which they are intended, as defined in the Contract.\n      2.2   The Contractor shall provide all superintendence, labour, machinery etc.\n      2.3   The Contractor shall take full responsibility for the adequacy, stability and safety of all\n           methods of dismantling/demolition, irrespective of any approval or consent by the\n             Engineer/consultant\n      2.4   The Contractor acknowledges responsibility for ascertaining and securing at his own cost:\n\n                   (a) Conditions bearing upon the proper  transportation,  disposal, handling and\n                    storage of materials (including but not limited to hazardous toxic substances and\n                   excavated materials);\n                   (b) Availability of electricity, water and gas;\n                    (c) Availability of skilled manpower;\n                   (d) The protection of the environment and adjacent structures.\n                   (e) The location of and the authorization required for and the means of diversion of\n                 any services and facilities required for the purposes of the Works.\n      2.5   The Contractor shall not impede and shall afford all necessary facilities, access and/or\n             services to the Employer, Engineer, Designated Contractors, utility undertakings, other\n              relevant authorities and other contractors (whether  employed by  the Employer or not)\n          who are carrying out duties, on or in the vicinity of the Site not included in the Contract\n             but forming part of the Project."
+        }
+      ]
+    },
+    {
+      "clause_id": "3",
+      "title": "The Consultant’s/Engineer’s Responsibility",
+      "heading_line": "3.   The Consultant’s/Engineer’s Responsibility:",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 5,
+          "text": "3.   The Consultant’s/Engineer’s Responsibility:\n          The Employer may nominate a Consultant/Engineer  for executing  this work. The\n             responsibilities of the Consultants/Engineer are given below in brief:\n                    (i)   Suggest the type and capacity of equipment required for safe demolition process.\n                Prepare structure wise report on sequence and methodology of demolition including\n                 remedial measures required to be undertaken prior to demolition, during demolition\n               and post demolition.\n                     (ii)   Suggest legal and safe disposal of demolished/dismantled items in which land loser\n               has no interest, to the designated places identified by the contractor, except debris."
+        },
+        {
+          "pdf_page": 6,
+          "text": "The debris shall be disposed of at BBMP/GBA identified C&D waste management\n                facility.\n           (iii)  Suggest the restoration works to be done, from the point of safety and functional use.\n        (iv)  Prepare design and drawings for temporary structures including safety barricading\n             to be used during the demotion of work by the demolition contractor.\n       (v)   Supervise the demolition and restoration works implemented through the demolition\n            contractor  and  ensure  that  the  demolition  contractor   strictly  follows  the\n            demolition/dismantling methodology, with all safety standards.\n         vi)  Certification of bills submitted by contractor for the work done."
+        }
+      ]
+    },
+    {
+      "clause_id": "4",
+      "title": "General Principles of Demolitions/Dismantling of the Buildings/Structures",
+      "heading_line": "4.    General Principles of Demolitions/Dismantling of the Buildings/Structures.",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 6,
+          "text": "4.    General Principles of Demolitions/Dismantling of the Buildings/Structures.\n    The  Contractor  shall  adopt  appropriate  methodology  and  equipment  for  safe\n      demolition/dismantling of the buildings/ Structures. Certain precautions not limited to the\n      following are required to be taken during demolition work:\n\n        (a)   Prior to start demolition operations, the contractor shall conduct an engineering\n            survey and survey report shall be discussed with consultant/Engineer appointed by\n            the employer for consensus and approval of the consultant /Engineer/BMRCL.  In\n            engineering survey a competent person preferably structural engineer should\n             inspect the site to determine the condition of the framing, floors and walls, and\n               possibility of unplanned collapse of any portion of the structure. Any adjacent\n             structure shall also be similarly checked before commencement of demolition.\n\n        (b)   Within a structure to be demolished which has been damaged by  fire, flood,\n             explosion, or other cause, the walls or floor shall be shored or braced.\n\n        (c)  The contractor should ensure that. all electric, gas, water, steam, sewer and other\n             service lines are shut off, capped, or otherwise controlled (at his own cost), outside\n            the building line before starting the demolition work. If any notification is to be issued\n           by BMRCL, BMRCL will issue the notification to the concerned.\n\n        (d)    If  it is necessary to maintain (temporarily) electric power, water or other utilities\n            during demolition, such lines shall be temporarily relocated, as necessary and\n            protected before commencement of demolition work. The contractor shall make his\n         own arrangements for power requirement for his equipment/machinery used for\n             demolition.\n\n        (e)    It shall also be determined if any type of hazardous chemicals, gases, explosives,\n           flammable materials, or similarly dangerous substances have been used in any\n             pipes, tanks, or other equipment on the property. When the presence of any such\n           substances is apparent or suspected, testing and removal shall be performed and\n            the hazard eliminated before demolition is started.\n\n          (f)   Where a hazard exists from fragmentation of glass or any such kind of materials\n           hazards shall be removed.\n\n        (g)  Where a hazard exists to contractor’s employees and the residents falling through\n             wall openings, the opening shall be protected to a height of approximately 105 cm.\n\n        (h)  When debris is dropped through holes in the floor without the use of chutes, the\n           area onto which the material  is dropped  shall be completely enclosed with\n            barricades not less than 100cm high and not less than 180cm back from the\n            projected edge of the opening above. Signs, warning of the hazard of falling\n             materials, shall be posted at each level. Removal shall not be permitted in this lower\n           area until debris handling ceases above."
+        },
+        {
+          "pdf_page": 7,
+          "text": "(i)    All floor openings, not used as material drops, shall be covered over with material\n                    substantial enough to support the weight of any load which may be imposed. Such\n                   material shall be properly secured to prevent its accidental movement.\n\n                     (j)   Except for the cutting of holes in floors for chutes, holes through which to drop\n                    materials, preparation of storage space, and similar necessary preparatory work,\n                   the demolition of exterior walls and floor construction shall begin at the top of the\n                    structure and proceed downward. Each story of exterior wall and floor construction\n                     shall be removed and dropped into the storage space before commencing the\n                 removal of exterior walls and floors in the story next below.\n\n                (k)  Employee entrances to multistory structures being demolished shall be completely\n                   protected by sidewalk sheds or canopies, or both, providing protection from the face\n                     of the building for a minimum of 2.4m. All such canopies shall be at least 0.6m wider\n                  than the building entrances or openings (0.3m wider on each side thereof), and shall\n                be capable of sustaining a load of 750kg per square meter.\n\n                     (l)   The contractor shall take sufficient care to erect safety sign boards and sufficient\n                     to manage traffic flow during demolition should be ensured.  If required, local traffic\n                    police to be informed prior to commencement of demolition.\n\n            (m)  Safety procedure: The demolition contractor shall:\n\n                                (i)   Comply with all applicable safety regulations.\n                                  (ii)  Take care for the safety of all persons entitled to be on site. Provide Personal\n                           Protective Equipment to all workers involved. PPEs shall include Helmets,\n                         Safety Shoes, Safety belts, Goggles, Hand Gloves, Safety Jackets and\n                          other equipment required for safety of work force.\n                                    (iii)  Use reasonable efforts to keep the site and works clear of unnecessary\n                           obstructions so as to avoid dangers to persons.\n                           (iv)  Provide  fencing,  lighting,  guarding and  watching  of  the works  until\n                         completion of the demolition and safety certification (by the structural\n                         engineer) of remaining portion of the building where partial demolition is\n                           carried out.\n                       (v)    Provide any temporary works including road ways, foot ways, guards and\n                        fences which may be necessary because of the demolition of the building,\n                               for the use and protection of public and of owners and occupiers of adjacent\n                            buildings.\n                           (vi)  The structure to be demolished/dismantled must have barricades, which\n                             shall be of plain MS Sheet of 16 gauge fixed with steel frame, painting, with\n                           synthetic enamel paint of approved color, quality and brand, writing letter\n                     and logo of metro including maintenance of the same, duly cleaning the\n                   same frequently, arrangement for blinker light as per requirement. During\n                          demolition barricades has to be kept continuously. Removal of barricade will\n                          not be permitted till completion of demolition, dismantling of properties.\n\n               (n)  Protection of the Environment: The contractors shall take all reasonable steps to\n                    protect the environment (both on and off the site) and to limit the damage and\n                 nuisance to the people and property resulting from pollution, noise and other result\n                     of the operations. The contractors shall ensure that emissions, surface discharges\n                and effluent from the contractor’s activities shall not exceed the values prescribed\n                by the applicable laws. The dust and noise level during demolition to be maintained\n                    within acceptable norms under the provisions of BMRCL safety manual/applicable\n                  codal standards including regular watering for dust suppression."
+        },
+        {
+          "pdf_page": 8,
+          "text": "(o)  Security of the site: The contractor shall be responsible for keeping unauthorized\n           person off the site and authorized person shall be limited to the contractor’s\n            personnel and BMRCL personnel and to any other personnel notified to the\n             contractor by the BMRCL.\n\n        (p)  Contractor’s operations on site: The contractor’s shall confine his operations to\n            the site and to any additional areas which may be obtained by the contractor, agreed\n           by the BMRCL as working area. The contractor shall take all necessary precautions\n              to keep contractor’s equipment and contractor’s personnel within the site.\n\n        (q)  Labour laws: The Contractor shall comply with all the relevant labor laws applicable\n              to the contractor’s personnel, including laws relating to their employment, health,\n              safety, welfare, immigration and emigration and shall allow them all their legal rights.\n          The Contractor shall require his employees to obey all applicable laws, including\n            those concerning safety at work.\n\n          (r)   Health and Safety:  The Contractor  shall  at  all times take  all reasonable\n            precautions to maintain the health and safety of the Contractor’s Personnel.  In\n             collaboration with local health authorities, the Contractor shall ensure that medical\n                staff, first aid facilities, sick bay and ambulance service are available at all times at\n            the site and any accommodation for Contractor’s and Employer’s Personnel and\n              that suitable arrangements are made for  all necessary Welfare and hygiene\n            requirements and for the prevention of epidemics.\n\n          The Contractor shall appoint an accident prevention officer at the site, responsible\n               for maintaining safety and protection against accidents.  This person shall be\n              qualified for this responsibility and shall have the authority to issue instructions and\n            take protective measures to prevent accidents. Throughout the execution of the\n            works, the Contractor shall provide whatever is required by this person to exercise\n               this responsibility and authority.\n\n          The Contractor shall send, to the BMRCL details of any accident as soon as\n             practicable after its occurrence. The Contractor shall maintain records and make\n             reports concerning health, safety and welfare of persons and damage to property\n           as the Engineer may reasonably require."
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Subclauses and lettered or Roman-numbered items remain within their main clauses.",
+    "Applicability and cross-document relationships have not been evaluated.",
+    "Later corrigenda have not been applied."
+  ]
+}

@@ -1,0 +1,845 @@
+{
+  "source_id": "bmrcl-volume-2",
+  "source_path": "data/Vol2DLNP1.pdf",
+  "source_sha256": "e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b",
+  "source_section": "H",
+  "annexure_id": "3",
+  "title": "Minimum Plants & Equipments for the Work",
+  "pdf_pages": [
+    22
+  ],
+  "review_status": "pending_manual_review",
+  "extraction_method": "source_hash_bound_grid_with_direct_cell_text",
+  "coordinate_system": "PyMuPDF unrotated page coordinates, in points",
+  "introductory_context": {
+    "pdf_page": 22,
+    "bbox": [
+      65.0,
+      65.0,
+      555.0,
+      190.0
+    ],
+    "source_text": "ANNEXURE -3 to EMPLOYER’S REQUIREMENT\n                       (To be submitted by Tenderer)\n\n          MINIMUM PLANTS & EQUIPMENTS FOR THE WORK\n\n             (TO BE DEPLOYED AS AND WHEN REQUIRED)\n\nTenderers should have the following plant and machinery either owned or leased or hired\nby him."
+  },
+  "table_bbox": [
+    98.98,
+    191.6996,
+    546.98,
+    460.1396
+  ],
+  "columns": [
+    {
+      "column_number": 1,
+      "field_id": "serial_number",
+      "source_heading": "Sl.\nNo",
+      "bbox": [
+        98.98,
+        191.6996,
+        135.36,
+        232.0796
+      ]
+    },
+    {
+      "column_number": 2,
+      "field_id": "equipment_description",
+      "source_heading": "Type of equipment required for the work",
+      "bbox": [
+        135.36,
+        191.6996,
+        368.4,
+        232.0796
+      ]
+    },
+    {
+      "column_number": 3,
+      "field_id": "printed_deployment_quantity",
+      "source_heading": "Proposed to be deployed",
+      "bbox": [
+        368.4,
+        191.6996,
+        546.98,
+        232.0796
+      ]
+    }
+  ],
+  "equipment_requirements": [
+    {
+      "record_id": "vol2-annexure-3-equipment-1",
+      "pdf_page": 22,
+      "source_physical_row": 2,
+      "serial_number": "1",
+      "equipment_description": "Diamond disc Cutter/floor saw machine with\nsuitable capacity",
+      "printed_deployment_quantity": "3 Nos",
+      "cells": [
+        {
+          "column_number": 1,
+          "field_id": "serial_number",
+          "bbox": [
+            98.98,
+            232.0796,
+            135.36,
+            257.8796
+          ],
+          "text": "1"
+        },
+        {
+          "column_number": 2,
+          "field_id": "equipment_description",
+          "bbox": [
+            135.36,
+            232.0796,
+            368.4,
+            257.8796
+          ],
+          "text": "Diamond disc Cutter/floor saw machine with\nsuitable capacity"
+        },
+        {
+          "column_number": 3,
+          "field_id": "printed_deployment_quantity",
+          "bbox": [
+            368.4,
+            232.0796,
+            546.98,
+            257.8796
+          ],
+          "text": "3 Nos"
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol2-annexure-3-equipment-2",
+      "pdf_page": 22,
+      "source_physical_row": 3,
+      "serial_number": "2",
+      "equipment_description": "Wall Sawing Machine with suitable capacity",
+      "printed_deployment_quantity": "3 Nos",
+      "cells": [
+        {
+          "column_number": 1,
+          "field_id": "serial_number",
+          "bbox": [
+            98.98,
+            257.8796,
+            135.36,
+            278.8796
+          ],
+          "text": "2"
+        },
+        {
+          "column_number": 2,
+          "field_id": "equipment_description",
+          "bbox": [
+            135.36,
+            257.8796,
+            368.4,
+            278.8796
+          ],
+          "text": "Wall Sawing Machine with suitable capacity"
+        },
+        {
+          "column_number": 3,
+          "field_id": "printed_deployment_quantity",
+          "bbox": [
+            368.4,
+            257.8796,
+            546.98,
+            278.8796
+          ],
+          "text": "3 Nos"
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol2-annexure-3-equipment-3",
+      "pdf_page": 22,
+      "source_physical_row": 4,
+      "serial_number": "3",
+      "equipment_description": "Electric Drill Motors/ Hammer drilling\nmachine",
+      "printed_deployment_quantity": "4 Nos",
+      "cells": [
+        {
+          "column_number": 1,
+          "field_id": "serial_number",
+          "bbox": [
+            98.98,
+            278.8796,
+            135.36,
+            307.1996
+          ],
+          "text": "3"
+        },
+        {
+          "column_number": 2,
+          "field_id": "equipment_description",
+          "bbox": [
+            135.36,
+            278.8796,
+            368.4,
+            307.1996
+          ],
+          "text": "Electric Drill Motors/ Hammer drilling\nmachine"
+        },
+        {
+          "column_number": 3,
+          "field_id": "printed_deployment_quantity",
+          "bbox": [
+            368.4,
+            278.8796,
+            546.98,
+            307.1996
+          ],
+          "text": "4 Nos"
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol2-annexure-3-equipment-4",
+      "pdf_page": 22,
+      "source_physical_row": 5,
+      "serial_number": "4",
+      "equipment_description": "Floor Saw Machine with suitable capacity",
+      "printed_deployment_quantity": "4 Nos",
+      "cells": [
+        {
+          "column_number": 1,
+          "field_id": "serial_number",
+          "bbox": [
+            98.98,
+            307.1996,
+            135.36,
+            328.0796
+          ],
+          "text": "4"
+        },
+        {
+          "column_number": 2,
+          "field_id": "equipment_description",
+          "bbox": [
+            135.36,
+            307.1996,
+            368.4,
+            328.0796
+          ],
+          "text": "Floor Saw Machine with suitable capacity"
+        },
+        {
+          "column_number": 3,
+          "field_id": "printed_deployment_quantity",
+          "bbox": [
+            368.4,
+            307.1996,
+            546.98,
+            328.0796
+          ],
+          "text": "4 Nos"
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol2-annexure-3-equipment-5",
+      "pdf_page": 22,
+      "source_physical_row": 6,
+      "serial_number": "5",
+      "equipment_description": "Chipping Machine",
+      "printed_deployment_quantity": "12 Nos",
+      "cells": [
+        {
+          "column_number": 1,
+          "field_id": "serial_number",
+          "bbox": [
+            98.98,
+            328.0796,
+            135.36,
+            350.0396
+          ],
+          "text": "5"
+        },
+        {
+          "column_number": 2,
+          "field_id": "equipment_description",
+          "bbox": [
+            135.36,
+            328.0796,
+            368.4,
+            350.0396
+          ],
+          "text": "Chipping Machine"
+        },
+        {
+          "column_number": 3,
+          "field_id": "printed_deployment_quantity",
+          "bbox": [
+            368.4,
+            328.0796,
+            546.98,
+            350.0396
+          ],
+          "text": "12 Nos"
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol2-annexure-3-equipment-6",
+      "pdf_page": 22,
+      "source_physical_row": 7,
+      "serial_number": "6",
+      "equipment_description": "Crusher/Combi Crusher",
+      "printed_deployment_quantity": "2 Nos",
+      "cells": [
+        {
+          "column_number": 1,
+          "field_id": "serial_number",
+          "bbox": [
+            98.98,
+            350.0396,
+            135.36,
+            370.9196
+          ],
+          "text": "6"
+        },
+        {
+          "column_number": 2,
+          "field_id": "equipment_description",
+          "bbox": [
+            135.36,
+            350.0396,
+            368.4,
+            370.9196
+          ],
+          "text": "Crusher/Combi Crusher"
+        },
+        {
+          "column_number": 3,
+          "field_id": "printed_deployment_quantity",
+          "bbox": [
+            368.4,
+            350.0396,
+            546.98,
+            370.9196
+          ],
+          "text": "2 Nos"
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol2-annexure-3-equipment-7",
+      "pdf_page": 22,
+      "source_physical_row": 8,
+      "serial_number": "7",
+      "equipment_description": "Hydraulic Mobile crane",
+      "printed_deployment_quantity": "2 Nos",
+      "cells": [
+        {
+          "column_number": 1,
+          "field_id": "serial_number",
+          "bbox": [
+            98.98,
+            370.9196,
+            135.36,
+            392.7596
+          ],
+          "text": "7"
+        },
+        {
+          "column_number": 2,
+          "field_id": "equipment_description",
+          "bbox": [
+            135.36,
+            370.9196,
+            368.4,
+            392.7596
+          ],
+          "text": "Hydraulic Mobile crane"
+        },
+        {
+          "column_number": 3,
+          "field_id": "printed_deployment_quantity",
+          "bbox": [
+            368.4,
+            370.9196,
+            546.98,
+            392.7596
+          ],
+          "text": "2 Nos"
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol2-annexure-3-equipment-8",
+      "pdf_page": 22,
+      "source_physical_row": 9,
+      "serial_number": "8",
+      "equipment_description": "High/Long Reach Demolition equipment as\nper the requirement",
+      "printed_deployment_quantity": "1 Nos",
+      "cells": [
+        {
+          "column_number": 1,
+          "field_id": "serial_number",
+          "bbox": [
+            98.98,
+            392.7596,
+            135.36,
+            418.5596
+          ],
+          "text": "8"
+        },
+        {
+          "column_number": 2,
+          "field_id": "equipment_description",
+          "bbox": [
+            135.36,
+            392.7596,
+            368.4,
+            418.5596
+          ],
+          "text": "High/Long Reach Demolition equipment as\nper the requirement"
+        },
+        {
+          "column_number": 3,
+          "field_id": "printed_deployment_quantity",
+          "bbox": [
+            368.4,
+            392.7596,
+            546.98,
+            418.5596
+          ],
+          "text": "1 Nos"
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol2-annexure-3-equipment-9",
+      "pdf_page": 22,
+      "source_physical_row": 10,
+      "serial_number": "9",
+      "equipment_description": "Hydraulic rock breaker with loader",
+      "printed_deployment_quantity": "2 Nos",
+      "cells": [
+        {
+          "column_number": 1,
+          "field_id": "serial_number",
+          "bbox": [
+            98.98,
+            418.5596,
+            135.36,
+            439.3196
+          ],
+          "text": "9"
+        },
+        {
+          "column_number": 2,
+          "field_id": "equipment_description",
+          "bbox": [
+            135.36,
+            418.5596,
+            368.4,
+            439.3196
+          ],
+          "text": "Hydraulic rock breaker with loader"
+        },
+        {
+          "column_number": 3,
+          "field_id": "printed_deployment_quantity",
+          "bbox": [
+            368.4,
+            418.5596,
+            546.98,
+            439.3196
+          ],
+          "text": "2 Nos"
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol2-annexure-3-equipment-10",
+      "pdf_page": 22,
+      "source_physical_row": 11,
+      "serial_number": "10",
+      "equipment_description": "DG set 100kV or higher capacity",
+      "printed_deployment_quantity": "2 Nos",
+      "cells": [
+        {
+          "column_number": 1,
+          "field_id": "serial_number",
+          "bbox": [
+            98.98,
+            439.3196,
+            135.36,
+            460.1396
+          ],
+          "text": "10"
+        },
+        {
+          "column_number": 2,
+          "field_id": "equipment_description",
+          "bbox": [
+            135.36,
+            439.3196,
+            368.4,
+            460.1396
+          ],
+          "text": "DG set 100kV or higher capacity"
+        },
+        {
+          "column_number": 3,
+          "field_id": "printed_deployment_quantity",
+          "bbox": [
+            368.4,
+            439.3196,
+            546.98,
+            460.1396
+          ],
+          "text": "2 Nos"
+        }
+      ],
+      "review_status": "pending_manual_review"
+    }
+  ],
+  "notes": [
+    {
+      "note_number": 1,
+      "pdf_page": 22,
+      "source_text": "1.  Plant and Equipment indicated above is minimum to be deployed at appropriate stage\n        of the work. However, depending on the requirement to complete the work in the\n        stipulated completion period, the tenderer should deploy additional machinery as\n       circumstances warrant at no extra cost.",
+      "review_status": "pending_manual_review"
+    },
+    {
+      "note_number": 2,
+      "pdf_page": 22,
+      "source_text": "2.  Plant and equipment to be mobilized for the work shall be in good serviceable\n        condition.",
+      "review_status": "pending_manual_review"
+    }
+  ],
+  "notes_region": {
+    "bbox": [
+      65.0,
+      470.0,
+      555.0,
+      610.0
+    ],
+    "source_text": "NOTE:\n    1.  Plant and Equipment indicated above is minimum to be deployed at appropriate stage\n        of the work. However, depending on the requirement to complete the work in the\n        stipulated completion period, the tenderer should deploy additional machinery as\n       circumstances warrant at no extra cost.\n    2.  Plant and equipment to be mobilized for the work shall be in good serviceable\n        condition."
+  },
+  "source_context": {
+    "pdf_page": 22,
+    "full_page_text": "169\n BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157       Employer Requirement, Scope of Work &\n                                                                       Technical Specifications\n\n\n             ANNEXURE -3 to EMPLOYER’S REQUIREMENT\n                            (To be submitted by Tenderer)\n\n              MINIMUM PLANTS & EQUIPMENTS FOR THE WORK\n\n                 (TO BE DEPLOYED AS AND WHEN REQUIRED)\n\n     Tenderers should have the following plant and machinery either owned or leased or hired\n     by him.\n\n\n         Sl.\n            Type of equipment required for the work     Proposed to be deployed\n     No\n\n       1   Diamond disc Cutter/floor saw machine with              3 Nos\n               suitable capacity\n       2    Wall Sawing Machine with suitable capacity               3 Nos\n\n       3     Electric Drill Motors/ Hammer drilling                    4 Nos\n            machine\n\n       4    Floor Saw Machine with suitable capacity                4 Nos\n\n       5    Chipping Machine                                   12 Nos\n\n       6    Crusher/Combi Crusher                              2 Nos\n\n       7    Hydraulic Mobile crane                               2 Nos\n\n       8    High/Long Reach Demolition equipment as               1 Nos\n             per the requirement\n       9    Hydraulic rock breaker with loader                      2 Nos\n\n      10  DG set 100kV or higher capacity                       2 Nos\n\n\n  NOTE:\n       1.  Plant and Equipment indicated above is minimum to be deployed at appropriate stage\n           of the work. However, depending on the requirement to complete the work in the\n           stipulated completion period, the tenderer should deploy additional machinery as\n         circumstances warrant at no extra cost.\n       2.  Plant and equipment to be mobilized for the work shall be in good serviceable\n           condition.\n\n\n\n\n\nBangalore Metro Rail Corporation Ltd.                 September 2026           Section Page 19 of 37",
+    "text_blocks": [
+      {
+        "block_number": 0,
+        "bbox": [
+          71.99940490722656,
+          37.728336334228516,
+          526.5408935546875,
+          56.49034118652344
+        ],
+        "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157              Employer Requirement, Scope of Work &  \n \n \n Technical Specifications \n"
+      },
+      {
+        "block_number": 1,
+        "bbox": [
+          71.99996948242188,
+          787.1278076171875,
+          538.54248046875,
+          795.56982421875
+        ],
+        "text": "Bangalore Metro Rail Corporation Ltd. \n \nSeptember 2026                    Section Page 19 of 37 \n"
+      },
+      {
+        "block_number": 2,
+        "bbox": [
+          71.99996948242188,
+          798.4948120117188,
+          538.4083251953125,
+          826.9197998046875
+        ],
+        "text": " \n \n \n"
+      },
+      {
+        "block_number": 3,
+        "bbox": [
+          174.1199188232422,
+          74.64318084716797,
+          425.23284912109375,
+          84.99869537353516
+        ],
+        "text": "ANNEXURE -3 to EMPLOYER’S REQUIREMENT \n"
+      },
+      {
+        "block_number": 4,
+        "bbox": [
+          229.67990112304688,
+          87.84319305419922,
+          381.4273681640625,
+          98.1987075805664
+        ],
+        "text": "(To be submitted by Tenderer) \n"
+      },
+      {
+        "block_number": 5,
+        "bbox": [
+          167.75949096679688,
+          100.44316864013672,
+          443.3468017578125,
+          123.5186538696289
+        ],
+        "text": " \nMINIMUM PLANTS & EQUIPMENTS FOR THE WORK \n"
+      },
+      {
+        "block_number": 6,
+        "bbox": [
+          181.43992614746094,
+          135.84320068359375,
+          429.66729736328125,
+          146.19871520996094
+        ],
+        "text": "(TO BE DEPLOYED AS AND WHEN REQUIRED) \n"
+      },
+      {
+        "block_number": 7,
+        "bbox": [
+          79.0802230834961,
+          158.4031982421875,
+          537.1878662109375,
+          168.7587127685547
+        ],
+        "text": "       Tenderers should have the following plant and machinery either owned or leased or hired \n"
+      },
+      {
+        "block_number": 8,
+        "bbox": [
+          100.32050323486328,
+          171.1231689453125,
+          138.78778076171875,
+          181.4786834716797
+        ],
+        "text": "by him. \n"
+      },
+      {
+        "block_number": 9,
+        "bbox": [
+          109.80046844482422,
+          201.36309814453125,
+          526.3873291015625,
+          224.31858825683594
+        ],
+        "text": "Sl. \nNo \nType of equipment required for the work \nProposed to be deployed \n"
+      },
+      {
+        "block_number": 10,
+        "bbox": [
+          114.11995697021484,
+          234.483154296875,
+          357.7874755859375,
+          257.5586242675781
+        ],
+        "text": "1 \nDiamond disc Cutter/floor saw machine with \nsuitable capacity  \n"
+      },
+      {
+        "block_number": 11,
+        "bbox": [
+          443.27972412109375,
+          234.483154296875,
+          475.0270690917969,
+          244.8386688232422
+        ],
+        "text": "3 Nos \n"
+      },
+      {
+        "block_number": 12,
+        "bbox": [
+          114.11995697021484,
+          260.28314208984375,
+          475.0293273925781,
+          270.6386413574219
+        ],
+        "text": "2 \nWall Sawing Machine with suitable capacity \n3 Nos \n"
+      },
+      {
+        "block_number": 13,
+        "bbox": [
+          114.11995697021484,
+          281.28314208984375,
+          321.7874755859375,
+          304.2386169433594
+        ],
+        "text": "3 \nElectric Drill Motors/ Hammer drilling \nmachine \n"
+      },
+      {
+        "block_number": 14,
+        "bbox": [
+          443.27972412109375,
+          281.28314208984375,
+          475.0270690917969,
+          291.6386413574219
+        ],
+        "text": "4 Nos \n"
+      },
+      {
+        "block_number": 15,
+        "bbox": [
+          114.11995697021484,
+          309.6031494140625,
+          475.0292663574219,
+          319.9586486816406
+        ],
+        "text": "4 \nFloor Saw Machine with suitable capacity \n4 Nos \n"
+      },
+      {
+        "block_number": 16,
+        "bbox": [
+          114.11995697021484,
+          330.6031188964844,
+          478.0270690917969,
+          340.9586181640625
+        ],
+        "text": "5 \nChipping Machine  \n12 Nos \n"
+      },
+      {
+        "block_number": 17,
+        "bbox": [
+          114.11995697021484,
+          352.443115234375,
+          475.0271911621094,
+          362.7986145019531
+        ],
+        "text": "6 \nCrusher/Combi Crusher \n2 Nos \n"
+      },
+      {
+        "block_number": 18,
+        "bbox": [
+          114.11995697021484,
+          373.32305908203125,
+          475.0271911621094,
+          383.6785583496094
+        ],
+        "text": "7 \nHydraulic Mobile crane  \n2 Nos \n"
+      },
+      {
+        "block_number": 19,
+        "bbox": [
+          114.11995697021484,
+          395.1630859375,
+          352.9874267578125,
+          418.11859130859375
+        ],
+        "text": "8 \nHigh/Long Reach Demolition equipment as \nper the requirement \n"
+      },
+      {
+        "block_number": 20,
+        "bbox": [
+          443.27972412109375,
+          395.1630859375,
+          475.0270690917969,
+          405.5185852050781
+        ],
+        "text": "1 Nos \n"
+      },
+      {
+        "block_number": 21,
+        "bbox": [
+          114.11995697021484,
+          420.96307373046875,
+          475.0291748046875,
+          431.3185729980469
+        ],
+        "text": "9 \nHydraulic rock breaker with loader \n2 Nos \n"
+      },
+      {
+        "block_number": 22,
+        "bbox": [
+          110.99995422363281,
+          441.7230529785156,
+          475.0307922363281,
+          452.07855224609375
+        ],
+        "text": "10 \nDG set 100kV or higher capacity \n2 Nos \n"
+      },
+      {
+        "block_number": 23,
+        "bbox": [
+          71.99996948242188,
+          462.4830322265625,
+          75.06725311279297,
+          472.8385314941406
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 24,
+        "bbox": [
+          86.15998840332031,
+          474.9630432128906,
+          123.42725372314453,
+          485.31854248046875
+        ],
+        "text": "NOTE: \n"
+      },
+      {
+        "block_number": 25,
+        "bbox": [
+          72.00044250488281,
+          487.80303955078125,
+          539.2279663085938,
+          599.3185424804688
+        ],
+        "text": "1. Plant and Equipment indicated above is minimum to be deployed at appropriate stage \nof the work. However, depending on the requirement to complete the work in the \nstipulated completion period, the tenderer should deploy additional machinery as \ncircumstances warrant at no extra cost. \n2. Plant and equipment to be mobilized for the work shall be in good serviceable \ncondition. \n \n \n \n"
+      },
+      {
+        "block_number": 26,
+        "bbox": [
+          79.0804443359375,
+          613.56298828125,
+          82.1477279663086,
+          623.9185180664062
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 27,
+        "bbox": [
+          72.00044250488281,
+          636.1229858398438,
+          75.0677261352539,
+          646.478515625
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 28,
+        "bbox": [
+          546.0439453125,
+          24.479991912841797,
+          570.0199584960938,
+          41.38799285888672
+        ],
+        "text": "169\n"
+      }
+    ],
+    "table_region_text": "Sl.\n      Type of equipment required for the work     Proposed to be deployed\nNo\n\n 1   Diamond disc Cutter/floor saw machine with              3 Nos\n       suitable capacity\n 2    Wall Sawing Machine with suitable capacity               3 Nos\n\n 3     Electric Drill Motors/ Hammer drilling                    4 Nos\n     machine\n\n 4    Floor Saw Machine with suitable capacity                4 Nos\n\n 5    Chipping Machine                                   12 Nos\n\n 6    Crusher/Combi Crusher                              2 Nos\n\n 7    Hydraulic Mobile crane                               2 Nos\n\n 8    High/Long Reach Demolition equipment as               1 Nos\n      per the requirement\n 9    Hydraulic rock breaker with loader                      2 Nos\n\n10  DG set 100kV or higher capacity                       2 Nos"
+  },
+  "checks": {
+    "source_hash": "passed",
+    "page_count": "passed",
+    "serial_number_sequence": "passed",
+    "table_region_token_preservation": "passed",
+    "note_line_preservation": "passed",
+    "context_page_matches": "passed"
+  },
+  "limitations": [
+    "Visual cell review remains pending.",
+    "Printed quantities are source requirements, not evidence of bidder-owned equipment.",
+    "Source capacity wording and units are unchanged.",
+    "Token comparison does not verify reading order.",
+    "Bidder compliance has not been assessed.",
+    "Later corrigenda have not been applied.",
+    "Cross-volume consistency has not been checked.",
+    "Contractual applicability has not been approved."
+  ]
+}

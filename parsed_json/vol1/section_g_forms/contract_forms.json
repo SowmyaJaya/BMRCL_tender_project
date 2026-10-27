@@ -1,0 +1,3026 @@
+{
+  "source_id": "bmrcl-volume-1",
+  "source_path": "data/Vol1DLNP1.pdf",
+  "source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+  "section": "G",
+  "title": "Contract Forms",
+  "review_status": "pending_manual_review",
+  "index_page": {
+    "pdf_page": 146,
+    "rotation": 0,
+    "extraction_method": "geometric_sort",
+    "text": "140\n      BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                    Contract forms\n\n\n                    SECTION-G: CONTRACT FORMS\n\n                            (To be submitted by Successful Tenderer only)\n\n\n\n        Sl                               INDEX                                     Section\n\n     NO                                                                               Pg. No\n\n         1      Contract Form 1 - Contract Agreement                                       2\n\n         2      Contract Form 2  - Bank Guarantee for Performance Security  / Mobilisation      6\n\n               Advance / Plant & Machinery Advance / Special Advance / Payment of Retention\n\n              Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.\n\n         3      Contract Form 2A - Insurance Surety Bond for Performance Security / Mobilisation      9\n\n               Advance / Plant & Machinery Advance / Special Advance / Payment of Retention\n\n              Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.\n\n\n\n          Note: - The Contract Forms as above may be modified as considered necessary at the time of\n\n            finalization of the contract.\n\n\n\n\n\n         Bangalore Metro Rail Corporation Ltd.              September-2026              Section Page 1 of 11",
+    "text_blocks": [
+      {
+        "block_number": 0,
+        "bbox": [
+          49.67998123168945,
+          45.29697036743164,
+          540.7049560546875,
+          53.85032653808594
+        ],
+        "text": "        BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                                                   Contract forms \n"
+      },
+      {
+        "block_number": 1,
+        "bbox": [
+          85.07996368408203,
+          774.287841796875,
+          87.58052825927734,
+          782.7298583984375
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 2,
+        "bbox": [
+          85.07994842529297,
+          792.287841796875,
+          542.140380859375,
+          814.0498046875
+        ],
+        "text": "Bangalore Metro Rail Corporation Ltd.                           September-2026 \n                 Section Page 1 of 11 \n \n"
+      },
+      {
+        "block_number": 3,
+        "bbox": [
+          67.67996978759766,
+          74.42428588867188,
+          378.9381408691406,
+          85.6802749633789
+        ],
+        "text": "                                   SECTION-G: CONTRACT FORMS  \n"
+      },
+      {
+        "block_number": 4,
+        "bbox": [
+          85.07996368408203,
+          94.26944732666016,
+          392.406982421875,
+          103.61192321777344
+        ],
+        "text": "                                   (To be submitted by Successful Tenderer only) \n"
+      },
+      {
+        "block_number": 5,
+        "bbox": [
+          85.07994842529297,
+          112.38944244384766,
+          87.84712982177734,
+          121.73191833496094
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 6,
+        "bbox": [
+          77.99995422363281,
+          133.7494354248047,
+          90.12713623046875,
+          143.09190368652344
+        ],
+        "text": "Sl \n"
+      },
+      {
+        "block_number": 7,
+        "bbox": [
+          75.11995697021484,
+          148.7494354248047,
+          92.88714599609375,
+          158.09190368652344
+        ],
+        "text": "NO \n"
+      },
+      {
+        "block_number": 8,
+        "bbox": [
+          276.3602294921875,
+          133.7494354248047,
+          535.9276733398438,
+          143.09190368652344
+        ],
+        "text": "INDEX \nSection \n"
+      },
+      {
+        "block_number": 9,
+        "bbox": [
+          499.32049560546875,
+          148.7494354248047,
+          533.7710571289062,
+          158.09190368652344
+        ],
+        "text": "Pg. No \n"
+      },
+      {
+        "block_number": 10,
+        "bbox": [
+          89.15996551513672,
+          170.3494110107422,
+          521.2860107421875,
+          179.69187927246094
+        ],
+        "text": "1 \n \nContract Form 1 - Contract Agreement \n2 \n"
+      },
+      {
+        "block_number": 11,
+        "bbox": [
+          89.15996551513672,
+          191.8293914794922,
+          485.0473327636719,
+          201.17185974121094
+        ],
+        "text": "2 \n \nContract Form 2 - Bank Guarantee for Performance Security / Mobilisation \n"
+      },
+      {
+        "block_number": 12,
+        "bbox": [
+          124.5551986694336,
+          206.8293914794922,
+          485.0473937988281,
+          216.17185974121094
+        ],
+        "text": "Advance / Plant & Machinery Advance / Special Advance / Payment of Retention \n"
+      },
+      {
+        "block_number": 13,
+        "bbox": [
+          124.5602035522461,
+          221.8293914794922,
+          476.4075622558594,
+          231.17185974121094
+        ],
+        "text": "Money / Safe Custody of Materials Supplied by Employer to the Contractor etc. \n"
+      },
+      {
+        "block_number": 14,
+        "bbox": [
+          513.0003662109375,
+          191.8293914794922,
+          521.2860107421875,
+          201.17185974121094
+        ],
+        "text": "6 \n"
+      },
+      {
+        "block_number": 15,
+        "bbox": [
+          89.15996551513672,
+          243.4293670654297,
+          485.0475769042969,
+          252.77183532714844
+        ],
+        "text": "3 \n \nContract Form 2A - Insurance Surety Bond for Performance Security / Mobilisation \n"
+      },
+      {
+        "block_number": 16,
+        "bbox": [
+          124.5551986694336,
+          258.4293518066406,
+          485.0473937988281,
+          267.7718505859375
+        ],
+        "text": "Advance / Plant & Machinery Advance / Special Advance / Payment of Retention \n"
+      },
+      {
+        "block_number": 17,
+        "bbox": [
+          124.5602035522461,
+          273.4293518066406,
+          476.4075622558594,
+          282.7718505859375
+        ],
+        "text": "Money / Safe Custody of Materials Supplied by Employer to the Contractor etc. \n"
+      },
+      {
+        "block_number": 18,
+        "bbox": [
+          513.0003662109375,
+          243.4293670654297,
+          521.2860107421875,
+          252.77183532714844
+        ],
+        "text": "9 \n"
+      },
+      {
+        "block_number": 19,
+        "bbox": [
+          92.27996063232422,
+          294.7893371582031,
+          95.0471420288086,
+          304.1318359375
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 20,
+        "bbox": [
+          92.27996063232422,
+          312.7893371582031,
+          538.4475708007812,
+          322.1318359375
+        ],
+        "text": "Note: - The Contract Forms as above may be modified as considered necessary at the time of \n"
+      },
+      {
+        "block_number": 21,
+        "bbox": [
+          92.27996063232422,
+          327.789306640625,
+          222.24708557128906,
+          337.1318054199219
+        ],
+        "text": "finalization of the contract. \n"
+      },
+      {
+        "block_number": 22,
+        "bbox": [
+          85.0799560546875,
+          345.9093017578125,
+          87.84713745117188,
+          355.2518005371094
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 23,
+        "bbox": [
+          306.9595642089844,
+          360.30926513671875,
+          309.72674560546875,
+          760.6114501953125
+        ],
+        "text": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n"
+      },
+      {
+        "block_number": 24,
+        "bbox": [
+          39.599998474121094,
+          24.479991912841797,
+          63.57600021362305,
+          41.38799285888672
+        ],
+        "text": "140\n"
+      }
+    ],
+    "has_extracted_text": true,
+    "review_status": "pending_manual_review"
+  },
+  "preamble": [],
+  "removed_lines": [
+    {
+      "pdf_page": 147,
+      "text": "141",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 147,
+      "text": "   BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                    Contract forms",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 147,
+      "text": "      Bangalore Metro Rail Corporation Ltd.              September-2026              Section Page 2 of 11",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 148,
+      "text": "142",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 148,
+      "text": "      BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                    Contract forms",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 148,
+      "text": "         Bangalore Metro Rail Corporation Ltd.              September-2026              Section Page 3 of 11",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 149,
+      "text": "143",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 149,
+      "text": "    BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                    Contract forms",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 149,
+      "text": "       Bangalore Metro Rail Corporation Ltd.              September-2026              Section Page 4 of 11",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 150,
+      "text": "144",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 150,
+      "text": "      BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                    Contract forms",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 150,
+      "text": "         Bangalore Metro Rail Corporation Ltd.              September-2026              Section Page 5 of 11",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 151,
+      "text": "145",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 151,
+      "text": "    BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                    Contract forms",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 151,
+      "text": "       Bangalore Metro Rail Corporation Ltd.              September-2026              Section Page 6 of 11",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 152,
+      "text": "146",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 152,
+      "text": "      BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                    Contract forms",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 152,
+      "text": "         Bangalore Metro Rail Corporation Ltd.              September-2026              Section Page 7 of 11",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 153,
+      "text": "147",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 153,
+      "text": "    BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                    Contract forms",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 153,
+      "text": "       Bangalore Metro Rail Corporation Ltd.              September-2026              Section Page 8 of 11",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 154,
+      "text": "148",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 154,
+      "text": "      BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                    Contract forms",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 154,
+      "text": "         Bangalore Metro Rail Corporation Ltd.              September-2026              Section Page 9 of 11",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 155,
+      "text": "149",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 155,
+      "text": "    BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                    Contract forms",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 155,
+      "text": "       Bangalore Metro Rail Corporation Ltd.              September-2026              Section Page 10 of 11",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 156,
+      "text": "150",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 156,
+      "text": "      BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                    Contract forms",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 156,
+      "text": "         Bangalore Metro Rail Corporation Ltd.              September-2026              Section Page 11 of 11",
+      "reason": "Page header, footer or booklet page number"
+    }
+  ],
+  "forms": [
+    {
+      "form_id": "contract_form_1",
+      "form_number": "1",
+      "title": "Contract Agreement",
+      "heading_line": "CONTRACT FORM- 1",
+      "document_role": "template",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 147,
+          "text": "CONTRACT FORM- 1\n\n\n                      CONTRACT AGREEMENT\n\n       This Contract Agreement (hereinafter called the “Contract”) is made at Bangalore on ……..…day of\n\n    ……………by and between:\n\n       Bangalore Metro Rail Corporation Limited, a company incorporated under companies act 1956\n       represented by the Managing Director, with office located at  III Floor, BMTC Complex, K.H.Road,\n        Shantinagar, Bangalore 560 027, hereinafter referred to as the “BMRCL” or the “Employer”, as the\n       case may be, which expression shall unless excluded by or repugnant to the context or meaning thereof\n      be deemed to include its successors and assigns of the one part, and;\n\n          .........................................................…………………….. [Note 1] comprising:\n\na)          ........................................................,  a  company  registered  and  existing  under  the  laws  of\n\n             ................................, with head office located at ........................................................, represented by\n\n       Mr.  ....................................... and Mr.  ....................................... authorised  to sign and bind the\n\n       company, under the Power of Attorney  dated...................................... and the Board Resolution\n\n            dated..................................... [Note 5] AND\n\nb)          ........................................................,  a  company  registered  and  existing  under  the  laws  of\n\n             ................................, with head office located at................................................................ represented\n\n       by Mr.  ....................................... and Mr.  ....................................... authorised to sign and bind the\n\n       company, under the Power of Attorney  dated...................................... and the Board Resolution\n\n            dated..................................... [Note 5] AND\n\nc)          ........................................................,  a  company  registered  and  existing  under  the  laws  of\n\n             ................................, with head office located at................................................................ represented\n\n       by Mr.  ....................................... and Mr.  ....................................... authorised to sign and bind the\n\n       company, under the Power of Attorney  dated...................................... and the Board Resolution\n\n            dated..................................... [Note 5]\n\n\n\n       [Note 2] who each of which shall be jointly and severally responsible to the Employer under the Contract\n         for the Bangalore Metro Rail Project as per conditions agreed to by the Employer;\n\n\n        Hereinafter [Note 3] collectively referred to as the “Contractor” which expression shall unless excluded\n       by or repugnant to the context or meaning thereof be deemed to include its successors and assigns of\n        the other part.\n\n\n     WHEREAS the Contractor has established a ........................[Note 4] in accordance with Indian law and\n        offered a tender for the construction of a rail based mass rapid transport system by execution and\n        completion, and remedying any defects in the Works of:(Name of the work)----------------------------------\n           ------------------------------------------------------------------------------------------------------------------------------\n\n      Tender Notification No ---------------------------------------------------- Dated --.--. ----. and agrees to undertake\n       performance of the Work under the terms and conditions set forth in this Contract.\n\n\n     AND WHEREAS the Employer agrees to hire and the Contractor agrees to be hired to implement\n       the:(Name of the work)-------------------------------------------------------------------------------------------------------\n           ---------------------------------------------------------\n\n       Tender Notification No ---------------------------------------------------- Dated --.--. ----.\n\n       Under the terms and conditions specified  in  this Contract Agreement and the other Contract\n       Documents.\n     Now THEREFORE the parties hereby agree as follows:"
+        },
+        {
+          "pdf_page": 148,
+          "text": "Clause 1 Words and Expression\n\n             In this Contract all the words and expressions shall have the same meanings as are respectively\n           assigned to them in the conditions of contract hereinafter referred to,\n\n   Clause 2  the Contract Documents,\n\n          The following shall deem to form and be read and construed as a part of this Contract Agreement\n\n            provided any of the provisions therein are not inconsistent with the present contract agreement:\n              1.  Letter of Acceptance.\n\n              2.  Clarifications, Addenda, Corrigenda Issued to Tender document (if any)\n\n              3.  Pricing Document\n\n              4.  Special Conditions of Contract\n\n              5.  Contract forms\n\n              6.  General Conditions of Contract\n\n              7.  Employer’s Requirement & Technical Specifications\n\n              8.  Drawings\n\n              9.  Any other document forming part of the Contract\n\n               All of the foregoing documents, together with this Contract Agreement, referred to herein as the\n            Contract.  Also incorporated into the Contract, and made part hereof, are  all Standard codes,\n             specifications of MORTH/CPWD/KPWD/IRS as applicable, and similar requirements that are referred\n             to therein. The ‘Priority of documents’ will be as given in clause 1.5 of GCC.\n\n   Clause 3 Obligations of the Contractor:\n\n         The mutual rights and Obligations of the Employer and the Contractor shall be as set forth in the\n            contract and in particular: -\n\n           3.1 The Contractor agrees, subject to the terms and conditions of the Contract, to perform efficiently\n          and faithfully all of the work of (Name of the work)-------------------------------------------------------------------\n                ---------------------------------------------------------------------------------------------\n\n          Tender Notification No  ---------------------------------------------------- Dated  --.--. ----.and other  facilities\n             requisite for or incidental to the successful completion of the Works and in carrying out all duties and\n            obligations imposed by the Contract.\n\n\n            3.2 The Contractor shall remedy, at no extra cost to the Employer, the defect or failure (fair wear and\n             tear excluded) after any part of the Work are taken over by the Employer until the end of Defects\n               Liability Period.\n\n            3.3 The Contractor shall also remedy, at no extra cost to the Employer, the defect or failure of any\n           equipment provided in the Works and any defects in materials supplied and workmanship up to end\n             of warranty period.\n\n   Clause 4 Obligations of the Employer:\n\n         The Employer agrees, subject to the terms and conditions of the Contract, to pay the Contractor the\n         amount specified, and at the rates and terms and in the manner set forth in the Contract.\n\n   Clause 5 Contract Price:\n\n             5.1. Employer agrees to pay the Contractor total amount mentioned below (hereinafter called 'the\n            Contract Price') and the Contractor agrees to accept the total amount mentioned below for the\n            execution, completion, maintenance / rectification of defects and guarantee for the works carried out\n          by him as part of his obligations, responsibilities and liabilities under and according to the provisions\n          and obligations imposed on him by the Contract.\n\n\n\n                    (i)      Indian Rupees……………………………………...  (....................................Rs.) and Output\n\n              GST as applicable."
+        },
+        {
+          "pdf_page": 149,
+          "text": "5.2. The contract price mentioned above  will be increased or decreased during the period of\n        performance of the contract as specifically provided,  if any, in the General or Special Conditions of\n         Contract and no additional amount for any other account whatsoever shall be payable to the Contractor.\n\n Clause 6 Completion Time:\n\n       The Contractor shall complete whole of the Works within.............................. (.........) months from the\n       Commencement Date (date of signing the ‘Contract Agreement’). The Defect Liability Period is 12\n         (Twelve) months from the date mentioned in the Final Taking over Certificate for whole of the Works.\n\n Clause7 Integration\n\n       The Employer and the Contractor agree that this Contract Agreement, together with the other Contract\n        Documents, expresses all of the agreements, understandings, promises, and covenants of the parties,\n        and  integrates,  combines,  and  supersedes   all  prior  and  contemporaneous  negotiations,\n         understandings, and agreements, whether written or oral and no modification or alteration of the\n         Contract Documents shall be valid or binding on either party, unless expressed in writing and executed\n          with the same formality as this Contract Agreement, except as may otherwise be specifically provided\n           in the Contract Documents.\n\n Clause 8 Governing Law\n\n         This Contract is enforceable and construed under the applicable laws of the Republic of India.\n\n Clause 9 Language\n\n         This Contract Agreement and the other Contract Documents are made in the English language.\n\nClause 9-A Notices:\n\n       The Address for service of all documents / notices arising out of or in connection with this contract\n          shall be:\n           (a) Upon Employer: Bangalore Metro Rail Corporation Ltd, 3rd Floor, BMTC Complex, K.H. Road,\n             Shantinagar, Bengaluru – 560027, Karnataka, India.\n           Marked for the attention of Executive Director.\n           (b) Upon the Contractor: --------------------------------------------------------------------(Name and address of\n              the contractor)\n           The above notices can be sent either by E-mail to the respective E-mail addresses of the parties\n              or by registered post to the above mentioned addresses of the parties.\n\n Clause 10 Jurisdiction of Court\n\n       The Courts at Bangalore shall have the exclusive jurisdiction in respect of all the disputes arising out\n          of this Agreement between the parties.\n\n\n        IN WITNESS WHEREOF, the parties hereto have caused this Contract to be signed in their respective\n\n       names by their authorised representatives as of the day and year first above written\n\n                  For BMRCL                       [Note 6] for …………...................,\n              The Employer                       The Contractor\n              Bangalore Metro Rail                           (a) …………………………………….\n                Corporation Limited                  …………………………………….\n\n\n\n                      (                         )                                    (                         )\n                       --------------------------                                     --------------------------\n\n\n               WITNESS\n\n\n                                                               (b) For …………………………………….\n                      (                         )              ……………………………\n                       --------------------------"
+        },
+        {
+          "pdf_page": 150,
+          "text": "(                         )\n                                                                                         --------------------------\n\n\n                                                                           (c) …………………………………….\n                              ……………………………\n\n\n\n                                                                                         (                         )\n                                                                                         --------------------------\n\n\n\n\n\n                                                          WITNESS\n\n\n\n                                                                                               (                      )\n                                                                                             --------------------------\n\n\n\n\n\n   Notes:  (for preparation of but not for inclusion in the engrossment of the Contract Agreement)\n\n   1           If the Contractor comprises a partnership, joint venture, liability will be joint and several, and each\n\n         member thereof must be identified.\n\n    2.       In the case that the Contractor comprises a single company, this line should be deleted entirely, as\n\n            also should be paragraphs (b) and (c) above.\n\n    3.       In the case that the Contractor comprises a single company, the word “collectively” should be deleted\n\n           from this line.\n\n    4.      Enter the appropriate nature of the Contractor; company, partnership, joint venture as the case may\n\n           be.\n\n    5.      Enter the date of the appropriate resolution.\n\n    6.          If the Contractor comprises a partnership, joint venture, each member thereof must execute.\n\n    7.     The required Stamp duty in accordance with Karnataka Stamp Act is to be borne by the contractor."
+        }
+      ]
+    },
+    {
+      "form_id": "contract_form_2",
+      "form_number": "2",
+      "title": "Bank Guarantee",
+      "heading_line": "CONTRACT FORM- 2",
+      "document_role": "template",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 151,
+          "text": "CONTRACT FORM- 2\n\n\n         FORM OF BANK GUARANTEE FOR ………………………… [to be filled as per Note-1]\n\n                                              (Refer GCC clause …..)\n\n                         (To be stamped in accordance with the Stamp Act of the Country of Issuing Bank)\n\n     To\n\n       Bangalore Metro Rail Corporation Limited (BMRCL)\n         3rd Floor, BMTC Complex,\n\n       K.H. Road, Shanthinagar\n\n       Bengaluru – 560027,\n\n       Karnataka, INDIA.\n\n\n1.  WHEREAS __________ [Name and Address of the Contractor] (hereinafter referred to as the “Contractor”) has\n    undertaken  for due performance  of the Contract,  in pursuance  of LoA/Contract No. ____________  for\n    _________________________ [Description of the Contract work to be specified] (hereinafter referred to as “the\n     Contract”). The Contract was awarded by Bangalore Metro Rail Corporation Limited (hereinafter referred to as\n     the “Employer” or “BMRCL”), which expression shall unless repugnant to the context or the meaning thereof,\n     include its successors, administrators, executors and assignees, to the Contractor.\n\n\n2.  AND WHEREAS it has been stipulated in the Contract that the Contractor shall furnish to the Employer with an\n     unconditional and irrevocable Bank Guarantee for                                 2.1 (Performance Security / Mobilization\n    Advance/ Plant & Machinery Advance/ Special Advance/ Retention Money/ Safe custody of materials) for the\n   sum specified herein below as security for                             2.2 (compliance of the obligations and performance\n     of the Contractor/ such Advance Payment/ Retention Money/ Employer’s materials under Contractor’s custody).\n     In pursuance to this M/s_________ (The Contractor) has requested for issuance of the Bank Guarantee for the\n   sum specified herein below.\n\n\n3.  AND WHEREAS we __________ [Name and full address of the Bank including Email address] having registered\n     office at _________________ (hereinafter referred to as the “Bank”), which expression shall unless repugnant to\n     the context or the meaning thereof, include  its successors, administrators, executors, assignees, and the\n    correspondent Bank hereby agrees to give the Employer on behalf of the Contractor such a Bank Guarantee\n    drawn and payable at Bengaluru branch.\n\n\n4.  NOW therefore, the Bank hereby affirm, that  it is the guarantor and is responsible to the Employer and their\n    successors, on behalf of the Contractor ‘up to a total sum of _________________________________________\n     [the amount of Guarantee to be specified in figure and words in the respective currency/ies in which the contract price is\n     payable]. Further, the Bank hereby unconditionally, irrevocably and without demur undertake to immediately pay,\n     the Employer upon the Employer’s first written demand and without cavil, or arguments any sum or sums within\n     the limits of the sum specified in this Bank Guarantee as aforesaid without the Employer being required to prove\n     or to show grounds or reasons for the demand, by depositing/crediting to the Current Account of the Employer,\n     the sums specified herein.\n\n\n5.   This Bank Guarantee is encashable at the Issuing Bank’s designated Branch in Bengaluru, Karnataka, India as\n    mentioned below:\n\n\n      Name of the Bank, Branch and contact details, Address, telephone no: & Fax No: E-mail Address Branch Manager/s\n       name &  Mobile  No:  Bank  Zonal   Office  Address,  Telephone  No,  Fax  Number,  E-mail  Address:\n       ______________________________\n\n                                    OR\n    This e- Bank Guarantee shall be encashable at the issuing branch of the Bank through NeSL portal.\n\n\n6.  The Bank hereby confirms that the Bank is on the SFMS (Structural Finance Messaging System) platform and\n     shall invariably send an advice of the Bank Guarantee to the designated Bank of the Employer (Bangalore Metro\n     Rail Corporation Limited) as given below:"
+        },
+        {
+          "pdf_page": 152,
+          "text": "Sl. No.   Particulars            Details\n                          i      Name of Beneficiary   Bangalore Metro Rail Corporation Limited\n                           ii      Name of Bank        Bank of India\n                          iii       Branch              Cantonment Branch, Bengaluru.\n                iv       Address of Branch     49, Jyothi Mahal,\n                                                    St. Mark’s Road, Bangalore – 560 001\n            v        Account No.         840420110000760\n                vi      IFSC Code:          BKID0008404\n\n\n   7.  This Bank Guarantee shall be encashed at the demand of the Employer on or before the due date.\n\n   8.  The Employer shall have rights to encash this Bank Guarantee at any time during the validity period and the\n       ‘Contractor’ shall have no right or claim whatsoever in the matter of encashment of the Bank Guarantee amount\n      by the ‘Employer’. The Bank will have their responsibility in terms of the guarantee and obligation, to make\n      immediate payment to the ‘Employer’, without the consent of the ‘Contractor’ and without referring the matter to\n       the ‘Contractor’.\n\n   9.  The Bank shall be liable to pay the ‘Employer’, any amount up to and inclusive of the aforementioned full amount\n      upon written order from the ‘Employer’ to indemnify the ‘Employer’ for any liability or damage resulting from any\n       defects and/or shortcomings of the ‘Contractor’ and/or the debts the ‘Contractor’ may have incurred with the\n       ‘Employer’ and/or any parties involved in the Works under the Contract mentioned above, whether these defects\n       and/or shortcomings and/or debts are actual and/or estimated and/or expected. The Bank will deliver the money\n       required by the ‘Employer’ immediately on demand without delay without reference to the ‘Contractor’ and without\n       the necessity of a previous notice or of judicial or administrative procedures and without it being necessary to\n      prove to the Bank the liability or damages resulting from any defects or shortcomings or debts of the ‘Contractor’.\n\n\n  10.  Courts at Bengaluru, Karnataka, India shall have exclusive jurisdiction for adjudicating the disputes arising out of\n       the encashment of the Guarantee, and, the said Bank undertakes not to revoke this Guarantee during its\n       currency, except with the previous consent of the ‘Employer’ in writing and agree that any change in the\n       constitution of the Bank shall not discharge its liability hereunder.\n\n\n  11.  This Bank Guarantee will not be discharged due to the change in the constitution of the ‘Contractor’ or change in\n       the constitution of the Bank.\n\n\n  12.  This Deed of guarantee is signed and executed by Shri/Smt ______________and Shri/Smt ______who is/are\n       authorized by the Bank for issuing the guarantee on its behalf and their ID No/s. and Email address/es being\n      ________ & ________ and ________ & ________ respectively.\n\n\n  13. The Bank’s  liability under  this Guarantee shall not exceed the amount of______ [Indian Rupees/Foreign\n       Currency/ies to be specified in words and figures].\n\n\n  14.  This Bank guarantee shall be valid till _________ [Date to be mentioned].\n\n\n  15. The pendency of any dispute or legal proceedings shall not affect this guarantee in any manner.\n\n\n  16.   It is hereby agreed that the liability of the Bank under this guarantee shall cease on the happening of any of the\n       following events:\n\n          a) Payment by the Bank of the Guaranteed sum in full to the ‘Employer’,\n                                                                or\n          b) Issue of written communication by the Employer, to the Bank, along with the original Bank Guarantee\n             discharging the Bank of its liability covered by this Bank Guarantee and in case of electronic Bank\n           Guarantee (e-BG), after release/discharge of e-BG by the Employer through NeSL portal.\n\n\n\n                             SIGNATURE AND SEAL OF THE GUARANTOR\n\n                                DATE: ___________________"
+        },
+        {
+          "pdf_page": 153,
+          "text": "NAME OF THE BANK: ______________________________\n\n                            ADDRESS: _______________________________________\n\n\n\nNotes:\n\n1.  Any one of the following type of ‘Bank Guarantee’ is to be inserted in the heading after the word ‘FORM OF\n   BANK GUARANTEE FOR’ according to the purpose:\n\n     a) “PERFORMANCE SECURITY” or\n\n     b)  “MOBILIZATION ADVANCE PAYMENT” / “PLANT & MACHINERY ADVANCE PAYMENT” / “SPECIAL\n      ADVANCE PAYMENT” or\n\n     c) “PAYMENT OF RETENTION MONEY” or\n\n     d)  “SAFE CUSTODY OF MATERIALS”.\n\n\n2.   In Para-2, insert from the bracket the appropriate option according to the type2.1 and purpose2.2 of the BG to fill\n      in the blanks.\n\n3.  The stamp paper of appropriate value shall be purchased in the name of the bank, who issues the “Bank\n    Guarantee”.\n\n4.  The Bank Guarantee to be submitted shall be got issued from an Indian Scheduled Bank (excluding Cooperative\n    Bank) or from a Scheduled Foreign Bank as defined in Section 2(e) of RBI Act 1934 read with second schedule.\n\n5.  The above format shall be used for e-Bank Guarantee also.\n\n6.   For issuance of e-BG, the UIN (PAN No.) of BMRCL is AAACB4881D.\n\n7.  Tender No. as mentioned in relevant para of tender document shall be the reference to be mentioned in the e-\n    BG."
+        }
+      ]
+    },
+    {
+      "form_id": "contract_form_2a",
+      "form_number": "2A",
+      "title": "Insurance Surety Bond",
+      "heading_line": "CONTRACT FORM- 2A",
+      "document_role": "template",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 154,
+          "text": "CONTRACT FORM- 2A\n\n     FORM OF INSURANCE SURETY BOND FOR ………………………… [to be filled as per Note-1]\n\n                                              (Refer GCC Clause ….)\n\n             (To be stamped in accordance with the Stamp Act of the Country of Issuing Surety Insurer)\n\n  To,\n\n  Bangalore Metro Rail Corporation Limited,\n\n  3rd Floor, BMTC Complex, Shanthinagar,\n\n  Bengaluru – 560027.\n\n\n\n WHEREAS __________ [Name and Address of the Contractor] (hereinafter referred to as the “Contractor”) has\n  undertaken   for  due  performance   of  the  Contract,   in  pursuance   of  LoA  No.  ____________   for\n  _________________________ [Description of the Contract work to be specified] (hereinafter referred to as “the\n  Contract”).\n\n  The Contract was awarded by Bangalore Metro Rail Corporation Limited (hereinafter referred to as the “Employer” or\n  “BMRCL”), which expression shall unless repugnant to the context or the meaning thereof, include its successors,\n  administrators, executors and assignees.\n\n AND WHEREAS  it has been stipulated in the Contract that the Contractor shall furnish to the Employer with an\n  unconditional and irrevocable Insurance Surety Bond for ……………….                            2.1 (Performance Security /\n  Mobilization Advance/ Plant & Machinery Advance/ Special Advance/ Retention Money) for the sum specified herein\n  below as security for ……………………                              2.2 (compliance of the obligations and performance of the\n  Contractor/ such Advance Payment/ Retention Money).\n\n  In pursuance to this M/s________ (The Contractor) has requested for issuance of the Insurance Security Bond for the\n  sum of ___________________________________________ [the amount of Guarantee to be specified in figure and\n  words in the respective currency/ies in which the contract price is payable].\n\n AND WHEREAS we __________ [Name and full address of the Surety Insurer  including Email address] having\n  registered office at _________________ (hereinafter referred to as the “Surety Insurer ”), which expression shall\n  unless repugnant to the context or the meaning thereof, include its successors, administrators, executors, assignees,\n  hereby agrees to give the Employer on behalf of the Contractor such a Insurance Surety Bond drawn and payable at\n  Bengaluru branch.\n\n NOW, THEREFORE, the Surety Insurer hereby, unconditionally and irrevocably, guarantees and affirms as follows:\n\n    1.  The Surety Insurer herby unconditionally and irrevocably guarantees the due and faithful performance of the\n        Contractor's obligations during the (Construction Period/ Defects Liability Period and Maintenance Period under\n      and in accordance with the Contract, and agrees and undertakes to pay to the Employer, upon its mere first\n         written demand, and without any demur, reservation, recourse, contest or protest, and without any reference to\n        the Contractor, such sum or sums up to an aggregate sum of the Surety Bond Amount as the Employer shall\n        claim, without the Employer being required to prove or to show grounds or reasons for its demand and/or for the\n      sum specified therein.\n\n    2. A letter from the Employer, under the hands of an officer not below the rank of General Manager, BMRCL, that\n        the Contractor has committed default in the due and faithful performance of all or any of its obligations under\n      and in accordance with the Contract shall be conclusive, final and binding on the Surety Insurer. The Surety\n        Insurer further agrees that the Employer shall be the sole judge as to whether the Contractor is in default in due\n      and faithful performance of its obligations during and under the Contract and its decision that the Contractor is\n         in default shall be final and binding on the Surety Insurer, notwithstanding any differences between the Employer\n      and the Contractor, or any dispute between them pending before any court, tribunal, arbitrators or any other\n       Employer or body, or by the discharge of the Contractor for any reason whatsoever.\n\n    3.  In order to give effect to this Surety Bond, the Employer shall be entitled to act as if the Surety Insurer were the\n         principal debtor and any/Change in the constitution of the Contractor and/or the Surety Insurer, whether by their\n        absorption with any other body or corporation or otherwise, shall not in any way or manner affect the liability or\n        obligation of the Surety Insurer under this Surety Bond.\n\n    4.    It shall not be necessary, and the Surety Insurer hereby waives any necessity, for the Employer to proceed\n        against the Contractor before presenting to the Surety Insurer its demand under this Surety Bond."
+        },
+        {
+          "pdf_page": 155,
+          "text": "5.  The Employer shall have the liberty, without affecting in any manner the liability of the Surety Insurer under this\n     Surety Bond, to vary at any time, the terms and conditions of the Contract or to extend the time or period for the\n     compliance with, fulfillment and/ or performance of all or any of the obligations of the Contractor contained in\n      the Contract or to postpone for any time, and from time to time, any of the rights and powers exercisable by the\n     Employer against the Contractor, and either to enforce or forbear from enforcing any of the terms and conditions\n     contained in the Contract and/or the securities available to the Employer, and the Surety Insurer shall not be\n     released from its liability and obligation under these presents by any exercise by the Employer of the liberty with\n     reference to the matters aforesaid or by reason of time being given to the Contractor or any other forbearance,\n      indulgence, act or omission on the part of the Employer or of any other matter or thing whatsoever which under\n     any law relating to sureties and guarantors would but for this provision have the effect of releasing the Surety\n      Insurer from its liability and obligation under this Surety Bond and the Surety Insurer hereby waives all of its\n      rights under any such law.\n\n  6.  This Surety Bond is in addition to and not in substitution of any other Surety Bond or security now or which may\n      hereafter be held by the Employer in respect of or relating to the Contract or for the fulfillment, compliance and/or\n     performance of all or any of the obligations of the Contractor under the Contract.\n\n  7.  Notwithstanding anything contained hereinbefore, the liability of the Surety Insurer under this Surety Bond is\n      restricted to the Surety Bond Amount and this Surety Bond will remain in force for the period specified in\n     paragraph 8 below and unless a demand or claim in writing is made by the Employer on the Surety Insurer under\n       this Surety Bond  all rights of the Employer under this Surety Bond  shall be forfeited and the Surety Insurer\n      shall be relieved from its liabilities hereunder.\n\n  8.  The Surety Bond ceases to be in force and effect on **** Unless a demand or claim under this Surety Bond is\n    made in writing before expiry of the Surety Bond, the Surety Insurer shall be discharged from its liabilities\n     hereunder.\n\n  9.  The Surety Insurer undertakes not to revoke this Surety Bond during its currency, except with the previous\n     express consent of the Employer in writing and declares and warrants that it has the power to issue this Surety\n    Bond and the undersigned has full powers to do so on behalf of the Surety Insurer.\n\n  10. Any notice by way of request, demand or otherwise hereunder may be sent by post addressed to the Surety\n      Insurer at its above referred branch, which shall be deemed to have been duly authorized  to receive such\n      notice and to effect payment thereof forthwith, and if sent by post it shall be deemed to have been given at\n      the time when it ought to have been delivered in due course of post and in proving such notice, when given by\n      post, it shall be sufficient to prove that the envelope containing the notice was posted and a certificate signed\n     by an officer & the Employer that the envelope was so posted shall be conclusive.\n\n  11. This Surety Bond shall come into force with immediate effect and shall remain in force and effect up to the date\n      specified in paragraph 8 above or until it is released earlier by the Employer pursuant to the provisions of the\n      Contract.\n\n  12. This Surety Bond is subject to the Uniform Rules for Demand Guarantees (URDG) 2010 Revision, ICC\n      Publication No. 758, except that the supporting statement under Article 15(a) is hereby excluded.\n\n  13. This Surety Bond shall also be operatable at our …………………., branch at Bangalore, from whom,\n      confirmation regarding the issue of this Surety Bond or extension/renewal thereof shall be made available on\n     demand. In the contingency of this Surety Bond being invoked and payment here under claimed, the said branch\n      shall accept such invocation letter and make payment of amounts so demanded under the said invocation.\n\n  14. The Insurance Surety Bond shall be verified from the specific portal created for this purpose.\n\n\n\nSigned and sealed this……...Day of………...,26…………at…………………\n\nSIGNED, SEALED AND DELIVERED For and on behalf of the Surety Insurer by:\n\n(Signature)\n\n(Name)\n\n(Designation)\n\n(Code Number)\n\n(Address)"
+        },
+        {
+          "pdf_page": 156,
+          "text": "Notes:\n\n       1.  Any one of the following types of ‘Insurance Surety Bond is to be inserted in the heading after the word\n       ‘FORM OF INSURANCE SURETY BOND FOR’ according to the purpose:\n\n           a) “PERFORMANCE SECURITY” or\n\n          b) “MOBILIZATION ADVANCE PAYMENT” / “PLANT & MACHINERY ADVANCE PAYMENT” /\n           “SPECIAL ADVANCE PAYMENT” or\n\n           c) “PAYMENT OF RETENTION MONEY”\n\n       2.  In Para-2, insert from the bracket the appropriate option according to the type2.1 and purpose2.2 of the\n         Insurance Surety Bond to fill in the blanks.\n\n       3.  The stamp paper of appropriate value shall be purchased in the name of the Surety Insurer, who issues\n          the “Insurance Surety Bond”.\n\n       4.  The Insurance Surety Bond to be submitted shall be got issued from an IRDA approved Surety Insurer."
+        }
+      ]
+    }
+  ],
+  "template_handling": "Source wording, notes and visible blank-field markers are preserved as extracted text. No project details or signatures have been filled in. Blank fields and table cells are not reconstructed.",
+  "layout_pages": [
+    {
+      "pdf_page": 147,
+      "rotation": 0,
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            49.67998123168945,
+            45.29697036743164,
+            540.7049560546875,
+            53.85032653808594
+          ],
+          "text": "        BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                                                   Contract forms \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            85.07996368408203,
+            774.287841796875,
+            87.58052825927734,
+            782.7298583984375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            85.07994842529297,
+            792.287841796875,
+            542.140380859375,
+            814.0498046875
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                           September-2026 \n                 Section Page 2 of 11 \n \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            251.99989318847656,
+            74.04320526123047,
+            365.10723876953125,
+            84.39871978759766
+          ],
+          "text": "CONTRACT FORM- 1 \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            306.9598693847656,
+            86.64318084716797,
+            310.02716064453125,
+            96.99869537353516
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            242.87989807128906,
+            103.94430541992188,
+            393.57391357421875,
+            115.2002944946289
+          ],
+          "text": "CONTRACT AGREEMENT \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            92.27996063232422,
+            123.7894058227539,
+            543.7269897460938,
+            133.1318817138672
+          ],
+          "text": "This Contract Agreement (hereinafter called the “Contract”) is made at Bangalore on ……..…day of \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            56.75996780395508,
+            138.90940856933594,
+            543.727783203125,
+            208.73191833496094
+          ],
+          "text": "……………by and between: \n \nBangalore Metro Rail Corporation Limited, a company incorporated under companies act 1956 \nrepresented by the Managing Director, with office located at III Floor, BMTC Complex, K.H.Road, \nShantinagar,  Bangalore 560 027, hereinafter referred to as the “BMRCL” or the “Employer”, as the \ncase may be, which expression shall unless excluded by or repugnant to the context or meaning thereof \nbe deemed to include its successors and assigns of the one part, and; \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            56.75995635986328,
+            217.3894500732422,
+            433.4472351074219,
+            226.73191833496094
+          ],
+          "text": " \n.........................................................……………………..  [Note 1] comprising: \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            56.75995635986328,
+            234.54942321777344,
+            543.7276611328125,
+            243.8918914794922
+          ],
+          "text": "a) \n........................................................, a company registered and existing under the laws of \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            92.28108978271484,
+            249.54942321777344,
+            538.6890869140625,
+            258.89190673828125
+          ],
+          "text": "................................, with head office located at ........................................................, represented by  \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            92.2821273803711,
+            267.5494079589844,
+            543.7289428710938,
+            276.89190673828125
+          ],
+          "text": "Mr. ....................................... and Mr. ....................................... authorised to sign and bind the \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            92.28209686279297,
+            282.5494079589844,
+            543.7296752929688,
+            291.89190673828125
+          ],
+          "text": "company, under the Power of Attorney dated...................................... and the Board Resolution \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            92.2821273803711,
+            297.5494079589844,
+            284.5312805175781,
+            306.89190673828125
+          ],
+          "text": "dated..................................... [Note 5] AND \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            56.761985778808594,
+            315.5494079589844,
+            543.729736328125,
+            324.89190673828125
+          ],
+          "text": "b) \n........................................................, a company registered and existing under the laws of \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            92.28313446044922,
+            330.54937744140625,
+            543.7298583984375,
+            339.8918762207031
+          ],
+          "text": "................................, with head office located at................................................................ represented \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            92.2821273803711,
+            345.54937744140625,
+            543.7291259765625,
+            354.8918762207031
+          ],
+          "text": "by Mr. ....................................... and Mr. ....................................... authorised to sign and bind the \n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            92.28209686279297,
+            360.5493469238281,
+            543.7296752929688,
+            369.891845703125
+          ],
+          "text": "company, under the Power of Attorney dated...................................... and the Board Resolution \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            92.2821273803711,
+            375.5493469238281,
+            284.5312805175781,
+            384.891845703125
+          ],
+          "text": "dated..................................... [Note 5] AND \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            56.761985778808594,
+            393.5493469238281,
+            543.729736328125,
+            402.891845703125
+          ],
+          "text": "c) \n........................................................, a company registered and existing under the laws of \n"
+        },
+        {
+          "block_number": 20,
+          "bbox": [
+            92.28313446044922,
+            408.5493469238281,
+            543.7299194335938,
+            417.891845703125
+          ],
+          "text": "................................, with head office located at................................................................ represented \n"
+        },
+        {
+          "block_number": 21,
+          "bbox": [
+            92.2821273803711,
+            423.5493469238281,
+            543.7308349609375,
+            432.891845703125
+          ],
+          "text": "by Mr. ....................................... and Mr. ....................................... authorised to sign and bind the \n"
+        },
+        {
+          "block_number": 22,
+          "bbox": [
+            92.28209686279297,
+            438.54931640625,
+            543.7296752929688,
+            447.8918151855469
+          ],
+          "text": "company, under the Power of Attorney dated...................................... and the Board Resolution \n"
+        },
+        {
+          "block_number": 23,
+          "bbox": [
+            92.2821273803711,
+            453.54931640625,
+            260.64947509765625,
+            462.8918151855469
+          ],
+          "text": "dated..................................... [Note 5] \n"
+        },
+        {
+          "block_number": 24,
+          "bbox": [
+            85.08252716064453,
+            472.3893127441406,
+            87.8497085571289,
+            481.7318115234375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 25,
+          "bbox": [
+            85.68252563476562,
+            486.9093017578125,
+            543.72998046875,
+            496.2518005371094
+          ],
+          "text": "  [Note 2] who each of which shall be jointly and severally responsible to the Employer under the Contract \n"
+        },
+        {
+          "block_number": 26,
+          "bbox": [
+            85.68248748779297,
+            498.4292907714844,
+            543.7294311523438,
+            536.6917114257812
+          ],
+          "text": "for the Bangalore Metro Rail Project as per conditions agreed to by the Employer; \n \n  Hereinafter [Note 3] collectively referred to as the “Contractor” which expression shall unless excluded \n"
+        },
+        {
+          "block_number": 27,
+          "bbox": [
+            90.2405014038086,
+            538.8692626953125,
+            543.7308349609375,
+            649.2516479492188
+          ],
+          "text": "by or repugnant to the context or meaning thereof be deemed to include its successors and assigns of \nthe other part. \n \nWHEREAS the Contractor has established a ........................[Note 4] in accordance with Indian law and \noffered a tender for the construction of a rail based mass rapid transport system by execution and \ncompletion, and remedying any defects in the Works of:(Name of the work)----------------------------------\n------------------------------------------------------------------------------------------------------------------------------ \nTender Notification No ---------------------------------------------------- Dated --.--. ----. and agrees to undertake \nperformance of the Work under the terms and conditions set forth in this Contract.  \n"
+        },
+        {
+          "block_number": 28,
+          "bbox": [
+            85.07955169677734,
+            654.3092041015625,
+            543.727294921875,
+            753.171630859375
+          ],
+          "text": " \nAND WHEREAS the Employer agrees to hire and the Contractor agrees to be hired to implement \nthe:(Name of the work)-------------------------------------------------------------------------------------------------------\n--------------------------------------------------------- \nTender Notification No ---------------------------------------------------- Dated --.--. ----. \nUnder the terms and conditions specified in this Contract Agreement and the other Contract \nDocuments.  \n   Now THEREFORE the parties hereby agree as follows: \n"
+        },
+        {
+          "block_number": 29,
+          "bbox": [
+            546.0439453125,
+            24.479991912841797,
+            570.0199584960938,
+            41.38799285888672
+          ],
+          "text": "141\n"
+        }
+      ]
+    },
+    {
+      "pdf_page": 148,
+      "rotation": 0,
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            49.67998123168945,
+            45.29697036743164,
+            540.7049560546875,
+            53.85032653808594
+          ],
+          "text": "        BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                                                   Contract forms \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            85.07996368408203,
+            774.287841796875,
+            87.58052825927734,
+            782.7298583984375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            85.07994842529297,
+            792.287841796875,
+            542.140380859375,
+            814.0498046875
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                           September-2026 \n                 Section Page 3 of 11 \n \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            56.75997543334961,
+            77.46939849853516,
+            217.32716369628906,
+            86.81187438964844
+          ],
+          "text": "Clause 1   Words and Expression \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            92.27993774414062,
+            92.10941314697266,
+            543.7276611328125,
+            112.97190856933594
+          ],
+          "text": "In this Contract all the words and expressions shall have the same meanings as are respectively \nassigned to them in the conditions of contract hereinafter referred to,  \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            56.759803771972656,
+            124.50943756103516,
+            230.64862060546875,
+            133.85191345214844
+          ],
+          "text": "Clause 2   the Contract Documents,  \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            94.6797866821289,
+            145.6294403076172,
+            543.7285766601562,
+            154.97190856933594
+          ],
+          "text": "The following shall deem to form and be read and construed as a part of this Contract Agreement \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            94.6797866821289,
+            160.6294403076172,
+            520.4487915039062,
+            169.97190856933594
+          ],
+          "text": "provided any of the provisions therein are not inconsistent with the present contract agreement:  \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            99.23995208740234,
+            172.1494598388672,
+            214.56886291503906,
+            181.49192810058594
+          ],
+          "text": "1. Letter of Acceptance. \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            99.23995208740234,
+            189.54942321777344,
+            441.2475891113281,
+            198.8918914794922
+          ],
+          "text": "2. Clarifications, Addenda, Corrigenda Issued to Tender document (if any)   \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            99.23993682861328,
+            207.06944274902344,
+            198.9687957763672,
+            216.4119110107422
+          ],
+          "text": "3. Pricing Document \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            99.23993682861328,
+            224.58946228027344,
+            254.52886962890625,
+            233.9319305419922
+          ],
+          "text": "4. Special Conditions of Contract \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            99.23993682861328,
+            242.10948181152344,
+            185.52879333496094,
+            251.4519500732422
+          ],
+          "text": "5. Contract forms \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            99.23993682861328,
+            259.6294860839844,
+            257.2888488769531,
+            268.97198486328125
+          ],
+          "text": "6. General Conditions of Contract \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            99.23993682861328,
+            277.1495056152344,
+            348.9674072265625,
+            286.49200439453125
+          ],
+          "text": "7. Employer’s Requirement & Technical Specifications \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            99.23992156982422,
+            294.5495300292969,
+            161.64878845214844,
+            303.89202880859375
+          ],
+          "text": "8. Drawings \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            99.23992156982422,
+            312.0695495605469,
+            334.0888977050781,
+            321.41204833984375
+          ],
+          "text": "9. Any other document forming part of the Contract \n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            94.67505645751953,
+            329.5895080566406,
+            541.447509765625,
+            373.491943359375
+          ],
+          "text": "All of the foregoing documents, together with this Contract Agreement, referred to herein as the \nContract.  Also incorporated into the Contract, and made part hereof, are all Standard codes, \nspecifications of MORTH/CPWD/KPWD/IRS as applicable, and similar requirements that are referred \nto therein. The ‘Priority of documents’ will be as given in clause 1.5 of GCC. \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            56.75997543334961,
+            381.4292907714844,
+            251.1654052734375,
+            390.77178955078125
+          ],
+          "text": "Clause 3 Obligations of the Contractor:   \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            56.75997543334961,
+            399.0693054199219,
+            543.7283325195312,
+            509.45172119140625
+          ],
+          "text": " \nThe mutual rights and Obligations of the Employer and the Contractor shall be as set forth in the \ncontract and in particular: - \n3.1 The Contractor agrees, subject to the terms and conditions of the Contract, to perform efficiently \nand faithfully all of the work of (Name of the work)-------------------------------------------------------------------\n--------------------------------------------------------------------------------------------- \nTender Notification No ---------------------------------------------------- Dated --.--. ----.and other facilities \nrequisite for or incidental to the successful completion of the Works and in carrying out all duties and \nobligations imposed by the Contract. \n \n"
+        },
+        {
+          "block_number": 20,
+          "bbox": [
+            94.68114471435547,
+            511.6291809082031,
+            543.7285766601562,
+            547.3717041015625
+          ],
+          "text": "3.2 The Contractor shall remedy, at no extra cost to the Employer, the defect or failure (fair wear and \ntear excluded) after any part of the Work are taken over by the Employer until the end of Defects \nLiability Period. \n"
+        },
+        {
+          "block_number": 21,
+          "bbox": [
+            94.68114471435547,
+            554.229248046875,
+            543.7283935546875,
+            586.6116943359375
+          ],
+          "text": "3.3 The Contractor shall also remedy, at no extra cost to the Employer, the defect or failure of any \nequipment provided in the Works and any defects in materials supplied and workmanship up to end \nof warranty period. \n"
+        },
+        {
+          "block_number": 22,
+          "bbox": [
+            56.761173248291016,
+            598.149169921875,
+            245.64830017089844,
+            607.4916381835938
+          ],
+          "text": "Clause 4 Obligations of the Employer:   \n"
+        },
+        {
+          "block_number": 23,
+          "bbox": [
+            92.28113555908203,
+            615.7891845703125,
+            543.7284545898438,
+            636.6516723632812
+          ],
+          "text": "The Employer agrees, subject to the terms and conditions of the Contract, to pay the Contractor the \namount specified, and at the rates and terms and in the manner set forth in the Contract. \n"
+        },
+        {
+          "block_number": 24,
+          "bbox": [
+            56.76099395751953,
+            648.0692138671875,
+            175.08819580078125,
+            657.4116821289062
+          ],
+          "text": "Clause 5 Contract Price: \n"
+        },
+        {
+          "block_number": 25,
+          "bbox": [
+            94.68094635009766,
+            662.7091674804688,
+            543.7297973632812,
+            718.1316528320312
+          ],
+          "text": "5.1. Employer agrees to pay the Contractor total amount mentioned below (hereinafter called 'the \nContract Price') and the Contractor agrees to accept the total amount mentioned below for the \nexecution, completion, maintenance / rectification of defects and guarantee for the works carried out \nby him as part of his obligations, responsibilities and liabilities under and according to the provisions \nand obligations imposed on him by the Contract. \n"
+        },
+        {
+          "block_number": 26,
+          "bbox": [
+            50.28099060058594,
+            726.669189453125,
+            180.85153198242188,
+            736.0116577148438
+          ],
+          "text": " \n \n \n"
+        },
+        {
+          "block_number": 27,
+          "bbox": [
+            99.36101531982422,
+            744.669189453125,
+            543.7279663085938,
+            754.0116577148438
+          ],
+          "text": "(i) \nIndian Rupees……………………………………... (....................................Rs.) and Output \n"
+        },
+        {
+          "block_number": 28,
+          "bbox": [
+            135.36087036132812,
+            759.6691284179688,
+            222.60972595214844,
+            769.0115966796875
+          ],
+          "text": "GST as applicable. \n"
+        },
+        {
+          "block_number": 29,
+          "bbox": [
+            39.599998474121094,
+            24.479991912841797,
+            63.57600021362305,
+            41.38799285888672
+          ],
+          "text": "142\n"
+        }
+      ]
+    },
+    {
+      "pdf_page": 149,
+      "rotation": 0,
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            49.67998123168945,
+            45.29697036743164,
+            540.7049560546875,
+            53.85032653808594
+          ],
+          "text": "        BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                                                   Contract forms \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            85.07996368408203,
+            774.287841796875,
+            87.58052825927734,
+            782.7298583984375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            85.07994842529297,
+            792.287841796875,
+            542.140380859375,
+            814.0498046875
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                           September-2026 \n                 Section Page 4 of 11 \n \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            92.27994537353516,
+            74.10941314697266,
+            543.7272338867188,
+            120.89195251464844
+          ],
+          "text": " \n5.2. The contract price mentioned above will be increased or decreased during the period of \nperformance of the contract as specifically provided, if any, in the General or Special Conditions of \nContract and no additional amount for any other account whatsoever shall be payable to the Contractor. \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            56.759803771972656,
+            132.4294891357422,
+            187.92697143554688,
+            141.77195739746094
+          ],
+          "text": "Clause 6 Completion Time: \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            92.27947235107422,
+            147.0695037841797,
+            543.730224609375,
+            179.45201110839844
+          ],
+          "text": "The Contractor shall complete whole of the Works within.............................. (.........) months from the \nCommencement Date (date of signing the ‘Contract Agreement’). The Defect Liability Period is 12 \n(Twelve) months from the date mentioned in the Final Taking over Certificate for whole of the Works. \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            56.27934646606445,
+            190.98948669433594,
+            543.7265014648438,
+            283.97210693359375
+          ],
+          "text": "Clause7 Integration \n \nThe Employer and the Contractor agree that this Contract Agreement, together with the other Contract \nDocuments, expresses all of the agreements, understandings,  promises, and covenants of the parties, \nand integrates, combines, and supersedes all prior and contemporaneous negotiations, \nunderstandings, and agreements, whether written or oral and no modification or alteration of the \nContract Documents shall be valid or binding on either party, unless expressed in writing and executed \nwith the same formality as this Contract Agreement, except as may otherwise be specifically provided \nin the Contract Documents. \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            56.75925064086914,
+            295.5096130371094,
+            175.68661499023438,
+            304.85211181640625
+          ],
+          "text": "Clause 8 Governing Law \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            92.27921295166016,
+            313.6296081542969,
+            509.1661071777344,
+            322.97210693359375
+          ],
+          "text": "This Contract is enforceable and construed under the applicable laws of the Republic of India. \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            56.75904083251953,
+            334.50958251953125,
+            150.72637939453125,
+            343.8520812988281
+          ],
+          "text": "Clause 9 Language \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            50.27885055541992,
+            355.62957763671875,
+            541.446044921875,
+            413.9320373535156
+          ],
+          "text": "This Contract Agreement and the other Contract Documents are made in the English language.  \nClause 9-A  Notices: \n \n \n \nThe Address for service of all documents / notices arising out of or in connection with this contract \nshall be: \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            95.51934814453125,
+            415.6427307128906,
+            541.4486694335938,
+            425.4520263671875
+          ],
+          "text": "(a) Upon Employer: Bangalore Metro Rail Corporation Ltd, 3rd Floor, BMTC Complex, K.H. Road, \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            95.5201187133789,
+            427.6292724609375,
+            541.4469604492188,
+            459.8917236328125
+          ],
+          "text": "Shantinagar, Bengaluru – 560027, Karnataka, India. \nMarked for the attention of Executive Director. \n(b) Upon the Contractor: --------------------------------------------------------------------(Name and address of \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            113.52001953125,
+            462.0692138671875,
+            541.44677734375,
+            494.4516906738281
+          ],
+          "text": "the contractor) \nThe above notices can be sent either by E-mail to the respective E-mail addresses of the parties \nor by registered post to the above mentioned addresses of the parties. \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            56.760902404785156,
+            505.9891662597656,
+            207.36972045898438,
+            515.3316650390625
+          ],
+          "text": "Clause 10 Jurisdiction of Court \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            92.16114807128906,
+            520.38916015625,
+            547.3281860351562,
+            567.7716674804688
+          ],
+          "text": "The Courts at Bangalore shall have the exclusive jurisdiction in respect of all the disputes arising out \nof this Agreement between the parties. \n \nIN WITNESS WHEREOF, the parties hereto have caused this Contract to be signed in their respective \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            92.16112518310547,
+            573.5491943359375,
+            464.0486755371094,
+            594.4116821289062
+          ],
+          "text": "names by their authorised representatives as of the day and year first above written \n \n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            122.281005859375,
+            596.94921875,
+            219.00819396972656,
+            629.45166015625
+          ],
+          "text": "For BMRCL \nThe Employer \nBangalore Metro Rail \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            125.6410140991211,
+            631.5091552734375,
+            215.64816284179688,
+            640.8516235351562
+          ],
+          "text": "Corporation Limited \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            304.3211669921875,
+            597.0691528320312,
+            454.8086853027344,
+            606.41162109375
+          ],
+          "text": "[Note 6] for …………..................., \n"
+        },
+        {
+          "block_number": 20,
+          "bbox": [
+            323.639892578125,
+            608.4691772460938,
+            453.21307373046875,
+            630.7584838867188
+          ],
+          "text": "The Contractor \n(a) ……………………………………. \n"
+        },
+        {
+          "block_number": 21,
+          "bbox": [
+            97.91996002197266,
+            634.2404174804688,
+            453.21307373046875,
+            656.8117065429688
+          ],
+          "text": "……………………………………. \n        \n"
+        },
+        {
+          "block_number": 22,
+          "bbox": [
+            124.31993103027344,
+            658.8692016601562,
+            217.08734130859375,
+            679.731689453125
+          ],
+          "text": " \n(                              ) \n"
+        },
+        {
+          "block_number": 23,
+          "bbox": [
+            97.9198989868164,
+            681.9091796875,
+            215.40672302246094,
+            702.7716674804688
+          ],
+          "text": "-------------------------- \n \n"
+        },
+        {
+          "block_number": 24,
+          "bbox": [
+            274.8001403808594,
+            647.46923828125,
+            277.56732177734375,
+            656.8117065429688
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 25,
+          "bbox": [
+            333.1205749511719,
+            658.8692016601562,
+            425.8879699707031,
+            679.731689453125
+          ],
+          "text": " \n(                              ) \n"
+        },
+        {
+          "block_number": 26,
+          "bbox": [
+            146.5199432373047,
+            681.9091796875,
+            424.2073669433594,
+            714.7716674804688
+          ],
+          "text": "-------------------------- \n \nWITNESS \n"
+        },
+        {
+          "block_number": 27,
+          "bbox": [
+            124.31988525390625,
+            716.94921875,
+            217.08729553222656,
+            749.211669921875
+          ],
+          "text": " \n \n(                              ) \n"
+        },
+        {
+          "block_number": 28,
+          "bbox": [
+            125.99988555908203,
+            751.38916015625,
+            215.40667724609375,
+            760.7316284179688
+          ],
+          "text": "-------------------------- \n"
+        },
+        {
+          "block_number": 29,
+          "bbox": [
+            274.7994079589844,
+            705.42919921875,
+            277.56658935546875,
+            726.2916870117188
+          ],
+          "text": " \n \n"
+        },
+        {
+          "block_number": 30,
+          "bbox": [
+            311.2798767089844,
+            728.762939453125,
+            465.57318115234375,
+            739.1184692382812
+          ],
+          "text": "(b) For    ……………………………………. \n"
+        },
+        {
+          "block_number": 31,
+          "bbox": [
+            311.9998779296875,
+            741.7890014648438,
+            466.4473571777344,
+            762.6514282226562
+          ],
+          "text": "               …………………………… \n \n"
+        },
+        {
+          "block_number": 32,
+          "bbox": [
+            546.0439453125,
+            24.479991912841797,
+            570.0199584960938,
+            41.38799285888672
+          ],
+          "text": "143\n"
+        }
+      ]
+    },
+    {
+      "pdf_page": 150,
+      "rotation": 0,
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            49.67998123168945,
+            45.29697036743164,
+            540.7049560546875,
+            53.85032653808594
+          ],
+          "text": "        BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                                                   Contract forms \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            85.07996368408203,
+            774.287841796875,
+            87.58052825927734,
+            782.7298583984375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            85.07994842529297,
+            792.287841796875,
+            542.140380859375,
+            814.0498046875
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                           September-2026 \n                 Section Page 5 of 11 \n \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            97.91996002197266,
+            74.5894546508789,
+            425.8870544433594,
+            95.45195007324219
+          ],
+          "text": " \n \n(                              ) \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            97.91996002197266,
+            97.6294937133789,
+            454.2074279785156,
+            155.33189392089844
+          ],
+          "text": "-------------------------- \n \n \n(c) …………………………………….\n                        …………………………… \n \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            333.12030029296875,
+            157.5094451904297,
+            425.8876953125,
+            178.37193298339844
+          ],
+          "text": " \n(                              ) \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            97.91996002197266,
+            180.54942321777344,
+            424.20709228515625,
+            260.2149353027344
+          ],
+          "text": "-------------------------- \n \n \n \n \n \n \nWITNESS\n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            92.15995788574219,
+            264.1605529785156,
+            442.4129943847656,
+            395.5718078613281
+          ],
+          "text": " \n \n(                              ) \n-------------------------- \n \n \n \n \n \n \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            56.2799186706543,
+            403.5093078613281,
+            475.3279724121094,
+            412.851806640625
+          ],
+          "text": "Notes: (for preparation of but not for inclusion in the engrossment of the Contract Agreement) \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            56.27997589111328,
+            421.5093078613281,
+            543.72705078125,
+            430.851806640625
+          ],
+          "text": "1 \nIf the Contractor comprises a partnership, joint venture, liability will be joint and several, and each \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            92.27986907958984,
+            436.50927734375,
+            249.60708618164062,
+            445.8517761230469
+          ],
+          "text": "member thereof must be identified. \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            56.279903411865234,
+            451.50927734375,
+            543.7272338867188,
+            460.8517761230469
+          ],
+          "text": "2. \nIn the case that the Contractor comprises a single company, this line should be deleted entirely, as \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            92.2798080444336,
+            466.50927734375,
+            294.6070861816406,
+            475.8517761230469
+          ],
+          "text": "also should be paragraphs (b) and (c) above. \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            56.279842376708984,
+            481.50927734375,
+            543.7268676757812,
+            490.8517761230469
+          ],
+          "text": "3. \nIn the case that the Contractor comprises a single company, the word “collectively” should be deleted \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            92.2796859741211,
+            496.50927734375,
+            154.56689453125,
+            505.8517761230469
+          ],
+          "text": "from this line. \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            56.279720306396484,
+            511.5092468261719,
+            543.7268676757812,
+            520.8517456054688
+          ],
+          "text": "4. \nEnter the appropriate nature of the Contractor; company, partnership, joint venture as the case may \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            92.27959442138672,
+            526.50927734375,
+            108.96678161621094,
+            535.8517456054688
+          ],
+          "text": "be. \n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            56.27962875366211,
+            541.50927734375,
+            288.00860595703125,
+            550.8517456054688
+          ],
+          "text": "5. \nEnter the date of the appropriate resolution. \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            56.27962875366211,
+            556.50927734375,
+            501.8486022949219,
+            565.8517456054688
+          ],
+          "text": "6. \nIf the Contractor comprises a partnership, joint venture, each member thereof must execute. \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            56.279640197753906,
+            571.50927734375,
+            531.366455078125,
+            580.8517456054688
+          ],
+          "text": "7. \nThe required Stamp duty in accordance with Karnataka Stamp Act is to be borne by the contractor. \n"
+        },
+        {
+          "block_number": 20,
+          "bbox": [
+            295.3191833496094,
+            583.802978515625,
+            442.3871154785156,
+            594.1585083007812
+          ],
+          "text": " \n \n"
+        },
+        {
+          "block_number": 21,
+          "bbox": [
+            39.599998474121094,
+            24.479991912841797,
+            63.57600021362305,
+            41.38799285888672
+          ],
+          "text": "144\n"
+        }
+      ]
+    },
+    {
+      "pdf_page": 151,
+      "rotation": 0,
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            49.67998123168945,
+            45.29697036743164,
+            540.7049560546875,
+            53.85032653808594
+          ],
+          "text": "        BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                                                   Contract forms \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            85.07996368408203,
+            774.287841796875,
+            87.58052825927734,
+            782.7298583984375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            85.07994842529297,
+            792.287841796875,
+            542.140380859375,
+            814.0498046875
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                           September-2026 \n                 Section Page 6 of 11 \n \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            240.23989868164062,
+            74.04320526123047,
+            353.34722900390625,
+            84.39871978759766
+          ],
+          "text": "CONTRACT FORM- 2 \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            295.31988525390625,
+            86.64318084716797,
+            298.3871765136719,
+            96.99869537353516
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            120.5995101928711,
+            104.76317596435547,
+            531.208251953125,
+            115.11869049072266
+          ],
+          "text": "FORM OF BANK GUARANTEE FOR ………………………… [to be filled as per Note-1] \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            49.67998123168945,
+            120.4294204711914,
+            567.129150390625,
+            317.0919189453125
+          ],
+          "text": "(Refer GCC clause …..) \n (To be stamped in accordance with the Stamp Act of the Country of Issuing Bank) \nTo  \nBangalore Metro Rail Corporation Limited (BMRCL) \n3rd Floor, BMTC Complex, \nK.H. Road, Shanthinagar  \nBengaluru – 560027, \nKarnataka, INDIA. \n \n1. \nWHEREAS __________ [Name and Address of the Contractor] (hereinafter referred to as the “Contractor”) has \nundertaken for due performance of the Contract, in pursuance of LoA/Contract No. ____________ for \n_________________________ [Description of the Contract work to be specified] (hereinafter referred to as “the \nContract”). The Contract was awarded by Bangalore Metro Rail Corporation Limited (hereinafter referred to as \nthe “Employer” or “BMRCL”), which expression shall unless repugnant to the context or the meaning thereof, \ninclude its successors, administrators, executors and assignees, to the Contractor.  \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            49.67998123168945,
+            319.3231201171875,
+            567.1287841796875,
+            480.4117431640625
+          ],
+          "text": " \n2. \nAND WHEREAS it has been stipulated in the Contract that the Contractor shall furnish to the Employer with an \nunconditional and irrevocable Bank Guarantee  for                                      2.1 (Performance Security / Mobilization \nAdvance/ Plant & Machinery Advance/ Special Advance/ Retention Money/ Safe custody of materials) for the \nsum specified herein below as security for                                 2.2 (compliance of the obligations and performance \nof the Contractor/ such Advance Payment/ Retention Money/ Employer’s materials under Contractor’s custody). \nIn pursuance to this M/s_________ (The Contractor) has requested for issuance of the Bank Guarantee for the \nsum specified herein below. \n \n3. \nAND WHEREAS we __________ [Name and full address of the Bank including Email address] having registered \noffice at _________________ (hereinafter referred to as the “Bank”), which expression shall unless repugnant to \nthe context or the meaning thereof, include its successors, administrators, executors, assignees, and the \ncorrespondent Bank hereby agrees to give the Employer on behalf of the Contractor such a Bank Guarantee \ndrawn and payable at Bengaluru branch. \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            49.67998123168945,
+            482.6430358886719,
+            567.1282958984375,
+            585.1716918945312
+          ],
+          "text": " \n4. \nNOW therefore, the Bank hereby affirm, that it is the guarantor and is responsible to the Employer and their \nsuccessors, on behalf of the Contractor ‘up to a total sum of _________________________________________ \n[the amount of Guarantee to be specified in figure and words in the respective currency/ies in which the contract price is \npayable]. Further, the Bank hereby unconditionally, irrevocably and without demur undertake to immediately pay, \nthe Employer upon the Employer’s first written demand and without cavil, or arguments any sum or sums within \nthe limits of the sum specified in this Bank Guarantee as aforesaid without the Employer being required to prove \nor to show grounds or reasons for the demand, by depositing/crediting to the Current Account of the Employer, \nthe sums specified herein. \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            49.67998123168945,
+            587.4030151367188,
+            567.1268920898438,
+            620.8117065429688
+          ],
+          "text": " \n5. \nThis Bank Guarantee is encashable at the Issuing Bank’s designated Branch in Bengaluru, Karnataka, India  as \nmentioned below:  \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            85.07493591308594,
+            622.749267578125,
+            569.48876953125,
+            666.5814819335938
+          ],
+          "text": " \nName of the Bank, Branch and contact details, Address, telephone no: & Fax No: E-mail Address Branch Manager/s \nname \n& Mobile No: Bank Zonal Office Address, Telephone No, Fax Number, E-mail Address:  \n______________________________ \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            70.92024230957031,
+            668.4901123046875,
+            514.5673828125,
+            696.6516723632812
+          ],
+          "text": " \nOR \nThis e- Bank Guarantee shall be encashable at the issuing branch of the Bank through NeSL portal. \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            49.67998123168945,
+            698.8829345703125,
+            567.1273193359375,
+            743.8116455078125
+          ],
+          "text": " \n6. \nThe Bank hereby confirms that the Bank is on the SFMS (Structural Finance Messaging System) platform and \nshall invariably send an advice of the Bank Guarantee to the designated Bank of the Employer (Bangalore Metro \nRail Corporation Limited) as given below: \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            85.07988739013672,
+            745.9891967773438,
+            87.8470687866211,
+            766.8516235351562
+          ],
+          "text": " \n \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            546.0439453125,
+            24.479991912841797,
+            570.0199584960938,
+            41.38799285888672
+          ],
+          "text": "145\n"
+        }
+      ]
+    },
+    {
+      "pdf_page": 152,
+      "rotation": 0,
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            49.67998123168945,
+            45.29697036743164,
+            540.7049560546875,
+            53.85032653808594
+          ],
+          "text": "        BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                                                   Contract forms \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            85.07996368408203,
+            774.287841796875,
+            87.58052825927734,
+            782.7298583984375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            85.07994842529297,
+            792.287841796875,
+            542.140380859375,
+            814.0498046875
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                           September-2026 \n                 Section Page 7 of 11 \n \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            53.03986740112305,
+            74.46939849853516,
+            567.1270141601562,
+            261.8919677734375
+          ],
+          "text": "Sl. No. \nParticulars \nDetails \ni \nName of Beneficiary \nBangalore Metro Rail Corporation Limited \nii \nName of Bank \nBank of India \niii \nBranch \nCantonment Branch, Bengaluru.  \niv \nAddress of Branch \n49, Jyothi Mahal,  \nSt. Mark’s Road, Bangalore – 560 001 \nv \nAccount No. \n840420110000760 \nvi \nIFSC Code: \nBKID0008404 \n \n7. This Bank Guarantee shall be encashed at the demand of the Employer on or before the due date.  \n \n8. The Employer shall have rights to encash this Bank Guarantee at any time during the validity period and the \n‘Contractor’ shall have no right or claim whatsoever in the matter of encashment of the Bank Guarantee amount \nby the ‘Employer’. The Bank will have their responsibility in terms of the guarantee and obligation, to make \nimmediate payment to the ‘Employer’, without the consent of the ‘Contractor’ and without referring the matter to \nthe ‘Contractor’. \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            53.03973388671875,
+            263.9494934082031,
+            567.1281127929688,
+            365.33203125
+          ],
+          "text": " \n9. The Bank shall be liable to pay the ‘Employer’, any amount up to and inclusive of the aforementioned full amount \nupon written order from the ‘Employer’ to indemnify the ‘Employer’ for any liability or damage resulting from any \ndefects and/or shortcomings of the ‘Contractor’ and/or the debts the ‘Contractor’ may have incurred with the \n‘Employer’ and/or any parties involved in the Works under the Contract mentioned above, whether these defects \nand/or shortcomings and/or debts are actual and/or estimated and/or expected. The Bank will deliver the money \nrequired by the ‘Employer’ immediately on demand without delay without reference to the ‘Contractor’ and without \nthe necessity of a previous notice or of judicial or administrative procedures and without it being necessary to \nprove to the Bank the liability or damages resulting from any defects or shortcomings or debts of the ‘Contractor’. \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            49.67998123168945,
+            367.5630798339844,
+            567.12841796875,
+            424.0117492675781
+          ],
+          "text": " \n10. Courts at Bengaluru, Karnataka, India shall have exclusive jurisdiction for adjudicating the disputes arising out of \nthe encashment of the Guarantee, and, the said Bank undertakes not to revoke this Guarantee during its \ncurrency, except with the previous consent of the ‘Employer’ in writing and agree that any change in the \nconstitution of the Bank shall not discharge its liability hereunder. \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            49.67998123168945,
+            426.2430725097656,
+            567.1272583007812,
+            459.6517639160156
+          ],
+          "text": " \n11. This Bank Guarantee will not be discharged due to the change in the constitution of the ‘Contractor’ or change in \nthe constitution of the Bank. \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            49.67998123168945,
+            461.883056640625,
+            567.1275024414062,
+            506.8117370605469
+          ],
+          "text": " \n12. This Deed of guarantee is signed and executed by Shri/Smt ______________and Shri/Smt ______who is/are \nauthorized by the Bank for issuing the guarantee on its behalf and their ID No/s. and Email address/es being \n________ & ________ and ________ & ________ respectively. \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            49.67998123168945,
+            509.04296875,
+            566.8479614257812,
+            542.2615356445312
+          ],
+          "text": " \n13. The Bank’s liability under this Guarantee shall not exceed the amount of______ [Indian Rupees/Foreign \nCurrency/ies to be specified in words and figures]. \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            49.67998123168945,
+            544.6829833984375,
+            567.1271362304688,
+            626.4517211914062
+          ],
+          "text": " \n14. This Bank guarantee shall be valid till _________ [Date to be mentioned]. \n \n15. The pendency of any dispute or legal proceedings shall not affect this guarantee in any manner.  \n \n16. It is hereby agreed that the liability of the Bank under this guarantee shall cease on the happening of any of the \nfollowing events: \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            49.679893493652344,
+            628.6292724609375,
+            409.20916748046875,
+            649.49169921875
+          ],
+          "text": " \n \na) Payment by the Bank of the Guaranteed sum in full to the ‘Employer’,  \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            85.07999420166016,
+            651.6692504882812,
+            567.1275024414062,
+            672.5316772460938
+          ],
+          "text": " or \nb) Issue of written communication by the Employer, to the Bank, along with the original Bank Guarantee \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            85.07999420166016,
+            674.5892333984375,
+            567.12744140625,
+            718.49169921875
+          ],
+          "text": "discharging the Bank of its liability covered by this Bank Guarantee and in case of electronic Bank \nGuarantee (e-BG), after release/discharge of e-BG by the Employer through NeSL portal. \n \n \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            229.6800994873047,
+            720.669189453125,
+            460.3275146484375,
+            753.0516967773438
+          ],
+          "text": "SIGNATURE AND SEAL OF THE GUARANTOR     \n \nDATE: ___________________ \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            39.599998474121094,
+            24.479991912841797,
+            63.57600021362305,
+            41.38799285888672
+          ],
+          "text": "146\n"
+        }
+      ]
+    },
+    {
+      "pdf_page": 153,
+      "rotation": 0,
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            49.67998123168945,
+            45.29697036743164,
+            540.7049560546875,
+            53.85032653808594
+          ],
+          "text": "        BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                                                   Contract forms \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            85.07996368408203,
+            774.287841796875,
+            87.58052825927734,
+            782.7298583984375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            85.07994842529297,
+            792.287841796875,
+            542.140380859375,
+            814.0498046875
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                           September-2026 \n                 Section Page 8 of 11 \n \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            229.67990112304688,
+            74.10941314697266,
+            503.28765869140625,
+            83.45188903808594
+          ],
+          "text": "NAME OF THE BANK: ______________________________ \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            229.67503356933594,
+            91.38944244384766,
+            503.28778076171875,
+            100.73191833496094
+          ],
+          "text": "ADDRESS: _______________________________________ \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            49.679683685302734,
+            108.4294204711914,
+            52.446861267089844,
+            117.77189636230469
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            49.679683685302734,
+            125.9494400024414,
+            83.52687072753906,
+            135.2919158935547
+          ],
+          "text": "Notes: \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            49.679683685302734,
+            143.46946716308594,
+            555.0059204101562,
+            193.25193786621094
+          ],
+          "text": "1. \nAny one of the following type of ‘Bank Guarantee’ is to be inserted in the heading after the word ‘FORM OF \nBANK GUARANTEE FOR’ according to the purpose: \na) “PERFORMANCE SECURITY” or  \nb) “MOBILIZATION ADVANCE PAYMENT” / “PLANT & MACHINERY ADVANCE PAYMENT” / “SPECIAL \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            71.03911590576172,
+            195.4294891357422,
+            278.5263977050781,
+            233.81199645996094
+          ],
+          "text": "ADVANCE PAYMENT” or  \nc) “PAYMENT OF RETENTION MONEY” or  \nd) “SAFE CUSTODY OF MATERIALS”. \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            49.67925262451172,
+            239.1095428466797,
+            567.1283569335938,
+            271.49188232421875
+          ],
+          "text": " \n2. \nIn Para-2, insert from the bracket the appropriate option according to the type2.1 and purpose2.2 of the BG to fill \nin the blanks.  \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            49.67988204956055,
+            279.5494079589844,
+            567.1271362304688,
+            300.41192626953125
+          ],
+          "text": "3. \nThe stamp paper of appropriate value shall be purchased in the name of the bank, who issues the “Bank \nGuarantee”. \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            49.67975997924805,
+            308.5894470214844,
+            570.0062255859375,
+            329.45196533203125
+          ],
+          "text": "4. \nThe Bank Guarantee to be submitted shall be got issued from an Indian Scheduled Bank (excluding Cooperative \nBank) or from a Scheduled Foreign Bank as defined in Section 2(e) of RBI Act 1934 read with second schedule.  \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            49.67878341674805,
+            337.74945068359375,
+            336.0884704589844,
+            347.0919494628906
+          ],
+          "text": "5. \nThe above format shall be used for e-Bank Guarantee also. \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            49.67863082885742,
+            355.2694396972656,
+            386.64581298828125,
+            364.6119384765625
+          ],
+          "text": "6. \nFor issuance of e-BG, the UIN (PAN No.) of BMRCL is AAACB4881D.  \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            49.67863082885742,
+            372.6694030761719,
+            564.1935424804688,
+            393.5318908691406
+          ],
+          "text": "7. \nTender No. as mentioned in relevant para of tender document shall be the reference to be mentioned in the e-\nBG. \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            306.9598693847656,
+            402.0242004394531,
+            454.29644775390625,
+            413.2801818847656
+          ],
+          "text": " \n \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            546.0439453125,
+            24.479991912841797,
+            570.0199584960938,
+            41.38799285888672
+          ],
+          "text": "147\n"
+        }
+      ]
+    },
+    {
+      "pdf_page": 154,
+      "rotation": 0,
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            49.67998123168945,
+            45.29697036743164,
+            540.7049560546875,
+            53.85032653808594
+          ],
+          "text": "        BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                                                   Contract forms \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            85.07996368408203,
+            774.287841796875,
+            87.58052825927734,
+            782.7298583984375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            85.07994842529297,
+            792.287841796875,
+            542.140380859375,
+            814.0498046875
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                           September-2026 \n                 Section Page 9 of 11 \n \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            248.03988647460938,
+            74.04320526123047,
+            369.0689392089844,
+            84.39871978759766
+          ],
+          "text": "CONTRACT FORM- 2A \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            82.4399642944336,
+            92.64318084716797,
+            534.2468872070312,
+            102.99869537353516
+          ],
+          "text": "FORM OF INSURANCE SURETY BOND FOR ………………………… [to be filled as per Note-1] \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            254.1598358154297,
+            111.4294204711914,
+            362.5270690917969,
+            120.77189636230469
+          ],
+          "text": "(Refer GCC Clause ….) \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            106.31971740722656,
+            128.82945251464844,
+            510.3671569824219,
+            138.1719207763672
+          ],
+          "text": "(To be stamped in accordance with the Stamp Act of the Country of Issuing Surety Insurer) \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            49.67942428588867,
+            146.34947204589844,
+            66.84660339355469,
+            155.6919403076172
+          ],
+          "text": "To, \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            49.67942428588867,
+            163.86949157714844,
+            242.04661560058594,
+            173.2119598388672
+          ],
+          "text": "Bangalore Metro Rail Corporation Limited,  \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            49.67942428588867,
+            181.3894500732422,
+            239.16665649414062,
+            190.73191833496094
+          ],
+          "text": "3rd Floor, BMTC Complex, Shanthinagar,  \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            49.67942428588867,
+            198.9094696044922,
+            145.32679748535156,
+            208.25193786621094
+          ],
+          "text": "Bengaluru – 560027. \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            49.67942428588867,
+            216.4294891357422,
+            52.44660186767578,
+            225.77195739746094
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            49.67341232299805,
+            233.8295135498047,
+            567.1260375976562,
+            277.7320556640625
+          ],
+          "text": "WHEREAS __________ [Name and Address of the Contractor] (hereinafter referred to as the “Contractor”) has \nundertaken \nfor \ndue \nperformance \nof \nthe \nContract, \nin \npursuance \nof \nLoA \nNo. \n____________ \nfor \n_________________________ [Description of the Contract work to be specified] (hereinafter referred to as “the \nContract”). \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            49.67734909057617,
+            285.9095764160156,
+            567.1243896484375,
+            318.2921142578125
+          ],
+          "text": "The Contract was awarded by Bangalore Metro Rail Corporation Limited (hereinafter referred to as the “Employer” or \n“BMRCL”), which expression shall unless repugnant to the context or the meaning thereof, include its successors, \nadministrators, executors and assignees.  \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            49.672489166259766,
+            326.3495788574219,
+            567.12841796875,
+            381.77178955078125
+          ],
+          "text": "AND WHEREAS it has been stipulated in the Contract that the Contractor shall furnish to the Employer with an \nunconditional and irrevocable Insurance Surety Bond for ……………….                             2.1 (Performance Security / \nMobilization Advance/ Plant & Machinery Advance/ Special Advance/ Retention Money) for the sum specified herein \nbelow as security for ……………………                               2.2 (compliance of the obligations and performance of the \nContractor/ such Advance Payment/ Retention Money).  \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            49.6794548034668,
+            389.82928466796875,
+            567.1266479492188,
+            422.2117614746094
+          ],
+          "text": "In pursuance to this M/s________ (The Contractor) has requested for issuance of the Insurance Security Bond for the \nsum of ___________________________________________ [the amount of Guarantee to be specified in figure and \nwords in the respective currency/ies in which the contract price is payable].  \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            49.674434661865234,
+            430.3892517089844,
+            569.88525390625,
+            485.6916809082031
+          ],
+          "text": "AND WHEREAS we __________ [Name and full address of the Surety Insurer  including Email address] having \nregistered office at _________________ (hereinafter referred to as the “Surety Insurer ”), which expression shall \nunless repugnant to the context or the meaning thereof, include its successors, administrators, executors, assignees,  \nhereby agrees to give the Employer on behalf of the Contractor such a Insurance Surety Bond drawn and payable at \nBengaluru branch. \n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            49.6783561706543,
+            493.8691711425781,
+            562.0855712890625,
+            503.211669921875
+          ],
+          "text": "NOW, THEREFORE, the Surety Insurer hereby, unconditionally and irrevocably, guarantees and affirms as follows: \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            57.238685607910156,
+            511.3891296386719,
+            567.1271362304688,
+            589.7315673828125
+          ],
+          "text": "1. The Surety Insurer  herby unconditionally and irrevocably guarantees the due and faithful performance of the \nContractor's obligations during the (Construction Period/ Defects Liability Period and Maintenance Period under \nand in accordance with the Contract, and agrees and undertakes to pay to the Employer, upon its mere first \nwritten demand, and without any demur, reservation, recourse, contest or protest, and without any reference to \nthe Contractor, such sum or sums up to an aggregate sum of the Surety Bond  Amount as the Employer shall \nclaim, without the Employer being required to prove or to show grounds or reasons for its demand and/or for the \nsum specified therein. \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            57.23861312866211,
+            597.9090576171875,
+            567.1258544921875,
+            687.6515502929688
+          ],
+          "text": "2. A letter from the Employer, under the hands of an officer not below the rank of General Manager, BMRCL, that \nthe Contractor has committed default in the due and faithful performance of all or any of its obligations under \nand in accordance with the Contract shall be conclusive, final and binding on the Surety Insurer.  The Surety \nInsurer further agrees that the Employer shall be the sole judge as to whether the Contractor is in default in due \nand faithful performance of its obligations during and under the Contract and its decision that the Contractor is \nin default shall be final and binding on the Surety Insurer, notwithstanding any differences between the Employer \nand the Contractor, or any dispute between them pending before any court, tribunal, arbitrators or any other \nEmployer or body, or by the discharge of the Contractor for any reason whatsoever. \n"
+        },
+        {
+          "block_number": 20,
+          "bbox": [
+            57.23743438720703,
+            695.8291015625,
+            567.1239013671875,
+            739.7315063476562
+          ],
+          "text": "3. In order to give effect to this Surety Bond, the Employer shall be entitled to act as if the Surety Insurer were the \nprincipal debtor and any/Change in the constitution of the Contractor and/or the Surety Insurer, whether by their \nabsorption with any other body or corporation or otherwise, shall not in any way or manner affect the liability or \nobligation of the Surety Insurer under this Surety Bond. \n"
+        },
+        {
+          "block_number": 21,
+          "bbox": [
+            57.23638153076172,
+            747.7890625,
+            567.1240844726562,
+            768.6515502929688
+          ],
+          "text": "4. It shall not be necessary, and the Surety Insurer hereby waives any necessity, for the Employer to proceed \nagainst the Contractor before presenting to the Surety Insurer its demand under this Surety Bond. \n"
+        },
+        {
+          "block_number": 22,
+          "bbox": [
+            39.599998474121094,
+            24.479991912841797,
+            63.57600021362305,
+            41.38799285888672
+          ],
+          "text": "148\n"
+        }
+      ]
+    },
+    {
+      "pdf_page": 155,
+      "rotation": 0,
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            49.67998123168945,
+            45.29697036743164,
+            540.7049560546875,
+            53.85032653808594
+          ],
+          "text": "        BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                                                   Contract forms \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            85.07996368408203,
+            774.287841796875,
+            87.58052825927734,
+            782.7298583984375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            85.07994842529297,
+            792.287841796875,
+            547.1817016601562,
+            814.0498046875
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                           September-2026 \n                 Section Page 10 of 11 \n \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            57.2399787902832,
+            74.10941314697266,
+            567.126953125,
+            209.9320526123047
+          ],
+          "text": "5. The Employer shall have the liberty, without affecting in any manner the liability of the Surety Insurer under this \nSurety Bond, to vary at any time, the terms and conditions of the Contract or to extend the time or period for the \ncompliance with, fulfillment and/ or performance of all or any of the obligations of the Contractor contained in \nthe Contract or to postpone for any time, and from time to time, any of the rights and powers exercisable by the \nEmployer against the Contractor, and either to enforce or forbear from enforcing any of the terms and conditions \ncontained in the Contract and/or the securities available to the Employer, and the Surety Insurer shall not be \nreleased from its liability and obligation under these presents by any exercise by the Employer of the liberty with \nreference to the matters aforesaid or by reason of time being given to the Contractor or any other forbearance, \nindulgence, act or omission on the part of the Employer or of any other matter or thing whatsoever which under \nany law relating to sureties and guarantors would but for this provision have the effect of releasing the Surety \nInsurer from its liability and obligation under this Surety Bond and the Surety Insurer hereby waives all of its \nrights under any such law. \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            57.238765716552734,
+            218.10960388183594,
+            567.1265869140625,
+            250.4921112060547
+          ],
+          "text": "6. This Surety Bond is in addition to and not in substitution of any other Surety Bond or security now or which may \nhereafter be held by the Employer in respect of or relating to the Contract or for the fulfillment, compliance and/or \nperformance of all or any of the obligations of the Contractor under the Contract. \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            57.239768981933594,
+            258.5496520996094,
+            567.1292114257812,
+            313.97222900390625
+          ],
+          "text": "7. Notwithstanding anything contained hereinbefore, the liability of the Surety Insurer under this Surety Bond is \nrestricted to the Surety Bond Amount and this Surety Bond will remain in force for the period specified in \nparagraph 8 below and unless a demand or claim in writing is made by the Employer on the Surety Insurer under \nthis Surety Bond  all rights of the Employer under this Surety Bond  shall be forfeited and the Surety Insurer \nshall be relieved from its liabilities hereunder. \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            57.240596771240234,
+            322.0297546386719,
+            567.127685546875,
+            354.4122009277344
+          ],
+          "text": "8. The Surety Bond ceases to be in force and effect on **** Unless a demand or claim under this Surety Bond is \nmade in writing before expiry of the Surety Bond, the Surety Insurer shall be discharged from its liabilities \nhereunder. \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            57.24050521850586,
+            362.58966064453125,
+            567.1277465820312,
+            394.9721374511719
+          ],
+          "text": "9. The Surety Insurer undertakes not to revoke this Surety Bond during its currency, except with the previous \nexpress consent of the Employer in writing and declares and warrants that it has the power to issue this Surety \nBond and the undersigned has full powers to do so on behalf of the Surety Insurer. \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            57.24054718017578,
+            403.0296325683594,
+            569.8869018554688,
+            469.9720458984375
+          ],
+          "text": "10. Any notice by way of request, demand or otherwise hereunder may be sent by post addressed to the Surety \nInsurer at its above referred branch, which shall be deemed to have  been  duly  authorized  to  receive  such  \nnotice  and  to  effect  payment  thereof forthwith, and if sent by post it shall be deemed to have been given at \nthe time when it ought to have been delivered in due course of post and in proving such notice, when given by \npost, it shall be sufficient to prove that the envelope containing the notice was posted and a certificate signed \nby an officer & the Employer that the envelope was so posted shall be conclusive. \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            57.240455627441406,
+            478.029541015625,
+            567.1273803710938,
+            510.4120178222656
+          ],
+          "text": "11.  This Surety Bond shall come into force with immediate effect and shall remain in force and effect up to the date \nspecified in paragraph 8 above or until it is released earlier by the Employer pursuant to the provisions of the \nContract. \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            57.240352630615234,
+            518.5894775390625,
+            567.12744140625,
+            539.4519653320312
+          ],
+          "text": "12. This Surety Bond is subject to the Uniform Rules for Demand Guarantees (URDG) 2010 Revision, ICC \nPublication No. 758, except that the supporting statement under Article 15(a) is hereby excluded. \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            57.24036407470703,
+            547.509521484375,
+            567.1276245117188,
+            591.4119262695312
+          ],
+          "text": "13.  This Surety Bond shall also be operatable at our …………………., branch at Bangalore, from whom, \nconfirmation regarding the issue of this Surety Bond or extension/renewal thereof shall be made available on \ndemand. In the contingency of this Surety Bond being invoked and payment here under claimed, the said branch \nshall accept such invocation letter and make payment of amounts so demanded under the said invocation. \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            57.23938751220703,
+            599.5894775390625,
+            486.12646484375,
+            608.9319458007812
+          ],
+          "text": "14. The Insurance Surety Bond shall be verified from the specific portal created for this purpose. \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            49.67904281616211,
+            617.1094360351562,
+            52.44622039794922,
+            626.451904296875
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            49.67904281616211,
+            634.5093994140625,
+            381.4866638183594,
+            643.8518676757812
+          ],
+          "text": "Signed and sealed this……...Day of………...,26…………at………………… \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            49.67902755737305,
+            652.0294189453125,
+            409.9266052246094,
+            661.3718872070312
+          ],
+          "text": "SIGNED, SEALED AND DELIVERED For and on behalf of the Surety Insurer by: \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            49.67902755737305,
+            669.5494384765625,
+            104.6462173461914,
+            678.8919067382812
+          ],
+          "text": "(Signature)  \n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            49.67902755737305,
+            687.0694580078125,
+            85.80622863769531,
+            696.4119262695312
+          ],
+          "text": "(Name) \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            49.67902755737305,
+            704.5894165039062,
+            111.96623229980469,
+            713.931884765625
+          ],
+          "text": "(Designation) \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            49.67902755737305,
+            722.1094360351562,
+            124.08623504638672,
+            731.451904296875
+          ],
+          "text": "(Code Number)  \n"
+        },
+        {
+          "block_number": 20,
+          "bbox": [
+            49.67902755737305,
+            739.5093994140625,
+            95.76622772216797,
+            748.8518676757812
+          ],
+          "text": "(Address) \n"
+        },
+        {
+          "block_number": 21,
+          "bbox": [
+            49.67902755737305,
+            757.0294189453125,
+            52.446205139160156,
+            766.3718872070312
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 22,
+          "bbox": [
+            546.0439453125,
+            24.479991912841797,
+            570.0199584960938,
+            41.38799285888672
+          ],
+          "text": "149\n"
+        }
+      ]
+    },
+    {
+      "pdf_page": 156,
+      "rotation": 0,
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            49.67998123168945,
+            45.29697036743164,
+            540.7049560546875,
+            53.85032653808594
+          ],
+          "text": "        BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                                                   Contract forms \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            85.07996368408203,
+            774.287841796875,
+            87.58052825927734,
+            782.7298583984375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            85.07994842529297,
+            792.287841796875,
+            547.1817016601562,
+            814.0498046875
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                           September-2026 \n                 Section Page 11 of 11 \n \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            49.67998123168945,
+            73.98941802978516,
+            83.52716827392578,
+            83.33189392089844
+          ],
+          "text": "Notes: \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            67.68000793457031,
+            91.62943267822266,
+            541.4475708007812,
+            112.37193298339844
+          ],
+          "text": "1. Any one of the following types of ‘Insurance Surety Bond is to be inserted in the heading after the word \n‘FORM OF INSURANCE SURETY BOND FOR’ according to the purpose: \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            88.32030487060547,
+            120.42948150634766,
+            266.2892150878906,
+            129.77195739746094
+          ],
+          "text": "a) “PERFORMANCE SECURITY” or  \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            88.32030487060547,
+            137.9495086669922,
+            541.4470825195312,
+            147.29197692871094
+          ],
+          "text": "b) “MOBILIZATION ADVANCE PAYMENT” / “PLANT & MACHINERY ADVANCE PAYMENT” / \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            106.32026672363281,
+            149.4695281982422,
+            281.8874206542969,
+            158.81199645996094
+          ],
+          "text": "“SPECIAL ADVANCE PAYMENT” or  \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            88.32022857666016,
+            166.9895477294922,
+            287.5290832519531,
+            176.33201599121094
+          ],
+          "text": "c) “PAYMENT OF RETENTION MONEY”  \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            67.68021392822266,
+            184.16281127929688,
+            541.4484252929688,
+            205.4918670654297
+          ],
+          "text": "2. In Para-2, insert from the bracket the appropriate option according to the type2.1 and purpose2.2 of the \nInsurance Surety Bond to fill in the blanks.  \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            67.67955017089844,
+            213.54942321777344,
+            541.4465942382812,
+            234.4119110107422
+          ],
+          "text": "3. The stamp paper of appropriate value shall be purchased in the name of the Surety Insurer, who issues \nthe “Insurance Surety Bond”. \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            67.67942810058594,
+            242.58946228027344,
+            541.4459838867188,
+            251.9319305419922
+          ],
+          "text": "4. The Insurance Surety Bond to be submitted shall be got issued from an IRDA approved Surety Insurer. \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            49.67998123168945,
+            260.4242248535156,
+            53.01401138305664,
+            271.6802062988281
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            49.67998123168945,
+            280.2242126464844,
+            53.01401138305664,
+            291.4801940917969
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            49.67998123168945,
+            300.0242004394531,
+            53.01401138305664,
+            311.2801818847656
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            49.67998123168945,
+            319.8241882324219,
+            53.01401138305664,
+            331.0801696777344
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            49.67998123168945,
+            339.6241455078125,
+            53.01401138305664,
+            350.880126953125
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            49.67998123168945,
+            359.4241027832031,
+            53.01401138305664,
+            370.6800842285156
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            49.67998123168945,
+            379.2240905761719,
+            53.01401138305664,
+            390.4800720214844
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            49.67998123168945,
+            399.0240783691406,
+            53.01401138305664,
+            410.2800598144531
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 20,
+          "bbox": [
+            49.67998123168945,
+            418.8240661621094,
+            53.01401138305664,
+            430.0800476074219
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 21,
+          "bbox": [
+            49.67998123168945,
+            438.6240234375,
+            53.01401138305664,
+            449.8800048828125
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 22,
+          "bbox": [
+            49.67998123168945,
+            458.42401123046875,
+            53.01401138305664,
+            469.67999267578125
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 23,
+          "bbox": [
+            49.67998123168945,
+            478.2239990234375,
+            53.01401138305664,
+            489.47998046875
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 24,
+          "bbox": [
+            49.67998123168945,
+            498.02398681640625,
+            53.01401138305664,
+            509.27996826171875
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 25,
+          "bbox": [
+            49.67998123168945,
+            517.8239135742188,
+            53.01401138305664,
+            529.0799560546875
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 26,
+          "bbox": [
+            49.67998123168945,
+            537.6239013671875,
+            53.01401138305664,
+            548.8799438476562
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 27,
+          "bbox": [
+            49.67998123168945,
+            557.4238891601562,
+            53.01401138305664,
+            568.679931640625
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 28,
+          "bbox": [
+            49.67998123168945,
+            577.223876953125,
+            53.01401138305664,
+            588.4799194335938
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 29,
+          "bbox": [
+            49.67998123168945,
+            597.0238647460938,
+            53.01401138305664,
+            608.2799072265625
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 30,
+          "bbox": [
+            49.67998123168945,
+            616.8238525390625,
+            53.01401138305664,
+            628.0798950195312
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 31,
+          "bbox": [
+            49.67998123168945,
+            636.6238403320312,
+            53.01401138305664,
+            647.8798828125
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 32,
+          "bbox": [
+            49.67998123168945,
+            656.423828125,
+            53.01401138305664,
+            667.6798706054688
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 33,
+          "bbox": [
+            49.67998123168945,
+            676.2238159179688,
+            53.01401138305664,
+            687.4798583984375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 34,
+          "bbox": [
+            49.67998123168945,
+            696.0238647460938,
+            53.01401138305664,
+            707.2799072265625
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 35,
+          "bbox": [
+            56.27997589111328,
+            718.149169921875,
+            59.04715347290039,
+            727.4916381835938
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 36,
+          "bbox": [
+            56.27997589111328,
+            733.149169921875,
+            59.04715347290039,
+            742.4916381835938
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 37,
+          "bbox": [
+            49.67997360229492,
+            748.5091552734375,
+            52.44715118408203,
+            757.8516235351562
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 38,
+          "bbox": [
+            39.599998474121094,
+            24.479991912841797,
+            63.57600021362305,
+            41.38799285888672
+          ],
+          "text": "150\n"
+        }
+      ]
+    }
+  ]
+}
