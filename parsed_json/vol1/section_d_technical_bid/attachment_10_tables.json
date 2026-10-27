@@ -1,0 +1,442 @@
+{
+  "source_id": "bmrcl-volume-1",
+  "source_path": "data/Vol1DLNP1.pdf",
+  "source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+  "section": "D",
+  "form_id": "attachment_10",
+  "pdf_page": 52,
+  "title": "Minimum Plants and Equipment for the Work",
+  "document_role": "template_with_preprinted_requirements",
+  "review_status": "pending_visual_review",
+  "extraction_method": "source_hash_bound_layout_profile",
+  "coordinate_system": "PyMuPDF unrotated page coordinates, in points",
+  "table_bbox": [
+    61.66,
+    177.66,
+    509.54,
+    447.42
+  ],
+  "columns": [
+    {
+      "column_number": 1,
+      "field_id": "serial_number",
+      "source_header": "Sl.",
+      "header_bbox": [
+        61.66,
+        177.66,
+        98.04,
+        218.04
+      ]
+    },
+    {
+      "column_number": 2,
+      "field_id": "equipment_description",
+      "source_header": "Type of equipment required for the work",
+      "header_bbox": [
+        98.04,
+        177.66,
+        331.08,
+        218.04
+      ]
+    },
+    {
+      "column_number": 3,
+      "field_id": "deployment_quantity",
+      "source_header": "Proposed to be deployed",
+      "header_bbox": [
+        331.08,
+        177.66,
+        509.54,
+        218.04
+      ]
+    }
+  ],
+  "equipment_requirements": [
+    {
+      "serial_number": "1",
+      "equipment_description": "Diamond  disc  Cutter/floor saw  machine  with\nsuitable capacity",
+      "deployment_quantity": 3,
+      "unit_source_text": "Nos",
+      "quantity_source_text": "3 Nos",
+      "quantity_role": "preprinted_deployment_requirement",
+      "raw_cells": [
+        "1",
+        "Diamond  disc  Cutter/floor saw  machine  with\nsuitable capacity",
+        "3 Nos"
+      ],
+      "cell_bboxes": [
+        [
+          61.66,
+          218.04,
+          98.04,
+          244.56
+        ],
+        [
+          98.04,
+          218.04,
+          331.08,
+          244.56
+        ],
+        [
+          331.08,
+          218.04,
+          509.54,
+          244.56
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_number": "2",
+      "equipment_description": "Wall Sawing Machine with suitable capacity",
+      "deployment_quantity": 3,
+      "unit_source_text": "Nos",
+      "quantity_source_text": "3 Nos",
+      "quantity_role": "preprinted_deployment_requirement",
+      "raw_cells": [
+        "2",
+        "Wall Sawing Machine with suitable capacity",
+        "3 Nos"
+      ],
+      "cell_bboxes": [
+        [
+          61.66,
+          244.56,
+          98.04,
+          265.44
+        ],
+        [
+          98.04,
+          244.56,
+          331.08,
+          265.44
+        ],
+        [
+          331.08,
+          244.56,
+          509.54,
+          265.44
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_number": "3",
+      "equipment_description": "Electric Drill Motors/ Hammer drilling machine",
+      "deployment_quantity": 4,
+      "unit_source_text": "Nos",
+      "quantity_source_text": "4 Nos",
+      "quantity_role": "preprinted_deployment_requirement",
+      "raw_cells": [
+        "3",
+        "Electric Drill Motors/ Hammer drilling machine",
+        "4 Nos"
+      ],
+      "cell_bboxes": [
+        [
+          61.66,
+          265.44,
+          98.04,
+          293.88
+        ],
+        [
+          98.04,
+          265.44,
+          331.08,
+          293.88
+        ],
+        [
+          331.08,
+          265.44,
+          509.54,
+          293.88
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_number": "4",
+      "equipment_description": "Floor Saw Machine with suitable capacity",
+      "deployment_quantity": 4,
+      "unit_source_text": "Nos",
+      "quantity_source_text": "4 Nos",
+      "quantity_role": "preprinted_deployment_requirement",
+      "raw_cells": [
+        "4",
+        "Floor Saw Machine with suitable capacity",
+        "4 Nos"
+      ],
+      "cell_bboxes": [
+        [
+          61.66,
+          293.88,
+          98.04,
+          314.76
+        ],
+        [
+          98.04,
+          293.88,
+          331.08,
+          314.76
+        ],
+        [
+          331.08,
+          293.88,
+          509.54,
+          314.76
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_number": "5",
+      "equipment_description": "Chipping Machine",
+      "deployment_quantity": 12,
+      "unit_source_text": "Nos",
+      "quantity_source_text": "12 Nos",
+      "quantity_role": "preprinted_deployment_requirement",
+      "raw_cells": [
+        "5",
+        "Chipping Machine",
+        "12 Nos"
+      ],
+      "cell_bboxes": [
+        [
+          61.66,
+          314.76,
+          98.04,
+          336.72
+        ],
+        [
+          98.04,
+          314.76,
+          331.08,
+          336.72
+        ],
+        [
+          331.08,
+          314.76,
+          509.54,
+          336.72
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_number": "6",
+      "equipment_description": "Crusher/Combi Crusher",
+      "deployment_quantity": 2,
+      "unit_source_text": "Nos",
+      "quantity_source_text": "2 Nos",
+      "quantity_role": "preprinted_deployment_requirement",
+      "raw_cells": [
+        "6",
+        "Crusher/Combi Crusher",
+        "2 Nos"
+      ],
+      "cell_bboxes": [
+        [
+          61.66,
+          336.72,
+          98.04,
+          357.48
+        ],
+        [
+          98.04,
+          336.72,
+          331.08,
+          357.48
+        ],
+        [
+          331.08,
+          336.72,
+          509.54,
+          357.48
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_number": "7",
+      "equipment_description": "Hydraulic Mobile crane",
+      "deployment_quantity": 2,
+      "unit_source_text": "Nos",
+      "quantity_source_text": "2 Nos",
+      "quantity_role": "preprinted_deployment_requirement",
+      "raw_cells": [
+        "7",
+        "Hydraulic Mobile crane",
+        "2 Nos"
+      ],
+      "cell_bboxes": [
+        [
+          61.66,
+          357.48,
+          98.04,
+          379.44
+        ],
+        [
+          98.04,
+          357.48,
+          331.08,
+          379.44
+        ],
+        [
+          331.08,
+          357.48,
+          509.54,
+          379.44
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_number": "8",
+      "equipment_description": "High/Long Reach Demolition equipment as per\nthe requirement",
+      "deployment_quantity": 1,
+      "unit_source_text": "Nos",
+      "quantity_source_text": "1 Nos",
+      "quantity_role": "preprinted_deployment_requirement",
+      "raw_cells": [
+        "8",
+        "High/Long Reach Demolition equipment as per\nthe requirement",
+        "1 Nos"
+      ],
+      "cell_bboxes": [
+        [
+          61.66,
+          379.44,
+          98.04,
+          405.84
+        ],
+        [
+          98.04,
+          379.44,
+          331.08,
+          405.84
+        ],
+        [
+          331.08,
+          379.44,
+          509.54,
+          405.84
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_number": "9",
+      "equipment_description": "Hydraulic rock breaker with loader",
+      "deployment_quantity": 2,
+      "unit_source_text": "Nos",
+      "quantity_source_text": "2 Nos",
+      "quantity_role": "preprinted_deployment_requirement",
+      "raw_cells": [
+        "9",
+        "Hydraulic rock breaker with loader",
+        "2 Nos"
+      ],
+      "cell_bboxes": [
+        [
+          61.66,
+          405.84,
+          98.04,
+          426.6
+        ],
+        [
+          98.04,
+          405.84,
+          331.08,
+          426.6
+        ],
+        [
+          331.08,
+          405.84,
+          509.54,
+          426.6
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_number": "10",
+      "equipment_description": "DG set 100kV or higher capacity",
+      "deployment_quantity": 2,
+      "unit_source_text": "Nos",
+      "quantity_source_text": "2 Nos",
+      "quantity_role": "preprinted_deployment_requirement",
+      "raw_cells": [
+        "10",
+        "DG set 100kV or higher capacity",
+        "2 Nos"
+      ],
+      "cell_bboxes": [
+        [
+          61.66,
+          426.6,
+          98.04,
+          447.42
+        ],
+        [
+          98.04,
+          426.6,
+          331.08,
+          447.42
+        ],
+        [
+          331.08,
+          426.6,
+          509.54,
+          447.42
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    }
+  ],
+  "notes": [
+    {
+      "note_id": "attachment_10_note_1",
+      "number": 1,
+      "pdf_page": 52,
+      "text": "1.  Plant and Equipment indicated above is minimum to be deployed at appropriate stage of the work.\n          However, depending on the requirement to complete the work in the stipulated completion period,\n           the tenderer should deploy additional machinery as circumstances warrant at no extra cost.",
+      "review_status": "pending_manual_review"
+    },
+    {
+      "note_id": "attachment_10_note_2",
+      "number": 2,
+      "pdf_page": 52,
+      "text": "2.  Plant and equipment to be mobilized for the work shall be in good serviceable condition.",
+      "review_status": "pending_manual_review"
+    }
+  ],
+  "introductory_context": {
+    "pdf_page": 52,
+    "text": "ATTACHMENT -10\n\n                                   (To be submitted by Tenderer)\n\n\n                      MINIMUM PLANTS & EQUIPMENTS FOR THE WORK\n\n                           (TO BE DEPLOYED AS AND WHEN REQUIRED)\n\n\n       Tenderers should have the following plant and machinery either owned or leased or hired by him."
+  },
+  "signature_template": {
+    "pdf_page": 52,
+    "text": "Signature) ……………………\nName of signatory: ………………………………\nCapacity of signatory: ……………………………\nName and address of Tenderer:……………….."
+  },
+  "full_form_context": [
+    {
+      "pdf_page": 52,
+      "text": "ATTACHMENT -10\n\n                                   (To be submitted by Tenderer)\n\n\n                      MINIMUM PLANTS & EQUIPMENTS FOR THE WORK\n\n                           (TO BE DEPLOYED AS AND WHEN REQUIRED)\n\n\n       Tenderers should have the following plant and machinery either owned or leased or hired by him.\n\n        Sl.\n              Type of equipment required for the work         Proposed to be deployed\n\n\n       1    Diamond  disc  Cutter/floor saw  machine  with               3 Nos\n               suitable capacity\n\n       2    Wall Sawing Machine with suitable capacity                    3 Nos\n\n       3     Electric Drill Motors/ Hammer drilling machine                  4 Nos\n\n\n       4     Floor Saw Machine with suitable capacity                      4 Nos\n\n       5    Chipping Machine                                        12 Nos\n\n       6    Crusher/Combi Crusher                                    2 Nos\n\n       7     Hydraulic Mobile crane                                     2 Nos\n\n       8    High/Long Reach Demolition equipment as per               1 Nos\n              the requirement\n\n       9     Hydraulic rock breaker with loader                            2 Nos\n\n      10  DG set 100kV or higher capacity                             2 Nos\n\n\n  NOTE:\n        1.  Plant and Equipment indicated above is minimum to be deployed at appropriate stage of the work.\n          However, depending on the requirement to complete the work in the stipulated completion period,\n           the tenderer should deploy additional machinery as circumstances warrant at no extra cost.\n        2.  Plant and equipment to be mobilized for the work shall be in good serviceable condition.\n\n\n\n\n\nSignature) ……………………\nName of signatory: ………………………………\nCapacity of signatory: ……………………………\nName and address of Tenderer:……………….."
+    }
+  ],
+  "table_region_token_check": "passed",
+  "source_observations": [
+    {
+      "item_number": 10,
+      "source_text": "DG set 100kV or higher capacity",
+      "note": "Capacity-unit wording is preserved as supplied. No automatic correction or conversion was made.",
+      "review_status": "pending_review"
+    }
+  ],
+  "limitations": [
+    "Printed quantities are requirements, not evidence of machinery actually owned or deployed.",
+    "Ownership, lease or hire conditions remain in source context.",
+    "Timing and additional-machinery obligations remain in notes.",
+    "No bidder compliance decision has been made.",
+    "Later corrigenda have not been applied."
+  ]
+}

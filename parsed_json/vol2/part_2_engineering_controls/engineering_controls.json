@@ -1,0 +1,337 @@
+{
+  "source_id": "bmrcl-volume-2",
+  "source_path": "data/Vol2DLNP1.pdf",
+  "source_sha256": "e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b",
+  "source_section": "H",
+  "part_id": "2",
+  "title": "Key Engineering Controls and Work Practices",
+  "review_status": "pending_manual_review",
+  "preamble": [
+    {
+      "pdf_page": 9,
+      "text": "PART 2- KEY ENGINEERING CONTROLS AND WORK PRACTICES\n\n           The following key engineering controls and work practices are briefed for the guidance of\n             the contractor for achieving safety standards during planning operation and closing of the\n              task of Demolition /Dismantling buildings and structures."
+    }
+  ],
+  "removed_lines": [
+    {
+      "pdf_page": 9,
+      "text": "156",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 9,
+      "text": "       BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157       Employer Requirement, Scope of Work &",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 9,
+      "text": "                                                                              Technical Specifications",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 9,
+      "text": "       Bangalore Metro Rail Corporation Ltd.                 September 2026           Section Page 6 of 37",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 10,
+      "text": "157",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 10,
+      "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157       Employer Requirement, Scope of Work &",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 10,
+      "text": "                                                                       Technical Specifications",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 10,
+      "text": "Bangalore Metro Rail Corporation Ltd.                 September 2026           Section Page 7 of 37",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 11,
+      "text": "158",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 11,
+      "text": "       BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157       Employer Requirement, Scope of Work &",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 11,
+      "text": "                                                                              Technical Specifications",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 11,
+      "text": "       Bangalore Metro Rail Corporation Ltd.                 September 2026           Section Page 8 of 37",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 12,
+      "text": "159",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 12,
+      "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157       Employer Requirement, Scope of Work &",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 12,
+      "text": "                                                                       Technical Specifications",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 12,
+      "text": "Bangalore Metro Rail Corporation Ltd.                 September 2026           Section Page 9 of 37",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 13,
+      "text": "160",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 13,
+      "text": "       BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157       Employer Requirement, Scope of Work &",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 13,
+      "text": "                                                                              Technical Specifications",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 13,
+      "text": "       Bangalore Metro Rail Corporation Ltd.                 September 2026           Section Page 10 of 37",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 14,
+      "text": "161",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 14,
+      "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157       Employer Requirement, Scope of Work &",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 14,
+      "text": "                                                                       Technical Specifications",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 14,
+      "text": "Bangalore Metro Rail Corporation Ltd.                 September 2026           Section Page 11 of 37",
+      "reason": "Page header, footer or booklet page number"
+    }
+  ],
+  "topics": [
+    {
+      "topic_id": "1",
+      "title": "General Recommendations:",
+      "heading_line": "1.     General Recommendations:",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 9,
+          "text": "1.     General Recommendations:\n               In addition to general principals to be follow as explained in Para’s above the Personal\n              Protective Equipment (PPE) the contractor is encouraged the following additional PPE\n               that may be needed for a specific hazard is noted below.\n\n            General PPE includes:\n                    Steel Helmets/Safety helmets for overhead impact or electrical hazards.\n                    Safety Belts and safety jackets.\n                   Eye protection with side shields\n                   Gloves chosen for job hazards expected (e.g., heavy-duty leather work gloves for\n                   handling debris with sharp edges and/or chemical protective gloves appropriate for\n                  chemicals potentially contacted)\n                   Approved protective footwear\n                    Respiratory protection as necessary—filtering face pieces may be used  for\n                  nuisance dusts (e.g., dried mud, dirt and silt)"
+        }
+      ]
+    },
+    {
+      "topic_id": "2",
+      "title": "STRUCTURAL INSTABILITIES",
+      "heading_line": "2.    STRUCTURAL INSTABILITIES",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 9,
+          "text": "2.    STRUCTURAL INSTABILITIES\n\n          Key Engineering Controls and Work Practices\n\n                   Conduct an engineering survey of the framing, floors, and walls of the structure and\n                 any adjacent structures that might be affected; maintain written survey results\n                    Shore/brace walls and floors as needed to maintain safe work areas during\n                   demolition activities\n                   Have a competent person continually inspect work area to detect hazards resulting\n                  from weakened or deteriorated floors, or walls, or loosened material. A competent\n                 person is able to recognize existing and predictable hazardous conditions and has\n                   the authority to take prompt corrective measures to eliminate the hazardous\n                    condition\n                   Do not allow falling debris/stored materials or heavy equipment to exceed the safe\n                    carrying capacity of the floor\n                   Conduct demolition work from the topmost floors to down. Do not cut / remove load-\n                   supporting members until upper or supported loads have been removed"
+        }
+      ]
+    },
+    {
+      "topic_id": "3",
+      "title": "UNSECURED HAZARDS IN THE WORK AREA",
+      "heading_line": "3.   UNSECURED HAZARDS IN THE WORK AREA",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 9,
+          "text": "3.   UNSECURED HAZARDS IN THE WORK AREA\n\n          Key Engineering Controls and Work Practices\n\n                   Remove  or secure objects  (glass,  structural members)  that may  fall  while\n                 employees work under them.\n                   Use debris netting, sidewalk sheds, canopies, or catch platforms to reduce hazards\n                  from falling objects\n                    Verify the location of all other utility lines; ensure lines have been shut-off, capped,\n                    or otherwise controlled outside the building before beginning work. Notify utility\n                 companies before controlling their utility lines\n                   Assess the presence, contents, and condition of tanks and equipment that might\n                   contain hazardous chemicals, gases, or flammable materials. If the condition of\n                   tanks or equipment is suspect, avoid disturbing them until after the assessment is\n                done and a plan of action determined"
+        },
+        {
+          "pdf_page": 10,
+          "text": "  Purge lines, tanks, and equipment containing hazardous chemicals, gases, or\n            flammable materials. Use air monitoring equipment such as a combustible gas\n               indicator, toxic gas monitor, or oxygen monitor to determine  if any hazardous\n             conditions remain. When necessary, provide additional controls to protect response\n           and recovery workers (e.g., forced ventilation, respiratory protection)\n             Provide and use safe walkways to reach any point without having to walk on\n           exposed beams; walkways should be at least 45 cm wide and formed by using 5\n         cm thick wood, with stringers installed as needed for support"
+        }
+      ]
+    },
+    {
+      "topic_id": "4",
+      "title": "DROPPING CONSTRUCTION DEBRIS",
+      "heading_line": "4.    DROPPING CONSTRUCTION DEBRIS",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 10,
+          "text": "4.    DROPPING CONSTRUCTION DEBRIS\n\n     Key Engineering Controls and Work Practices\n\n             Enclose material chutes at greater than a 45 degree angle; chute openings should\n           be 120 cm or less with gates that are closed when the chute is not in use; provide\n           105 cm high guardrails where debris is dumped manually; where debris is dumped\n            using mechanical equipment or wheel barrows, provide 10 cm wide by 15 cm high\n             toe boards/bumpers\n             Barricade and mark all debris-dropping areas; ensure debris is not removed until\n             debris-handling ceases above"
+        }
+      ]
+    },
+    {
+      "topic_id": "5",
+      "title": "IMPROPER LADDER OR SCAFFOLD USE",
+      "heading_line": "5.    IMPROPER LADDER OR SCAFFOLD USE",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 10,
+          "text": "5.    IMPROPER LADDER OR SCAFFOLD USE\n\n     Key Engineering Controls and Work Practices\n\n           Inspect ladders for cracked, broken, or defective parts before use\n          Do not exceed the load rating of ladders or scaffolds remember that load ratings\n            include people, tools, and equipment\n           Set up ladders and scaffolds on stable surfaces\n           Set extension or straight ladders at a 75 degree angle from the ground (7 cm back\n              for every foot of rise) and provide 90cm above an upper landing surface to ease\n            climbing onto/descending from height\n           Use non-conductive ladders (e.g., fiberglass) and exercise extreme caution when\n           working near power lines\n           Secure ladders that can be displaced by work activities; consider barricades at the\n          base to keep traffic away\n           Have a competent person inspect scaffolds before use\n           Ensure that the scaffold is plumb, and braced and guyed to prevent tipping, swaying,\n          and displacement\n           Ensure that the scaffold  is  built on base plates and mud  sills, or other firm\n            foundations. Footings should be able to support the scaffold without settling or\n           moving. Do not use unstable objects to support scaffolds\n            Fully plank each scaffold on all working levels. For wood planking, use wood graded\n              for the intended load\n           Provide guardrails or fall protection systems on platforms 3.3m or higher\n\n       Additional Personal Protective Equipment\n\n           Fall arrest systems on platforms without guardrails 3.3 m or higher"
+        }
+      ]
+    },
+    {
+      "topic_id": "6",
+      "title": "GENERAL HEAVY EQUIPMENT OPERATIONS",
+      "heading_line": "6.   GENERAL HEAVY EQUIPMENT OPERATIONS",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 10,
+          "text": "6.   GENERAL HEAVY EQUIPMENT OPERATIONS\n\n       Additional Personal Protective Equipment\n\n          Hearing protection for Noise hazard"
+        },
+        {
+          "pdf_page": 11,
+          "text": "  When working from an aerial  lift, use a body harness that is properly attached (or\n              body belt for tethering or restraint use only) for fall protection"
+        }
+      ]
+    },
+    {
+      "topic_id": "7",
+      "title": "FALLS FROM HEIGHTS OR THROUGH OPENINGS",
+      "heading_line": "7.    FALLS FROM HEIGHTS OR THROUGH OPENINGS",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 11,
+          "text": "7.    FALLS FROM HEIGHTS OR THROUGH OPENINGS\n\n          Key Engineering Controls and Work Practices\n\n                  Limit access/set up controlled access zones\n                 Use fall protection systems: guardrails, safety nets, or fall arrest systems\n                 Cover or guard holes and openings as soon as they are created. Covers must support\n               two times the weight (body, equipment, materials) that may be imposed\n\n             Additional Personal Protective Equipment\n\n                 Personal  fall arrest system including harnesses, lanyards,  lifelines, connectors,\n                anchorages, and anchor points (as needed)"
+        }
+      ]
+    },
+    {
+      "topic_id": "8",
+      "title": "CONTACT WITH LIVE ELECTRICAL EQUIPMENT AND OTHER UTILITIES",
+      "heading_line": "8.   CONTACT WITH LIVE ELECTRICAL EQUIPMENT AND OTHER UTILITIES",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 11,
+          "text": "8.   CONTACT WITH LIVE ELECTRICAL EQUIPMENT AND OTHER UTILITIES\n\n          Key Engineering Controls and Work Practices\n\n                 Assume that electrical lines are energized until proven otherwise. Lines and other\n                conductors may become reenergized without warning as utilities are evaluated and\n                 restored after a disaster\n                  Inspect the work area for downed conductors and do not go near, drive over, or\n                 otherwise come in contact with them\n                 Downed electrical conductors can energize other objects, including fences, water\n                  pipes, bushes, trees, and telephone/CATV/fiber optic cables\n                 Unless de-energized and visibly grounded, maintain proper distance from overhead\n                    electrical power lines (at least 3.3m) and/or provide insulating barriers\n                 Do not approach any gas leaks;  if a gas leak is detected, secure spark-producing\n                devices  (e.g., engines,  tools,  electronic and communications equipment) and\n               evacuate the area until the leak is secured"
+        }
+      ]
+    },
+    {
+      "topic_id": "9",
+      "title": "POWER AND HAND TOOL USE",
+      "heading_line": "9.   POWER AND HAND TOOL USE",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 11,
+          "text": "9.   POWER AND HAND TOOL USE\n\n          Key Engineering Controls and Work Practices\n\n                 Use ground-fault circuit interrupters (GFCIs) or double insulated power tools, or\n               implement an assured equipment grounding program\n                  Inspect power tool condition (including any cords) and verify operation of safety\n                 features before use\n                 Do not use equipment that is defective, such as equipment with inoperable safety\n                 switches, missing guards, frayed/cut cords, etc.\n                 Ground power tools properly\n                 Avoid standing in wet areas when using portable power tools\n\n             Additional Personal Protective Equipment\n\n                 Hearing protection for Noise hazard\n                 Hand protection for cut- and abrasion-control and vibration dampening\n                 Eye protection appropriate to the impact hazard"
+        }
+      ]
+    },
+    {
+      "topic_id": "10",
+      "title": "GENERATOR USE",
+      "heading_line": "10.   GENERATOR USE",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 12,
+          "text": "10.   GENERATOR USE\n\n     Key Engineering Controls and Work Practices\n\n          Never attach a generator directly to the electrical system of a structure unless a\n            qualified electrician has installed a transfer switch for the generator. If the structure’s\n            electrical system is not isolated, it may energize the utility’s wiring system for great\n          distances and create a risk of electrocution for utility workers and others in the area\n          Always plug electrical equipment directly into the generator using the manufacturer’s\n           supplied cords or grounded (3-pronged) extension cords that are rated for the total\n           anticipated load\n          Do not overload a generator; it can overheat and create a fire hazard\n          Ground and bond generators according to the manufacturer’s recommendations;\n          ensure that any manufacturer-required connections are secure before using the\n          generator\n          Keep the generator dry; protect with a canopy if needed; do not use it in wet or rainy\n           conditions\n          Carbon monoxide (CO) is a poisonous, colorless, and odorless gas that is produced\n         by the incomplete burning of the generator’s fuel. CO is harmful when breathed\n         because it displaces oxygen in the blood and deprives the heart, brain, and other vital\n          organs of oxygen\n          Never use a generator indoors or  in enclosed spaces such as garages and\n         basements; opening windows and doors may not prevent CO from building up in\n          those spaces. Do not use a generator outdoors near doors, windows, and vents that\n          could allow CO to enter\n          Ensure that a generator has 1 to 1.2 m of clear space on all sides and above it to\n          ensure adequate ventilation and cooling. Before refueling, shut down the generator\n         and allow it to cool\n\n       Additional Personal Protective Equipment\n\n       Hearing protection for Noise hazard."
+        }
+      ]
+    },
+    {
+      "topic_id": "11",
+      "title": "SILICA, MOLD, NUISANCE DUST, DRIED MUD, OR SILT",
+      "heading_line": "11.    SILICA, MOLD, NUISANCE DUST, DRIED MUD, OR SILT",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 12,
+          "text": "11.    SILICA, MOLD, NUISANCE DUST, DRIED MUD, OR SILT\n\n     Key Engineering Controls and Work Practices\n\n          Stay upwind of or away from dust-generating activities, and in particular those\n           involving crystalline silica-containing materials like concrete, brick, tile, drywall,\n           mortar, sand, or stone. When inhaled, the fine crystalline silica particles contained in\n           the dust can become lodged deep in the lung, which can lead to silicosis and other\n           respiratory illnesses\n          Use water spray or mist to suppress dust generation, especially during operations\n            that may create a lot of dust, such as cutting or sawing silica-containing materials,\n           jack hammering, impact drilling, using heavy equipment, and demolishing structures\n          Avoid using compressed air for cleaning surfaces\n           Limit contact or disturbance of surfaces containing substantial visible mold growth\n\n       Additional Personal Protective Equipment\n\n           At a minimum, use respirators with filters for work with crystalline silica-containing\n           materials (e.g., concrete, brick, tile, mortar). The use of filters may provide additional\n            protection. Higher levels of respiratory protection may be needed for some operations\n             (e.g., cutting concrete, sandblasting, mixing concrete)\n           Respirators may be used for nuisance dusts (e.g., dried mud, dirt, or silt)"
+        }
+      ]
+    },
+    {
+      "topic_id": "12",
+      "title": "WELDING, CUTTING, AND BURNING",
+      "heading_line": "12.   WELDING, CUTTING, AND BURNING",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 13,
+          "text": "12.   WELDING, CUTTING, AND BURNING\n\n          Key Engineering Controls and Work Practices\n\n                 Remove flammable and combustible materials from the area\n                 Do not perform \"hot work\" such as welding, cutting, or burning in areas where\n                flammable, combustible, corrosive, or toxic substances are being used, stored, or\n            may otherwise be present\n                  Maintain a fire watch during all hot work until material has cooled\n                 Ensure fire extinguishers and extinguishing agents are available in the immediate\n                area\n                  Provide natural, exhaust, or forced ventilation to control exposure to the metal fumes\n              and other contaminants being generated (e.g., generator exhaust)\n                 Ensure that pipes and other vessels are purged of hazardous materials\n                  Identify building materials that will be welded, cut, or burned and that may contain\n                  lead, such as painted surfaces and pipes.\n\n             Additional Personal Protective Equipment\n\n                 Gloves and protective clothing for the activity being performed\n                  At a minimum, filtered lenses and face-protection as appropriate for the activity being\n               performed\n                  Respiratory protection based on anticipated exposure to metal fumes, including lead"
+        }
+      ]
+    },
+    {
+      "topic_id": "13",
+      "title": "NOISE",
+      "heading_line": "13.  NOISE",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 13,
+          "text": "13.  NOISE\n\n          Key Engineering Controls and Work Practices\n\n                 Place generators, compressors, and other noisy equipment at a distance or behind a\n                   barrier when possible\n\n             Additional Personal Protective Equipment\n\n                 Hearing protection when working around potential noise sources and when noise\n                  levels exceed 90 dba. A useful \"rule of thumb\"—if you cannot hold a conversation in\n              a normal speaking voice with a person who is standing at arm’s length (approximately\n                 0.9m), the noise level may exceed 90 dba."
+        }
+      ]
+    },
+    {
+      "topic_id": "14",
+      "title": "CONFINED SPACES",
+      "heading_line": "14.   CONFINED SPACES",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 13,
+          "text": "14.   CONFINED SPACES\n\n          Key Engineering Controls and Work Practices\n\n                 Confined spaces have limited means of entry or exit, are large enough to bodily enter,\n              and may contain physical (e.g., mechanical, electrical, hydraulic, pneumatic energy;\n                engulfment hazards; inwardly converging surfaces) or atmospheric hazards (e.g.,\n               atmospheres that are oxygen-deficient or oxygen-enriched, contain or may contain\n               flammable gas, vapor or mist, airborne combustible dust, toxic substances, or any\n                 other atmosphere that is immediately dangerous to life or health). Examples include\n                storage tanks, process vessels, bins, boilers, vaults, ventilation or exhaust ducts,\n                sewers, tunnels, pipelines, and pits more than 1.2m in depth\n                 Some events might introduce hazards or potential hazards into confined spaces. For\n                example, a space might have a potential to contain a hazardous atmosphere due to\n                 the presence of decomposing organic matter, to the use of hazardous chemicals in\n                 the space, or to the performance of operations in the space, such as welding, cutting,"
+        },
+        {
+          "pdf_page": 14,
+          "text": "or burning, that may create a hazardous atmosphere. Additional precautions must be\n          taken to make the space safe for entry\n           Evaluate the need for entry (i.e., placing any body part into the space); prevent\n          unauthorized entries"
+        }
+      ]
+    },
+    {
+      "topic_id": "15",
+      "title": "BARRICADING THE PROPERTIES DURING DEMOLITION/DISMANTLING",
+      "heading_line": "15.   BARRICADING THE PROPERTIES DURING DEMOLITION/DISMANTLING",
+      "review_status": "pending_manual_review",
+      "fragments": [
+        {
+          "pdf_page": 14,
+          "text": "15.   BARRICADING THE PROPERTIES DURING DEMOLITION/DISMANTLING\n\n      The structure to be demolished/dismantled must have barricades, which shall be of plain\n    MS Sheet of 16 gauge fixed with steel frame, painting, with synthetic enamel paint of\n      approved color, quality and brand, writing letter and logo of metro including maintenance\n        of the same, duly cleaning the same frequently, arrangement for blinker light as per\n       requirement. During demolition barricades has to be kept continuously. Removal of\n       barricade will not be permitted till completion of demolition, dismantling of properties\n                  ."
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Bullet points and conditions remain within each topic.",
+    "Safety requirements have not been technically validated.",
+    "No site-specific safety plan has been generated.",
+    "Applicability and later corrigenda have not been checked."
+  ]
+}

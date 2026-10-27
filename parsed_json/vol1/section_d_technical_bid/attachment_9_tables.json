@@ -1,0 +1,416 @@
+{
+  "source_id": "bmrcl-volume-1",
+  "source_path": "data/Vol1DLNP1.pdf",
+  "source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+  "section": "D",
+  "form_id": "attachment_9",
+  "pdf_page": 50,
+  "title": "Key Personnel Qualification and Experience Requirements",
+  "document_role": "template",
+  "review_status": "pending_visual_review",
+  "extraction_method": "source_hash_bound_layout_profile",
+  "original_rotation": 90,
+  "coordinate_system": "Rotation-normalized page coordinates, in points",
+  "table_bbox": [
+    79.036,
+    147.227,
+    823.345,
+    388.213
+  ],
+  "columns": [
+    {
+      "column_number": 1,
+      "field_id": "serial_number",
+      "source_header": "Sl.\nNo",
+      "header_bbox": [
+        79.036,
+        147.227,
+        105.831,
+        271.68
+      ]
+    },
+    {
+      "column_number": 2,
+      "field_id": "required_personnel_role",
+      "source_header": "Key\nPersonnel",
+      "header_bbox": [
+        105.831,
+        147.227,
+        170.03,
+        271.68
+      ]
+    },
+    {
+      "column_number": 3,
+      "field_id": "required_qualifications_and_total_experience",
+      "source_header": "Qualifications  &   Total\nExperience         (Post\nQualification)",
+      "header_bbox": [
+        170.03,
+        147.227,
+        305.87,
+        271.68
+      ]
+    },
+    {
+      "column_number": 4,
+      "field_id": "required_relevant_experience",
+      "source_header": "Experience in Similar Nature\n     works (Minimum\n       requirement)\n\n    (Post Qualification)",
+      "header_bbox": [
+        305.87,
+        147.227,
+        454.79,
+        271.68
+      ]
+    },
+    {
+      "column_number": 5,
+      "field_id": "minimum_personnel_count",
+      "source_header": "Minimum\n\nNumber of\nPersonnel\n Required",
+      "header_bbox": [
+        454.79,
+        147.227,
+        524.39,
+        271.68
+      ]
+    },
+    {
+      "column_number": 6,
+      "field_id": "proposed_personnel_name",
+      "source_header": "Name of the\n    key\n personnel\n proposed",
+      "header_bbox": [
+        524.39,
+        147.227,
+        591.83,
+        271.68
+      ]
+    },
+    {
+      "column_number": 7,
+      "field_id": "proposed_personnel_qualification",
+      "source_header": "Qualification",
+      "header_bbox": [
+        591.83,
+        147.227,
+        663.35,
+        271.68
+      ]
+    },
+    {
+      "column_number": 8,
+      "field_id": "proposed_total_experience_years",
+      "source_header": "Total number\n  of years of\n experience\n\n    (Post\nQualification)",
+      "header_bbox": [
+        663.35,
+        147.227,
+        741.23,
+        271.68
+      ]
+    },
+    {
+      "column_number": 9,
+      "field_id": "proposed_relevant_experience_years",
+      "source_header": "Number of\n   Years of\nexperience in\n the proposed\nposition/equiv\n    alent in\nSimilar Nature\n   works\n\n    (Post\nQualification)",
+      "header_bbox": [
+        741.23,
+        147.227,
+        823.345,
+        271.68
+      ]
+    }
+  ],
+  "personnel_requirements": [
+    {
+      "serial_number": "1",
+      "role": "Project Manager",
+      "required": {
+        "role_source_text": "Project\nManager",
+        "qualifications_and_total_experience": "BE /B. Tech in Civil\nEngineering with 10 years\nof experience (Post\nQualification)",
+        "relevant_experience": "3 years as Project Manager or\nequivalent  in  Similar  Nature\nWorks",
+        "minimum_personnel_count": 1,
+        "minimum_count_source_text": "1"
+      },
+      "proposed_personnel_fields": [
+        {
+          "field_id": "proposed_personnel_name",
+          "value": null,
+          "source_text": "",
+          "source_status": "no_text_in_template_cell",
+          "interpretation": "expected_bidder_entry_field",
+          "bbox": [
+            524.39,
+            271.68,
+            591.83,
+            324.24
+          ],
+          "review_status": "pending_visual_review"
+        },
+        {
+          "field_id": "proposed_personnel_qualification",
+          "value": null,
+          "source_text": "",
+          "source_status": "no_text_in_template_cell",
+          "interpretation": "expected_bidder_entry_field",
+          "bbox": [
+            591.83,
+            271.68,
+            663.35,
+            324.24
+          ],
+          "review_status": "pending_visual_review"
+        },
+        {
+          "field_id": "proposed_total_experience_years",
+          "value": null,
+          "source_text": "",
+          "source_status": "no_text_in_template_cell",
+          "interpretation": "expected_bidder_entry_field",
+          "bbox": [
+            663.35,
+            271.68,
+            741.23,
+            324.24
+          ],
+          "review_status": "pending_visual_review"
+        },
+        {
+          "field_id": "proposed_relevant_experience_years",
+          "value": null,
+          "source_text": "",
+          "source_status": "no_text_in_template_cell",
+          "interpretation": "expected_bidder_entry_field",
+          "bbox": [
+            741.23,
+            271.68,
+            823.345,
+            324.24
+          ],
+          "review_status": "pending_visual_review"
+        }
+      ],
+      "raw_cells": [
+        "1",
+        "Project\nManager",
+        "BE /B. Tech in Civil\nEngineering with 10 years\nof experience (Post\nQualification)",
+        "3 years as Project Manager or\nequivalent  in  Similar  Nature\nWorks",
+        "1",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cell_bboxes": [
+        [
+          79.036,
+          271.68,
+          105.831,
+          324.24
+        ],
+        [
+          105.831,
+          271.68,
+          170.03,
+          324.24
+        ],
+        [
+          170.03,
+          271.68,
+          305.87,
+          324.24
+        ],
+        [
+          305.87,
+          271.68,
+          454.79,
+          324.24
+        ],
+        [
+          454.79,
+          271.68,
+          524.39,
+          324.24
+        ],
+        [
+          524.39,
+          271.68,
+          591.83,
+          324.24
+        ],
+        [
+          591.83,
+          271.68,
+          663.35,
+          324.24
+        ],
+        [
+          663.35,
+          271.68,
+          741.23,
+          324.24
+        ],
+        [
+          741.23,
+          271.68,
+          823.345,
+          324.24
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_number": "2",
+      "role": "Chief Safety and Health Manager",
+      "required": {
+        "role_source_text": "Chief\nSafety and\nHealth\nManager",
+        "qualifications_and_total_experience": "Graduate in Engineering /\nMSc in Safety from a\nrecognized university with 8\nyears of total experience\n(Post Qualification).",
+        "relevant_experience": "5 years as Chief Safety and\nHealth Manager or equivalent\nin Infrastructure projects",
+        "minimum_personnel_count": 1,
+        "minimum_count_source_text": "1"
+      },
+      "proposed_personnel_fields": [
+        {
+          "field_id": "proposed_personnel_name",
+          "value": null,
+          "source_text": "",
+          "source_status": "no_text_in_template_cell",
+          "interpretation": "expected_bidder_entry_field",
+          "bbox": [
+            524.39,
+            324.24,
+            591.83,
+            388.213
+          ],
+          "review_status": "pending_visual_review"
+        },
+        {
+          "field_id": "proposed_personnel_qualification",
+          "value": null,
+          "source_text": "",
+          "source_status": "no_text_in_template_cell",
+          "interpretation": "expected_bidder_entry_field",
+          "bbox": [
+            591.83,
+            324.24,
+            663.35,
+            388.213
+          ],
+          "review_status": "pending_visual_review"
+        },
+        {
+          "field_id": "proposed_total_experience_years",
+          "value": null,
+          "source_text": "",
+          "source_status": "no_text_in_template_cell",
+          "interpretation": "expected_bidder_entry_field",
+          "bbox": [
+            663.35,
+            324.24,
+            741.23,
+            388.213
+          ],
+          "review_status": "pending_visual_review"
+        },
+        {
+          "field_id": "proposed_relevant_experience_years",
+          "value": null,
+          "source_text": "",
+          "source_status": "no_text_in_template_cell",
+          "interpretation": "expected_bidder_entry_field",
+          "bbox": [
+            741.23,
+            324.24,
+            823.345,
+            388.213
+          ],
+          "review_status": "pending_visual_review"
+        }
+      ],
+      "raw_cells": [
+        "2",
+        "Chief\nSafety and\nHealth\nManager",
+        "Graduate in Engineering /\nMSc in Safety from a\nrecognized university with 8\nyears of total experience\n(Post Qualification).",
+        "5 years as Chief Safety and\nHealth Manager or equivalent\nin Infrastructure projects",
+        "1",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cell_bboxes": [
+        [
+          79.036,
+          324.24,
+          105.831,
+          388.213
+        ],
+        [
+          105.831,
+          324.24,
+          170.03,
+          388.213
+        ],
+        [
+          170.03,
+          324.24,
+          305.87,
+          388.213
+        ],
+        [
+          305.87,
+          324.24,
+          454.79,
+          388.213
+        ],
+        [
+          454.79,
+          324.24,
+          524.39,
+          388.213
+        ],
+        [
+          524.39,
+          324.24,
+          591.83,
+          388.213
+        ],
+        [
+          591.83,
+          324.24,
+          663.35,
+          388.213
+        ],
+        [
+          663.35,
+          324.24,
+          741.23,
+          388.213
+        ],
+        [
+          741.23,
+          324.24,
+          823.345,
+          388.213
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    }
+  ],
+  "table_region_token_check": "passed",
+  "signature_template": {
+    "pdf_page": 50,
+    "text": "Signature) …………………… \nName of signatory: ……………………………… \nCapacity of signatory: …………………………… \nName and address of Tenderer:……………….."
+  },
+  "full_form_context": [
+    {
+      "pdf_page": 50,
+      "text": "ATTACHMENT -9 \nMINIMUM QUALIFICATION AND EXPERIENCE REQUIRED FOR KEY PERSONNEL TO BE DEPLOYED FOR THE WORK \n(To be submitted by Tenderer) \n \nSl. \nNo \nKey \nPersonnel \nQualifications \n& \nTotal \nExperience \n(Post \nQualification) \nExperience in Similar Nature \nworks (Minimum \nrequirement) \n(Post Qualification) \nMinimum \nNumber of \nPersonnel \nRequired \nName of the \nkey \npersonnel \nproposed \nQualification   Total number \nof years of \nexperience \n(Post \nQualification) \nNumber of \nYears of \nexperience in \nthe proposed \nposition/equiv\nalent in \nSimilar Nature \nworks  \n(Post \nQualification) \n1 \n \nProject \nManager  \nBE /B. Tech in Civil \nEngineering with 10 years \nof experience (Post \nQualification) \n3 years as Project Manager or \nequivalent in Similar Nature \nWorks \n1 \n \n \n \n \n2 \nChief \nSafety and \nHealth \nManager \nGraduate in Engineering / \nMSc in Safety from a \nrecognized university with 8 \nyears of total experience \n(Post Qualification). \n5 years as Chief Safety and \nHealth Manager or equivalent \nin Infrastructure projects \n1 \n \n \n \n \n \n \nSignature) …………………… \nName of signatory: ……………………………… \nCapacity of signatory: …………………………… \nName and address of Tenderer:……………….."
+    }
+  ],
+  "limitations": [
+    "Field IDs are application-defined labels.",
+    "Qualification alternatives and experience wording are preserved without reinterpretation.",
+    "No personnel have been proposed or assessed.",
+    "Blank proposed-personnel values are null, not zero.",
+    "Experience thresholds remain source text.",
+    "Visual confirmation and applicability review remain pending."
+  ]
+}

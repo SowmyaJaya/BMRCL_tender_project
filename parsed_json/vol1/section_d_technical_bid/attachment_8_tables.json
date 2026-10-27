@@ -1,0 +1,401 @@
+{
+  "source_id": "bmrcl-volume-1",
+  "source_path": "data/Vol1DLNP1.pdf",
+  "source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+  "section": "D",
+  "form_id": "attachment_8",
+  "pdf_page": 49,
+  "title": "Financial Information — Updated Annual Turnover",
+  "document_role": "template",
+  "review_status": "pending_visual_review",
+  "extraction_method": "source_hash_bound_layout_profile",
+  "coordinate_system": "PyMuPDF unrotated page coordinates, in points",
+  "table_bbox": [
+    100.653,
+    152.24,
+    475.107,
+    317.08
+  ],
+  "columns": [
+    {
+      "column_number": 1,
+      "field_id": "serial_number",
+      "source_header": "Sl.\nNo",
+      "header_bbox": [
+        100.653,
+        152.24,
+        127.44,
+        222.84
+      ]
+    },
+    {
+      "column_number": 2,
+      "field_id": "financial_year",
+      "source_header": "Financial\n  Year",
+      "header_bbox": [
+        127.44,
+        152.24,
+        191.16,
+        222.84
+      ]
+    },
+    {
+      "column_number": 3,
+      "field_id": "annual_civil_engineering_turnover_inr",
+      "source_header": "Annual Turnover from\n    all classes of civil\n      engineering\nconstruction works only\n         INR\n             (a)",
+      "header_bbox": [
+        191.16,
+        152.24,
+        318.72,
+        222.84
+      ]
+    },
+    {
+      "column_number": 4,
+      "field_id": "multiplying_factor",
+      "source_header": "Multipl\n ying\nfactor\n\n\n\n  (b)",
+      "header_bbox": [
+        318.72,
+        152.24,
+        367.08,
+        222.84
+      ]
+    },
+    {
+      "column_number": 5,
+      "field_id": "updated_annual_turnover_inr",
+      "source_header": "Updated Annual\n   Turnover\n\n\n\n     INR\n     (a)x(b)",
+      "header_bbox": [
+        367.08,
+        152.24,
+        475.107,
+        222.84
+      ]
+    }
+  ],
+  "financial_year_records": [
+    {
+      "serial_number": "1",
+      "financial_year": "2021-2022",
+      "multiplying_factor_text": "1.28",
+      "annual_turnover_inr": null,
+      "updated_annual_turnover_inr": null,
+      "blank_field_status": "no_text_in_template_cells",
+      "blank_interpretation": "expected_bidder_entry_fields",
+      "raw_cells": [
+        "1",
+        "2021-2022",
+        "",
+        "1.28",
+        ""
+      ],
+      "cell_bboxes": [
+        [
+          100.653,
+          222.84,
+          127.44,
+          240.84
+        ],
+        [
+          127.44,
+          222.84,
+          191.16,
+          240.84
+        ],
+        [
+          191.16,
+          222.84,
+          318.72,
+          240.84
+        ],
+        [
+          318.72,
+          222.84,
+          367.08,
+          240.84
+        ],
+        [
+          367.08,
+          222.84,
+          475.107,
+          240.84
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_number": "2",
+      "financial_year": "2022-2023",
+      "multiplying_factor_text": "1.22",
+      "annual_turnover_inr": null,
+      "updated_annual_turnover_inr": null,
+      "blank_field_status": "no_text_in_template_cells",
+      "blank_interpretation": "expected_bidder_entry_fields",
+      "raw_cells": [
+        "2",
+        "2022-2023",
+        "",
+        "1.22",
+        ""
+      ],
+      "cell_bboxes": [
+        [
+          100.653,
+          240.84,
+          127.44,
+          258.72
+        ],
+        [
+          127.44,
+          240.84,
+          191.16,
+          258.72
+        ],
+        [
+          191.16,
+          240.84,
+          318.72,
+          258.72
+        ],
+        [
+          318.72,
+          240.84,
+          367.08,
+          258.72
+        ],
+        [
+          367.08,
+          240.84,
+          475.107,
+          258.72
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_number": "3",
+      "financial_year": "2023-2024",
+      "multiplying_factor_text": "1.16",
+      "annual_turnover_inr": null,
+      "updated_annual_turnover_inr": null,
+      "blank_field_status": "no_text_in_template_cells",
+      "blank_interpretation": "expected_bidder_entry_fields",
+      "raw_cells": [
+        "3",
+        "2023-2024",
+        "",
+        "1.16",
+        ""
+      ],
+      "cell_bboxes": [
+        [
+          100.653,
+          258.72,
+          127.44,
+          277.56
+        ],
+        [
+          127.44,
+          258.72,
+          191.16,
+          277.56
+        ],
+        [
+          191.16,
+          258.72,
+          318.72,
+          277.56
+        ],
+        [
+          318.72,
+          258.72,
+          367.08,
+          277.56
+        ],
+        [
+          367.08,
+          258.72,
+          475.107,
+          277.56
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_number": "4",
+      "financial_year": "2024-2025",
+      "multiplying_factor_text": "1.10",
+      "annual_turnover_inr": null,
+      "updated_annual_turnover_inr": null,
+      "blank_field_status": "no_text_in_template_cells",
+      "blank_interpretation": "expected_bidder_entry_fields",
+      "raw_cells": [
+        "4",
+        "2024-2025",
+        "",
+        "1.10",
+        ""
+      ],
+      "cell_bboxes": [
+        [
+          100.653,
+          277.56,
+          127.44,
+          295.56
+        ],
+        [
+          127.44,
+          277.56,
+          191.16,
+          295.56
+        ],
+        [
+          191.16,
+          277.56,
+          318.72,
+          295.56
+        ],
+        [
+          318.72,
+          277.56,
+          367.08,
+          295.56
+        ],
+        [
+          367.08,
+          277.56,
+          475.107,
+          295.56
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "serial_number": "5",
+      "financial_year": "2025-2026",
+      "multiplying_factor_text": "1.05",
+      "annual_turnover_inr": null,
+      "updated_annual_turnover_inr": null,
+      "blank_field_status": "no_text_in_template_cells",
+      "blank_interpretation": "expected_bidder_entry_fields",
+      "raw_cells": [
+        "5",
+        "2025-2026",
+        "",
+        "1.05",
+        ""
+      ],
+      "cell_bboxes": [
+        [
+          100.653,
+          295.56,
+          127.44,
+          317.08
+        ],
+        [
+          127.44,
+          295.56,
+          191.16,
+          317.08
+        ],
+        [
+          191.16,
+          295.56,
+          318.72,
+          317.08
+        ],
+        [
+          318.72,
+          295.56,
+          367.08,
+          317.08
+        ],
+        [
+          367.08,
+          295.56,
+          475.107,
+          317.08
+        ]
+      ],
+      "review_status": "pending_visual_review"
+    }
+  ],
+  "formula_source_text": "(a)x(b)",
+  "formula_execution_status": "not_executed",
+  "notes": [
+    {
+      "number": 1,
+      "note_id": "attachment_8_note_1",
+      "pdf_page": 49,
+      "text": "1.  Annual  financial statements (Audited Balance sheets including  all related notes and income\n           statements) for last five financial years (2021-22 to 2025-26) shall be submitted by the Tenderer.",
+      "review_status": "pending_manual_review"
+    },
+    {
+      "number": 2,
+      "note_id": "attachment_8_note_2",
+      "pdf_page": 49,
+      "text": "2.  The financial information/Annual Turnover ( in all classes of civil engineering construction works\n             only) of the Tenderer must be certified either by the Independent Financial Auditor (statutory\n            Auditor) of the company appointed under the Companies’ Act or by a Chartered Accountant with his\n          stamp and signature with membership number and firm registration number.",
+      "review_status": "pending_manual_review"
+    },
+    {
+      "number": 3,
+      "note_id": "attachment_8_note_3",
+      "pdf_page": 49,
+      "text": "3.  In case any discrepancy in data is found between the Audited Balance sheet and the financial\n            information/Annual Turnover (n all classes of civil engineering construction works only) submitted,\n            the data as available in the Audited Balance sheet will be considered.",
+      "review_status": "pending_manual_review"
+    },
+    {
+      "number": 4,
+      "note_id": "attachment_8_note_4",
+      "pdf_page": 49,
+      "text": "4.  In case Audited Balance sheet of the last Financial Year ending with 2025-26 is not made available\n          by the Bidder, he must submit an affidavit certifying that 'The Balance Sheet has actually not been\n            audited so far'. In such a case the financial data of previous '4' audited Financial Years will be taken\n              into consideration for evaluation.",
+      "review_status": "pending_manual_review"
+    },
+    {
+      "number": 5,
+      "note_id": "attachment_8_note_5",
+      "pdf_page": 49,
+      "text": "5.  To align a January–December financial year with the standard April–March fiscal year, use the\n             following conversion:\n\n        A calendar year (e.g., January–December 2023) corresponds to the subsequent fiscal year (e.g.,\n         FY 2023–24, covering  April 2023  to March 2024). Apply  this  rule  consistently  to  all such\n            conversions.",
+      "review_status": "pending_manual_review"
+    },
+    {
+      "number": 6,
+      "note_id": "attachment_8_note_6",
+      "pdf_page": 49,
+      "text": "6.   All documents shall reflect the stand-alone financial status of the Tenderer and not the Tenderer’s\n            parent companies, subsidiaries, or affiliates.",
+      "review_status": "pending_manual_review"
+    },
+    {
+      "number": 7,
+      "note_id": "attachment_8_note_7",
+      "pdf_page": 49,
+      "text": "7.   All the documents or certifications, which are provided by CA after 1st July, 2019, must contain\n         UDIN  thereon  and  the  particulars  of  certifications  must  be  same  as  mentioned  on\n            document/certification and submitted to ICAI on  its website which can be  verified online on\n             https://udin.icai.org/search-udin.",
+      "review_status": "pending_manual_review"
+    }
+  ],
+  "signature_template": {
+    "pdf_page": 49,
+    "text": "(Signature) ……………………                           (Signature & Seal) ……………………\n\n  Name of signatory: ………                     Name of signatory: …………………..\n\n  Capacity of signatory: …………………..                  (Chartered Accountant/ Independent Financial Auditor)\n\n  Name and address of Tenderer………..                 Address: ……….. UDIN:",
+    "field_separation_status": "not_reconstructed"
+  },
+  "factor_consistency_check": {
+    "compared_with": "attachment_6_tables.json",
+    "basis": "cross_table_comparison",
+    "status": "passed",
+    "note": "A consistency check, not a claim that Attachment 8 explicitly references Attachment 6."
+  },
+  "full_form_context": [
+    {
+      "pdf_page": 49,
+      "text": "ATTACHMENT -8\n\n                           Financial Information - Updated Annual Turnover\n\n     (To be submitted duly signed by tenderer & his Chartered Accountant/ Independent Financial Auditor)\n\n                                    (To be submitted by tenderer)\n\n\n                 Sl.    Financial    Annual Turnover from    Multipl    Updated Annual\n          No     Year            all classes of civil       ying         Turnover\n                                    engineering          factor\n                               construction works only\n                                    INR                          INR\n                                                   (a)                  (b)             (a)x(b)\n             1    2021-2022                               1.28\n\n             2                  2022-2023                               1.22\n\n             3                  2023-2024                               1.16\n\n             4    2024-2025                               1.10\n             5    2025-2026                               1.05\n\n\n\nNote:\n         1.  Annual  financial statements (Audited Balance sheets including  all related notes and income\n           statements) for last five financial years (2021-22 to 2025-26) shall be submitted by the Tenderer.\n\n         2.  The financial information/Annual Turnover ( in all classes of civil engineering construction works\n             only) of the Tenderer must be certified either by the Independent Financial Auditor (statutory\n            Auditor) of the company appointed under the Companies’ Act or by a Chartered Accountant with his\n          stamp and signature with membership number and firm registration number.\n\n         3.  In case any discrepancy in data is found between the Audited Balance sheet and the financial\n            information/Annual Turnover (n all classes of civil engineering construction works only) submitted,\n            the data as available in the Audited Balance sheet will be considered.\n\n         4.  In case Audited Balance sheet of the last Financial Year ending with 2025-26 is not made available\n          by the Bidder, he must submit an affidavit certifying that 'The Balance Sheet has actually not been\n            audited so far'. In such a case the financial data of previous '4' audited Financial Years will be taken\n              into consideration for evaluation.\n\n         5.  To align a January–December financial year with the standard April–March fiscal year, use the\n             following conversion:\n\n        A calendar year (e.g., January–December 2023) corresponds to the subsequent fiscal year (e.g.,\n         FY 2023–24, covering  April 2023  to March 2024). Apply  this  rule  consistently  to  all such\n            conversions.\n\n         6.   All documents shall reflect the stand-alone financial status of the Tenderer and not the Tenderer’s\n            parent companies, subsidiaries, or affiliates.\n\n         7.   All the documents or certifications, which are provided by CA after 1st July, 2019, must contain\n         UDIN  thereon  and  the  particulars  of  certifications  must  be  same  as  mentioned  on\n            document/certification and submitted to ICAI on  its website which can be  verified online on\n             https://udin.icai.org/search-udin.\n\n\n\n  (Signature) ……………………                           (Signature & Seal) ……………………\n\n  Name of signatory: ………                     Name of signatory: …………………..\n\n  Capacity of signatory: …………………..                  (Chartered Accountant/ Independent Financial Auditor)\n\n  Name and address of Tenderer………..                 Address: ……….. UDIN:"
+    }
+  ],
+  "limitations": [
+    "Blank turnover fields are null, not zero.",
+    "No bidder financial information has been supplied.",
+    "No turnover calculations or eligibility decisions made.",
+    "Multi-level header text is preserved in combined column headers.",
+    "Signature columns are preserved as text, not separate fields.",
+    "Notes and applicability require review."
+  ]
+}

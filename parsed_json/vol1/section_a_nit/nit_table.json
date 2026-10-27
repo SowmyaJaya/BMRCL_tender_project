@@ -1,0 +1,610 @@
+{
+  "source_id": "bmrcl-volume-1",
+  "source_path": "data/Vol1DLNP1.pdf",
+  "source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+  "section": "A",
+  "title": "NIT Key Details Table",
+  "pdf_page": 7,
+  "extraction_method": "pymupdf_table_boundaries_with_direct_cell_text",
+  "table_bbox": [
+    70.54588003719554,
+    236.19962565104166,
+    525.6140926585477,
+    718.2595825195312
+  ],
+  "header_cells": [
+    "Sl\nNo",
+    "Description",
+    null
+  ],
+  "coordinate_system": "PyMuPDF unrotated page coordinates, in points",
+  "review_status": "pending_visual_review",
+  "scope_note": "Original Volume 1 NIT values only. Later corrigenda have not been applied. Token checks do not verify cell relationships or punctuation placement.",
+  "rows": [
+    {
+      "number": 1,
+      "pdf_page": 7,
+      "requirement": "Estimated Cost of Work",
+      "value": "INR 4.74 Crores",
+      "extracted_cells": [
+        "1",
+        "Estimated Cost of Work",
+        "INR 4.74 Crores"
+      ],
+      "cell_bboxes": [
+        [
+          70.54588003719554,
+          259.79962158203125,
+          95.63999938964844,
+          276.9596252441406
+        ],
+        [
+          95.63999938964844,
+          259.79962158203125,
+          284.63999938964844,
+          276.9596252441406
+        ],
+        [
+          284.63999938964844,
+          259.79962158203125,
+          525.6140926585477,
+          276.9596252441406
+        ]
+      ],
+      "original_row_fragments": [
+        {
+          "pdf_page": 7,
+          "text": "1   Estimated Cost of Work               INR 4.74 Crores"
+        }
+      ],
+      "token_preservation_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "number": 2,
+      "pdf_page": 7,
+      "requirement": "Tender Security (EMD)",
+      "value": "INR 7.11 Lakhs",
+      "extracted_cells": [
+        "2",
+        "Tender Security (EMD)",
+        "INR 7.11 Lakhs"
+      ],
+      "cell_bboxes": [
+        [
+          70.54588003719554,
+          276.9596252441406,
+          95.63999938964844,
+          292.67962646484375
+        ],
+        [
+          95.63999938964844,
+          276.9596252441406,
+          284.63999938964844,
+          292.67962646484375
+        ],
+        [
+          284.63999938964844,
+          276.9596252441406,
+          525.6140926585477,
+          292.67962646484375
+        ]
+      ],
+      "original_row_fragments": [
+        {
+          "pdf_page": 7,
+          "text": "2   Tender Security (EMD)               INR 7.11 Lakhs"
+        }
+      ],
+      "token_preservation_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "number": 3,
+      "pdf_page": 7,
+      "requirement": "Tender Fee (inclusive of GST)",
+      "value": "INR 11,800/-",
+      "extracted_cells": [
+        "3",
+        "Tender Fee (inclusive of GST)",
+        "INR 11,800/-"
+      ],
+      "cell_bboxes": [
+        [
+          70.54588003719554,
+          292.67962646484375,
+          95.63999938964844,
+          308.6396179199219
+        ],
+        [
+          95.63999938964844,
+          292.67962646484375,
+          284.63999938964844,
+          308.6396179199219
+        ],
+        [
+          284.63999938964844,
+          292.67962646484375,
+          525.6140926585477,
+          308.6396179199219
+        ]
+      ],
+      "original_row_fragments": [
+        {
+          "pdf_page": 7,
+          "text": "3   Tender Fee (inclusive of GST)          INR 11,800/-"
+        }
+      ],
+      "token_preservation_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "number": 4,
+      "pdf_page": 7,
+      "requirement": "Completion Period of Work",
+      "value": "12 Months",
+      "extracted_cells": [
+        "4",
+        "Completion Period of Work",
+        "12 Months"
+      ],
+      "cell_bboxes": [
+        [
+          70.54588003719554,
+          308.6396179199219,
+          95.63999938964844,
+          326.15960693359375
+        ],
+        [
+          95.63999938964844,
+          308.6396179199219,
+          284.63999938964844,
+          326.15960693359375
+        ],
+        [
+          284.63999938964844,
+          308.6396179199219,
+          525.6140926585477,
+          326.15960693359375
+        ]
+      ],
+      "original_row_fragments": [
+        {
+          "pdf_page": 7,
+          "text": "4   Completion Period of Work             12 Months"
+        }
+      ],
+      "token_preservation_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "number": 5,
+      "pdf_page": 7,
+      "requirement": "Tender   Documents   available   on\neProcurement Portal",
+      "value": "09.09.2026 to 09.10.2026 (up to 3.00 PM (IST))",
+      "extracted_cells": [
+        "5",
+        "Tender   Documents   available   on\neProcurement Portal",
+        "09.09.2026 to 09.10.2026 (up to 3.00 PM (IST))"
+      ],
+      "cell_bboxes": [
+        [
+          70.54588003719554,
+          326.15960693359375,
+          95.63999938964844,
+          349.6796112060547
+        ],
+        [
+          95.63999938964844,
+          326.15960693359375,
+          284.63999938964844,
+          349.6796112060547
+        ],
+        [
+          284.63999938964844,
+          326.15960693359375,
+          525.6140926585477,
+          349.6796112060547
+        ]
+      ],
+      "original_row_fragments": [
+        {
+          "pdf_page": 7,
+          "text": "5   Tender   Documents   available   on   09.09.2026 to 09.10.2026 (up to 3.00 PM (IST))\n       eProcurement Portal"
+        }
+      ],
+      "token_preservation_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "number": 6,
+      "pdf_page": 7,
+      "requirement": "Site Visit (will be facilitated by BMRCL)",
+      "value": "23.09.2026 at 11.00 AM (IST)",
+      "extracted_cells": [
+        "6",
+        "Site Visit (will be facilitated by BMRCL)",
+        "23.09.2026 at 11.00 AM (IST)"
+      ],
+      "cell_bboxes": [
+        [
+          70.54588003719554,
+          349.6796112060547,
+          95.63999938964844,
+          369.9596252441406
+        ],
+        [
+          95.63999938964844,
+          349.6796112060547,
+          284.63999938964844,
+          369.9596252441406
+        ],
+        [
+          284.63999938964844,
+          349.6796112060547,
+          525.6140926585477,
+          369.9596252441406
+        ]
+      ],
+      "original_row_fragments": [
+        {
+          "pdf_page": 7,
+          "text": "6    Site Visit (will be facilitated by BMRCL)   23.09.2026 at 11.00 AM (IST)"
+        }
+      ],
+      "token_preservation_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "number": 7,
+      "pdf_page": 7,
+      "requirement": "Pre-Bid Meeting",
+      "value": "24.09.2026 at 11.30 AM (IST)",
+      "extracted_cells": [
+        "7",
+        "Pre-Bid Meeting",
+        "24.09.2026 at 11.30 AM (IST)"
+      ],
+      "cell_bboxes": [
+        [
+          70.54588003719554,
+          369.9596252441406,
+          95.63999938964844,
+          386.87962341308594
+        ],
+        [
+          95.63999938964844,
+          369.9596252441406,
+          284.63999938964844,
+          386.87962341308594
+        ],
+        [
+          284.63999938964844,
+          369.9596252441406,
+          525.6140926585477,
+          386.87962341308594
+        ]
+      ],
+      "original_row_fragments": [
+        {
+          "pdf_page": 7,
+          "text": "7   Pre-Bid Meeting                        24.09.2026 at 11.30 AM (IST)"
+        }
+      ],
+      "token_preservation_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "number": 8,
+      "pdf_page": 7,
+      "requirement": "Last  Date  &  Time   for   seeking\nClarification",
+      "value": "25.09.2026 up to 06.00 PM (IST)",
+      "extracted_cells": [
+        "8",
+        "Last  Date  &  Time   for   seeking\nClarification",
+        "25.09.2026 up to 06.00 PM (IST)"
+      ],
+      "cell_bboxes": [
+        [
+          70.54588003719554,
+          386.87962341308594,
+          95.63999938964844,
+          413.87962341308594
+        ],
+        [
+          95.63999938964844,
+          386.87962341308594,
+          284.63999938964844,
+          413.87962341308594
+        ],
+        [
+          284.63999938964844,
+          386.87962341308594,
+          525.6140926585477,
+          413.87962341308594
+        ]
+      ],
+      "original_row_fragments": [
+        {
+          "pdf_page": 7,
+          "text": "8   Last  Date  &  Time   for   seeking  25.09.2026 up to 06.00 PM (IST)\n         Clarification"
+        }
+      ],
+      "token_preservation_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "number": 9,
+      "pdf_page": 7,
+      "requirement": "Venue for Pre-Bid Meeting",
+      "value": "Bangalore Metro Rail Corporation Limited,\nAnnex-1, Project & Planning\n4th Floor, BMTC Complex,\nShanthinagar, Bengaluru\nEmail: contracts@bmrc.co.in",
+      "extracted_cells": [
+        "9",
+        "Venue for Pre-Bid Meeting",
+        "Bangalore Metro Rail Corporation Limited,\nAnnex-1, Project & Planning\n4th Floor, BMTC Complex,\nShanthinagar, Bengaluru\nEmail: contracts@bmrc.co.in"
+      ],
+      "cell_bboxes": [
+        [
+          70.54588003719554,
+          413.87962341308594,
+          95.63999938964844,
+          479.5196228027344
+        ],
+        [
+          95.63999938964844,
+          413.87962341308594,
+          284.63999938964844,
+          479.5196228027344
+        ],
+        [
+          284.63999938964844,
+          413.87962341308594,
+          525.6140926585477,
+          479.5196228027344
+        ]
+      ],
+      "original_row_fragments": [
+        {
+          "pdf_page": 7,
+          "text": "9   Venue for Pre-Bid Meeting              Bangalore Metro Rail Corporation Limited,\n                                             Annex-1, Project & Planning\n                                                             4th Floor, BMTC Complex,\n                                               Shanthinagar, Bengaluru\n                                                 Email: contracts@bmrc.co.in"
+        }
+      ],
+      "token_preservation_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "number": 10,
+      "pdf_page": 7,
+      "requirement": "Tender  submission  Date  and  Time\n(online)",
+      "value": "03.10.2026 (From 10.00 AM) to 09.10.2026 (up to\n3.00 PM) (IST)",
+      "extracted_cells": [
+        "10",
+        "Tender  submission  Date  and  Time\n(online)",
+        "03.10.2026 (From 10.00 AM) to 09.10.2026 (up to\n3.00 PM) (IST)"
+      ],
+      "cell_bboxes": [
+        [
+          70.54588003719554,
+          479.5196228027344,
+          95.63999938964844,
+          507.71961975097656
+        ],
+        [
+          95.63999938964844,
+          479.5196228027344,
+          284.63999938964844,
+          507.71961975097656
+        ],
+        [
+          284.63999938964844,
+          479.5196228027344,
+          525.6140926585477,
+          507.71961975097656
+        ]
+      ],
+      "original_row_fragments": [
+        {
+          "pdf_page": 7,
+          "text": "10  Tender  submission  Date  and  Time  03.10.2026 (From 10.00 AM) to 09.10.2026 (up to\n         (online)                                3.00 PM) (IST)"
+        }
+      ],
+      "token_preservation_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "number": 11,
+      "pdf_page": 7,
+      "requirement": "Date & Time  of opening  of Tender\n(Technical Bid) (online)",
+      "value": "12.10.2026 at 11.30 AM (IST)",
+      "extracted_cells": [
+        "11",
+        "Date & Time  of opening  of Tender\n(Technical Bid) (online)",
+        "12.10.2026 at 11.30 AM (IST)"
+      ],
+      "cell_bboxes": [
+        [
+          70.54588003719554,
+          507.71961975097656,
+          95.63999938964844,
+          531.11962890625
+        ],
+        [
+          95.63999938964844,
+          507.71961975097656,
+          284.63999938964844,
+          531.11962890625
+        ],
+        [
+          284.63999938964844,
+          507.71961975097656,
+          525.6140926585477,
+          531.11962890625
+        ]
+      ],
+      "original_row_fragments": [
+        {
+          "pdf_page": 7,
+          "text": "11  Date & Time  of opening  of Tender  12.10.2026 at 11.30 AM (IST)\n        (Technical Bid) (online)"
+        }
+      ],
+      "token_preservation_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "number": 12,
+      "pdf_page": 7,
+      "requirement": "Last date and venue for submission of\noriginal Bank Gaurantee  (Physical)   /\nInsurance Surety Bond/ Demand Draft /\nBanker’s  Cheque  towards  Tender\nSecurity (EMD)",
+      "value": "16.10.2026 up to 18.00 Hrs (IST)\n(In Person / By Post /By Courier)\n\nGeneral Manager(Contracts),\nBangalore Metro Rail Corporation Limited,\n3rd Floor, BMTC Complex,\nShanthinagar, Bengaluru- 560027, Karnataka,\nIndia.\n\nEmail: contracts@bmrc.co.in",
+      "extracted_cells": [
+        "12",
+        "Last date and venue for submission of\noriginal Bank Gaurantee  (Physical)   /\nInsurance Surety Bond/ Demand Draft /\nBanker’s  Cheque  towards  Tender\nSecurity (EMD)",
+        "16.10.2026 up to 18.00 Hrs (IST)\n(In Person / By Post /By Courier)\n\nGeneral Manager(Contracts),\nBangalore Metro Rail Corporation Limited,\n3rd Floor, BMTC Complex,\nShanthinagar, Bengaluru- 560027, Karnataka,\nIndia.\n\nEmail: contracts@bmrc.co.in"
+      ],
+      "cell_bboxes": [
+        [
+          70.54588003719554,
+          531.11962890625,
+          95.63999938964844,
+          658.1995849609375
+        ],
+        [
+          95.63999938964844,
+          531.11962890625,
+          284.63999938964844,
+          658.1995849609375
+        ],
+        [
+          284.63999938964844,
+          531.11962890625,
+          525.6140926585477,
+          658.1995849609375
+        ]
+      ],
+      "original_row_fragments": [
+        {
+          "pdf_page": 7,
+          "text": "12   Last date and venue for submission of  16.10.2026 up to 18.00 Hrs (IST)\n         original Bank Gaurantee  (Physical)   /   (In Person / By Post /By Courier)\n       Insurance Surety Bond/ Demand Draft /\n       Banker’s  Cheque  towards  Tender  General Manager(Contracts),\n        Security (EMD)                        Bangalore Metro Rail Corporation Limited,\n                                               3rd Floor, BMTC Complex,\n                                               Shanthinagar, Bengaluru- 560027, Karnataka,\n                                                       India.\n\n                                                 Email: contracts@bmrc.co.in"
+        }
+      ],
+      "token_preservation_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "number": 13,
+      "pdf_page": 7,
+      "requirement": "Participation as Joint Venture",
+      "value": "Not Permitted",
+      "extracted_cells": [
+        "13",
+        "Participation as Joint Venture",
+        "Not Permitted"
+      ],
+      "cell_bboxes": [
+        [
+          70.54588003719554,
+          658.1995849609375,
+          95.63999938964844,
+          671.8796081542969
+        ],
+        [
+          95.63999938964844,
+          658.1995849609375,
+          284.63999938964844,
+          671.8796081542969
+        ],
+        [
+          284.63999938964844,
+          658.1995849609375,
+          525.6140926585477,
+          671.8796081542969
+        ]
+      ],
+      "original_row_fragments": [
+        {
+          "pdf_page": 7,
+          "text": "13   Participation as Joint Venture           Not Permitted"
+        }
+      ],
+      "token_preservation_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "number": 14,
+      "pdf_page": 7,
+      "requirement": "Date & Time of opening of Financial Bid\n(Online)",
+      "value": "Information will be provided after the evaluation of\ntechnical bids.",
+      "extracted_cells": [
+        "14",
+        "Date & Time of opening of Financial Bid\n(Online)",
+        "Information will be provided after the evaluation of\ntechnical bids."
+      ],
+      "cell_bboxes": [
+        [
+          70.54588003719554,
+          671.8796081542969,
+          95.63999938964844,
+          698.8796081542969
+        ],
+        [
+          95.63999938964844,
+          671.8796081542969,
+          284.63999938964844,
+          698.8796081542969
+        ],
+        [
+          284.63999938964844,
+          671.8796081542969,
+          525.6140926585477,
+          698.8796081542969
+        ]
+      ],
+      "original_row_fragments": [
+        {
+          "pdf_page": 7,
+          "text": "14  Date & Time of opening of Financial Bid  Information will be provided after the evaluation of\n        (Online)                                   technical bids."
+        }
+      ],
+      "token_preservation_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "number": 15,
+      "pdf_page": 7,
+      "requirement": "eProcurement Portal : CPP Portal",
+      "value": "https://etenders.gov.in/eprocure/app",
+      "extracted_cells": [
+        "15",
+        "eProcurement Portal : CPP Portal",
+        "https://etenders.gov.in/eprocure/app"
+      ],
+      "cell_bboxes": [
+        [
+          70.54588003719554,
+          698.8796081542969,
+          95.63999938964844,
+          718.2595825195312
+        ],
+        [
+          95.63999938964844,
+          698.8796081542969,
+          284.63999938964844,
+          718.2595825195312
+        ],
+        [
+          284.63999938964844,
+          698.8796081542969,
+          525.6140926585477,
+          718.2595825195312
+        ]
+      ],
+      "original_row_fragments": [
+        {
+          "pdf_page": 7,
+          "text": "15  eProcurement Portal : CPP Portal         https://etenders.gov.in/eprocure/app"
+        }
+      ],
+      "token_preservation_check": "passed",
+      "review_status": "pending_visual_review"
+    }
+  ]
+}

@@ -1,0 +1,1184 @@
+{
+  "source_id": "bmrcl-volume-1",
+  "source_path": "data/Vol1DLNP1.pdf",
+  "source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+  "section": "F",
+  "title": "Special Conditions of Contract",
+  "review_status": "pending_manual_review",
+  "index_page": {
+    "pdf_page": 144,
+    "rotation": 0,
+    "extraction_method": "geometric_sort",
+    "text": "138     BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157             Special Conditions of Contract (SCC)\n\n\n\n                                Section-F:Special conditions of contract (SCC)\n\n\n\n\n\n                                     INDEX\n       SCC    Reference\n                                                                             Section\n       Clause  to GCC Sub-                   Description\n                                                                  Page No.\n         No.    Clause No.\n\n          1         1.1.6.7      Definitions –‘Works’                               2\n\n          2         7.11      Tests on Completion                              2\n\n          3          8.8      Consequences of Suspension                      2\n\n\n\n\n\n       Bangalore Metro Rail Corporation Ltd.              September - 2026              Section Page 1 of 2",
+    "text_blocks": [
+      {
+        "block_number": 0,
+        "bbox": [
+          64.91996765136719,
+          37.128299713134766,
+          522.9405517578125,
+          45.57029724121094
+        ],
+        "text": "BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                        Special Conditions of Contract (SCC) \n"
+      },
+      {
+        "block_number": 1,
+        "bbox": [
+          71.99990844726562,
+          47.448307037353516,
+          74.76715087890625,
+          70.49192810058594
+        ],
+        "text": " \n \n"
+      },
+      {
+        "block_number": 2,
+        "bbox": [
+          71.99996948242188,
+          763.5091552734375,
+          74.76715087890625,
+          772.8516235351562
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 3,
+        "bbox": [
+          71.99996948242188,
+          783.6478271484375,
+          532.1786499023438,
+          792.08984375
+        ],
+        "text": "Bangalore Metro Rail Corporation Ltd.                             September - 2026                          Section Page 1 of 2 \n"
+      },
+      {
+        "block_number": 4,
+        "bbox": [
+          71.99996948242188,
+          798.0477905273438,
+          74.76715087890625,
+          821.0914306640625
+        ],
+        "text": " \n \n"
+      },
+      {
+        "block_number": 5,
+        "bbox": [
+          196.31993103027344,
+          72.5494155883789,
+          421.4485778808594,
+          81.89189147949219
+        ],
+        "text": "Section-F:Special conditions of contract (SCC) \n"
+      },
+      {
+        "block_number": 6,
+        "bbox": [
+          71.99961853027344,
+          84.0694351196289,
+          310.2070617675781,
+          129.03868103027344
+        ],
+        "text": " \n \n \n \n"
+      },
+      {
+        "block_number": 7,
+        "bbox": [
+          84.47996520996094,
+          131.76318359375,
+          319.9591979980469,
+          167.91868591308594
+        ],
+        "text": "INDEX\nSCC \nClause \n"
+      },
+      {
+        "block_number": 8,
+        "bbox": [
+          93.59996795654297,
+          170.28314208984375,
+          114.42723846435547,
+          180.63865661621094
+        ],
+        "text": "No. \n"
+      },
+      {
+        "block_number": 9,
+        "bbox": [
+          131.6399383544922,
+          144.96319580078125,
+          197.11407470703125,
+          167.91868591308594
+        ],
+        "text": "Reference \nto GCC Sub-\n"
+      },
+      {
+        "block_number": 10,
+        "bbox": [
+          135.95993041992188,
+          170.28314208984375,
+          195.90719604492188,
+          180.63865661621094
+        ],
+        "text": "Clause No. \n"
+      },
+      {
+        "block_number": 11,
+        "bbox": [
+          303.59954833984375,
+          151.20318603515625,
+          523.5071411132812,
+          174.27867126464844
+        ],
+        "text": "Description \nSection \nPage No. \n"
+      },
+      {
+        "block_number": 12,
+        "bbox": [
+          99.47996520996094,
+          186.483154296875,
+          502.9854736328125,
+          196.8386688232422
+        ],
+        "text": "1 \n1.1.6.7 \nDefinitions –‘Works’ \n2 \n"
+      },
+      {
+        "block_number": 13,
+        "bbox": [
+          99.47996520996094,
+          205.68310546875,
+          502.9854736328125,
+          216.0386199951172
+        ],
+        "text": "2 \n7.11 \nTests on Completion \n2 \n"
+      },
+      {
+        "block_number": 14,
+        "bbox": [
+          99.47996520996094,
+          224.76312255859375,
+          502.9898986816406,
+          235.11863708496094
+        ],
+        "text": "3 \n8.8 \nConsequences  of Suspension \n2 \n"
+      },
+      {
+        "block_number": 15,
+        "bbox": [
+          71.99996948242188,
+          252.72314453125,
+          75.06725311279297,
+          263.0786437988281
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 16,
+        "bbox": [
+          71.99996948242188,
+          270.72314453125,
+          75.06725311279297,
+          281.0786437988281
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 17,
+        "bbox": [
+          71.99996948242188,
+          288.72314453125,
+          75.06725311279297,
+          299.0786437988281
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 18,
+        "bbox": [
+          71.99996948242188,
+          306.72314453125,
+          75.06725311279297,
+          317.0786437988281
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 19,
+        "bbox": [
+          71.99996948242188,
+          324.7231140136719,
+          75.06725311279297,
+          335.07861328125
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 20,
+        "bbox": [
+          71.99996948242188,
+          342.7231140136719,
+          75.06725311279297,
+          353.07861328125
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 21,
+        "bbox": [
+          71.99996948242188,
+          360.72308349609375,
+          75.06725311279297,
+          371.0785827636719
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 22,
+        "bbox": [
+          71.99996948242188,
+          378.72308349609375,
+          75.06725311279297,
+          389.0785827636719
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 23,
+        "bbox": [
+          71.99996948242188,
+          396.72308349609375,
+          75.06725311279297,
+          407.0785827636719
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 24,
+        "bbox": [
+          71.99996948242188,
+          414.72308349609375,
+          75.06725311279297,
+          425.0785827636719
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 25,
+        "bbox": [
+          71.99996948242188,
+          432.7230529785156,
+          75.06725311279297,
+          443.07855224609375
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 26,
+        "bbox": [
+          71.99996948242188,
+          450.7230529785156,
+          75.06725311279297,
+          461.07855224609375
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 27,
+        "bbox": [
+          71.99996948242188,
+          468.7230529785156,
+          75.06725311279297,
+          479.07855224609375
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 28,
+        "bbox": [
+          71.99996948242188,
+          486.7230529785156,
+          75.06725311279297,
+          497.07855224609375
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 29,
+        "bbox": [
+          71.99996948242188,
+          504.7230224609375,
+          75.06725311279297,
+          515.0785522460938
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 30,
+        "bbox": [
+          71.99996948242188,
+          522.7230224609375,
+          75.06725311279297,
+          533.0785522460938
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 31,
+        "bbox": [
+          71.99996948242188,
+          540.7230224609375,
+          75.06725311279297,
+          551.0785522460938
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 32,
+        "bbox": [
+          71.99996948242188,
+          558.7230224609375,
+          75.06725311279297,
+          569.0785522460938
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 33,
+        "bbox": [
+          71.99996948242188,
+          576.7230224609375,
+          75.06725311279297,
+          587.0785522460938
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 34,
+        "bbox": [
+          71.99996948242188,
+          594.7230224609375,
+          75.06725311279297,
+          605.0785522460938
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 35,
+        "bbox": [
+          71.99996948242188,
+          612.7230224609375,
+          75.06725311279297,
+          623.0785522460938
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 36,
+        "bbox": [
+          71.99996948242188,
+          630.7230224609375,
+          75.06725311279297,
+          641.0785522460938
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 37,
+        "bbox": [
+          71.99996948242188,
+          648.7229614257812,
+          75.06725311279297,
+          659.0784912109375
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 38,
+        "bbox": [
+          71.99996948242188,
+          666.7229614257812,
+          75.06725311279297,
+          677.0784912109375
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 39,
+        "bbox": [
+          71.99996948242188,
+          684.7229614257812,
+          75.06725311279297,
+          695.0784912109375
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 40,
+        "bbox": [
+          71.99996948242188,
+          702.7229614257812,
+          75.06725311279297,
+          713.0784912109375
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 41,
+        "bbox": [
+          71.99996948242188,
+          720.7229614257812,
+          75.06725311279297,
+          731.0784912109375
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 42,
+        "bbox": [
+          71.99996948242188,
+          738.7229614257812,
+          75.06725311279297,
+          749.0784912109375
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 43,
+        "bbox": [
+          39.599998474121094,
+          24.479991912841797,
+          63.57600021362305,
+          41.38799285888672
+        ],
+        "text": "138\n"
+      }
+    ],
+    "has_extracted_text": true,
+    "review_status": "pending_manual_review"
+  },
+  "introduction": [
+    {
+      "pdf_page": 145,
+      "text": "Following Special Conditions of Contract (SCC) shall be in addition to the General Conditions of\n Contract (GCC). Wherever there is a conflict, the provisions here in (SCC) shall prevail over those\n  in the GCC.\n\n\n\n  SCC  GCC\n Clause  Sub-Clause\n  No"
+    }
+  ],
+  "removed_lines": [
+    {
+      "pdf_page": 145,
+      "text": "139BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157             Special Conditions of Contract (SCC)",
+      "reason": "Page header, footer or booklet page number"
+    },
+    {
+      "pdf_page": 145,
+      "text": " Bangalore Metro Rail Corporation Ltd.              September - 2026              Section Page 2 of 2",
+      "reason": "Page header, footer or booklet page number"
+    }
+  ],
+  "entries": [
+    {
+      "scc_clause_id": "1",
+      "gcc_subclause_id": "1.1.6.7",
+      "change_type": "replace_definition",
+      "review_status": "pending_manual_review",
+      "gcc_reference": {
+        "source_id": "bmrcl-volume-1",
+        "section": "E",
+        "subclause_id": "1.1.6.7"
+      },
+      "fragments": [
+        {
+          "pdf_page": 145,
+          "text": "1     Sub-Clause 1.1.6.7      Replace with the following\n\n                              “Works” means the work  to be executed  in accordance with the\n                                    Contract  and  shall  include  Dismantling,  Demolition,  Restoration,\n                                Permanent Works and Temporary Works."
+        }
+      ]
+    },
+    {
+      "scc_clause_id": "2",
+      "gcc_subclause_id": "7.11",
+      "change_type": "delete_entire_subclause",
+      "review_status": "pending_manual_review",
+      "gcc_reference": {
+        "source_id": "bmrcl-volume-1",
+        "section": "E",
+        "subclause_id": "7.11"
+      },
+      "fragments": [
+        {
+          "pdf_page": 145,
+          "text": "2     Sub-Clause 7.11          Entire sub- clause 7.11 of GCC is Deleted.\n\n          Tests on Completion"
+        }
+      ]
+    },
+    {
+      "scc_clause_id": "3",
+      "gcc_subclause_id": "8.8",
+      "change_type": "delete_specified_paragraph_and_following_table",
+      "review_status": "pending_manual_review",
+      "gcc_reference": {
+        "source_id": "bmrcl-volume-1",
+        "section": "E",
+        "subclause_id": "8.8"
+      },
+      "fragments": [
+        {
+          "pdf_page": 145,
+          "text": "3     Sub-Clause 8.8         Following Para of the sub- clause 8.8 along with the contents of the\n         Consequences     of  table provided after this para stands deleted;\n          Suspension                    “If suspension is ordered by the Engineer for reasons other than those\n                                 mentioned in Sub Clause 8.8 ……………………….against this decision”."
+        }
+      ]
+    }
+  ],
+  "interpretation_note": "Change types are application-defined labels. Original SCC wording is preserved in fragments. Changes have not been automatically applied to GCC text. Later corrigenda have not been checked.",
+  "layout_pages": [
+    {
+      "pdf_page": 144,
+      "rotation": 0,
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            64.91996765136719,
+            37.128299713134766,
+            522.9405517578125,
+            45.57029724121094
+          ],
+          "text": "BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                        Special Conditions of Contract (SCC) \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            71.99990844726562,
+            47.448307037353516,
+            74.76715087890625,
+            70.49192810058594
+          ],
+          "text": " \n \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            71.99996948242188,
+            763.5091552734375,
+            74.76715087890625,
+            772.8516235351562
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            71.99996948242188,
+            783.6478271484375,
+            532.1786499023438,
+            792.08984375
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                             September - 2026                          Section Page 1 of 2 \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            71.99996948242188,
+            798.0477905273438,
+            74.76715087890625,
+            821.0914306640625
+          ],
+          "text": " \n \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            196.31993103027344,
+            72.5494155883789,
+            421.4485778808594,
+            81.89189147949219
+          ],
+          "text": "Section-F:Special conditions of contract (SCC) \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            71.99961853027344,
+            84.0694351196289,
+            310.2070617675781,
+            129.03868103027344
+          ],
+          "text": " \n \n \n \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            84.47996520996094,
+            131.76318359375,
+            319.9591979980469,
+            167.91868591308594
+          ],
+          "text": "INDEX\nSCC \nClause \n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            93.59996795654297,
+            170.28314208984375,
+            114.42723846435547,
+            180.63865661621094
+          ],
+          "text": "No. \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            131.6399383544922,
+            144.96319580078125,
+            197.11407470703125,
+            167.91868591308594
+          ],
+          "text": "Reference \nto GCC Sub-\n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            135.95993041992188,
+            170.28314208984375,
+            195.90719604492188,
+            180.63865661621094
+          ],
+          "text": "Clause No. \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            303.59954833984375,
+            151.20318603515625,
+            523.5071411132812,
+            174.27867126464844
+          ],
+          "text": "Description \nSection \nPage No. \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            99.47996520996094,
+            186.483154296875,
+            502.9854736328125,
+            196.8386688232422
+          ],
+          "text": "1 \n1.1.6.7 \nDefinitions –‘Works’ \n2 \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            99.47996520996094,
+            205.68310546875,
+            502.9854736328125,
+            216.0386199951172
+          ],
+          "text": "2 \n7.11 \nTests on Completion \n2 \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            99.47996520996094,
+            224.76312255859375,
+            502.9898986816406,
+            235.11863708496094
+          ],
+          "text": "3 \n8.8 \nConsequences  of Suspension \n2 \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            71.99996948242188,
+            252.72314453125,
+            75.06725311279297,
+            263.0786437988281
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            71.99996948242188,
+            270.72314453125,
+            75.06725311279297,
+            281.0786437988281
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            71.99996948242188,
+            288.72314453125,
+            75.06725311279297,
+            299.0786437988281
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            71.99996948242188,
+            306.72314453125,
+            75.06725311279297,
+            317.0786437988281
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            71.99996948242188,
+            324.7231140136719,
+            75.06725311279297,
+            335.07861328125
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 20,
+          "bbox": [
+            71.99996948242188,
+            342.7231140136719,
+            75.06725311279297,
+            353.07861328125
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 21,
+          "bbox": [
+            71.99996948242188,
+            360.72308349609375,
+            75.06725311279297,
+            371.0785827636719
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 22,
+          "bbox": [
+            71.99996948242188,
+            378.72308349609375,
+            75.06725311279297,
+            389.0785827636719
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 23,
+          "bbox": [
+            71.99996948242188,
+            396.72308349609375,
+            75.06725311279297,
+            407.0785827636719
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 24,
+          "bbox": [
+            71.99996948242188,
+            414.72308349609375,
+            75.06725311279297,
+            425.0785827636719
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 25,
+          "bbox": [
+            71.99996948242188,
+            432.7230529785156,
+            75.06725311279297,
+            443.07855224609375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 26,
+          "bbox": [
+            71.99996948242188,
+            450.7230529785156,
+            75.06725311279297,
+            461.07855224609375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 27,
+          "bbox": [
+            71.99996948242188,
+            468.7230529785156,
+            75.06725311279297,
+            479.07855224609375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 28,
+          "bbox": [
+            71.99996948242188,
+            486.7230529785156,
+            75.06725311279297,
+            497.07855224609375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 29,
+          "bbox": [
+            71.99996948242188,
+            504.7230224609375,
+            75.06725311279297,
+            515.0785522460938
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 30,
+          "bbox": [
+            71.99996948242188,
+            522.7230224609375,
+            75.06725311279297,
+            533.0785522460938
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 31,
+          "bbox": [
+            71.99996948242188,
+            540.7230224609375,
+            75.06725311279297,
+            551.0785522460938
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 32,
+          "bbox": [
+            71.99996948242188,
+            558.7230224609375,
+            75.06725311279297,
+            569.0785522460938
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 33,
+          "bbox": [
+            71.99996948242188,
+            576.7230224609375,
+            75.06725311279297,
+            587.0785522460938
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 34,
+          "bbox": [
+            71.99996948242188,
+            594.7230224609375,
+            75.06725311279297,
+            605.0785522460938
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 35,
+          "bbox": [
+            71.99996948242188,
+            612.7230224609375,
+            75.06725311279297,
+            623.0785522460938
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 36,
+          "bbox": [
+            71.99996948242188,
+            630.7230224609375,
+            75.06725311279297,
+            641.0785522460938
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 37,
+          "bbox": [
+            71.99996948242188,
+            648.7229614257812,
+            75.06725311279297,
+            659.0784912109375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 38,
+          "bbox": [
+            71.99996948242188,
+            666.7229614257812,
+            75.06725311279297,
+            677.0784912109375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 39,
+          "bbox": [
+            71.99996948242188,
+            684.7229614257812,
+            75.06725311279297,
+            695.0784912109375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 40,
+          "bbox": [
+            71.99996948242188,
+            702.7229614257812,
+            75.06725311279297,
+            713.0784912109375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 41,
+          "bbox": [
+            71.99996948242188,
+            720.7229614257812,
+            75.06725311279297,
+            731.0784912109375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 42,
+          "bbox": [
+            71.99996948242188,
+            738.7229614257812,
+            75.06725311279297,
+            749.0784912109375
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 43,
+          "bbox": [
+            39.599998474121094,
+            24.479991912841797,
+            63.57600021362305,
+            41.38799285888672
+          ],
+          "text": "138\n"
+        }
+      ]
+    },
+    {
+      "pdf_page": 145,
+      "rotation": 0,
+      "text_blocks": [
+        {
+          "block_number": 0,
+          "bbox": [
+            64.91996765136719,
+            37.128299713134766,
+            522.9405517578125,
+            45.57029724121094
+          ],
+          "text": "BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                        Special Conditions of Contract (SCC) \n"
+        },
+        {
+          "block_number": 1,
+          "bbox": [
+            71.99990844726562,
+            47.448307037353516,
+            74.76715087890625,
+            70.49192810058594
+          ],
+          "text": " \n \n"
+        },
+        {
+          "block_number": 2,
+          "bbox": [
+            71.99996948242188,
+            763.5091552734375,
+            74.76715087890625,
+            772.8516235351562
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 3,
+          "bbox": [
+            71.99996948242188,
+            783.6478271484375,
+            532.1786499023438,
+            792.08984375
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                             September - 2026                          Section Page 2 of 2 \n"
+        },
+        {
+          "block_number": 4,
+          "bbox": [
+            71.99996948242188,
+            798.0477905273438,
+            74.76715087890625,
+            821.0914306640625
+          ],
+          "text": " \n \n"
+        },
+        {
+          "block_number": 5,
+          "bbox": [
+            71.99996948242188,
+            72.5494155883789,
+            545.7673950195312,
+            104.93193054199219
+          ],
+          "text": "Following Special Conditions of Contract (SCC) shall be in addition to the General Conditions of \nContract (GCC). Wherever there is a conflict, the provisions here in (SCC) shall prevail over those \nin the GCC. \n"
+        },
+        {
+          "block_number": 6,
+          "bbox": [
+            308.2798767089844,
+            112.08318328857422,
+            311.34716796875,
+            122.4386978149414
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 7,
+          "bbox": [
+            70.32047271728516,
+            131.6431884765625,
+            106.45503997802734,
+            154.5986785888672
+          ],
+          "text": "SCC \nClause\n"
+        },
+        {
+          "block_number": 8,
+          "bbox": [
+            80.99996948242188,
+            159.96319580078125,
+            98.70724487304688,
+            170.31871032714844
+          ],
+          "text": "No \n"
+        },
+        {
+          "block_number": 9,
+          "bbox": [
+            117.2399673461914,
+            131.6431884765625,
+            183.90713500976562,
+            157.5986785888672
+          ],
+          "text": "GCC \nSub-Clause  \n"
+        },
+        {
+          "block_number": 10,
+          "bbox": [
+            236.6394805908203,
+            131.76318359375,
+            239.70675659179688,
+            142.1186981201172
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 11,
+          "bbox": [
+            85.5599594116211,
+            178.203125,
+            208.32708740234375,
+            203.9186248779297
+          ],
+          "text": "1 \nSub-Clause 1.1.6.7 \n \n"
+        },
+        {
+          "block_number": 12,
+          "bbox": [
+            236.6397705078125,
+            178.98936462402344,
+            559.8068237304688,
+            226.23863220214844
+          ],
+          "text": "Replace with the following \n“Works” means the work to be executed in accordance with the \nContract and shall include Dismantling, Demolition, Restoration, \nPermanent Works and Temporary Works. \n"
+        },
+        {
+          "block_number": 13,
+          "bbox": [
+            85.5599594116211,
+            234.5493621826172,
+            218.88711547851562,
+            258.411865234375
+          ],
+          "text": "2 \nSub-Clause 7.11 \nTests on Completion \n"
+        },
+        {
+          "block_number": 14,
+          "bbox": [
+            236.63958740234375,
+            234.6693572998047,
+            427.8084716796875,
+            244.01182556152344
+          ],
+          "text": "Entire sub- clause 7.11 of GCC is Deleted. \n"
+        },
+        {
+          "block_number": 15,
+          "bbox": [
+            85.5599594116211,
+            267.0693664550781,
+            191.6472625732422,
+            276.411865234375
+          ],
+          "text": "3 \nSub-Clause 8.8 \n"
+        },
+        {
+          "block_number": 16,
+          "bbox": [
+            119.39995574951172,
+            281.4693908691406,
+            228.60720825195312,
+            302.3319091796875
+          ],
+          "text": "Consequences \n \nof \nSuspension \n"
+        },
+        {
+          "block_number": 17,
+          "bbox": [
+            236.63990783691406,
+            266.9494323730469,
+            559.807861328125,
+            328.37188720703125
+          ],
+          "text": "Following Para of the sub- clause 8.8 along with the contents of the \ntable provided after this para stands deleted; \n“If suspension is ordered by the Engineer for reasons other than those \nmentioned in Sub Clause 8.8 ……………………….against this decision”.\n \n"
+        },
+        {
+          "block_number": 18,
+          "bbox": [
+            71.99996948242188,
+            339.00311279296875,
+            75.06725311279297,
+            349.3586120605469
+          ],
+          "text": " \n"
+        },
+        {
+          "block_number": 19,
+          "bbox": [
+            546.0439453125,
+            24.479991912841797,
+            570.0199584960938,
+            41.38799285888672
+          ],
+          "text": "139\n"
+        }
+      ]
+    }
+  ]
+}

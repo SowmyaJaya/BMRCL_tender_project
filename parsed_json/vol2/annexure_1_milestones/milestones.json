@@ -1,0 +1,467 @@
+{
+  "source_id": "bmrcl-volume-2",
+  "source_path": "data/Vol2DLNP1.pdf",
+  "source_sha256": "e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b",
+  "source_section": "H",
+  "annexure_id": "1",
+  "title": "Milestones (Key Dates) and Liquidated Damages",
+  "pdf_pages": [
+    20
+  ],
+  "review_status": "pending_manual_review",
+  "extraction_method": "source_hash_bound_grid_with_direct_cell_text",
+  "coordinate_system": "PyMuPDF unrotated page coordinates, in points",
+  "table_bbox": [
+    72.18,
+    166.52,
+    511.5,
+    397.12
+  ],
+  "columns": [
+    {
+      "column_number": 1,
+      "field_id": "serial_number",
+      "source_heading": "Sl.\nN\no",
+      "bbox": [
+        72.18,
+        166.52,
+        97.32,
+        242.88
+      ]
+    },
+    {
+      "column_number": 2,
+      "field_id": "milestone",
+      "source_heading": "Milestone",
+      "bbox": [
+        97.32,
+        166.52,
+        173.256,
+        242.88
+      ]
+    },
+    {
+      "column_number": 3,
+      "field_id": "period_from_start_date",
+      "source_heading": "Period  from  the\nstart date",
+      "bbox": [
+        173.256,
+        166.52,
+        284.64,
+        242.88
+      ]
+    },
+    {
+      "column_number": 4,
+      "field_id": "demolition_target",
+      "source_heading": "No.          of\nbuildings          /\nstructures   to\nbe\ndemolished/dis\nmantled",
+      "bbox": [
+        284.64,
+        166.52,
+        376.8,
+        242.88
+      ]
+    },
+    {
+      "column_number": 5,
+      "field_id": "liquidated_damages",
+      "source_heading": "Liquidated\ndamages",
+      "bbox": [
+        376.8,
+        166.52,
+        511.5,
+        242.88
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "record_id": "vol2-annexure-1-milestone-1",
+      "pdf_page": 20,
+      "source_physical_row": 2,
+      "serial_number": "1.",
+      "milestone": "Milestone – 1",
+      "period_from_start_date": "Six months from the\ndate of signing the\ncontract agreement.",
+      "demolition_target": "50% of total area\nhanded over.",
+      "liquidated_damages": "Rs. 5,000/-\nper day for delay  in\nachieving Milestone-1",
+      "cells": [
+        {
+          "column_number": 1,
+          "field_id": "serial_number",
+          "bbox": [
+            72.18,
+            242.88,
+            97.32,
+            329.76
+          ],
+          "text": "1."
+        },
+        {
+          "column_number": 2,
+          "field_id": "milestone",
+          "bbox": [
+            97.32,
+            242.88,
+            173.256,
+            329.76
+          ],
+          "text": "Milestone – 1"
+        },
+        {
+          "column_number": 3,
+          "field_id": "period_from_start_date",
+          "bbox": [
+            173.256,
+            242.88,
+            284.64,
+            329.76
+          ],
+          "text": "Six months from the\ndate of signing the\ncontract agreement."
+        },
+        {
+          "column_number": 4,
+          "field_id": "demolition_target",
+          "bbox": [
+            284.64,
+            242.88,
+            376.8,
+            329.76
+          ],
+          "text": "50% of total area\nhanded over."
+        },
+        {
+          "column_number": 5,
+          "field_id": "liquidated_damages",
+          "bbox": [
+            376.8,
+            242.88,
+            511.5,
+            329.76
+          ],
+          "text": "Rs. 5,000/-\nper day for delay  in\nachieving Milestone-1"
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol2-annexure-1-milestone-2",
+      "pdf_page": 20,
+      "source_physical_row": 3,
+      "serial_number": "2.",
+      "milestone": "Milestone – 2",
+      "period_from_start_date": "Twelve months from\nthe date of signing\nthe          contract\nagreement.",
+      "demolition_target": "100%   of   total\narea   handed\nover.",
+      "liquidated_damages": "Rs. 10,000/-\nper day for delay  in\nachieving Milestone-2",
+      "cells": [
+        {
+          "column_number": 1,
+          "field_id": "serial_number",
+          "bbox": [
+            72.18,
+            329.76,
+            97.32,
+            397.12
+          ],
+          "text": "2."
+        },
+        {
+          "column_number": 2,
+          "field_id": "milestone",
+          "bbox": [
+            97.32,
+            329.76,
+            173.256,
+            397.12
+          ],
+          "text": "Milestone – 2"
+        },
+        {
+          "column_number": 3,
+          "field_id": "period_from_start_date",
+          "bbox": [
+            173.256,
+            329.76,
+            284.64,
+            397.12
+          ],
+          "text": "Twelve months from\nthe date of signing\nthe          contract\nagreement."
+        },
+        {
+          "column_number": 4,
+          "field_id": "demolition_target",
+          "bbox": [
+            284.64,
+            329.76,
+            376.8,
+            397.12
+          ],
+          "text": "100%   of   total\narea   handed\nover."
+        },
+        {
+          "column_number": 5,
+          "field_id": "liquidated_damages",
+          "bbox": [
+            376.8,
+            329.76,
+            511.5,
+            397.12
+          ],
+          "text": "Rs. 10,000/-\nper day for delay  in\nachieving Milestone-2"
+        }
+      ],
+      "review_status": "pending_manual_review"
+    }
+  ],
+  "liquidated_damages_limit": {
+    "pdf_page": 20,
+    "source_text": "ii. The upper limit for Liquidated Damages is 5% of Contract Price.",
+    "bbox": [
+      65.0,
+      397.12,
+      540.0,
+      470.0
+    ],
+    "review_status": "pending_manual_review"
+  },
+  "source_context": {
+    "pdf_page": 20,
+    "full_page_text": "167\n BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157       Employer Requirement, Scope of Work &\n                                                                       Technical Specifications\n\n\n              ANNEXURE -1 to EMPLOYER’S REQUIREMENT\n\n            MILESTONES (KEY DATES) AND LIQUIDATED DAMAGES\n\n\n\n i.  Milestones:\n\n\n                                     No.          of\n                                         buildings          /\n  Sl.\n                   Period  from  the  structures   to  Liquidated\n N   Milestone\n                       start date          be            damages\n o\n                                       demolished/dis\n                                     mantled\n      Milestone – 1  Six months from the 50% of total area  Rs. 5,000/-\n  1.                 date of signing the  handed over.    per day for delay  in\n                      contract agreement.                     achieving Milestone-1\n\n\n\n\n\n      Milestone – 2  Twelve months from  100%   of   total  Rs. 10,000/-\n  2.                  the date of signing  area   handed  per day for delay  in\n                     the          contract  over.             achieving Milestone-2\n                    agreement.\n\n\n\n\n\nii. The upper limit for Liquidated Damages is 5% of Contract Price.\n\n\n\n\n\n Bangalore Metro Rail Corporation Ltd.                 September 2026           Section Page 17 of 37",
+    "text_blocks": [
+      {
+        "block_number": 0,
+        "bbox": [
+          71.99940490722656,
+          37.728336334228516,
+          526.5408935546875,
+          56.49034118652344
+        ],
+        "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157              Employer Requirement, Scope of Work &  \n \n \n Technical Specifications \n"
+      },
+      {
+        "block_number": 1,
+        "bbox": [
+          71.99996948242188,
+          787.1278076171875,
+          538.54248046875,
+          795.56982421875
+        ],
+        "text": "Bangalore Metro Rail Corporation Ltd. \n \nSeptember 2026                    Section Page 17 of 37 \n"
+      },
+      {
+        "block_number": 2,
+        "bbox": [
+          71.99996948242188,
+          798.4948120117188,
+          538.4083251953125,
+          826.9197998046875
+        ],
+        "text": " \n \n \n"
+      },
+      {
+        "block_number": 3,
+        "bbox": [
+          174.1199188232422,
+          74.64318084716797,
+          425.23284912109375,
+          84.99869537353516
+        ],
+        "text": "ANNEXURE -1 to EMPLOYER’S REQUIREMENT \n"
+      },
+      {
+        "block_number": 4,
+        "bbox": [
+          152.7599334716797,
+          99.72319793701172,
+          457.14727783203125,
+          110.0787124633789
+        ],
+        "text": "MILESTONES (KEY DATES) AND LIQUIDATED DAMAGES \n"
+      },
+      {
+        "block_number": 5,
+        "bbox": [
+          303.35986328125,
+          118.44316864013672,
+          306.4271545410156,
+          128.79869079589844
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 6,
+        "bbox": [
+          72.4801025390625,
+          137.04315185546875,
+          151.149169921875,
+          147.39866638183594
+        ],
+        "text": "i. Milestones: \n"
+      },
+      {
+        "block_number": 7,
+        "bbox": [
+          72.0000991821289,
+          155.76312255859375,
+          75.0673828125,
+          166.11863708496094
+        ],
+        "text": " \n"
+      },
+      {
+        "block_number": 8,
+        "bbox": [
+          77.64009094238281,
+          187.80303955078125,
+          94.2673568725586,
+          223.47850036621094
+        ],
+        "text": "Sl. \nN\no \n"
+      },
+      {
+        "block_number": 9,
+        "bbox": [
+          102.7200698852539,
+          194.16302490234375,
+          282.30731201171875,
+          217.11851501464844
+        ],
+        "text": "Milestone \nPeriod \nfrom \nthe \nstart date \n"
+      },
+      {
+        "block_number": 10,
+        "bbox": [
+          290.0398864746094,
+          168.84320068359375,
+          374.4671630859375,
+          242.4385223388672
+        ],
+        "text": "No. \nof \nbuildings \n/ \nstructures \nto \nbe \ndemolished/dis\nmantled \n"
+      },
+      {
+        "block_number": 11,
+        "bbox": [
+          382.1997985839844,
+          194.16302490234375,
+          443.94696044921875,
+          217.11851501464844
+        ],
+        "text": "Liquidated  \ndamages \n"
+      },
+      {
+        "block_number": 12,
+        "bbox": [
+          77.63996887207031,
+          245.40313720703125,
+          282.3109436035156,
+          280.9585876464844
+        ],
+        "text": " \n1. \nMilestone – 1\nSix months from the \ndate of signing the \ncontract agreement. \n"
+      },
+      {
+        "block_number": 13,
+        "bbox": [
+          290.0400390625,
+          245.403076171875,
+          374.4674377441406,
+          268.2385559082031
+        ],
+        "text": "50% of total area \nhanded over. \n"
+      },
+      {
+        "block_number": 14,
+        "bbox": [
+          382.199951171875,
+          245.403076171875,
+          492.6673583984375,
+          280.9585266113281
+        ],
+        "text": "Rs. 5,000/-  \nper day for delay in \nachieving Milestone-1 \n"
+      },
+      {
+        "block_number": 15,
+        "bbox": [
+          77.63996887207031,
+          332.1631164550781,
+          282.3072814941406,
+          380.4385986328125
+        ],
+        "text": " \n2. \nMilestone – 2\nTwelve months from \nthe date of signing \nthe \ncontract \nagreement. \n"
+      },
+      {
+        "block_number": 16,
+        "bbox": [
+          290.0400390625,
+          332.1631164550781,
+          374.4673767089844,
+          367.7186279296875
+        ],
+        "text": "100% of total \narea \nhanded \nover. \n"
+      },
+      {
+        "block_number": 17,
+        "bbox": [
+          382.2000427246094,
+          332.1631164550781,
+          492.6674499511719,
+          367.838623046875
+        ],
+        "text": "Rs. 10,000/-  \nper day for delay in \nachieving Milestone-2 \n"
+      },
+      {
+        "block_number": 18,
+        "bbox": [
+          71.99996948242188,
+          399.4830627441406,
+          75.06725311279297,
+          422.4385681152344
+        ],
+        "text": " \n \n"
+      },
+      {
+        "block_number": 19,
+        "bbox": [
+          69.47996520996094,
+          430.6830749511719,
+          423.9066467285156,
+          441.03857421875
+        ],
+        "text": "ii. The upper limit for Liquidated Damages is 5% of Contract Price. \n"
+      },
+      {
+        "block_number": 20,
+        "bbox": [
+          71.99945068359375,
+          449.4030456542969,
+          75.06673431396484,
+          763.3585205078125
+        ],
+        "text": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n"
+      },
+      {
+        "block_number": 21,
+        "bbox": [
+          546.0439453125,
+          24.479991912841797,
+          570.0199584960938,
+          41.38799285888672
+        ],
+        "text": "167\n"
+      }
+    ],
+    "table_region_text": "No.          of\n                                       buildings          /\nSl.\n                  Period  from  the  structures   to  Liquidated\nN   Milestone\n                     start date          be            damages\no\n                                     demolished/dis\n                                   mantled\n     Milestone – 1  Six months from the 50% of total area  Rs. 5,000/-\n1.                 date of signing the  handed over.    per day for delay  in\n                     contract agreement.                     achieving Milestone-1\n\n\n\n\n\n     Milestone – 2  Twelve months from  100%   of   total  Rs. 10,000/-\n2.                  the date of signing  area   handed  per day for delay  in\n                    the          contract  over.             achieving Milestone-2\n                  agreement."
+  },
+  "checks": {
+    "source_hash": "passed",
+    "page_count": "passed",
+    "table_region_token_preservation": "passed",
+    "cap_passage_page_match": "passed"
+  },
+  "limitations": [
+    "Visual cell review remains pending.",
+    "Token comparison does not verify reading order.",
+    "No dates or damages have been calculated.",
+    "Later corrigenda have not been applied.",
+    "Cross-volume consistency has not been checked.",
+    "Contractual applicability has not been approved."
+  ]
+}

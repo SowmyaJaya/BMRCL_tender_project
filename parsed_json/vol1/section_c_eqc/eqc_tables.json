@@ -1,0 +1,537 @@
+{
+  "source_id": "bmrcl-volume-1",
+  "source_path": "data/Vol1DLNP1.pdf",
+  "source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+  "section": "C",
+  "clause_id": "3.0",
+  "title": "Qualification Criteria Tables",
+  "review_status": "pending_visual_review",
+  "tables": [
+    {
+      "table_id": "eqc_page_32",
+      "pdf_page": 32,
+      "table_role": "work_experience",
+      "original_rotation": 90,
+      "coordinate_system": "Rotation-normalized page coordinates, in points. Not the original unrotated text-block coordinate system.",
+      "extraction_method": "detected_table_with_direct_cell_text",
+      "table_bbox": [
+        93.33651778277229,
+        156.56571306501115,
+        769.6844985064338,
+        502.95428466796875
+      ],
+      "row_count": 8,
+      "column_count": 3,
+      "rows_are": "detected_physical_table_rows",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            "Sl. No",
+            "Criteria Requirement",
+            "Document Submission\n    Requirement"
+          ],
+          "cell_bboxes": [
+            [
+              93.33651778277229,
+              156.56571306501115,
+              152.63040161132812,
+              192.1199951171875
+            ],
+            [
+              152.63040161132812,
+              156.56571306501115,
+              617.7503662109375,
+              192.1199951171875
+            ],
+            [
+              617.7503662109375,
+              156.56571306501115,
+              769.6844985064338,
+              192.1199951171875
+            ]
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            "3.1.A.(i)",
+            "Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven)\nyears ending as on last day of the month previous to the month of invitation of this tender,\nshould have completed/ **substantially completed One work of *Similar nature, where the\nvalue of the work is equal to or exceed ₹ 3.79 Crores.***",
+            "Attachment-5 & Attachment-\n 6 to Letter of Technical Bid"
+          ],
+          "cell_bboxes": [
+            [
+              93.33651778277229,
+              192.1199951171875,
+              152.63040161132812,
+              256.8000030517578
+            ],
+            [
+              152.63040161132812,
+              192.1199951171875,
+              617.7503662109375,
+              256.8000030517578
+            ],
+            [
+              617.7503662109375,
+              192.1199951171875,
+              769.6844985064338,
+              256.8000030517578
+            ]
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            "OR",
+            null,
+            null
+          ],
+          "cell_bboxes": [
+            [
+              93.33651778277229,
+              256.8000030517578,
+              769.6844985064338,
+              283.9199981689453
+            ],
+            null,
+            null
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            "3.1.A. (ii)",
+            "Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven)\nyears ending as on last day of the month previous to the month of invitation of this tender,\nshould have completed/ **substantially completed Two works of *Similar nature, where the\nvalue of each work is equal to or exceed ₹ 2.37 Crores. ***",
+            "Attachment-5 & Attachment-\n 6 to Letter of Technical Bid"
+          ],
+          "cell_bboxes": [
+            [
+              93.33651778277229,
+              283.9199981689453,
+              152.63040161132812,
+              348.59999084472656
+            ],
+            [
+              152.63040161132812,
+              283.9199981689453,
+              617.7503662109375,
+              348.59999084472656
+            ],
+            [
+              617.7503662109375,
+              283.9199981689453,
+              769.6844985064338,
+              348.59999084472656
+            ]
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            "OR",
+            null,
+            null
+          ],
+          "cell_bboxes": [
+            [
+              93.33651778277229,
+              348.59999084472656,
+              769.6844985064338,
+              375.59999084472656
+            ],
+            null,
+            null
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            "3.1.A. (iii)",
+            "Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven)\nyears ending as on last day of the month previous to the month of invitation of this tender,\nshould have completed/ **substantially completed Three works of *Similar nature, where the\nvalue of each work is equal to or exceed ₹ 1.90 Crores.***",
+            "Attachment-5 & Attachment-\n 6 to Letter of Technical Bid"
+          ],
+          "cell_bboxes": [
+            [
+              93.33651778277229,
+              375.59999084472656,
+              152.63040161132812,
+              440.2799835205078
+            ],
+            [
+              152.63040161132812,
+              375.59999084472656,
+              617.7503662109375,
+              440.2799835205078
+            ],
+            [
+              617.7503662109375,
+              375.59999084472656,
+              769.6844985064338,
+              440.2799835205078
+            ]
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            "OR",
+            null,
+            null
+          ],
+          "cell_bboxes": [
+            [
+              93.33651778277229,
+              440.2799835205078,
+              769.6844985064338,
+              467.3999938964844
+            ],
+            null,
+            null
+          ]
+        },
+        {
+          "physical_row": 8,
+          "cells": [
+            "3.1.A. (iv)",
+            "Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven)\nyears ending as on last day of the month previous to the month of invitation of this tender,",
+            "Attachment-5 & Attachment-\n 6 to Letter of Technical Bid"
+          ],
+          "cell_bboxes": [
+            [
+              93.33651778277229,
+              467.3999938964844,
+              152.63040161132812,
+              502.95428466796875
+            ],
+            [
+              152.63040161132812,
+              467.3999938964844,
+              617.7503662109375,
+              502.95428466796875
+            ],
+            [
+              617.7503662109375,
+              467.3999938964844,
+              769.6844985064338,
+              502.95428466796875
+            ]
+          ]
+        }
+      ],
+      "unexpected_token_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "table_id": "eqc_page_33",
+      "pdf_page": 33,
+      "table_role": "work_experience_continuation",
+      "original_rotation": 90,
+      "coordinate_system": "Rotation-normalized page coordinates, in points. Not the original unrotated text-block coordinate system.",
+      "extraction_method": "anchored_text_blocks",
+      "table_bbox": null,
+      "row_count": null,
+      "column_count": 3,
+      "rows_are": "one_partial_content_fragment_not_a_detected_row",
+      "fragment_scope": "Requirement continuation text only. Side cells have not been reconstructed.",
+      "rows": [
+        {
+          "physical_row": null,
+          "cells": [
+            null,
+            "should have completed/ **substantially completed in any number of works of *Similar nature, \nwhere the combined value of works is equal to or exceed ₹ 4.74 Crores.***",
+            null
+          ],
+          "cell_bboxes": [
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "recovered_text_blocks": [
+        {
+          "bbox": [
+            158.03094482421875,
+            74.52284240722656,
+            615.4229125976562,
+            99.39836120605469
+          ],
+          "text": "should have completed/ **substantially completed in any number of works of *Similar nature, \nwhere the combined value of works is equal to or exceed ₹ 4.74 Crores.***"
+        }
+      ],
+      "unexpected_token_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "table_id": "eqc_page_34",
+      "pdf_page": 34,
+      "table_role": "financial_standing",
+      "original_rotation": 90,
+      "coordinate_system": "Rotation-normalized page coordinates, in points. Not the original unrotated text-block coordinate system.",
+      "extraction_method": "detected_table_with_direct_cell_text",
+      "table_bbox": [
+        93.31634957449776,
+        206.00570678710938,
+        769.7046683175223,
+        360.0342712402344
+      ],
+      "row_count": 3,
+      "column_count": 3,
+      "rows_are": "detected_physical_table_rows",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            "Sl. No",
+            "Criteria Requirement",
+            "Document Submission\n     requirement"
+          ],
+          "cell_bboxes": [
+            [
+              93.31634957449776,
+              206.00570678710938,
+              151.07039642333984,
+              247.67999267578125
+            ],
+            [
+              151.07039642333984,
+              206.00570678710938,
+              630.5903930664062,
+              247.67999267578125
+            ],
+            [
+              630.5903930664062,
+              206.00570678710938,
+              769.7046683175223,
+              247.67999267578125
+            ]
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            "3.1.B (i)",
+            "Liquidity: Tenderer shall demonstrate that  it has access to, or possess liquid assets and /or\navailability of credit facilities of not less than ₹ 1.19 Crores (Credit lines/ letter of credit/ certificates\nfrom banks for meeting the fund requirement etc.).",
+            "Attachment-13 to Letter of\nTechnical Bid"
+          ],
+          "cell_bboxes": [
+            [
+              93.31634957449776,
+              247.67999267578125,
+              151.07039642333984,
+              303.8399963378906
+            ],
+            [
+              151.07039642333984,
+              247.67999267578125,
+              630.5903930664062,
+              303.8399963378906
+            ],
+            [
+              630.5903930664062,
+              247.67999267578125,
+              769.7046683175223,
+              303.8399963378906
+            ]
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            "3.1.B (ii)",
+            "Annual Turnover: Tenderer in its name should have in the last five financial years (2021-2022\nto 2025-2026) achieved in at least two financial years a minimum financial turnover (in all\nclasses of civil engineering construction works only) ≥ ₹ 9.48 Crores. ****",
+            "Attachment-8 to Letter of\nTechnical Bid"
+          ],
+          "cell_bboxes": [
+            [
+              93.31634957449776,
+              303.8399963378906,
+              151.07039642333984,
+              360.0342712402344
+            ],
+            [
+              151.07039642333984,
+              303.8399963378906,
+              630.5903930664062,
+              360.0342712402344
+            ],
+            [
+              630.5903930664062,
+              303.8399963378906,
+              769.7046683175223,
+              360.0342712402344
+            ]
+          ]
+        }
+      ],
+      "unexpected_token_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "table_id": "eqc_page_35",
+      "pdf_page": 35,
+      "table_role": "bid_capacity",
+      "original_rotation": 90,
+      "coordinate_system": "Rotation-normalized page coordinates, in points. Not the original unrotated text-block coordinate system.",
+      "extraction_method": "detected_table_with_direct_cell_text",
+      "table_bbox": [
+        93.3026351928711,
+        423.0719970703125,
+        769.7183837890625,
+        520.9679809570313
+      ],
+      "row_count": 2,
+      "column_count": 2,
+      "rows_are": "detected_physical_table_rows",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            "Requirement",
+            "Document Submission\n    Requirement"
+          ],
+          "cell_bboxes": [
+            [
+              93.3026351928711,
+              423.0719970703125,
+              624.8303833007812,
+              452.75999450683594
+            ],
+            [
+              624.8303833007812,
+              423.0719970703125,
+              769.7183837890625,
+              452.75999450683594
+            ]
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            "Available Bid capacity should be ≥ ₹ 4.74 Crores\n\nFormula:\n\nAvailable Bid Capacity = (1.5 × A × N) – B",
+            "Attachment-7, Attachment-\n8 to Letter of Technical Bid"
+          ],
+          "cell_bboxes": [
+            [
+              93.3026351928711,
+              452.75999450683594,
+              624.8303833007812,
+              520.9679809570313
+            ],
+            [
+              624.8303833007812,
+              452.75999450683594,
+              769.7183837890625,
+              520.9679809570313
+            ]
+          ]
+        }
+      ],
+      "unexpected_token_check": "passed",
+      "review_status": "pending_visual_review"
+    },
+    {
+      "table_id": "eqc_page_36",
+      "pdf_page": 36,
+      "table_role": "bid_capacity_definitions",
+      "original_rotation": 90,
+      "coordinate_system": "Rotation-normalized page coordinates, in points. Not the original unrotated text-block coordinate system.",
+      "extraction_method": "anchored_text_blocks",
+      "table_bbox": null,
+      "row_count": null,
+      "column_count": 2,
+      "rows_are": "one_partial_content_fragment_not_a_detected_row",
+      "fragment_scope": "A, N and B definitions only. Table headers, Where label and other cells are not reconstructed. Full page context is retained separately.",
+      "rows": [
+        {
+          "physical_row": null,
+          "cells": [
+            "A = Maximum value of total Civil Engineering works executed (annual turnover from Civil Engineering works) \nin any one year during the last five financial years. The turnover for previous years shall be updated by 5% \nper year (compounded annually) to bring them to the price level of the Financial Year of this Tender Invitation.\nN = Number of years prescribed for completion of this tendered work as mentioned in NIT.\nB = Total value (updated to the price level of the Financial Year of this Tender Invitation) of existing \ncommitments for ongoing Civil Engineering works during the completion period mentioned in NIT, from the \nlast day of the month previous to the month of invitation of this tender.",
+            null
+          ],
+          "cell_bboxes": [
+            null,
+            null
+          ]
+        }
+      ],
+      "recovered_text_blocks": [
+        {
+          "bbox": [
+            98.6292953491211,
+            124.68282318115234,
+            625.5015869140625,
+            164.19834899902344
+          ],
+          "text": "A = Maximum value of total Civil Engineering works executed (annual turnover from Civil Engineering works) \nin any one year during the last five financial years. The turnover for previous years shall be updated by 5% \nper year (compounded annually) to bring them to the price level of the Financial Year of this Tender Invitation."
+        },
+        {
+          "bbox": [
+            98.63056182861328,
+            174.36280822753906,
+            542.9390869140625,
+            184.71832275390625
+          ],
+          "text": "N = Number of years prescribed for completion of this tendered work as mentioned in NIT."
+        },
+        {
+          "bbox": [
+            98.63117218017578,
+            194.88279724121094,
+            622.5003662109375,
+            234.3983154296875
+          ],
+          "text": "B = Total value (updated to the price level of the Financial Year of this Tender Invitation) of existing \ncommitments for ongoing Civil Engineering works during the completion period mentioned in NIT, from the \nlast day of the month previous to the month of invitation of this tender."
+        }
+      ],
+      "unexpected_token_check": "passed",
+      "review_status": "pending_visual_review"
+    }
+  ],
+  "context_fragments": [
+    {
+      "pdf_page": 32,
+      "text": "3.0 \nQUALIFICATION CRITERIA \n \nPursuant to clause 2.0, tenderers shall meet the qualification criteria stipulated in the succeeding paragraphs in order to qualify. \n3.1 WORK EXPERIENCE & FINANCIAL STANDING: \n3.1. A. WORK EXPERIENCE \nSl. No \nCriteria Requirement \nDocument Submission \nRequirement \n3.1.A.(i) \nTenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven) \nyears ending as on last day of the month previous to the month of invitation of this tender, \nshould have completed/ **substantially completed One work of *Similar nature, where the \nvalue of the work is equal to or exceed ₹ 3.79 Crores.*** \nAttachment-5 & Attachment-\n6 to Letter of Technical Bid \nOR \n3.1.A. (ii) \nTenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven) \nyears ending as on last day of the month previous to the month of invitation of this tender, \nshould have completed/ **substantially completed Two works of *Similar nature, where the \nvalue of each work is equal to or exceed ₹ 2.37 Crores. *** \nAttachment-5 & Attachment-\n6 to Letter of Technical Bid \nOR \n3.1.A. (iii) Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven) \nyears ending as on last day of the month previous to the month of invitation of this tender, \nshould have completed/ **substantially completed Three works of *Similar nature, where the \nvalue of each work is equal to or exceed ₹ 1.90 Crores.*** \nAttachment-5 & Attachment-\n6 to Letter of Technical Bid \nOR \n3.1.A. (iv) Tenderer as a Prime Contractor (Single entity or Joint Venture member) during last 07(seven) \nyears ending as on last day of the month previous to the month of invitation of this tender, \nAttachment-5 & Attachment-\n6 to Letter of Technical Bid"
+    },
+    {
+      "pdf_page": 33,
+      "text": "should have completed/ **substantially completed in any number of works of *Similar nature, \nwhere the combined value of works is equal to or exceed ₹ 4.74 Crores.*** \nNotes: \n1) \n* Similar nature work for this contract shall be, ‘Demolition/Dismantling of Buildings/Structures’. \n2) \n** Similar nature work(s) where Financial value of physically executed work is 90%  or more of the original awarded contract value or \nrevised contract value (if any), duly certified by the client, will be treated as substantially completed Similar nature work(s) and will be \nconsidered for qualification of work experience criteria. In case original contract value has been revised, the revised contract value shall \nbe considered for this purpose.  \n3) \nThe Tenderer shall furnish the Client’s Completion Certificate in support of the Work Experience criteria as specified under Clause 3.1A. \nThe certificate shall clearly indicate the Nature and Scope of Similar Nature Work, Awarded Contract Value (excluding GST), Actual \nCompletion Value (excluding GST), and the Actual Date of Completion. Where applicable, the certificate shall also specify the Revised \nContract Value (excluding GST), along with details of any variation orders and extensions of time granted. \n4) \nIn cases where the Client’s Completion Certificate indicates values inclusive of GST and/or other applicable taxes, the Tenderer shall \nsubmit the actual completion cost after deducting the applicable GST dully certified by Chartered Accountant. For portions of Similar \nNature Works executed in the pre-GST period, the Tenderer shall make a deduction towards taxes at the rate of 12% to arrive at the \ncompletion cost exclusive of taxes. \n5) \nIf a Tenderer has completed /substantially completed the Similar Nature Work(s) as a member of a Joint Venture (JV), the value of \n‘Similar Nature Work(s)’ will be recognized only in proportion to the Tenderer’s stipulated financial share in that JV. A copy of the JV \nAgreement must be submitted with the bid. \n6) \nFor the purpose of evaluation, value of works in foreign currencies shall be converted to equivalent INR as per the following procedure: \nValue of completed/ substantially completed Similar Nature Work(s) in foreign currency shall be converted to Equivalent INR by adopting \nExchange rate between the foreign currency and INR as prevailing on the date of completion / date given in the substantial completion \ncertificate as applicable, as per the website of Reserve Bank of India (RBI). \n7) \n***The value of Completed Similar Nature Work(s) executed during the previous financial years shall be updated at a rate of 5% per \nyear, compounded annually, for the Indian Rupees portion (including foreign currencies, converted to Equivalent INR), to bring them to \nthe price level of the financial year of this Tender Invitation."
+    },
+    {
+      "pdf_page": 34,
+      "text": "The value of ongoing work(s) that are substantially completed shall not be updated to the price level of the financial year of this Tender \nInvitation. \n8) \nIn case the Similar Nature Work(s) are executed for client other than Government Department, PSU, or other Government Body, Contract \nAgreement, Bill wise details of payment received and Proof of TDS (Form 26AS) deducted by clients for all payments received shall be \nsubmitted duly certified by Chartered Accountant. \n9) \nWork experience certificates of the tenderers with qualification as a sub-contractor will not be considered. \n3.1. B.  FINANCIAL STANDING: The Tenderer should meet the following financial qualification criteria: \nSl. No \nCriteria Requirement \nDocument Submission \nrequirement \n3.1.B (i) \nLiquidity: Tenderer shall demonstrate that it has access to, or possess liquid assets and /or \navailability of credit facilities of not less than ₹ 1.19 Crores (Credit lines/ letter of credit/ certificates \nfrom banks for meeting the fund requirement etc.). \nAttachment-13 to Letter of \nTechnical Bid \n3.1.B (ii) \nAnnual Turnover: Tenderer in its name should have in the last five financial years (2021-2022 \nto 2025-2026) achieved in at least two financial years a minimum financial turnover (in all \nclasses of civil engineering construction works only) ≥ ₹ 9.48 Crores. **** \nAttachment-8 to Letter of \nTechnical Bid \n      Notes: \n1) \nA copy of the Banker’s Certificate issued from a Nationalised / Scheduled Bank in India (for liquidity) needs to be uploaded in the \nTechnical Proposal in respect of EQC Clause 3.1 B (i). \n2) \nAnnual financial statements (Audited Balance sheets including all related notes and income statements) for last five financial years \n(2021-2022 to 2025-2026) shall be submitted by the Tenderer. The financial information of the Tenderer must be certified either by the \nIndependent Financial Auditor (statutory Auditor) of the company appointed under the companies’ Act or by a Chartered Accountant with \nhis stamp and signature with membership number and firm registration number. \n3) \nIn case any discrepancy in data is found between the Audited Balance sheet and the financial information submitted, the data as available \nin the Audited Balance sheet will be considered."
+    },
+    {
+      "pdf_page": 35,
+      "text": "4) \nIn case Audited Balance sheet of the last financial year ending with 2025-2026 is not made available by the Tenderer, he has to submit \nan affidavit certifying that 'The Balance Sheet has actually not been audited so far'. In such a case the financial data of previous '4' \naudited financial years will be taken into consideration for evaluation. If audited Balance sheet of any year other than the last financial \nyear ending with 2025-2026 is not submitted even when requested for as a clarification under clause 20 of ITT, then the Tender will be \nconsidered as non-responsive. \n5) \nAll documents shall reflect the stand-alone financial status of the Tenderer and not the Tenderer’s parent companies, subsidiaries, or \naffiliates. \n6) \nFor the purpose of evaluation, amounts in foreign currencies shall be converted to equivalent INR as per the following procedure: \nIn cases where the financial data is denominated in a currency other than Indian Rupees, it shall be converted into the equivalent value \nin Indian Rupees by adopting the exchange rate between the foreign currency and INR prevailing on the last day of the respective \nfinancial year, as published on the Reserve Bank of India (RBI) website, for the purpose of bid evaluation. \n7) \nTo align a January–December financial year with the standard April–March fiscal year, use the following conversion: \nA calendar year (e.g., January–December 2023) corresponds to the subsequent fiscal year (e.g., FY 2023–24, covering April 2023 to \nMarch 2024). Apply this rule consistently to all such conversions. \n8) \n****Financial turnover in INR/converted equivalent INR of previous financial years shall be given a weightage of 5% per year \n(compounded annually) to bring them to the price level of the Financial Year of this Tender Invitation. \n9) \nAll the documents or certifications, which are provided by Chartered Accountant after 1st July, 2019, must contain UDIN thereon and \nthe particulars of certifications must be same as mentioned on document/certification and submitted to ICAI on its website which can be \nverified online on https://udin.icai.org/search-udin. \n3.2 BID CAPACITY: \nRequirement \nDocument Submission \nRequirement \nAvailable Bid capacity should be ≥ ₹ 4.74 Crores \nFormula: \nAvailable Bid Capacity = (1.5 × A × N) – B  \nAttachment-7, Attachment-\n8 to Letter of Technical Bid"
+    },
+    {
+      "pdf_page": 36,
+      "text": "Requirement \nDocument Submission \nRequirement \nWhere: \nA = Maximum value of total Civil Engineering works executed (annual turnover from Civil Engineering works) \nin any one year during the last five financial years. The turnover for previous years shall be updated by 5% \nper year (compounded annually) to bring them to the price level of the Financial Year of this Tender Invitation.  \nN = Number of years prescribed for completion of this tendered work as mentioned in NIT.  \nB = Total value (updated to the price level of the Financial Year of this Tender Invitation) of existing \ncommitments for ongoing Civil Engineering works during the completion period mentioned in NIT, from the \nlast day of the month previous to the month of invitation of this tender. \nNotes: \n1) Works in Hand information provided in ‘Attachment-7 to Letter of Technical Bid’ must be certified either by the Independent Financial \nAuditor (Statutory Auditor) of the company appointed under the companies’ Act or by a Chartered Accountant with his stamp and signature \nwith Membership Number and Firm’s Registration Number. \n2) All the documents or certifications, which are provided by Chartered Accountant after 1st July 2019, must contain UDIN thereon and the \nparticulars of certifications must be same as mentioned on document/certification and submitted to ICAI on its website, which can be \nverified online on https://udin.icai.org/search-udin."
+    }
+  ],
+  "context_note": "Full clause-page context, including notes, is preserved. Notes have not yet been isolated or mapped to criteria.",
+  "pending_relationships": [
+    {
+      "from_page": 32,
+      "to_page": 33,
+      "description": "Alternative 3.1.A.(iv) continues onto page 33.",
+      "status": "pending_linking"
+    },
+    {
+      "from_page": 35,
+      "to_page": 36,
+      "description": "Bid-capacity formula definitions continue onto page 36.",
+      "status": "pending_linking"
+    }
+  ],
+  "limitations": [
+    "Cross-page content has not been merged.",
+    "Fallback fragments are not complete table reconstruction.",
+    "Missing cell structures must not be assumed blank.",
+    "Notes and exceptions require criterion mapping.",
+    "Token checks do not prove completeness, punctuation placement or cell relationships.",
+    "Later corrigenda have not been applied."
+  ]
+}

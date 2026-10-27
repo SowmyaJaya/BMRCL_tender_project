@@ -1,0 +1,842 @@
+{
+  "source_id": "bmrcl-volume-1",
+  "source_path": "data/Vol1DLNP1.pdf",
+  "source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+  "section": "E",
+  "title": "Structured Contract Data",
+  "review_status": "pending_visual_review",
+  "extraction_method": "Detected outer tables with direct cell-text extraction; source-specific layout profile for nested milestones",
+  "coordinate_system": "PyMuPDF unrotated page coordinates, in points",
+  "items": [
+    {
+      "item_number": 1,
+      "source_row_label": "1",
+      "pdf_page": 142,
+      "requirement": "Contract Agreement\n\n(GCC Sub-Clause 1.4)",
+      "value": "Contractor shall execute the Contract Agreement within 30 days from\nthe issue of Letter of Acceptance.",
+      "raw_cells": [
+        "1",
+        "Contract Agreement\n\n(GCC Sub-Clause 1.4)",
+        "Contractor shall execute the Contract Agreement within 30 days from\nthe issue of Letter of Acceptance."
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          57.37161865234375,
+          104.15999603271484,
+          99.359619140625
+        ],
+        [
+          104.15999603271484,
+          57.37161865234375,
+          256.3199920654297,
+          99.359619140625
+        ],
+        [
+          256.3199920654297,
+          57.37161865234375,
+          568.2239837646484,
+          99.359619140625
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        57.37161865234375,
+        568.2239837646484,
+        768.4198379516602
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "item_number": 2,
+      "source_row_label": "2",
+      "pdf_page": 142,
+      "requirement": "Amount of Performance\nGuarantee (GCC Sub-Clause\n4.2)",
+      "value": "Within 21 days of issue of the Letter of Acceptance, the successful\nTenderer shall furnish Performance Security at 5% (Five percent) of\nthe Contract Price as mentioned in Letter of Acceptance.",
+      "raw_cells": [
+        "2",
+        "Amount of Performance\nGuarantee (GCC Sub-Clause\n4.2)",
+        "Within 21 days of issue of the Letter of Acceptance, the successful\nTenderer shall furnish Performance Security at 5% (Five percent) of\nthe Contract Price as mentioned in Letter of Acceptance."
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          99.359619140625,
+          104.15999603271484,
+          146.27963256835938
+        ],
+        [
+          104.15999603271484,
+          99.359619140625,
+          256.3199920654297,
+          146.27963256835938
+        ],
+        [
+          256.3199920654297,
+          99.359619140625,
+          568.2239837646484,
+          146.27963256835938
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        57.37161865234375,
+        568.2239837646484,
+        768.4198379516602
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "item_number": 3,
+      "source_row_label": "3",
+      "pdf_page": 142,
+      "requirement": "Guarantees and Warranties\n\n(GCC Sub-Clause 4.2.4)",
+      "value": "To be submitted within 30 days of issue of the Letter of Acceptance.",
+      "raw_cells": [
+        "3",
+        "Guarantees and Warranties\n\n(GCC Sub-Clause 4.2.4)",
+        "To be submitted within 30 days of issue of the Letter of Acceptance."
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          146.27963256835938,
+          104.15999603271484,
+          187.79962158203125
+        ],
+        [
+          104.15999603271484,
+          146.27963256835938,
+          256.3199920654297,
+          187.79962158203125
+        ],
+        [
+          256.3199920654297,
+          146.27963256835938,
+          568.2239837646484,
+          187.79962158203125
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        57.37161865234375,
+        568.2239837646484,
+        768.4198379516602
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "item_number": 4,
+      "source_row_label": "4",
+      "pdf_page": 142,
+      "requirement": "Sub-Contract\n\n(GCC Sub-Clause 4.5)",
+      "value": "Not Permitted",
+      "raw_cells": [
+        "4",
+        "Sub-Contract\n\n(GCC Sub-Clause 4.5)",
+        "Not Permitted"
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          187.79962158203125,
+          104.15999603271484,
+          229.31964111328125
+        ],
+        [
+          104.15999603271484,
+          187.79962158203125,
+          256.3199920654297,
+          229.31964111328125
+        ],
+        [
+          256.3199920654297,
+          187.79962158203125,
+          568.2239837646484,
+          229.31964111328125
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        57.37161865234375,
+        568.2239837646484,
+        768.4198379516602
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "item_number": 5,
+      "source_row_label": "5",
+      "pdf_page": 142,
+      "requirement": "Submission  of  Site  Safety\nPlan  (GCC   Sub-Clause\n4.16.2)",
+      "value": "To be submitted  within 4 weeks from  the issue  of  Letter  of\nAcceptance.",
+      "raw_cells": [
+        "5",
+        "Submission  of  Site  Safety\nPlan  (GCC   Sub-Clause\n4.16.2)",
+        "To be submitted  within 4 weeks from  the issue  of  Letter  of\nAcceptance."
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          229.31964111328125,
+          104.15999603271484,
+          276.359619140625
+        ],
+        [
+          104.15999603271484,
+          229.31964111328125,
+          256.3199920654297,
+          276.359619140625
+        ],
+        [
+          256.3199920654297,
+          229.31964111328125,
+          568.2239837646484,
+          276.359619140625
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        57.37161865234375,
+        568.2239837646484,
+        768.4198379516602
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "item_number": 6,
+      "source_row_label": "6",
+      "pdf_page": 142,
+      "requirement": "Submission      of      Site\nEnvironmental Plan\n\n(GCC Sub-Clause 4.17.1)",
+      "value": "To be submitted  within 4 weeks from  the issue  of  Letter  of\nAcceptance.",
+      "raw_cells": [
+        "6",
+        "Submission      of      Site\nEnvironmental Plan\n\n(GCC Sub-Clause 4.17.1)",
+        "To be submitted  within 4 weeks from  the issue  of  Letter  of\nAcceptance."
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          276.359619140625,
+          104.15999603271484,
+          329.27960205078125
+        ],
+        [
+          104.15999603271484,
+          276.359619140625,
+          256.3199920654297,
+          329.27960205078125
+        ],
+        [
+          256.3199920654297,
+          276.359619140625,
+          568.2239837646484,
+          329.27960205078125
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        57.37161865234375,
+        568.2239837646484,
+        768.4198379516602
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "item_number": 8,
+      "source_row_label": "8",
+      "pdf_page": 142,
+      "requirement": "Date of commencement of the\nWorks (GCC Sub-Clause 8.1)",
+      "value": "D= Date of signing of Contract Agreement",
+      "raw_cells": [
+        "8",
+        "Date of commencement of the\nWorks (GCC Sub-Clause 8.1)",
+        "D= Date of signing of Contract Agreement"
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          329.27960205078125,
+          104.15999603271484,
+          370.79962158203125
+        ],
+        [
+          104.15999603271484,
+          329.27960205078125,
+          256.3199920654297,
+          370.79962158203125
+        ],
+        [
+          256.3199920654297,
+          329.27960205078125,
+          568.2239837646484,
+          370.79962158203125
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        57.37161865234375,
+        568.2239837646484,
+        768.4198379516602
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "item_number": 9,
+      "source_row_label": "9",
+      "pdf_page": 142,
+      "requirement": "Time for Completion\n\n(GCC Sub-Clause 8.2)",
+      "value": "The whole of the works shall be completed and delivered within time\nstated in Key Dates/Mile Stones, as specified in Annexure-1 to\nEmployer’s Requirements.\n\nThe completion period for the whole of the works will be 12 months\nreckoned from the Date of Commencement.",
+      "raw_cells": [
+        "9",
+        "Time for Completion\n\n(GCC Sub-Clause 8.2)",
+        "The whole of the works shall be completed and delivered within time\nstated in Key Dates/Mile Stones, as specified in Annexure-1 to\nEmployer’s Requirements.\n\nThe completion period for the whole of the works will be 12 months\nreckoned from the Date of Commencement."
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          370.79962158203125,
+          104.15999603271484,
+          446.7596130371094
+        ],
+        [
+          104.15999603271484,
+          370.79962158203125,
+          256.3199920654297,
+          446.7596130371094
+        ],
+        [
+          256.3199920654297,
+          370.79962158203125,
+          568.2239837646484,
+          446.7596130371094
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        57.37161865234375,
+        568.2239837646484,
+        768.4198379516602
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "item_number": 10,
+      "source_row_label": "10\\",
+      "pdf_page": 142,
+      "requirement": "Liquidated Damages (LD)\n\n(GCC Sub-Clause 8.5)",
+      "value": "i.  Milestones:\n\n                               No.      of\n                                 buildings  /\n                   Period       structures\n  Sl.                                         Liquidated\n      Milestone    from   the  to     be\n No                                  damages\n                       start date   demolishe\n                                 d/dismantl\n                            ed\n       Milestone-1    Six months  50% of total  Rs. 5,000/-\n  1.                 from    the  area         per day  for\n                     date      of  handed      delay       in\n                      signing  the  over.         achieving\n                      contract                    Mileston-1\n                    agreement.\n\n       Milestone-2   Twelve     100%     of  Rs. 10,000/-\n  2.                months        total   area  per day  for\n                    from    the  handed      delay       in\n                     date      of  over.         achieving\n                      signing  the                Milestone-2\n                      contract\n                    agreement.\n\nii.  The upper limit for Liquidated Damages is 5% of Contract\n    Price.",
+      "raw_cells": [
+        "10\\",
+        "Liquidated Damages (LD)\n\n(GCC Sub-Clause 8.5)",
+        "i.  Milestones:\n\n                               No.      of\n                                 buildings  /\n                   Period       structures\n  Sl.                                         Liquidated\n      Milestone    from   the  to     be\n No                                  damages\n                       start date   demolishe\n                                 d/dismantl\n                            ed\n       Milestone-1    Six months  50% of total  Rs. 5,000/-\n  1.                 from    the  area         per day  for\n                     date      of  handed      delay       in\n                      signing  the  over.         achieving\n                      contract                    Mileston-1\n                    agreement.\n\n       Milestone-2   Twelve     100%     of  Rs. 10,000/-\n  2.                months        total   area  per day  for\n                    from    the  handed      delay       in\n                     date      of  over.         achieving\n                      signing  the                Milestone-2\n                      contract\n                    agreement.\n\nii.  The upper limit for Liquidated Damages is 5% of Contract\n    Price."
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          446.7596130371094,
+          104.15999603271484,
+          768.4198379516602
+        ],
+        [
+          104.15999603271484,
+          446.7596130371094,
+          256.3199920654297,
+          768.4198379516602
+        ],
+        [
+          256.3199920654297,
+          446.7596130371094,
+          568.2239837646484,
+          768.4198379516602
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        57.37161865234375,
+        568.2239837646484,
+        768.4198379516602
+      ],
+      "review_status": "pending_visual_review",
+      "milestone_table": {
+        "pdf_page": 142,
+        "parent_item_number": 10,
+        "extraction_method": "source_hash_bound_layout_profile",
+        "profile_source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+        "table_bbox": [
+          261.96,
+          470.76,
+          568.22,
+          707.64
+        ],
+        "source_headers": [
+          "Sl.\nNo",
+          "Milestone",
+          "Period\nfrom   the\nstart date",
+          "No.      of\nbuildings  /\nstructures\nto     be\ndemolishe\nd/dismantl\ned",
+          "Liquidated\ndamages"
+        ],
+        "milestones": [
+          {
+            "source_number": "1.",
+            "milestone": "Milestone-1",
+            "period": "Six months\nfrom    the\ndate      of\nsigning  the\ncontract\nagreement.",
+            "target": "50% of total\narea\nhanded\nover.",
+            "liquidated_damages": "Rs. 5,000/-\nper day  for\ndelay       in\nachieving\nMileston-1",
+            "raw_cells": [
+              "1.",
+              "Milestone-1",
+              "Six months\nfrom    the\ndate      of\nsigning  the\ncontract\nagreement.",
+              "50% of total\narea\nhanded\nover.",
+              "Rs. 5,000/-\nper day  for\ndelay       in\nachieving\nMileston-1"
+            ],
+            "cell_bboxes": [
+              [
+                261.96,
+                551.76,
+                287.04,
+                626.64
+              ],
+              [
+                287.04,
+                551.76,
+                355.56,
+                626.64
+              ],
+              [
+                355.56,
+                551.76,
+                419.28,
+                626.64
+              ],
+              [
+                419.28,
+                551.76,
+                483.12,
+                626.64
+              ],
+              [
+                483.12,
+                551.76,
+                568.22,
+                626.64
+              ]
+            ],
+            "review_status": "pending_visual_review"
+          },
+          {
+            "source_number": "2.",
+            "milestone": "Milestone-2",
+            "period": "Twelve\nmonths\nfrom    the\ndate      of\nsigning  the\ncontract\nagreement.",
+            "target": "100%     of\ntotal   area\nhanded\nover.",
+            "liquidated_damages": "Rs. 10,000/-\nper day  for\ndelay       in\nachieving\nMilestone-2",
+            "raw_cells": [
+              "2.",
+              "Milestone-2",
+              "Twelve\nmonths\nfrom    the\ndate      of\nsigning  the\ncontract\nagreement.",
+              "100%     of\ntotal   area\nhanded\nover.",
+              "Rs. 10,000/-\nper day  for\ndelay       in\nachieving\nMilestone-2"
+            ],
+            "cell_bboxes": [
+              [
+                261.96,
+                626.64,
+                287.04,
+                707.64
+              ],
+              [
+                287.04,
+                626.64,
+                355.56,
+                707.64
+              ],
+              [
+                355.56,
+                626.64,
+                419.28,
+                707.64
+              ],
+              [
+                419.28,
+                626.64,
+                483.12,
+                707.64
+              ],
+              [
+                483.12,
+                626.64,
+                568.22,
+                707.64
+              ]
+            ],
+            "review_status": "pending_visual_review"
+          }
+        ],
+        "table_region_token_check": "passed",
+        "context_note": "The complete item-10 value remains preserved, including the liquidated-damages upper limit."
+      }
+    },
+    {
+      "item_number": 11,
+      "source_row_label": "11",
+      "pdf_page": 143,
+      "requirement": "Incentives for early completion\nof whole work\n\n(GCC Sub- Clause 8.10)",
+      "value": "NOT APPLICABLE",
+      "raw_cells": [
+        "11",
+        "Incentives for early completion\nof whole work\n\n(GCC Sub- Clause 8.10)",
+        "NOT APPLICABLE"
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          46.2596435546875,
+          104.15999603271484,
+          99.359619140625
+        ],
+        [
+          104.15999603271484,
+          46.2596435546875,
+          256.3199920654297,
+          99.359619140625
+        ],
+        [
+          256.3199920654297,
+          46.2596435546875,
+          568.2239837646484,
+          99.359619140625
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        46.2596435546875,
+        568.2239837646484,
+        476.3396186828613
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "item_number": 12,
+      "source_row_label": "12",
+      "pdf_page": 143,
+      "requirement": "Defects Liability Period\n\n(GCC Sub-Clause 10)",
+      "value": "Defects Liability Period is 6 months from the date of Taking over\nmentioned in Taking Over Certificates being issued for whole of\nthe work.",
+      "raw_cells": [
+        "12",
+        "Defects Liability Period\n\n(GCC Sub-Clause 10)",
+        "Defects Liability Period is 6 months from the date of Taking over\nmentioned in Taking Over Certificates being issued for whole of\nthe work."
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          99.359619140625,
+          104.15999603271484,
+          146.27963256835938
+        ],
+        [
+          104.15999603271484,
+          99.359619140625,
+          256.3199920654297,
+          146.27963256835938
+        ],
+        [
+          256.3199920654297,
+          99.359619140625,
+          568.2239837646484,
+          146.27963256835938
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        46.2596435546875,
+        568.2239837646484,
+        476.3396186828613
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "item_number": 14,
+      "source_row_label": "14",
+      "pdf_page": 143,
+      "requirement": "Price Variation/ Adjustment\n\n(GCC Sub-Clause 11.1.2)",
+      "value": "NOT APPLICABLE",
+      "raw_cells": [
+        "14",
+        "Price Variation/ Adjustment\n\n(GCC Sub-Clause 11.1.2)",
+        "NOT APPLICABLE"
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          146.27963256835938,
+          104.15999603271484,
+          187.79962158203125
+        ],
+        [
+          104.15999603271484,
+          146.27963256835938,
+          256.3199920654297,
+          187.79962158203125
+        ],
+        [
+          256.3199920654297,
+          146.27963256835938,
+          568.2239837646484,
+          187.79962158203125
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        46.2596435546875,
+        568.2239837646484,
+        476.3396186828613
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "item_number": 15,
+      "source_row_label": "15",
+      "pdf_page": 143,
+      "requirement": "Mobilization Advance\n\n(GCC Sub-Clause 11.2.1)",
+      "value": "NOT APPLICABLE",
+      "raw_cells": [
+        "15",
+        "Mobilization Advance\n\n(GCC Sub-Clause 11.2.1)",
+        "NOT APPLICABLE"
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          187.79962158203125,
+          104.15999603271484,
+          229.31964111328125
+        ],
+        [
+          104.15999603271484,
+          187.79962158203125,
+          256.3199920654297,
+          229.31964111328125
+        ],
+        [
+          256.3199920654297,
+          187.79962158203125,
+          568.2239837646484,
+          229.31964111328125
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        46.2596435546875,
+        568.2239837646484,
+        476.3396186828613
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "item_number": 16,
+      "source_row_label": "16",
+      "pdf_page": 143,
+      "requirement": "Advance  Against  Plant &\nMachinery (GCC Sub-Clause\n11.2.2)",
+      "value": "NOT APPLICABLE",
+      "raw_cells": [
+        "16",
+        "Advance  Against  Plant &\nMachinery (GCC Sub-Clause\n11.2.2)",
+        "NOT APPLICABLE"
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          229.31964111328125,
+          104.15999603271484,
+          276.359619140625
+        ],
+        [
+          104.15999603271484,
+          229.31964111328125,
+          256.3199920654297,
+          276.359619140625
+        ],
+        [
+          256.3199920654297,
+          229.31964111328125,
+          568.2239837646484,
+          276.359619140625
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        46.2596435546875,
+        568.2239837646484,
+        476.3396186828613
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "item_number": 17,
+      "source_row_label": "17",
+      "pdf_page": 143,
+      "requirement": "Special/Acceleration\nAdvance (GCC Sub-Clause\n11.2.3)",
+      "value": "NOT APPLICABLE",
+      "raw_cells": [
+        "17",
+        "Special/Acceleration\nAdvance (GCC Sub-Clause\n11.2.3)",
+        "NOT APPLICABLE"
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          276.359619140625,
+          104.15999603271484,
+          323.27960205078125
+        ],
+        [
+          104.15999603271484,
+          276.359619140625,
+          256.3199920654297,
+          323.27960205078125
+        ],
+        [
+          256.3199920654297,
+          276.359619140625,
+          568.2239837646484,
+          323.27960205078125
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        46.2596435546875,
+        568.2239837646484,
+        476.3396186828613
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "item_number": 18,
+      "source_row_label": "18",
+      "pdf_page": 143,
+      "requirement": "Retention Money\n\n(GCC Sub-Clause 11.7)",
+      "value": "Retention Money in each IPC is limited to 10% of Bill amount.\n\nMaximum limit of Retention Money is 5% of Contract Price (as\nstated in Letter of Acceptance).",
+      "raw_cells": [
+        "18",
+        "Retention Money\n\n(GCC Sub-Clause 11.7)",
+        "Retention Money in each IPC is limited to 10% of Bill amount.\n\nMaximum limit of Retention Money is 5% of Contract Price (as\nstated in Letter of Acceptance)."
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          323.27960205078125,
+          104.15999603271484,
+          376.3196258544922
+        ],
+        [
+          104.15999603271484,
+          323.27960205078125,
+          256.3199920654297,
+          376.3196258544922
+        ],
+        [
+          256.3199920654297,
+          323.27960205078125,
+          568.2239837646484,
+          376.3196258544922
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        46.2596435546875,
+        568.2239837646484,
+        476.3396186828613
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "item_number": 19,
+      "source_row_label": "19",
+      "pdf_page": 143,
+      "requirement": "Professional      Indemnity\nInsurance amount\n\n(GCC Sub-Clause 15.1)",
+      "value": "NOT APPLICABLE",
+      "raw_cells": [
+        "19",
+        "Professional      Indemnity\nInsurance amount\n\n(GCC Sub-Clause 15.1)",
+        "NOT APPLICABLE"
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          376.3196258544922,
+          104.15999603271484,
+          429.359619140625
+        ],
+        [
+          104.15999603271484,
+          376.3196258544922,
+          256.3199920654297,
+          429.359619140625
+        ],
+        [
+          256.3199920654297,
+          376.3196258544922,
+          568.2239837646484,
+          429.359619140625
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        46.2596435546875,
+        568.2239837646484,
+        476.3396186828613
+      ],
+      "review_status": "pending_visual_review"
+    },
+    {
+      "item_number": 20,
+      "source_row_label": "20",
+      "pdf_page": 143,
+      "requirement": "Period in which  all insurances\nmust  be   submitted  (GCC\nClause- 15.7)",
+      "value": "Within 06 weeks from the date of commencement of works.",
+      "raw_cells": [
+        "20",
+        "Period in which  all insurances\nmust  be   submitted  (GCC\nClause- 15.7)",
+        "Within 06 weeks from the date of commencement of works."
+      ],
+      "cell_bboxes": [
+        [
+          72.21599807739258,
+          429.359619140625,
+          104.15999603271484,
+          476.3396186828613
+        ],
+        [
+          104.15999603271484,
+          429.359619140625,
+          256.3199920654297,
+          476.3396186828613
+        ],
+        [
+          256.3199920654297,
+          429.359619140625,
+          568.2239837646484,
+          476.3396186828613
+        ]
+      ],
+      "table_bbox": [
+        72.21599807739258,
+        46.2596435546875,
+        568.2239837646484,
+        476.3396186828613
+      ],
+      "review_status": "pending_visual_review"
+    }
+  ],
+  "source_numbering_gaps": [
+    7,
+    13
+  ],
+  "numbering_note": "Original numbering retained; missing items not invented.",
+  "limitations": [
+    "Token checks do not verify punctuation placement or cell relationships.",
+    "Source references and applicability require review.",
+    "Later corrigenda have not been applied.",
+    "Potential differences with contract templates remain unresolved."
+  ]
+}

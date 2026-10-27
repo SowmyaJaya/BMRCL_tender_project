@@ -1,0 +1,625 @@
+{
+  "source_id": "bmrcl-volume-1",
+  "source_path": "data/Vol1DLNP1.pdf",
+  "source_sha256": "74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c",
+  "section": "D",
+  "form_id": "submission_checklist",
+  "title": "Submission Checklist",
+  "source_heading": "CHECK LIST FOR SUBMISSION OF IMPORTANT INFORMATION (NOT EXHAUSTIVE)",
+  "pdf_page": 65,
+  "checklist_scope": "not_exhaustive",
+  "review_status": "pending_manual_review",
+  "extraction_method": "Table detection with direct PDF cell-text extraction",
+  "coordinate_system": "PyMuPDF unrotated page coordinates, in points",
+  "table_bbox": [
+    61.66736683092619,
+    111.15962727864583,
+    540.9726241262335,
+    475.7596130371094
+  ],
+  "source_headers": [
+    "Sl.\n\nNo.",
+    "Submission Requirement"
+  ],
+  "items": [
+    {
+      "item_number": 1,
+      "pdf_page": 65,
+      "requirement_source_text": "Letter of Technical Bid",
+      "submission_form_references": [
+        {
+          "form_id": "technical_bid_letter",
+          "pdf_pages": [
+            38
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "submission_choice": "single_form",
+      "other_mentions_in_source_text": [],
+      "cell_bboxes": [
+        [
+          61.66736683092619,
+          143.7596435546875,
+          102.83999633789062,
+          161.7596435546875
+        ],
+        [
+          102.83999633789062,
+          143.7596435546875,
+          540.9726241262335,
+          161.7596435546875
+        ]
+      ],
+      "review_status": "pending_manual_review",
+      "applicability_status": "not_evaluated"
+    },
+    {
+      "item_number": 2,
+      "pdf_page": 65,
+      "requirement_source_text": "Proforma Letter of Declaration and Undertaking (Attachment -1)",
+      "submission_form_references": [
+        {
+          "form_id": "attachment_1",
+          "pdf_pages": [
+            39,
+            40
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "submission_choice": "single_form",
+      "other_mentions_in_source_text": [],
+      "cell_bboxes": [
+        [
+          61.66736683092619,
+          161.7596435546875,
+          102.83999633789062,
+          179.7596435546875
+        ],
+        [
+          102.83999633789062,
+          161.7596435546875,
+          540.9726241262335,
+          179.7596435546875
+        ]
+      ],
+      "review_status": "pending_manual_review",
+      "applicability_status": "not_evaluated"
+    },
+    {
+      "item_number": 3,
+      "pdf_page": 65,
+      "requirement_source_text": "Undertaking for Execution of Multiple Works Contracts (Attachment -1A)",
+      "submission_form_references": [
+        {
+          "form_id": "attachment_1a",
+          "pdf_pages": [
+            41
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "submission_choice": "single_form",
+      "other_mentions_in_source_text": [],
+      "cell_bboxes": [
+        [
+          61.66736683092619,
+          179.7596435546875,
+          102.83999633789062,
+          197.7596435546875
+        ],
+        [
+          102.83999633789062,
+          179.7596435546875,
+          540.9726241262335,
+          197.7596435546875
+        ]
+      ],
+      "review_status": "pending_manual_review",
+      "applicability_status": "not_evaluated"
+    },
+    {
+      "item_number": 4,
+      "pdf_page": 65,
+      "requirement_source_text": "Tenderer’s Information (Attachment -4)",
+      "submission_form_references": [
+        {
+          "form_id": "attachment_4",
+          "pdf_pages": [
+            43
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "submission_choice": "single_form",
+      "other_mentions_in_source_text": [],
+      "cell_bboxes": [
+        [
+          61.66736683092619,
+          197.7596435546875,
+          102.83999633789062,
+          215.7596435546875
+        ],
+        [
+          102.83999633789062,
+          197.7596435546875,
+          540.9726241262335,
+          215.7596435546875
+        ]
+      ],
+      "review_status": "pending_manual_review",
+      "applicability_status": "not_evaluated"
+    },
+    {
+      "item_number": 5,
+      "pdf_page": 65,
+      "requirement_source_text": "Tender Fee and Tender Security Details (Attachment-4A)",
+      "submission_form_references": [
+        {
+          "form_id": "attachment_4a",
+          "pdf_pages": [
+            44
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "submission_choice": "single_form",
+      "other_mentions_in_source_text": [],
+      "cell_bboxes": [
+        [
+          61.66736683092619,
+          215.7596435546875,
+          102.83999633789062,
+          233.7596435546875
+        ],
+        [
+          102.83999633789062,
+          215.7596435546875,
+          540.9726241262335,
+          233.7596435546875
+        ]
+      ],
+      "review_status": "pending_manual_review",
+      "applicability_status": "not_evaluated"
+    },
+    {
+      "item_number": 6,
+      "pdf_page": 65,
+      "requirement_source_text": "Works of Similar Nature (Attachment -5)",
+      "submission_form_references": [
+        {
+          "form_id": "attachment_5",
+          "pdf_pages": [
+            45
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "submission_choice": "single_form",
+      "other_mentions_in_source_text": [],
+      "cell_bboxes": [
+        [
+          61.66736683092619,
+          233.7596435546875,
+          102.83999633789062,
+          251.75961303710938
+        ],
+        [
+          102.83999633789062,
+          233.7596435546875,
+          540.9726241262335,
+          251.75961303710938
+        ]
+      ],
+      "review_status": "pending_manual_review",
+      "applicability_status": "not_evaluated"
+    },
+    {
+      "item_number": 7,
+      "pdf_page": 65,
+      "requirement_source_text": "Summary of Information provided in Attachment - 5 (Attachment -6)",
+      "submission_form_references": [
+        {
+          "form_id": "attachment_6",
+          "pdf_pages": [
+            46
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "submission_choice": "single_form",
+      "other_mentions_in_source_text": [
+        {
+          "form_id": "attachment_5",
+          "pdf_pages": [
+            45
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "cell_bboxes": [
+        [
+          61.66736683092619,
+          251.75961303710938,
+          102.83999633789062,
+          269.7596130371094
+        ],
+        [
+          102.83999633789062,
+          251.75961303710938,
+          540.9726241262335,
+          269.7596130371094
+        ]
+      ],
+      "review_status": "pending_manual_review",
+      "applicability_status": "not_evaluated"
+    },
+    {
+      "item_number": 8,
+      "pdf_page": 65,
+      "requirement_source_text": "Works In Hand (Attachment -7)",
+      "submission_form_references": [
+        {
+          "form_id": "attachment_7",
+          "pdf_pages": [
+            47,
+            48
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "submission_choice": "single_form",
+      "other_mentions_in_source_text": [],
+      "cell_bboxes": [
+        [
+          61.66736683092619,
+          269.7596130371094,
+          102.83999633789062,
+          287.7596130371094
+        ],
+        [
+          102.83999633789062,
+          269.7596130371094,
+          540.9726241262335,
+          287.7596130371094
+        ]
+      ],
+      "review_status": "pending_manual_review",
+      "applicability_status": "not_evaluated"
+    },
+    {
+      "item_number": 9,
+      "pdf_page": 65,
+      "requirement_source_text": "Financial Information - Updated Annual Turnover (Attachment -8)",
+      "submission_form_references": [
+        {
+          "form_id": "attachment_8",
+          "pdf_pages": [
+            49
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "submission_choice": "single_form",
+      "other_mentions_in_source_text": [],
+      "cell_bboxes": [
+        [
+          61.66736683092619,
+          287.7596130371094,
+          102.83999633789062,
+          305.7596130371094
+        ],
+        [
+          102.83999633789062,
+          287.7596130371094,
+          540.9726241262335,
+          305.7596130371094
+        ]
+      ],
+      "review_status": "pending_manual_review",
+      "applicability_status": "not_evaluated"
+    },
+    {
+      "item_number": 10,
+      "pdf_page": 65,
+      "requirement_source_text": "Minimum Qualification and Experience Required for Key personnel to be deployed for the work\n(Attachment -9)",
+      "submission_form_references": [
+        {
+          "form_id": "attachment_9",
+          "pdf_pages": [
+            50
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "submission_choice": "single_form",
+      "other_mentions_in_source_text": [],
+      "cell_bboxes": [
+        [
+          61.66736683092619,
+          305.7596130371094,
+          102.83999633789062,
+          335.2796173095703
+        ],
+        [
+          102.83999633789062,
+          305.7596130371094,
+          540.9726241262335,
+          335.2796173095703
+        ]
+      ],
+      "review_status": "pending_manual_review",
+      "applicability_status": "not_evaluated"
+    },
+    {
+      "item_number": 11,
+      "pdf_page": 65,
+      "requirement_source_text": "Format of curriculum vitae (CV) for proposed Key personnel (Attachment -9A)",
+      "submission_form_references": [
+        {
+          "form_id": "attachment_9a",
+          "pdf_pages": [
+            51
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "submission_choice": "single_form",
+      "other_mentions_in_source_text": [],
+      "cell_bboxes": [
+        [
+          61.66736683092619,
+          335.2796173095703,
+          102.83999633789062,
+          353.2796173095703
+        ],
+        [
+          102.83999633789062,
+          335.2796173095703,
+          540.9726241262335,
+          353.2796173095703
+        ]
+      ],
+      "review_status": "pending_manual_review",
+      "applicability_status": "not_evaluated"
+    },
+    {
+      "item_number": 12,
+      "pdf_page": 65,
+      "requirement_source_text": "Minimum Plants & Equipment for the Work (Attachment -10)",
+      "submission_form_references": [
+        {
+          "form_id": "attachment_10",
+          "pdf_pages": [
+            52
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "submission_choice": "single_form",
+      "other_mentions_in_source_text": [],
+      "cell_bboxes": [
+        [
+          61.66736683092619,
+          353.2796173095703,
+          102.83999633789062,
+          371.2796173095703
+        ],
+        [
+          102.83999633789062,
+          353.2796173095703,
+          540.9726241262335,
+          371.2796173095703
+        ]
+      ],
+      "review_status": "pending_manual_review",
+      "applicability_status": "not_evaluated"
+    },
+    {
+      "item_number": 13,
+      "pdf_page": 65,
+      "requirement_source_text": "Format for Power of Attorney for Bidding (Attachment -11)",
+      "submission_form_references": [
+        {
+          "form_id": "attachment_11",
+          "pdf_pages": [
+            53
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "submission_choice": "single_form",
+      "other_mentions_in_source_text": [],
+      "cell_bboxes": [
+        [
+          61.66736683092619,
+          371.2796173095703,
+          102.83999633789062,
+          389.2796173095703
+        ],
+        [
+          102.83999633789062,
+          371.2796173095703,
+          540.9726241262335,
+          389.2796173095703
+        ]
+      ],
+      "review_status": "pending_manual_review",
+      "applicability_status": "not_evaluated"
+    },
+    {
+      "item_number": 14,
+      "pdf_page": 65,
+      "requirement_source_text": "Form of Bank Guarantee for Tender Security (EMD)\n\n   (Attachment -12) or Surety Bond for Bid Security (Attachment-12A)",
+      "submission_form_references": [
+        {
+          "form_id": "attachment_12",
+          "pdf_pages": [
+            54,
+            55
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        },
+        {
+          "form_id": "attachment_12a",
+          "pdf_pages": [
+            56,
+            57
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "submission_choice": "OR",
+      "other_mentions_in_source_text": [],
+      "cell_bboxes": [
+        [
+          61.66736683092619,
+          389.2796173095703,
+          102.83999633789062,
+          421.6796112060547
+        ],
+        [
+          102.83999633789062,
+          389.2796173095703,
+          540.9726241262335,
+          421.6796112060547
+        ]
+      ],
+      "review_status": "pending_manual_review",
+      "applicability_status": "not_evaluated"
+    },
+    {
+      "item_number": 15,
+      "pdf_page": 65,
+      "requirement_source_text": "Form of Banker’s Certificate for Liquidity (Attachment -13)",
+      "submission_form_references": [
+        {
+          "form_id": "attachment_13",
+          "pdf_pages": [
+            58
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "submission_choice": "single_form",
+      "other_mentions_in_source_text": [],
+      "cell_bboxes": [
+        [
+          61.66736683092619,
+          421.6796112060547,
+          102.83999633789062,
+          439.6796112060547
+        ],
+        [
+          102.83999633789062,
+          421.6796112060547,
+          540.9726241262335,
+          439.6796112060547
+        ]
+      ],
+      "review_status": "pending_manual_review",
+      "applicability_status": "not_evaluated"
+    },
+    {
+      "item_number": 16,
+      "pdf_page": 65,
+      "requirement_source_text": "Tenderer’s Brief of Technical Details (Attachment -14)",
+      "submission_form_references": [
+        {
+          "form_id": "attachment_14",
+          "pdf_pages": [
+            60
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "submission_choice": "single_form",
+      "other_mentions_in_source_text": [],
+      "cell_bboxes": [
+        [
+          61.66736683092619,
+          439.6796112060547,
+          102.83999633789062,
+          457.6796112060547
+        ],
+        [
+          102.83999633789062,
+          439.6796112060547,
+          540.9726241262335,
+          457.6796112060547
+        ]
+      ],
+      "review_status": "pending_manual_review",
+      "applicability_status": "not_evaluated"
+    },
+    {
+      "item_number": 17,
+      "pdf_page": 65,
+      "requirement_source_text": "Statement of Integrity, Eligibility and Social and Environmental Responsibility (Attachment -16)",
+      "submission_form_references": [
+        {
+          "form_id": "attachment_16",
+          "pdf_pages": [
+            62,
+            63,
+            64
+          ],
+          "context_file": "output/vol1/parsed/section_d_technical_bid/technical_bid_forms.json",
+          "source_marking": "not_marked_deleted"
+        }
+      ],
+      "submission_choice": "single_form",
+      "other_mentions_in_source_text": [],
+      "cell_bboxes": [
+        [
+          61.66736683092619,
+          457.6796112060547,
+          102.83999633789062,
+          475.7596130371094
+        ],
+        [
+          102.83999633789062,
+          457.6796112060547,
+          540.9726241262335,
+          475.7596130371094
+        ]
+      ],
+      "review_status": "pending_manual_review",
+      "applicability_status": "not_evaluated"
+    }
+  ],
+  "table_region_token_check": "passed",
+  "full_form_context": [
+    {
+      "pdf_page": 65,
+      "text": "CHECK LIST FOR SUBMISSION OF IMPORTANT INFORMATION (NOT EXHAUSTIVE)\n\n\n\n          Sl.\n                                        Submission Requirement\n        No.\n\n        1    Letter of Technical Bid\n\n        2   Proforma Letter of Declaration and Undertaking (Attachment -1)\n\n        3    Undertaking for Execution of Multiple Works Contracts (Attachment -1A)\n\n        4    Tenderer’s Information (Attachment -4)\n\n        5   Tender Fee and Tender Security Details (Attachment-4A)\n\n        6   Works of Similar Nature (Attachment -5)\n\n        7   Summary of Information provided in Attachment - 5 (Attachment -6)\n\n        8   Works In Hand (Attachment -7)\n\n        9    Financial Information - Updated Annual Turnover (Attachment -8)\n\n        10  Minimum Qualification and Experience Required for Key personnel to be deployed for the work\n             (Attachment -9)\n\n        11  Format of curriculum vitae (CV) for proposed Key personnel (Attachment -9A)\n\n        12  Minimum Plants & Equipment for the Work (Attachment -10)\n\n        13  Format for Power of Attorney for Bidding (Attachment -11)\n\n        14  Form of Bank Guarantee for Tender Security (EMD)\n\n               (Attachment -12) or Surety Bond for Bid Security (Attachment-12A)\n\n        15  Form of Banker’s Certificate for Liquidity (Attachment -13)\n\n        16   Tenderer’s Brief of Technical Details (Attachment -14)\n\n        17  Statement of Integrity, Eligibility and Social and Environmental Responsibility (Attachment -16)\n\n\n   Signature of the Tenderer: ......................................................................................\n\n  Name & Designation of Authorized signature: ........................................................\n\n   Place, date and seal/stamp of the tenderer: ..........................................................."
+    }
+  ],
+  "limitations": [
+    "Checklist membership does not establish unconditional applicability to every bidder.",
+    "Attachment 1A has conditions in its source form that must be considered.",
+    "Item 14 alternatives are preserved as OR.",
+    "Other mentions are context references, not automatically additional submission obligations.",
+    "No bid-completeness or eligibility decision was made.",
+    "Later corrigenda have not been applied."
+  ]
+}
