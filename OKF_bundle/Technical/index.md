@@ -1,0 +1,5 @@
+# Technical Volume Index
+
+* [Volume 1 — Tender Sections A to G (Vol1/index.md)](Vol1/index.md) — Notice Inviting Tender, Instructions to Tenderers, Eligibility cum Qualification Criteria, Letter of Technical Bid, General Conditions of Contract and Contract Data, Special Conditions of Contract, and Contract Forms.
+* [Volume 2 — Section H: Employer Requirements, Scope of Work and Technical Specifications (Vol2/index.md)](Vol2/index.md) — General requirements, key engineering controls and work practices, scope of work and annexures, specifications for demolition/dismantling works, and specifications for rehabilitation and restoration works.
+* [Volume 3 — Section I: SHE Manual (Vol3/index.md)](Vol3/index.md) — SHE Management, Safety, Occupational Health and Welfare, Environmental Management, Penalty and Awards, plus Appendices, General Instructions and Forms.

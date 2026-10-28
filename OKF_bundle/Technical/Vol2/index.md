@@ -1,0 +1,7 @@
+# Volume 2 — Section H: Employer Requirements, Scope of Work and Technical Specifications
+
+* [Part 1: General (part1.md)](part1.md) — General requirements covering employer, contractor, and consultant/engineer responsibilities, and general principles and precautions for safe demolition and dismantling work (Clauses 1–4).
+* [Part 2: Key Engineering Controls and Work Practices (part2.md)](part2.md) — 15 hazard topics with engineering controls and work practices for safe demolition, including structural instability, debris handling, fall protection, electrical safety, dust control, hot work, noise, confined spaces, and barricading.
+* [Part 3: Scope of Work and Annexures (part3.md)](part3.md) — Scope of work clauses 1–21 covering general requirements, dust control, protection of personnel/structures/property/trees, environmental protection, disposal, salvage, barricading, and demolition, plus Annexures 1–3 for milestones, key personnel, and plant & equipment.
+* [Part 4A: Specifications for Demolition/Dismantling Works (part4A.md)](part4A.md) — Technical specifications for demolition and dismantling works covering dismantling, demolition, and serviceable/unserviceable materials with inventory, hazards, planning, precautions, and sequence of operations.
+* [Part 4B: Specifications for Rehabilitation and Restoration Works (part4B.md)](part4B.md) — Specifications for rehabilitation and restoration works including building condition study, applicable standards, materials and workmanship, testing, concrete works, formwork, reinforcement, and earthwork.
