@@ -1,0 +1,2508 @@
+{
+  "schema_version": 1,
+  "source_document": "Vol4DLNP1.pdf",
+  "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+  "generated_at": "2026-10-30T05:04:29.350739+00:00",
+  "extractor": "PyMuPDF",
+  "extractor_version": "2.0",
+  "review_status": "pending_manual_review",
+  "sections": [
+    {
+      "title": "Cover",
+      "pdf_pages": [
+        1
+      ]
+    },
+    {
+      "title": "Section J title page",
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "title": "Letter of Price Bid",
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "title": "Pricing Document Preamble",
+      "pdf_pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Abstract of BOQ",
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "title": "Detailed BOQ",
+      "pdf_pages": [
+        9,
+        10
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "pdf_page": 1,
+      "text": "  \n \n \n    \n \n \n \n \n \n \n \n \n                       \nBANGALORE METRO RAIL PROJECT, PHASE-3 \n \nName of the Work: “Partial and Full Demolition/Dismantling of \nBuildings/Structures identified in Bangalore Metro Rail Project Phase-3.” \nContract Package-P1: “Partial and Full Demolition/Dismantling of \nBuildings/Structures identified from JP Nagar 4th Phase Station to Mysore \nRoad Station (from Ch: (-) 0.330 Km to Ch: 10.550 Km) in Corridor-1 of \nBangalore Metro Rail Project Phase-3.”       \n \n \n        \nTender No: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157 \nSEPTEMBER-2026 \nFINANCIAL DOCUMENT \n(Pricing Document) \nVOLUME - 4  \n",
+      "text_blocks": [
+        {
+          "bbox": [
+            63.9599723815918,
+            19.569625854492188,
+            302.403564453125,
+            44.40032958984375
+          ],
+          "text": "  \n \n",
+          "block_number": 0
+        },
+        {
+          "bbox": [
+            63.9599723815918,
+            97.07410430908203,
+            66.45352172851562,
+            104.04034423828125
+          ],
+          "text": " \n",
+          "block_number": 1
+        },
+        {
+          "bbox": [
+            63.9599723815918,
+            122.51410675048828,
+            73.89351654052734,
+            129.4803466796875
+          ],
+          "text": "    \n",
+          "block_number": 2
+        },
+        {
+          "bbox": [
+            14.400049209594727,
+            147.95411682128906,
+            304.29351806640625,
+            154.92034912109375
+          ],
+          "text": " \n \n",
+          "block_number": 3
+        },
+        {
+          "bbox": [
+            14.400049209594727,
+            173.3941192626953,
+            16.893596649169922,
+            180.3603515625
+          ],
+          "text": " \n",
+          "block_number": 4
+        },
+        {
+          "bbox": [
+            14.400049209594727,
+            198.8340606689453,
+            16.893596649169922,
+            205.80029296875
+          ],
+          "text": " \n",
+          "block_number": 5
+        },
+        {
+          "bbox": [
+            14.400049209594727,
+            224.27406311035156,
+            491.492431640625,
+            231.24029541015625
+          ],
+          "text": " \n \n \n",
+          "block_number": 6
+        },
+        {
+          "bbox": [
+            49.79998016357422,
+            250.77337646484375,
+            544.8611450195312,
+            358.8686218261719
+          ],
+          "text": " \n                       \nBANGALORE METRO RAIL PROJECT, PHASE-3 \n \nName of the Work: “Partial and Full Demolition/Dismantling of \nBuildings/Structures identified in Bangalore Metro Rail Project Phase-3.” \n",
+          "block_number": 7
+        },
+        {
+          "bbox": [
+            68.3995361328125,
+            364.299072265625,
+            544.8632202148438,
+            476.8801574707031
+          ],
+          "text": "Contract Package-P1: “Partial and Full Demolition/Dismantling of \nBuildings/Structures identified from JP Nagar 4th Phase Station to Mysore \nRoad Station (from Ch: (-) 0.330 Km to Ch: 10.550 Km) in Corridor-1 of \nBangalore Metro Rail Project Phase-3.”       \n \n \n",
+          "block_number": 8
+        },
+        {
+          "bbox": [
+            108.47999572753906,
+            492.7681579589844,
+            153.18820190429688,
+            515.2801513671875
+          ],
+          "text": "        \n",
+          "block_number": 9
+        },
+        {
+          "bbox": [
+            101.75995635986328,
+            65.61921691894531,
+            498.2138366699219,
+            78.78872680664062
+          ],
+          "text": "Tender No: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157 \n",
+          "block_number": 10
+        },
+        {
+          "bbox": [
+            239.87989807128906,
+            600.3389282226562,
+            366.7764892578125,
+            613.5084838867188
+          ],
+          "text": "SEPTEMBER-2026 \n",
+          "block_number": 11
+        },
+        {
+          "bbox": [
+            222.4799041748047,
+            498.3390197753906,
+            386.7032470703125,
+            511.508544921875
+          ],
+          "text": "FINANCIAL DOCUMENT \n",
+          "block_number": 12
+        },
+        {
+          "bbox": [
+            238.0798797607422,
+            514.4190063476562,
+            371.10076904296875,
+            527.5885620117188
+          ],
+          "text": "(Pricing Document) \n",
+          "block_number": 13
+        },
+        {
+          "bbox": [
+            262.55303955078125,
+            540.5789794921875,
+            350.4632568359375,
+            553.74853515625
+          ],
+          "text": "VOLUME - 4  \n",
+          "block_number": 14
+        }
+      ],
+      "review_status": "pending_manual_review",
+      "page_type": "text"
+    },
+    {
+      "pdf_page": 2,
+      "text": "",
+      "text_blocks": [],
+      "review_status": "pending_manual_review",
+      "page_type": "visually_confirmed_blank"
+    },
+    {
+      "pdf_page": 3,
+      "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                        Financial Document \n \n \n \nBangalore Metro Rail Corporation Ltd.                            September 2026 \nSection Page 1 of 7 \n \n \nSECTION – J:  FINANCIAL DOCUMENT- PRICING DOCUMENT \n \nName of Work: “Partial and Full Demolition/Dismantling of Buildings/Structures \nidentified in Bangalore Metro Rail Project Phase-3.” \nContract \nPackage-P1: \n“Partial \nand \nFull \nDemolition/Dismantling \nof \nBuildings/Structures identified from JP Nagar 4th Phase Station to Mysore Road \nStation (from Ch: (-) 0.330 Km to Ch: 10.550 Km) in Corridor-1 of Bangalore Metro \nRail Project Phase-3.” \n  \n \nTender Notification No: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157    \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n303\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            14.760004043579102,
+            37.509437561035156,
+            519.9669799804688,
+            56.52032470703125
+          ],
+          "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                        Financial Document \n \n",
+          "block_number": 0
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            62.5140495300293,
+            74.49351501464844,
+            69.48028564453125
+          ],
+          "text": " \n",
+          "block_number": 1
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            777.8273315429688,
+            74.38514709472656,
+            786.9194946289062
+          ],
+          "text": " \n",
+          "block_number": 2
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            802.54736328125,
+            525.8132934570312,
+            823.079833984375
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                            September 2026 \nSection Page 1 of 7 \n \n",
+          "block_number": 3
+        },
+        {
+          "bbox": [
+            136.560302734375,
+            74.52318572998047,
+            461.8279724121094,
+            97.59867095947266
+          ],
+          "text": " \nSECTION – J:  FINANCIAL DOCUMENT- PRICING DOCUMENT \n",
+          "block_number": 4
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            99.84313201904297,
+            520.5072021484375,
+            137.4386444091797
+          ],
+          "text": " \nName of Work: “Partial and Full Demolition/Dismantling of Buildings/Structures \nidentified in Bangalore Metro Rail Project Phase-3.” \n",
+          "block_number": 5
+        },
+        {
+          "bbox": [
+            72.0000228881836,
+            141.6031494140625,
+            520.5071411132812,
+            235.4786834716797
+          ],
+          "text": "Contract \nPackage-P1: \n“Partial \nand \nFull \nDemolition/Dismantling \nof \nBuildings/Structures identified from JP Nagar 4th Phase Station to Mysore Road \nStation (from Ch: (-) 0.330 Km to Ch: 10.550 Km) in Corridor-1 of Bangalore Metro \nRail Project Phase-3.” \n  \n \nTender Notification No: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157    \n",
+          "block_number": 6
+        },
+        {
+          "bbox": [
+            72.0001220703125,
+            237.72314453125,
+            345.3075866699219,
+            450.75848388671875
+          ],
+          "text": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+          "block_number": 7
+        },
+        {
+          "bbox": [
+            72.00042724609375,
+            464.88299560546875,
+            75.06771087646484,
+            475.2384948730469
+          ],
+          "text": " \n",
+          "block_number": 8
+        },
+        {
+          "bbox": [
+            72.00042724609375,
+            489.4830017089844,
+            75.06771087646484,
+            499.8385009765625
+          ],
+          "text": " \n",
+          "block_number": 9
+        },
+        {
+          "bbox": [
+            297.600341796875,
+            513.8429565429688,
+            300.6676330566406,
+            751.9584350585938
+          ],
+          "text": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+          "block_number": 10
+        },
+        {
+          "bbox": [
+            546.0439453125,
+            24.479991912841797,
+            570.0199584960938,
+            41.38799285888672
+          ],
+          "text": "303\n",
+          "block_number": 11
+        }
+      ],
+      "review_status": "pending_manual_review",
+      "page_type": "text"
+    },
+    {
+      "pdf_page": 4,
+      "text": "",
+      "text_blocks": [],
+      "review_status": "pending_manual_review",
+      "page_type": "visually_confirmed_blank"
+    },
+    {
+      "pdf_page": 5,
+      "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                        Financial Document \n \n \n \nBangalore Metro Rail Corporation Ltd.                            September 2026 \nSection Page 2 of 7 \n \nPRICING DOCUMENT - LETTER OF PRICE BID \n(To be submitted in the letter head of the Tenderer) \n \nRef: \n \n \n \n \n \n \n \n \n              Dated………. \n(Tenderer to provide date and reference no.) \n To \n The Managing Director,  \n Bangalore Metro Rail Corporation Ltd. \n Fourth floor, BMTC Complex \n KH Road, Shanthinagar \n Bangalore-560027, Karnataka,  \n India. \n \nDear Sir, \nPriced document for ……………………… (Name of Work) and …………….. (Tender No.). \n \n \n1. We, hereby submit our priced document for the above-mentioned work.  \n \n2. We understand that in the event of any information furnished by us being found later on \nto be incorrect or any material information having been suppressed, the following action \ncan be taken in addition to the Provisions of Clause 4.33 of General Conditions of \nContract (GCC).  \n \n(i) Any tender submitted by us in future for other works on the basis of qualification may \nnot be considered. \n \n(ii) If any tender from us is accepted and a contract awarded to us on the basis of our \nqualification, the tender acceptance may be withdrawn and the contract awarded to \nus may be cancelled without any financial claim /Arbitration request from our side. \n \n(iii) Our name will / may be removed from the panel of qualified agencies. \n \n \n \nYours faithfully, \n(Signature) …………………… \nName of signatory: ……………………………… \nCapacity of signatory: …………………………… \nName and address of Tenderer:……………….. \n \n \n \n \n304\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            14.760004043579102,
+            37.509437561035156,
+            519.9669799804688,
+            56.52032470703125
+          ],
+          "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                        Financial Document \n \n",
+          "block_number": 0
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            62.5140495300293,
+            74.49351501464844,
+            69.48028564453125
+          ],
+          "text": " \n",
+          "block_number": 1
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            777.8273315429688,
+            74.38514709472656,
+            786.9194946289062
+          ],
+          "text": " \n",
+          "block_number": 2
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            802.54736328125,
+            525.8132934570312,
+            823.079833984375
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                            September 2026 \nSection Page 2 of 7 \n \n",
+          "block_number": 3
+        },
+        {
+          "bbox": [
+            175.43991088867188,
+            74.52318572998047,
+            422.82696533203125,
+            97.7187271118164
+          ],
+          "text": "PRICING DOCUMENT - LETTER OF PRICE BID \n(To be submitted in the letter head of the Tenderer) \n",
+          "block_number": 4
+        },
+        {
+          "bbox": [
+            71.99981689453125,
+            99.96318817138672,
+            505.04400634765625,
+            123.15872955322266
+          ],
+          "text": " \nRef: \n \n \n \n \n \n \n \n \n              Dated………. \n",
+          "block_number": 5
+        },
+        {
+          "bbox": [
+            71.99981689453125,
+            135.36322021484375,
+            287.8269958496094,
+            145.71873474121094
+          ],
+          "text": "(Tenderer to provide date and reference no.) \n",
+          "block_number": 6
+        },
+        {
+          "bbox": [
+            71.99981689453125,
+            157.9232177734375,
+            259.62884521484375,
+            269.5584411621094
+          ],
+          "text": " To \n The Managing Director,  \n Bangalore Metro Rail Corporation Ltd. \n Fourth floor, BMTC Complex \n KH Road, Shanthinagar \n Bangalore-560027, Karnataka,  \n India. \n \nDear Sir, \n",
+          "block_number": 7
+        },
+        {
+          "bbox": [
+            71.99981689453125,
+            281.762939453125,
+            526.3888549804688,
+            397.1184387207031
+          ],
+          "text": "Priced document for ……………………… (Name of Work) and …………….. (Tender No.). \n \n \n1. We, hereby submit our priced document for the above-mentioned work.  \n \n2. We understand that in the event of any information furnished by us being found later on \nto be incorrect or any material information having been suppressed, the following action \ncan be taken in addition to the Provisions of Clause 4.33 of General Conditions of \nContract (GCC).  \n",
+          "block_number": 8
+        },
+        {
+          "bbox": [
+            90.00005340576172,
+            399.3629455566406,
+            526.3870239257812,
+            422.4715881347656
+          ],
+          "text": " \n(i) Any tender submitted by us in future for other works on the basis of qualification may \n",
+          "block_number": 9
+        },
+        {
+          "bbox": [
+            71.99955749511719,
+            424.6829528808594,
+            201.54669189453125,
+            447.7584228515625
+          ],
+          "text": "not be considered. \n \n",
+          "block_number": 10
+        },
+        {
+          "bbox": [
+            89.99958038330078,
+            450.0029296875,
+            526.386474609375,
+            460.3915710449219
+          ],
+          "text": "(ii) If any tender from us is accepted and a contract awarded to us on the basis of our \n",
+          "block_number": 11
+        },
+        {
+          "bbox": [
+            71.99935913085938,
+            462.6029357910156,
+            526.3863525390625,
+            498.2784423828125
+          ],
+          "text": "qualification, the tender acceptance may be withdrawn and the contract awarded to \nus may be cancelled without any financial claim /Arbitration request from our side. \n \n",
+          "block_number": 12
+        },
+        {
+          "bbox": [
+            71.99966430664062,
+            500.6429443359375,
+            442.3868713378906,
+            561.6384887695312
+          ],
+          "text": "(iii) Our name will / may be removed from the panel of qualified agencies. \n \n \n \nYours faithfully, \n",
+          "block_number": 13
+        },
+        {
+          "bbox": [
+            71.99966430664062,
+            573.962890625,
+            218.58694458007812,
+            584.3184204101562
+          ],
+          "text": "(Signature) …………………… \n",
+          "block_number": 14
+        },
+        {
+          "bbox": [
+            71.99966430664062,
+            596.6428833007812,
+            299.3468322753906,
+            606.9984130859375
+          ],
+          "text": "Name of signatory: ……………………………… \n",
+          "block_number": 15
+        },
+        {
+          "bbox": [
+            71.99966430664062,
+            619.3228759765625,
+            301.5068664550781,
+            629.6784057617188
+          ],
+          "text": "Capacity of signatory: …………………………… \n",
+          "block_number": 16
+        },
+        {
+          "bbox": [
+            71.99966430664062,
+            641.8828735351562,
+            299.4667053222656,
+            652.2384033203125
+          ],
+          "text": "Name and address of Tenderer:……………….. \n",
+          "block_number": 17
+        },
+        {
+          "bbox": [
+            71.99966430664062,
+            678.3628540039062,
+            75.06694793701172,
+            701.558349609375
+          ],
+          "text": " \n \n",
+          "block_number": 18
+        },
+        {
+          "bbox": [
+            71.99966430664062,
+            715.8027954101562,
+            75.06694793701172,
+            726.1583251953125
+          ],
+          "text": " \n",
+          "block_number": 19
+        },
+        {
+          "bbox": [
+            71.99966430664062,
+            738.36279296875,
+            75.06694793701172,
+            748.7183227539062
+          ],
+          "text": " \n",
+          "block_number": 20
+        },
+        {
+          "bbox": [
+            39.599998474121094,
+            24.479991912841797,
+            63.57600021362305,
+            41.38799285888672
+          ],
+          "text": "304\n",
+          "block_number": 21
+        }
+      ],
+      "review_status": "pending_manual_review",
+      "page_type": "text"
+    },
+    {
+      "pdf_page": 6,
+      "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                        Financial Document \n \n \n \nBangalore Metro Rail Corporation Ltd.                            September 2026 \nSection Page 3 of 7 \n \nPricing Document-Preamble \n1. The Pricing Document-Bill of Quantities (BOQ) & Abstract to Bill of Quantities (BOQ) \nshall be read in conjunction with the entire Tender and Contract Document including \nInstructions to Tenderers, General Conditions of Contract (including ‘Contract Data’), \nSpecial Conditions of Contract, Notice Inviting Tender, Technical Specifications, \nEmployer’s Requirements, Scope of work,  Schedule, Attachments, Appendix, Annexure, \nCorrigendum and Addendums. \n2. The quantities given in the Price document - “Bill of Quantities” are estimated \n(provisional). The basis of payment will be the actual quantities of work ordered and \ncarried out, as measured by the Contractor and verified by the Engineer and valued at \nthe rates in the accepted priced “Price Bid – Summary of Bill of Quantities”. \n3. Tenderer shall quote in the Price Bid (.xls format) sheet only in accordance with the ITT \nclause 10. Tenderer is advised to quote their percentage rate in two decimals for \nSchedule-A. Tenderer has to select option “At Par / Excess / Less” and enter percentage \nrate in figures on estimated cost to Schedule-A, for Schedule-B tenderer is required to \nselect percentage option as ‘At Par’ only and for Schedule-C tenderer shall offer Credit \nto BMRCL on Salvage of Materials, in ‘Lump sum’ amount. \n4. The Lump sum amount indicated for Schedule C will be recovered from the running \naccount bills proportionately. In case of any variation in Quantities (increase/decrease), \nthe value of credit to BMRCL will be increased/decreased according to the value of work \ndone from the ‘on account’ bills on pro-rata basis. \n5. The Contractor should note that the credit to BMRCL on salvage materials should be in \nreference to the quoted price and not on the estimate cost put to tender. \n6. The ‘Tender Price’ or ‘Quoted Price’ includes all applicable taxes, duties, cess, royalties, \nand statutory levies as per the laws in force as on last day of the month previous to the \nmonth of invitation of this tender, except Goods and Services Tax (GST). \n7. The method of measurement of completed work for payment shall be in accordance with \nthe requirements as stated in the Technical Specifications and as given in the Price \ndocument- Bill of Quantities or elsewhere in the tender documents. \n8. The quoted price is for completed and finished items of work and complete in all respects \ncomplying with the provisions of the Contract. It will be deemed to have included all \nconstructional plant, machinery tools, fuel, oil, consumables, electric power, water, \ntransportation, disposal of debris at BBMP/GBA identified C&D waste management \nfacility (dismantled/demolished material), all leads & lifts, all temporary works & false \nworks, fencing, watering, lighting, maintenance, night working and inspection facilities. \n9. The quoted price will be deemed to have included all the safety measures at work sites/ \ncasting yard, safety measures for workmen & road users, safety of the public and \nprotection of adjoining land & building while working. \n10. The quoted price will be deemed to have included establishment & overhead charges, \ncontractor’s profit, supervision, other charges together with all general risks, liabilities \nand obligations set out or implied in the contract and including remedy of any defects \nduring the Defect Liability Period.  \n11. The quoted price will be deemed to have included accommodations for staff & workmen, \nall insurance costs for labour & works, the payment of all wages, salaries, fees if any, \ncharges payable to various departments for obtaining necessary approvals if any. \n305\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            14.760004043579102,
+            37.509437561035156,
+            519.9669799804688,
+            56.52032470703125
+          ],
+          "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                        Financial Document \n \n",
+          "block_number": 0
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            62.5140495300293,
+            74.49351501464844,
+            69.48028564453125
+          ],
+          "text": " \n",
+          "block_number": 1
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            777.8273315429688,
+            74.38514709472656,
+            786.9194946289062
+          ],
+          "text": " \n",
+          "block_number": 2
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            802.54736328125,
+            525.8132934570312,
+            823.079833984375
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                            September 2026 \nSection Page 3 of 7 \n \n",
+          "block_number": 3
+        },
+        {
+          "bbox": [
+            227.51991271972656,
+            74.64318084716797,
+            377.9470520019531,
+            84.99869537353516
+          ],
+          "text": "Pricing Document-Preamble \n",
+          "block_number": 4
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            99.36321258544922,
+            526.3881225585938,
+            177.9987030029297
+          ],
+          "text": "1. The Pricing Document-Bill of Quantities (BOQ) & Abstract to Bill of Quantities (BOQ) \nshall be read in conjunction with the entire Tender and Contract Document including \nInstructions to Tenderers, General Conditions of Contract (including ‘Contract Data’), \nSpecial Conditions of Contract, Notice Inviting Tender, Technical Specifications, \nEmployer’s Requirements, Scope of work,  Schedule, Attachments, Appendix, Annexure, \nCorrigendum and Addendums. \n",
+          "block_number": 5
+        },
+        {
+          "bbox": [
+            71.999267578125,
+            187.3231201171875,
+            526.3868408203125,
+            238.59861755371094
+          ],
+          "text": "2. The quantities given in the Price document - “Bill of Quantities” are estimated \n(provisional). The basis of payment will be the actual quantities of work ordered and \ncarried out, as measured by the Contractor and verified by the Engineer and valued at \nthe rates in the accepted priced “Price Bid – Summary of Bill of Quantities”. \n",
+          "block_number": 6
+        },
+        {
+          "bbox": [
+            71.99929809570312,
+            247.923095703125,
+            526.387451171875,
+            326.4385681152344
+          ],
+          "text": "3. Tenderer shall quote in the Price Bid (.xls format) sheet only in accordance with the ITT \nclause 10. Tenderer is advised to quote their percentage rate in two decimals for \nSchedule-A. Tenderer has to select option “At Par / Excess / Less” and enter percentage \nrate in figures on estimated cost to Schedule-A, for Schedule-B tenderer is required to \nselect percentage option as ‘At Par’ only and for Schedule-C tenderer shall offer Credit \nto BMRCL on Salvage of Materials, in ‘Lump sum’ amount. \n",
+          "block_number": 7
+        },
+        {
+          "bbox": [
+            71.99847412109375,
+            335.7630310058594,
+            526.3863525390625,
+            387.0384826660156
+          ],
+          "text": "4. The Lump sum amount indicated for Schedule C will be recovered from the running \naccount bills proportionately. In case of any variation in Quantities (increase/decrease), \nthe value of credit to BMRCL will be increased/decreased according to the value of work \ndone from the ‘on account’ bills on pro-rata basis. \n",
+          "block_number": 8
+        },
+        {
+          "bbox": [
+            71.99948120117188,
+            396.36297607421875,
+            526.3870239257812,
+            420.3984680175781
+          ],
+          "text": "5. The Contractor should note that the credit to BMRCL on salvage materials should be in \nreference to the quoted price and not on the estimate cost put to tender. \n",
+          "block_number": 9
+        },
+        {
+          "bbox": [
+            71.99951171875,
+            429.72296142578125,
+            526.3870239257812,
+            467.31842041015625
+          ],
+          "text": "6. The ‘Tender Price’ or ‘Quoted Price’ includes all applicable taxes, duties, cess, royalties, \nand statutory levies as per the laws in force as on last day of the month previous to the \nmonth of invitation of this tender, except Goods and Services Tax (GST). \n",
+          "block_number": 10
+        },
+        {
+          "bbox": [
+            72.00054931640625,
+            476.6429138183594,
+            526.3883666992188,
+            514.2384033203125
+          ],
+          "text": "7. The method of measurement of completed work for payment shall be in accordance with \nthe requirements as stated in the Technical Specifications and as given in the Price \ndocument- Bill of Quantities or elsewhere in the tender documents. \n",
+          "block_number": 11
+        },
+        {
+          "bbox": [
+            72.00054931640625,
+            523.5628662109375,
+            526.3883666992188,
+            602.1983642578125
+          ],
+          "text": "8. The quoted price is for completed and finished items of work and complete in all respects \ncomplying with the provisions of the Contract. It will be deemed to have included all \nconstructional plant, machinery tools, fuel, oil, consumables, electric power, water, \ntransportation, disposal of debris at BBMP/GBA identified C&D waste management \nfacility (dismantled/demolished material), all leads & lifts, all temporary works & false \nworks, fencing, watering, lighting, maintenance, night working and inspection facilities. \n",
+          "block_number": 12
+        },
+        {
+          "bbox": [
+            72.00051879882812,
+            611.5228271484375,
+            526.3880615234375,
+            649.1182861328125
+          ],
+          "text": "9. The quoted price will be deemed to have included all the safety measures at work sites/ \ncasting yard, safety measures for workmen & road users, safety of the public and \nprotection of adjoining land & building while working. \n",
+          "block_number": 13
+        },
+        {
+          "bbox": [
+            72.00051879882812,
+            658.4427490234375,
+            526.3875732421875,
+            709.71826171875
+          ],
+          "text": "10. The quoted price will be deemed to have included establishment & overhead charges, \ncontractor’s profit, supervision, other charges together with all general risks, liabilities \nand obligations set out or implied in the contract and including remedy of any defects \nduring the Defect Liability Period.  \n",
+          "block_number": 14
+        },
+        {
+          "bbox": [
+            71.99981689453125,
+            719.042724609375,
+            526.3865966796875,
+            756.6382446289062
+          ],
+          "text": "11. The quoted price will be deemed to have included accommodations for staff & workmen, \nall insurance costs for labour & works, the payment of all wages, salaries, fees if any, \ncharges payable to various departments for obtaining necessary approvals if any. \n",
+          "block_number": 15
+        },
+        {
+          "bbox": [
+            546.0439453125,
+            24.479991912841797,
+            570.0199584960938,
+            41.38799285888672
+          ],
+          "text": "305\n",
+          "block_number": 16
+        }
+      ],
+      "review_status": "pending_manual_review",
+      "page_type": "text"
+    },
+    {
+      "pdf_page": 7,
+      "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                        Financial Document \n \n \n \nBangalore Metro Rail Corporation Ltd.                            September 2026 \nSection Page 4 of 7 \n \n12. The work is to be executed as per Bill of Quantity description, Technical Specifications, \nspecifications of MORTH, KPWD, CPWD, drawings, best engineering practices and/or \nas directed by the Engineer.  \n13. Removal of hoardings, interior lighting and interior furniture etc., ACP cladding and \nstructural glazing etc., which are existing within the line of cut are incidental to work.  No \nseparate payment will be considered for payment. \n14. If it is necessary to maintain any power, water or other utilities during demolition, such \nlines shall be temporarily relocated, as necessary and protected before commencement \nof demolition work.   \n15. All such cost involved for temporary relocation/maintenance must be borne by contractor \nand no payment will be made for temporary works. The contractor shall make his own \narrangements for power requirement for his equipment/machinery. If advised by the \nConsultant/BMRCL, the contractor has to give temporary supports for the building during \ndemolition wherever necessary without any extra financial implications to BMRCL. \n16. If advised by the Consultant/BMRCL, the contractor has to give permanent supports like \nwall, columns (Steel, RCC, etc.), including plastering, painting, plumbing, water supply \nand sanitary works, electrical restoration works, etc. to the supported portion of the \nbuilding before or after total/partial demolition, wherever necessary to maintain LOC, for \nwhich payment will be made as per  accepted rate in BoQ schedule for items available in \nCommon SR for the year 2023-24 (Schedule of Rates),  for the execution of such work.  \n17. 50% area of Balcony and Canopy if exists will be considered for calculating area for \npayment as per the guide lines for valuation of properties. The area of chejjas or such \nsimilar coverings/shadows will not be considered for payment.  \n18. The demolition and dismantling shall be carried out up to ground and/or up to basement \nlevel as the case may be including underground water storage structures if any. Refilling \nthe low-level areas up to ground level is within the scope of contractor’s work.  \n19. The items existing excluding trees within the proposed line of cut have to be dismantled \nand demolished and debris to be transported and disposed. \n20. The total floor area means the summation of total built area of all floors in the buildings \nindicated in Schedule A. \n21. In case some buildings are deleted or added in BOQ, the rates per sqm for that \ndeletion/addition will be same as given above. For payment purpose, the %age quoted \nand accepted in the Summary Cost will be used for the above rate.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n306\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            14.760004043579102,
+            37.509437561035156,
+            519.9669799804688,
+            56.52032470703125
+          ],
+          "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                        Financial Document \n \n",
+          "block_number": 0
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            62.5140495300293,
+            74.49351501464844,
+            69.48028564453125
+          ],
+          "text": " \n",
+          "block_number": 1
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            777.8273315429688,
+            74.38514709472656,
+            786.9194946289062
+          ],
+          "text": " \n",
+          "block_number": 2
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            802.54736328125,
+            525.8132934570312,
+            823.079833984375
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                            September 2026 \nSection Page 4 of 7 \n \n",
+          "block_number": 3
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            74.76317596435547,
+            526.3867797851562,
+            112.47867584228516
+          ],
+          "text": "12. The work is to be executed as per Bill of Quantity description, Technical Specifications, \nspecifications of MORTH, KPWD, CPWD, drawings, best engineering practices and/or \nas directed by the Engineer.  \n",
+          "block_number": 4
+        },
+        {
+          "bbox": [
+            71.999267578125,
+            121.80315399169922,
+            526.3859252929688,
+            159.39866638183594
+          ],
+          "text": "13. Removal of hoardings, interior lighting and interior furniture etc., ACP cladding and \nstructural glazing etc., which are existing within the line of cut are incidental to work.  No \nseparate payment will be considered for payment. \n",
+          "block_number": 5
+        },
+        {
+          "bbox": [
+            71.99853515625,
+            168.72314453125,
+            526.3866577148438,
+            206.31858825683594
+          ],
+          "text": "14. If it is necessary to maintain any power, water or other utilities during demolition, such \nlines shall be temporarily relocated, as necessary and protected before commencement \nof demolition work.   \n",
+          "block_number": 6
+        },
+        {
+          "bbox": [
+            71.99884033203125,
+            215.64306640625,
+            526.3867797851562,
+            280.5985412597656
+          ],
+          "text": "15. All such cost involved for temporary relocation/maintenance must be borne by contractor \nand no payment will be made for temporary works. The contractor shall make his own \narrangements for power requirement for his equipment/machinery. If advised by the \nConsultant/BMRCL, the contractor has to give temporary supports for the building during \ndemolition wherever necessary without any extra financial implications to BMRCL. \n",
+          "block_number": 7
+        },
+        {
+          "bbox": [
+            71.99887084960938,
+            289.92303466796875,
+            526.3902587890625,
+            368.5584716796875
+          ],
+          "text": "16. If advised by the Consultant/BMRCL, the contractor has to give permanent supports like \nwall, columns (Steel, RCC, etc.), including plastering, painting, plumbing, water supply \nand sanitary works, electrical restoration works, etc. to the supported portion of the \nbuilding before or after total/partial demolition, wherever necessary to maintain LOC, for \nwhich payment will be made as per  accepted rate in BoQ schedule for items available in \nCommon SR for the year 2023-24 (Schedule of Rates),  for the execution of such work.  \n",
+          "block_number": 8
+        },
+        {
+          "bbox": [
+            71.99984741210938,
+            377.8829345703125,
+            526.3875732421875,
+            415.4784240722656
+          ],
+          "text": "17. 50% area of Balcony and Canopy if exists will be considered for calculating area for \npayment as per the guide lines for valuation of properties. The area of chejjas or such \nsimilar coverings/shadows will not be considered for payment.  \n",
+          "block_number": 9
+        },
+        {
+          "bbox": [
+            71.9998779296875,
+            424.80291748046875,
+            526.3875732421875,
+            462.39837646484375
+          ],
+          "text": "18. The demolition and dismantling shall be carried out up to ground and/or up to basement \nlevel as the case may be including underground water storage structures if any. Refilling \nthe low-level areas up to ground level is within the scope of contractor’s work.  \n",
+          "block_number": 10
+        },
+        {
+          "bbox": [
+            72.00090026855469,
+            471.7228698730469,
+            526.3887329101562,
+            495.75836181640625
+          ],
+          "text": "19. The items existing excluding trees within the proposed line of cut have to be dismantled \nand demolished and debris to be transported and disposed. \n",
+          "block_number": 11
+        },
+        {
+          "bbox": [
+            72.00192260742188,
+            505.08282470703125,
+            526.3892211914062,
+            528.9983520507812
+          ],
+          "text": "20. The total floor area means the summation of total built area of all floors in the buildings \nindicated in Schedule A. \n",
+          "block_number": 12
+        },
+        {
+          "bbox": [
+            72.00222778320312,
+            538.2028198242188,
+            526.3902587890625,
+            577.5983276367188
+          ],
+          "text": "21. In case some buildings are deleted or added in BOQ, the rates per sqm for that \ndeletion/addition will be same as given above. For payment purpose, the %age quoted \nand accepted in the Summary Cost will be used for the above rate.  \n",
+          "block_number": 13
+        },
+        {
+          "bbox": [
+            72.00222778320312,
+            594.0028076171875,
+            75.06951141357422,
+            768.158203125
+          ],
+          "text": " \n \n \n \n \n \n \n \n \n \n \n \n \n",
+          "block_number": 14
+        },
+        {
+          "bbox": [
+            39.599998474121094,
+            24.479991912841797,
+            63.57600021362305,
+            41.38799285888672
+          ],
+          "text": "306\n",
+          "block_number": 15
+        }
+      ],
+      "review_status": "pending_manual_review",
+      "page_type": "text"
+    },
+    {
+      "pdf_page": 8,
+      "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                        Financial Document \n \n \n \nBangalore Metro Rail Corporation Ltd.                            September 2026 \nSection Page 5 of 7 \n \nPRICING DOCUMENT- ABSTRACT OF BILL OF QUANTITIES (BOQ) \n \n \nName of the Work-: “Partial and Full Demolition/Dismantling of Buildings/Structures \nidentified in Bangalore Metro Rail Project Phase-3.” \nContract \nPackage-P1: \n“Partial \nand \nFull \nDemolition/Dismantling \nof \nBuildings/Structures identified from JP Nagar 4th Phase Station to Mysore Road \nStation (from Ch: (-) 0.330 Km to Ch: 10.550 Km) in Corridor-1of Bangalore Metro \nRail Project Phase-3.” \nTender Notification No: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157, Dated. \n09.09.2026 \n \nSl.No \nSchedule \nSchedule Description \nTotal Estimated Cost \n(Rs) \n1 \nSCHEDULE-A \nPartial & Full demolition and dismantling \nwork as per details given in Schedule-A \nof the BOQ \n4,69,41,306.00\n2 \nSCHEDULE-B \nItems under Schedule of Rate published \nby KPWD \n5,00,000.00\nTotal of Schedules (A+B)\n4,74,41,306.00\n3 \nSCHEDULE-C \nCredit to BMRCL for salvageable items \nout of dismantled/demolished private \nproperties on which the owner has no \ninterest (as elaborated in Para 15 of Part-\n3 of ‘Employer’s Requirement’). \n---- \n \n \n \n \n \n \n \n \n \n307\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            14.760004043579102,
+            37.509437561035156,
+            519.9669799804688,
+            56.52032470703125
+          ],
+          "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                        Financial Document \n \n",
+          "block_number": 0
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            62.5140495300293,
+            74.49351501464844,
+            69.48028564453125
+          ],
+          "text": " \n",
+          "block_number": 1
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            777.8273315429688,
+            74.38514709472656,
+            786.9194946289062
+          ],
+          "text": " \n",
+          "block_number": 2
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            802.54736328125,
+            525.8132934570312,
+            823.079833984375
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                            September 2026 \nSection Page 5 of 7 \n \n",
+          "block_number": 3
+        },
+        {
+          "bbox": [
+            123.11994934082031,
+            74.64318084716797,
+            475.146728515625,
+            84.99869537353516
+          ],
+          "text": "PRICING DOCUMENT- ABSTRACT OF BILL OF QUANTITIES (BOQ) \n",
+          "block_number": 4
+        },
+        {
+          "bbox": [
+            71.99957275390625,
+            88.32317352294922,
+            520.5064697265625,
+            140.43870544433594
+          ],
+          "text": " \n \nName of the Work-: “Partial and Full Demolition/Dismantling of Buildings/Structures \nidentified in Bangalore Metro Rail Project Phase-3.” \n",
+          "block_number": 5
+        },
+        {
+          "bbox": [
+            72.0000228881836,
+            144.60321044921875,
+            526.3865966796875,
+            240.7587127685547
+          ],
+          "text": "Contract \nPackage-P1: \n“Partial \nand \nFull \nDemolition/Dismantling \nof \nBuildings/Structures identified from JP Nagar 4th Phase Station to Mysore Road \nStation (from Ch: (-) 0.330 Km to Ch: 10.550 Km) in Corridor-1of Bangalore Metro \nRail Project Phase-3.” \nTender Notification No: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157, Dated. \n09.09.2026 \n \n",
+          "block_number": 6
+        },
+        {
+          "bbox": [
+            66.96002960205078,
+            244.203125,
+            528.9071655273438,
+            260.9186706542969
+          ],
+          "text": "Sl.No \nSchedule \nSchedule Description \nTotal Estimated Cost \n",
+          "block_number": 7
+        },
+        {
+          "bbox": [
+            460.4398193359375,
+            256.92315673828125,
+            484.86712646484375,
+            267.2786560058594
+          ],
+          "text": "(Rs) \n",
+          "block_number": 8
+        },
+        {
+          "bbox": [
+            77.87996673583984,
+            294.8431396484375,
+            186.78732299804688,
+            305.1986389160156
+          ],
+          "text": "1 \nSCHEDULE-A \n",
+          "block_number": 9
+        },
+        {
+          "bbox": [
+            200.1597442626953,
+            282.1231689453125,
+            405.0671081542969,
+            317.7986145019531
+          ],
+          "text": "Partial & Full demolition and dismantling \nwork as per details given in Schedule-A \nof the BOQ \n",
+          "block_number": 10
+        },
+        {
+          "bbox": [
+            456.11981201171875,
+            294.72314453125,
+            529.6943969726562,
+            305.0786437988281
+          ],
+          "text": "4,69,41,306.00\n",
+          "block_number": 11
+        },
+        {
+          "bbox": [
+            77.87996673583984,
+            332.64312744140625,
+            529.6943969726562,
+            355.5986328125
+          ],
+          "text": "2 \nSCHEDULE-B \nItems under Schedule of Rate published \nby KPWD \n5,00,000.00\n",
+          "block_number": 12
+        },
+        {
+          "bbox": [
+            271.31988525390625,
+            374.8830871582031,
+            529.6962280273438,
+            385.23858642578125
+          ],
+          "text": "Total of Schedules (A+B)\n4,74,41,306.00\n",
+          "block_number": 13
+        },
+        {
+          "bbox": [
+            77.87996673583984,
+            429.96307373046875,
+            187.02545166015625,
+            440.3185729980469
+          ],
+          "text": "3 \nSCHEDULE-C \n",
+          "block_number": 14
+        },
+        {
+          "bbox": [
+            200.1597442626953,
+            404.64306640625,
+            405.0672302246094,
+            465.6385498046875
+          ],
+          "text": "Credit to BMRCL for salvageable items \nout of dismantled/demolished private \nproperties on which the owner has no \ninterest (as elaborated in Para 15 of Part-\n3 of ‘Employer’s Requirement’). \n",
+          "block_number": 15
+        },
+        {
+          "bbox": [
+            463.7998046875,
+            429.96307373046875,
+            481.507080078125,
+            440.3185729980469
+          ],
+          "text": "---- \n",
+          "block_number": 16
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            480.4830322265625,
+            75.06725311279297,
+            572.7985229492188
+          ],
+          "text": " \n \n \n \n \n \n \n",
+          "block_number": 17
+        },
+        {
+          "bbox": [
+            523.3197021484375,
+            576.0029296875,
+            526.386962890625,
+            586.3584594726562
+          ],
+          "text": " \n",
+          "block_number": 18
+        },
+        {
+          "bbox": [
+            523.3197021484375,
+            600.48291015625,
+            526.386962890625,
+            610.8384399414062
+          ],
+          "text": " \n",
+          "block_number": 19
+        },
+        {
+          "bbox": [
+            546.0439453125,
+            24.479991912841797,
+            570.0199584960938,
+            41.38799285888672
+          ],
+          "text": "307\n",
+          "block_number": 20
+        }
+      ],
+      "review_status": "pending_manual_review",
+      "page_type": "text"
+    },
+    {
+      "pdf_page": 9,
+      "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                        Financial Document \n \n \n \nBangalore Metro Rail Corporation Ltd.                            September 2026 \nSection Page 6 of 7 \n \n                                                         Pricing document- Bill of Quantities (BOQ)\n \nSchedule - A \nItem \nNo. \nDescription of Item of work \nUnit \nQuantity  \nRate     \n(in Rs) \nTotal Amount   \n(In Rs) \n1 \nPartial \ndemolition/dismantling \nby \nmechanical and manual methods of all \ntypes of structures of different heights \nconsisting of ground floor and/or more \nthan \none \nfloors, \n(RCC \nframed \nstructures, wall bearing structures with \nRCC roof. All other structures such as \nAC roof etc), comprising of cement \nconcrete, stone masonry, brick work, \nsteel \nwork, \nwood \nwork \netc.  \nDisposal of unserviceable materials with \nall leads and lifts and stacking of \nserviceable \nmaterials, \nthe \nstacked \nserviceable material shall be disposed \nof with all leads and lifts in which the \nproperty owner has no interest, removal \nof resulting debris with all lead and lifts, \nincluding \nnecessary \nstrengthening \nmethods for the buildings proposed for \ndemolition and also for neighbouring \nbuildings, complete in all respects. \nSqm \n31245.00 \n1087.00 \n3,39,63,315.00 \n2 \nFull \ndemolition/dismantling \nby \nmechanical and manual methods, of all \ntypes of structures of different heights \nconsisting of ground floor and/or more \nthan one floors (RCC framed structures, \nwall bearing structures with RCC roof. \nAll other structures such as AC roof \netc), comprising of cement concrete, \nstone masonry, brick work, steel work, \nwood work etc.          Disposal of \nunserviceable materials with all leads \nand lifts and stacking of serviceable \nmaterials, \nthe \nstacked \nserviceable \nmaterial shall be disposed of with all \nleads and lifts in which the property \nowner has no interest, removal of \nresulting debris with all lead and lifts, \nincluding \nnecessary \nstrengthening \nmethods for the buildings proposed for \ndemolition and also for neighbouring \nbuildings, complete in all respects. \nSqm \n21760.00 \n548.00 \n1,19,24,480.00 \n3 \nDemolition /dismantling compound walls \nof all shapes and heights by mechanical \nand manual methods, comprising of \ncement concrete, stone masonry work, \nRmt \n5183.00 \n167.00 \n8,65,561.00 \n308\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            14.760004043579102,
+            37.509437561035156,
+            519.9669799804688,
+            56.52032470703125
+          ],
+          "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                        Financial Document \n \n",
+          "block_number": 0
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            62.5140495300293,
+            74.49351501464844,
+            69.48028564453125
+          ],
+          "text": " \n",
+          "block_number": 1
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            777.8273315429688,
+            74.38514709472656,
+            786.9194946289062
+          ],
+          "text": " \n",
+          "block_number": 2
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            802.54736328125,
+            525.8132934570312,
+            823.079833984375
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                            September 2026 \nSection Page 6 of 7 \n \n",
+          "block_number": 3
+        },
+        {
+          "bbox": [
+            66.35997009277344,
+            75.12316131591797,
+            463.0339660644531,
+            85.47867584228516
+          ],
+          "text": "                                                         Pricing document- Bill of Quantities (BOQ)\n",
+          "block_number": 4
+        },
+        {
+          "bbox": [
+            78.47997283935547,
+            97.32317352294922,
+            363.4272766113281,
+            107.6786880493164
+          ],
+          "text": " \nSchedule - A \n",
+          "block_number": 5
+        },
+        {
+          "bbox": [
+            67.19996643066406,
+            129.48321533203125,
+            92.94723510742188,
+            139.83872985839844
+          ],
+          "text": "Item \n",
+          "block_number": 6
+        },
+        {
+          "bbox": [
+            69.59996795654297,
+            129.48321533203125,
+            466.9871520996094,
+            152.55870056152344
+          ],
+          "text": "No. \nDescription of Item of work \nUnit \nQuantity  \nRate     \n(in Rs) \n",
+          "block_number": 7
+        },
+        {
+          "bbox": [
+            475.1998291015625,
+            129.48321533203125,
+            555.30712890625,
+            139.83872985839844
+          ],
+          "text": "Total Amount   \n",
+          "block_number": 8
+        },
+        {
+          "bbox": [
+            493.4397888183594,
+            142.20318603515625,
+            530.7070922851562,
+            152.55870056152344
+          ],
+          "text": "(In Rs) \n",
+          "block_number": 9
+        },
+        {
+          "bbox": [
+            75.47997283935547,
+            171.36322021484375,
+            307.6270446777344,
+            434.798583984375
+          ],
+          "text": "1 \nPartial \ndemolition/dismantling \nby \nmechanical and manual methods of all \ntypes of structures of different heights \nconsisting of ground floor and/or more \nthan \none \nfloors, \n(RCC \nframed \nstructures, wall bearing structures with \nRCC roof. All other structures such as \nAC roof etc), comprising of cement \nconcrete, stone masonry, brick work, \nsteel \nwork, \nwood \nwork \netc.  \nDisposal of unserviceable materials with \nall leads and lifts and stacking of \nserviceable \nmaterials, \nthe \nstacked \nserviceable material shall be disposed \nof with all leads and lifts in which the \nproperty owner has no interest, removal \nof resulting debris with all lead and lifts, \nincluding \nnecessary \nstrengthening \nmethods for the buildings proposed for \ndemolition and also for neighbouring \nbuildings, complete in all respects. \n",
+          "block_number": 10
+        },
+        {
+          "bbox": [
+            312.2396545410156,
+            171.48321533203125,
+            550.392822265625,
+            181.83872985839844
+          ],
+          "text": "Sqm \n31245.00 \n1087.00 \n3,39,63,315.00 \n",
+          "block_number": 11
+        },
+        {
+          "bbox": [
+            75.47997283935547,
+            443.5230407714844,
+            304.50909423828125,
+            706.9585571289062
+          ],
+          "text": "2 \nFull \ndemolition/dismantling \nby \nmechanical and manual methods, of all \ntypes of structures of different heights \nconsisting of ground floor and/or more \nthan one floors (RCC framed structures, \nwall bearing structures with RCC roof. \nAll other structures such as AC roof \netc), comprising of cement concrete, \nstone masonry, brick work, steel work, \nwood work etc.          Disposal of \nunserviceable materials with all leads \nand lifts and stacking of serviceable \nmaterials, \nthe \nstacked \nserviceable \nmaterial shall be disposed of with all \nleads and lifts in which the property \nowner has no interest, removal of \nresulting debris with all lead and lifts, \nincluding \nnecessary \nstrengthening \nmethods for the buildings proposed for \ndemolition and also for neighbouring \nbuildings, complete in all respects. \n",
+          "block_number": 12
+        },
+        {
+          "bbox": [
+            316.7999267578125,
+            443.6430969238281,
+            550.39306640625,
+            453.99859619140625
+          ],
+          "text": "Sqm \n21760.00 \n548.00 \n1,19,24,480.00 \n",
+          "block_number": 13
+        },
+        {
+          "bbox": [
+            75.47997283935547,
+            715.8029174804688,
+            304.50738525390625,
+            764.0784301757812
+          ],
+          "text": "3 \nDemolition /dismantling compound walls \nof all shapes and heights by mechanical \nand manual methods, comprising of \ncement concrete, stone masonry work, \n",
+          "block_number": 14
+        },
+        {
+          "bbox": [
+            318.00018310546875,
+            715.8029174804688,
+            542.7114868164062,
+            726.158447265625
+          ],
+          "text": "Rmt \n5183.00 \n167.00 \n8,65,561.00 \n",
+          "block_number": 15
+        },
+        {
+          "bbox": [
+            39.599998474121094,
+            24.479991912841797,
+            63.57600021362305,
+            41.38799285888672
+          ],
+          "text": "308\n",
+          "block_number": 16
+        }
+      ],
+      "review_status": "pending_manual_review",
+      "page_type": "text"
+    },
+    {
+      "pdf_page": 10,
+      "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                        Financial Document \n \n \n \nBangalore Metro Rail Corporation Ltd.                            September 2026 \nSection Page 7 of 7 \n \n                                                         Pricing document- Bill of Quantities (BOQ)\n \nSchedule - A \nItem \nNo. \nDescription of Item of work \nUnit \nQuantity  \nRate     \n(in Rs) \nTotal Amount   \n(In Rs) \nbrick work, fencing, stone slab wall, \nchain link fencing etc. disposal of \nunserviceable materials with all leads \nand lifts and stacking of serviceable \nmaterials, \nthe \nstacked \nserviceable \nmaterial shall be disposed of with all \nleads and lifts in which the property \nowner has no interest, removal of \nresulting debris with all lead and lifts \nand complete. \n4 \nDemolition/dismantling \nof \nsteel \nstructures \nsuch \nas \nsign \nboards, \nhoardings etc., of all heights, length and \nwidth \nby \nmechanical \nand \nmanual \nmethods. (Dismantled/released material \nto be handed over to the concerned \nauthority at the locations specified by \nowning \nauthority \nand \nremoval \nof \nresulting debris with all lead and lifts).  \nMT \n \n25 \n7518.00 \n1,87,950.00 \n \n                   Total of Schedule-A\n4,69,41,306.00\nSchedule-B \n \nITEMS UNDER SCHEDULE OF RATE \nPUBLISHED BY KPWD \n1 \nItems \nnot \ncovered \nin \nthe \nabove \nSchedule A to be executed under \nCommon SR for the year 2023-24 \npublished by Karnataka public Works \nDepartment \nwith \nissue \nrates \nand \namendments issued upto date of tender \nsubmission.  \nLump\nsum\n---------\n---------\n5,00,000.00\nTotal Schedule A+B\n4,74,41,306.00\n \n \n \n \n309\n",
+      "text_blocks": [
+        {
+          "bbox": [
+            14.760004043579102,
+            37.509437561035156,
+            519.9669799804688,
+            56.52032470703125
+          ],
+          "text": " BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                                        Financial Document \n \n",
+          "block_number": 0
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            62.5140495300293,
+            74.49351501464844,
+            69.48028564453125
+          ],
+          "text": " \n",
+          "block_number": 1
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            777.8273315429688,
+            74.38514709472656,
+            786.9194946289062
+          ],
+          "text": " \n",
+          "block_number": 2
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            802.54736328125,
+            525.8132934570312,
+            823.079833984375
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd.                            September 2026 \nSection Page 7 of 7 \n \n",
+          "block_number": 3
+        },
+        {
+          "bbox": [
+            66.35997009277344,
+            75.12316131591797,
+            463.0339660644531,
+            85.47867584228516
+          ],
+          "text": "                                                         Pricing document- Bill of Quantities (BOQ)\n",
+          "block_number": 4
+        },
+        {
+          "bbox": [
+            78.47997283935547,
+            97.32317352294922,
+            363.4272766113281,
+            107.6786880493164
+          ],
+          "text": " \nSchedule - A \n",
+          "block_number": 5
+        },
+        {
+          "bbox": [
+            67.19996643066406,
+            129.48321533203125,
+            92.94723510742188,
+            139.83872985839844
+          ],
+          "text": "Item \n",
+          "block_number": 6
+        },
+        {
+          "bbox": [
+            69.59996795654297,
+            129.48321533203125,
+            466.9871520996094,
+            152.55870056152344
+          ],
+          "text": "No. \nDescription of Item of work \nUnit \nQuantity  \nRate     \n(in Rs) \n",
+          "block_number": 7
+        },
+        {
+          "bbox": [
+            475.1998291015625,
+            129.48321533203125,
+            555.30712890625,
+            139.83872985839844
+          ],
+          "text": "Total Amount   \n",
+          "block_number": 8
+        },
+        {
+          "bbox": [
+            493.4397888183594,
+            142.20318603515625,
+            530.7070922851562,
+            152.55870056152344
+          ],
+          "text": "(In Rs) \n",
+          "block_number": 9
+        },
+        {
+          "bbox": [
+            104.63995361328125,
+            171.48321533203125,
+            304.50909423828125,
+            295.7184143066406
+          ],
+          "text": "brick work, fencing, stone slab wall, \nchain link fencing etc. disposal of \nunserviceable materials with all leads \nand lifts and stacking of serviceable \nmaterials, \nthe \nstacked \nserviceable \nmaterial shall be disposed of with all \nleads and lifts in which the property \nowner has no interest, removal of \nresulting debris with all lead and lifts \nand complete. \n",
+          "block_number": 10
+        },
+        {
+          "bbox": [
+            75.47997283935547,
+            304.443115234375,
+            304.5073547363281,
+            416.07855224609375
+          ],
+          "text": "4 \nDemolition/dismantling \nof \nsteel \nstructures \nsuch \nas \nsign \nboards, \nhoardings etc., of all heights, length and \nwidth \nby \nmechanical \nand \nmanual \nmethods. (Dismantled/released material \nto be handed over to the concerned \nauthority at the locations specified by \nowning \nauthority \nand \nremoval \nof \nresulting debris with all lead and lifts).  \n",
+          "block_number": 11
+        },
+        {
+          "bbox": [
+            320.15985107421875,
+            304.443115234375,
+            339.067138671875,
+            314.7986145019531
+          ],
+          "text": "MT \n",
+          "block_number": 12
+        },
+        {
+          "bbox": [
+            328.0798645019531,
+            323.1630859375,
+            331.14715576171875,
+            333.5185852050781
+          ],
+          "text": " \n",
+          "block_number": 13
+        },
+        {
+          "bbox": [
+            375.1197814941406,
+            304.443115234375,
+            542.7108154296875,
+            314.7986145019531
+          ],
+          "text": "25 \n7518.00 \n1,87,950.00 \n",
+          "block_number": 14
+        },
+        {
+          "bbox": [
+            63.23997497558594,
+            424.6830749511719,
+            549.6143188476562,
+            435.5185852050781
+          ],
+          "text": " \n                   Total of Schedule-A\n4,69,41,306.00\n",
+          "block_number": 15
+        },
+        {
+          "bbox": [
+            276.119873046875,
+            444.9630432128906,
+            339.6651916503906,
+            455.31854248046875
+          ],
+          "text": "Schedule-B \n",
+          "block_number": 16
+        },
+        {
+          "bbox": [
+            78.47997283935547,
+            464.4030456542969,
+            304.5071716308594,
+            487.3585510253906
+          ],
+          "text": " \nITEMS UNDER SCHEDULE OF RATE \nPUBLISHED BY KPWD \n",
+          "block_number": 17
+        },
+        {
+          "bbox": [
+            75.47997283935547,
+            534.123046875,
+            84.66725158691406,
+            544.4785766601562
+          ],
+          "text": "1 \n",
+          "block_number": 18
+        },
+        {
+          "bbox": [
+            104.63996887207031,
+            496.32305908203125,
+            304.50732421875,
+            582.5186157226562
+          ],
+          "text": "Items \nnot \ncovered \nin \nthe \nabove \nSchedule A to be executed under \nCommon SR for the year 2023-24 \npublished by Karnataka public Works \nDepartment \nwith \nissue \nrates \nand \namendments issued upto date of tender \nsubmission.  \n",
+          "block_number": 19
+        },
+        {
+          "bbox": [
+            313.9198913574219,
+            496.2030334472656,
+            343.9411926269531,
+            506.55853271484375
+          ],
+          "text": "Lump\n",
+          "block_number": 20
+        },
+        {
+          "bbox": [
+            321.35986328125,
+            508.802978515625,
+            344.0085144042969,
+            519.1585083007812
+          ],
+          "text": "sum\n",
+          "block_number": 21
+        },
+        {
+          "bbox": [
+            374.7598571777344,
+            496.2030334472656,
+            549.6143188476562,
+            506.55853271484375
+          ],
+          "text": "---------\n---------\n5,00,000.00\n",
+          "block_number": 22
+        },
+        {
+          "bbox": [
+            357.4798583984375,
+            591.2429809570312,
+            549.6143188476562,
+            601.9585571289062
+          ],
+          "text": "Total Schedule A+B\n4,74,41,306.00\n",
+          "block_number": 23
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            611.282958984375,
+            75.06725311279297,
+            621.6384887695312
+          ],
+          "text": " \n",
+          "block_number": 24
+        },
+        {
+          "bbox": [
+            523.3197021484375,
+            635.762939453125,
+            526.386962890625,
+            646.1184692382812
+          ],
+          "text": " \n",
+          "block_number": 25
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            660.4829711914062,
+            75.06725311279297,
+            670.8385009765625
+          ],
+          "text": " \n",
+          "block_number": 26
+        },
+        {
+          "bbox": [
+            71.99996948242188,
+            684.9629516601562,
+            75.06725311279297,
+            695.3184814453125
+          ],
+          "text": " \n",
+          "block_number": 27
+        },
+        {
+          "bbox": [
+            546.0439453125,
+            24.479991912841797,
+            570.0199584960938,
+            41.38799285888672
+          ],
+          "text": "309\n",
+          "block_number": 28
+        }
+      ],
+      "review_status": "pending_manual_review",
+      "page_type": "text"
+    }
+  ],
+  "raw_tables": [
+    {
+      "pdf_page": 8,
+      "bbox": [
+        60.19999980926514,
+        241.95390101841517,
+        534.8727111816406,
+        477.95960998535156
+      ],
+      "extraction_method": "automatic_table_detection",
+      "review_status": "pending_manual_review",
+      "rows": [
+        [
+          "Sl No\n.",
+          "Schedule",
+          "Schedule Description",
+          "",
+          "Total EstimatedCost",
+          ""
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          "(Rs)",
+          null
+        ],
+        [
+          "1",
+          "SCHEDULE A\n-",
+          "Partial & Full demolition and dismantling\nwork as per details given in Schedule-A\nof the BOQ",
+          "4 69 41306 00\n, , , .",
+          null,
+          null
+        ],
+        [
+          "2",
+          "SCHEDULE B\n-",
+          "Items under Schedule of Rate published\nby KPWD",
+          "5 00 00000\n, , .",
+          null,
+          null
+        ],
+        [
+          "Total of Schedules(A+B)",
+          null,
+          null,
+          "4 74 41306 00\n, , , .",
+          null,
+          null
+        ],
+        [
+          "3",
+          "SCHEDULE C\n-",
+          "Credit to BMRCL for salvageable items\nout of dismantled/demolished private\nproperties on which the owner has no\ninterest (as elaborated inPara 15of Part\n-\n3 of ‘Employer’s Requirement’)\n.",
+          "----",
+          null,
+          null
+        ]
+      ],
+      "limitations": [
+        "Abstract table extraction is retained as returned by the table detector.",
+        "Its punctuation and merged cells require visual review."
+      ]
+    },
+    {
+      "pdf_page": 9,
+      "bbox": [
+        57.81,
+        117.12,
+        554.91,
+        764.43
+      ],
+      "extraction_method": "verified_cell_coordinates",
+      "column_boundaries": [
+        57.81,
+        99.24,
+        306.84,
+        349.32,
+        413.16,
+        466.32,
+        554.91
+      ],
+      "row_boundaries": [
+        117.12,
+        169.08,
+        441.24,
+        713.28,
+        764.43
+      ],
+      "row_regions": [
+        {
+          "bbox": [
+            57.81,
+            117.12,
+            554.91,
+            169.08
+          ],
+          "cell_clips": [
+            [
+              58.510000000000005,
+              117.82000000000001,
+              98.53999999999999,
+              168.38000000000002
+            ],
+            [
+              99.94,
+              117.82000000000001,
+              306.14,
+              168.38000000000002
+            ],
+            [
+              307.53999999999996,
+              117.82000000000001,
+              348.62,
+              168.38000000000002
+            ],
+            [
+              350.02,
+              117.82000000000001,
+              412.46000000000004,
+              168.38000000000002
+            ],
+            [
+              413.86,
+              117.82000000000001,
+              465.62,
+              168.38000000000002
+            ],
+            [
+              467.02,
+              117.82000000000001,
+              554.2099999999999,
+              168.38000000000002
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            57.81,
+            169.08,
+            554.91,
+            441.24
+          ],
+          "cell_clips": [
+            [
+              58.510000000000005,
+              169.78,
+              98.53999999999999,
+              440.54
+            ],
+            [
+              99.94,
+              169.78,
+              306.14,
+              440.54
+            ],
+            [
+              307.53999999999996,
+              169.78,
+              348.62,
+              440.54
+            ],
+            [
+              350.02,
+              169.78,
+              412.46000000000004,
+              440.54
+            ],
+            [
+              413.86,
+              169.78,
+              465.62,
+              440.54
+            ],
+            [
+              467.02,
+              169.78,
+              554.2099999999999,
+              440.54
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            57.81,
+            441.24,
+            554.91,
+            713.28
+          ],
+          "cell_clips": [
+            [
+              58.510000000000005,
+              441.94,
+              98.53999999999999,
+              712.5799999999999
+            ],
+            [
+              99.94,
+              441.94,
+              306.14,
+              712.5799999999999
+            ],
+            [
+              307.53999999999996,
+              441.94,
+              348.62,
+              712.5799999999999
+            ],
+            [
+              350.02,
+              441.94,
+              412.46000000000004,
+              712.5799999999999
+            ],
+            [
+              413.86,
+              441.94,
+              465.62,
+              712.5799999999999
+            ],
+            [
+              467.02,
+              441.94,
+              554.2099999999999,
+              712.5799999999999
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            57.81,
+            713.28,
+            554.91,
+            764.43
+          ],
+          "cell_clips": [
+            [
+              58.510000000000005,
+              713.98,
+              98.53999999999999,
+              763.7299999999999
+            ],
+            [
+              99.94,
+              713.98,
+              306.14,
+              763.7299999999999
+            ],
+            [
+              307.53999999999996,
+              713.98,
+              348.62,
+              763.7299999999999
+            ],
+            [
+              350.02,
+              713.98,
+              412.46000000000004,
+              763.7299999999999
+            ],
+            [
+              413.86,
+              713.98,
+              465.62,
+              763.7299999999999
+            ],
+            [
+              467.02,
+              713.98,
+              554.2099999999999,
+              763.7299999999999
+            ]
+          ]
+        }
+      ],
+      "rows": [
+        [
+          "Item \nNo.",
+          "Description of Item of work",
+          "Unit",
+          "Quantity",
+          "Rate     \n(in Rs)",
+          "Total Amount   \n(In Rs)"
+        ],
+        [
+          "1",
+          "Partial \ndemolition/dismantling \nby \nmechanical and manual methods of all \ntypes of structures of different heights \nconsisting of ground floor and/or more \nthan \none \nfloors, \n(RCC \nframed \nstructures, wall bearing structures with \nRCC roof. All other structures such as \nAC roof etc), comprising of cement \nconcrete, stone masonry, brick work, \nsteel \nwork, \nwood \nwork \netc.  \nDisposal of unserviceable materials with \nall leads and lifts and stacking of \nserviceable \nmaterials, \nthe \nstacked \nserviceable material shall be disposed \nof with all leads and lifts in which the \nproperty owner has no interest, removal \nof resulting debris with all lead and lifts, \nincluding \nnecessary \nstrengthening \nmethods for the buildings proposed for \ndemolition and also for neighbouring \nbuildings, complete in all respects.",
+          "Sqm",
+          "31245.00",
+          "1087.00",
+          "3,39,63,315.00"
+        ],
+        [
+          "2",
+          "Full \ndemolition/dismantling \nby \nmechanical and manual methods, of all \ntypes of structures of different heights \nconsisting of ground floor and/or more \nthan one floors (RCC framed structures, \nwall bearing structures with RCC roof. \nAll other structures such as AC roof \netc), comprising of cement concrete, \nstone masonry, brick work, steel work, \nwood work etc.          Disposal of \nunserviceable materials with all leads \nand lifts and stacking of serviceable \nmaterials, \nthe \nstacked \nserviceable \nmaterial shall be disposed of with all \nleads and lifts in which the property \nowner has no interest, removal of \nresulting debris with all lead and lifts, \nincluding \nnecessary \nstrengthening \nmethods for the buildings proposed for \ndemolition and also for neighbouring \nbuildings, complete in all respects.",
+          "Sqm",
+          "21760.00",
+          "548.00",
+          "1,19,24,480.00"
+        ],
+        [
+          "3",
+          "Demolition /dismantling compound walls \nof all shapes and heights by mechanical \nand manual methods, comprising of \ncement concrete, stone masonry work,",
+          "Rmt",
+          "5183.00",
+          "167.00",
+          "8,65,561.00"
+        ]
+      ]
+    },
+    {
+      "pdf_page": 10,
+      "bbox": [
+        57.82,
+        117.12,
+        554.9,
+        608.84
+      ],
+      "extraction_method": "verified_cell_coordinates",
+      "column_boundaries": [
+        57.82,
+        99.24,
+        306.84,
+        349.32,
+        413.16,
+        466.32,
+        554.9
+      ],
+      "row_boundaries": [
+        117.12,
+        169.08,
+        302.04,
+        422.4,
+        442.2,
+        462.12,
+        493.92,
+        588.96,
+        608.84
+      ],
+      "row_regions": [
+        {
+          "bbox": [
+            57.82,
+            117.12,
+            554.9,
+            169.08
+          ],
+          "cell_clips": [
+            [
+              58.52,
+              117.82000000000001,
+              98.53999999999999,
+              168.38000000000002
+            ],
+            [
+              99.94,
+              117.82000000000001,
+              306.14,
+              168.38000000000002
+            ],
+            [
+              307.53999999999996,
+              117.82000000000001,
+              348.62,
+              168.38000000000002
+            ],
+            [
+              350.02,
+              117.82000000000001,
+              412.46000000000004,
+              168.38000000000002
+            ],
+            [
+              413.86,
+              117.82000000000001,
+              465.62,
+              168.38000000000002
+            ],
+            [
+              467.02,
+              117.82000000000001,
+              554.1999999999999,
+              168.38000000000002
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            57.82,
+            169.08,
+            554.9,
+            302.04
+          ],
+          "cell_clips": [
+            [
+              58.52,
+              169.78,
+              98.53999999999999,
+              301.34000000000003
+            ],
+            [
+              99.94,
+              169.78,
+              306.14,
+              301.34000000000003
+            ],
+            [
+              307.53999999999996,
+              169.78,
+              348.62,
+              301.34000000000003
+            ],
+            [
+              350.02,
+              169.78,
+              412.46000000000004,
+              301.34000000000003
+            ],
+            [
+              413.86,
+              169.78,
+              465.62,
+              301.34000000000003
+            ],
+            [
+              467.02,
+              169.78,
+              554.1999999999999,
+              301.34000000000003
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            57.82,
+            302.04,
+            554.9,
+            422.4
+          ],
+          "cell_clips": [
+            [
+              58.52,
+              302.74,
+              98.53999999999999,
+              421.7
+            ],
+            [
+              99.94,
+              302.74,
+              306.14,
+              421.7
+            ],
+            [
+              307.53999999999996,
+              302.74,
+              348.62,
+              421.7
+            ],
+            [
+              350.02,
+              302.74,
+              412.46000000000004,
+              421.7
+            ],
+            [
+              413.86,
+              302.74,
+              465.62,
+              421.7
+            ],
+            [
+              467.02,
+              302.74,
+              554.1999999999999,
+              421.7
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            57.82,
+            422.4,
+            554.9,
+            442.2
+          ],
+          "cell_clips": [
+            [
+              58.52,
+              423.09999999999997,
+              98.53999999999999,
+              441.5
+            ],
+            [
+              99.94,
+              423.09999999999997,
+              306.14,
+              441.5
+            ],
+            [
+              307.53999999999996,
+              423.09999999999997,
+              348.62,
+              441.5
+            ],
+            [
+              350.02,
+              423.09999999999997,
+              412.46000000000004,
+              441.5
+            ],
+            [
+              413.86,
+              423.09999999999997,
+              465.62,
+              441.5
+            ],
+            [
+              467.02,
+              423.09999999999997,
+              554.1999999999999,
+              441.5
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            57.82,
+            442.2,
+            554.9,
+            462.12
+          ],
+          "merged_heading": true,
+          "text_clip": [
+            58.52,
+            442.9,
+            554.1999999999999,
+            461.42
+          ]
+        },
+        {
+          "bbox": [
+            57.82,
+            462.12,
+            554.9,
+            493.92
+          ],
+          "cell_clips": [
+            [
+              58.52,
+              462.82,
+              98.53999999999999,
+              493.22
+            ],
+            [
+              99.94,
+              462.82,
+              306.14,
+              493.22
+            ],
+            [
+              307.53999999999996,
+              462.82,
+              348.62,
+              493.22
+            ],
+            [
+              350.02,
+              462.82,
+              412.46000000000004,
+              493.22
+            ],
+            [
+              413.86,
+              462.82,
+              465.62,
+              493.22
+            ],
+            [
+              467.02,
+              462.82,
+              554.1999999999999,
+              493.22
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            57.82,
+            493.92,
+            554.9,
+            588.96
+          ],
+          "cell_clips": [
+            [
+              58.52,
+              494.62,
+              98.53999999999999,
+              588.26
+            ],
+            [
+              99.94,
+              494.62,
+              306.14,
+              588.26
+            ],
+            [
+              307.53999999999996,
+              494.62,
+              348.62,
+              588.26
+            ],
+            [
+              350.02,
+              494.62,
+              412.46000000000004,
+              588.26
+            ],
+            [
+              413.86,
+              494.62,
+              465.62,
+              588.26
+            ],
+            [
+              467.02,
+              494.62,
+              554.1999999999999,
+              588.26
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            57.82,
+            588.96,
+            554.9,
+            608.84
+          ],
+          "cell_clips": [
+            [
+              58.52,
+              589.6600000000001,
+              98.53999999999999,
+              608.14
+            ],
+            [
+              99.94,
+              589.6600000000001,
+              306.14,
+              608.14
+            ],
+            [
+              307.53999999999996,
+              589.6600000000001,
+              348.62,
+              608.14
+            ],
+            [
+              350.02,
+              589.6600000000001,
+              412.46000000000004,
+              608.14
+            ],
+            [
+              413.86,
+              589.6600000000001,
+              465.62,
+              608.14
+            ],
+            [
+              467.02,
+              589.6600000000001,
+              554.1999999999999,
+              608.14
+            ]
+          ]
+        }
+      ],
+      "rows": [
+        [
+          "Item \nNo.",
+          "Description of Item of work",
+          "Unit",
+          "Quantity",
+          "Rate     \n(in Rs)",
+          "Total Amount   \n(In Rs)"
+        ],
+        [
+          "",
+          "brick work, fencing, stone slab wall, \nchain link fencing etc. disposal of \nunserviceable materials with all leads \nand lifts and stacking of serviceable \nmaterials, \nthe \nstacked \nserviceable \nmaterial shall be disposed of with all \nleads and lifts in which the property \nowner has no interest, removal of \nresulting debris with all lead and lifts \nand complete.",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "4",
+          "Demolition/dismantling \nof \nsteel \nstructures \nsuch \nas \nsign \nboards, \nhoardings etc., of all heights, length and \nwidth \nby \nmechanical \nand \nmanual \nmethods. (Dismantled/released material \nto be handed over to the concerned \nauthority at the locations specified by \nowning \nauthority \nand \nremoval \nof \nresulting debris with all lead and lifts).",
+          "MT",
+          "25",
+          "7518.00",
+          "1,87,950.00"
+        ],
+        [
+          "",
+          "Total of Schedule-A",
+          "",
+          "",
+          "",
+          "4,69,41,306.00"
+        ],
+        [
+          "Schedule-B",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "ITEMS UNDER SCHEDULE OF RATE \nPUBLISHED BY KPWD",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "Items \nnot \ncovered \nin \nthe \nabove \nSchedule A to be executed under \nCommon SR for the year 2023-24 \npublished by Karnataka public Works \nDepartment \nwith \nissue \nrates \nand \namendments issued upto date of tender \nsubmission.",
+          "Lump\nsum",
+          "---------",
+          "---------",
+          "5,00,000.00"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Total Sche",
+          "dule A+B",
+          "4,74,41,306.00"
+        ]
+      ]
+    }
+  ],
+  "boq_items": [
+    {
+      "record_id": "schedule_a/item_1",
+      "schedule": "A",
+      "item_number": "1",
+      "description": "Partial \ndemolition/dismantling \nby \nmechanical and manual methods of all \ntypes of structures of different heights \nconsisting of ground floor and/or more \nthan \none \nfloors, \n(RCC \nframed \nstructures, wall bearing structures with \nRCC roof. All other structures such as \nAC roof etc), comprising of cement \nconcrete, stone masonry, brick work, \nsteel \nwork, \nwood \nwork \netc.  \nDisposal of unserviceable materials with \nall leads and lifts and stacking of \nserviceable \nmaterials, \nthe \nstacked \nserviceable material shall be disposed \nof with all leads and lifts in which the \nproperty owner has no interest, removal \nof resulting debris with all lead and lifts, \nincluding \nnecessary \nstrengthening \nmethods for the buildings proposed for \ndemolition and also for neighbouring \nbuildings, complete in all respects.",
+      "unit": "Sqm",
+      "quantity_raw": "31245.00",
+      "rate_inr_raw": "1087.00",
+      "amount_inr_raw": "3,39,63,315.00",
+      "pdf_pages": [
+        9
+      ],
+      "fragments": [
+        {
+          "pdf_page": 9,
+          "table_row": 2,
+          "description": "Partial \ndemolition/dismantling \nby \nmechanical and manual methods of all \ntypes of structures of different heights \nconsisting of ground floor and/or more \nthan \none \nfloors, \n(RCC \nframed \nstructures, wall bearing structures with \nRCC roof. All other structures such as \nAC roof etc), comprising of cement \nconcrete, stone masonry, brick work, \nsteel \nwork, \nwood \nwork \netc.  \nDisposal of unserviceable materials with \nall leads and lifts and stacking of \nserviceable \nmaterials, \nthe \nstacked \nserviceable material shall be disposed \nof with all leads and lifts in which the \nproperty owner has no interest, removal \nof resulting debris with all lead and lifts, \nincluding \nnecessary \nstrengthening \nmethods for the buildings proposed for \ndemolition and also for neighbouring \nbuildings, complete in all respects."
+        }
+      ],
+      "review_status": "pending_manual_review",
+      "quantity_decimal": "31245.00",
+      "rate_inr_decimal": "1087.00",
+      "amount_inr_decimal": "33963315.00"
+    },
+    {
+      "record_id": "schedule_a/item_2",
+      "schedule": "A",
+      "item_number": "2",
+      "description": "Full \ndemolition/dismantling \nby \nmechanical and manual methods, of all \ntypes of structures of different heights \nconsisting of ground floor and/or more \nthan one floors (RCC framed structures, \nwall bearing structures with RCC roof. \nAll other structures such as AC roof \netc), comprising of cement concrete, \nstone masonry, brick work, steel work, \nwood work etc.          Disposal of \nunserviceable materials with all leads \nand lifts and stacking of serviceable \nmaterials, \nthe \nstacked \nserviceable \nmaterial shall be disposed of with all \nleads and lifts in which the property \nowner has no interest, removal of \nresulting debris with all lead and lifts, \nincluding \nnecessary \nstrengthening \nmethods for the buildings proposed for \ndemolition and also for neighbouring \nbuildings, complete in all respects.",
+      "unit": "Sqm",
+      "quantity_raw": "21760.00",
+      "rate_inr_raw": "548.00",
+      "amount_inr_raw": "1,19,24,480.00",
+      "pdf_pages": [
+        9
+      ],
+      "fragments": [
+        {
+          "pdf_page": 9,
+          "table_row": 3,
+          "description": "Full \ndemolition/dismantling \nby \nmechanical and manual methods, of all \ntypes of structures of different heights \nconsisting of ground floor and/or more \nthan one floors (RCC framed structures, \nwall bearing structures with RCC roof. \nAll other structures such as AC roof \netc), comprising of cement concrete, \nstone masonry, brick work, steel work, \nwood work etc.          Disposal of \nunserviceable materials with all leads \nand lifts and stacking of serviceable \nmaterials, \nthe \nstacked \nserviceable \nmaterial shall be disposed of with all \nleads and lifts in which the property \nowner has no interest, removal of \nresulting debris with all lead and lifts, \nincluding \nnecessary \nstrengthening \nmethods for the buildings proposed for \ndemolition and also for neighbouring \nbuildings, complete in all respects."
+        }
+      ],
+      "review_status": "pending_manual_review",
+      "quantity_decimal": "21760.00",
+      "rate_inr_decimal": "548.00",
+      "amount_inr_decimal": "11924480.00"
+    },
+    {
+      "record_id": "schedule_a/item_3",
+      "schedule": "A",
+      "item_number": "3",
+      "description": "Demolition /dismantling compound walls \nof all shapes and heights by mechanical \nand manual methods, comprising of \ncement concrete, stone masonry work,\nbrick work, fencing, stone slab wall, \nchain link fencing etc. disposal of \nunserviceable materials with all leads \nand lifts and stacking of serviceable \nmaterials, \nthe \nstacked \nserviceable \nmaterial shall be disposed of with all \nleads and lifts in which the property \nowner has no interest, removal of \nresulting debris with all lead and lifts \nand complete.",
+      "unit": "Rmt",
+      "quantity_raw": "5183.00",
+      "rate_inr_raw": "167.00",
+      "amount_inr_raw": "8,65,561.00",
+      "pdf_pages": [
+        9,
+        10
+      ],
+      "fragments": [
+        {
+          "pdf_page": 9,
+          "table_row": 4,
+          "description": "Demolition /dismantling compound walls \nof all shapes and heights by mechanical \nand manual methods, comprising of \ncement concrete, stone masonry work,"
+        },
+        {
+          "pdf_page": 10,
+          "table_row": 2,
+          "description": "brick work, fencing, stone slab wall, \nchain link fencing etc. disposal of \nunserviceable materials with all leads \nand lifts and stacking of serviceable \nmaterials, \nthe \nstacked \nserviceable \nmaterial shall be disposed of with all \nleads and lifts in which the property \nowner has no interest, removal of \nresulting debris with all lead and lifts \nand complete."
+        }
+      ],
+      "review_status": "pending_manual_review",
+      "quantity_decimal": "5183.00",
+      "rate_inr_decimal": "167.00",
+      "amount_inr_decimal": "865561.00"
+    },
+    {
+      "record_id": "schedule_a/item_4",
+      "schedule": "A",
+      "item_number": "4",
+      "description": "Demolition/dismantling \nof \nsteel \nstructures \nsuch \nas \nsign \nboards, \nhoardings etc., of all heights, length and \nwidth \nby \nmechanical \nand \nmanual \nmethods. (Dismantled/released material \nto be handed over to the concerned \nauthority at the locations specified by \nowning \nauthority \nand \nremoval \nof \nresulting debris with all lead and lifts).",
+      "unit": "MT",
+      "quantity_raw": "25",
+      "rate_inr_raw": "7518.00",
+      "amount_inr_raw": "1,87,950.00",
+      "pdf_pages": [
+        10
+      ],
+      "fragments": [
+        {
+          "pdf_page": 10,
+          "table_row": 3,
+          "description": "Demolition/dismantling \nof \nsteel \nstructures \nsuch \nas \nsign \nboards, \nhoardings etc., of all heights, length and \nwidth \nby \nmechanical \nand \nmanual \nmethods. (Dismantled/released material \nto be handed over to the concerned \nauthority at the locations specified by \nowning \nauthority \nand \nremoval \nof \nresulting debris with all lead and lifts)."
+        }
+      ],
+      "review_status": "pending_manual_review",
+      "quantity_decimal": "25",
+      "rate_inr_decimal": "7518.00",
+      "amount_inr_decimal": "187950.00"
+    },
+    {
+      "record_id": "schedule_b/item_1",
+      "schedule": "B",
+      "item_number": "1",
+      "description": "Items \nnot \ncovered \nin \nthe \nabove \nSchedule A to be executed under \nCommon SR for the year 2023-24 \npublished by Karnataka public Works \nDepartment \nwith \nissue \nrates \nand \namendments issued upto date of tender \nsubmission.",
+      "unit": "Lump\nsum",
+      "quantity_raw": "---------",
+      "rate_inr_raw": "---------",
+      "amount_inr_raw": "5,00,000.00",
+      "pdf_pages": [
+        10
+      ],
+      "fragments": [
+        {
+          "pdf_page": 10,
+          "table_row": 7,
+          "description": "Items \nnot \ncovered \nin \nthe \nabove \nSchedule A to be executed under \nCommon SR for the year 2023-24 \npublished by Karnataka public Works \nDepartment \nwith \nissue \nrates \nand \namendments issued upto date of tender \nsubmission."
+        }
+      ],
+      "review_status": "pending_manual_review",
+      "amount_inr_decimal": "500000.00"
+    }
+  ],
+  "arithmetic_checks": {
+    "schedule_a_total_inr": "46941306.00",
+    "schedule_b_total_inr": "500000.00",
+    "schedule_a_plus_b_inr": "47441306.00",
+    "all_schedule_a_quantity_rate_checks_passed": true,
+    "printed_page_10_totals_match": true,
+    "item_3_continuation_check_passed": true
+  },
+  "limitations": [
+    "Pricing rules and the bid letter are retained as page text, not yet separated into clauses.",
+    "Schedule-C is retained in the abstract table; no numeric salvage credit is inferred.",
+    "The abstract table requires visual review.",
+    "This extraction does not apply corrigenda.",
+    "Text meaning and table layout require manual review."
+  ]
+}

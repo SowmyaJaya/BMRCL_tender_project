@@ -1,0 +1,370 @@
+{
+  "schema_version": 1,
+  "source_document": "BOQ_338417.xls",
+  "source_sha256": "be376d7be062f1b7d481a0c1e07a132896504f5218450cdb02d039c495425896",
+  "generated_at": "2026-10-30T05:32:21.036785+00:00",
+  "review_status": "pending_manual_review",
+  "excel_version": "16.0",
+  "source_opened_read_only": true,
+  "automation_security": "force_disable",
+  "calculation_mode": "manual",
+  "events_enabled": false,
+  "update_links": 0,
+  "sheets": [
+    {
+      "name": "BoQ1",
+      "visibility_code": 2,
+      "used_range": "$A$1:$II$19"
+    },
+    {
+      "name": "Macros",
+      "visibility_code": -1,
+      "used_range": "$E$6:$K$14"
+    }
+  ],
+  "formulas": [
+    {
+      "sheet": "BoQ1",
+      "address": "$A$1",
+      "row": 1,
+      "column": 1,
+      "formula": "=B2&\" BoQ \"",
+      "number_format": "General",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$J$13",
+      "row": 13,
+      "column": 10,
+      "formula": "=IF(I13=\"Less(-)\",-1,1)",
+      "number_format": "General",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$O$13",
+      "row": 13,
+      "column": 15,
+      "formula": "=IF(N13=\"Excess(+)\", ROUND(F13+(F13*M13)/100,0), IF(N13=\"Less(-)\", ROUND(F13-(F13*M13)/100,0), IF(N13=\"At Par\", F13,0)))",
+      "number_format": "0.00",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$BA$13",
+      "row": 13,
+      "column": 53,
+      "formula": "=O13",
+      "number_format": "0.00",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$BB$13",
+      "row": 13,
+      "column": 54,
+      "formula": "=BA13",
+      "number_format": "0.00",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$BC$13",
+      "row": 13,
+      "column": 55,
+      "formula": "=SpellNumberMC(L13,BA13)",
+      "number_format": "General",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$J$14",
+      "row": 14,
+      "column": 10,
+      "formula": "=IF(I14=\"Less(-)\",-1,1)",
+      "number_format": "General",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$O$14",
+      "row": 14,
+      "column": 15,
+      "formula": "=IF(N14=\"Excess(+)\", ROUND(F14+(F14*M14)/100,0), IF(N14=\"Less(-)\", ROUND(F14-(F14*M14)/100,0), IF(N14=\"At Par\", F14,0)))",
+      "number_format": "0.00",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$BA$14",
+      "row": 14,
+      "column": 53,
+      "formula": "=O14",
+      "number_format": "0.00",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$BB$14",
+      "row": 14,
+      "column": 54,
+      "formula": "=BA14",
+      "number_format": "0.00",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$BC$14",
+      "row": 14,
+      "column": 55,
+      "formula": "=SpellNumberMC(L14,BA14)",
+      "number_format": "General",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$J$15",
+      "row": 15,
+      "column": 10,
+      "formula": "=IF(I15=\"Less(-)\",-1,1)",
+      "number_format": "General",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$BA$15",
+      "row": 15,
+      "column": 53,
+      "formula": "=M15",
+      "number_format": "0.00",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$BB$15",
+      "row": 15,
+      "column": 54,
+      "formula": "=BA15",
+      "number_format": "0.00",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$BC$15",
+      "row": 15,
+      "column": 55,
+      "formula": "=SpellNumberMC(L15,BA15)",
+      "number_format": "General",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$BA$16",
+      "row": 16,
+      "column": 53,
+      "formula": "=SUM(BA13:BA15)",
+      "number_format": "0.00",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$BB$16",
+      "row": 16,
+      "column": 54,
+      "formula": "=BA16",
+      "number_format": "0.00",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$BC$16",
+      "row": 16,
+      "column": 55,
+      "formula": "=SpellNumberMC($E$2,BA16)",
+      "number_format": "General",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$BA$17",
+      "row": 17,
+      "column": 53,
+      "formula": "=IF(ISBLANK(F17),0,IF(E17=\"Excess (+)\",ROUND(BA16+(BA16*F17),2),IF(E17=\"Less (-)\",ROUND(BA16+(BA16*F17*(-1)),2),0)))",
+      "number_format": "0.0000",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$BB$17",
+      "row": 17,
+      "column": 54,
+      "formula": "=ROUND(BA17,0)",
+      "number_format": "0.0000",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$BC$17",
+      "row": 17,
+      "column": 55,
+      "formula": "=SpellNumber(L17,BB17)",
+      "number_format": "General",
+      "has_array_formula": false
+    },
+    {
+      "sheet": "BoQ1",
+      "address": "$C$18",
+      "row": 18,
+      "column": 3,
+      "formula": "=SpellNumberMC($E$2,BA16)",
+      "number_format": "General",
+      "has_array_formula": false
+    }
+  ],
+  "defined_names": [
+    {
+      "name": "_xlfn_BAHTTEXT",
+      "refers_to": "=#N/A",
+      "visible": true
+    },
+    {
+      "name": "_xlfn_COUNTIFS",
+      "refers_to": "=#N/A",
+      "visible": true
+    },
+    {
+      "name": "BAA1",
+      "refers_to": "=#REF!$F$7",
+      "visible": true
+    },
+    {
+      "name": "boq_type",
+      "refers_to": "=#REF!$A$2:$A$8",
+      "visible": true
+    },
+    {
+      "name": "boq_version",
+      "refers_to": "='C:\\Users\\HP\\Downloads\\BMRCL_tender_project\\BMRCL_TenderData\\Tender_Documents\\GePNIC TESTING\\Ver1.09.21 BoQs\\[V4_BOQ_AllinOne.xlsm]Config'!$C$2:$C$3",
+      "visible": true
+    },
+    {
+      "name": "conversion_type",
+      "refers_to": "='C:\\Users\\HP\\Downloads\\BMRCL_tender_project\\BMRCL_TenderData\\Tender_Documents\\GePNIC TESTING\\Ver1.09.21 BoQs\\[V4_BOQ_AllinOne.xlsm]Config'!$E$2:$E$3",
+      "visible": true
+    },
+    {
+      "name": "cstvat",
+      "refers_to": "=#REF!$BA$4:$BC$4",
+      "visible": true
+    },
+    {
+      "name": "currency_name",
+      "refers_to": "='C:\\Users\\HP\\Downloads\\BMRCL_tender_project\\BMRCL_TenderData\\Tender_Documents\\GePNIC TESTING\\Ver1.09.21 BoQs\\[V4_BOQ_AllinOne.xlsm]Config'!$F$2:$F$8",
+      "visible": true
+    },
+    {
+      "name": "dfsga",
+      "refers_to": "=#REF!#REF!",
+      "visible": true
+    },
+    {
+      "name": "domestic_global",
+      "refers_to": "=#REF!$D$2:$D$3",
+      "visible": true
+    },
+    {
+      "name": "BoQ1!Excel_BuiltIn_Print_Area",
+      "refers_to": "=BoQ1!$A$1:$BC$18",
+      "visible": true
+    },
+    {
+      "name": "Excise",
+      "refers_to": "=#REF!#REF!",
+      "visible": true
+    },
+    {
+      "name": "Excise_Duty",
+      "refers_to": "=#REF!#REF!",
+      "visible": true
+    },
+    {
+      "name": "Excised",
+      "refers_to": "=#REF!#REF!",
+      "visible": true
+    },
+    {
+      "name": "ExciseDuty",
+      "refers_to": "=#REF!$BA$2:$BE$2",
+      "visible": true
+    },
+    {
+      "name": "MyList",
+      "refers_to": "=#REF!$M$1:$M$3",
+      "visible": true
+    },
+    {
+      "name": "option9",
+      "refers_to": "='C:\\Users\\HP\\Downloads\\BMRCL_tender_project\\BMRCL_TenderData\\Tender_Documents\\GePNIC TESTING\\Ver1.09.21 BoQs\\[BOQ_itemrate_turnkey.xls]PRICE BID'!#REF!",
+      "visible": true
+    },
+    {
+      "name": "other_boq",
+      "refers_to": "='C:\\Users\\HP\\Downloads\\BMRCL_tender_project\\BMRCL_TenderData\\Tender_Documents\\GePNIC TESTING\\Ver1.09.21 BoQs\\[V4_BOQ_AllinOne.xlsm]Config'!$G$2:$G$5",
+      "visible": true
+    },
+    {
+      "name": "BoQ1!Print_Area",
+      "refers_to": "=BoQ1!$A$1:$BC$18",
+      "visible": true
+    },
+    {
+      "name": "Select",
+      "refers_to": "=#REF!$BA$1:$BC$1",
+      "visible": true
+    },
+    {
+      "name": "SelectD1OrC1",
+      "refers_to": "=#REF!$I$1:$I$3",
+      "visible": true
+    },
+    {
+      "name": "SelectLessOrExcess",
+      "refers_to": "=#REF!$I$4:$I$5",
+      "visible": true
+    },
+    {
+      "name": "Service",
+      "refers_to": "=#REF!#REF!",
+      "visible": true
+    },
+    {
+      "name": "ServiceTax",
+      "refers_to": "=#REF!$BA$3:$BC$3",
+      "visible": true
+    },
+    {
+      "name": "Tax",
+      "refers_to": "=#REF!$AD$2:$AD$4",
+      "visible": true
+    },
+    {
+      "name": "TOT_ST",
+      "refers_to": "='C:\\Users\\HP\\Downloads\\BMRCL_tender_project\\BMRCL_TenderData\\Tender_Documents\\GePNIC TESTING\\Ver1.09.21 BoQs\\[BOQ_itemrate_turnkey.xls]PRICE BID'!$G$14",
+      "visible": true
+    },
+    {
+      "name": "wilsd232",
+      "refers_to": "=#REF!#REF!",
+      "visible": true
+    }
+  ],
+  "external_workbook_links": [],
+  "limitations": [
+    "Formula text is read through Excel's object model.",
+    "No recalculation was requested.",
+    "Original saved cell values are retained separately in boq_workbook.json.",
+    "Formula extraction does not prove calculation correctness.",
+    "Data validation and other workbook features are not fully inventoried by this script."
+  ]
+}
