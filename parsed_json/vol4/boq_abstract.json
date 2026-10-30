@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "source_document": "Vol4DLNP1.pdf",
+  "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+  "generated_at": "2026-10-30T05:28:34.997101+00:00",
+  "pdf_page": 8,
+  "printed_page": "307",
+  "section_page": "5 of 7",
+  "extraction_method": "verified_cell_coordinates",
+  "records": [
+    {
+      "record_id": "vol4/boq_abstract/A",
+      "schedule": "A",
+      "pdf_pages": [
+        8
+      ],
+      "cells": [
+        "1",
+        "SCHEDULE-A",
+        "Partial & Full demolition and dismantling \nwork as per details given in Schedule-A \nof the BOQ",
+        "4,69,41,306.00"
+      ],
+      "cell_clips": [
+        [
+          60.900000000000006,
+          280.39,
+          100.77,
+          329.54
+        ],
+        [
+          102.17,
+          280.39,
+          194.06,
+          329.54
+        ],
+        [
+          195.45999999999998,
+          280.39,
+          406.82,
+          329.54
+        ],
+        [
+          408.21999999999997,
+          280.39,
+          534.17,
+          329.54
+        ]
+      ],
+      "amount_raw": "4,69,41,306.00",
+      "review_status": "pending_manual_review",
+      "amount_inr_decimal": "46941306.00"
+    },
+    {
+      "record_id": "vol4/boq_abstract/B",
+      "schedule": "B",
+      "pdf_pages": [
+        8
+      ],
+      "cells": [
+        "2",
+        "SCHEDULE-B",
+        "Items under Schedule of Rate published \nby KPWD",
+        "5,00,000.00"
+      ],
+      "cell_clips": [
+        [
+          60.900000000000006,
+          330.94,
+          100.77,
+          367.34000000000003
+        ],
+        [
+          102.17,
+          330.94,
+          194.06,
+          367.34000000000003
+        ],
+        [
+          195.45999999999998,
+          330.94,
+          406.82,
+          367.34000000000003
+        ],
+        [
+          408.21999999999997,
+          330.94,
+          534.17,
+          367.34000000000003
+        ]
+      ],
+      "amount_raw": "5,00,000.00",
+      "review_status": "pending_manual_review",
+      "amount_inr_decimal": "500000.00"
+    },
+    {
+      "record_id": "vol4/boq_abstract/A+B",
+      "schedule": "A+B",
+      "pdf_pages": [
+        8
+      ],
+      "cells": [
+        "",
+        "",
+        "Total of Schedules (A+B)",
+        "4,74,41,306.00"
+      ],
+      "cell_clips": [
+        [
+          60.900000000000006,
+          368.74,
+          100.77,
+          401.54
+        ],
+        [
+          102.17,
+          368.74,
+          194.06,
+          401.54
+        ],
+        [
+          195.45999999999998,
+          368.74,
+          406.82,
+          401.54
+        ],
+        [
+          408.21999999999997,
+          368.74,
+          534.17,
+          401.54
+        ]
+      ],
+      "amount_raw": "4,74,41,306.00",
+      "review_status": "pending_manual_review",
+      "amount_inr_decimal": "47441306.00"
+    },
+    {
+      "record_id": "vol4/boq_abstract/C",
+      "schedule": "C",
+      "pdf_pages": [
+        8
+      ],
+      "cells": [
+        "3",
+        "SCHEDULE-C",
+        "Credit to BMRCL for salvageable items \nout of dismantled/demolished private \nproperties on which the owner has no \ninterest (as elaborated in Para 15 of Part-\n3 of ‘Employer’s Requirement’).",
+        "----"
+      ],
+      "cell_clips": [
+        [
+          60.900000000000006,
+          402.94,
+          100.77,
+          477.26
+        ],
+        [
+          102.17,
+          402.94,
+          194.06,
+          477.26
+        ],
+        [
+          195.45999999999998,
+          402.94,
+          406.82,
+          477.26
+        ],
+        [
+          408.21999999999997,
+          402.94,
+          534.17,
+          477.26
+        ]
+      ],
+      "amount_raw": "----",
+      "review_status": "pending_manual_review",
+      "amount_inr_decimal": null,
+      "amount_status": "Source placeholder; not a zero or submitted quote"
+    }
+  ],
+  "checks": {
+    "abstract_matches_detailed_boq": true,
+    "schedule_c_placeholder_preserved": true
+  },
+  "review_status": "pending_manual_review",
+  "limitations": [
+    "The combined-total label spans merged cells; the cell clips may split that label.",
+    "The original full-page text remains in pricing_document.json.",
+    "No bidder quote or salvage-credit amount is inferred."
+  ]
+}

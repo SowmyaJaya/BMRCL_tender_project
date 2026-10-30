@@ -1,0 +1,1581 @@
+{
+  "schema_version": 1,
+  "source_document": "Vol4DLNP1.pdf",
+  "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+  "generated_at": "2026-10-30T05:23:06.328727+00:00",
+  "extractor": "PyMuPDF source-line grouping",
+  "extractor_version": "2.0",
+  "review_status": "pending_manual_review",
+  "records": [
+    {
+      "record_id": "vol4/pricing_preamble/1",
+      "type": "pricing_rule",
+      "label": "1",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        6
+      ],
+      "text": "1. The Pricing Document-Bill of Quantities (BOQ) & Abstract to Bill of Quantities (BOQ)\nshall be read in conjunction with the entire Tender and Contract Document including\nInstructions to Tenderers, General Conditions of Contract (including ‘Contract Data’),\nSpecial Conditions of Contract, Notice Inviting Tender, Technical Specifications,\nEmployer’s Requirements, Scope of work,  Schedule, Attachments, Appendix, Annexure,\nCorrigendum and Addendums.",
+      "source_lines": [
+        {
+          "pdf_page": 6,
+          "bbox": [
+            71.99996948242188,
+            99.36321258544922,
+            526.3868408203125,
+            109.7187271118164
+          ],
+          "text": "1. The Pricing Document-Bill of Quantities (BOQ) & Abstract to Bill of Quantities (BOQ)"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87926483154297,
+            113.04320526123047,
+            526.38623046875,
+            123.39871978759766
+          ],
+          "text": "shall be read in conjunction with the entire Tender and Contract Document including"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87926483154297,
+            126.72319793701172,
+            526.3881225585938,
+            137.07872009277344
+          ],
+          "text": "Instructions to Tenderers, General Conditions of Contract (including ‘Contract Data’),"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87926483154297,
+            140.283203125,
+            526.38623046875,
+            150.6387176513672
+          ],
+          "text": "Special Conditions of Contract, Notice Inviting Tender, Technical Specifications,"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87926483154297,
+            153.96319580078125,
+            526.385986328125,
+            164.31871032714844
+          ],
+          "text": "Employer’s Requirements, Scope of work,  Schedule, Attachments, Appendix, Annexure,"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87926483154297,
+            167.6431884765625,
+            242.82455444335938,
+            177.9987030029297
+          ],
+          "text": "Corrigendum and Addendums."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/2",
+      "type": "pricing_rule",
+      "label": "2",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        6
+      ],
+      "text": "2. The quantities given in the Price document - “Bill of Quantities” are estimated\n(provisional). The basis of payment will be the actual quantities of work ordered and\ncarried out, as measured by the Contractor and verified by the Engineer and valued at\nthe rates in the accepted priced “Price Bid – Summary of Bill of Quantities”.",
+      "source_lines": [
+        {
+          "pdf_page": 6,
+          "bbox": [
+            71.999267578125,
+            187.3231201171875,
+            526.38671875,
+            197.6786346435547
+          ],
+          "text": "2. The quantities given in the Price document - “Bill of Quantities” are estimated"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87957000732422,
+            200.88311767578125,
+            526.3868408203125,
+            211.23863220214844
+          ],
+          "text": "(provisional). The basis of payment will be the actual quantities of work ordered and"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87957000732422,
+            214.5631103515625,
+            526.3862915039062,
+            224.9186248779297
+          ],
+          "text": "carried out, as measured by the Contractor and verified by the Engineer and valued at"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87957000732422,
+            228.24310302734375,
+            457.9883117675781,
+            238.59861755371094
+          ],
+          "text": "the rates in the accepted priced “Price Bid – Summary of Bill of Quantities”."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/3",
+      "type": "pricing_rule",
+      "label": "3",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        6
+      ],
+      "text": "3. Tenderer shall quote in the Price Bid (.xls format) sheet only in accordance with the ITT\nclause 10. Tenderer is advised to quote their percentage rate in two decimals for\nSchedule-A. Tenderer has to select option “At Par / Excess / Less” and enter percentage\nrate in figures on estimated cost to Schedule-A, for Schedule-B tenderer is required to\nselect percentage option as ‘At Par’ only and for Schedule-C tenderer shall offer Credit\nto BMRCL on Salvage of Materials, in ‘Lump sum’ amount.",
+      "source_lines": [
+        {
+          "pdf_page": 6,
+          "bbox": [
+            71.99929809570312,
+            247.923095703125,
+            526.3866577148438,
+            258.2785949707031
+          ],
+          "text": "3. Tenderer shall quote in the Price Bid (.xls format) sheet only in accordance with the ITT"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87958526611328,
+            261.48309326171875,
+            526.3870849609375,
+            271.8385925292969
+          ],
+          "text": "clause 10. Tenderer is advised to quote their percentage rate in two decimals for"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87960052490234,
+            275.1630859375,
+            526.3864135742188,
+            285.5185852050781
+          ],
+          "text": "Schedule-A. Tenderer has to select option “At Par / Excess / Less” and enter percentage"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.8787612915039,
+            288.84307861328125,
+            526.387451171875,
+            299.1985778808594
+          ],
+          "text": "rate in figures on estimated cost to Schedule-A, for Schedule-B tenderer is required to"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87877655029297,
+            302.5230712890625,
+            526.3858642578125,
+            312.8785705566406
+          ],
+          "text": "select percentage option as ‘At Par’ only and for Schedule-C tenderer shall offer Credit"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87877655029297,
+            316.08306884765625,
+            378.5460510253906,
+            326.4385681152344
+          ],
+          "text": "to BMRCL on Salvage of Materials, in ‘Lump sum’ amount."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/4",
+      "type": "pricing_rule",
+      "label": "4",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        6
+      ],
+      "text": "4. The Lump sum amount indicated for Schedule C will be recovered from the running\naccount bills proportionately. In case of any variation in Quantities (increase/decrease),\nthe value of credit to BMRCL will be increased/decreased according to the value of work\ndone from the ‘on account’ bills on pro-rata basis.",
+      "source_lines": [
+        {
+          "pdf_page": 6,
+          "bbox": [
+            71.99847412109375,
+            335.7630310058594,
+            526.3857421875,
+            346.1185302734375
+          ],
+          "text": "4. The Lump sum amount indicated for Schedule C will be recovered from the running"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87877655029297,
+            349.4430236816406,
+            526.3861694335938,
+            359.79852294921875
+          ],
+          "text": "account bills proportionately. In case of any variation in Quantities (increase/decrease),"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87877655029297,
+            363.12298583984375,
+            526.3863525390625,
+            373.4784851074219
+          ],
+          "text": "the value of credit to BMRCL will be increased/decreased according to the value of work"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87879180908203,
+            376.6829833984375,
+            333.30615234375,
+            387.0384826660156
+          ],
+          "text": "done from the ‘on account’ bills on pro-rata basis."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/5",
+      "type": "pricing_rule",
+      "label": "5",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        6
+      ],
+      "text": "5. The Contractor should note that the credit to BMRCL on salvage materials should be in\nreference to the quoted price and not on the estimate cost put to tender.",
+      "source_lines": [
+        {
+          "pdf_page": 6,
+          "bbox": [
+            71.99948120117188,
+            396.36297607421875,
+            526.3870239257812,
+            406.7184753417969
+          ],
+          "text": "5. The Contractor should note that the credit to BMRCL on salvage materials should be in"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87979888916016,
+            410.04296875,
+            442.746826171875,
+            420.3984680175781
+          ],
+          "text": "reference to the quoted price and not on the estimate cost put to tender."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/6",
+      "type": "pricing_rule",
+      "label": "6",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        6
+      ],
+      "text": "6. The ‘Tender Price’ or ‘Quoted Price’ includes all applicable taxes, duties, cess, royalties,\nand statutory levies as per the laws in force as on last day of the month previous to the\nmonth of invitation of this tender, except Goods and Services Tax (GST).",
+      "source_lines": [
+        {
+          "pdf_page": 6,
+          "bbox": [
+            71.99951171875,
+            429.72296142578125,
+            526.3866577148438,
+            440.0784606933594
+          ],
+          "text": "6. The ‘Tender Price’ or ‘Quoted Price’ includes all applicable taxes, duties, cess, royalties,"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87982940673828,
+            443.2829284667969,
+            526.3870239257812,
+            453.638427734375
+          ],
+          "text": "and statutory levies as per the laws in force as on last day of the month previous to the"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87982940673828,
+            456.9629211425781,
+            446.9472351074219,
+            467.31842041015625
+          ],
+          "text": "month of invitation of this tender, except Goods and Services Tax (GST)."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/7",
+      "type": "pricing_rule",
+      "label": "7",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        6
+      ],
+      "text": "7. The method of measurement of completed work for payment shall be in accordance with\nthe requirements as stated in the Technical Specifications and as given in the Price\ndocument- Bill of Quantities or elsewhere in the tender documents.",
+      "source_lines": [
+        {
+          "pdf_page": 6,
+          "bbox": [
+            72.00054931640625,
+            476.6429138183594,
+            526.3876342773438,
+            486.9984130859375
+          ],
+          "text": "7. The method of measurement of completed work for payment shall be in accordance with"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.88085174560547,
+            490.3229064941406,
+            526.3883666992188,
+            500.67840576171875
+          ],
+          "text": "the requirements as stated in the Technical Specifications and as given in the Price"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.88085174560547,
+            503.8829040527344,
+            417.6679382324219,
+            514.2384033203125
+          ],
+          "text": "document- Bill of Quantities or elsewhere in the tender documents."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/8",
+      "type": "pricing_rule",
+      "label": "8",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        6
+      ],
+      "text": "8. The quoted price is for completed and finished items of work and complete in all respects\ncomplying with the provisions of the Contract. It will be deemed to have included all\nconstructional plant, machinery tools, fuel, oil, consumables, electric power, water,\ntransportation, disposal of debris at BBMP/GBA identified C&D waste management\nfacility (dismantled/demolished material), all leads & lifts, all temporary works & false\nworks, fencing, watering, lighting, maintenance, night working and inspection facilities.",
+      "source_lines": [
+        {
+          "pdf_page": 6,
+          "bbox": [
+            72.00054931640625,
+            523.5628662109375,
+            526.3875732421875,
+            533.9183959960938
+          ],
+          "text": "8. The quoted price is for completed and finished items of work and complete in all respects"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.88082122802734,
+            537.2428588867188,
+            526.3876953125,
+            547.598388671875
+          ],
+          "text": "complying with the provisions of the Contract. It will be deemed to have included all"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.88082122802734,
+            550.9228515625,
+            526.3876953125,
+            561.2783813476562
+          ],
+          "text": "constructional plant, machinery tools, fuel, oil, consumables, electric power, water,"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.88082122802734,
+            564.4828491210938,
+            526.3883666992188,
+            574.83837890625
+          ],
+          "text": "transportation, disposal of debris at BBMP/GBA identified C&D waste management"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.88082122802734,
+            578.162841796875,
+            526.3883056640625,
+            588.5183715820312
+          ],
+          "text": "facility (dismantled/demolished material), all leads & lifts, all temporary works & false"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.88082122802734,
+            591.8428344726562,
+            511.2677917480469,
+            602.1983642578125
+          ],
+          "text": "works, fencing, watering, lighting, maintenance, night working and inspection facilities."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/9",
+      "type": "pricing_rule",
+      "label": "9",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        6
+      ],
+      "text": "9. The quoted price will be deemed to have included all the safety measures at work sites/\ncasting yard, safety measures for workmen & road users, safety of the public and\nprotection of adjoining land & building while working.",
+      "source_lines": [
+        {
+          "pdf_page": 6,
+          "bbox": [
+            72.00051879882812,
+            611.5228271484375,
+            526.3876953125,
+            621.8783569335938
+          ],
+          "text": "9. The quoted price will be deemed to have included all the safety measures at work sites/"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.8808364868164,
+            625.082763671875,
+            526.3880615234375,
+            635.4382934570312
+          ],
+          "text": "casting yard, safety measures for workmen & road users, safety of the public and"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.88082122802734,
+            638.7627563476562,
+            347.94757080078125,
+            649.1182861328125
+          ],
+          "text": "protection of adjoining land & building while working."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/10",
+      "type": "pricing_rule",
+      "label": "10",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        6
+      ],
+      "text": "10. The quoted price will be deemed to have included establishment & overhead charges,\ncontractor’s profit, supervision, other charges together with all general risks, liabilities\nand obligations set out or implied in the contract and including remedy of any defects\nduring the Defect Liability Period.",
+      "source_lines": [
+        {
+          "pdf_page": 6,
+          "bbox": [
+            72.00051879882812,
+            658.4427490234375,
+            526.3875732421875,
+            668.7982788085938
+          ],
+          "text": "10. The quoted price will be deemed to have included establishment & overhead charges,"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87979888916016,
+            672.1227416992188,
+            526.3872680664062,
+            682.478271484375
+          ],
+          "text": "contractor’s profit, supervision, other charges together with all general risks, liabilities"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87981414794922,
+            685.6827392578125,
+            526.38671875,
+            696.0382690429688
+          ],
+          "text": "and obligations set out or implied in the contract and including remedy of any defects"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87981414794922,
+            699.3627319335938,
+            257.4670715332031,
+            709.71826171875
+          ],
+          "text": "during the Defect Liability Period."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/11",
+      "type": "pricing_rule",
+      "label": "11",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        6
+      ],
+      "text": "11. The quoted price will be deemed to have included accommodations for staff & workmen,\nall insurance costs for labour & works, the payment of all wages, salaries, fees if any,\ncharges payable to various departments for obtaining necessary approvals if any.",
+      "source_lines": [
+        {
+          "pdf_page": 6,
+          "bbox": [
+            71.99981689453125,
+            719.042724609375,
+            526.3865966796875,
+            729.3982543945312
+          ],
+          "text": "11. The quoted price will be deemed to have included accommodations for staff & workmen,"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87914276123047,
+            732.7227172851562,
+            526.3860473632812,
+            743.0782470703125
+          ],
+          "text": "all insurance costs for labour & works, the payment of all wages, salaries, fees if any,"
+        },
+        {
+          "pdf_page": 6,
+          "bbox": [
+            89.87914276123047,
+            746.28271484375,
+            488.7059326171875,
+            756.6382446289062
+          ],
+          "text": "charges payable to various departments for obtaining necessary approvals if any."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/12",
+      "type": "pricing_rule",
+      "label": "12",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        7
+      ],
+      "text": "12. The work is to be executed as per Bill of Quantity description, Technical Specifications,\nspecifications of MORTH, KPWD, CPWD, drawings, best engineering practices and/or\nas directed by the Engineer.",
+      "source_lines": [
+        {
+          "pdf_page": 7,
+          "bbox": [
+            71.99996948242188,
+            74.76317596435547,
+            526.3866577148438,
+            85.11869049072266
+          ],
+          "text": "12. The work is to be executed as per Bill of Quantity description, Technical Specifications,"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.87928009033203,
+            88.44316864013672,
+            526.3867797851562,
+            98.7986831665039
+          ],
+          "text": "specifications of MORTH, KPWD, CPWD, drawings, best engineering practices and/or"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.87926483154297,
+            102.12316131591797,
+            232.98648071289062,
+            112.47867584228516
+          ],
+          "text": "as directed by the Engineer."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/13",
+      "type": "pricing_rule",
+      "label": "13",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        7
+      ],
+      "text": "13. Removal of hoardings, interior lighting and interior furniture etc., ACP cladding and\nstructural glazing etc., which are existing within the line of cut are incidental to work.  No\nseparate payment will be considered for payment.",
+      "source_lines": [
+        {
+          "pdf_page": 7,
+          "bbox": [
+            71.999267578125,
+            121.80315399169922,
+            526.3859252929688,
+            132.15867614746094
+          ],
+          "text": "13. Removal of hoardings, interior lighting and interior furniture etc., ACP cladding and"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.87854766845703,
+            135.3631591796875,
+            526.3856201171875,
+            145.7186737060547
+          ],
+          "text": "structural glazing etc., which are existing within the line of cut are incidental to work.  No"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.87853240966797,
+            149.04315185546875,
+            335.7059326171875,
+            159.39866638183594
+          ],
+          "text": "separate payment will be considered for payment."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/14",
+      "type": "pricing_rule",
+      "label": "14",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        7
+      ],
+      "text": "14. If it is necessary to maintain any power, water or other utilities during demolition, such\nlines shall be temporarily relocated, as necessary and protected before commencement\nof demolition work.",
+      "source_lines": [
+        {
+          "pdf_page": 7,
+          "bbox": [
+            71.99853515625,
+            168.72314453125,
+            526.3860473632812,
+            179.0786590576172
+          ],
+          "text": "14. If it is necessary to maintain any power, water or other utilities during demolition, such"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.87882232666016,
+            182.403076171875,
+            526.3866577148438,
+            192.7585906982422
+          ],
+          "text": "lines shall be temporarily relocated, as necessary and protected before commencement"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.87883758544922,
+            195.96307373046875,
+            190.74612426757812,
+            206.31858825683594
+          ],
+          "text": "of demolition work."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/15",
+      "type": "pricing_rule",
+      "label": "15",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        7
+      ],
+      "text": "15. All such cost involved for temporary relocation/maintenance must be borne by contractor\nand no payment will be made for temporary works. The contractor shall make his own\narrangements for power requirement for his equipment/machinery. If advised by the\nConsultant/BMRCL, the contractor has to give temporary supports for the building during\ndemolition wherever necessary without any extra financial implications to BMRCL.",
+      "source_lines": [
+        {
+          "pdf_page": 7,
+          "bbox": [
+            71.99884033203125,
+            215.64306640625,
+            526.38623046875,
+            225.9985809326172
+          ],
+          "text": "15. All such cost involved for temporary relocation/maintenance must be borne by contractor"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.87914276123047,
+            229.32305908203125,
+            526.3867797851562,
+            239.67857360839844
+          ],
+          "text": "and no payment will be made for temporary works. The contractor shall make his own"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.87914276123047,
+            243.0030517578125,
+            526.3861694335938,
+            253.3585662841797
+          ],
+          "text": "arrangements for power requirement for his equipment/machinery. If advised by the"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.87914276123047,
+            256.56304931640625,
+            526.3861083984375,
+            266.9185485839844
+          ],
+          "text": "Consultant/BMRCL, the contractor has to give temporary supports for the building during"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.87914276123047,
+            270.2430419921875,
+            491.58612060546875,
+            280.5985412597656
+          ],
+          "text": "demolition wherever necessary without any extra financial implications to BMRCL."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/16",
+      "type": "pricing_rule",
+      "label": "16",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        7
+      ],
+      "text": "16. If advised by the Consultant/BMRCL, the contractor has to give permanent supports like\nwall, columns (Steel, RCC, etc.), including plastering, painting, plumbing, water supply\nand sanitary works, electrical restoration works, etc. to the supported portion of the\nbuilding before or after total/partial demolition, wherever necessary to maintain LOC, for\nwhich payment will be made as per  accepted rate in BoQ schedule for items available in\nCommon SR for the year 2023-24 (Schedule of Rates),  for the execution of such work.",
+      "source_lines": [
+        {
+          "pdf_page": 7,
+          "bbox": [
+            71.99887084960938,
+            289.92303466796875,
+            526.3864135742188,
+            300.2785339355469
+          ],
+          "text": "16. If advised by the Consultant/BMRCL, the contractor has to give permanent supports like"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.87915802001953,
+            303.60302734375,
+            526.3859252929688,
+            313.9585266113281
+          ],
+          "text": "wall, columns (Steel, RCC, etc.), including plastering, painting, plumbing, water supply"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.87914276123047,
+            317.16302490234375,
+            526.3861694335938,
+            327.5185241699219
+          ],
+          "text": "and sanitary works, electrical restoration works, etc. to the supported portion of the"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.87914276123047,
+            330.8429870605469,
+            526.3868408203125,
+            341.198486328125
+          ],
+          "text": "building before or after total/partial demolition, wherever necessary to maintain LOC, for"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.87914276123047,
+            344.5229797363281,
+            526.3902587890625,
+            354.87847900390625
+          ],
+          "text": "which payment will be made as per  accepted rate in BoQ schedule for items available in"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.87914276123047,
+            358.2029724121094,
+            519.7941284179688,
+            368.5584716796875
+          ],
+          "text": "Common SR for the year 2023-24 (Schedule of Rates),  for the execution of such work."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/17",
+      "type": "pricing_rule",
+      "label": "17",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        7
+      ],
+      "text": "17. 50% area of Balcony and Canopy if exists will be considered for calculating area for\npayment as per the guide lines for valuation of properties. The area of chejjas or such\nsimilar coverings/shadows will not be considered for payment.",
+      "source_lines": [
+        {
+          "pdf_page": 7,
+          "bbox": [
+            71.99984741210938,
+            377.8829345703125,
+            526.3875732421875,
+            388.2384338378906
+          ],
+          "text": "17. 50% area of Balcony and Canopy if exists will be considered for calculating area for"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.88016510009766,
+            391.44293212890625,
+            526.3853759765625,
+            401.7984313964844
+          ],
+          "text": "payment as per the guide lines for valuation of properties. The area of chejjas or such"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.88016510009766,
+            405.1229248046875,
+            397.38720703125,
+            415.4784240722656
+          ],
+          "text": "similar coverings/shadows will not be considered for payment."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/18",
+      "type": "pricing_rule",
+      "label": "18",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        7
+      ],
+      "text": "18. The demolition and dismantling shall be carried out up to ground and/or up to basement\nlevel as the case may be including underground water storage structures if any. Refilling\nthe low-level areas up to ground level is within the scope of contractor’s work.",
+      "source_lines": [
+        {
+          "pdf_page": 7,
+          "bbox": [
+            71.9998779296875,
+            424.80291748046875,
+            526.38720703125,
+            435.1584167480469
+          ],
+          "text": "18. The demolition and dismantling shall be carried out up to ground and/or up to basement"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.88018035888672,
+            438.4828796386719,
+            526.3875732421875,
+            448.83837890625
+          ],
+          "text": "level as the case may be including underground water storage structures if any. Refilling"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.88018035888672,
+            452.0428771972656,
+            472.6297912597656,
+            462.39837646484375
+          ],
+          "text": "the low-level areas up to ground level is within the scope of contractor’s work."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/19",
+      "type": "pricing_rule",
+      "label": "19",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        7
+      ],
+      "text": "19. The items existing excluding trees within the proposed line of cut have to be dismantled\nand demolished and debris to be transported and disposed.",
+      "source_lines": [
+        {
+          "pdf_page": 7,
+          "bbox": [
+            72.00090026855469,
+            471.7228698730469,
+            526.3887329101562,
+            482.078369140625
+          ],
+          "text": "19. The items existing excluding trees within the proposed line of cut have to be dismantled"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.8812026977539,
+            485.4028625488281,
+            382.74884033203125,
+            495.75836181640625
+          ],
+          "text": "and demolished and debris to be transported and disposed."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/20",
+      "type": "pricing_rule",
+      "label": "20",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        7
+      ],
+      "text": "20. The total floor area means the summation of total built area of all floors in the buildings\nindicated in Schedule A.",
+      "source_lines": [
+        {
+          "pdf_page": 7,
+          "bbox": [
+            72.00192260742188,
+            505.08282470703125,
+            526.3892211914062,
+            515.4383544921875
+          ],
+          "text": "20. The total floor area means the summation of total built area of all floors in the buildings"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.8822250366211,
+            518.642822265625,
+            211.03143310546875,
+            528.9983520507812
+          ],
+          "text": "indicated in Schedule A."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/pricing_preamble/21",
+      "type": "pricing_rule",
+      "label": "21",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        7
+      ],
+      "text": "21. In case some buildings are deleted or added in BOQ, the rates per sqm for that\ndeletion/addition will be same as given above. For payment purpose, the %age quoted\nand accepted in the Summary Cost will be used for the above rate.",
+      "source_lines": [
+        {
+          "pdf_page": 7,
+          "bbox": [
+            72.00222778320312,
+            538.2028198242188,
+            526.3898315429688,
+            548.558349609375
+          ],
+          "text": "21. In case some buildings are deleted or added in BOQ, the rates per sqm for that"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.88249969482422,
+            552.7227783203125,
+            526.3902587890625,
+            563.0783081054688
+          ],
+          "text": "deletion/addition will be same as given above. For payment purpose, the %age quoted"
+        },
+        {
+          "pdf_page": 7,
+          "bbox": [
+            89.88249969482422,
+            567.2427978515625,
+            420.6696472167969,
+            577.5983276367188
+          ],
+          "text": "and accepted in the Summary Cost will be used for the above rate."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/letter_of_price_bid/declaration/1",
+      "type": "price_bid_declaration",
+      "label": "1",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        5
+      ],
+      "text": "1. We, hereby submit our priced document for the above-mentioned work.",
+      "source_lines": [
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99981689453125,
+            323.52294921875,
+            442.8688049316406,
+            333.8784484863281
+          ],
+          "text": "1. We, hereby submit our priced document for the above-mentioned work."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/letter_of_price_bid/declaration/2",
+      "type": "price_bid_declaration",
+      "label": "2",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        5
+      ],
+      "text": "2. We understand that in the event of any information furnished by us being found later on\nto be incorrect or any material information having been suppressed, the following action\ncan be taken in addition to the Provisions of Clause 4.33 of General Conditions of\nContract (GCC).\n(i) Any tender submitted by us in future for other works on the basis of qualification may\nnot be considered.\n(ii) If any tender from us is accepted and a contract awarded to us on the basis of our\nqualification, the tender acceptance may be withdrawn and the contract awarded to\nus may be cancelled without any financial claim /Arbitration request from our side.\n(iii) Our name will / may be removed from the panel of qualified agencies.",
+      "source_lines": [
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99981689453125,
+            348.84295654296875,
+            526.387451171875,
+            359.1984558105469
+          ],
+          "text": "2. We understand that in the event of any information furnished by us being found later on"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            90.00003814697266,
+            361.44293212890625,
+            526.3876953125,
+            371.7984313964844
+          ],
+          "text": "to be incorrect or any material information having been suppressed, the following action"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            90.00005340576172,
+            374.1629333496094,
+            526.3888549804688,
+            384.5184326171875
+          ],
+          "text": "can be taken in addition to the Provisions of Clause 4.33 of General Conditions of"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            90.00005340576172,
+            386.762939453125,
+            175.62918090820312,
+            397.1184387207031
+          ],
+          "text": "Contract (GCC)."
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            90.00005340576172,
+            412.08294677734375,
+            526.3870239257812,
+            422.4715881347656
+          ],
+          "text": "(i) Any tender submitted by us in future for other works on the basis of qualification may"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            107.99949645996094,
+            424.6829528808594,
+            201.54669189453125,
+            435.0384521484375
+          ],
+          "text": "not be considered."
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            89.99958038330078,
+            450.0029296875,
+            526.386474609375,
+            460.3915710449219
+          ],
+          "text": "(ii) If any tender from us is accepted and a contract awarded to us on the basis of our"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            107.99879455566406,
+            462.6029357910156,
+            526.3863525390625,
+            472.95843505859375
+          ],
+          "text": "qualification, the tender acceptance may be withdrawn and the contract awarded to"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            107.99879455566406,
+            475.32293701171875,
+            508.5066223144531,
+            485.6784362792969
+          ],
+          "text": "us may be cancelled without any financial claim /Arbitration request from our side."
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            89.99938201904297,
+            500.6429443359375,
+            442.3868713378906,
+            511.0315856933594
+          ],
+          "text": "(iii) Our name will / may be removed from the panel of qualified agencies."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/letter_of_price_bid/declaration/2/i",
+      "type": "declaration_subpoint",
+      "label": "i",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        5
+      ],
+      "text": "(i) Any tender submitted by us in future for other works on the basis of qualification may\nnot be considered.",
+      "source_lines": [
+        {
+          "pdf_page": 5,
+          "bbox": [
+            90.00005340576172,
+            412.08294677734375,
+            526.3870239257812,
+            422.4715881347656
+          ],
+          "text": "(i) Any tender submitted by us in future for other works on the basis of qualification may"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            107.99949645996094,
+            424.6829528808594,
+            201.54669189453125,
+            435.0384521484375
+          ],
+          "text": "not be considered."
+        }
+      ],
+      "review_status": "pending_manual_review",
+      "parent_record_id": "vol4/letter_of_price_bid/declaration/2",
+      "overlap_note": "This subpoint is also retained in its parent declaration."
+    },
+    {
+      "record_id": "vol4/letter_of_price_bid/declaration/2/ii",
+      "type": "declaration_subpoint",
+      "label": "ii",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        5
+      ],
+      "text": "(ii) If any tender from us is accepted and a contract awarded to us on the basis of our\nqualification, the tender acceptance may be withdrawn and the contract awarded to\nus may be cancelled without any financial claim /Arbitration request from our side.",
+      "source_lines": [
+        {
+          "pdf_page": 5,
+          "bbox": [
+            89.99958038330078,
+            450.0029296875,
+            526.386474609375,
+            460.3915710449219
+          ],
+          "text": "(ii) If any tender from us is accepted and a contract awarded to us on the basis of our"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            107.99879455566406,
+            462.6029357910156,
+            526.3863525390625,
+            472.95843505859375
+          ],
+          "text": "qualification, the tender acceptance may be withdrawn and the contract awarded to"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            107.99879455566406,
+            475.32293701171875,
+            508.5066223144531,
+            485.6784362792969
+          ],
+          "text": "us may be cancelled without any financial claim /Arbitration request from our side."
+        }
+      ],
+      "review_status": "pending_manual_review",
+      "parent_record_id": "vol4/letter_of_price_bid/declaration/2",
+      "overlap_note": "This subpoint is also retained in its parent declaration."
+    },
+    {
+      "record_id": "vol4/letter_of_price_bid/declaration/2/iii",
+      "type": "declaration_subpoint",
+      "label": "iii",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        5
+      ],
+      "text": "(iii) Our name will / may be removed from the panel of qualified agencies.",
+      "source_lines": [
+        {
+          "pdf_page": 5,
+          "bbox": [
+            89.99938201904297,
+            500.6429443359375,
+            442.3868713378906,
+            511.0315856933594
+          ],
+          "text": "(iii) Our name will / may be removed from the panel of qualified agencies."
+        }
+      ],
+      "review_status": "pending_manual_review",
+      "parent_record_id": "vol4/letter_of_price_bid/declaration/2",
+      "overlap_note": "This subpoint is also retained in its parent declaration."
+    }
+  ],
+  "context_records": [
+    {
+      "record_id": "vol4/context/preamble_page_6",
+      "type": "section_context",
+      "label": "Pricing preamble heading",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        6
+      ],
+      "text": "Pricing Document-Preamble",
+      "source_lines": [
+        {
+          "pdf_page": 6,
+          "bbox": [
+            227.51991271972656,
+            74.64318084716797,
+            377.9470520019531,
+            84.99869537353516
+          ],
+          "text": "Pricing Document-Preamble"
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/context/price_bid_letter",
+      "type": "template_context",
+      "label": "Price-bid letter heading, addressee and blank fields",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        5
+      ],
+      "text": "PRICING DOCUMENT - LETTER OF PRICE BID\n(To be submitted in the letter head of the Tenderer)\nRef:\nDated……….\n(Tenderer to provide date and reference no.)\nTo\nThe Managing Director,\nBangalore Metro Rail Corporation Ltd.\nFourth floor, BMTC Complex\nKH Road, Shanthinagar\nBangalore-560027, Karnataka,\nIndia.\nDear Sir,\nPriced document for ……………………… (Name of Work) and …………….. (Tender No.).",
+      "source_lines": [
+        {
+          "pdf_page": 5,
+          "bbox": [
+            178.55992126464844,
+            74.52318572998047,
+            419.82891845703125,
+            84.87870025634766
+          ],
+          "text": "PRICING DOCUMENT - LETTER OF PRICE BID"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            175.43991088867188,
+            87.36321258544922,
+            422.82696533203125,
+            97.7187271118164
+          ],
+          "text": "(To be submitted in the letter head of the Tenderer)"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99981689453125,
+            112.80321502685547,
+            94.86708068847656,
+            123.15872955322266
+          ],
+          "text": "Ref:"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            396.0166320800781,
+            112.80321502685547,
+            505.04400634765625,
+            123.15872955322266
+          ],
+          "text": "Dated………."
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99981689453125,
+            135.36322021484375,
+            287.8269958496094,
+            145.71873474121094
+          ],
+          "text": "(Tenderer to provide date and reference no.)"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99981689453125,
+            157.9232177734375,
+            90.66893768310547,
+            168.2787322998047
+          ],
+          "text": "To"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99981689453125,
+            170.6431884765625,
+            193.7489013671875,
+            180.9987030029297
+          ],
+          "text": "The Managing Director,"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99981689453125,
+            183.24310302734375,
+            259.62884521484375,
+            193.59861755371094
+          ],
+          "text": "Bangalore Metro Rail Corporation Ltd."
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99981689453125,
+            195.84307861328125,
+            215.47073364257812,
+            206.19859313964844
+          ],
+          "text": "Fourth floor, BMTC Complex"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99981689453125,
+            208.56304931640625,
+            192.06878662109375,
+            218.91856384277344
+          ],
+          "text": "KH Road, Shanthinagar"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99981689453125,
+            221.16302490234375,
+            227.94866943359375,
+            231.51853942871094
+          ],
+          "text": "Bangalore-560027, Karnataka,"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99981689453125,
+            233.88299560546875,
+            104.34892272949219,
+            244.23851013183594
+          ],
+          "text": "India."
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99981689453125,
+            259.20294189453125,
+            117.54706573486328,
+            269.5584411621094
+          ],
+          "text": "Dear Sir,"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99981689453125,
+            281.762939453125,
+            503.22705078125,
+            292.1184387207031
+          ],
+          "text": "Priced document for ……………………… (Name of Work) and …………….. (Tender No.)."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    },
+    {
+      "record_id": "vol4/context/price_bid_signature",
+      "type": "template_context",
+      "label": "Price-bid signature and blank bidder fields",
+      "source_document": "Vol4DLNP1.pdf",
+      "source_sha256": "d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b",
+      "pdf_pages": [
+        5
+      ],
+      "text": "Yours faithfully,\n(Signature) ……………………\nName of signatory: ………………………………\nCapacity of signatory: ……………………………\nName and address of Tenderer:………………..",
+      "source_lines": [
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99966430664062,
+            551.282958984375,
+            148.62689208984375,
+            561.6384887695312
+          ],
+          "text": "Yours faithfully,"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99966430664062,
+            573.962890625,
+            218.58694458007812,
+            584.3184204101562
+          ],
+          "text": "(Signature) ……………………"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99966430664062,
+            596.6428833007812,
+            299.3468322753906,
+            606.9984130859375
+          ],
+          "text": "Name of signatory: ………………………………"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99966430664062,
+            619.3228759765625,
+            301.5068664550781,
+            629.6784057617188
+          ],
+          "text": "Capacity of signatory: ……………………………"
+        },
+        {
+          "pdf_page": 5,
+          "bbox": [
+            71.99966430664062,
+            641.8828735351562,
+            299.4667053222656,
+            652.2384033203125
+          ],
+          "text": "Name and address of Tenderer:……………….."
+        }
+      ],
+      "review_status": "pending_manual_review"
+    }
+  ],
+  "checks": {
+    "pricing_rules": 21,
+    "price_bid_declarations": 2,
+    "declaration_subpoints": 3,
+    "unique_clause_and_subpoint_records": 26,
+    "numbering_checks_passed": true,
+    "selected_wording_checks_passed": true
+  },
+  "limitations": [
+    "Source lines are retained; line breaks and ordering are extraction representations.",
+    "Subpoints overlap with their parent declaration and must not be counted as independent evidence.",
+    "Blank template fields do not identify an actual bidder.",
+    "No clause summaries or legal interpretations are generated.",
+    "No corrigenda are applied.",
+    "Human review remains pending."
+  ]
+}
