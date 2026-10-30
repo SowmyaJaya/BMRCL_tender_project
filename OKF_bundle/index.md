@@ -1,5 +1,4 @@
-﻿
-# BMRCL Tender Package P1: Demolition and Dismantling Works
+﻿# BMRCL Tender Package P1: Demolition and Dismantling Works
 
 Welcome to the Open Knowledge Format (OKF) bundle for **BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`** (Contract Package P1: Demolition of structures along Jayanagar to Metro RDS alignment).
 

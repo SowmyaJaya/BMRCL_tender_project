@@ -100,4 +100,3 @@ This section contains the financial document for BMRCL Tender No. `BMRCL/Phase-3
 ### 3.0 — Bill of Quantities (BOQ) Schedules
 
 <!-- Source: PDF pages 9–10; Section Pages 6–7 of 7; booklet pages 308–309 -->
-
