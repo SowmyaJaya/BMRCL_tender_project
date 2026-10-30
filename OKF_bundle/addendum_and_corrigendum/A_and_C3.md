@@ -103,4 +103,3 @@ The venue shown in both the existing and replacement columns is:
 - Preserve earlier NIT and corrigendum values as historical evidence.
 - These are the replacement values in Corrigendum No. 3; this document alone does not establish that no later amendments exist.
 - Final transcription and applicability review remains pending.
->>>>>>> b1f5c9eb1f3986f540500a5c5ee639e92e9edc53

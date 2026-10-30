@@ -1,4 +1,5 @@
----type: tender_section
+---
+type: tender_section
 title: Special Conditions of Contract
 status: source-derived
 source_document: Vol1DLNP1.pdf

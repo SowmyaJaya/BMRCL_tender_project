@@ -183,4 +183,3 @@ This addition should be read alongside Change 2, which retains NOT APPLICABLE in
 - Original GCC wording should remain available as historical evidence.
 - The original text of each deleted GCC provision is not reproduced in the amendment row.
 - Final transcription and applicability review remains pending.
->>>>>>> b1f5c9eb1f3986f540500a5c5ee639e92e9edc53

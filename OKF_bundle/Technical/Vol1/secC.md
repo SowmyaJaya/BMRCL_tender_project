@@ -1,4 +1,5 @@
----type: tender_section
+---
+type: tender_section
 title: Eligibility cum Qualification Criteria
 status: source-derived
 source_document: Vol1DLNP1.pdf

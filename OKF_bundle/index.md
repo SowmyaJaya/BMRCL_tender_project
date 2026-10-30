@@ -1,16 +1,7 @@
-﻿# BMRCL Tender Package P1: Demolition and Dismantling Works
+# BMRCL Tender DLN-P1 — OKF Bundle Index
 
-Welcome to the Open Knowledge Format (OKF) bundle for **BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`** (Contract Package P1: Demolition of structures along Jayanagar to Metro RDS alignment).
+OKF bundle for BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`: partial and full demolition or dismantling of buildings and structures identified for Bangalore Metro Rail Project Phase 3, Contract Package P1 (JP Nagar 4th Phase Station to Mysore Road Station, Ch: (-) 0.330 Km to Ch: 10.550 Km, Corridor-1).
 
-## Bundle Structure
-
-* **[Technical Volume Index (Technical/index.md)](Technical/index.md)**
-  * **Volume 1 (Vol1/index.md):** Tender Sections A to G (NIT, ITT, EQC, Letter of Technical Bid, GCC & Contract Data, SCC, Contract Forms).
-  * **Volume 2 (Vol2/index.md):** Section H: Employer Requirements, Scope of Work, Technical Specifications (Demolition, Rehabilitation, Restoration).
-  * **Volume 3 (Vol3/index.md):** Section I: Safety, Health and Environment (SHE) Manual (SHE Management, Safety, Health, Environment, Penalties, Appendices, Instructions, Forms).
-
-* **[Financial Volume Index (Financial/index.md)](Financial/index.md)**
-  * **Section J (vol4_secJ.md):** Financial Document, Letter of Price Bid, Pricing Instructions, BOQ Abstract, and Schedules A, B, and C.
-
-* **[Addendum and Corrigendum Index (addendum_and_corrigendum/index.md)](addendum_and_corrigendum/index.md)**
-  * Official addenda and corrigenda issued during the tender bidding process.
+* [Technical Volumes (Technical/index.md)](Technical/index.md) — Volume 1 (Sections A–G: NIT, ITT, EQC, Letter of Technical Bid, GCC and Contract Data, SCC, Contract Forms), Volume 2 (Section H: Employer Requirements, Scope of Work and Technical Specifications) and Volume 3 (Section I: SHE Manual).
+* [Financial Volume (Financial/index.md)](Financial/index.md) — Volume 4, Section J: Letter of Price Bid, pricing instructions, BOQ abstract and BOQ schedules.
+* [Addendum and Corrigendum (addendum_and_corrigendum/index.md)](addendum_and_corrigendum/index.md) — Addendum and Corrigendum Nos. 1–3 (dated 01.10.2026, 08.10.2026 and 13.10.2026), amending NIT dates, GCC, Contract Data and SCC.

@@ -92,4 +92,3 @@ Corrigendum No. 3 explicitly amends serial 1 of this corrigendum and replaces th
 - Booklet page 001 identifies the affected original tender location.
 - Original tender wording and historical values must remain available.
 - Final transcription and applicability review remains pending.
->>>>>>> b1f5c9eb1f3986f540500a5c5ee639e92e9edc53

@@ -1,4 +1,5 @@
----type: tender_section
+---
+type: tender_section
 title: General Conditions of Contract and Contract Data
 status: source-derived
 source_document: Vol1DLNP1.pdf

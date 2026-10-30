@@ -1,4 +1,4 @@
-﻿# Financial Volume Index
+# Financial Volume Index
 
 This volume contains the financial proposal requirements and pricing structure for BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`.
 

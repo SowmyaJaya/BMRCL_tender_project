@@ -18,7 +18,7 @@ relations:
   - type: related_to
     target: OKF_bundle/Technical/Vol1/secF.md
   - type: related_to
-    target: OKF_bundle/Technical/Vol2/part3.md
+    target: OKF_bundle/Technical/Vol2/vol2_part3.md
 tags:
   - bmrcl
   - financial-document
