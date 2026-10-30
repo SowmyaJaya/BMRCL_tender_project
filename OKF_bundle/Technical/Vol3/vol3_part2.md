@@ -1,6 +1,5 @@
----
-type: tender_section
-title: "Employer Requirement, Scope of Work and Technical Specifications – Part II: Safety"
+---type: tender_section
+title: "Safety, Health and Environment Manual – Part II: Safety"
 status: source-derived
 source_document: Vol3DLNP1.pdf
 tender_no: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157
@@ -15,9 +14,15 @@ tags:
   - public-tender
   - she-manual
   - safety
+relations:
+  - type: belongs_to
+    target: index.md
+  - type: related_to
+    target: ../Vol1/secE.md
 ---
 
-# Employer Requirement, Scope of Work and Technical Specifications – Part II: Safety
+
+# Safety, Health and Environment Manual – Part II: Safety
 
 This part contains Part II (Safety) of Section I (SHE - Manual) in Volume 3 of BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`.
 

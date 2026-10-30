@@ -1,10 +1,9 @@
----
-type: tender_section
+---type: tender_section
 title: Special Conditions of Contract
 status: source-derived
 source_document: Vol1DLNP1.pdf
 tender_no: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157
-section: F or SCC
+section: "F"
 clause_range: "1-3"
 booklet_pages: "002"
 printed_page_numbers: "139"
@@ -23,7 +22,15 @@ tags:
   - metro-rail
   - demolition
   - phase-3
+relations:
+  - type: belongs_to
+    target: index.md
+  - type: related_to
+    target: secC.md
+  - type: related_to
+    target: secB.md
 ---
+
 
 # Special Conditions of Contract
 

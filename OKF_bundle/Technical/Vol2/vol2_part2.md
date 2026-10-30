@@ -1,5 +1,4 @@
----
-type: tender_section
+---type: tender_section
 title: "Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices"
 status: source-derived
 source_document: Vol2DLNP1.pdf
@@ -35,7 +34,13 @@ tags:
   - metro-rail
   - demolition
   - phase-3
+relations:
+  - type: belongs_to
+    target: index.md
+  - type: related_to
+    target: ../Vol1/secC.md
 ---
+
 
 # Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices
 

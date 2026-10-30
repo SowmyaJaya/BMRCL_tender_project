@@ -1,5 +1,4 @@
----
-type: tender_section
+---type: tender_section
 title: "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work and Annexures"
 status: source-derived
 source_document: Vol2DLNP1.pdf
@@ -7,8 +6,8 @@ tender_no: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157
 section: H
 part: "3"
 clause_range: "1-21"
-booklet_pages: "012-169"
-printed_page_numbers: "162-22"
+booklet_pages: "012-019"
+printed_page_numbers: "162-169"
 pdf_pages: "15-22"
 tags:
   - section-h
@@ -32,7 +31,13 @@ tags:
   - key-personnel
   - plant-and-equipment
   - annexures
+relations:
+  - type: belongs_to
+    target: index.md
+  - type: related_to
+    target: ../Vol1/secC.md
 ---
+
 
 # Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work
 

@@ -1,10 +1,9 @@
----
-type: tender_section
+---type: tender_section
 title: Contract Forms
 status: source-derived
 source_document: Vol1DLNP1.pdf
 tender_no: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157
-section: G
+section: "G"
 clause_range: ""
 booklet_pages: "140-150"
 pdf_pages: "146-156"
@@ -15,7 +14,15 @@ tags:
   - performance-security
   - bank-guarantee
   - insurance-surety-bond
+relations:
+  - type: belongs_to
+    target: index.md
+  - type: related_to
+    target: secC.md
+  - type: related_to
+    target: secB.md
 ---
+
 
 ### Contract Form 1 — Contract Agreement
 

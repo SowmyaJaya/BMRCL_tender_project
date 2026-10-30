@@ -1,10 +1,9 @@
----
-type: tender_section
+---type: tender_section
 title: Notice Inviting Tender
 status: source-derived
 source_document: Vol1DLNP1.pdf
 tender_no: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157
-section: A or NIT
+section: "A"
 clause_range: "Key Details 1-15; Instructions 1-8"
 booklet_pages: "001-002"
 pdf_pages: "7-8"
@@ -36,7 +35,15 @@ tags:
   - metro-rail
   - demolition
   - phase-3
+relations:
+  - type: belongs_to
+    target: index.md
+  - type: related_to
+    target: secC.md
+  - type: related_to
+    target: secB.md
 ---
+
 
 # Notice Inviting Tender
 
@@ -53,7 +60,7 @@ The NIT describes the invitation to tender, key commercial details, tender dates
 - **Inviting Organisation:** Bangalore Metro Rail Corporation Limited (BMRCL), a Joint Venture of the Government of Karnataka and the Government of India.
 - **Tendering Method:** Open e-tenders, Single stage – Two Cover System.
 - **Publication Portal:** CPP Portal, https://etenders.gov.in/eprocure/app.
-- **Eligible Applicants:** Applicants fulfilling the prescribed Eligibility cum Qualification Criteria (EQC).
+- **Eligible Applicants:** Applicants fulfilling the prescribed [[Vol1/secC|Eligibility cum Qualification Criteria]] (EQC).
 - **Project Scope:** Partial and Full Demolition/Dismantling of Buildings/Structures identified in Bangalore Metro Rail Project Phase-3.
 - **Contract Package:** P1.
 
@@ -202,7 +209,7 @@ The NIT describes the invitation to tender, key commercial details, tender dates
 
 <!-- Source: PDF page 8; NIT booklet page 002 -->
 
-- **Tender Security (EMD):** The tender must be accompanied by Tender Security as described in the Instructions to Tenderers (ITT).
+- **Tender Security (EMD):** The tender must be accompanied by Tender Security as described in the [[Vol1/secB|Instructions to Tenderers]] (ITT).
 
 ### Instruction 7 — Eligibility and Qualification
 

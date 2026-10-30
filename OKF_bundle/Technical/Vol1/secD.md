@@ -1,10 +1,9 @@
----
-type: tender_section
+---type: tender_section
 title: Letter of Technical Bid (Including Attachments)
 status: source-derived
 source_document: Vol1DLNP1.pdf
 tender_no: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157
-section: D or LTB
+section: "D"
 booklet_pages: "002-029"
 printed_page_numbers: "032-059"
 pdf_pages: "38-65"
@@ -34,7 +33,15 @@ tags:
   - metro-rail
   - demolition
   - phase-3
+relations:
+  - type: belongs_to
+    target: index.md
+  - type: related_to
+    target: secC.md
+  - type: related_to
+    target: secB.md
 ---
+
 
 # Letter of Technical Bid (Including Attachments)
 

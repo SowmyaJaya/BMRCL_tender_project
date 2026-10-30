@@ -1,6 +1,5 @@
----
-type: tender_section
-title: "Employer Requirement, Scope of Work and Technical Specifications – Part III: Occupational Health and Welfare"
+---type: tender_section
+title: "Safety, Health and Environment Manual – Part III: Occupational Health and Welfare"
 status: source-derived
 source_document: Vol3DLNP1.pdf
 tender_no: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157
@@ -16,9 +15,15 @@ tags:
   - she-manual
   - occupational-health
   - welfare
+relations:
+  - type: belongs_to
+    target: index.md
+  - type: related_to
+    target: ../Vol1/secE.md
 ---
 
-# Employer Requirement, Scope of Work and Technical Specifications – Part III: Occupational Health and Welfare
+
+# Safety, Health and Environment Manual – Part III: Occupational Health and Welfare
 
 This part contains Part III (Occupational Health and Welfare) of Section I (SHE - Manual) in Volume 3 of BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`.
 

@@ -1,10 +1,9 @@
----
-type: tender_section
+---type: tender_section
 title: Instructions to Tenderers
 status: source-derived
 source_document: Vol1DLNP1.pdf
 tender_no: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157
-section: B or ITT
+section: "B"
 clause_range: "1.0-31.0"
 booklet_pages: "002-016"
 pdf_pages: "11-25"
@@ -44,7 +43,15 @@ tags:
   - metro-rail
   - demolition
   - phase-3
+relations:
+  - type: belongs_to
+    target: index.md
+  - type: related_to
+    target: secC.md
+  - type: related_to
+    target: secB.md
 ---
+
 
 # Instructions to Tenderers
 

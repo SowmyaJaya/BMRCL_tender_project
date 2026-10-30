@@ -1,10 +1,9 @@
----
-type: tender_section
+---type: tender_section
 title: General Conditions of Contract and Contract Data
 status: source-derived
 source_document: Vol1DLNP1.pdf
 tender_no: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157
-section: E or GCC
+section: "E"
 clause_range: "1-18"
 booklet_pages: "005-078"
 printed_page_numbers: "064-137"
@@ -42,7 +41,15 @@ tags:
   - metro-rail
   - demolition
   - phase-3
+relations:
+  - type: belongs_to
+    target: index.md
+  - type: related_to
+    target: secC.md
+  - type: related_to
+    target: secB.md
 ---
+
 
 # General Conditions of Contract and Contract Data
 
