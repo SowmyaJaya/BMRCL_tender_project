@@ -158,6 +158,7 @@ Rules:
 ### Ingest
 
 Handle one OKF file plus its matching JSON at a time, in this order:
+
 NOTE : Use the OKF files as the map. Then pull only the specific JSON records you need (by clause and page), rather than loading whole files.
 
 1. Vol 1, Sections A to G
