@@ -1,5 +1,5 @@
 ---
-type: wiki_log
+type: log
 title: Wiki Activity Log
 generator: bmrcl-dynamic-wiki-v2
 status: draft
@@ -3939,3 +3939,133 @@ Correction manifest:
 - Kept the upstream schema and all source files unchanged. Original log/checkpoint markers preserved.
 - Fixed auditor handling of code examples; actual link/source validation remains enabled.
 - Human approval, latest-schema alignment and historical checkpoint interpretation remain pending. No API/Git operations or backup files.
+
+
+## 2026-11-01T14:33:52+00:00 — Align draft formatting with governing Sowmya schema
+
+<!-- sowmya_schema_alignment_v1 -->
+
+- Canonicalized page types and relation vocabulary. Sixteen active relation IDs changed; their text/endpoints/citations did not.
+- Added parameter/status tables, short source labels, required QA fields and wiki-pages-used lists.
+- Recorded 822 claim-level review items; no human approval inferred.
+- Added scoped old-to-new supersession displays and explicit pre-bid-replies scope exclusion.
+- Updated ingestion formatter and auditor for persistent schema checks and review-queue synchronization.
+- Log frontmatter type changed from wiki_log to log by this requested metadata migration; every existing log-body byte and checkpoint marker is preserved.
+- All 822 claim texts and citation payloads, original sources and governing SCHEMA.md remain unchanged. No API/Git operations or backups.
+
+```json
+[
+  {
+    "page": "cross_reference_master.md",
+    "old_id": "Cd14a8294b0dcad94",
+    "new_id": "C9193e9af12179888",
+    "from": "amends",
+    "to": "modifies"
+  },
+  {
+    "page": "timeline.md",
+    "old_id": "C30f00d0a103a7c1c",
+    "new_id": "Cf0c43e28782f64c9",
+    "from": "amends",
+    "to": "modifies"
+  },
+  {
+    "page": "timeline.md",
+    "old_id": "C5db507bb060ffcc8",
+    "new_id": "Ce6324e657dc80c63",
+    "from": "amends",
+    "to": "modifies"
+  },
+  {
+    "page": "timeline.md",
+    "old_id": "Ce39c05594693d66f",
+    "new_id": "C3203a5308d4d86a8",
+    "from": "amends",
+    "to": "modifies"
+  },
+  {
+    "page": "timeline.md",
+    "old_id": "C9e93a2f0165d6769",
+    "new_id": "C993e30598b37ee66",
+    "from": "amends",
+    "to": "modifies"
+  },
+  {
+    "page": "concepts/amendment_sequence_and_conflicts.md",
+    "old_id": "C65f8a1db37a4b5f6",
+    "new_id": "Cf311d90ab0a19024",
+    "from": "relates_to",
+    "to": "related_to"
+  },
+  {
+    "page": "concepts/bid_authority_and_submission_evidence.md",
+    "old_id": "Cc6de35b84b323b4d",
+    "new_id": "C114e3dae0df189e9",
+    "from": "relates_to",
+    "to": "related_to"
+  },
+  {
+    "page": "concepts/demolition_access_and_public_protection.md",
+    "old_id": "C474c7a6c3de97bbb",
+    "new_id": "C6d929b9d255a695c",
+    "from": "relates_to",
+    "to": "related_to"
+  },
+  {
+    "page": "concepts/financial_capacity_evidence.md",
+    "old_id": "C756893eed80b5d80",
+    "new_id": "C381820226b808256",
+    "from": "relates_to",
+    "to": "related_to"
+  },
+  {
+    "page": "concepts/personnel_and_plant_readiness.md",
+    "old_id": "C6d325e42c9d8a67a",
+    "new_id": "C7a58c4dc50ceaadd",
+    "from": "relates_to",
+    "to": "related_to"
+  },
+  {
+    "page": "concepts/restoration_quality_evidence.md",
+    "old_id": "Cf27f6c1c7335d7a7",
+    "new_id": "Ca357b43af7aa786f",
+    "from": "relates_to",
+    "to": "related_to"
+  },
+  {
+    "page": "concepts/salvage_ownership_and_credit.md",
+    "old_id": "C5a548af9fe960920",
+    "new_id": "Cfdb28c2cc67236ca",
+    "from": "relates_to",
+    "to": "related_to"
+  },
+  {
+    "page": "concepts/she_manual_appendices_overview.md",
+    "old_id": "Ce3066f824db7a730",
+    "new_id": "Cdd475acaab4a1ba5",
+    "from": "references",
+    "to": "cites"
+  },
+  {
+    "page": "concepts/she_manual_appendices_overview.md",
+    "old_id": "C1d570d9d666197df",
+    "new_id": "C9ebd4cef6b6fc964",
+    "from": "references",
+    "to": "cites"
+  },
+  {
+    "page": "concepts/similar_work_and_past_jv_evidence.md",
+    "old_id": "Cc743f262ad48ba6a",
+    "new_id": "C8d41394c3aa960b7",
+    "from": "relates_to",
+    "to": "related_to"
+  },
+  {
+    "page": "concepts/tender_security_by_stage.md",
+    "old_id": "Ca57d415d8c718c4e",
+    "new_id": "C11c9142cdc8964a5",
+    "from": "relates_to",
+    "to": "related_to"
+  }
+]
+```

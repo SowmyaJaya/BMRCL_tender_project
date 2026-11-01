@@ -10,48 +10,11 @@ updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-10-31T06:15:13+00:00'
 model: gemini-3.5-flash-lite
 sources:
-- okf_path: OKF_bundle/Technical/Vol1/secF.md
-  okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
-  source_document: Vol1DLNP1.pdf
-  json_path: parsed_json/vol1/section_f_scc/scc_entries.json
-  json_sha256: c5606227aaa98bf2f262ae9fac1e6698b62a3e84b24b1754cfb3138c22ef7e63
-  json_pointer: /entries/0
-  source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
-- okf_path: OKF_bundle/Technical/Vol1/secF.md
-  okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
-  source_document: Vol1DLNP1.pdf
-  json_path: parsed_json/vol1/section_f_scc/scc_entries.json
-  json_sha256: c5606227aaa98bf2f262ae9fac1e6698b62a3e84b24b1754cfb3138c22ef7e63
-  json_pointer: /index_page
-  source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
-- okf_path: OKF_bundle/Technical/Vol1/secF.md
-  okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
-  source_document: Vol1DLNP1.pdf
-  json_path: parsed_json/vol1/section_f_scc/scc_entries.json
-  json_sha256: c5606227aaa98bf2f262ae9fac1e6698b62a3e84b24b1754cfb3138c22ef7e63
-  json_pointer: /entries/2
-  source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
-- okf_path: OKF_bundle/Technical/Vol1/secF.md
-  okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
-  source_document: Vol1DLNP1.pdf
-  json_path: parsed_json/vol1/section_f_scc/scc_entries.json
-  json_sha256: c5606227aaa98bf2f262ae9fac1e6698b62a3e84b24b1754cfb3138c22ef7e63
-  json_pointer: /entries/1
-  source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
-- okf_path: OKF_bundle/Technical/Vol1/secF.md
-  okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
-  source_document: Vol1DLNP1.pdf
-  json_path: parsed_json/vol1/section_f_scc/scc_entries.json
-  json_sha256: c5606227aaa98bf2f262ae9fac1e6698b62a3e84b24b1754cfb3138c22ef7e63
-  json_pointer: /introduction/0
-  source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
-- okf_path: OKF_bundle/Technical/Vol1/secF.md
-  okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
-  source_document: Vol1DLNP1.pdf
+- OKF_bundle/Technical/Vol1/secF.md
+- parsed_json/vol1/section_f_scc/scc_entries.json
 claims:
 - kind: summary
-  text: Section F establishes the Special Conditions of Contract (SCC) for BMRCL Tender Package P1, supplementing
-    the General Conditions of Contract (GCC) and prevailing over GCC terms in the event of conflict.
+  text: Section F establishes the Special Conditions of Contract (SCC) for BMRCL Tender Package P1, supplementing the General Conditions of Contract (GCC) and prevailing over GCC terms in the event of conflict.
   evidence_ids:
   - J639db5fde72ee79f
   - J74c070076b1835e0
@@ -82,13 +45,7 @@ claims:
     json_pointer: /entries/0
     json_record_id: null
     source_review_status: pending_manual_review
-    quote: "{\n  \"change_type\": \"replace_definition\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 145,\n\
-      \      \"text\": \"1     Sub-Clause 1.1.6.7      Replace with the following\\n\\n                        \
-      \      “Works” means the work  to be executed  in accordance with the\\n                                 \
-      \   Contract  and  shall  include  Dismantling,  Demolition,  Restoration,\\n                            \
-      \    Permanent Works and Temporary Works.\"\n    }\n  ],\n  \"gcc_reference\": {\n    \"section\": \"E\",\n\
-      \    \"source_id\": \"bmrcl-volume-1\",\n    \"subclause_id\": \"1.1.6.7\"\n  },\n  \"gcc_subclause_id\":\
-      \ \"1.1.6.7\",\n  \"review_status\": \"pending_manual_review\",\n  \"scc_clause_id\": \"1\"\n}"
+    quote: "{\n  \"change_type\": \"replace_definition\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 145,\n      \"text\": \"1     Sub-Clause 1.1.6.7      Replace with the following\\n\\n                              “Works” means the work  to be executed  in accordance with the\\n                                    Contract  and  shall  include  Dismantling,  Demolition,  Restoration,\\n                                Permanent Works and Temporary Works.\"\n    }\n  ],\n  \"gcc_reference\": {\n    \"section\": \"E\",\n    \"source_id\": \"bmrcl-volume-1\",\n    \"subclause_id\": \"1.1.6.7\"\n  },\n  \"gcc_subclause_id\": \"1.1.6.7\",\n  \"review_status\": \"pending_manual_review\",\n  \"scc_clause_id\": \"1\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
   - id: J74c070076b1835e0
@@ -105,108 +62,7 @@ claims:
     json_pointer: /index_page
     json_record_id: null
     source_review_status: pending_manual_review
-    quote: "{\n  \"extraction_method\": \"geometric_sort\",\n  \"has_extracted_text\": true,\n  \"pdf_page\": 144,\n\
-      \  \"review_status\": \"pending_manual_review\",\n  \"rotation\": 0,\n  \"text\": \"138     BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157\
-      \             Special Conditions of Contract (SCC)\\n\\n\\n\\n                                Section-F:Special\
-      \ conditions of contract (SCC)\\n\\n\\n\\n\\n\\n                                     INDEX\\n       SCC  \
-      \  Reference\\n                                                                             Section\\n   \
-      \    Clause  to GCC Sub-                   Description\\n                                                \
-      \                  Page No.\\n         No.    Clause No.\\n\\n          1         1.1.6.7      Definitions\
-      \ –‘Works’                               2\\n\\n          2         7.11      Tests on Completion        \
-      \                      2\\n\\n          3          8.8      Consequences of Suspension                   \
-      \   2\\n\\n\\n\\n\\n\\n       Bangalore Metro Rail Corporation Ltd.              September - 2026        \
-      \      Section Page 1 of 2\",\n  \"text_blocks\": [\n    {\n      \"bbox\": [\n        64.91996765136719,\n\
-      \        37.128299713134766,\n        522.9405517578125,\n        45.57029724121094\n      ],\n      \"block_number\"\
-      : 0,\n      \"text\": \"BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                        Special Conditions\
-      \ of Contract (SCC) \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99990844726562,\n        47.448307037353516,\n\
-      \        74.76715087890625,\n        70.49192810058594\n      ],\n      \"block_number\": 1,\n      \"text\"\
-      : \" \\n \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        763.5091552734375,\n\
-      \        74.76715087890625,\n        772.8516235351562\n      ],\n      \"block_number\": 2,\n      \"text\"\
-      : \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        783.6478271484375,\n   \
-      \     532.1786499023438,\n        792.08984375\n      ],\n      \"block_number\": 3,\n      \"text\": \"Bangalore\
-      \ Metro Rail Corporation Ltd.                             September - 2026                          Section\
-      \ Page 1 of 2 \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        798.0477905273438,\n\
-      \        74.76715087890625,\n        821.0914306640625\n      ],\n      \"block_number\": 4,\n      \"text\"\
-      : \" \\n \\n\"\n    },\n    {\n      \"bbox\": [\n        196.31993103027344,\n        72.5494155883789,\n\
-      \        421.4485778808594,\n        81.89189147949219\n      ],\n      \"block_number\": 5,\n      \"text\"\
-      : \"Section-F:Special conditions of contract (SCC) \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99961853027344,\n\
-      \        84.0694351196289,\n        310.2070617675781,\n        129.03868103027344\n      ],\n      \"block_number\"\
-      : 6,\n      \"text\": \" \\n \\n \\n \\n\"\n    },\n    {\n      \"bbox\": [\n        84.47996520996094,\n\
-      \        131.76318359375,\n        319.9591979980469,\n        167.91868591308594\n      ],\n      \"block_number\"\
-      : 7,\n      \"text\": \"INDEX\\nSCC \\nClause \\n\"\n    },\n    {\n      \"bbox\": [\n        93.59996795654297,\n\
-      \        170.28314208984375,\n        114.42723846435547,\n        180.63865661621094\n      ],\n      \"\
-      block_number\": 8,\n      \"text\": \"No. \\n\"\n    },\n    {\n      \"bbox\": [\n        131.6399383544922,\n\
-      \        144.96319580078125,\n        197.11407470703125,\n        167.91868591308594\n      ],\n      \"\
-      block_number\": 9,\n      \"text\": \"Reference \\nto GCC Sub-\\n\"\n    },\n    {\n      \"bbox\": [\n  \
-      \      135.95993041992188,\n        170.28314208984375,\n        195.90719604492188,\n        180.63865661621094\n\
-      \      ],\n      \"block_number\": 10,\n      \"text\": \"Clause No. \\n\"\n    },\n    {\n      \"bbox\"\
-      : [\n        303.59954833984375,\n        151.20318603515625,\n        523.5071411132812,\n        174.27867126464844\n\
-      \      ],\n      \"block_number\": 11,\n      \"text\": \"Description \\nSection \\nPage No. \\n\"\n    },\n\
-      \    {\n      \"bbox\": [\n        99.47996520996094,\n        186.483154296875,\n        502.9854736328125,\n\
-      \        196.8386688232422\n      ],\n      \"block_number\": 12,\n      \"text\": \"1 \\n1.1.6.7 \\nDefinitions\
-      \ –‘Works’ \\n2 \\n\"\n    },\n    {\n      \"bbox\": [\n        99.47996520996094,\n        205.68310546875,\n\
-      \        502.9854736328125,\n        216.0386199951172\n      ],\n      \"block_number\": 13,\n      \"text\"\
-      : \"2 \\n7.11 \\nTests on Completion \\n2 \\n\"\n    },\n    {\n      \"bbox\": [\n        99.47996520996094,\n\
-      \        224.76312255859375,\n        502.9898986816406,\n        235.11863708496094\n      ],\n      \"block_number\"\
-      : 14,\n      \"text\": \"3 \\n8.8 \\nConsequences  of Suspension \\n2 \\n\"\n    },\n    {\n      \"bbox\"\
-      : [\n        71.99996948242188,\n        252.72314453125,\n        75.06725311279297,\n        263.0786437988281\n\
-      \      ],\n      \"block_number\": 15,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        270.72314453125,\n        75.06725311279297,\n        281.0786437988281\n\
-      \      ],\n      \"block_number\": 16,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        288.72314453125,\n        75.06725311279297,\n        299.0786437988281\n\
-      \      ],\n      \"block_number\": 17,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        306.72314453125,\n        75.06725311279297,\n        317.0786437988281\n\
-      \      ],\n      \"block_number\": 18,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        324.7231140136719,\n        75.06725311279297,\n        335.07861328125\n\
-      \      ],\n      \"block_number\": 19,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        342.7231140136719,\n        75.06725311279297,\n        353.07861328125\n\
-      \      ],\n      \"block_number\": 20,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        360.72308349609375,\n        75.06725311279297,\n        371.0785827636719\n\
-      \      ],\n      \"block_number\": 21,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        378.72308349609375,\n        75.06725311279297,\n        389.0785827636719\n\
-      \      ],\n      \"block_number\": 22,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        396.72308349609375,\n        75.06725311279297,\n        407.0785827636719\n\
-      \      ],\n      \"block_number\": 23,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        414.72308349609375,\n        75.06725311279297,\n        425.0785827636719\n\
-      \      ],\n      \"block_number\": 24,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        432.7230529785156,\n        75.06725311279297,\n        443.07855224609375\n\
-      \      ],\n      \"block_number\": 25,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        450.7230529785156,\n        75.06725311279297,\n        461.07855224609375\n\
-      \      ],\n      \"block_number\": 26,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        468.7230529785156,\n        75.06725311279297,\n        479.07855224609375\n\
-      \      ],\n      \"block_number\": 27,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        486.7230529785156,\n        75.06725311279297,\n        497.07855224609375\n\
-      \      ],\n      \"block_number\": 28,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        504.7230224609375,\n        75.06725311279297,\n        515.0785522460938\n\
-      \      ],\n      \"block_number\": 29,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        522.7230224609375,\n        75.06725311279297,\n        533.0785522460938\n\
-      \      ],\n      \"block_number\": 30,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        540.7230224609375,\n        75.06725311279297,\n        551.0785522460938\n\
-      \      ],\n      \"block_number\": 31,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        558.7230224609375,\n        75.06725311279297,\n        569.0785522460938\n\
-      \      ],\n      \"block_number\": 32,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        576.7230224609375,\n        75.06725311279297,\n        587.0785522460938\n\
-      \      ],\n      \"block_number\": 33,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        594.7230224609375,\n        75.06725311279297,\n        605.0785522460938\n\
-      \      ],\n      \"block_number\": 34,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        612.7230224609375,\n        75.06725311279297,\n        623.0785522460938\n\
-      \      ],\n      \"block_number\": 35,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        630.7230224609375,\n        75.06725311279297,\n        641.0785522460938\n\
-      \      ],\n      \"block_number\": 36,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        648.7229614257812,\n        75.06725311279297,\n        659.0784912109375\n\
-      \      ],\n      \"block_number\": 37,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        666.7229614257812,\n        75.06725311279297,\n        677.0784912109375\n\
-      \      ],\n      \"block_number\": 38,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        684.7229614257812,\n        75.06725311279297,\n        695.0784912109375\n\
-      \      ],\n      \"block_number\": 39,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        702.7229614257812,\n        75.06725311279297,\n        713.0784912109375\n\
-      \      ],\n      \"block_number\": 40,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        720.7229614257812,\n        75.06725311279297,\n        731.0784912109375\n\
-      \      ],\n      \"block_number\": 41,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   71.99996948242188,\n        738.7229614257812,\n        75.06725311279297,\n        749.0784912109375\n\
-      \      ],\n      \"block_number\": 42,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n     \
-      \   39.599998474121094,\n        24.479991912841797,\n        63.57600021362305,\n        41.38799285888672\n\
-      \      ],\n      \"block_number\": 43,\n      \"text\": \"138\\n\"\n    }\n  ]\n}"
+    quote: "{\n  \"extraction_method\": \"geometric_sort\",\n  \"has_extracted_text\": true,\n  \"pdf_page\": 144,\n  \"review_status\": \"pending_manual_review\",\n  \"rotation\": 0,\n  \"text\": \"138     BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157             Special Conditions of Contract (SCC)\\n\\n\\n\\n                                Section-F:Special conditions of contract (SCC)\\n\\n\\n\\n\\n\\n                                     INDEX\\n       SCC    Reference\\n                                                                             Section\\n       Clause  to GCC Sub-                   Description\\n                                                                  Page No.\\n         No.    Clause No.\\n\\n          1         1.1.6.7      Definitions –‘Works’                               2\\n\\n          2         7.11      Tests on Completion                              2\\n\\n          3          8.8      Consequences of Suspension                      2\\n\\n\\n\\n\\n\\n       Bangalore Metro Rail Corporation Ltd.              September - 2026              Section Page 1 of 2\",\n  \"text_blocks\": [\n    {\n      \"bbox\": [\n        64.91996765136719,\n        37.128299713134766,\n        522.9405517578125,\n        45.57029724121094\n      ],\n      \"block_number\": 0,\n      \"text\": \"BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157                        Special Conditions of Contract (SCC) \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99990844726562,\n        47.448307037353516,\n        74.76715087890625,\n        70.49192810058594\n      ],\n      \"block_number\": 1,\n      \"text\": \" \\n \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        763.5091552734375,\n        74.76715087890625,\n        772.8516235351562\n      ],\n      \"block_number\": 2,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        783.6478271484375,\n        532.1786499023438,\n        792.08984375\n      ],\n      \"block_number\": 3,\n      \"text\": \"Bangalore Metro Rail Corporation Ltd.                             September - 2026                          Section Page 1 of 2 \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        798.0477905273438,\n        74.76715087890625,\n        821.0914306640625\n      ],\n      \"block_number\": 4,\n      \"text\": \" \\n \\n\"\n    },\n    {\n      \"bbox\": [\n        196.31993103027344,\n        72.5494155883789,\n        421.4485778808594,\n        81.89189147949219\n      ],\n      \"block_number\": 5,\n      \"text\": \"Section-F:Special conditions of contract (SCC) \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99961853027344,\n        84.0694351196289,\n        310.2070617675781,\n        129.03868103027344\n      ],\n      \"block_number\": 6,\n      \"text\": \" \\n \\n \\n \\n\"\n    },\n    {\n      \"bbox\": [\n        84.47996520996094,\n        131.76318359375,\n        319.9591979980469,\n        167.91868591308594\n      ],\n      \"block_number\": 7,\n      \"text\": \"INDEX\\nSCC \\nClause \\n\"\n    },\n    {\n      \"bbox\": [\n        93.59996795654297,\n        170.28314208984375,\n        114.42723846435547,\n        180.63865661621094\n      ],\n      \"block_number\": 8,\n      \"text\": \"No. \\n\"\n    },\n    {\n      \"bbox\": [\n        131.6399383544922,\n        144.96319580078125,\n        197.11407470703125,\n        167.91868591308594\n      ],\n      \"block_number\": 9,\n      \"text\": \"Reference \\nto GCC Sub-\\n\"\n    },\n    {\n      \"bbox\": [\n        135.95993041992188,\n        170.28314208984375,\n        195.90719604492188,\n        180.63865661621094\n      ],\n      \"block_number\": 10,\n      \"text\": \"Clause No. \\n\"\n    },\n    {\n      \"bbox\": [\n        303.59954833984375,\n        151.20318603515625,\n        523.5071411132812,\n        174.27867126464844\n      ],\n      \"block_number\": 11,\n      \"text\": \"Description \\nSection \\nPage No. \\n\"\n    },\n    {\n      \"bbox\": [\n        99.47996520996094,\n        186.483154296875,\n        502.9854736328125,\n        196.8386688232422\n      ],\n      \"block_number\": 12,\n      \"text\": \"1 \\n1.1.6.7 \\nDefinitions –‘Works’ \\n2 \\n\"\n    },\n    {\n      \"bbox\": [\n        99.47996520996094,\n        205.68310546875,\n        502.9854736328125,\n        216.0386199951172\n      ],\n      \"block_number\": 13,\n      \"text\": \"2 \\n7.11 \\nTests on Completion \\n2 \\n\"\n    },\n    {\n      \"bbox\": [\n        99.47996520996094,\n        224.76312255859375,\n        502.9898986816406,\n        235.11863708496094\n      ],\n      \"block_number\": 14,\n      \"text\": \"3 \\n8.8 \\nConsequences  of Suspension \\n2 \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        252.72314453125,\n        75.06725311279297,\n        263.0786437988281\n      ],\n      \"block_number\": 15,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        270.72314453125,\n        75.06725311279297,\n        281.0786437988281\n      ],\n      \"block_number\": 16,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        288.72314453125,\n        75.06725311279297,\n        299.0786437988281\n      ],\n      \"block_number\": 17,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        306.72314453125,\n        75.06725311279297,\n        317.0786437988281\n      ],\n      \"block_number\": 18,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        324.7231140136719,\n        75.06725311279297,\n        335.07861328125\n      ],\n      \"block_number\": 19,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        342.7231140136719,\n        75.06725311279297,\n        353.07861328125\n      ],\n      \"block_number\": 20,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        360.72308349609375,\n        75.06725311279297,\n        371.0785827636719\n      ],\n      \"block_number\": 21,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        378.72308349609375,\n        75.06725311279297,\n        389.0785827636719\n      ],\n      \"block_number\": 22,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        396.72308349609375,\n        75.06725311279297,\n        407.0785827636719\n      ],\n      \"block_number\": 23,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        414.72308349609375,\n        75.06725311279297,\n        425.0785827636719\n      ],\n      \"block_number\": 24,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        432.7230529785156,\n        75.06725311279297,\n        443.07855224609375\n      ],\n      \"block_number\": 25,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        450.7230529785156,\n        75.06725311279297,\n        461.07855224609375\n      ],\n      \"block_number\": 26,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        468.7230529785156,\n        75.06725311279297,\n        479.07855224609375\n      ],\n      \"block_number\": 27,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        486.7230529785156,\n        75.06725311279297,\n        497.07855224609375\n      ],\n      \"block_number\": 28,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        504.7230224609375,\n        75.06725311279297,\n        515.0785522460938\n      ],\n      \"block_number\": 29,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        522.7230224609375,\n        75.06725311279297,\n        533.0785522460938\n      ],\n      \"block_number\": 30,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        540.7230224609375,\n        75.06725311279297,\n        551.0785522460938\n      ],\n      \"block_number\": 31,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        558.7230224609375,\n        75.06725311279297,\n        569.0785522460938\n      ],\n      \"block_number\": 32,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        576.7230224609375,\n        75.06725311279297,\n        587.0785522460938\n      ],\n      \"block_number\": 33,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        594.7230224609375,\n        75.06725311279297,\n        605.0785522460938\n      ],\n      \"block_number\": 34,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        612.7230224609375,\n        75.06725311279297,\n        623.0785522460938\n      ],\n      \"block_number\": 35,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        630.7230224609375,\n        75.06725311279297,\n        641.0785522460938\n      ],\n      \"block_number\": 36,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        648.7229614257812,\n        75.06725311279297,\n        659.0784912109375\n      ],\n      \"block_number\": 37,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        666.7229614257812,\n        75.06725311279297,\n        677.0784912109375\n      ],\n      \"block_number\": 38,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        684.7229614257812,\n        75.06725311279297,\n        695.0784912109375\n      ],\n      \"block_number\": 39,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        702.7229614257812,\n        75.06725311279297,\n        713.0784912109375\n      ],\n      \"block_number\": 40,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        720.7229614257812,\n        75.06725311279297,\n        731.0784912109375\n      ],\n      \"block_number\": 41,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        71.99996948242188,\n        738.7229614257812,\n        75.06725311279297,\n        749.0784912109375\n      ],\n      \"block_number\": 42,\n      \"text\": \" \\n\"\n    },\n    {\n      \"bbox\": [\n        39.599998474121094,\n        24.479991912841797,\n        63.57600021362305,\n        41.38799285888672\n      ],\n      \"block_number\": 43,\n      \"text\": \"138\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
   - id: Jb0f2f3592fad0ed6
@@ -223,14 +79,7 @@ claims:
     json_pointer: /entries/2
     json_record_id: null
     source_review_status: pending_manual_review
-    quote: "{\n  \"change_type\": \"delete_specified_paragraph_and_following_table\",\n  \"fragments\": [\n    {\n\
-      \      \"pdf_page\": 145,\n      \"text\": \"3     Sub-Clause 8.8         Following Para of the sub- clause\
-      \ 8.8 along with the contents of the\\n         Consequences     of  table provided after this para stands\
-      \ deleted;\\n          Suspension                    “If suspension is ordered by the Engineer for reasons\
-      \ other than those\\n                                 mentioned in Sub Clause 8.8 ……………………….against this decision”.\"\
-      \n    }\n  ],\n  \"gcc_reference\": {\n    \"section\": \"E\",\n    \"source_id\": \"bmrcl-volume-1\",\n \
-      \   \"subclause_id\": \"8.8\"\n  },\n  \"gcc_subclause_id\": \"8.8\",\n  \"review_status\": \"pending_manual_review\"\
-      ,\n  \"scc_clause_id\": \"3\"\n}"
+    quote: "{\n  \"change_type\": \"delete_specified_paragraph_and_following_table\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 145,\n      \"text\": \"3     Sub-Clause 8.8         Following Para of the sub- clause 8.8 along with the contents of the\\n         Consequences     of  table provided after this para stands deleted;\\n          Suspension                    “If suspension is ordered by the Engineer for reasons other than those\\n                                 mentioned in Sub Clause 8.8 ……………………….against this decision”.\"\n    }\n  ],\n  \"gcc_reference\": {\n    \"section\": \"E\",\n    \"source_id\": \"bmrcl-volume-1\",\n    \"subclause_id\": \"8.8\"\n  },\n  \"gcc_subclause_id\": \"8.8\",\n  \"review_status\": \"pending_manual_review\",\n  \"scc_clause_id\": \"3\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
   - id: J9190be7ff053bc1d
@@ -247,11 +96,7 @@ claims:
     json_pointer: /entries/1
     json_record_id: null
     source_review_status: pending_manual_review
-    quote: "{\n  \"change_type\": \"delete_entire_subclause\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 145,\n\
-      \      \"text\": \"2     Sub-Clause 7.11          Entire sub- clause 7.11 of GCC is Deleted.\\n\\n       \
-      \   Tests on Completion\"\n    }\n  ],\n  \"gcc_reference\": {\n    \"section\": \"E\",\n    \"source_id\"\
-      : \"bmrcl-volume-1\",\n    \"subclause_id\": \"7.11\"\n  },\n  \"gcc_subclause_id\": \"7.11\",\n  \"review_status\"\
-      : \"pending_manual_review\",\n  \"scc_clause_id\": \"2\"\n}"
+    quote: "{\n  \"change_type\": \"delete_entire_subclause\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 145,\n      \"text\": \"2     Sub-Clause 7.11          Entire sub- clause 7.11 of GCC is Deleted.\\n\\n          Tests on Completion\"\n    }\n  ],\n  \"gcc_reference\": {\n    \"section\": \"E\",\n    \"source_id\": \"bmrcl-volume-1\",\n    \"subclause_id\": \"7.11\"\n  },\n  \"gcc_subclause_id\": \"7.11\",\n  \"review_status\": \"pending_manual_review\",\n  \"scc_clause_id\": \"2\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
   - id: Jd464e398d37b5798
@@ -268,9 +113,7 @@ claims:
     json_pointer: /introduction/0
     json_record_id: null
     source_review_status: pending_manual_review
-    quote: "{\n  \"pdf_page\": 145,\n  \"text\": \"Following Special Conditions of Contract (SCC) shall be in addition\
-      \ to the General Conditions of\\n Contract (GCC). Wherever there is a conflict, the provisions here in (SCC)\
-      \ shall prevail over those\\n  in the GCC.\\n\\n\\n\\n  SCC  GCC\\n Clause  Sub-Clause\\n  No\"\n}"
+    quote: "{\n  \"pdf_page\": 145,\n  \"text\": \"Following Special Conditions of Contract (SCC) shall be in addition to the General Conditions of\\n Contract (GCC). Wherever there is a conflict, the provisions here in (SCC) shall prevail over those\\n  in the GCC.\\n\\n\\n\\n  SCC  GCC\\n Clause  Sub-Clause\\n  No\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
   - id: S9d106ce8e4f66b73
@@ -292,13 +135,10 @@ claims:
     source_document: Vol1DLNP1.pdf
     pdf_pages:
     - 145
-    quote: 'This section contains the Special Conditions of Contract (SCC) for BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`,
-      concerning partial and full demolition or dismantling of buildings and structures identified for Bangalore
-      Metro Rail Project Phase 3.
+    quote: 'This section contains the Special Conditions of Contract (SCC) for BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`, concerning partial and full demolition or dismantling of buildings and structures identified for Bangalore Metro Rail Project Phase 3.
 
 
-      The SCC applies in addition to the General Conditions of Contract (GCC). Where the two conflict, the SCC prevails.
-      It contains three entries, each modifying a specific GCC sub-clause.'
+      The SCC applies in addition to the General Conditions of Contract (GCC). Where the two conflict, the SCC prevails. It contains three entries, each modifying a specific GCC sub-clause.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: document_metadata_range
   - id: Sacac772d85c09455
@@ -346,8 +186,7 @@ claims:
     migration_manifest: output/provenance_migration/rebase_v1/migration.json
   last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
-  text: SCC Clause 1 amends GCC Sub-Clause 1.1.6.7 to define 'Works' as including Dismantling, Demolition, Restoration,
-    Permanent Works, and Temporary Works.
+  text: SCC Clause 1 amends GCC Sub-Clause 1.1.6.7 to define 'Works' as including Dismantling, Demolition, Restoration, Permanent Works, and Temporary Works.
   evidence_ids:
   - J639db5fde72ee79f
   - S5239599fbd1aead4
@@ -371,13 +210,7 @@ claims:
     json_pointer: /entries/0
     json_record_id: null
     source_review_status: pending_manual_review
-    quote: "{\n  \"change_type\": \"replace_definition\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 145,\n\
-      \      \"text\": \"1     Sub-Clause 1.1.6.7      Replace with the following\\n\\n                        \
-      \      “Works” means the work  to be executed  in accordance with the\\n                                 \
-      \   Contract  and  shall  include  Dismantling,  Demolition,  Restoration,\\n                            \
-      \    Permanent Works and Temporary Works.\"\n    }\n  ],\n  \"gcc_reference\": {\n    \"section\": \"E\",\n\
-      \    \"source_id\": \"bmrcl-volume-1\",\n    \"subclause_id\": \"1.1.6.7\"\n  },\n  \"gcc_subclause_id\":\
-      \ \"1.1.6.7\",\n  \"review_status\": \"pending_manual_review\",\n  \"scc_clause_id\": \"1\"\n}"
+    quote: "{\n  \"change_type\": \"replace_definition\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 145,\n      \"text\": \"1     Sub-Clause 1.1.6.7      Replace with the following\\n\\n                              “Works” means the work  to be executed  in accordance with the\\n                                    Contract  and  shall  include  Dismantling,  Demolition,  Restoration,\\n                                Permanent Works and Temporary Works.\"\n    }\n  ],\n  \"gcc_reference\": {\n    \"section\": \"E\",\n    \"source_id\": \"bmrcl-volume-1\",\n    \"subclause_id\": \"1.1.6.7\"\n  },\n  \"gcc_subclause_id\": \"1.1.6.7\",\n  \"review_status\": \"pending_manual_review\",\n  \"scc_clause_id\": \"1\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
   - id: S5239599fbd1aead4
@@ -432,11 +265,7 @@ claims:
     json_pointer: /entries/1
     json_record_id: null
     source_review_status: pending_manual_review
-    quote: "{\n  \"change_type\": \"delete_entire_subclause\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 145,\n\
-      \      \"text\": \"2     Sub-Clause 7.11          Entire sub- clause 7.11 of GCC is Deleted.\\n\\n       \
-      \   Tests on Completion\"\n    }\n  ],\n  \"gcc_reference\": {\n    \"section\": \"E\",\n    \"source_id\"\
-      : \"bmrcl-volume-1\",\n    \"subclause_id\": \"7.11\"\n  },\n  \"gcc_subclause_id\": \"7.11\",\n  \"review_status\"\
-      : \"pending_manual_review\",\n  \"scc_clause_id\": \"2\"\n}"
+    quote: "{\n  \"change_type\": \"delete_entire_subclause\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 145,\n      \"text\": \"2     Sub-Clause 7.11          Entire sub- clause 7.11 of GCC is Deleted.\\n\\n          Tests on Completion\"\n    }\n  ],\n  \"gcc_reference\": {\n    \"section\": \"E\",\n    \"source_id\": \"bmrcl-volume-1\",\n    \"subclause_id\": \"7.11\"\n  },\n  \"gcc_subclause_id\": \"7.11\",\n  \"review_status\": \"pending_manual_review\",\n  \"scc_clause_id\": \"2\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
   - id: Sacac772d85c09455
@@ -463,8 +292,7 @@ claims:
     migration_manifest: output/provenance_migration/rebase_v1/migration.json
   last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
-  text: SCC Clause 3 deletes a specific paragraph and the subsequent table within GCC Sub-Clause 8.8 regarding the
-    consequences of suspension ordered for reasons other than those mentioned in the sub-clause.
+  text: SCC Clause 3 deletes a specific paragraph and the subsequent table within GCC Sub-Clause 8.8 regarding the consequences of suspension ordered for reasons other than those mentioned in the sub-clause.
   evidence_ids:
   - Jb0f2f3592fad0ed6
   - S9d106ce8e4f66b73
@@ -488,14 +316,7 @@ claims:
     json_pointer: /entries/2
     json_record_id: null
     source_review_status: pending_manual_review
-    quote: "{\n  \"change_type\": \"delete_specified_paragraph_and_following_table\",\n  \"fragments\": [\n    {\n\
-      \      \"pdf_page\": 145,\n      \"text\": \"3     Sub-Clause 8.8         Following Para of the sub- clause\
-      \ 8.8 along with the contents of the\\n         Consequences     of  table provided after this para stands\
-      \ deleted;\\n          Suspension                    “If suspension is ordered by the Engineer for reasons\
-      \ other than those\\n                                 mentioned in Sub Clause 8.8 ……………………….against this decision”.\"\
-      \n    }\n  ],\n  \"gcc_reference\": {\n    \"section\": \"E\",\n    \"source_id\": \"bmrcl-volume-1\",\n \
-      \   \"subclause_id\": \"8.8\"\n  },\n  \"gcc_subclause_id\": \"8.8\",\n  \"review_status\": \"pending_manual_review\"\
-      ,\n  \"scc_clause_id\": \"3\"\n}"
+    quote: "{\n  \"change_type\": \"delete_specified_paragraph_and_following_table\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 145,\n      \"text\": \"3     Sub-Clause 8.8         Following Para of the sub- clause 8.8 along with the contents of the\\n         Consequences     of  table provided after this para stands deleted;\\n          Suspension                    “If suspension is ordered by the Engineer for reasons other than those\\n                                 mentioned in Sub Clause 8.8 ……………………….against this decision”.\"\n    }\n  ],\n  \"gcc_reference\": {\n    \"section\": \"E\",\n    \"source_id\": \"bmrcl-volume-1\",\n    \"subclause_id\": \"8.8\"\n  },\n  \"gcc_subclause_id\": \"8.8\",\n  \"review_status\": \"pending_manual_review\",\n  \"scc_clause_id\": \"3\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
   - id: S9d106ce8e4f66b73
@@ -530,60 +351,82 @@ entity_relations:
   evidence_ids:
   - J639db5fde72ee79f
 last_provenance_migrated: '2026-11-01T13:54:09+00:00'
+last_schema_aligned: '2026-11-01T14:33:52+00:00'
 ---
 
 # Special Conditions of Contract (SCC) Overview
 
-> Draft model-derived knowledge. Citation validation establishes supplied-source provenance, not interpretation correctness.
+> Draft source synthesis. Pending PDF and human review; no compliance or applicability decision.
 
 ## Summary
 
-- Section F establishes the Special Conditions of Contract (SCC) for BMRCL Tender Package P1, supplementing the General Conditions of Contract (GCC) and prevailing over GCC terms in the event of conflict.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `J639db5fde72ee79f`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 144; quotation `J74c070076b1835e0`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/index_page`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Jb0f2f3592fad0ed6`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `J9190be7ff053bc1d`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Jd464e398d37b5798`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/introduction/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 3 — Consequences of Suspension|SCC Clause 3 — Consequences of Suspension]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `S9d106ce8e4f66b73`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Sabfd28a0d43f8d73`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 2 — Tests on Completion|SCC Clause 2 — Tests on Completion]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Sacac772d85c09455`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 1 — Definitions: "Works"|SCC Clause 1 — Definitions: "Works"]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `S5239599fbd1aead4`.
+Section F establishes the Special Conditions of Contract (SCC) for BMRCL Tender Package P1, supplementing the General Conditions of Contract (GCC) and prevailing over GCC terms in the event of conflict. [^e1] [^e2] [^e3] [^e4] [^e5] [^e6] [^e7] [^e8] [^e9]
 
-## Key Parameters and Source Statements
+The cited source statements remain provisional pending recorded review.
 
-- SCC Clause 1 amends GCC Sub-Clause 1.1.6.7 to define 'Works' as including Dismantling, Demolition, Restoration, Permanent Works, and Temporary Works.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `J639db5fde72ee79f`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 1 — Definitions: "Works"|SCC Clause 1 — Definitions: "Works"]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `S5239599fbd1aead4`.
+## Key parameters
 
-- SCC Clause 2 deletes the entirety of GCC Sub-Clause 7.11 concerning Tests on Completion.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `J9190be7ff053bc1d`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 2 — Tests on Completion|SCC Clause 2 — Tests on Completion]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Sacac772d85c09455`.
+| Parameter | Value | Citation | Status |
+|---|---|---|---|
+| SCC 1 — Cb8192710708f9acf | SCC Clause 1 amends GCC Sub-Clause 1.1.6.7 to define 'Works' as including Dismantling, Demolition, Restoration, Permanent Works, and Temporary Works. | [^e1] [^e9] | Pending review |
+| SCC 2 — C4c42bb7159edc953 | SCC Clause 2 deletes the entirety of GCC Sub-Clause 7.11 concerning Tests on Completion. | [^e4] [^e8] | Pending review |
+| SCC 3 — C6526da19fbac9c58 | SCC Clause 3 deletes a specific paragraph and the subsequent table within GCC Sub-Clause 8.8 regarding the consequences of suspension ordered for reasons other than those mentioned in the sub-clause. | [^e3] [^e6] | Pending review |
 
-- SCC Clause 3 deletes a specific paragraph and the subsequent table within GCC Sub-Clause 8.8 regarding the consequences of suspension ordered for reasons other than those mentioned in the sub-clause.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Jb0f2f3592fad0ed6`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 3 — Consequences of Suspension|SCC Clause 3 — Consequences of Suspension]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `S9d106ce8e4f66b73`.
+## Where it appears
 
-## Source Headings
-- [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]
-- [[OKF_bundle/Technical/Vol1/secF#SCC Clause 3 — Consequences of Suspension|SCC Clause 3 — Consequences of Suspension]]
-- [[OKF_bundle/Technical/Vol1/secF#SCC Clause 2 — Tests on Completion|SCC Clause 2 — Tests on Completion]]
-- [[OKF_bundle/Technical/Vol1/secF#SCC Clause 1 — Definitions: "Works"|SCC Clause 1 — Definitions: "Works"]]
+- [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC 1]], `Vol1DLNP1.pdf`, PDF p. 145 (`parsed_json/vol1/section_f_scc/scc_entries.json#/entries/0`)
+- [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC]], `Vol1DLNP1.pdf`, PDF p. 144 (`parsed_json/vol1/section_f_scc/scc_entries.json#/index_page`)
+- [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC 3]], `Vol1DLNP1.pdf`, PDF p. 145 (`parsed_json/vol1/section_f_scc/scc_entries.json#/entries/2`)
+- [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC 2]], `Vol1DLNP1.pdf`, PDF p. 145 (`parsed_json/vol1/section_f_scc/scc_entries.json#/entries/1`)
+- [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC]], `Vol1DLNP1.pdf`, PDF p. 145 (`parsed_json/vol1/section_f_scc/scc_entries.json#/introduction/0`)
+- [[OKF_bundle/Technical/Vol1/secF#SCC Clause 3 — Consequences of Suspension|SCC 3]], `Vol1DLNP1.pdf`, PDF p. 145
+- [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC]], `Vol1DLNP1.pdf`, PDF p. 145
+- [[OKF_bundle/Technical/Vol1/secF#SCC Clause 2 — Tests on Completion|SCC 2]], `Vol1DLNP1.pdf`, PDF p. 145
+- [[OKF_bundle/Technical/Vol1/secF#SCC Clause 1 — Definitions: "Works"|SCC 1]], `Vol1DLNP1.pdf`, PDF p. 145
 
-## Typed Relations
+## Relations
 
-- **belongs_to (editorial, inferred):** [[wiki/index|BMRCL Wiki Index]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; `J639db5fde72ee79f`.
+| Source | Relation | Target | Classification | Citation | Status |
+|---|---|---|---|---|---|
 
-## Open Questions and Contradictions
+- **belongs_to (inferred editorial navigation):** [[wiki/index|BMRCL Wiki Index]]. [^e1]
 
-No additional contradiction is recorded on this page. PDF verification and full cross-source comparison remain pending; absence of a recorded question is not approval.
+## Open questions and contradictions
+
+No additional conflict is recorded on this page. Verification remains open in [[wiki/review_queue|the review queue]]; absence of a recorded contradiction is not approval.
+
+## Amendment states
+
+Historical source quotations are retained. A superseded field or deleted subclause does not make the entire page superseded.
+
+| Parameter | Value | Citation | Status |
+|---|---|---|---|
+
+## Additional source statements
+
+
+## Claim register
+
+Claim IDs and evidence records are retained in frontmatter. Every draft claim has an entry in [[wiki/review_queue|the claim-level review queue]].
+
+## Citation notes
+
+[^e1]: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC 1]], `Vol1DLNP1.pdf`, PDF p. 145 (`parsed_json/vol1/section_f_scc/scc_entries.json#/entries/0`)
+[^e2]: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC]], `Vol1DLNP1.pdf`, PDF p. 144 (`parsed_json/vol1/section_f_scc/scc_entries.json#/index_page`)
+[^e3]: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC 3]], `Vol1DLNP1.pdf`, PDF p. 145 (`parsed_json/vol1/section_f_scc/scc_entries.json#/entries/2`)
+[^e4]: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC 2]], `Vol1DLNP1.pdf`, PDF p. 145 (`parsed_json/vol1/section_f_scc/scc_entries.json#/entries/1`)
+[^e5]: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC]], `Vol1DLNP1.pdf`, PDF p. 145 (`parsed_json/vol1/section_f_scc/scc_entries.json#/introduction/0`)
+[^e6]: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 3 — Consequences of Suspension|SCC 3]], `Vol1DLNP1.pdf`, PDF p. 145
+[^e7]: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC]], `Vol1DLNP1.pdf`, PDF p. 145
+[^e8]: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 2 — Tests on Completion|SCC 2]], `Vol1DLNP1.pdf`, PDF p. 145
+[^e9]: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 1 — Definitions: "Works"|SCC 1]], `Vol1DLNP1.pdf`, PDF p. 145
 
 <details>
 <summary>Supporting source passages</summary>
 
 ### J639db5fde72ee79f
 
-[[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]
+[[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC 1]], `Vol1DLNP1.pdf`, PDF p. 145 (`parsed_json/vol1/section_f_scc/scc_entries.json#/entries/0`)
 
 > {
 >   "change_type": "replace_definition",
@@ -605,7 +448,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 
 ### J74c070076b1835e0
 
-[[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]
+[[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC]], `Vol1DLNP1.pdf`, PDF p. 144 (`parsed_json/vol1/section_f_scc/scc_entries.json#/index_page`)
 
 > {
 >   "extraction_method": "geometric_sort",
@@ -1060,7 +903,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 
 ### Jb0f2f3592fad0ed6
 
-[[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]
+[[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC 3]], `Vol1DLNP1.pdf`, PDF p. 145 (`parsed_json/vol1/section_f_scc/scc_entries.json#/entries/2`)
 
 > {
 >   "change_type": "delete_specified_paragraph_and_following_table",
@@ -1082,7 +925,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 
 ### J9190be7ff053bc1d
 
-[[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]
+[[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC 2]], `Vol1DLNP1.pdf`, PDF p. 145 (`parsed_json/vol1/section_f_scc/scc_entries.json#/entries/1`)
 
 > {
 >   "change_type": "delete_entire_subclause",
@@ -1104,7 +947,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 
 ### Jd464e398d37b5798
 
-[[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]
+[[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC]], `Vol1DLNP1.pdf`, PDF p. 145 (`parsed_json/vol1/section_f_scc/scc_entries.json#/introduction/0`)
 
 > {
 >   "pdf_page": 145,
@@ -1113,14 +956,14 @@ No additional contradiction is recorded on this page. PDF verification and full 
 
 ### S9d106ce8e4f66b73
 
-[[OKF_bundle/Technical/Vol1/secF#SCC Clause 3 — Consequences of Suspension|SCC Clause 3 — Consequences of Suspension]]
+[[OKF_bundle/Technical/Vol1/secF#SCC Clause 3 — Consequences of Suspension|SCC 3]], `Vol1DLNP1.pdf`, PDF p. 145
 
 > - **Deletion of Paragraph on Suspension Ordered for Other Reasons** (GCC Sub-Clause 8.8)
 > - **Deletion of the Table Following the Paragraph** (GCC Sub-Clause 8.8)
 
 ### Sabfd28a0d43f8d73
 
-[[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]
+[[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC]], `Vol1DLNP1.pdf`, PDF p. 145
 
 > This section contains the Special Conditions of Contract (SCC) for BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`, concerning partial and full demolition or dismantling of buildings and structures identified for Bangalore Metro Rail Project Phase 3.
 > 
@@ -1128,18 +971,16 @@ No additional contradiction is recorded on this page. PDF verification and full 
 
 ### Sacac772d85c09455
 
-[[OKF_bundle/Technical/Vol1/secF#SCC Clause 2 — Tests on Completion|SCC Clause 2 — Tests on Completion]]
+[[OKF_bundle/Technical/Vol1/secF#SCC Clause 2 — Tests on Completion|SCC 2]], `Vol1DLNP1.pdf`, PDF p. 145
 
 > - **Deletion of the Entire Sub-Clause** (GCC Sub-Clause 7.11)
 
 ### S5239599fbd1aead4
 
-[[OKF_bundle/Technical/Vol1/secF#SCC Clause 1 — Definitions: "Works"|SCC Clause 1 — Definitions: "Works"]]
+[[OKF_bundle/Technical/Vol1/secF#SCC Clause 1 — Definitions: "Works"|SCC 1]], `Vol1DLNP1.pdf`, PDF p. 145
 
 > - **Replacement of the Definition of "Works"** (GCC Sub-Clause 1.1.6.7)
 > - **Scope Includes Dismantling, Demolition and Restoration**
 > - **Scope Includes Permanent Works and Temporary Works**
 
 </details>
-
-Supporting passages retain OKF text or selected JSON record values; PDF references were not independently checked against the PDF in this operation. Historical dates are not live-deadline advice.

@@ -102,6 +102,11 @@ def run_audit(project):
         relative = path.relative_to(project).as_posix()
 
         try:
+            _raw_wiki = path.read_bytes()
+            if _raw_wiki.startswith(b"\xef\xbb\xbf"):
+                error("schema_utf8_bom", relative, "Wiki frontmatter must be UTF-8 without BOM")
+            if not re.match(rb"^---\r?\n", _raw_wiki):
+                error("schema_frontmatter_delimiter", relative, "Opening --- must stand alone on line 1")
             metadata, body, _ = q.metadata(
                 path.read_text(encoding="utf-8-sig")
             )
@@ -384,6 +389,10 @@ def run_audit(project):
                     location,
                     identifier,
                 )
+
+    from bmrcl_wiki_format import schema_issues
+    for _kind, _page, _detail in schema_issues(pages, catalogue):
+        error(_kind, _page, _detail)
 
     # Check wiki body links. Supporting quoted passages are excluded.
     for relative, page in pages.items():

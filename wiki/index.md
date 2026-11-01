@@ -1,9 +1,9 @@
 ---
-type: wiki_index
+type: catalog
 title: BMRCL Wiki Index
 status: draft
 generator: bmrcl-dynamic-wiki-v2
-updated_at: '2026-11-01T13:54:09+00:00'
+updated_at: '2026-11-01T14:33:52+00:00'
 ---
 
 # BMRCL Wiki Index

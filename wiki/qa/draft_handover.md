@@ -1,29 +1,50 @@
 ---
-type: wiki_qa
+type: qa
 title: Draft Wiki Handover and Remaining Review
 status: draft
 updated_at: '2026-11-01T12:14:18+00:00'
 last_provenance_migrated: '2026-11-01T13:54:09+00:00'
+question: What does Draft Wiki Handover and Remaining Review record about the draft wiki?
+asked: '2026-11-01'
+asked_basis: Recorded project workflow date; exact historical question timestamp was not recorded.
+wiki_pages_used:
+- wiki/SCHEMA.md
+- wiki/index.md
+- wiki/log.md
+- wiki/review_queue.md
+wiki_pages_used_basis: Relevant maintained pages checked during this schema-alignment pass.
+sources:
+- wiki/SCHEMA.md
+- wiki/index.md
+- wiki/log.md
+- wiki/review_queue.md
+last_schema_aligned: '2026-11-01T14:33:52+00:00'
 ---
 
 # Draft Wiki Handover and Remaining Review
+
+## Question
+
+What does Draft Wiki Handover and Remaining Review record about the draft wiki?
+
+## Answer
 
 > Historical pre-rebase handover. Source identities have since been migrated; consult [[wiki/qa/provenance_migration|Provenance migration]] and the newest audit. Earlier counts and IDs below remain historical snapshots.
 
 This is an editorial handover record. It does not approve exhaustive source coverage, semantic accuracy, legal applicability, bid responsiveness or PDF verification. All knowledge remains draft.
 
-## Latest structural alignment — audit pending
+#### Latest structural alignment — audit pending
 
 The structural alignment adds nine synthesis pages and one QA register: expected totals are 40 Markdown pages, 26 concept pages and 813 active draft claims/findings. Earlier counts below are historical snapshots. Run a fresh audit before reporting the new totals as audited. Full coverage/PDF review and strict v1.0 source-scope alignment remain pending.
 
-## Snapshot and technical checks
+#### Snapshot and technical checks
 
 - Before consolidation: 29 Markdown pages, 782 claims/findings, zero structural/provenance errors and zero exact duplicate-text groups, according to the supplied audit.
 - After this pass: 768 active draft claims/findings. Fourteen repeated claims were consolidated in eight reviewed groups. Original claims are retained in editorial history and the append-only log; all previously cited evidence IDs remain cited.
 - This operation rebuilt all source citation records and found exact matches for saved citations. It made no API requests and changed no source, schema, ingestion script or original checkpoint marker.
 - Previous audit before structural alignment: 30 Markdown pages, 768 active draft claims/findings, zero structural/provenance errors, zero exact duplicate groups, six similar-text pairs, 20 review flags and 17 amendment records. The following tables retain the pre-handover audit snapshot. Human review, PDF verification and exhaustive coverage review remain pending.
 
-## The 20 audit flags
+#### The 20 audit flags
 
 There is one legacy Section A batch-status flag and 19 source-level citation-coverage flags. Twenty-one source sections have complete current-plan checkpoints. Section A has historical ingest activity without matching modern checkpoints; do not manufacture checkpoint markers or rerun solely to suppress this flag.
 
@@ -52,7 +73,7 @@ There is one legacy Section A batch-status flag and 19 source-level citation-cov
 | OKF_bundle/addendum_and_corrigendum/A_and_C2.md | checkpoints_complete | 11 |
 | OKF_bundle/addendum_and_corrigendum/A_and_C3.md | checkpoints_complete | 1 |
 
-## What remains uncited
+#### What remains uncited
 
 The audit lists 360 uncited evidence units. This is not 360 missing requirements. Some are navigation, repeat extracts, blank bidder fields or workbook formulas; others need detailed comparison. Routing below is an editorial triage, not evidence that every condition in cited records has been summarized.
 
@@ -419,7 +440,7 @@ The audit lists 360 uncited evidence units. This is not 360 missing requirements
 | `Sfd22b8d3c8334a5b` OKF_bundle/Technical/Vol1/secB.md#Clause 25.0 — Notification of Award | OKF outline/section extract: compare substantive JSON; no new claim solely for this ID |
 | `Sfd86bbc45b71c86f` OKF_bundle/Technical/Vol1/secB.md#Clause 24.0 — Employer's Right to Accept Any Tender and to Reject Any or All Tenders | OKF outline/section extract: compare substantive JSON; no new claim solely for this ID |
 
-## Similar-text decisions
+#### Similar-text decisions
 
 The audit reported 21 pairs, forming nine groups. Eight groups were consolidated after comparing meaning and combining citations. The four Section D empty-template summaries remain separate because their combined 21 evidence IDs exceed the renderer contract limit of 20; no citation was dropped to force a merge. Similarity alone does not justify deletion.
 
@@ -447,11 +468,11 @@ The audit reported 21 pairs, forming nine groups. Eight groups were consolidated
 | wiki/source_quirks.md#C407af648aa3407ea | wiki/source_quirks.md#C62c86bd2b7d399b1 | Retained: citation-bound template-summary group; not a contradiction finding |
 | wiki/source_quirks.md#C50fba38cd9368a50 | wiki/source_quirks.md#Cc3dfe7ca7235c338 | Consolidated as C50fba38cd9368a50 |
 
-## Amendment review
+#### Amendment review
 
 All 17 parsed amendment records are cited. This does not approve their transcription, meaning, supersession or legal effect. C1/C3 schedule histories and C2 deletion/Contract Data changes are preserved. The source-specific GCC notes distinguish historical text from amendment context; no general hierarchy or blanket deletion has been inferred.
 
-## Human-review queue
+#### Human-review queue
 
 The following questions remain recorded. Some may be answered by source comparison; others require PDF inspection or official clarification. They are not cleared by this handover.
 
@@ -494,6 +515,24 @@ The following questions remain recorded. Some may be answered by source comparis
 - wiki/review_queue.md#C2fa485c62ca4ea5a: All parsed amendment records for Corrigendum No. 3 remain in pending_manual_review status and require final verification against the original PDF source document.
 - wiki/review_queue.md#C6737cf2615f314f1: Verify whether Corrigendum No. 2 additions of SCC clauses deleting GCC Sub-Clauses 4.5, 8.10, 11.1.2 series, 11.2.1, 11.2.2, 11.2.3, and 15.1 supersede the original GCC baseline provisions without altering Contract Data labels.
 
-## Acceptance boundary
+#### Acceptance boundary
 
 Draft ingestion and the scoped correction passes are recorded. Structural checks passed in the supplied audit. Exhaustive requirement coverage, full cross-clause reconciliation, source PDF verification and promotion to reviewed remain pending. A deadline does not change these review boundaries.
+
+## Citations
+
+- [[wiki/SCHEMA|SCHEMA.md]]
+- [[wiki/index|index.md]]
+- [[wiki/log|log.md]]
+- [[wiki/review_queue|review_queue.md]]
+
+## Wiki pages used
+
+- [[wiki/SCHEMA|SCHEMA.md]]
+- [[wiki/index|index.md]]
+- [[wiki/log|log.md]]
+- [[wiki/review_queue|review_queue.md]]
+
+## Caveats
+
+Draft only. Existing audit snapshots and historical counts in the answer retain their original context. PDF verification, source completeness, amendment interpretation and human approval are not established by formatting or a structural audit.

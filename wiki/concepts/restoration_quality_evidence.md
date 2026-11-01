@@ -10,24 +10,11 @@ updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T12:14:18+00:00'
 model: source-backed editorial synthesis; no API call
 sources:
-- okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
-  source_document: Vol2DLNP1.pdf
-  json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
-  json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
-  json_pointer: /technical_specifications/2
-  source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
-- okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
-  source_document: Vol2DLNP1.pdf
-  json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
-  json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
-  json_pointer: /technical_specifications/1
-  source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
+- OKF_bundle/Technical/Vol2/vol2_part4B.md
+- parsed_json/vol2/part_4b_restoration/restoration_clauses.json
 claims:
 - kind: summary
-  text: This page brings together the cited requirements for restoration quality, samples and testing. Each source
-    statement retains its own stage, conditions and review limitations.
+  text: This page brings together the cited requirements for restoration quality, samples and testing. Each source statement retains its own stage, conditions and review limitations.
   evidence_ids:
   - J63e2b62b5192e71f
   - Jc09ace3a6f098d6d
@@ -51,20 +38,7 @@ claims:
     json_pointer: /technical_specifications/2
     json_record_id: null
     source_review_status: pending_manual_review
-    quote: "{\n  \"clause_id\": \"3\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 34,\n      \"text\": \"3.\
-      \    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the Engineer\\n        for their approval\
-      \ samples of the materials proposed to be used in the works, at least 15\\n      days before placing the order\
-      \ supply, and the bulk shall be equal in every respect to the\\n      approved samples deposited.\"\n    }\n\
-      \  ],\n  \"heading_line\": \"3.    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the\
-      \ Engineer\",\n  \"retained_lines\": [\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 28,\n\
-      \      \"text\": \"3.    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the Engineer\"\
-      \n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 29,\n      \"text\": \"        for\
-      \ their approval samples of the materials proposed to be used in the works, at least 15\"\n    },\n    {\n\
-      \      \"pdf_page\": 34,\n      \"source_line_number\": 30,\n      \"text\": \"      days before placing the\
-      \ order supply, and the bulk shall be equal in every respect to the\"\n    },\n    {\n      \"pdf_page\":\
-      \ 34,\n      \"source_line_number\": 31,\n      \"text\": \"      approved samples deposited.\"\n    },\n\
-      \    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 32,\n      \"text\": \"\"\n    }\n  ],\n  \"\
-      review_status\": \"pending_manual_review\",\n  \"title\": \"SAMPLES OF MATERIAL\"\n}"
+    quote: "{\n  \"clause_id\": \"3\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 34,\n      \"text\": \"3.    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the Engineer\\n        for their approval samples of the materials proposed to be used in the works, at least 15\\n      days before placing the order supply, and the bulk shall be equal in every respect to the\\n      approved samples deposited.\"\n    }\n  ],\n  \"heading_line\": \"3.    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the Engineer\",\n  \"retained_lines\": [\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 28,\n      \"text\": \"3.    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the Engineer\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 29,\n      \"text\": \"        for their approval samples of the materials proposed to be used in the works, at least 15\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 30,\n      \"text\": \"      days before placing the order supply, and the bulk shall be equal in every respect to the\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 31,\n      \"text\": \"      approved samples deposited.\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 32,\n      \"text\": \"\"\n    }\n  ],\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"SAMPLES OF MATERIAL\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
   - id: Jc09ace3a6f098d6d
@@ -81,28 +55,7 @@ claims:
     json_pointer: /technical_specifications/1
     json_record_id: null
     source_review_status: pending_manual_review
-    quote: "{\n  \"clause_id\": \"2\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 34,\n      \"text\": \"2.\
-      \    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\\n       the Contractor\
-      \ shall arrange to test materials, concrete cubes etc. and portions of the\\n      work in order to prove\
-      \ their soundness and sufficiency at his own cost. If, after any such\\n        test and in the opinion of\
-      \ the Engineer the materials or workmanship is found defective\\n       or unsound, the Contractor shall pull\
-      \ down and re-execute the same at his own cost. All\\n       materials deemed defective in the opinion of\
-      \ the Engineer shall be removed from the site\\n       immediately.\"\n    }\n  ],\n  \"heading_line\": \"\
-      2.    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\",\n  \"retained_lines\"\
-      : [\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 20,\n      \"text\": \"2.    TESTING OF\
-      \ WORKS AND MATERIALS:              If required by the Engineer/Employer\"\n    },\n    {\n      \"pdf_page\"\
-      : 34,\n      \"source_line_number\": 21,\n      \"text\": \"       the Contractor shall arrange to test materials,\
-      \ concrete cubes etc. and portions of the\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\"\
-      : 22,\n      \"text\": \"      work in order to prove their soundness and sufficiency at his own cost. If,\
-      \ after any such\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 23,\n      \"text\"\
-      : \"        test and in the opinion of the Engineer the materials or workmanship is found defective\"\n  \
-      \  },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 24,\n      \"text\": \"       or unsound,\
-      \ the Contractor shall pull down and re-execute the same at his own cost. All\"\n    },\n    {\n      \"pdf_page\"\
-      : 34,\n      \"source_line_number\": 25,\n      \"text\": \"       materials deemed defective in the opinion\
-      \ of the Engineer shall be removed from the site\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\"\
-      : 26,\n      \"text\": \"       immediately.\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\"\
-      : 27,\n      \"text\": \"\"\n    }\n  ],\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"\
-      TESTING OF WORKS AND MATERIALS\"\n}"
+    quote: "{\n  \"clause_id\": \"2\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 34,\n      \"text\": \"2.    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\\n       the Contractor shall arrange to test materials, concrete cubes etc. and portions of the\\n      work in order to prove their soundness and sufficiency at his own cost. If, after any such\\n        test and in the opinion of the Engineer the materials or workmanship is found defective\\n       or unsound, the Contractor shall pull down and re-execute the same at his own cost. All\\n       materials deemed defective in the opinion of the Engineer shall be removed from the site\\n       immediately.\"\n    }\n  ],\n  \"heading_line\": \"2.    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\",\n  \"retained_lines\": [\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 20,\n      \"text\": \"2.    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 21,\n      \"text\": \"       the Contractor shall arrange to test materials, concrete cubes etc. and portions of the\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 22,\n      \"text\": \"      work in order to prove their soundness and sufficiency at his own cost. If, after any such\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 23,\n      \"text\": \"        test and in the opinion of the Engineer the materials or workmanship is found defective\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 24,\n      \"text\": \"       or unsound, the Contractor shall pull down and re-execute the same at his own cost. All\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 25,\n      \"text\": \"       materials deemed defective in the opinion of the Engineer shall be removed from the site\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 26,\n      \"text\": \"       immediately.\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 27,\n      \"text\": \"\"\n    }\n  ],\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"TESTING OF WORKS AND MATERIALS\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
   created_at: '2026-11-01T12:14:18+00:00'
@@ -119,8 +72,7 @@ claims:
     migration_manifest: output/provenance_migration/rebase_v1/migration.json
   last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
-  text: 'Material sample approval precedes ordering: the restoration source requires samples at the Engineer’s office
-    at least 15 days before supply orders are placed.'
+  text: 'Material sample approval precedes ordering: the restoration source requires samples at the Engineer’s office at least 15 days before supply orders are placed.'
   evidence_ids:
   - J63e2b62b5192e71f
   relation_type: none
@@ -143,20 +95,7 @@ claims:
     json_pointer: /technical_specifications/2
     json_record_id: null
     source_review_status: pending_manual_review
-    quote: "{\n  \"clause_id\": \"3\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 34,\n      \"text\": \"3.\
-      \    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the Engineer\\n        for their approval\
-      \ samples of the materials proposed to be used in the works, at least 15\\n      days before placing the order\
-      \ supply, and the bulk shall be equal in every respect to the\\n      approved samples deposited.\"\n    }\n\
-      \  ],\n  \"heading_line\": \"3.    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the\
-      \ Engineer\",\n  \"retained_lines\": [\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 28,\n\
-      \      \"text\": \"3.    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the Engineer\"\
-      \n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 29,\n      \"text\": \"        for\
-      \ their approval samples of the materials proposed to be used in the works, at least 15\"\n    },\n    {\n\
-      \      \"pdf_page\": 34,\n      \"source_line_number\": 30,\n      \"text\": \"      days before placing the\
-      \ order supply, and the bulk shall be equal in every respect to the\"\n    },\n    {\n      \"pdf_page\":\
-      \ 34,\n      \"source_line_number\": 31,\n      \"text\": \"      approved samples deposited.\"\n    },\n\
-      \    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 32,\n      \"text\": \"\"\n    }\n  ],\n  \"\
-      review_status\": \"pending_manual_review\",\n  \"title\": \"SAMPLES OF MATERIAL\"\n}"
+    quote: "{\n  \"clause_id\": \"3\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 34,\n      \"text\": \"3.    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the Engineer\\n        for their approval samples of the materials proposed to be used in the works, at least 15\\n      days before placing the order supply, and the bulk shall be equal in every respect to the\\n      approved samples deposited.\"\n    }\n  ],\n  \"heading_line\": \"3.    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the Engineer\",\n  \"retained_lines\": [\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 28,\n      \"text\": \"3.    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the Engineer\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 29,\n      \"text\": \"        for their approval samples of the materials proposed to be used in the works, at least 15\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 30,\n      \"text\": \"      days before placing the order supply, and the bulk shall be equal in every respect to the\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 31,\n      \"text\": \"      approved samples deposited.\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 32,\n      \"text\": \"\"\n    }\n  ],\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"SAMPLES OF MATERIAL\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
   created_at: '2026-11-01T12:14:18+00:00'
@@ -172,8 +111,7 @@ claims:
     migration_manifest: output/provenance_migration/rebase_v1/migration.json
   last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
-  text: When the Engineer or Employer requires testing, the contractor bears the cost of tests on materials, concrete
-    cubes and work portions to demonstrate soundness and sufficiency.
+  text: When the Engineer or Employer requires testing, the contractor bears the cost of tests on materials, concrete cubes and work portions to demonstrate soundness and sufficiency.
   evidence_ids:
   - Jc09ace3a6f098d6d
   relation_type: none
@@ -196,28 +134,7 @@ claims:
     json_pointer: /technical_specifications/1
     json_record_id: null
     source_review_status: pending_manual_review
-    quote: "{\n  \"clause_id\": \"2\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 34,\n      \"text\": \"2.\
-      \    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\\n       the Contractor\
-      \ shall arrange to test materials, concrete cubes etc. and portions of the\\n      work in order to prove\
-      \ their soundness and sufficiency at his own cost. If, after any such\\n        test and in the opinion of\
-      \ the Engineer the materials or workmanship is found defective\\n       or unsound, the Contractor shall pull\
-      \ down and re-execute the same at his own cost. All\\n       materials deemed defective in the opinion of\
-      \ the Engineer shall be removed from the site\\n       immediately.\"\n    }\n  ],\n  \"heading_line\": \"\
-      2.    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\",\n  \"retained_lines\"\
-      : [\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 20,\n      \"text\": \"2.    TESTING OF\
-      \ WORKS AND MATERIALS:              If required by the Engineer/Employer\"\n    },\n    {\n      \"pdf_page\"\
-      : 34,\n      \"source_line_number\": 21,\n      \"text\": \"       the Contractor shall arrange to test materials,\
-      \ concrete cubes etc. and portions of the\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\"\
-      : 22,\n      \"text\": \"      work in order to prove their soundness and sufficiency at his own cost. If,\
-      \ after any such\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 23,\n      \"text\"\
-      : \"        test and in the opinion of the Engineer the materials or workmanship is found defective\"\n  \
-      \  },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 24,\n      \"text\": \"       or unsound,\
-      \ the Contractor shall pull down and re-execute the same at his own cost. All\"\n    },\n    {\n      \"pdf_page\"\
-      : 34,\n      \"source_line_number\": 25,\n      \"text\": \"       materials deemed defective in the opinion\
-      \ of the Engineer shall be removed from the site\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\"\
-      : 26,\n      \"text\": \"       immediately.\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\"\
-      : 27,\n      \"text\": \"\"\n    }\n  ],\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"\
-      TESTING OF WORKS AND MATERIALS\"\n}"
+    quote: "{\n  \"clause_id\": \"2\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 34,\n      \"text\": \"2.    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\\n       the Contractor shall arrange to test materials, concrete cubes etc. and portions of the\\n      work in order to prove their soundness and sufficiency at his own cost. If, after any such\\n        test and in the opinion of the Engineer the materials or workmanship is found defective\\n       or unsound, the Contractor shall pull down and re-execute the same at his own cost. All\\n       materials deemed defective in the opinion of the Engineer shall be removed from the site\\n       immediately.\"\n    }\n  ],\n  \"heading_line\": \"2.    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\",\n  \"retained_lines\": [\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 20,\n      \"text\": \"2.    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 21,\n      \"text\": \"       the Contractor shall arrange to test materials, concrete cubes etc. and portions of the\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 22,\n      \"text\": \"      work in order to prove their soundness and sufficiency at his own cost. If, after any such\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 23,\n      \"text\": \"        test and in the opinion of the Engineer the materials or workmanship is found defective\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 24,\n      \"text\": \"       or unsound, the Contractor shall pull down and re-execute the same at his own cost. All\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 25,\n      \"text\": \"       materials deemed defective in the opinion of the Engineer shall be removed from the site\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 26,\n      \"text\": \"       immediately.\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 27,\n      \"text\": \"\"\n    }\n  ],\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"TESTING OF WORKS AND MATERIALS\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
   created_at: '2026-11-01T12:14:18+00:00'
@@ -233,8 +150,7 @@ claims:
     migration_manifest: output/provenance_migration/rebase_v1/migration.json
   last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
-  text: An Engineer finding defective or unsound material/workmanship after testing leads to contractor-funded removal
-    and re-execution; defective materials must be removed from site immediately.
+  text: An Engineer finding defective or unsound material/workmanship after testing leads to contractor-funded removal and re-execution; defective materials must be removed from site immediately.
   evidence_ids:
   - Jc09ace3a6f098d6d
   relation_type: none
@@ -257,28 +173,7 @@ claims:
     json_pointer: /technical_specifications/1
     json_record_id: null
     source_review_status: pending_manual_review
-    quote: "{\n  \"clause_id\": \"2\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 34,\n      \"text\": \"2.\
-      \    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\\n       the Contractor\
-      \ shall arrange to test materials, concrete cubes etc. and portions of the\\n      work in order to prove\
-      \ their soundness and sufficiency at his own cost. If, after any such\\n        test and in the opinion of\
-      \ the Engineer the materials or workmanship is found defective\\n       or unsound, the Contractor shall pull\
-      \ down and re-execute the same at his own cost. All\\n       materials deemed defective in the opinion of\
-      \ the Engineer shall be removed from the site\\n       immediately.\"\n    }\n  ],\n  \"heading_line\": \"\
-      2.    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\",\n  \"retained_lines\"\
-      : [\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 20,\n      \"text\": \"2.    TESTING OF\
-      \ WORKS AND MATERIALS:              If required by the Engineer/Employer\"\n    },\n    {\n      \"pdf_page\"\
-      : 34,\n      \"source_line_number\": 21,\n      \"text\": \"       the Contractor shall arrange to test materials,\
-      \ concrete cubes etc. and portions of the\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\"\
-      : 22,\n      \"text\": \"      work in order to prove their soundness and sufficiency at his own cost. If,\
-      \ after any such\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 23,\n      \"text\"\
-      : \"        test and in the opinion of the Engineer the materials or workmanship is found defective\"\n  \
-      \  },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 24,\n      \"text\": \"       or unsound,\
-      \ the Contractor shall pull down and re-execute the same at his own cost. All\"\n    },\n    {\n      \"pdf_page\"\
-      : 34,\n      \"source_line_number\": 25,\n      \"text\": \"       materials deemed defective in the opinion\
-      \ of the Engineer shall be removed from the site\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\"\
-      : 26,\n      \"text\": \"       immediately.\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\"\
-      : 27,\n      \"text\": \"\"\n    }\n  ],\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"\
-      TESTING OF WORKS AND MATERIALS\"\n}"
+    quote: "{\n  \"clause_id\": \"2\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 34,\n      \"text\": \"2.    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\\n       the Contractor shall arrange to test materials, concrete cubes etc. and portions of the\\n      work in order to prove their soundness and sufficiency at his own cost. If, after any such\\n        test and in the opinion of the Engineer the materials or workmanship is found defective\\n       or unsound, the Contractor shall pull down and re-execute the same at his own cost. All\\n       materials deemed defective in the opinion of the Engineer shall be removed from the site\\n       immediately.\"\n    }\n  ],\n  \"heading_line\": \"2.    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\",\n  \"retained_lines\": [\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 20,\n      \"text\": \"2.    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 21,\n      \"text\": \"       the Contractor shall arrange to test materials, concrete cubes etc. and portions of the\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 22,\n      \"text\": \"      work in order to prove their soundness and sufficiency at his own cost. If, after any such\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 23,\n      \"text\": \"        test and in the opinion of the Engineer the materials or workmanship is found defective\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 24,\n      \"text\": \"       or unsound, the Contractor shall pull down and re-execute the same at his own cost. All\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 25,\n      \"text\": \"       materials deemed defective in the opinion of the Engineer shall be removed from the site\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 26,\n      \"text\": \"       immediately.\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 27,\n      \"text\": \"\"\n    }\n  ],\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"TESTING OF WORKS AND MATERIALS\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
   created_at: '2026-11-01T12:14:18+00:00'
@@ -294,17 +189,15 @@ claims:
     migration_manifest: output/provenance_migration/rebase_v1/migration.json
   last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: relation
-  text: 'Editorial topic mapping for Restoration Quality, Samples and Testing: the two cited source records are
-    connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence
-    rule or a compliance decision.'
+  text: 'Editorial topic mapping for Restoration Quality, Samples and Testing: the two cited source records are connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence rule or a compliance decision.'
   evidence_ids:
   - J63e2b62b5192e71f
   - Jc09ace3a6f098d6d
-  relation_type: relates_to
+  relation_type: related_to
   explicitness: inferred
   from_id: J63e2b62b5192e71f
   to_id: Jc09ace3a6f098d6d
-  id: Cf27f6c1c7335d7a7
+  id: Ca357b43af7aa786f
   citations:
   - id: J63e2b62b5192e71f
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
@@ -320,20 +213,7 @@ claims:
     json_pointer: /technical_specifications/2
     json_record_id: null
     source_review_status: pending_manual_review
-    quote: "{\n  \"clause_id\": \"3\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 34,\n      \"text\": \"3.\
-      \    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the Engineer\\n        for their approval\
-      \ samples of the materials proposed to be used in the works, at least 15\\n      days before placing the order\
-      \ supply, and the bulk shall be equal in every respect to the\\n      approved samples deposited.\"\n    }\n\
-      \  ],\n  \"heading_line\": \"3.    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the\
-      \ Engineer\",\n  \"retained_lines\": [\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 28,\n\
-      \      \"text\": \"3.    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the Engineer\"\
-      \n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 29,\n      \"text\": \"        for\
-      \ their approval samples of the materials proposed to be used in the works, at least 15\"\n    },\n    {\n\
-      \      \"pdf_page\": 34,\n      \"source_line_number\": 30,\n      \"text\": \"      days before placing the\
-      \ order supply, and the bulk shall be equal in every respect to the\"\n    },\n    {\n      \"pdf_page\":\
-      \ 34,\n      \"source_line_number\": 31,\n      \"text\": \"      approved samples deposited.\"\n    },\n\
-      \    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 32,\n      \"text\": \"\"\n    }\n  ],\n  \"\
-      review_status\": \"pending_manual_review\",\n  \"title\": \"SAMPLES OF MATERIAL\"\n}"
+    quote: "{\n  \"clause_id\": \"3\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 34,\n      \"text\": \"3.    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the Engineer\\n        for their approval samples of the materials proposed to be used in the works, at least 15\\n      days before placing the order supply, and the bulk shall be equal in every respect to the\\n      approved samples deposited.\"\n    }\n  ],\n  \"heading_line\": \"3.    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the Engineer\",\n  \"retained_lines\": [\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 28,\n      \"text\": \"3.    SAMPLES OF MATERIAL: The Contractor shall deposit at the office of the Engineer\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 29,\n      \"text\": \"        for their approval samples of the materials proposed to be used in the works, at least 15\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 30,\n      \"text\": \"      days before placing the order supply, and the bulk shall be equal in every respect to the\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 31,\n      \"text\": \"      approved samples deposited.\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 32,\n      \"text\": \"\"\n    }\n  ],\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"SAMPLES OF MATERIAL\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
   - id: Jc09ace3a6f098d6d
@@ -350,36 +230,14 @@ claims:
     json_pointer: /technical_specifications/1
     json_record_id: null
     source_review_status: pending_manual_review
-    quote: "{\n  \"clause_id\": \"2\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 34,\n      \"text\": \"2.\
-      \    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\\n       the Contractor\
-      \ shall arrange to test materials, concrete cubes etc. and portions of the\\n      work in order to prove\
-      \ their soundness and sufficiency at his own cost. If, after any such\\n        test and in the opinion of\
-      \ the Engineer the materials or workmanship is found defective\\n       or unsound, the Contractor shall pull\
-      \ down and re-execute the same at his own cost. All\\n       materials deemed defective in the opinion of\
-      \ the Engineer shall be removed from the site\\n       immediately.\"\n    }\n  ],\n  \"heading_line\": \"\
-      2.    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\",\n  \"retained_lines\"\
-      : [\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 20,\n      \"text\": \"2.    TESTING OF\
-      \ WORKS AND MATERIALS:              If required by the Engineer/Employer\"\n    },\n    {\n      \"pdf_page\"\
-      : 34,\n      \"source_line_number\": 21,\n      \"text\": \"       the Contractor shall arrange to test materials,\
-      \ concrete cubes etc. and portions of the\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\"\
-      : 22,\n      \"text\": \"      work in order to prove their soundness and sufficiency at his own cost. If,\
-      \ after any such\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 23,\n      \"text\"\
-      : \"        test and in the opinion of the Engineer the materials or workmanship is found defective\"\n  \
-      \  },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 24,\n      \"text\": \"       or unsound,\
-      \ the Contractor shall pull down and re-execute the same at his own cost. All\"\n    },\n    {\n      \"pdf_page\"\
-      : 34,\n      \"source_line_number\": 25,\n      \"text\": \"       materials deemed defective in the opinion\
-      \ of the Engineer shall be removed from the site\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\"\
-      : 26,\n      \"text\": \"       immediately.\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\"\
-      : 27,\n      \"text\": \"\"\n    }\n  ],\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"\
-      TESTING OF WORKS AND MATERIALS\"\n}"
+    quote: "{\n  \"clause_id\": \"2\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 34,\n      \"text\": \"2.    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\\n       the Contractor shall arrange to test materials, concrete cubes etc. and portions of the\\n      work in order to prove their soundness and sufficiency at his own cost. If, after any such\\n        test and in the opinion of the Engineer the materials or workmanship is found defective\\n       or unsound, the Contractor shall pull down and re-execute the same at his own cost. All\\n       materials deemed defective in the opinion of the Engineer shall be removed from the site\\n       immediately.\"\n    }\n  ],\n  \"heading_line\": \"2.    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\",\n  \"retained_lines\": [\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 20,\n      \"text\": \"2.    TESTING OF WORKS AND MATERIALS:              If required by the Engineer/Employer\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 21,\n      \"text\": \"       the Contractor shall arrange to test materials, concrete cubes etc. and portions of the\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 22,\n      \"text\": \"      work in order to prove their soundness and sufficiency at his own cost. If, after any such\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 23,\n      \"text\": \"        test and in the opinion of the Engineer the materials or workmanship is found defective\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 24,\n      \"text\": \"       or unsound, the Contractor shall pull down and re-execute the same at his own cost. All\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 25,\n      \"text\": \"       materials deemed defective in the opinion of the Engineer shall be removed from the site\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 26,\n      \"text\": \"       immediately.\"\n    },\n    {\n      \"pdf_page\": 34,\n      \"source_line_number\": 27,\n      \"text\": \"\"\n    }\n  ],\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"TESTING OF WORKS AND MATERIALS\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
   editorial_history:
   - previous_claim_id: C7ff526e25451c603
-    previous_text: The cited provisions are grouped by topic for navigation; this is an inferred editorial connection,
-      not an explicit hierarchy or a compliance determination.
+    previous_text: The cited provisions are grouped by topic for navigation; this is an inferred editorial connection, not an explicit hierarchy or a compliance determination.
     corrected_at: '2026-11-01T12:20:49+00:00'
     method: topic-specific editorial relation label
   - previous_claim_id: Ce08578d47e41ac36
@@ -391,67 +249,85 @@ claims:
     migrated_at: '2026-11-01T13:54:09+00:00'
     method: Verified source-identity migration only; claim text unchanged
     migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  - previous_claim_id: Cf27f6c1c7335d7a7
+    previous_relation_type: relates_to
+    corrected_at: '2026-11-01T14:33:52+00:00'
+    method: Canonical schema relation vocabulary; text, endpoints and citations unchanged
   updated_at: '2026-11-01T12:20:49+00:00'
   last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
-- relation_type: relates_to
+- relation_type: related_to
   target: concepts/rehabilitation_and_restoration_specifications_vol2_part4b.md
   title: Source topic page
   evidence_ids:
   - J63e2b62b5192e71f
-source_scope_note: The complete creation prompt explicitly includes matching JSON with each OKF file. These are
-  source-linked extracts, not independent external assumptions. PDF/source review remains pending.
+source_scope_note: The complete creation prompt explicitly includes matching JSON with each OKF file. These are source-linked extracts, not independent external assumptions. PDF/source review remains pending.
 editorial_method: Source-backed editorial synthesis; no new API generation call
 last_provenance_migrated: '2026-11-01T13:54:09+00:00'
+last_schema_aligned: '2026-11-01T14:33:52+00:00'
 ---
 
 # Restoration Quality, Samples and Testing
 
-> Draft model-derived knowledge. Citation validation establishes supplied-source provenance, not interpretation correctness.
+> Draft source synthesis. Pending PDF and human review; no compliance or applicability decision.
 
 ## Summary
 
-- This page brings together the cited requirements for restoration quality, samples and testing. Each source statement retains its own stage, conditions and review limitations.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J63e2b62b5192e71f`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `Jc09ace3a6f098d6d`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`.
+This page brings together the cited requirements for restoration quality, samples and testing. Each source statement retains its own stage, conditions and review limitations. [^e1] [^e2]
 
-## Key Parameters and Source Statements
+The cited source statements remain provisional pending recorded review.
 
-- Material sample approval precedes ordering: the restoration source requires samples at the Engineer’s office at least 15 days before supply orders are placed.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J63e2b62b5192e71f`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/2`.
+## Key parameters
 
-- When the Engineer or Employer requires testing, the contractor bears the cost of tests on materials, concrete cubes and work portions to demonstrate soundness and sufficiency.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `Jc09ace3a6f098d6d`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`.
+| Parameter | Value | Citation | Status |
+|---|---|---|---|
+| Vol 2 Part 4B Clause 3 — C837678d9d63d0fa5 | Material sample approval precedes ordering: the restoration source requires samples at the Engineer’s office at least 15 days before supply orders are placed. | [^e1] | Pending review |
+| Vol 2 Part 4B Clause 2 — C6ce72522d156c791 | When the Engineer or Employer requires testing, the contractor bears the cost of tests on materials, concrete cubes and work portions to demonstrate soundness and sufficiency. | [^e2] | Pending review |
+| Vol 2 Part 4B Clause 2 — C94fa256efb4a8aea | An Engineer finding defective or unsound material/workmanship after testing leads to contractor-funded removal and re-execution; defective materials must be removed from site immediately. | [^e2] | Pending review |
 
-- An Engineer finding defective or unsound material/workmanship after testing leads to contractor-funded removal and re-execution; defective materials must be removed from site immediately.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `Jc09ace3a6f098d6d`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`.
+## Where it appears
 
-## Typed Relations
+- [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Vol 2 Part 4B Clause 3]], `Vol2DLNP1.pdf`, PDF p. 34 (`parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/2`)
+- [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Vol 2 Part 4B Clause 2]], `Vol2DLNP1.pdf`, PDF p. 34 (`parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`)
 
-- Editorial topic mapping for Restoration Quality, Samples and Testing: the two cited source records are connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence rule or a compliance decision.
-  - **relates_to (inferred):** [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]] → [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J63e2b62b5192e71f`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `Jc09ace3a6f098d6d`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`.
+## Relations
 
-## Source Headings
-- [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]
-- [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]
+| Source | Relation | Target | Classification | Citation | Status |
+|---|---|---|---|---|---|
+| Vol 2 Part 4B Clause 3 | related_to | Vol 2 Part 4B Clause 2 | inferred | [^e1] [^e2] | Pending review |
 
-## Related Wiki Entities
+- Editorial topic mapping for Restoration Quality, Samples and Testing: the two cited source records are connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence rule or a compliance decision. [^e1] [^e2]
+- **related_to (inferred editorial navigation):** [[wiki/concepts/rehabilitation_and_restoration_specifications_vol2_part4b|Source topic page]]. [^e1]
 
-- **relates_to (editorial, inferred):** [[wiki/concepts/rehabilitation_and_restoration_specifications_vol2_part4b|Source topic page]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 34; `J63e2b62b5192e71f`.
+## Open questions and contradictions
 
-## Open Questions and Contradictions
+No additional conflict is recorded on this page. Verification remains open in [[wiki/review_queue|the review queue]]; absence of a recorded contradiction is not approval.
 
-No additional contradiction is recorded on this page. PDF verification and full cross-source comparison remain pending; absence of a recorded question is not approval.
+## Amendment states
+
+Historical source quotations are retained. A superseded field or deleted subclause does not make the entire page superseded.
+
+| Parameter | Value | Citation | Status |
+|---|---|---|---|
+
+## Additional source statements
+
+
+## Claim register
+
+Claim IDs and evidence records are retained in frontmatter. Every draft claim has an entry in [[wiki/review_queue|the claim-level review queue]].
+
+## Citation notes
+
+[^e1]: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Vol 2 Part 4B Clause 3]], `Vol2DLNP1.pdf`, PDF p. 34 (`parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/2`)
+[^e2]: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Vol 2 Part 4B Clause 2]], `Vol2DLNP1.pdf`, PDF p. 34 (`parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`)
 
 <details>
 <summary>Supporting source passages</summary>
 
 ### J63e2b62b5192e71f
 
-[[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]
+[[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Vol 2 Part 4B Clause 3]], `Vol2DLNP1.pdf`, PDF p. 34 (`parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/2`)
 
 > {
 >   "clause_id": "3",
@@ -495,7 +371,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 
 ### Jc09ace3a6f098d6d
 
-[[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]
+[[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Vol 2 Part 4B Clause 2]], `Vol2DLNP1.pdf`, PDF p. 34 (`parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`)
 
 > {
 >   "clause_id": "2",
@@ -553,5 +429,3 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > }
 
 </details>
-
-Supporting passages retain OKF text or selected JSON record values; PDF references were not independently checked against the PDF in this operation. Historical dates are not live-deadline advice.

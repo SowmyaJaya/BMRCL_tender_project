@@ -1,9 +1,20 @@
 ---
-type: wiki_qa
+type: qa
 title: Which provisions govern suspension?
 status: draft
 review_status: pending_manual_review
 sources:
+- OKF_bundle/Technical/Vol1/secE.md
+- OKF_bundle/Technical/Vol1/secF.md
+- parsed_json/vol1/section_e_gcc/gcc_clauses.json
+- parsed_json/vol1/section_f_scc/scc_entries.json
+last_ingested: '2026-11-01T12:36:19+00:00'
+answer_evidence_ids:
+- J0fe8982de24f004e
+- Jb0f2f3592fad0ed6
+method: Source-backed answer to the example query in the supplied creation prompt; no API call
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
+answer_citations:
 - id: J0fe8982de24f004e
   okf_path: OKF_bundle/Technical/Vol1/secE.md
   okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
@@ -21,186 +32,7 @@ sources:
   json_pointer: /clauses/7
   json_record_id: null
   source_review_status: pending_manual_review
-  quote: "{\n  \"clause_id\": \"8\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 104,\n      \"text\": \"8 \
-    \       Commencement, Completion and Delay\\n\\n   Commenceme    8.1        The Contractor shall commence the\
-    \ Works on the date as stated in ‘Contract\\n     nt of Works                      data’. Thereafter, the Contractor\
-    \ shall proceed with due diligence, without delay,\\n                              and in accordance with the\
-    \ programme or any revised or modified programme of\\n                                    the Works. Time is\
-    \ the essence of Contract and time for Completion shall reckon\\n                                  from the\
-    \ date the Contractor is required to commence the Works under this\\n                                   Clause.\\\
-    n\\n                             The Contractor shall not commence the construction, manufacture or installation\\\
-    n                                        of the Works or of any part of the Works unless and until the Engineer\
-    \ has\\n                                endorsed the relevant Working Drawings in accordance with the Employer's\\\
-    n                                 Requirements.\\n\\n    Time for          8.2        Time is the essence of\
-    \ Contract and  will remain so at  all times during the\\n    Completion                pendency  of the Contract\
-    \ including the extended period  of Contract. The\\n                                    Contractor shall ensure\
-    \ defect free completion and have passed the tests on\\n                                 Completion of the whole\
-    \ of the Works and/or parts thereof before the same is\\n                                  taken over by the\
-    \ Employer. Time for the completion of work is as stated in\\n                                      ‘Contract\
-    \ Data’.\\n\\n    Delay             8.3           In case of delay on the part of the Contractor, the Contractor\
-    \ shall be liable to pay\\n                                    Liquidated damages and any other compensation\
-    \ for the damages suffered by\\n                                    the Employer as per Clause 8.5.  This is\
-    \ without prejudice to the right of the\\n                                Employer to rescind the Contract.\\\
-    n\\n                                      Failure or delay by the Employer or the Engineer, to hand over to\
-    \ the Contractor\\n                                    the Site necessary for execution of Works, or any part\
-    \ of the Works, or to provide\\n                                 necessary Drawings or instructions or clarifications\
-    \ or to supply any material, plant\\n                                      or machinery, which under the Contract,\
-    \ is the responsibility of the Employer, shall\\n                                           in no way affect\
-    \ or vitiate the Contract or alter the character thereof, or entitle the\\n                                \
-    \    Contractor to damages or compensation thereof and in any such case, the\\n                            \
-    \     Engineer shall extend the time period for the completion of the Contract, as in his\\n               \
-    \                     opinion is / are reasonable.\\n\\n    Extension of     8.4        Extension of Time for\
-    \ Completion\\n    Time for\\n    Completion\\n\\n    Extension of      8.4.1      The Contractor may apply\
-    \ for an extension of the Time for Completion if the Work\\n    Time                                 is or will\
-    \ be delayed either before or after the Time for Completion by any of the\\n                               \
-    \       following causes.\\n                                            a.  “Force Majeure” referred to in Clause\
-    \ 16.0\\n                                            b.  The Contractor’s work held up for not being given possession\
-    \ of or access\\n                                                 to the Site in accordance with the Contract\\\
-    n                                               c.  Instruction of the Engineer to suspend the Works and the\
-    \ Contractor not\\n                                         being in default as to reasons of suspension.\\\
-    n                                            d.  Acts or omissions of other Designated Contractors in executing\
-    \ work not\\n                                          forming part of this Contract and on whose performance,\
-    \ the performance\\n                                                 of the Contractor necessarily depends.\\\
-    n                                            e.  Any act of prevention or Breach of the Contract by the Employer\
-    \ and not\\n                                       mentioned in this Clause\\n                             \
-    \                                    f.  Any order of Court restraining the performance of the Contract in full\
-    \ or in\\n                                     any part thereof and the Contractor not being in default as to\
-    \ reason of\\n                                      such order of court.\"\n    },\n    {\n      \"pdf_page\"\
-    : 105,\n      \"text\": \"g.  Any other event or occurrence which, according to the Employer is not\\n     \
-    \                           due to the Contractor’s failure or fault, and is beyond his control without\\n \
-    \                                 Employer being responsible for the same.\\n                              \
-    \         h.  An Employer’s Variation.\\n\\n                           However, the Contractor shall not be\
-    \ entitled to any extension of time where the\\n                                  instructions or acts of the\
-    \ Employer or the Engineer are necessitated by or\\n                              intended to cure any default\
-    \ of or breach of Contract by the Contractor or where\\n                          any delay is due to;\\n  \
-    \                                     a.  the failure of sub-contractor, to commence or to carry out work in\
-    \ due time,\\n                                       b.  non-availability, or shortage of Contractor’s equipment,\
-    \ labour,  utility\\n                                         services, Plant and Materials,\\n            \
-    \                             c.  inclement weather conditions, and\\n                                     \
-    \  d.  the Contractor not fulfilling his obligations under Sub-Clause 4.4.\\n\\n                           \
-    \                        If the Contractor considers himself to be entitled to an extension of time for\\n \
-    \                            Completion, he shall give notice to the Engineer of such intention as soon as\\\
-    n                               possible and in any event within 28 days of the start of the event giving rise\
-    \ to the\\n                              delay and full and final supporting details of his application within\
-    \ 21 days of the\\n                                     last day of delay, together with any notice required\
-    \ by the Contract and relevant\\n                                  to such Clause. If the cause of delay continued\
-    \ for a period exceeding 7 days, the\\n                               Contractor shall submit interim details\
-    \ at intervals of not more than 28 days (from\\n                               the first day of such delays).\\\
-    n                         The Engineer shall proceed in accordance with Sub-Clause 3.5 to agree or\\n      \
-    \                       determine either prospectively or retrospectively such extension of the Time for\\n\
-    \                            Completion as may be due. The Engineer shall notify the Contractor accordingly.\\\
-    n\\nExtension of      8.4.2      The Contractor shall not be entitled to an extension of time by reason of any\
-    \ delay\\ntime for                         to any activity in carrying out of the Works unless in the opinion\
-    \ of the Engineer\\ncompletion for              such delay results in or may be expected to result in a delay\
-    \ to completion of the\\nother reasons               Works, or achievement of any Stage by the relevant Key\
-    \ Date. Whether or not the\\n                               Contractor fails to achieve any Milestone by reason\
-    \ of any delay shall not by itself\\n                          be material to the Contractor's entitlement to\
-    \ an extension of time.\\n                         Any extension to a Key Date shall not by itself entitle the\
-    \ Contractor to an\\n                              extension to any other Key Date and the Time for Completion.\\\
-    n\\nExtension of      8.4.3             If the delay in the completion of the whole Works or a portion of the\
-    \ Works, for\\ntime for delays              which an earlier completion period is stipulated, is due to the\
-    \ Contractor’s failure\\ndue to                         or fault, and the Engineer is of the view that the remaining\
-    \ Works or the portions\\nContractor                      of Works can be completed by the Contractor in a reasonable\
-    \ and acceptable\\n                                short time, then, the Engineer may allow the Contractor extension\
-    \ or further\\n                              extension of time at  its discretion with or without Liquidated\
-    \ damages,  for\\n                               completion, as he may decide.\\n\\nFailure to seek   8.4.4\
-    \        Non-application by the contractor for seeking Extension of time shall not be a bar\\nExtension of \
-    \                    for giving a fair and reasonable Extension by the Employer and this shall be\\ntime by\
-    \                       binding on the contractor.\\ncontractor\\n\\nLiquidated        8.5        Time is the\
-    \ essence of the Contract. As per “contract data” defined percentage of\\nDamages for                  the total\
-    \ contract value will be recoverable from the Contractor as Liquidated\\nDelay                    damages for\
-    \ each week or part thereof for delay in completion of the each Key\\n                             dates and/or\
-    \ Whole of the Works subject to a specified maximum limit as defined\\n                                    \
-    \ in “contract data”.\\n\\n                         The Liquidated damages are recovered by the Employer from\
-    \ the Contractor for\\n                                delay. The Parties agree that amount of Liquidated Damages\
-    \ leviable under the\\n                              Contract are the genuine estimate loss suffered by the\
-    \ Employer because of which\\n                               the Liquidated Damages have been levied on the\
-    \ Contractor. The Liquidated\\n                       Damages may also be recovered  from  the amount  of Performance\
-    \  security\\n                          and in that case the Contractor would be liable to replenish the amount\
-    \ of\\n                           Performance Security.\\n\\n                         The Employer may, without\
-    \ prejudice to any other method of recovery, deduct the\\n                          amount of such damages from\
-    \ any monies due, or to become due, to the\"\n    },\n    {\n      \"pdf_page\": 106,\n      \"text\": \"Contractor.\
-    \ In the event of an extension of time being granted under Sub-\\n                                   Clause8.4,\
-    \  the amount due under  this Sub-Clause  shall be  recalculated\\n                                     accordingly,\
-    \ and any over-payment recovered. The payment or deduction of such\\n                            damages shall\
-    \ not relieve the Contractor from his obligations to complete the\\n                                Works, or\
-    \ from any other of his duties, obligations or responsibilities under the\\n                               \
-    \      Contract. The Contractor shall use and continue to use his best endeavours to\\n                    \
-    \               avoid or reduce further delay to the Works, or any relevant Stages.\\n\\n                  \
-    \                 At any time after the Employer has become entitled to Liquidated damages, the\\n         \
-    \                        Engineer may give notice to the Contractor under Sub- Clause 13.1, requiring the\\\
-    n                                    Contractor to complete the Works within a specified reasonable time. Such\
-    \ action\\n                                        shall  not  prejudice  the Employer's  entitlements  to recovery\
-    \  of  Liquidated\\n                              damages, under this Sub-Clause and to terminate under Sub-\
-    \ Clause 13.2. The\\n                                    decision of the Engineer as to the compensation payable\
-    \ by the Contractor under\\n                                           this Clause shall be final and binding.\\\
-    n\\n    Rate of           8.6                If for any reason which does not entitle the Contractor to an extension\
-    \ of time, the\\n    Progress                       rate of progress of the Works is at any time, in the opinion\
-    \ of the Engineer, too\\n                                 slow to ensure timely completion of the Works or achievement\
-    \ of any Stage by the\\n                                     relevant Key Date the Engineer may so notify the\
-    \ Contractor in writing.  The\\n                                    Contractor shall thereupon take such steps\
-    \ as are necessary, or in default of\\n                                     taking such steps, shall take such\
-    \ steps as the Engineer may reasonably instruct\\n                                           in writing, to\
-    \ expedite progress so as to complete the Works or any Section in time\\n                                  \
-    \   or achieve any Stage by the relevant Key Date.  The Contractor shall not be\\n                         \
-    \                entitled to any additional payment for taking such steps.\\n                              \
-    \                              If any steps taken by the Contractor in meeting his obligations under this Sub-\\\
-    n                                Clause cause the Employer  to incur additional costs, such costs  shall be\\\
-    n                                   recoverable from the Contractor by the Employer, and shall be deducted by\
-    \ the\\n                               Employer from any monies due, or to become due, to the Contractor.\\\
-    n\\n                                                           If, in the opinion of the Engineer, the steps\
-    \ taken by the contractor to expedite the\\n                                  progress are not adequate, the\
-    \ Engineer may take a recourse as per clause 13.2.1\\n                                        of this GCC\\\
-    n    Suspension of    8.7       The Engineer may at any time instruct the Contractor to suspend progress of\
-    \ part\\n    Work                          or all of the Works stating the grounds for such action. During suspension,\
-    \ the\\n                                    Contractor shall protect, store and secure such part or whole of\
-    \ the Works against\\n                               any deterioration, loss or damage.\\n\\n    Consequences\
-    \   8.8        The Contractor shall not be entitled to extra cost (if any), incurred by him, during\\n     of\
-    \ Suspension                 the period of suspension of Work, if such suspension is\\n                    \
-    \                        a.  provided for in the Contract, or\\n                                           \
-    \ b.  necessary for proper execution of Works or by reasons of weather\\n                                  \
-    \           condition or by some default on the part of the Contractor, or\\n                              \
-    \                 c.  necessary for the safety of Works or any part thereof or\\n                          \
-    \                  d.  necessary for the safety of adjoining public or other property or safety of\\n      \
-    \                                      the public or workmen or those who have to be at the site or\\n     \
-    \                                       e.  to ensure safety and to avoid disruption of traffic and utilities,\
-    \ as also to\\n                                           permit fast repairs and restoration of any damaged\
-    \ utilities,\\n                                                            If suspension is ordered by the Engineer\
-    \ for reasons other than those mentioned\\n                                           in Sub Clause 8.8 then\
-    \ the Contractor’s entitlement is in the table below. However,\\n                                   Engineer’s\
-    \ decision is final and binding in regard to defining suspension and\\n                                    \
-    \ specifying the suspension period. Contractor has no right to claim or appeal\\n                          \
-    \          against this decision.\"\n    },\n    {\n      \"pdf_page\": 107,\n      \"text\": \"Sr.  Suspen\
-    \   Exten      Compensation for the        Remarks\\n                             No.   sion      sion of  \
-    \     suspension period\\n                                     Period    Time\\n\\n\\n                     \
-    \       1   Up   to  NO          NO              Engineer may\\n                                60 days    \
-    \                                       give extension\\n                                                  \
-    \                                                of   time    in\\n                                        \
-    \                                                exceptional\\n                                            \
-    \                                       circumstances\\n\\n\\n                            2   60-90   YES  \
-    \        NO              Extension    of\\n                                 days                           \
-    \                 time       as\\n                                                                         \
-    \          considered\\n                                                                                   \
-    \  proper by the\\n                                                                                 Engineer\\\
-    n                            3   Above   YES    As per Daily rate of wages  Compensation\\n               \
-    \                 90 days                  for idle labour/employees   as   assessed\\n                    \
-    \                70% of the rate for hire  by         the\\n                                              \
-    \         charges for idle plant and  Engineer   on\\n                                                     \
-    \ machinery (excluding cost  submission  of\\n                                                             \
-    \      of fuel and lubricants)      documentary\\n                                    15% above all these items\
-    \  proof  by  the\\n                                                                   to cover overhead costs\
-    \     Contractor   to\\n                                                                                   \
-    \   Engineer’s\\n                                                                                          \
-    \       satisfaction\\n\\n\\nResumption of   8.9          After receipt of permission or of an instruction to\
-    \ proceed, the Contractor shall,\\nWork                             after notice to the Engineer, and together\
-    \ with the Engineer, examine the Works,\\n                               Plant and Materials affected by the\
-    \ suspension. The Contractor shall make good\\n                          any deterioration or defect in or loss\
-    \ of the Works, Plant and Materials, which has\\n                             occurred during the suspension.\\\
-    n\\nIncentives for    8.10       The contractor shall be entitled for an incentive for early completion of whole\
-    \ work\\nearly                                                if specified in the Contract Data, Maximum incentive\
-    \ shall be payable limited to as\\ncompletion of                 specified in the contract data\\nWhole work\"\
-    \n    }\n  ],\n  \"heading_line\": \"8        Commencement, Completion and Delay\",\n  \"review_status\": \"\
-    pending_manual_review\",\n  \"title\": \"Commencement, Completion and Delay\"\n}"
+  quote: "{\n  \"clause_id\": \"8\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 104,\n      \"text\": \"8        Commencement, Completion and Delay\\n\\n   Commenceme    8.1        The Contractor shall commence the Works on the date as stated in ‘Contract\\n     nt of Works                      data’. Thereafter, the Contractor shall proceed with due diligence, without delay,\\n                              and in accordance with the programme or any revised or modified programme of\\n                                    the Works. Time is the essence of Contract and time for Completion shall reckon\\n                                  from the date the Contractor is required to commence the Works under this\\n                                   Clause.\\n\\n                             The Contractor shall not commence the construction, manufacture or installation\\n                                        of the Works or of any part of the Works unless and until the Engineer has\\n                                endorsed the relevant Working Drawings in accordance with the Employer's\\n                                 Requirements.\\n\\n    Time for          8.2        Time is the essence of Contract and  will remain so at  all times during the\\n    Completion                pendency  of the Contract including the extended period  of Contract. The\\n                                    Contractor shall ensure defect free completion and have passed the tests on\\n                                 Completion of the whole of the Works and/or parts thereof before the same is\\n                                  taken over by the Employer. Time for the completion of work is as stated in\\n                                      ‘Contract Data’.\\n\\n    Delay             8.3           In case of delay on the part of the Contractor, the Contractor shall be liable to pay\\n                                    Liquidated damages and any other compensation for the damages suffered by\\n                                    the Employer as per Clause 8.5.  This is without prejudice to the right of the\\n                                Employer to rescind the Contract.\\n\\n                                      Failure or delay by the Employer or the Engineer, to hand over to the Contractor\\n                                    the Site necessary for execution of Works, or any part of the Works, or to provide\\n                                 necessary Drawings or instructions or clarifications or to supply any material, plant\\n                                      or machinery, which under the Contract, is the responsibility of the Employer, shall\\n                                           in no way affect or vitiate the Contract or alter the character thereof, or entitle the\\n                                    Contractor to damages or compensation thereof and in any such case, the\\n                                 Engineer shall extend the time period for the completion of the Contract, as in his\\n                                    opinion is / are reasonable.\\n\\n    Extension of     8.4        Extension of Time for Completion\\n    Time for\\n    Completion\\n\\n    Extension of      8.4.1      The Contractor may apply for an extension of the Time for Completion if the Work\\n    Time                                 is or will be delayed either before or after the Time for Completion by any of the\\n                                      following causes.\\n                                            a.  “Force Majeure” referred to in Clause 16.0\\n                                            b.  The Contractor’s work held up for not being given possession of or access\\n                                                 to the Site in accordance with the Contract\\n                                               c.  Instruction of the Engineer to suspend the Works and the Contractor not\\n                                         being in default as to reasons of suspension.\\n                                            d.  Acts or omissions of other Designated Contractors in executing work not\\n                                          forming part of this Contract and on whose performance, the performance\\n                                                 of the Contractor necessarily depends.\\n                                            e.  Any act of prevention or Breach of the Contract by the Employer and not\\n                                       mentioned in this Clause\\n                                                                 f.  Any order of Court restraining the performance of the Contract in full or in\\n                                     any part thereof and the Contractor not being in default as to reason of\\n                                      such order of court.\"\n    },\n    {\n      \"pdf_page\": 105,\n      \"text\": \"g.  Any other event or occurrence which, according to the Employer is not\\n                                due to the Contractor’s failure or fault, and is beyond his control without\\n                                  Employer being responsible for the same.\\n                                       h.  An Employer’s Variation.\\n\\n                           However, the Contractor shall not be entitled to any extension of time where the\\n                                  instructions or acts of the Employer or the Engineer are necessitated by or\\n                              intended to cure any default of or breach of Contract by the Contractor or where\\n                          any delay is due to;\\n                                       a.  the failure of sub-contractor, to commence or to carry out work in due time,\\n                                       b.  non-availability, or shortage of Contractor’s equipment, labour,  utility\\n                                         services, Plant and Materials,\\n                                         c.  inclement weather conditions, and\\n                                       d.  the Contractor not fulfilling his obligations under Sub-Clause 4.4.\\n\\n                                                   If the Contractor considers himself to be entitled to an extension of time for\\n                             Completion, he shall give notice to the Engineer of such intention as soon as\\n                               possible and in any event within 28 days of the start of the event giving rise to the\\n                              delay and full and final supporting details of his application within 21 days of the\\n                                     last day of delay, together with any notice required by the Contract and relevant\\n                                  to such Clause. If the cause of delay continued for a period exceeding 7 days, the\\n                               Contractor shall submit interim details at intervals of not more than 28 days (from\\n                               the first day of such delays).\\n                         The Engineer shall proceed in accordance with Sub-Clause 3.5 to agree or\\n                             determine either prospectively or retrospectively such extension of the Time for\\n                            Completion as may be due. The Engineer shall notify the Contractor accordingly.\\n\\nExtension of      8.4.2      The Contractor shall not be entitled to an extension of time by reason of any delay\\ntime for                         to any activity in carrying out of the Works unless in the opinion of the Engineer\\ncompletion for              such delay results in or may be expected to result in a delay to completion of the\\nother reasons               Works, or achievement of any Stage by the relevant Key Date. Whether or not the\\n                               Contractor fails to achieve any Milestone by reason of any delay shall not by itself\\n                          be material to the Contractor's entitlement to an extension of time.\\n                         Any extension to a Key Date shall not by itself entitle the Contractor to an\\n                              extension to any other Key Date and the Time for Completion.\\n\\nExtension of      8.4.3             If the delay in the completion of the whole Works or a portion of the Works, for\\ntime for delays              which an earlier completion period is stipulated, is due to the Contractor’s failure\\ndue to                         or fault, and the Engineer is of the view that the remaining Works or the portions\\nContractor                      of Works can be completed by the Contractor in a reasonable and acceptable\\n                                short time, then, the Engineer may allow the Contractor extension or further\\n                              extension of time at  its discretion with or without Liquidated damages,  for\\n                               completion, as he may decide.\\n\\nFailure to seek   8.4.4        Non-application by the contractor for seeking Extension of time shall not be a bar\\nExtension of                     for giving a fair and reasonable Extension by the Employer and this shall be\\ntime by                       binding on the contractor.\\ncontractor\\n\\nLiquidated        8.5        Time is the essence of the Contract. As per “contract data” defined percentage of\\nDamages for                  the total contract value will be recoverable from the Contractor as Liquidated\\nDelay                    damages for each week or part thereof for delay in completion of the each Key\\n                             dates and/or Whole of the Works subject to a specified maximum limit as defined\\n                                     in “contract data”.\\n\\n                         The Liquidated damages are recovered by the Employer from the Contractor for\\n                                delay. The Parties agree that amount of Liquidated Damages leviable under the\\n                              Contract are the genuine estimate loss suffered by the Employer because of which\\n                               the Liquidated Damages have been levied on the Contractor. The Liquidated\\n                       Damages may also be recovered  from  the amount  of Performance  security\\n                          and in that case the Contractor would be liable to replenish the amount of\\n                           Performance Security.\\n\\n                         The Employer may, without prejudice to any other method of recovery, deduct the\\n                          amount of such damages from any monies due, or to become due, to the\"\n    },\n    {\n      \"pdf_page\": 106,\n      \"text\": \"Contractor. In the event of an extension of time being granted under Sub-\\n                                   Clause8.4,  the amount due under  this Sub-Clause  shall be  recalculated\\n                                     accordingly, and any over-payment recovered. The payment or deduction of such\\n                            damages shall not relieve the Contractor from his obligations to complete the\\n                                Works, or from any other of his duties, obligations or responsibilities under the\\n                                     Contract. The Contractor shall use and continue to use his best endeavours to\\n                                   avoid or reduce further delay to the Works, or any relevant Stages.\\n\\n                                   At any time after the Employer has become entitled to Liquidated damages, the\\n                                 Engineer may give notice to the Contractor under Sub- Clause 13.1, requiring the\\n                                    Contractor to complete the Works within a specified reasonable time. Such action\\n                                        shall  not  prejudice  the Employer's  entitlements  to recovery  of  Liquidated\\n                              damages, under this Sub-Clause and to terminate under Sub- Clause 13.2. The\\n                                    decision of the Engineer as to the compensation payable by the Contractor under\\n                                           this Clause shall be final and binding.\\n\\n    Rate of           8.6                If for any reason which does not entitle the Contractor to an extension of time, the\\n    Progress                       rate of progress of the Works is at any time, in the opinion of the Engineer, too\\n                                 slow to ensure timely completion of the Works or achievement of any Stage by the\\n                                     relevant Key Date the Engineer may so notify the Contractor in writing.  The\\n                                    Contractor shall thereupon take such steps as are necessary, or in default of\\n                                     taking such steps, shall take such steps as the Engineer may reasonably instruct\\n                                           in writing, to expedite progress so as to complete the Works or any Section in time\\n                                     or achieve any Stage by the relevant Key Date.  The Contractor shall not be\\n                                         entitled to any additional payment for taking such steps.\\n                                                            If any steps taken by the Contractor in meeting his obligations under this Sub-\\n                                Clause cause the Employer  to incur additional costs, such costs  shall be\\n                                   recoverable from the Contractor by the Employer, and shall be deducted by the\\n                               Employer from any monies due, or to become due, to the Contractor.\\n\\n                                                           If, in the opinion of the Engineer, the steps taken by the contractor to expedite the\\n                                  progress are not adequate, the Engineer may take a recourse as per clause 13.2.1\\n                                        of this GCC\\n    Suspension of    8.7       The Engineer may at any time instruct the Contractor to suspend progress of part\\n    Work                          or all of the Works stating the grounds for such action. During suspension, the\\n                                    Contractor shall protect, store and secure such part or whole of the Works against\\n                               any deterioration, loss or damage.\\n\\n    Consequences   8.8        The Contractor shall not be entitled to extra cost (if any), incurred by him, during\\n     of Suspension                 the period of suspension of Work, if such suspension is\\n                                            a.  provided for in the Contract, or\\n                                            b.  necessary for proper execution of Works or by reasons of weather\\n                                             condition or by some default on the part of the Contractor, or\\n                                               c.  necessary for the safety of Works or any part thereof or\\n                                            d.  necessary for the safety of adjoining public or other property or safety of\\n                                            the public or workmen or those who have to be at the site or\\n                                            e.  to ensure safety and to avoid disruption of traffic and utilities, as also to\\n                                           permit fast repairs and restoration of any damaged utilities,\\n                                                            If suspension is ordered by the Engineer for reasons other than those mentioned\\n                                           in Sub Clause 8.8 then the Contractor’s entitlement is in the table below. However,\\n                                   Engineer’s decision is final and binding in regard to defining suspension and\\n                                     specifying the suspension period. Contractor has no right to claim or appeal\\n                                    against this decision.\"\n    },\n    {\n      \"pdf_page\": 107,\n      \"text\": \"Sr.  Suspen   Exten      Compensation for the        Remarks\\n                             No.   sion      sion of       suspension period\\n                                     Period    Time\\n\\n\\n                            1   Up   to  NO          NO              Engineer may\\n                                60 days                                           give extension\\n                                                                                                  of   time    in\\n                                                                                        exceptional\\n                                                                                   circumstances\\n\\n\\n                            2   60-90   YES          NO              Extension    of\\n                                 days                                            time       as\\n                                                                                   considered\\n                                                                                     proper by the\\n                                                                                 Engineer\\n                            3   Above   YES    As per Daily rate of wages  Compensation\\n                                90 days                  for idle labour/employees   as   assessed\\n                                    70% of the rate for hire  by         the\\n                                                       charges for idle plant and  Engineer   on\\n                                                      machinery (excluding cost  submission  of\\n                                                                   of fuel and lubricants)      documentary\\n                                    15% above all these items  proof  by  the\\n                                                                   to cover overhead costs     Contractor   to\\n                                                                                      Engineer’s\\n                                                                                                 satisfaction\\n\\n\\nResumption of   8.9          After receipt of permission or of an instruction to proceed, the Contractor shall,\\nWork                             after notice to the Engineer, and together with the Engineer, examine the Works,\\n                               Plant and Materials affected by the suspension. The Contractor shall make good\\n                          any deterioration or defect in or loss of the Works, Plant and Materials, which has\\n                             occurred during the suspension.\\n\\nIncentives for    8.10       The contractor shall be entitled for an incentive for early completion of whole work\\nearly                                                if specified in the Contract Data, Maximum incentive shall be payable limited to as\\ncompletion of                 specified in the contract data\\nWhole work\"\n    }\n  ],\n  \"heading_line\": \"8        Commencement, Completion and Delay\",\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"Commencement, Completion and Delay\"\n}"
   page_basis: Parsed record provenance; not independently PDF-verified
   heading_alignment: exact_number_match
 - id: Jb0f2f3592fad0ed6
@@ -217,25 +49,26 @@ sources:
   json_pointer: /entries/2
   json_record_id: null
   source_review_status: pending_manual_review
-  quote: "{\n  \"change_type\": \"delete_specified_paragraph_and_following_table\",\n  \"fragments\": [\n    {\n\
-    \      \"pdf_page\": 145,\n      \"text\": \"3     Sub-Clause 8.8         Following Para of the sub- clause\
-    \ 8.8 along with the contents of the\\n         Consequences     of  table provided after this para stands deleted;\\\
-    n          Suspension                    “If suspension is ordered by the Engineer for reasons other than those\\\
-    n                                 mentioned in Sub Clause 8.8 ……………………….against this decision”.\"\n    }\n \
-    \ ],\n  \"gcc_reference\": {\n    \"section\": \"E\",\n    \"source_id\": \"bmrcl-volume-1\",\n    \"subclause_id\"\
-    : \"8.8\"\n  },\n  \"gcc_subclause_id\": \"8.8\",\n  \"review_status\": \"pending_manual_review\",\n  \"scc_clause_id\"\
-    : \"3\"\n}"
+  quote: "{\n  \"change_type\": \"delete_specified_paragraph_and_following_table\",\n  \"fragments\": [\n    {\n      \"pdf_page\": 145,\n      \"text\": \"3     Sub-Clause 8.8         Following Para of the sub- clause 8.8 along with the contents of the\\n         Consequences     of  table provided after this para stands deleted;\\n          Suspension                    “If suspension is ordered by the Engineer for reasons other than those\\n                                 mentioned in Sub Clause 8.8 ……………………….against this decision”.\"\n    }\n  ],\n  \"gcc_reference\": {\n    \"section\": \"E\",\n    \"source_id\": \"bmrcl-volume-1\",\n    \"subclause_id\": \"8.8\"\n  },\n  \"gcc_subclause_id\": \"8.8\",\n  \"review_status\": \"pending_manual_review\",\n  \"scc_clause_id\": \"3\"\n}"
   page_basis: Parsed record provenance; not independently PDF-verified
   heading_alignment: document_heading_fallback_not_a_subclause_match
-last_ingested: '2026-11-01T12:36:19+00:00'
-answer_evidence_ids:
-- J0fe8982de24f004e
-- Jb0f2f3592fad0ed6
-method: Source-backed answer to the example query in the supplied creation prompt; no API call
-last_provenance_migrated: '2026-11-01T13:54:09+00:00'
+question: Which provisions govern suspension?
+asked: '2026-11-01'
+asked_basis: Recorded project workflow date; exact historical question timestamp was not recorded.
+wiki_pages_used:
+- wiki/concepts/general_conditions_of_contract_overview.md
+- wiki/concepts/special_conditions_of_contract_overview.md
+wiki_pages_used_basis: Relevant maintained pages checked during this schema-alignment pass.
+last_schema_aligned: '2026-11-01T14:33:52+00:00'
 ---
 
 # Which provisions govern suspension?
+
+## Question
+
+Which provisions govern suspension?
+
+## Answer
 
 > Draft source-based answer. PDF verification is pending. No compliance or applicability decision.
 
@@ -247,6 +80,20 @@ SCC 3 deletes the specified paragraph of GCC 8.8 concerning suspension for other
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 8 — Commencement, Completion and Delay|Clause 8 — Commencement, Completion and Delay]]; `Vol1DLNP1.pdf`; PDF page(s) 104, 105, 106, 107; `J0fe8982de24f004e`; [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; `Jb0f2f3592fad0ed6`
 
-## Open questions
+#### Open questions
 
 Confirm exact wording against the source PDF and consult any later applicable amendments. No review promotion was performed.
+
+## Citations
+
+- [[OKF_bundle/Technical/Vol1/secE#Clause 8 — Commencement, Completion and Delay|GCC 8]], `Vol1DLNP1.pdf`, PDF pp. 104, 105, 106, 107 (`parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/7`)
+- [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|SCC 3]], `Vol1DLNP1.pdf`, PDF p. 145 (`parsed_json/vol1/section_f_scc/scc_entries.json#/entries/2`)
+
+## Wiki pages used
+
+- [[wiki/concepts/general_conditions_of_contract_overview|general_conditions_of_contract_overview.md]]
+- [[wiki/concepts/special_conditions_of_contract_overview|special_conditions_of_contract_overview.md]]
+
+## Caveats
+
+Draft only. Existing audit snapshots and historical counts in the answer retain their original context. PDF verification, source completeness, amendment interpretation and human approval are not established by formatting or a structural audit.

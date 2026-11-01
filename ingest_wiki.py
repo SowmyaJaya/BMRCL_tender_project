@@ -17,7 +17,7 @@ ENGINE = 'bmrcl-dynamic-wiki-v2'
 TENDER = 'BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157'
 HUBS = {'cross_reference_master.md', 'commercial_entity_index.md', 'contractual_obligation_map.md', 'safety_penalty_network.md', 'parties_and_roles.md', 'glossary.md', 'timeline.md', 'source_quirks.md', 'review_queue.md'}
 KINDS = ['summary', 'parameter', 'relation', 'review_question', 'source_quirk']
-RELATIONS = ['none', 'relates_to', 'references', 'defines', 'depends_on', 'amends', 'supersedes', 'conflicts_with', 'alias_of']
+RELATIONS = ['none', 'belongs_to', 'cites', 'clarifies', 'defines', 'deletes', 'evidenced_by', 'governs', 'modifies', 'related_to', 'replaces', 'requires', 'superseded_by', 'supersedes']
 OUTPUT_SCHEMA = {
     'type': 'object',
     'properties': {'pages': {'type': 'array', 'minItems': 1, 'maxItems': 6, 'items': {
@@ -44,7 +44,7 @@ Return structured JSON only. Each claim needs evidence_ids from the supplied cat
 Paths allowed: concepts/lowercase_slug.md or these hubs: cross_reference_master.md, commercial_entity_index.md, contractual_obligation_map.md, safety_penalty_network.md, parties_and_roles.md, glossary.md, timeline.md, source_quirks.md, review_queue.md. Never propose edits to SCHEMA.md, index.md, log.md, source files or qa/.
 Claims use kind summary, parameter, relation, review_question or source_quirk. For kind=relation, from_id and to_id identify two evidence units; both must be among its evidence_ids. Distinguish explicit textual references from inferred topic mappings. Other kinds have relation_type=none, explicitness=not_a_relation, from_id='', to_id=''.
 Every proposed PAGE must include evidence from the selected source OR an applicable amendment to that source. Across the response, cite the selected source itself at least once. Do not propose unrelated topics or use merely available prior context to justify an unrelated page. Individual claims may also cite supplied relevant prior evidence. Do not cite an old model answer as independent evidence.
-Existing saved claims are preserved by the program. Add only new supported claims or questions; duplicate exact claims are deduplicated. If something needs correction, add a clear cited review_question or conflicts_with relation; do not silently replace or delete earlier knowledge. Exact updates/deletions and review promotion are not supported by this pilot.
+Existing saved claims are preserved by the program. Add only new supported claims or questions; duplicate exact claims are deduplicated. If something needs correction, add a clear cited review_question or related_to relation identifying the conflict; do not silently replace or delete earlier knowledge. Exact updates/deletions and review promotion are not supported by this pilot.
 Critical: retain original NIT dates as baseline; compare provided corrigenda and report original versus replacement values. Never call them current/live dates or assume no later amendments exist. Cite both sides when saying a value changed. Do not label generic templates as bidder submissions. Deleted attachments remain deleted. A heading-only OKF source provides navigation only and cannot substantiate missing thresholds, durations or conditions. Matching page-backed JSON may supply the actual template text; clearly identify this distinction and never treat blank templates as executed agreements or bidder submissions.
 Do not impose SCC > GCC > Contract Data unless the supplied text establishes that exact hierarchy. SCC changes have precise scope. Flag unknown precedence. No blanket deletion of GCC 8.8 and no automatic removal of 8.7 authority.
 Create/update source_quirks.md and review_queue.md only when findings/questions have supporting evidence. All outputs are draft; quotation provenance does not establish semantic correctness. Be explicit about incomplete scope and unresolved questions.'''
@@ -495,7 +495,7 @@ def render(path, title, new_claims, previous, catalogue, now, model):
     sources = {}
     for c in citations.values():
         sources[(c['okf_path'], c['okf_sha256'], c.get('json_path'), c.get('json_pointer'))] = {key: c[key] for key in ['okf_path', 'okf_sha256', 'source_document', 'json_path', 'json_sha256', 'json_pointer', 'source_sha256'] if key in c}
-    meta = {'type': 'concept' if path.startswith('concepts/') else 'wiki_hub', 'title': title,
+    meta = {'type': 'concept' if path.startswith('concepts/') else 'hub', 'title': title,
             'tender_no': TENDER, 'status': 'draft', 'review_status': 'pending_manual_review',
             'generator': ENGINE, 'created_at': old_meta.get('created_at', now), 'updated_at': now,
             'last_ingested': now, 'model': model, 'sources': list(sources.values()), 'claims': stored}
@@ -573,6 +573,21 @@ def render(path,title,new_claims,previous,catalogue,now,model):
         text='\n\n'.join('## '+x['title']+'\n\n'+x['body'] for x in ext)
         body=body.replace('<details>',text+'\n\n<details>',1)
     return wrap(meta,body),added
+
+
+# SOWMYA_SCHEMA_RENDER_V1
+import sys as _schema_sys
+if str(Path(__file__).resolve().parent) not in _schema_sys.path:
+    _schema_sys.path.insert(0,str(Path(__file__).resolve().parent))
+from bmrcl_wiki_format import format_page as _schema_format_page
+_old_render_before_sowmya = render
+def render(path,title,new_claims,previous,catalogue,now,model):
+    out,added=_old_render_before_sowmya(path,title,new_claims,previous,catalogue,now,model)
+    meta,_,_=metadata(out)
+    if previous:
+        for key in ['review_items','scope_exclusions','last_review_inventory_updated','last_provenance_migrated']:
+            if key in previous.get('meta',{}):meta[key]=previous['meta'][key]
+    return _schema_format_page(path,meta,catalogue,now),added
 
 
 def call_model(key, model, system, prompt):
@@ -917,17 +932,17 @@ def main():
         require(existing['index.md']['meta'].get('generator') == ENGINE, 'Existing index is unmanaged; merge explicitly before proceeding.')
     all_pages = {p: v['text'] for p, v in existing.items() if p != 'log.md'}
     all_pages.update(planned)
-    all_pages.setdefault('index.md', wrap({'type': 'wiki_index', 'title': 'BMRCL Wiki Index'}, '# BMRCL Wiki Index'))
+    all_pages.setdefault('index.md', wrap({'type': 'catalog', 'title': 'BMRCL Wiki Index'}, '# BMRCL Wiki Index'))
     summaries = ['# BMRCL Wiki Index', '', 'All model-derived knowledge is draft. Listed pages do not establish complete source coverage or human approval.', '', '| Page | Description |', '|---|---|']
     for relative, text in sorted(all_pages.items()):
         m, _, _ = metadata(text)
         title = str(m.get('title', Path(relative).stem)).replace('|', '\\|').replace('\n', ' ')
         summaries.append(f'| [{title}]({relative}) | ' + ('Schema/workflow instructions.' if relative == 'SCHEMA.md' else 'Draft ' + str(m.get('type', 'page')) + '; ' + str(len(m.get('claims', []))) + ' saved claims/findings.') + ' |')
     summaries.extend(['| [Activity Log](log.md) | Actual ingest activity and unresolved validation boundaries. |', '', '## Ingestion Boundary', '', 'Latest selected source: `' + selected + '`. This is not a declaration that every source section or amendment has been fully covered.'])
-    planned['index.md'] = wrap({'type': 'wiki_index', 'title': 'BMRCL Wiki Index', 'status': 'draft', 'generator': ENGINE, 'updated_at': now}, '\n'.join(summaries))
+    planned['index.md'] = wrap({'type': 'catalog', 'title': 'BMRCL Wiki Index', 'status': 'draft', 'generator': ENGINE, 'updated_at': now}, '\n'.join(summaries))
     used = {i for p in result['pages'] for c in p['claims'] for i in c['evidence_ids']}
     entry = f'\n\n## {now} — llm_ingest\n\n- Model: `{args.model}`.\n- Selected source: `{selected}`.\n- Sources sent: ' + ', '.join('`' + d['path'] + '`' for d in documents) + f'.\n- Schema SHA256: `{sha(wiki_before["SCHEMA.md"])}`.\n- New distinct draft claims/findings: {total_added}.\n- Selected evidence units cited: {len(used & selected_ids)}/{len(selected_ids)}; this is citation coverage, not semantic completeness.\n- Affected knowledge pages: ' + ', '.join('`' + p['path'] + '`' for p in result['pages']) + f'.\n- API generation attempts: {attempts}.\n- Total generation/validation time: {elapsed:.2f} seconds.\n- Exact evidence IDs, permitted paths and relation endpoints checked.\n- Sources and SCHEMA.md unchanged. OKF and JSON input only; no PDF upload or Git operation.\n- Semantic correctness, full amendment consolidation and human review remain pending.\n'
-    log_text = existing['log.md']['text'] if 'log.md' in existing else wrap({'type': 'wiki_log', 'title': 'Wiki Activity Log', 'generator': ENGINE, 'status': 'draft'}, '# Wiki Activity Log\n\nAppend-only record of actual operations.')
+    log_text = existing['log.md']['text'] if 'log.md' in existing else wrap({'type': 'log', 'title': 'Wiki Activity Log', 'generator': ENGINE, 'status': 'draft'}, '# Wiki Activity Log\n\nAppend-only record of actual operations.')
     entry += f'\n- Focused request: {args.focused}; prior knowledge preserved; cross-source conflict review remains pending.\n'
     if args.itt_gaps:
         entry += '\n- Supplementary coverage review: ITT 5, 7, 17, 19 and 20 only; original full-section checkpoints unchanged. Meaning review pending.\n'
@@ -938,6 +953,8 @@ def main():
     checkpoint = {'signature': signature, 'source': selected, 'batch': batch_number, 'total': len(batches), 'status': 'draft_saved_not_reviewed'}
     entry += '\n<!-- wiki_batch_checkpoint ' + json.dumps(checkpoint, sort_keys=True) + ' -->\n'
     planned['log.md'] = log_text.rstrip() + entry
+    from bmrcl_wiki_format import sync_review_queue as _sync_schema_review_queue
+    _sync_schema_review_queue(planned, existing, catalogue, now, args.model)
     # Final preflight against concurrent edits, including files created during the request.
     actual_paths = {p.relative_to(wiki).as_posix() for p in wiki.rglob('*.md')}
     require(actual_paths == set(wiki_before), 'Wiki changed during generation; nothing saved.')
