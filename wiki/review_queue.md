@@ -6,482 +6,482 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-30T12:58:34+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T07:14:28+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-  okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+  okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
   source_document: DLN_P1_AandC1_157.PDF
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-  okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+  okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
   source_document: AandC3_DLN_P1_157.PDF
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_clauses.json
   json_sha256: d8207622663bc2dd0cf2a7c5e3ed660f5c3881838e376d1bbb26fdae47ed8abf
   json_pointer: /clauses/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_criteria.json
   json_sha256: ab3cdc95d724a7912220cd865c0b6a59bfceea0f7743c525b58aec19278e8816
   json_pointer: /note_groups/work_experience/5
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_criteria.json
   json_sha256: ab3cdc95d724a7912220cd865c0b6a59bfceea0f7743c525b58aec19278e8816
   json_pointer: /note_groups/financial_standing/5
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_6_tables.json
   json_sha256: 09cce9216ab850d8085b31fc6ceebb2d2718c6e306693fe7ad5d257f7814a680
   json_pointer: /main_form_table/entry_rows/2/fields/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_6_tables.json
   json_sha256: 09cce9216ab850d8085b31fc6ceebb2d2718c6e306693fe7ad5d257f7814a680
   json_pointer: /main_form_table/entry_rows/0/fields/9
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json
   json_sha256: 05a1d839e2b5bb79ea3247a38927b01d20d5c195c3b2856edb508d5307e8b383
   json_pointer: /personnel_requirements/1/proposed_personnel_fields/3
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json
   json_sha256: b95752e578a71f5d2b003df2bc34f04a87ca5e45b9ade83b814db0a24175a058
   json_pointer: /main_table/entry_rows/0/fields/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json
   json_sha256: b95752e578a71f5d2b003df2bc34f04a87ca5e45b9ade83b814db0a24175a058
   json_pointer: /main_table/entry_rows/1/fields/3
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json
   json_sha256: b95752e578a71f5d2b003df2bc34f04a87ca5e45b9ade83b814db0a24175a058
   json_pointer: /main_table/entry_rows/0/fields/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_6_tables.json
   json_sha256: 09cce9216ab850d8085b31fc6ceebb2d2718c6e306693fe7ad5d257f7814a680
   json_pointer: /full_form_context/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json
   json_sha256: b95752e578a71f5d2b003df2bc34f04a87ca5e45b9ade83b814db0a24175a058
   json_pointer: /full_form_context/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/6
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/4
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/11
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_8_8_suspension_table.json
   json_sha256: 57720cab5b8335e92802eefe68b9830c0c4cc46b20cb002280bb0337977df151
   json_pointer: /linked_scc_instruction/instruction_fragments/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/12
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/9
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/10
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/8
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/7
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/5
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_2_personnel/personnel_requirements.json
   json_sha256: d28c815d5151f36e3d238a6555492a5e618921a67ba7a5582686fe4eb2f14c28
   json_pointer: /personnel_requirements/0/cells/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_2_personnel/personnel_requirements.json
   json_sha256: d28c815d5151f36e3d238a6555492a5e618921a67ba7a5582686fe4eb2f14c28
   json_pointer: /personnel_requirements/0/cells/3
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_3_equipment/equipment_requirements.json
   json_sha256: 748f008ccf7681c330c32363d7d31900b33cbd45ef94ebaead651e3832df885a
   json_pointer: /equipment_requirements/4/cells/1
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_3_equipment/equipment_requirements.json
   json_sha256: 748f008ccf7681c330c32363d7d31900b33cbd45ef94ebaead651e3832df885a
   json_pointer: /equipment_requirements/4/cells/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_3_equipment/equipment_requirements.json
   json_sha256: 748f008ccf7681c330c32363d7d31900b33cbd45ef94ebaead651e3832df885a
   json_pointer: /equipment_requirements/8/cells/0
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/11
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/9/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/10
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/9
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/29
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /clauses/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /source_page_context/7
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /source_page_context/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /source_page_context/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /source_page_context/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /source_page_context/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /source_page_context/4
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /source_page_context/6
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /source_page_context/5
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /source_page_context/7
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/28
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/20
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/29
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/40
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/74
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/76
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /source_quirks/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json
   json_sha256: 96a8da18726a9d4c7a2150f8e27855b32f1e8ccd7552643932a26c9a79a954a4
   json_pointer: /source_quirks/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json
   json_sha256: 96a8da18726a9d4c7a2150f8e27855b32f1e8ccd7552643932a26c9a79a954a4
   json_pointer: /introduction_quote_and_attribution
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/2/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/0/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/6/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/8/fragments/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/7
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/8/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/11
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/boq_abstract.json
   json_sha256: 72270396d4fa6937594cd8531e2e59d34d2ab164007793bc1a3ca2b775a056a0
   json_pointer: /records/3
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/3
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/4
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/boq_abstract.json
   json_sha256: 72270396d4fa6937594cd8531e2e59d34d2ab164007793bc1a3ca2b775a056a0
   json_pointer: /records/0
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_document.json
   json_sha256: e818be1fb28ea74092cb53a451b92e169c6e8a07afec0add897be67d5844a2b3
   json_pointer: /pages/5
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-  okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+  okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
   source_document: AandC3_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/13
   source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-  okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+  okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
   source_document: AandC3_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/16
   source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-  okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+  okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
   source_document: AandC3_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/15
   source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-  okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+  okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
   source_document: AandC3_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
@@ -492,17 +492,17 @@ claims:
   text: Final transcription and applicability review remains pending for Addendum and Corrigendum No. 1 and No.
     3.
   evidence_ids:
-  - S76273484f52c8e77
-  - S9a1a7300b8c68e4b
+  - Sa0765c174b740c8f
+  - Sdbae14720111f1cf
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cba64500725e367d6
+  id: C9214c16b142ce183
   citations:
-  - id: S76273484f52c8e77
+  - id: Sa0765c174b740c8f
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-    okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+    okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
     heading: Review Notes
     source_document: DLN_P1_AandC1_157.PDF
     pdf_pages:
@@ -513,14 +513,12 @@ claims:
 
       - Original tender wording and historical values must remain available.
 
-      - Final transcription and applicability review remains pending.
-
-      >>>>>>> b1f5c9eb1f3986f540500a5c5ee639e92e9edc53'
+      - Final transcription and applicability review remains pending.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: S9a1a7300b8c68e4b
+  - id: Sdbae14720111f1cf
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Review Notes
     source_document: AandC3_DLN_P1_157.PDF
     pdf_pages:
@@ -534,27 +532,36 @@ claims:
       - These are the replacement values in Corrigendum No. 3; this document alone does not establish that no later
       amendments exist.
 
-      - Final transcription and applicability review remains pending.
-
-      >>>>>>> b1f5c9eb1f3986f540500a5c5ee639e92e9edc53'
+      - Final transcription and applicability review remains pending.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: document_metadata_range
   created_at: '2026-10-30T12:58:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cba64500725e367d6
+    previous_evidence_ids:
+    - S76273484f52c8e77
+    - S9a1a7300b8c68e4b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether any subsequent corrigenda modify the financial thresholds or work experience values specified
     in Section C EQC Clause 3.1.
   evidence_ids:
-  - J704434795075ef24
+  - J0949e7907866cf3c
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9670a32e8b57a07f
+  id: C5e69caebdacf4292
   citations:
-  - id: J704434795075ef24
+  - id: J0949e7907866cf3c
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Clause 3.0 — Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -681,21 +688,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T13:14:21+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9670a32e8b57a07f
+    previous_evidence_ids:
+    - J704434795075ef24
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether foreign currency conversion procedures under EQC clause notes apply uniformly to all past
     financial turnover and work experience calculations without exception.
   evidence_ids:
-  - J15c05b6805826ad1
-  - Jf1171fb75fee998b
+  - J3cd7e98e7821d0bc
+  - J77160f041436cb56
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C31bec186848cbb97
+  id: C96e2efa054a59142
   citations:
-  - id: J15c05b6805826ad1
+  - id: J3cd7e98e7821d0bc
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -716,9 +733,9 @@ claims:
       : 6,\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf1171fb75fee998b
+  - id: J77160f041436cb56
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -741,27 +758,38 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:15:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C31bec186848cbb97
+    previous_evidence_ids:
+    - J15c05b6805826ad1
+    - Jf1171fb75fee998b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether all blank template fields across Section D attachments are correctly mapped to expected bidder
     data inputs without missing formatting instructions or notes.
   evidence_ids:
-  - J087ba490baa66b22
-  - J1bf8dba55f11e8f3
-  - J337894513d0234f8
-  - J38b4a04f37db1096
-  - J3ea9253cbbbadd85
-  - J4a93f2b0640a1bfc
-  - J5c929fc9bf95447d
-  - Jdfcb22f4e62f06f2
+  - Je39a868ecbc078af
+  - Jcad282231bc6155a
+  - J3f85e4b4c1e9bb9e
+  - J07ed326e26ae323a
+  - J5777e5f4a4682f5f
+  - J2a3661ce40f5dfdf
+  - Jcab66de298f61ed3
+  - Ja4b74630f796bd08
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3e826561f973ef99
+  id: C0e8abebd6caabdc0
   citations:
-  - id: J087ba490baa66b22
+  - id: Je39a868ecbc078af
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -778,9 +806,9 @@ claims:
       ,\n  \"source_status\": \"no_text_in_template_cell\",\n  \"source_text\": \"\",\n  \"value\": null\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J1bf8dba55f11e8f3
+  - id: Jcad282231bc6155a
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -797,9 +825,9 @@ claims:
       ,\n  \"source_status\": \"no_text_in_template_cell\",\n  \"source_text\": \"\",\n  \"value\": null\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J337894513d0234f8
+  - id: J3f85e4b4c1e9bb9e
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -816,9 +844,9 @@ claims:
       ,\n  \"source_status\": \"no_text_in_template_cell\",\n  \"source_text\": \"\",\n  \"value\": null\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J38b4a04f37db1096
+  - id: J07ed326e26ae323a
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -835,9 +863,9 @@ claims:
       ,\n  \"source_status\": \"no_text_in_template_cell\",\n  \"source_text\": \"\",\n  \"value\": null\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J3ea9253cbbbadd85
+  - id: J5777e5f4a4682f5f
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -854,9 +882,9 @@ claims:
       ,\n  \"source_status\": \"no_text_in_template_cell\",\n  \"source_text\": \"\",\n  \"value\": null\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J4a93f2b0640a1bfc
+  - id: J2a3661ce40f5dfdf
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -873,9 +901,9 @@ claims:
       ,\n  \"source_status\": \"no_text_in_template_cell\",\n  \"source_text\": \"\",\n  \"value\": null\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5c929fc9bf95447d
+  - id: Jcab66de298f61ed3
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -909,9 +937,9 @@ claims:
       \ of signatory: …………………………… \\nName and address of Tenderer: ……………….\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jdfcb22f4e62f06f2
+  - id: Ja4b74630f796bd08
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -945,23 +973,40 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:21:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3e826561f973ef99
+    previous_evidence_ids:
+    - J087ba490baa66b22
+    - J1bf8dba55f11e8f3
+    - J337894513d0234f8
+    - J38b4a04f37db1096
+    - J3ea9253cbbbadd85
+    - J4a93f2b0640a1bfc
+    - J5c929fc9bf95447d
+    - Jdfcb22f4e62f06f2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether Corrigendum No. 2 deletion instructions targeting specific GCC subclauses supersede the Contract
     Data table entries or if the Contract Data designations remain the controlling operative rules.
   evidence_ids:
-  - J1dd8bce37ef510fc
-  - J2cc37360d6e327cb
-  - J432b23c1c3a0838e
-  - Jfbc942cc9fb4caf7
+  - J42ebc7a9caffaf7c
+  - J03d7bc25e8c4862c
+  - J472f04a0581e5138
+  - J24b88bf9d69b3142
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4781cf53d06982f7
+  id: Cb358341fb09526e3
   citations:
-  - id: J1dd8bce37ef510fc
+  - id: J42ebc7a9caffaf7c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -991,9 +1036,9 @@ claims:
       \ and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J2cc37360d6e327cb
+  - id: J03d7bc25e8c4862c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1020,9 +1065,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J432b23c1c3a0838e
+  - id: J472f04a0581e5138
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1052,9 +1097,9 @@ claims:
       \ amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jfbc942cc9fb4caf7
+  - id: J24b88bf9d69b3142
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1075,28 +1120,41 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:27:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4781cf53d06982f7
+    previous_evidence_ids:
+    - J1dd8bce37ef510fc
+    - J2cc37360d6e327cb
+    - J432b23c1c3a0838e
+    - Jfbc942cc9fb4caf7
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether Corrigendum No. 2 deletion instructions targeting specific GCC subclauses (such as Sub-Clauses
     4.5, 8.10, 11.2.1 through 11.2.3, and 15.1) supersede the Contract Data table entries or if the Contract Data
     designations remain the controlling operative rules.
   evidence_ids:
-  - J1dd8bce37ef510fc
-  - J2cc37360d6e327cb
-  - J432b23c1c3a0838e
-  - J5075223d6e496a2a
-  - J5d3bb44b86c8dbc6
-  - Ja338361a10571a5c
-  - Jb6dbe6e9c034af69
-  - Jfd41b6562ee997ba
+  - J42ebc7a9caffaf7c
+  - J03d7bc25e8c4862c
+  - J472f04a0581e5138
+  - J1daf1ac7056acbc2
+  - Ja33aa367f0eabe79
+  - J68b661210475bcab
+  - J9f1e91a67a75186a
+  - J830981895ce0b48b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc74a321ba11317e3
+  id: C2aa83f2231e20da9
   citations:
-  - id: J1dd8bce37ef510fc
+  - id: J42ebc7a9caffaf7c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1126,9 +1184,9 @@ claims:
       \ and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J2cc37360d6e327cb
+  - id: J03d7bc25e8c4862c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1155,9 +1213,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J432b23c1c3a0838e
+  - id: J472f04a0581e5138
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1187,9 +1245,9 @@ claims:
       \ amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5075223d6e496a2a
+  - id: J1daf1ac7056acbc2
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1219,9 +1277,9 @@ claims:
       \ amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5d3bb44b86c8dbc6
+  - id: Ja33aa367f0eabe79
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1251,9 +1309,9 @@ claims:
       \ wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Ja338361a10571a5c
+  - id: J68b661210475bcab
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1283,9 +1341,9 @@ claims:
       Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jb6dbe6e9c034af69
+  - id: J9f1e91a67a75186a
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1316,9 +1374,9 @@ claims:
       \ not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jfd41b6562ee997ba
+  - id: J830981895ce0b48b
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1350,24 +1408,41 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:29:46+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc74a321ba11317e3
+    previous_evidence_ids:
+    - J1dd8bce37ef510fc
+    - J2cc37360d6e327cb
+    - J432b23c1c3a0838e
+    - J5075223d6e496a2a
+    - J5d3bb44b86c8dbc6
+    - Ja338361a10571a5c
+    - Jb6dbe6e9c034af69
+    - Jfd41b6562ee997ba
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify the operational impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses (including sub-contracting
     restrictions, early completion incentives, price variation bands, and various advances) while keeping the Contract
     Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list.
   evidence_ids:
-  - J2cc37360d6e327cb
-  - Jdbaceb05b8fa1555
-  - S7b99d9f12d93c1c0
-  - Sfd23c1747d11bf6b
+  - J03d7bc25e8c4862c
+  - J4e809387ba405ea9
+  - S51f9471435b42990
+  - S15d57f3825cb65ba
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2ac4fe98c0a9bd6b
+  id: C00605ee8670edd1a
   citations:
-  - id: J2cc37360d6e327cb
+  - id: J03d7bc25e8c4862c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1394,9 +1469,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jdbaceb05b8fa1555
+  - id: J4e809387ba405ea9
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1437,9 +1512,9 @@ claims:
       \ agreement value is less than 1 % of the total original contract value.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S7b99d9f12d93c1c0
+  - id: S51f9471435b42990
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: 'Change 5 — Add SCC Clause 6: Price Variation/Adjustment'
     source_document: AandC2_DLN_P1_157.PDF
     pdf_pages:
@@ -1463,9 +1538,9 @@ claims:
       This addition should be read alongside Change 2, which retains NOT APPLICABLE in Contract Data Item 14.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: Sfd23c1747d11bf6b
+  - id: S15d57f3825cb65ba
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: 'Change 2 — Contract Data Item 14: Price Variation/Adjustment'
     source_document: AandC2_DLN_P1_157.PDF
     pdf_pages:
@@ -1493,29 +1568,42 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:31:12+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2ac4fe98c0a9bd6b
+    previous_evidence_ids:
+    - J2cc37360d6e327cb
+    - Jdbaceb05b8fa1555
+    - S7b99d9f12d93c1c0
+    - Sfd23c1747d11bf6b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Review findings regarding Corrigendum No. 2 modifications to GCC and SCC provisions, specifically the deletion
     instruction scope across multiple clauses.
   evidence_ids:
-  - J1dd8bce37ef510fc
-  - J2cc37360d6e327cb
-  - J432b23c1c3a0838e
-  - J5075223d6e496a2a
-  - J5d3bb44b86c8dbc6
-  - Ja338361a10571a5c
-  - Jb6dbe6e9c034af69
-  - Jdbaceb05b8fa1555
-  - Jfd41b6562ee997ba
-  - S0e67b4ccfdcd211e
+  - J42ebc7a9caffaf7c
+  - J03d7bc25e8c4862c
+  - J472f04a0581e5138
+  - J1daf1ac7056acbc2
+  - Ja33aa367f0eabe79
+  - J68b661210475bcab
+  - J9f1e91a67a75186a
+  - J4e809387ba405ea9
+  - J830981895ce0b48b
+  - S00a906ba193e9620
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C383eea1a358948b3
+  id: C5f1a71f196373cd4
   citations:
-  - id: J1dd8bce37ef510fc
+  - id: J42ebc7a9caffaf7c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1545,9 +1633,9 @@ claims:
       \ and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J2cc37360d6e327cb
+  - id: J03d7bc25e8c4862c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1574,9 +1662,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J432b23c1c3a0838e
+  - id: J472f04a0581e5138
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1606,9 +1694,9 @@ claims:
       \ amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5075223d6e496a2a
+  - id: J1daf1ac7056acbc2
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1638,9 +1726,9 @@ claims:
       \ amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5d3bb44b86c8dbc6
+  - id: Ja33aa367f0eabe79
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1670,9 +1758,9 @@ claims:
       \ wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Ja338361a10571a5c
+  - id: J68b661210475bcab
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1702,9 +1790,9 @@ claims:
       Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jb6dbe6e9c034af69
+  - id: J9f1e91a67a75186a
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1735,9 +1823,9 @@ claims:
       \ not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jdbaceb05b8fa1555
+  - id: J4e809387ba405ea9
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1778,9 +1866,9 @@ claims:
       \ agreement value is less than 1 % of the total original contract value.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jfd41b6562ee997ba
+  - id: J830981895ce0b48b
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1810,9 +1898,9 @@ claims:
       : \"Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S0e67b4ccfdcd211e
+  - id: S00a906ba193e9620
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Review Notes
     source_document: AandC2_DLN_P1_157.PDF
     pdf_pages:
@@ -1829,13 +1917,30 @@ claims:
 
       - The original text of each deleted GCC provision is not reproduced in the amendment row.
 
-      - Final transcription and applicability review remains pending.
-
-      >>>>>>> b1f5c9eb1f3986f540500a5c5ee639e92e9edc53'
+      - Final transcription and applicability review remains pending.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: document_metadata_range
   created_at: '2026-10-31T06:08:40+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C383eea1a358948b3
+    previous_evidence_ids:
+    - J1dd8bce37ef510fc
+    - J2cc37360d6e327cb
+    - J432b23c1c3a0838e
+    - J5075223d6e496a2a
+    - J5d3bb44b86c8dbc6
+    - Ja338361a10571a5c
+    - Jb6dbe6e9c034af69
+    - Jdbaceb05b8fa1555
+    - Jfd41b6562ee997ba
+    - S0e67b4ccfdcd211e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses (sub-contracting
     under 4.5, early completion incentives under 8.10, price variation under 11.1.2 series, mobilization and equipment
@@ -1843,26 +1948,26 @@ claims:
     under 15.1) while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference
     list.
   evidence_ids:
-  - J1dd8bce37ef510fc
-  - J2cc37360d6e327cb
-  - J432b23c1c3a0838e
-  - J5075223d6e496a2a
-  - J5d3bb44b86c8dbc6
-  - Ja338361a10571a5c
-  - Jb6dbe6e9c034af69
-  - Jdbaceb05b8fa1555
-  - Jfd41b6562ee997ba
-  - S7b99d9f12d93c1c0
-  - Sfd23c1747d11bf6b
+  - J42ebc7a9caffaf7c
+  - J03d7bc25e8c4862c
+  - J472f04a0581e5138
+  - J1daf1ac7056acbc2
+  - Ja33aa367f0eabe79
+  - J68b661210475bcab
+  - J9f1e91a67a75186a
+  - J4e809387ba405ea9
+  - J830981895ce0b48b
+  - S51f9471435b42990
+  - S15d57f3825cb65ba
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1efba09fa7ef6721
+  id: Cffc1dc5c9ccada1b
   citations:
-  - id: J1dd8bce37ef510fc
+  - id: J42ebc7a9caffaf7c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1892,9 +1997,9 @@ claims:
       \ and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J2cc37360d6e327cb
+  - id: J03d7bc25e8c4862c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1921,9 +2026,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J432b23c1c3a0838e
+  - id: J472f04a0581e5138
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1953,9 +2058,9 @@ claims:
       \ amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5075223d6e496a2a
+  - id: J1daf1ac7056acbc2
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -1985,9 +2090,9 @@ claims:
       \ amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5d3bb44b86c8dbc6
+  - id: Ja33aa367f0eabe79
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -2017,9 +2122,9 @@ claims:
       \ wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Ja338361a10571a5c
+  - id: J68b661210475bcab
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -2049,9 +2154,9 @@ claims:
       Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jb6dbe6e9c034af69
+  - id: J9f1e91a67a75186a
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -2082,9 +2187,9 @@ claims:
       \ not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jdbaceb05b8fa1555
+  - id: J4e809387ba405ea9
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -2125,9 +2230,9 @@ claims:
       \ agreement value is less than 1 % of the total original contract value.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jfd41b6562ee997ba
+  - id: J830981895ce0b48b
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -2157,9 +2262,9 @@ claims:
       : \"Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S7b99d9f12d93c1c0
+  - id: S51f9471435b42990
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: 'Change 5 — Add SCC Clause 6: Price Variation/Adjustment'
     source_document: AandC2_DLN_P1_157.PDF
     pdf_pages:
@@ -2183,9 +2288,9 @@ claims:
       This addition should be read alongside Change 2, which retains NOT APPLICABLE in Contract Data Item 14.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: Sfd23c1747d11bf6b
+  - id: S15d57f3825cb65ba
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: 'Change 2 — Contract Data Item 14: Price Variation/Adjustment'
     source_document: AandC2_DLN_P1_157.PDF
     pdf_pages:
@@ -2213,30 +2318,50 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T06:10:47+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1efba09fa7ef6721
+    previous_evidence_ids:
+    - J1dd8bce37ef510fc
+    - J2cc37360d6e327cb
+    - J432b23c1c3a0838e
+    - J5075223d6e496a2a
+    - J5d3bb44b86c8dbc6
+    - Ja338361a10571a5c
+    - Jb6dbe6e9c034af69
+    - Jdbaceb05b8fa1555
+    - Jfd41b6562ee997ba
+    - S7b99d9f12d93c1c0
+    - Sfd23c1747d11bf6b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses while
     keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list.
   evidence_ids:
-  - J1dd8bce37ef510fc
-  - J2cc37360d6e327cb
-  - J432b23c1c3a0838e
-  - J5075223d6e496a2a
-  - J5d3bb44b86c8dbc6
-  - Ja338361a10571a5c
-  - Jb6dbe6e9c034af69
-  - Jdbaceb05b8fa1555
-  - Jfd41b6562ee997ba
-  - S7b99d9f12d93c1c0
-  - Sfd23c1747d11bf6b
+  - J42ebc7a9caffaf7c
+  - J03d7bc25e8c4862c
+  - J472f04a0581e5138
+  - J1daf1ac7056acbc2
+  - Ja33aa367f0eabe79
+  - J68b661210475bcab
+  - J9f1e91a67a75186a
+  - J4e809387ba405ea9
+  - J830981895ce0b48b
+  - S51f9471435b42990
+  - S15d57f3825cb65ba
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6ac52843624e08d3
+  id: C90b5ef08dd7a4c97
   citations:
-  - id: J1dd8bce37ef510fc
+  - id: J42ebc7a9caffaf7c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -2266,9 +2391,9 @@ claims:
       \ and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J2cc37360d6e327cb
+  - id: J03d7bc25e8c4862c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -2295,9 +2420,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J432b23c1c3a0838e
+  - id: J472f04a0581e5138
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -2327,9 +2452,9 @@ claims:
       \ amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5075223d6e496a2a
+  - id: J1daf1ac7056acbc2
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -2359,9 +2484,9 @@ claims:
       \ amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5d3bb44b86c8dbc6
+  - id: Ja33aa367f0eabe79
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -2391,9 +2516,9 @@ claims:
       \ wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Ja338361a10571a5c
+  - id: J68b661210475bcab
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -2423,9 +2548,9 @@ claims:
       Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jb6dbe6e9c034af69
+  - id: J9f1e91a67a75186a
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -2456,9 +2581,9 @@ claims:
       \ not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jdbaceb05b8fa1555
+  - id: J4e809387ba405ea9
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -2499,9 +2624,9 @@ claims:
       \ agreement value is less than 1 % of the total original contract value.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jfd41b6562ee997ba
+  - id: J830981895ce0b48b
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -2531,9 +2656,9 @@ claims:
       : \"Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S7b99d9f12d93c1c0
+  - id: S51f9471435b42990
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: 'Change 5 — Add SCC Clause 6: Price Variation/Adjustment'
     source_document: AandC2_DLN_P1_157.PDF
     pdf_pages:
@@ -2557,9 +2682,9 @@ claims:
       This addition should be read alongside Change 2, which retains NOT APPLICABLE in Contract Data Item 14.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: Sfd23c1747d11bf6b
+  - id: S15d57f3825cb65ba
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: 'Change 2 — Contract Data Item 14: Price Variation/Adjustment'
     source_document: AandC2_DLN_P1_157.PDF
     pdf_pages:
@@ -2587,21 +2712,41 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T06:12:04+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6ac52843624e08d3
+    previous_evidence_ids:
+    - J1dd8bce37ef510fc
+    - J2cc37360d6e327cb
+    - J432b23c1c3a0838e
+    - J5075223d6e496a2a
+    - J5d3bb44b86c8dbc6
+    - Ja338361a10571a5c
+    - Jb6dbe6e9c034af69
+    - Jdbaceb05b8fa1555
+    - Jfd41b6562ee997ba
+    - S7b99d9f12d93c1c0
+    - Sfd23c1747d11bf6b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether additional operational personnel tables or specialist safety officer requirements exist in
     un-ingested parts of Volume 2 or Volume 3 beyond the Project Manager specification in Annexure 2.
   evidence_ids:
-  - J5d05ef68c861b17a
-  - Jf3712de1a37c4fb9
+  - J86b548f78d72203c
+  - J8cc306484e5f1c70
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C51e62850ea361994
+  id: Cbb2f5ae0933a4ccf
   citations:
-  - id: J5d05ef68c861b17a
+  - id: J86b548f78d72203c
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -2619,9 +2764,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf3712de1a37c4fb9
+  - id: J8cc306484e5f1c70
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -2640,22 +2785,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:27:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C51e62850ea361994
+    previous_evidence_ids:
+    - J5d05ef68c861b17a
+    - Jf3712de1a37c4fb9
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether the proposed deployment quantities for plant and equipment in Annexure 3 of Volume 2 Part
     3 are subject to adjustment based on specific site fronts handed over by BMRCL.
   evidence_ids:
-  - J041f67e495bf16e4
-  - J20c51a8a096967a8
-  - J3c23aeb4f0808e9c
+  - Jc8ad9103d9cd7ba0
+  - J23328bca576fdc3c
+  - J346cde8e3e52cef9
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2eaa33ff43a8a95b
+  id: C1e2c45924e59a80d
   citations:
-  - id: J041f67e495bf16e4
+  - id: Jc8ad9103d9cd7ba0
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -2671,9 +2827,9 @@ claims:
       \  \"field_id\": \"equipment_description\",\n  \"text\": \"Chipping Machine\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J20c51a8a096967a8
+  - id: J23328bca576fdc3c
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -2689,9 +2845,9 @@ claims:
       \  \"field_id\": \"printed_deployment_quantity\",\n  \"text\": \"12 Nos\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J3c23aeb4f0808e9c
+  - id: J346cde8e3e52cef9
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -2709,20 +2865,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:28:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2eaa33ff43a8a95b
+    previous_evidence_ids:
+    - J041f67e495bf16e4
+    - J20c51a8a096967a8
+    - J3c23aeb4f0808e9c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether monetary penalties associated with repeated non-compliance under SHE audit findings cross-reference
     specific General Conditions of Contract clauses or if they are solely governed by administrative notices.
   evidence_ids:
-  - J2dd5e51ae6ff474c
+  - J1529db7f21b890ef
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cfa4fa31d74efccb7
+  id: C6da9cb1428c566ab
   citations:
-  - id: J2dd5e51ae6ff474c
+  - id: J1529db7f21b890ef
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2820,21 +2988,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:01:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cfa4fa31d74efccb7
+    previous_evidence_ids:
+    - J2dd5e51ae6ff474c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether general instructions such as BMRC/SHE/CEO/001 and BMRC/SHE/CEO/0011 referenced in Vol 3 Part
     II safety clauses are fully appended or available in separate unpublished administrative annexes.
   evidence_ids:
-  - J8f51c956fc10b82b
-  - J9f0932e31acfeb4a
+  - Jed4a04ce29862e22
+  - J68936454e52d6e69
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6c51234c4fa19751
+  id: C657998e24c19d205
   citations:
-  - id: J8f51c956fc10b82b
+  - id: Jed4a04ce29862e22
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 26.0 — Site Electricity
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2858,9 +3036,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: J9f0932e31acfeb4a
+  - id: J68936454e52d6e69
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Clause 27.0 — Lighting:'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3019,20 +3197,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:14:42+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6c51234c4fa19751
+    previous_evidence_ids:
+    - J8f51c956fc10b82b
+    - J9f0932e31acfeb4a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify the exact angle specification in Clause 19.0(ii) for overhead protection, where the source text states
     an angle 'not more than 200' which appears to represent a typographical error for 20 degrees.
   evidence_ids:
-  - Jc61c2e8ba8123cd3
+  - J52be181015732877
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cda6fc585e455a9ec
+  id: C7de634a7f2028604
   citations:
-  - id: Jc61c2e8ba8123cd3
+  - id: J52be181015732877
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3139,21 +3328,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:54:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cda6fc585e455a9ec
+    previous_evidence_ids:
+    - Jc61c2e8ba8123cd3
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether specific monetary penalty amounts or tariff schedules for safety non-compliance are detailed
     elsewhere in the tender or if they are entirely deferred to the General Conditions of Contract / Special Conditions
     of Contract penalty provisions.
   evidence_ids:
-  - J88c0835d94c22d50
+  - Jdeb26e500ffd2a05
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb405571e8c4ab6a4
+  id: Cd0c4f1fddfc8e461
   citations:
-  - id: J88c0835d94c22d50
+  - id: Jdeb26e500ffd2a05
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3242,20 +3441,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:01:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb405571e8c4ab6a4
+    previous_evidence_ids:
+    - J88c0835d94c22d50
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether the schedules referenced in BOCWR (Schedules III, IV, V, X, XI) are fully appended or incorporated
     by reference in other volumes of the tender package.
   evidence_ids:
-  - J573bee61f4ed333d
+  - J44c81c9cdd51865e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5ce32079bd8a103e
+  id: C189d3208e16ccef3
   citations:
-  - id: J573bee61f4ed333d
+  - id: J44c81c9cdd51865e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 42.0 — Medical Facilities
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3594,20 +3803,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T08:10:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5ce32079bd8a103e
+    previous_evidence_ids:
+    - J573bee61f4ed333d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether general instruction BMRC/SHE/CEO/011 referenced in illumination clause 44.2.1 contains additional
     quantitative lighting thresholds not explicitly listed in Part III text.
   evidence_ids:
-  - J854b5685ebe1a5e4
+  - J58e05cc1d406b16b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C03b81b1818d05482
+  id: Ce76105841c331cb2
   citations:
-  - id: J854b5685ebe1a5e4
+  - id: J58e05cc1d406b16b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3711,24 +3930,34 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:15:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C03b81b1818d05482
+    previous_evidence_ids:
+    - J854b5685ebe1a5e4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify if subsequent amendments alter any of the penalty amounts specified in Volume 3 Part V across all
     categories.
   evidence_ids:
-  - J4dc46683328b8b94
-  - Jfb972c460dd7ba15
-  - J76e888824b1d01d7
-  - Jebbe75a21f09e602
-  - J1e4284a28e1aef8a
+  - J8a0e49c22d95d567
+  - J0c91520ec50d6ecd
+  - Jb988ebfc2348becf
+  - J79d23904e48aab50
+  - J2556b00273245b11
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca247666b0b1d561c
+  id: C0c88d3b593b38b67
   citations:
-  - id: J4dc46683328b8b94
+  - id: J8a0e49c22d95d567
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3857,9 +4086,9 @@ claims:
       \      ],\n      \"block_number\": 14,\n      \"text\": \"264\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jfb972c460dd7ba15
+  - id: J0c91520ec50d6ecd
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4001,9 +4230,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J76e888824b1d01d7
+  - id: Jb988ebfc2348becf
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4114,9 +4343,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jebbe75a21f09e602
+  - id: J79d23904e48aab50
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4241,9 +4470,9 @@ claims:
       \     ],\n      \"block_number\": 14,\n      \"text\": \"266\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J1e4284a28e1aef8a
+  - id: J2556b00273245b11
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4375,22 +4604,36 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:03:30+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca247666b0b1d561c
+    previous_evidence_ids:
+    - J4dc46683328b8b94
+    - Jfb972c460dd7ba15
+    - J76e888824b1d01d7
+    - Jebbe75a21f09e602
+    - J1e4284a28e1aef8a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether compound penalty ceilings are consistently applied across all sub-contractor tiers under
     Tender Package P1.
   evidence_ids:
-  - J960d4fcab1aa053d
-  - Jef5a3df3ab246f64
-  - Jf5d2b0771b102c5f
+  - Jb6700ce9e4738bf8
+  - J1e9a99df38b19726
+  - Jb59db69e5e2ad8d6
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4e17ee15caf5c2f7
+  id: C5e0d03690e1102b2
   citations:
-  - id: J960d4fcab1aa053d
+  - id: Jb6700ce9e4738bf8
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4522,9 +4765,9 @@ claims:
       \     41.38799285888672\n      ],\n      \"block_number\": 17,\n      \"text\": \"270\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jef5a3df3ab246f64
+  - id: J1e9a99df38b19726
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4646,9 +4889,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf5d2b0771b102c5f
+  - id: Jb59db69e5e2ad8d6
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4756,22 +4999,34 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:05:53+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4e17ee15caf5c2f7
+    previous_evidence_ids:
+    - J960d4fcab1aa053d
+    - Jef5a3df3ab246f64
+    - Jf5d2b0771b102c5f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify column reconstruction for Appendix 2 statutory requirements items to ensure all manual references
     (S-xx) and statutory rules (R-xx) map correctly to their intended obligations.
   evidence_ids:
-  - J0b3b9cfa6fc2c651
-  - J0f32d3e3d275fec4
-  - Jd2cd7fe0cbed86ce
+  - J165136baa4f93f8b
+  - J907fb52b761d937f
+  - J7db6c0d99b4a0b1d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cea6075db08417b5f
+  id: Ca46f29e3dab08ddf
   citations:
-  - id: J0b3b9cfa6fc2c651
+  - id: J165136baa4f93f8b
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4795,9 +5050,9 @@ claims:
       \             29.    Safety committee                       S – 38\",\n  \"starting_pdf_page\": 91\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J0f32d3e3d275fec4
+  - id: J907fb52b761d937f
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4820,9 +5075,9 @@ claims:
       \                        S – 34\",\n  \"starting_pdf_page\": 90\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jd2cd7fe0cbed86ce
+  - id: J7db6c0d99b4a0b1d
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4849,22 +5104,34 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:20:35+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cea6075db08417b5f
+    previous_evidence_ids:
+    - J0b3b9cfa6fc2c651
+    - J0f32d3e3d275fec4
+    - Jd2cd7fe0cbed86ce
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify column boundaries and cross-references for Appendix 2 statutory requirement items (e.g., items 41
     through 77) due to unseparated text fragments in parsed records.
   evidence_ids:
-  - J22ed204b7266c16b
-  - J415ca7d9589dc9b8
-  - J8e68e51ebdce182d
+  - J22e701c1b29567a6
+  - J5ade30167fa649ea
+  - J14fa56c0db0ac2ff
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C844f7607f92ba80d
+  id: C0012c4628b50129b
   citations:
-  - id: J22ed204b7266c16b
+  - id: J22e701c1b29567a6
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4885,9 +5152,9 @@ claims:
       : \"             41.    Fencing of motors                     R – 37\",\n  \"starting_pdf_page\": 91\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J415ca7d9589dc9b8
+  - id: J5ade30167fa649ea
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4913,9 +5180,9 @@ claims:
       : 92\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J8e68e51ebdce182d
+  - id: J14fa56c0db0ac2ff
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4939,21 +5206,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:24:11+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C844f7607f92ba80d
+    previous_evidence_ids:
+    - J22ed204b7266c16b
+    - J415ca7d9589dc9b8
+    - J8e68e51ebdce182d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether the duplicate entries for medical examination for occupational health hazards in Appendix
     2 (item numbers 76 and 82) represent distinct statutory sub-provisions or an editorial duplication in the source
     document.
   evidence_ids:
-  - Jdd1dba6e5d3176a1
+  - Ja834659360b92a73
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9f4cecf8ab82b106
+  id: Cbde01d7506bdd2c6
   citations:
-  - id: Jdd1dba6e5d3176a1
+  - id: Ja834659360b92a73
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4974,21 +5253,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:28:37+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9f4cecf8ab82b106
+    previous_evidence_ids:
+    - Jdd1dba6e5d3176a1
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether the reference to DMRC in Appendix 4 represents a typographical error for BMRC in the tender
     documentation and confirm the intended governing entity.
   evidence_ids:
-  - J3d05e497b4cb8b67
-  - J045457175f78f13f
+  - J0dafa5697ca674a9
+  - Jcb88a9688b005df4
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C72864da8f99e695d
+  id: C46096b345a73fc7d
   citations:
-  - id: J3d05e497b4cb8b67
+  - id: J0dafa5697ca674a9
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5005,9 +5294,9 @@ claims:
       : 95\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J045457175f78f13f
+  - id: Jcb88a9688b005df4
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5069,22 +5358,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:35:51+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C72864da8f99e695d
+    previous_evidence_ids:
+    - J3d05e497b4cb8b67
+    - J045457175f78f13f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether contract value tiers in General Instruction BMRC/SHE/CEO/001 (which lists 'More than 25'
     Cr in row headers) contain a typographical omission in the source text regarding crore thresholds compared to
     BMRC/SHE/CEO/003 ('More than 250 Cr').
   evidence_ids:
-  - J807862a97e7fd333
-  - Jb23d7ac8ecea82aa
+  - J5543c388e0459bf6
+  - J71183e109c431b8d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9861497e248cc2a0
+  id: Ca5a4f04e7b2e4693
   citations:
-  - id: J807862a97e7fd333
+  - id: J5543c388e0459bf6
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5143,9 +5443,9 @@ claims:
       layout_review_status: pending
     scope_note: One complete PDF-page fragment of a general instruction. Inspect adjacent fragments for continuations;
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
-  - id: Jb23d7ac8ecea82aa
+  - id: J71183e109c431b8d
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5216,20 +5516,31 @@ claims:
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
   created_at: '2026-10-31T15:38:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9861497e248cc2a0
+    previous_evidence_ids:
+    - J807862a97e7fd333
+    - Jb23d7ac8ecea82aa
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether additional operational roles or specialized subcontractor staff missing from the visible
     fragment of BMRC/SHE/CEO/007's training matrix are captured in subsequent pages of the SHE Manual appendices.
   evidence_ids:
-  - Jade8a5443a3ec982
+  - J0ceb357b2c36eff1
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1556ff94660e2c27
+  id: Ce346a7c43f705165
   citations:
-  - id: Jade8a5443a3ec982
+  - id: J0ceb357b2c36eff1
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5315,22 +5626,32 @@ claims:
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
   created_at: '2026-10-31T15:45:21+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1556ff94660e2c27
+    previous_evidence_ids:
+    - Jade8a5443a3ec982
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether layout review status for general instructions BMRC/SHE/CEO/008, 009, and 010 remains pending
     across all downstream sections.
   evidence_ids:
-  - J30f2390f6433285e
-  - J4c84cba0ce5576de
-  - J52538f520778df48
+  - J08ed134aa962ffed
+  - Jfd626157ee14f95e
+  - Jcef9c41367455b19
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc372e5ccecdeaeb6
+  id: C19a08cc40abbd096
   citations:
-  - id: J30f2390f6433285e
+  - id: J08ed134aa962ffed
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5371,9 +5692,9 @@ claims:
       layout_review_status: pending
     scope_note: One complete PDF-page fragment of a general instruction. Inspect adjacent fragments for continuations;
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
-  - id: J4c84cba0ce5576de
+  - id: Jfd626157ee14f95e
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5555,9 +5876,9 @@ claims:
       \  ],\n          \"block_number\": 25,\n          \"text\": \"290\\n\"\n        }\n      ]\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J52538f520778df48
+  - id: Jcef9c41367455b19
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5614,21 +5935,33 @@ claims:
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
   created_at: '2026-10-31T15:47:36+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc372e5ccecdeaeb6
+    previous_evidence_ids:
+    - J30f2390f6433285e
+    - J4c84cba0ce5576de
+    - J52538f520778df48
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether the detailed graphical or tabular content for Warning Traffic Signs under General Instruction
     BMRC/SHE/CEO/012 is presented in subsequent unparsed sections or attachments.
   evidence_ids:
-  - J5b6b53d85808fd05
-  - Sd70d1b402e4e8670
+  - J00b4a9a2b7384dcb
+  - S7706cbc0b0a54bed
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C103c6df5b8a15007
+  id: C9657d8ed67ca4fb3
   citations:
-  - id: J5b6b53d85808fd05
+  - id: J00b4a9a2b7384dcb
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5712,9 +6045,9 @@ claims:
       \n        }\n      ]\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Sd70d1b402e4e8670
+  - id: S7706cbc0b0a54bed
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: 'General Instruction: BMRC/SHE/CEO/012 — Warning Traffic Sign'
     source_document: Vol3DLNP1.pdf
     pdf_pages:
@@ -5724,23 +6057,34 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T15:51:02+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C103c6df5b8a15007
+    previous_evidence_ids:
+    - J5b6b53d85808fd05
+    - Sd70d1b402e4e8670
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify how the lump-sum salvage credit offered under Schedule-C is incorporated into final contract evaluation
     given its placeholder status in the published tender document.
   evidence_ids:
-  - J2ce3b55e064d0935
-  - J8067870f03899591
-  - Jf294327fac7f0d06
-  - S469ca02217533c37
+  - J3b6ef5b6db6162f6
+  - J63eddbd6baebe3b5
+  - J7e205206ec3823e0
+  - S212cc0e74fc3292f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C01985474b5623760
+  id: Cf0a1ee7101302401
   citations:
-  - id: J2ce3b55e064d0935
+  - id: J3b6ef5b6db6162f6
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -5763,9 +6107,9 @@ claims:
       ,\n  \"review_status\": \"pending_manual_review\",\n  \"schedule\": \"C\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J8067870f03899591
+  - id: J63eddbd6baebe3b5
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -5796,9 +6140,9 @@ claims:
       \ pro-rata basis.\",\n  \"type\": \"pricing_rule\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf294327fac7f0d06
+  - id: J7e205206ec3823e0
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -5823,9 +6167,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S469ca02217533c37
+  - id: S212cc0e74fc3292f
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: 2.0 — Abstract of Bill of Quantities (BOQ)
     source_document: Vol4DLNP1.pdf
     pdf_pages:
@@ -5841,21 +6185,34 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T15:57:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C01985474b5623760
+    previous_evidence_ids:
+    - J2ce3b55e064d0935
+    - J8067870f03899591
+    - Jf294327fac7f0d06
+    - S469ca02217533c37
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether any subsequent corrigenda modify the Schedule A estimated cost of ₹ 4,69,41,306.00 or introduce
     changes to Schedule B and Schedule C pricing instructions in Volume 4 Section J.
   evidence_ids:
-  - J23599c81d83cf26f
-  - J6f83ecf77cc57b25
+  - J241ce183fcecf015
+  - Jf17d55c6acfde864
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C54e78c77828cf29b
+  id: C6bdb86d92d483cb5
   citations:
-  - id: J23599c81d83cf26f
+  - id: J241ce183fcecf015
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -5877,9 +6234,9 @@ claims:
       ,\n  \"schedule\": \"A\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J6f83ecf77cc57b25
+  - id: Jf17d55c6acfde864
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -6002,28 +6359,39 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:00:35+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C54e78c77828cf29b
+    previous_evidence_ids:
+    - J23599c81d83cf26f
+    - J6f83ecf77cc57b25
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether the addition of SCC clauses deleting specific GCC subclauses (such as subclauses 4.5, 8.10,
     11.1.2 through 11.1.2.4, 11.2.1, 11.2.2, 11.2.3, and 15.1) requires corresponding textual removal from GCC source
     files or is fully managed by SCC precedence instructions.
   evidence_ids:
-  - J1dd8bce37ef510fc
-  - J2cc37360d6e327cb
-  - J432b23c1c3a0838e
-  - J5075223d6e496a2a
-  - J5d3bb44b86c8dbc6
-  - Ja338361a10571a5c
-  - Jb6dbe6e9c034af69
-  - Jfd41b6562ee997ba
+  - J42ebc7a9caffaf7c
+  - J03d7bc25e8c4862c
+  - J472f04a0581e5138
+  - J1daf1ac7056acbc2
+  - Ja33aa367f0eabe79
+  - J68b661210475bcab
+  - J9f1e91a67a75186a
+  - J830981895ce0b48b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc263bab219b8a11a
+  id: C2ba4ccbd578fd11f
   citations:
-  - id: J1dd8bce37ef510fc
+  - id: J42ebc7a9caffaf7c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -6053,9 +6421,9 @@ claims:
       \ and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J2cc37360d6e327cb
+  - id: J03d7bc25e8c4862c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -6082,9 +6450,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J432b23c1c3a0838e
+  - id: J472f04a0581e5138
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -6114,9 +6482,9 @@ claims:
       \ amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5075223d6e496a2a
+  - id: J1daf1ac7056acbc2
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -6146,9 +6514,9 @@ claims:
       \ amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5d3bb44b86c8dbc6
+  - id: Ja33aa367f0eabe79
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -6178,9 +6546,9 @@ claims:
       \ wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Ja338361a10571a5c
+  - id: J68b661210475bcab
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -6210,9 +6578,9 @@ claims:
       Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jb6dbe6e9c034af69
+  - id: J9f1e91a67a75186a
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -6243,9 +6611,9 @@ claims:
       \ not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jfd41b6562ee997ba
+  - id: J830981895ce0b48b
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -6277,23 +6645,40 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:12:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc263bab219b8a11a
+    previous_evidence_ids:
+    - J1dd8bce37ef510fc
+    - J2cc37360d6e327cb
+    - J432b23c1c3a0838e
+    - J5075223d6e496a2a
+    - J5d3bb44b86c8dbc6
+    - Ja338361a10571a5c
+    - Jb6dbe6e9c034af69
+    - Jfd41b6562ee997ba
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: All parsed amendment records for Corrigendum No. 3 remain in pending_manual_review status and require final
     verification against the original PDF source document.
   evidence_ids:
-  - J4805b52601f511db
-  - J8827536a17c54d1a
-  - J9e0c4f73f95653c7
-  - Ja47b3c8a3cc00974
+  - J827a319dc3712125
+  - J01cf445b9bb9f862
+  - J0daa272fa51cc074
+  - J8f918d1afc408a15
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2fa485c62ca4ea5a
+  id: C9b64bbbaff1634a0
   citations:
-  - id: J4805b52601f511db
+  - id: J827a319dc3712125
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 2 — Online Tender Submission Date and Time
     source_document: AandC3_DLN_P1_157.PDF
     source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
@@ -6320,9 +6705,9 @@ claims:
       : \"Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: amendment_entry_navigation
-  - id: J8827536a17c54d1a
+  - id: J01cf445b9bb9f862
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 1 — Tender Document Availability Period
     source_document: AandC3_DLN_P1_157.PDF
     source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
@@ -6349,9 +6734,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: amendment_entry_navigation
-  - id: J9e0c4f73f95653c7
+  - id: J0daa272fa51cc074
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 4 — Submission of Original Tender Security Instruments
     source_document: AandC3_DLN_P1_157.PDF
     source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
@@ -6377,9 +6762,9 @@ claims:
       : \"Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: amendment_entry_navigation
-  - id: Ja47b3c8a3cc00974
+  - id: J8f918d1afc408a15
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 3 — Opening of Technical Bid Online
     source_document: AandC3_DLN_P1_157.PDF
     source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
@@ -6407,29 +6792,42 @@ claims:
     heading_alignment: amendment_entry_navigation
   created_at: '2026-10-31T16:16:19+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2fa485c62ca4ea5a
+    previous_evidence_ids:
+    - J4805b52601f511db
+    - J8827536a17c54d1a
+    - J9e0c4f73f95653c7
+    - Ja47b3c8a3cc00974
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Verify whether Corrigendum No. 2 additions of SCC clauses deleting GCC Sub-Clauses 4.5, 8.10, 11.1.2 series,
     11.2.1, 11.2.2, 11.2.3, and 15.1 supersede the original GCC baseline provisions without altering Contract Data
     labels.
   evidence_ids:
-  - J1dd8bce37ef510fc
-  - J2cc37360d6e327cb
-  - J432b23c1c3a0838e
-  - J5075223d6e496a2a
-  - J5d3bb44b86c8dbc6
-  - Ja338361a10571a5c
-  - Jb6dbe6e9c034af69
-  - Jdbaceb05b8fa1555
-  - Jfd41b6562ee997ba
+  - J42ebc7a9caffaf7c
+  - J03d7bc25e8c4862c
+  - J472f04a0581e5138
+  - J1daf1ac7056acbc2
+  - Ja33aa367f0eabe79
+  - J68b661210475bcab
+  - J9f1e91a67a75186a
+  - J4e809387ba405ea9
+  - J830981895ce0b48b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6737cf2615f314f1
+  id: Cdc1f99fa0e9ac885
   citations:
-  - id: J1dd8bce37ef510fc
+  - id: J42ebc7a9caffaf7c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -6459,9 +6857,9 @@ claims:
       \ and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J2cc37360d6e327cb
+  - id: J03d7bc25e8c4862c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -6488,9 +6886,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J432b23c1c3a0838e
+  - id: J472f04a0581e5138
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -6520,9 +6918,9 @@ claims:
       \ amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5075223d6e496a2a
+  - id: J1daf1ac7056acbc2
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -6552,9 +6950,9 @@ claims:
       \ amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5d3bb44b86c8dbc6
+  - id: Ja33aa367f0eabe79
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -6584,9 +6982,9 @@ claims:
       \ wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Ja338361a10571a5c
+  - id: J68b661210475bcab
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -6616,9 +7014,9 @@ claims:
       Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jb6dbe6e9c034af69
+  - id: J9f1e91a67a75186a
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -6649,9 +7047,9 @@ claims:
       \ not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jdbaceb05b8fa1555
+  - id: J4e809387ba405ea9
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -6692,9 +7090,9 @@ claims:
       \ agreement value is less than 1 % of the total original contract value.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jfd41b6562ee997ba
+  - id: J830981895ce0b48b
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -6726,28 +7124,46 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T07:14:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6737cf2615f314f1
+    previous_evidence_ids:
+    - J1dd8bce37ef510fc
+    - J2cc37360d6e327cb
+    - J432b23c1c3a0838e
+    - J5075223d6e496a2a
+    - J5d3bb44b86c8dbc6
+    - Ja338361a10571a5c
+    - Jb6dbe6e9c034af69
+    - Jdbaceb05b8fa1555
+    - Jfd41b6562ee997ba
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: concepts/financial_capacity_evidence.md
   title: Financial Capacity Thresholds and Supporting Evidence
   evidence_ids:
-  - J704434795075ef24
+  - J0949e7907866cf3c
 - relation_type: relates_to
   target: concepts/similar_work_and_past_jv_evidence.md
   title: Similar-Work Evidence and Historical JV Participation
   evidence_ids:
-  - J704434795075ef24
+  - J0949e7907866cf3c
 - relation_type: relates_to
   target: concepts/salvage_ownership_and_credit.md
   title: Salvage Ownership and Schedule C Credit
   evidence_ids:
-  - J6f83ecf77cc57b25
+  - Jf17d55c6acfde864
 - relation_type: relates_to
   target: concepts/amendment_sequence_and_conflicts.md
   title: Amendment Sequence and Unresolved Source Conflicts
   evidence_ids:
-  - J4805b52601f511db
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - J827a319dc3712125
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Review Queue - Corrigendum No. 2 and Contract Data Verification
@@ -6757,197 +7173,197 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - Review findings regarding Corrigendum No. 2 modifications to GCC and SCC provisions, specifically the deletion instruction scope across multiple clauses.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J1dd8bce37ef510fc`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J2cc37360d6e327cb`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J432b23c1c3a0838e`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/11`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J5075223d6e496a2a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/12`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J5d3bb44b86c8dbc6`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/9`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Ja338361a10571a5c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/10`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Jb6dbe6e9c034af69`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/8`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `Jdbaceb05b8fa1555`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/5`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Jfd41b6562ee997ba`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/7`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Review Notes|Review Notes]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1, 2, 3; quotation `S0e67b4ccfdcd211e`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J42ebc7a9caffaf7c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J03d7bc25e8c4862c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J472f04a0581e5138`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/11`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J1daf1ac7056acbc2`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/12`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Ja33aa367f0eabe79`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/9`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J68b661210475bcab`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/10`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J9f1e91a67a75186a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/8`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J4e809387ba405ea9`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/5`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J830981895ce0b48b`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/7`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Review Notes|Review Notes]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1, 2, 3; quotation `S00a906ba193e9620`.
 
 ## Open Questions and Contradictions
 
 - Final transcription and applicability review remains pending for Addendum and Corrigendum No. 1 and No. 3.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Review Notes|Review Notes]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `S76273484f52c8e77`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Review Notes|Review Notes]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `S9a1a7300b8c68e4b`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Review Notes|Review Notes]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `Sa0765c174b740c8f`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Review Notes|Review Notes]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `Sdbae14720111f1cf`.
 
 - Verify whether any subsequent corrigenda modify the financial thresholds or work experience values specified in Section C EQC Clause 3.1.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J704434795075ef24`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J0949e7907866cf3c`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
 
 - Verify whether foreign currency conversion procedures under EQC clause notes apply uniformly to all past financial turnover and work experience calculations without exception.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 33; quotation `J15c05b6805826ad1`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/work_experience/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 35; quotation `Jf1171fb75fee998b`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/financial_standing/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 33; quotation `J3cd7e98e7821d0bc`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/work_experience/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 35; quotation `J77160f041436cb56`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/financial_standing/5`.
 
 - Verify whether all blank template fields across Section D attachments are correctly mapped to expected bidder data inputs without missing formatting instructions or notes.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 46; quotation `J087ba490baa66b22`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_6_tables.json#/main_form_table/entry_rows/2/fields/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 46; quotation `J1bf8dba55f11e8f3`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_6_tables.json#/main_form_table/entry_rows/0/fields/9`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `J337894513d0234f8`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/personnel_requirements/1/proposed_personnel_fields/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47; quotation `J38b4a04f37db1096`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json#/main_table/entry_rows/0/fields/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47; quotation `J3ea9253cbbbadd85`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json#/main_table/entry_rows/1/fields/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47; quotation `J4a93f2b0640a1bfc`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json#/main_table/entry_rows/0/fields/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 46; quotation `J5c929fc9bf95447d`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_6_tables.json#/full_form_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47; quotation `Jdfcb22f4e62f06f2`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json#/full_form_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 46; quotation `Je39a868ecbc078af`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_6_tables.json#/main_form_table/entry_rows/2/fields/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 46; quotation `Jcad282231bc6155a`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_6_tables.json#/main_form_table/entry_rows/0/fields/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `J3f85e4b4c1e9bb9e`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/personnel_requirements/1/proposed_personnel_fields/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47; quotation `J07ed326e26ae323a`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json#/main_table/entry_rows/0/fields/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47; quotation `J5777e5f4a4682f5f`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json#/main_table/entry_rows/1/fields/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47; quotation `J2a3661ce40f5dfdf`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json#/main_table/entry_rows/0/fields/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 46; quotation `Jcab66de298f61ed3`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_6_tables.json#/full_form_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47; quotation `Ja4b74630f796bd08`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json#/full_form_context/0`.
 
 - Verify whether Corrigendum No. 2 deletion instructions targeting specific GCC subclauses supersede the Contract Data table entries or if the Contract Data designations remain the controlling operative rules.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J1dd8bce37ef510fc`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J2cc37360d6e327cb`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J432b23c1c3a0838e`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/11`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Jfbc942cc9fb4caf7`. JSON: `parsed_json/vol1/section_e_gcc/gcc_8_8_suspension_table.json#/linked_scc_instruction/instruction_fragments/0`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J42ebc7a9caffaf7c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J03d7bc25e8c4862c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J472f04a0581e5138`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `J24b88bf9d69b3142`. JSON: `parsed_json/vol1/section_e_gcc/gcc_8_8_suspension_table.json#/linked_scc_instruction/instruction_fragments/0`.
 
 - Verify whether Corrigendum No. 2 deletion instructions targeting specific GCC subclauses (such as Sub-Clauses 4.5, 8.10, 11.2.1 through 11.2.3, and 15.1) supersede the Contract Data table entries or if the Contract Data designations remain the controlling operative rules.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J1dd8bce37ef510fc`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J2cc37360d6e327cb`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J432b23c1c3a0838e`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/11`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J5075223d6e496a2a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/12`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J5d3bb44b86c8dbc6`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/9`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Ja338361a10571a5c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/10`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Jb6dbe6e9c034af69`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/8`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Jfd41b6562ee997ba`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/7`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J42ebc7a9caffaf7c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J03d7bc25e8c4862c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J472f04a0581e5138`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/11`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J1daf1ac7056acbc2`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/12`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Ja33aa367f0eabe79`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/9`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J68b661210475bcab`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/10`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J9f1e91a67a75186a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/8`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J830981895ce0b48b`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/7`.
 
 - Verify the operational impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses (including sub-contracting restrictions, early completion incentives, price variation bands, and various advances) while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J2cc37360d6e327cb`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `Jdbaceb05b8fa1555`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/5`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Change 5 — Add SCC Clause 6: Price Variation/Adjustment|Change 5 — Add SCC Clause 6: Price Variation/Adjustment]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `S7b99d9f12d93c1c0`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Change 2 — Contract Data Item 14: Price Variation/Adjustment|Change 2 — Contract Data Item 14: Price Variation/Adjustment]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `Sfd23c1747d11bf6b`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J03d7bc25e8c4862c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J4e809387ba405ea9`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/5`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Change 5 — Add SCC Clause 6: Price Variation/Adjustment|Change 5 — Add SCC Clause 6: Price Variation/Adjustment]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `S51f9471435b42990`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Change 2 — Contract Data Item 14: Price Variation/Adjustment|Change 2 — Contract Data Item 14: Price Variation/Adjustment]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `S15d57f3825cb65ba`.
 
 - Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses (sub-contracting under 4.5, early completion incentives under 8.10, price variation under 11.1.2 series, mobilization and equipment advances under 11.2 series, special/acceleration advance under 11.2.3, and professional indemnity insurance under 15.1) while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J1dd8bce37ef510fc`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J2cc37360d6e327cb`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J432b23c1c3a0838e`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/11`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J5075223d6e496a2a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/12`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J5d3bb44b86c8dbc6`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/9`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Ja338361a10571a5c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/10`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Jb6dbe6e9c034af69`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/8`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `Jdbaceb05b8fa1555`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/5`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Jfd41b6562ee997ba`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/7`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Change 5 — Add SCC Clause 6: Price Variation/Adjustment|Change 5 — Add SCC Clause 6: Price Variation/Adjustment]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `S7b99d9f12d93c1c0`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Change 2 — Contract Data Item 14: Price Variation/Adjustment|Change 2 — Contract Data Item 14: Price Variation/Adjustment]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `Sfd23c1747d11bf6b`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J42ebc7a9caffaf7c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J03d7bc25e8c4862c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J472f04a0581e5138`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/11`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J1daf1ac7056acbc2`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/12`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Ja33aa367f0eabe79`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/9`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J68b661210475bcab`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/10`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J9f1e91a67a75186a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/8`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J4e809387ba405ea9`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/5`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J830981895ce0b48b`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/7`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Change 5 — Add SCC Clause 6: Price Variation/Adjustment|Change 5 — Add SCC Clause 6: Price Variation/Adjustment]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `S51f9471435b42990`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Change 2 — Contract Data Item 14: Price Variation/Adjustment|Change 2 — Contract Data Item 14: Price Variation/Adjustment]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `S15d57f3825cb65ba`.
 
 - Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J1dd8bce37ef510fc`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J2cc37360d6e327cb`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J432b23c1c3a0838e`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/11`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J5075223d6e496a2a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/12`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J5d3bb44b86c8dbc6`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/9`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Ja338361a10571a5c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/10`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Jb6dbe6e9c034af69`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/8`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `Jdbaceb05b8fa1555`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/5`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Jfd41b6562ee997ba`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/7`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Change 5 — Add SCC Clause 6: Price Variation/Adjustment|Change 5 — Add SCC Clause 6: Price Variation/Adjustment]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `S7b99d9f12d93c1c0`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Change 2 — Contract Data Item 14: Price Variation/Adjustment|Change 2 — Contract Data Item 14: Price Variation/Adjustment]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `Sfd23c1747d11bf6b`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J42ebc7a9caffaf7c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J03d7bc25e8c4862c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J472f04a0581e5138`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/11`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J1daf1ac7056acbc2`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/12`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Ja33aa367f0eabe79`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/9`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J68b661210475bcab`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/10`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J9f1e91a67a75186a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/8`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J4e809387ba405ea9`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/5`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J830981895ce0b48b`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/7`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Change 5 — Add SCC Clause 6: Price Variation/Adjustment|Change 5 — Add SCC Clause 6: Price Variation/Adjustment]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `S51f9471435b42990`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Change 2 — Contract Data Item 14: Price Variation/Adjustment|Change 2 — Contract Data Item 14: Price Variation/Adjustment]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `S15d57f3825cb65ba`.
 
 - Verify whether additional operational personnel tables or specialist safety officer requirements exist in un-ingested parts of Volume 2 or Volume 3 beyond the Project Manager specification in Annexure 2.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `J5d05ef68c861b17a`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `Jf3712de1a37c4fb9`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `J86b548f78d72203c`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `J8cc306484e5f1c70`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/3`.
 
 - Verify whether the proposed deployment quantities for plant and equipment in Annexure 3 of Volume 2 Part 3 are subject to adjustment based on specific site fronts handed over by BMRCL.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `J041f67e495bf16e4`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/4/cells/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `J20c51a8a096967a8`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/4/cells/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `J3c23aeb4f0808e9c`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/8/cells/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `Jc8ad9103d9cd7ba0`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/4/cells/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `J23328bca576fdc3c`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/4/cells/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `J346cde8e3e52cef9`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/8/cells/0`.
 
 - Verify whether monetary penalties associated with repeated non-compliance under SHE audit findings cross-reference specific General Conditions of Contract clauses or if they are solely governed by administrative notices.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 19; quotation `J2dd5e51ae6ff474c`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 19; quotation `J1529db7f21b890ef`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/11`.
 
 - Verify whether general instructions such as BMRC/SHE/CEO/001 and BMRC/SHE/CEO/0011 referenced in Vol 3 Part II safety clauses are fully appended or available in separate unpublished administrative annexes.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `J8f51c956fc10b82b`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 27.0 — Lighting:|Clause 27.0 — Lighting:]]; `Vol3DLNP1.pdf`; PDF page(s) 50, 51; quotation `J9f0932e31acfeb4a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `Jed4a04ce29862e22`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 27.0 — Lighting:|Clause 27.0 — Lighting:]]; `Vol3DLNP1.pdf`; PDF page(s) 50, 51; quotation `J68936454e52d6e69`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/10`.
 
 - Verify the exact angle specification in Clause 19.0(ii) for overhead protection, where the source text states an angle 'not more than 200' which appears to represent a typographical error for 20 degrees.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `Jc61c2e8ba8123cd3`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `J52be181015732877`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/9`.
 
 - Verify whether specific monetary penalty amounts or tariff schedules for safety non-compliance are detailed elsewhere in the tender or if they are entirely deferred to the General Conditions of Contract / Special Conditions of Contract penalty provisions.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 60; quotation `J88c0835d94c22d50`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/29`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 60; quotation `Jdeb26e500ffd2a05`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/29`.
 
 - Verify whether the schedules referenced in BOCWR (Schedules III, IV, V, X, XI) are fully appended or incorporated by reference in other volumes of the tender package.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66; quotation `J573bee61f4ed333d`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66; quotation `J44c81c9cdd51865e`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/1`.
 
 - Verify whether general instruction BMRC/SHE/CEO/011 referenced in illumination clause 44.2.1 contains additional quantitative lighting thresholds not explicitly listed in Part III text.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 71; quotation `J854b5685ebe1a5e4`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 71; quotation `J58e05cc1d406b16b`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/7`.
 
 - Verify if subsequent amendments alter any of the penalty amounts specified in Volume 3 Part V across all categories.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `J4dc46683328b8b94`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 81; quotation `Jfb972c460dd7ba15`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 83; quotation `J76e888824b1d01d7`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 82; quotation `Jebbe75a21f09e602`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 84; quotation `J1e4284a28e1aef8a`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `J8a0e49c22d95d567`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 81; quotation `J0c91520ec50d6ecd`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 83; quotation `Jb988ebfc2348becf`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 82; quotation `J79d23904e48aab50`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 84; quotation `J2556b00273245b11`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/4`.
 
 - Verify whether compound penalty ceilings are consistently applied across all sub-contractor tiers under Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 86; quotation `J960d4fcab1aa053d`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 85; quotation `Jef5a3df3ab246f64`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 87; quotation `Jf5d2b0771b102c5f`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 86; quotation `Jb6700ce9e4738bf8`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 85; quotation `J1e9a99df38b19726`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 87; quotation `Jb59db69e5e2ad8d6`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/7`.
 
 - Verify column reconstruction for Appendix 2 statutory requirements items to ensure all manual references (S-xx) and statutory rules (R-xx) map correctly to their intended obligations.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `J0b3b9cfa6fc2c651`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/28`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `J0f32d3e3d275fec4`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/20`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `Jd2cd7fe0cbed86ce`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/29`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `J165136baa4f93f8b`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/28`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `J907fb52b761d937f`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/20`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `J7db6c0d99b4a0b1d`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/29`.
 
 - Verify column boundaries and cross-references for Appendix 2 statutory requirement items (e.g., items 41 through 77) due to unseparated text fragments in parsed records.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `J22ed204b7266c16b`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/40`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `J415ca7d9589dc9b8`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/74`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `J8e68e51ebdce182d`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/76`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `J22e701c1b29567a6`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/40`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `J5ade30167fa649ea`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/74`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `J14fa56c0db0ac2ff`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/76`.
 
 - Verify whether the duplicate entries for medical examination for occupational health hazards in Appendix 2 (item numbers 76 and 82) represent distinct statutory sub-provisions or an editorial duplication in the source document.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90, 91, 92; quotation `Jdd1dba6e5d3176a1`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/source_quirks/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90, 91, 92; quotation `Ja834659360b92a73`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/source_quirks/0`.
 
 - Verify whether the reference to DMRC in Appendix 4 represents a typographical error for BMRC in the tender documentation and confirm the intended governing entity.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 95; quotation `J3d05e497b4cb8b67`. JSON: `parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json#/source_quirks/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 95; quotation `J045457175f78f13f`. JSON: `parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json#/introduction_quote_and_attribution`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 95; quotation `J0dafa5697ca674a9`. JSON: `parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json#/source_quirks/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 95; quotation `Jcb88a9688b005df4`. JSON: `parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json#/introduction_quote_and_attribution`.
 
 - Verify whether contract value tiers in General Instruction BMRC/SHE/CEO/001 (which lists 'More than 25' Cr in row headers) contain a typographical omission in the source text regarding crore thresholds compared to BMRC/SHE/CEO/003 ('More than 250 Cr').
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 99; quotation `J807862a97e7fd333`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/2/fragments/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 96; quotation `Jb23d7ac8ecea82aa`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/0/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 99; quotation `J5543c388e0459bf6`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/2/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 96; quotation `J71183e109c431b8d`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/0/fragments/0`.
 
 - Verify whether additional operational roles or specialized subcontractor staff missing from the visible fragment of BMRC/SHE/CEO/007's training matrix are captured in subsequent pages of the SHE Manual appendices.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 105; quotation `Jade8a5443a3ec982`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/6/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 105; quotation `J0ceb357b2c36eff1`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/6/fragments/0`.
 
 - Verify whether layout review status for general instructions BMRC/SHE/CEO/008, 009, and 010 remains pending across all downstream sections.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 109; quotation `J30f2390f6433285e`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/8/fragments/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 106; quotation `J4c84cba0ce5576de`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/7`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 107; quotation `J52538f520778df48`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/8/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 109; quotation `J08ed134aa962ffed`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/8/fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 106; quotation `Jfd626157ee14f95e`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 107; quotation `Jcef9c41367455b19`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/8/fragments/0`.
 
 - Verify whether the detailed graphical or tabular content for Warning Traffic Signs under General Instruction BMRC/SHE/CEO/012 is presented in subsequent unparsed sections or attachments.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 115; quotation `J5b6b53d85808fd05`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/11`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#General Instruction: BMRC/SHE/CEO/012 — Warning Traffic Sign|General Instruction: BMRC/SHE/CEO/012 — Warning Traffic Sign]]; `Vol3DLNP1.pdf`; PDF page(s) 115; quotation `Sd70d1b402e4e8670`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 115; quotation `J00b4a9a2b7384dcb`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#General Instruction: BMRC/SHE/CEO/012 — Warning Traffic Sign|General Instruction: BMRC/SHE/CEO/012 — Warning Traffic Sign]]; `Vol3DLNP1.pdf`; PDF page(s) 115; quotation `S7706cbc0b0a54bed`.
 
 - Verify how the lump-sum salvage credit offered under Schedule-C is incorporated into final contract evaluation given its placeholder status in the published tender document.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J2ce3b55e064d0935`. JSON: `parsed_json/vol4/boq_abstract.json#/records/3`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J8067870f03899591`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/3`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Jf294327fac7f0d06`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/4`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `S469ca02217533c37`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J3b6ef5b6db6162f6`. JSON: `parsed_json/vol4/boq_abstract.json#/records/3`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J63eddbd6baebe3b5`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/3`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J7e205206ec3823e0`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/4`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `S212cc0e74fc3292f`.
 
 - Verify whether any subsequent corrigenda modify the Schedule A estimated cost of ₹ 4,69,41,306.00 or introduce changes to Schedule B and Schedule C pricing instructions in Volume 4 Section J.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J23599c81d83cf26f`. JSON: `parsed_json/vol4/boq_abstract.json#/records/0`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J6f83ecf77cc57b25`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J241ce183fcecf015`. JSON: `parsed_json/vol4/boq_abstract.json#/records/0`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Jf17d55c6acfde864`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
 
 - Verify whether the addition of SCC clauses deleting specific GCC subclauses (such as subclauses 4.5, 8.10, 11.1.2 through 11.1.2.4, 11.2.1, 11.2.2, 11.2.3, and 15.1) requires corresponding textual removal from GCC source files or is fully managed by SCC precedence instructions.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J1dd8bce37ef510fc`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J2cc37360d6e327cb`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J432b23c1c3a0838e`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/11`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J5075223d6e496a2a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/12`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J5d3bb44b86c8dbc6`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/9`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Ja338361a10571a5c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/10`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Jb6dbe6e9c034af69`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/8`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Jfd41b6562ee997ba`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/7`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J42ebc7a9caffaf7c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J03d7bc25e8c4862c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J472f04a0581e5138`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/11`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J1daf1ac7056acbc2`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/12`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Ja33aa367f0eabe79`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/9`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J68b661210475bcab`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/10`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J9f1e91a67a75186a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/8`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J830981895ce0b48b`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/7`.
 
 - All parsed amendment records for Corrigendum No. 3 remain in pending_manual_review status and require final verification against the original PDF source document.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J4805b52601f511db`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/13`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J8827536a17c54d1a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/16`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J9e0c4f73f95653c7`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/15`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 3 — Opening of Technical Bid Online|Change 3 — Opening of Technical Bid Online]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `Ja47b3c8a3cc00974`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/14`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J827a319dc3712125`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/13`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J01cf445b9bb9f862`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/16`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J0daa272fa51cc074`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/15`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 3 — Opening of Technical Bid Online|Change 3 — Opening of Technical Bid Online]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J8f918d1afc408a15`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/14`.
 
 - Verify whether Corrigendum No. 2 additions of SCC clauses deleting GCC Sub-Clauses 4.5, 8.10, 11.1.2 series, 11.2.1, 11.2.2, 11.2.3, and 15.1 supersede the original GCC baseline provisions without altering Contract Data labels.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J1dd8bce37ef510fc`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J2cc37360d6e327cb`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J432b23c1c3a0838e`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/11`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J5075223d6e496a2a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/12`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J5d3bb44b86c8dbc6`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/9`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Ja338361a10571a5c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/10`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Jb6dbe6e9c034af69`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/8`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `Jdbaceb05b8fa1555`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/5`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Jfd41b6562ee997ba`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/7`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J42ebc7a9caffaf7c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J03d7bc25e8c4862c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J472f04a0581e5138`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/11`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J1daf1ac7056acbc2`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/12`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Ja33aa367f0eabe79`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/9`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J68b661210475bcab`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/10`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J9f1e91a67a75186a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/8`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J4e809387ba405ea9`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/5`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J830981895ce0b48b`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/7`.
 
 ## Source Headings
 - [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Review Notes|Review Notes]]
@@ -6984,18 +7400,18 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 ## Typed Relations
 
 - **relates_to (editorial, inferred):** [[wiki/concepts/financial_capacity_evidence|Financial Capacity Thresholds and Supporting Evidence]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; `J704434795075ef24`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; `J0949e7907866cf3c`.
 - **relates_to (editorial, inferred):** [[wiki/concepts/similar_work_and_past_jv_evidence|Similar-Work Evidence and Historical JV Participation]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; `J704434795075ef24`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; `J0949e7907866cf3c`.
 - **relates_to (editorial, inferred):** [[wiki/concepts/salvage_ownership_and_credit|Salvage Ownership and Schedule C Credit]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; `J6f83ecf77cc57b25`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; `Jf17d55c6acfde864`.
 - **relates_to (editorial, inferred):** [[wiki/concepts/amendment_sequence_and_conflicts|Amendment Sequence and Unresolved Source Conflicts]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J4805b52601f511db`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J827a319dc3712125`.
 
 <details>
 <summary>Supporting source passages</summary>
 
-### S76273484f52c8e77
+### Sa0765c174b740c8f
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Review Notes|Review Notes]]
 
@@ -7003,9 +7419,8 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 > - Booklet page 001 identifies the affected original tender location.
 > - Original tender wording and historical values must remain available.
 > - Final transcription and applicability review remains pending.
-> >>>>>>> b1f5c9eb1f3986f540500a5c5ee639e92e9edc53
 
-### S9a1a7300b8c68e4b
+### Sdbae14720111f1cf
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Review Notes|Review Notes]]
 
@@ -7014,9 +7429,8 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 > - Preserve earlier NIT and corrigendum values as historical evidence.
 > - These are the replacement values in Corrigendum No. 3; this document alone does not establish that no later amendments exist.
 > - Final transcription and applicability review remains pending.
-> >>>>>>> b1f5c9eb1f3986f540500a5c5ee639e92e9edc53
 
-### J704434795075ef24
+### J0949e7907866cf3c
 
 [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]
 
@@ -7048,7 +7462,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "title": "Qualification Criteria"
 > }
 
-### J15c05b6805826ad1
+### J3cd7e98e7821d0bc
 
 [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]
 
@@ -7064,7 +7478,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "review_status": "pending_manual_review"
 > }
 
-### Jf1171fb75fee998b
+### J77160f041436cb56
 
 [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]
 
@@ -7080,7 +7494,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "review_status": "pending_manual_review"
 > }
 
-### J087ba490baa66b22
+### Je39a868ecbc078af
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -7099,7 +7513,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "value": null
 > }
 
-### J1bf8dba55f11e8f3
+### Jcad282231bc6155a
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -7118,7 +7532,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "value": null
 > }
 
-### J337894513d0234f8
+### J3f85e4b4c1e9bb9e
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -7137,7 +7551,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "value": null
 > }
 
-### J38b4a04f37db1096
+### J07ed326e26ae323a
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -7156,7 +7570,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "value": null
 > }
 
-### J3ea9253cbbbadd85
+### J5777e5f4a4682f5f
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -7175,7 +7589,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "value": null
 > }
 
-### J4a93f2b0640a1bfc
+### J2a3661ce40f5dfdf
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -7194,7 +7608,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "value": null
 > }
 
-### J5c929fc9bf95447d
+### Jcab66de298f61ed3
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -7203,7 +7617,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "text": "ATTACHMENT -6 \nSummary of Information provided in ATTACHMENT -5 \n(To be submitted by tenderer) \nSl \nNo \nName \nof the \nWork \nName \nof \nthe \nEmployer \n/client \nWork executed \nas \na \nPrime \nContractor \n(single entity or \nMember \nof \na \nJV)  \nPercentage of \nParticipation \nin Case of JV/ \nconsortium for \nthat work \nDate \nof \ncommence\nment \nof  \nwork \nOriginal \nDate \nof \ncompletion \nof work \nFinal date of \ncompletion \nof work  \nContract \nValue \n(at \nthe \ntime \nof \naward)  \nComplet\ned \ncontract \nvalue  in \nINR \nUpdated \nValue \nof \ncompleted \ncontract in \nEquivalent \nINR  \nValue \nof \nSubstantially \ncompleted \ncontract \nin \nEquivalent \nINR \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nNotes: \n \n1. Value of completed Similar Nature Work(s) executed shall be updated to the price level of the financial year in which the tenders are invited as per table \ngiven below: \nFinancial year \n2019-20 \n2020-21 \n2021-2022 \n2022-2023 \n2023-2024 \n2024-2025 \n2025-2026 \n2026-2027 \nIndian Currency \n1.41 \n1.34 \n1.28 \n1.22 \n1.16 \n1.10 \n1.05 \n1.00 \n \n2. Value of completed/ substantially completed Similar Nature Work(s) in foreign currency shall be converted to Equivalent INR by adopting Exchange rate \nbetween the foreign currency and INR as prevailing on the date of completion / date given in the substantial completion certificate as applicable, as per the \nwebsite of Reserve Bank of India (RBI). \n \n3. In case the work of Similar Nature is executed by the Joint venture, the value of Similar Nature of work executed shall be considered as per percentage \nparticipation by the member(s) in that Joint venture/consortium. \n \n(Signature) …………………… \nName of signatory: ……………………………… \nCapacity of signatory: …………………………… \nName and address of Tenderer: ………………."
 > }
 
-### Jdfcb22f4e62f06f2
+### Ja4b74630f796bd08
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -7212,7 +7626,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "text": "ATTACHMENT -7 \n             Works in Hand \n            (To be submitted by tenderer) \nName \nand \ndescription \nof \ncontract and date of \naward \n \nName of client with \ntelephone number \n \nContract Value at the \ntime of Award (in INR) \nAnticipated \nCompletion Date \n \n *The updated value (**in INR) \nof \nthe \nbalance \nCivil \nEngineering  works remaining \nto be executed during the \ncompletion period specified in \nthe NIT of this tender, as on the \nlast day of the month previous \nto the month of invitation of \nthis tender  \n \n \n \n \n \n \n \n \n \n \nTotal \n \n \nNote:  \n1. * For calculation of Updated Balance work to the price level of the financial year in which this tender is invited, assume inflation as per multiplying Factors given in \nthe table under note 1 of Attachment-6. \n2. Tenderer should provide information on their current commitments or all contracts that have been awarded or for which a letter of intent or acceptance has been \nreceived or for contracts approaching completion but for which a completion certificate is yet to be issued. \n3. **Total Equivalent INR for balance work in foreign currency should be calculated using the selling exchange rate of Reserve Bank of India as on the last day of the \nmonth previous to the month of invitation of this tender. In case publication is not available on the above day, previous working day published exchange rate shall \nbe considered for evaluation. \n4. Works in Hand information must be certified either by the Independent Financial Auditor (statutory Auditor) of the company appointed under the Companies’ Act or \nby a Chartered Accountant with his stamp and signature in original with membership number and firm registration number."
 > }
 
-### J1dd8bce37ef510fc
+### J42ebc7a9caffaf7c
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -7250,7 +7664,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J2cc37360d6e327cb
+### J03d7bc25e8c4862c
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -7287,7 +7701,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J432b23c1c3a0838e
+### J472f04a0581e5138
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -7325,7 +7739,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### Jfbc942cc9fb4caf7
+### J24b88bf9d69b3142
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -7334,7 +7748,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "text": "3     Sub-Clause 8.8         Following Para of the sub- clause 8.8 along with the contents of the\n         Consequences     of  table provided after this para stands deleted;\n          Suspension                    “If suspension is ordered by the Engineer for reasons other than those\n                                 mentioned in Sub Clause 8.8 ……………………….against this decision”."
 > }
 
-### J5075223d6e496a2a
+### J1daf1ac7056acbc2
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -7372,7 +7786,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J5d3bb44b86c8dbc6
+### Ja33aa367f0eabe79
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -7410,7 +7824,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### Ja338361a10571a5c
+### J68b661210475bcab
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -7448,7 +7862,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### Jb6dbe6e9c034af69
+### J9f1e91a67a75186a
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -7490,7 +7904,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### Jfd41b6562ee997ba
+### J830981895ce0b48b
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -7528,7 +7942,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### Jdbaceb05b8fa1555
+### J4e809387ba405ea9
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -7583,7 +7997,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "unchanged_selected_text": "A minor value item for this purpose is defined as an item whose original agreement value is less than 1 % of the total original contract value."
 > }
 
-### S7b99d9f12d93c1c0
+### S51f9471435b42990
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Change 5 — Add SCC Clause 6: Price Variation/Adjustment|Change 5 — Add SCC Clause 6: Price Variation/Adjustment]]
 
@@ -7597,7 +8011,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 > 
 > This addition should be read alongside Change 2, which retains NOT APPLICABLE in Contract Data Item 14.
 
-### Sfd23c1747d11bf6b
+### S15d57f3825cb65ba
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Change 2 — Contract Data Item 14: Price Variation/Adjustment|Change 2 — Contract Data Item 14: Price Variation/Adjustment]]
 
@@ -7612,7 +8026,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 > 
 > The replacement does not make price variation applicable. The NOT APPLICABLE label remains, with an expanded clause-reference list.
 
-### S0e67b4ccfdcd211e
+### S00a906ba193e9620
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Review Notes|Review Notes]]
 
@@ -7622,9 +8036,8 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 > - Original GCC wording should remain available as historical evidence.
 > - The original text of each deleted GCC provision is not reproduced in the amendment row.
 > - Final transcription and applicability review remains pending.
-> >>>>>>> b1f5c9eb1f3986f540500a5c5ee639e92e9edc53
 
-### J5d05ef68c861b17a
+### J86b548f78d72203c
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -7641,7 +8054,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "text": "BE /B. Tech\nin Civil\nEngineering\nwith 10 years\nof experience\n(Post\nQualification)"
 > }
 
-### Jf3712de1a37c4fb9
+### J8cc306484e5f1c70
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -7658,7 +8071,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "text": "3 years as\nProject\nManager or\nequivalent in\nSimilar\nNature\nWorks"
 > }
 
-### J041f67e495bf16e4
+### Jc8ad9103d9cd7ba0
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -7674,7 +8087,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "text": "Chipping Machine"
 > }
 
-### J20c51a8a096967a8
+### J23328bca576fdc3c
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -7690,7 +8103,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "text": "12 Nos"
 > }
 
-### J3c23aeb4f0808e9c
+### J346cde8e3e52cef9
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -7706,7 +8119,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "text": "9"
 > }
 
-### J2dd5e51ae6ff474c
+### J1529db7f21b890ef
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -7817,7 +8230,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   ]
 > }
 
-### J8f51c956fc10b82b
+### Jed4a04ce29862e22
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]
 
@@ -7826,7 +8239,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "text": "26.0      Site Electricity\n\n26.1     Competency of Electrical personnel:\n\n26.1.1   The contractor shall employ qualified and competent electrical personnel as\n         specified in general instruction BMRC/SHE/CEO/001.\n\n\n26.2     Assessment of power"
 > }
 
-### J9f0932e31acfeb4a
+### J68936454e52d6e69
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 27.0 — Lighting:|Clause 27.0 — Lighting:]]
 
@@ -8209,7 +8622,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "title": "Lighting:"
 > }
 
-### Jc61c2e8ba8123cd3
+### J52be181015732877
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -8300,7 +8713,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   ]
 > }
 
-### J88c0835d94c22d50
+### Jdeb26e500ffd2a05
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -8381,7 +8794,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   ]
 > }
 
-### J573bee61f4ed333d
+### J44c81c9cdd51865e
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]
 
@@ -9283,7 +9696,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "title": "Medical Facilities"
 > }
 
-### J854b5685ebe1a5e4
+### J58e05cc1d406b16b
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]
 
@@ -9404,7 +9817,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   ]
 > }
 
-### J4dc46683328b8b94
+### J8a0e49c22d95d567
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
@@ -9575,7 +9988,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   ]
 > }
 
-### Jfb972c460dd7ba15
+### J0c91520ec50d6ecd
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
@@ -9776,7 +10189,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   ]
 > }
 
-### J76e888824b1d01d7
+### Jb988ebfc2348becf
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
@@ -9907,7 +10320,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   ]
 > }
 
-### Jebbe75a21f09e602
+### J79d23904e48aab50
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
@@ -10078,7 +10491,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   ]
 > }
 
-### J1e4284a28e1aef8a
+### J2556b00273245b11
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
@@ -10279,7 +10692,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   ]
 > }
 
-### J960d4fcab1aa053d
+### Jb6700ce9e4738bf8
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
@@ -10480,7 +10893,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   ]
 > }
 
-### Jef5a3df3ab246f64
+### J1e9a99df38b19726
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
@@ -10691,7 +11104,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   ]
 > }
 
-### Jf5d2b0771b102c5f
+### Jb59db69e5e2ad8d6
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
@@ -10802,7 +11215,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   ]
 > }
 
-### J0b3b9cfa6fc2c651
+### J165136baa4f93f8b
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10843,7 +11256,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "starting_pdf_page": 91
 > }
 
-### J0f32d3e3d275fec4
+### J907fb52b761d937f
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10884,7 +11297,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "starting_pdf_page": 90
 > }
 
-### Jd2cd7fe0cbed86ce
+### J7db6c0d99b4a0b1d
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10925,7 +11338,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "starting_pdf_page": 91
 > }
 
-### J22ed204b7266c16b
+### J22e701c1b29567a6
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10956,7 +11369,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "starting_pdf_page": 91
 > }
 
-### J415ca7d9589dc9b8
+### J5ade30167fa649ea
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10997,7 +11410,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "starting_pdf_page": 92
 > }
 
-### J8e68e51ebdce182d
+### J14fa56c0db0ac2ff
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -11028,7 +11441,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "starting_pdf_page": 92
 > }
 
-### Jdd1dba6e5d3176a1
+### Ja834659360b92a73
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -11041,7 +11454,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   ]
 > }
 
-### J3d05e497b4cb8b67
+### J0dafa5697ca674a9
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -11051,7 +11464,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "pdf_page": 95
 > }
 
-### J045457175f78f13f
+### Jcb88a9688b005df4
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -11191,7 +11604,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   ]
 > }
 
-### J807862a97e7fd333
+### J5543c388e0459bf6
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -11200,7 +11613,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "text": "BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                            General Instruction: BMRC/SHE/CEO/003\n\n\n\n         SUGGESTIVE REQUIREMENTS OF SHE MONITORING AND AUDIO-VISUAL EQUIPMENTS\n\n\n           1.    For the purpose of minimum requirements of Audio-visual and Other equipment the contracts\n                categorized into the following groups:\n\n\n\n                            Contract Value (Initial awarded value of contract)                 Group\n\n\n                                         Upto 25 Cr                            A\n\n\n                                         Upto 100 Cr                            B\n\n\n                                         Upto 250 Cr                         C\n\n\n                                   More than 250 Cr                        D\n\n\n\n           2.    Every contractor falling into the above groups shall provide the following minimum required\n               audio visual aids for conducting weekly review, monthly safety committee and other post\n               review meeting of all fatal and major incidences effectively. These audio-visual equipments\n               are a must  for  conducting  periodical  in-house  safety  presentations  in  the  training\n              programmes.\n\n           3.     In addition to the above portable hand held digital sound level meter (SLM) and portable hand\n               held digital lux meter are also to be provided.\n\n\n                                        SHE monitoring and Audio-Visual equipment\n                 Sl.   SHE monitoring and Audio-Visual                 required for\n          No          Equipment details        Group A   Group B  Group C    Group D\n                                                     Contract   Contract   Contract     Contract\n\n                 1.  Portable hand held Digital Sound Level\n                                                      1         1         1           1\n                 Meter (SLM)\n\n                 2.  Portable hand held Digital Lux Meter         1         1         1           1\n\n                 3.  Laptop Computer with standard\n                    configuration including multi media          1         1         1           1\n                         facilities\n                 4.  Colour Printer                           1         1         1           1\n\n                 5. Computer projector with screen                      -         1         1           1\n\n                 6. Overhead projector                       1\n                 7. 35mm Camera (For taking accident\n                    investigation photos in which case the        1         1         1           1\n                images can not be easily altered)\n                      Digital camera with flash of minimum 4                 8.                                       1         1         1           2\n              mega pixel and video facility\n                 9.  Digital still camera with flash of             1         2         4           6\n               minimum 4 mega pixel\n\n\n               10. Portable loudspeaker (for tool-box talk\n                                                      1         1         2           6\n                and emergency purpose)\n\n               11. Communication facility like mobile      For all supervisors and managers/engineers working\n                 phone, walky-talky etc                  Safety, Health & Environment"
 > }
 
-### Jb23d7ac8ecea82aa
+### J71183e109c431b8d
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -11209,7 +11622,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "text": "BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                       General Instruction: BMRC/SHE/CEO/001\n\n\nSUGGESTIVE MANPOWER REQUIREMENTS OF SHE ORGANIZATION BASED ON CONTRACT VALUE\n\n                  1         2           3         4         5              6\n\n                Chief SH   Senior SHE Junior SHE   Safety      Senior        Junior SHE\n  Awarded\n              Manage    Manager  Manager   Steward    SHE           (Electrical)\n  Contract\n                                                                        (Electrical)       Engineer\nvalue (in Cr.)\n                                                          Engineer\n\n     Upto 2              -                -           1                                  -              1\n\n     Upto 10             -          1                                1\n\n     Upto 25        1                                          1                                                        Refer\n                                            Refer                                    Refer                                                    Note 1    Upto 100       1                                          1                               Refer                                         Note 1                                Note 2\n                            Note 1    Upto 250       1                                          1\n\n  More than 25      1                                          1\n\n\n                    7          8          9         10         11        12        13\n\n                                                  Senior                 *Junior   Occupatio   Environ               Barricad    House    Labour\n                                       SHE              SHE     nal Health   mental                 e      Keeping   Welfare\n                                                              (Traffic)                      (Fire)     officer with  Manager             Maintena   Squad     Officer\n                                               Engineer  Awarded     Manager   Necessary                        nce\n  Contract                 /        Nursing                 (Refer Note4 Squad\n value (in Cr.)    **Senior    Assistants                             (Refer\n              SHE       (Refer                             Note4)\n                      (Fire)      Note3)\n              Manager\n\n      Upto 2               -                 -                 -                 -                                                 -\n\n     Upto 10               -        1 (PT)        1          1                             1\n\n     Upto 25          1*       1 (PT)        1          1                             1\n\n     Upto 100         1*       1 (FT)        1          1                             1\n                                                                 Refer Note Refer Note                                                                              1 with\n     Upto 250         1**        2(FT)        1          1                            support\n                                                                                                                   staff\n\n                                     1 with                                    1 with\n  More than\n                        2**        2(FT)    support         1                            support\n    250\n                                                       staff                                                       staff\n\n  Note 1:    Adequate, qualified and trained SHE Professionals with required support staff to be\n             deployed at each worksite at each shift.\n\n  Note 2:    Adequate, qualified and trained Electrical Engineers / supervisors to be deployed at each\n               worksite at each shift.\n  Note 3:    (PT) means Part-Time and (FT) means Full-time.\n\n  Note 4:    Senior SHE (Traffic) Engineer Post and Barricade Manager (including the staff) Posts are\n               applicable to contracts where the work has to be executed either below or over the right-\n              of-way  like  Viaduct,  station,  depot and  Tunnel  Contracts  wherein  erection and\n             maintenance of barricades are paramount important.\n  Note 5:   One Barricade Manager supported by required supervisors and workmen\n\n  Note 6:   One Housekeeping Manager supported by required supervisors and workmen"
 > }
 
-### Jade8a5443a3ec982
+### J0ceb357b2c36eff1
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -11218,7 +11631,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "text": "BANGALORE METRO RAIL CORPORATION LTD. \nGeneral Instruction: BMRC/SHE/CEO/007 \n \nSHE Training Matrix \n \n \n \n \n \n \n \n \n \n \nTypes of training \nManagement \nSupervisor \nSpecific \nSHE Orientation  \nSHE Leadership \nSHE Plan \nSHE Improvement Plan \nManagement of Change \nSHE Audit & Inspection  \nSHE Emergency Response & Preparedness  \nIncident/Accident Investigation & Reporting  \nSHE Communication \nSHE Promotion & Incentives \nTraffic Management  \nHazard Identification & Risk Analysis \nPermit to work system \nConfined space entry \nscaffolding \nWaste Management  \nEnvironment Monitoring \nLabour welfare measures  \nBehavioural Based Safety Management (BBSM) \nJob/Task Safety Analysis (JSA)  \nSafety Training Observation Programme (STOP) \nIndustrial First Aid & CPR \nIncident / Accident Investigation & Reporting  \nFire fighting \nConfined Space Testing & Certification  \nScaffold Erection & Inspection \nRigging \nWire Rope Inspection \nCrane Inspection  \nElectrical/Mechanical Isolation \nPermit to Work System  \nConfined Space Working  \nExplosive Handling & Control  \nHeavy Lifting Operation \nRadiography (X-Ray) \nHAZMAT Handling & Control \nWelding, Cutting & Bracing \nPower Actuated Hand Tool \nElectrical/Mechanical Isolation \nRoofing Work  \nSteel erection work  \nScaffold Erection/Dismantling  \nFalse-work Erection / Dismantling \nPainting in Confined Area \nProject Manager \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSr. Construction Managers \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nQuality Manager \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPlanning engineer \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nConstruction Managers \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nConstruction Supervisors \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nConstruction Foreman  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMachinery Operators  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMaterial Handlers  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nStation Building Workers \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSteel workers  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMechanical workers  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nOther Civil workers  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nElectrical workers  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRadiographers  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTransportation Drivers  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSecurity Officers \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nClerical Staff \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMedical Doctor \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSr. SHE Managers \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nJr. SHE Managers \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSHE Supervisors \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n"
 > }
 
-### J30f2390f6433285e
+### J08ed134aa962ffed
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -11227,7 +11640,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "text": "Note 1: Items mentioned under 17 is video. Items under 3 (a) and 5 (a) are metal signage\n                boards and all other items are posters.\n\n          Table No.: 2 – Size of Posters / Signages\n\n\n           Sl.No   Item                                         Size\n\n             1.       Posters – Standard                             17”x22” –135 GSM 4 Colour Printing\n\n             2.       Posters – Special (Wherever required)           17”x22” card laminated FA Poster\n\n             3.       Posters - Mega size (Wherever required)         32”x40” Flex FA Poster\n\n             4.        First-Aid Booklet                                 6”x4”\n\n             5.       Safety Handbook                                 6”x4”\n\n             6.      Signages                                     Small : 12”x6”\n\n                                                                    Big : 24”x12”\n\n             7.      Road Traffic Sign Boards                              Strictly as per Indian Road Congress\n                                                                    (IRC) specifications\n\n\n          Table No.: 3 – Safety Signage Colour (as per IS 9457)\n\n\n           Sl.No     Type of signage                            Colour\n\n            1       Mandatory                                    Blue\n\n            2       Danger                                       Yellow\n\n            3         Prohibit                               Red\n\n            4       Safe conditions                            Green"
 > }
 
-### J4c84cba0ce5576de
+### Jfd626157ee14f95e
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -11815,7 +12228,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   ]
 > }
 
-### J52538f520778df48
+### Jcef9c41367455b19
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -11824,7 +12237,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "text": "BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                            General Instruction: BMRC/SHE/CEO/009\n\n\n\n         Minimum Requirements of SHE Communication Posters / Signages / Video\n\n\n          1.     For the purpose of Minimum requirements of SHE Communication Posters  / Signages  /\n              Video the contracts are categorized into the following groups:\n\n\n                           Contract Value (Initial awarded value of contract)              Group\n\n\n                                        Upto 25 Cr                          A\n\n\n                                       Upto 100 Cr                         B\n\n\n                                       Upto 250 Cr                       C\n\n\n                                  More than 250 Cr                      D\n\n\n          2.     Every contractor falling into the above groups shall prepare a SHE Communication Plan as a\n                 part of site specific SHE Plan and shall include the following minimum requirement of Posters /\n              Signages / Video as applicable. In case readymade posters are available in any of the category\n               from National Safety Council, Loss Prevention Association of India or any other safety related\n                organisations they may procure the same and display it. In case the same is not available then\n                the contractors’ shall make necessary arrangements to get the posters designed and printed\n             on their own.\n\n\n                    All the above are to be detailed in the Site SHE Plan and get an approval from the Employer\n                before displaying the posters.\n\n\n                                  Table No.: 1 - Minimum No. of Posters\n\n\n                                   Minimum           No. of Posters / Signage / Video\n                                          No. of\n                                              Group A  Group B  Group C  Group D\n          Sl.No    SHE Poster Title      concepts\n                                                      Contract   Contract   Contract   Contract\n                                                  in each\n                                                                 title\n\n              1.    Safety Culture                5      Each 10   Each 50   Each 75   Each 100\n\n              2.    Daily Safety Oath         1 English    Each 100  Each 200  Each 500 Each 1000\n                                   &1 Hindi\n\n              3.    Mandatory PPE Usage\n\n               a)  Signages to display the    2 types of    Each 25   Each 50   Each 75   Each 200\n               messages like PPE         sizes made\n              ZONE, NO PPE ZONE,    up of metal\n            HARD HAT AREA etc.     sheet to be\n                                      mounted at\n                                                     different\n                                                 locations\n\n              b)  Helmet                     5      Each 25   Each 50   Each 75   Each 200"
 > }
 
-### J5b6b53d85808fd05
+### J00b4a9a2b7384dcb
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -12092,13 +12505,13 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   ]
 > }
 
-### Sd70d1b402e4e8670
+### S7706cbc0b0a54bed
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#General Instruction: BMRC/SHE/CEO/012 — Warning Traffic Sign|General Instruction: BMRC/SHE/CEO/012 — Warning Traffic Sign]]
 
 > ---
 
-### J2ce3b55e064d0935
+### J3b6ef5b6db6162f6
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -12146,7 +12559,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "schedule": "C"
 > }
 
-### J8067870f03899591
+### J63eddbd6baebe3b5
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -12205,7 +12618,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "type": "pricing_rule"
 > }
 
-### Jf294327fac7f0d06
+### J7e205206ec3823e0
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -12244,7 +12657,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "type": "pricing_rule"
 > }
 
-### S469ca02217533c37
+### S212cc0e74fc3292f
 
 [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]
 
@@ -12264,7 +12677,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   - **Estimated Cost Field:** `----`
 >   - **Pricing Basis:** Lump-sum credit under Preamble Instruction 3
 
-### J23599c81d83cf26f
+### J241ce183fcecf015
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -12311,7 +12724,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "schedule": "A"
 > }
 
-### J6f83ecf77cc57b25
+### Jf17d55c6acfde864
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -12494,7 +12907,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   ]
 > }
 
-### J4805b52601f511db
+### J827a319dc3712125
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]
 
@@ -12523,7 +12936,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J8827536a17c54d1a
+### J01cf445b9bb9f862
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]
 
@@ -12552,7 +12965,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J9e0c4f73f95653c7
+### J0daa272fa51cc074
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]
 
@@ -12581,7 +12994,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### Ja47b3c8a3cc00974
+### J8f918d1afc408a15
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 3 — Opening of Technical Bid Online|Change 3 — Opening of Technical Bid Online]]
 

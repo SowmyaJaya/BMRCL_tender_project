@@ -6,26 +6,26 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-11-01T12:14:18+00:00'
-updated_at: '2026-11-01T12:36:19+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T12:14:18+00:00'
 model: source-backed editorial synthesis; no API call
 sources:
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/16
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/7
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
@@ -36,18 +36,18 @@ claims:
   text: This page brings together the cited requirements for bid authority and submission evidence. Each source
     statement retains its own stage, conditions and review limitations.
   evidence_ids:
-  - Jccd2341b74f6e498
-  - Jccd4f83626ee3522
-  - Jd2d184711db13a7f
+  - Ja2988f77bed9ddeb
+  - J47803f159cd34cbe
+  - Je41aff26c3939660
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C14941066dc950199
+  id: Cb5d06ac7c11122ca
   citations:
-  - id: Jccd2341b74f6e498
+  - id: Ja2988f77bed9ddeb
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -89,9 +89,9 @@ claims:
       ,\n  \"review_status\": \"pending_manual_review\",\n  \"source_marking\": \"not_marked_deleted\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jccd4f83626ee3522
+  - id: J47803f159cd34cbe
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -120,9 +120,9 @@ claims:
       ,\n  \"source_marking\": \"not_marked_deleted\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jd2d184711db13a7f
+  - id: Je41aff26c3939660
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -160,21 +160,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C14941066dc950199
+    previous_evidence_ids:
+    - Jccd2341b74f6e498
+    - Jccd4f83626ee3522
+    - Jd2d184711db13a7f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 11 authorizes a named employee to act for the tenderer in dealings with BMRCL. Its execution
     wording refers to appropriate non-judicial stamp paper in India or an equivalent notarized document and applicable
     charter procedures.
   evidence_ids:
-  - Jccd2341b74f6e498
+  - Ja2988f77bed9ddeb
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cafca5a4f639363d4
+  id: Cd0d97eedb0a24cf5
   citations:
-  - id: Jccd2341b74f6e498
+  - id: Ja2988f77bed9ddeb
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -218,20 +230,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cafca5a4f639363d4
+    previous_evidence_ids:
+    - Jccd2341b74f6e498
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 4 requests incorporation or constitution evidence alongside tenderer identity, authorized-representative
     and banking particulars, including a cancelled cheque; blank fields do not establish an actual bidder identity.
   evidence_ids:
-  - Jccd4f83626ee3522
+  - J47803f159cd34cbe
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1783ff2731eefae5
+  id: Ceadda2949606bc1b
   citations:
-  - id: Jccd4f83626ee3522
+  - id: J47803f159cd34cbe
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -262,21 +284,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1783ff2731eefae5
+    previous_evidence_ids:
+    - Jccd4f83626ee3522
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 5 calls for one form per similar work and a relevant client certificate. Award and completed/substantially
     completed values are requested excluding GST, while updating applies to completed-contract value using Attachment
     6 factors.
   evidence_ids:
-  - Jd2d184711db13a7f
+  - Je41aff26c3939660
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C11ba1b3c3f4e4fcd
+  id: C249e4a8aa33a9f85
   citations:
-  - id: Jd2d184711db13a7f
+  - id: Je41aff26c3939660
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -314,22 +346,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C11ba1b3c3f4e4fcd
+    previous_evidence_ids:
+    - Jd2d184711db13a7f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: relation
   text: 'Editorial topic mapping for Bid Authority and Submission Evidence: the two cited source records are connected
     for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence
     rule or a compliance decision.'
   evidence_ids:
-  - Jccd2341b74f6e498
-  - Jccd4f83626ee3522
+  - Ja2988f77bed9ddeb
+  - J47803f159cd34cbe
   relation_type: relates_to
   explicitness: inferred
-  from_id: Jccd2341b74f6e498
-  to_id: Jccd4f83626ee3522
-  id: Ca33463b88cc5fb79
+  from_id: Ja2988f77bed9ddeb
+  to_id: J47803f159cd34cbe
+  id: Cc6de35b84b323b4d
   citations:
-  - id: Jccd2341b74f6e498
+  - id: Ja2988f77bed9ddeb
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -371,9 +413,9 @@ claims:
       ,\n  \"review_status\": \"pending_manual_review\",\n  \"source_marking\": \"not_marked_deleted\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jccd4f83626ee3522
+  - id: J47803f159cd34cbe
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -410,17 +452,27 @@ claims:
       not an explicit hierarchy or a compliance determination.
     corrected_at: '2026-11-01T12:20:49+00:00'
     method: topic-specific editorial relation label
+  - previous_claim_id: Ca33463b88cc5fb79
+    previous_evidence_ids:
+    - Jccd2341b74f6e498
+    - Jccd4f83626ee3522
+    previous_from_id: Jccd2341b74f6e498
+    previous_to_id: Jccd4f83626ee3522
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T12:20:49+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: concepts/letter_of_technical_bid_attachments.md
   title: Source topic page
   evidence_ids:
-  - Jccd2341b74f6e498
+  - Ja2988f77bed9ddeb
 source_scope_note: The complete creation prompt explicitly includes matching JSON with each OKF file. These are
   source-linked extracts, not independent external assumptions. PDF/source review remains pending.
 editorial_method: Source-backed editorial synthesis; no new API generation call
-last_editorial_review: '2026-11-01T12:36:19+00:00'
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Bid Authority and Submission Evidence
@@ -430,27 +482,27 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Summary
 
 - This page brings together the cited requirements for bid authority and submission evidence. Each source statement retains its own stage, conditions and review limitations.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 53; quotation `Jccd2341b74f6e498`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/16`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 43; quotation `Jccd4f83626ee3522`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/7`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 45; quotation `Jd2d184711db13a7f`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 53; quotation `Ja2988f77bed9ddeb`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 43; quotation `J47803f159cd34cbe`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 45; quotation `Je41aff26c3939660`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/9`.
 
 ## Key Parameters and Source Statements
 
 - Attachment 11 authorizes a named employee to act for the tenderer in dealings with BMRCL. Its execution wording refers to appropriate non-judicial stamp paper in India or an equivalent notarized document and applicable charter procedures.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 53; quotation `Jccd2341b74f6e498`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 53; quotation `Ja2988f77bed9ddeb`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/16`.
 
 - Attachment 4 requests incorporation or constitution evidence alongside tenderer identity, authorized-representative and banking particulars, including a cancelled cheque; blank fields do not establish an actual bidder identity.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 43; quotation `Jccd4f83626ee3522`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 43; quotation `J47803f159cd34cbe`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/7`.
 
 - Attachment 5 calls for one form per similar work and a relevant client certificate. Award and completed/substantially completed values are requested excluding GST, while updating applies to completed-contract value using Attachment 6 factors.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 45; quotation `Jd2d184711db13a7f`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 45; quotation `Je41aff26c3939660`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/9`.
 
 ## Typed Relations
 
 - Editorial topic mapping for Bid Authority and Submission Evidence: the two cited source records are connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence rule or a compliance decision.
   - **relates_to (inferred):** [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]] → [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 53; quotation `Jccd2341b74f6e498`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/16`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 43; quotation `Jccd4f83626ee3522`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 53; quotation `Ja2988f77bed9ddeb`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 43; quotation `J47803f159cd34cbe`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/7`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
@@ -458,7 +510,7 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Related Wiki Entities
 
 - **relates_to (editorial, inferred):** [[wiki/concepts/letter_of_technical_bid_attachments|Source topic page]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 53; `Jccd2341b74f6e498`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 53; `Ja2988f77bed9ddeb`.
 
 ## Open Questions and Contradictions
 
@@ -467,7 +519,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### Jccd2341b74f6e498
+### Ja2988f77bed9ddeb
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -486,7 +538,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### Jccd4f83626ee3522
+### J47803f159cd34cbe
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -505,7 +557,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### Jd2d184711db13a7f
+### Je41aff26c3939660
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 

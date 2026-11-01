@@ -6,19 +6,19 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-11-01T12:14:18+00:00'
-updated_at: '2026-11-01T12:36:19+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T12:14:18+00:00'
 model: source-backed editorial synthesis; no API call
 sources:
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json
   json_sha256: 05a1d839e2b5bb79ea3247a38927b01d20d5c195c3b2856edb508d5307e8b383
   json_pointer: /full_form_context/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
@@ -29,17 +29,17 @@ claims:
   text: This page brings together the cited requirements for personnel qualifications and plant readiness. Each
     source statement retains its own stage, conditions and review limitations.
   evidence_ids:
-  - Je29647f69b1560f9
-  - J6dbae519490f54d4
+  - J6193eee117f064cf
+  - Jc52bd73cc382c668
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C602d57e8ccbaa5e2
+  id: Cb003a066633f1da6
   citations:
-  - id: Je29647f69b1560f9
+  - id: J6193eee117f064cf
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -66,9 +66,9 @@ claims:
       \ ……………………………… \\nCapacity of signatory: …………………………… \\nName and address of Tenderer:………………..\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J6dbae519490f54d4
+  - id: Jc52bd73cc382c668
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -106,20 +106,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C602d57e8ccbaa5e2
+    previous_evidence_ids:
+    - Je29647f69b1560f9
+    - J6dbae519490f54d4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 9 requires one Project Manager with BE/B.Tech Civil, 10 years of post-qualification experience
     and 3 years as Project Manager or equivalent on similar-nature works.
   evidence_ids:
-  - Je29647f69b1560f9
+  - J6193eee117f064cf
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6272aa81c47c3c8c
+  id: C1821cbfa2b289029
   citations:
-  - id: Je29647f69b1560f9
+  - id: J6193eee117f064cf
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -148,21 +159,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6272aa81c47c3c8c
+    previous_evidence_ids:
+    - Je29647f69b1560f9
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'The same staffing template requires one Chief Safety and Health Manager: Engineering graduate or MSc Safety
     from a recognized university, 8 years total post-qualification experience and 5 years in the stated chief-safety/equivalent
     infrastructure role.'
   evidence_ids:
-  - Je29647f69b1560f9
+  - J6193eee117f064cf
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C585d3ec5d67c7fcc
+  id: C52e6de66f40d10dd
   citations:
-  - id: Je29647f69b1560f9
+  - id: J6193eee117f064cf
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -191,21 +212,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C585d3ec5d67c7fcc
+    previous_evidence_ids:
+    - Je29647f69b1560f9
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 10 lists demolition plant including cutters, wall saws, drills, floor saws, chippers, crushers,
     mobile cranes, long-reach demolition equipment, rock breakers and DG sets. A template list is not evidence that
     a bidder has deployed these items.
   evidence_ids:
-  - J6dbae519490f54d4
+  - Jc52bd73cc382c668
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C287bd89e607dcf66
+  id: C883de99d11e6a797
   citations:
-  - id: J6dbae519490f54d4
+  - id: Jc52bd73cc382c668
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -243,22 +274,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C287bd89e607dcf66
+    previous_evidence_ids:
+    - J6dbae519490f54d4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: relation
   text: 'Editorial topic mapping for Personnel Qualifications and Plant Readiness: the two cited source records
     are connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence
     rule or a compliance decision.'
   evidence_ids:
-  - Je29647f69b1560f9
-  - J6dbae519490f54d4
+  - J6193eee117f064cf
+  - Jc52bd73cc382c668
   relation_type: relates_to
   explicitness: inferred
-  from_id: Je29647f69b1560f9
-  to_id: J6dbae519490f54d4
-  id: C32389e121cc63491
+  from_id: J6193eee117f064cf
+  to_id: Jc52bd73cc382c668
+  id: C6d325e42c9d8a67a
   citations:
-  - id: Je29647f69b1560f9
+  - id: J6193eee117f064cf
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -285,9 +326,9 @@ claims:
       \ ……………………………… \\nCapacity of signatory: …………………………… \\nName and address of Tenderer:………………..\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J6dbae519490f54d4
+  - id: Jc52bd73cc382c668
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -331,17 +372,27 @@ claims:
       not an explicit hierarchy or a compliance determination.
     corrected_at: '2026-11-01T12:20:49+00:00'
     method: topic-specific editorial relation label
+  - previous_claim_id: C32389e121cc63491
+    previous_evidence_ids:
+    - Je29647f69b1560f9
+    - J6dbae519490f54d4
+    previous_from_id: Je29647f69b1560f9
+    previous_to_id: J6dbae519490f54d4
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T12:20:49+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: concepts/letter_of_technical_bid_attachments.md
   title: Source topic page
   evidence_ids:
-  - Je29647f69b1560f9
+  - J6193eee117f064cf
 source_scope_note: The complete creation prompt explicitly includes matching JSON with each OKF file. These are
   source-linked extracts, not independent external assumptions. PDF/source review remains pending.
 editorial_method: Source-backed editorial synthesis; no new API generation call
-last_editorial_review: '2026-11-01T12:36:19+00:00'
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Personnel Qualifications and Plant Readiness
@@ -351,26 +402,26 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Summary
 
 - This page brings together the cited requirements for personnel qualifications and plant readiness. Each source statement retains its own stage, conditions and review limitations.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `Je29647f69b1560f9`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/full_form_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `J6dbae519490f54d4`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `J6193eee117f064cf`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/full_form_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `Jc52bd73cc382c668`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/15`.
 
 ## Key Parameters and Source Statements
 
 - Attachment 9 requires one Project Manager with BE/B.Tech Civil, 10 years of post-qualification experience and 3 years as Project Manager or equivalent on similar-nature works.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `Je29647f69b1560f9`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/full_form_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `J6193eee117f064cf`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/full_form_context/0`.
 
 - The same staffing template requires one Chief Safety and Health Manager: Engineering graduate or MSc Safety from a recognized university, 8 years total post-qualification experience and 5 years in the stated chief-safety/equivalent infrastructure role.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `Je29647f69b1560f9`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/full_form_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `J6193eee117f064cf`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/full_form_context/0`.
 
 - Attachment 10 lists demolition plant including cutters, wall saws, drills, floor saws, chippers, crushers, mobile cranes, long-reach demolition equipment, rock breakers and DG sets. A template list is not evidence that a bidder has deployed these items.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `J6dbae519490f54d4`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `Jc52bd73cc382c668`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/15`.
 
 ## Typed Relations
 
 - Editorial topic mapping for Personnel Qualifications and Plant Readiness: the two cited source records are connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence rule or a compliance decision.
   - **relates_to (inferred):** [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]] → [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `Je29647f69b1560f9`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/full_form_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `J6dbae519490f54d4`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `J6193eee117f064cf`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/full_form_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `Jc52bd73cc382c668`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/15`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
@@ -378,7 +429,7 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Related Wiki Entities
 
 - **relates_to (editorial, inferred):** [[wiki/concepts/letter_of_technical_bid_attachments|Source topic page]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; `Je29647f69b1560f9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; `J6193eee117f064cf`.
 
 ## Open Questions and Contradictions
 
@@ -387,7 +438,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### Je29647f69b1560f9
+### J6193eee117f064cf
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -396,7 +447,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "ATTACHMENT -9 \nMINIMUM QUALIFICATION AND EXPERIENCE REQUIRED FOR KEY PERSONNEL TO BE DEPLOYED FOR THE WORK \n(To be submitted by Tenderer) \n \nSl. \nNo \nKey \nPersonnel \nQualifications \n& \nTotal \nExperience \n(Post \nQualification) \nExperience in Similar Nature \nworks (Minimum \nrequirement) \n(Post Qualification) \nMinimum \nNumber of \nPersonnel \nRequired \nName of the \nkey \npersonnel \nproposed \nQualification   Total number \nof years of \nexperience \n(Post \nQualification) \nNumber of \nYears of \nexperience in \nthe proposed \nposition/equiv\nalent in \nSimilar Nature \nworks  \n(Post \nQualification) \n1 \n \nProject \nManager  \nBE /B. Tech in Civil \nEngineering with 10 years \nof experience (Post \nQualification) \n3 years as Project Manager or \nequivalent in Similar Nature \nWorks \n1 \n \n \n \n \n2 \nChief \nSafety and \nHealth \nManager \nGraduate in Engineering / \nMSc in Safety from a \nrecognized university with 8 \nyears of total experience \n(Post Qualification). \n5 years as Chief Safety and \nHealth Manager or equivalent \nin Infrastructure projects \n1 \n \n \n \n \n \n \nSignature) …………………… \nName of signatory: ……………………………… \nCapacity of signatory: …………………………… \nName and address of Tenderer:……………….."
 > }
 
-### J6dbae519490f54d4
+### Jc52bd73cc382c668
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 

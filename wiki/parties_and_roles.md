@@ -6,207 +6,207 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-30T12:58:34+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T11:04:56+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_items.json
   json_sha256: ffa851d3dc75c862bbb9df376985067951c7005c988fb0a1002a897b32525b6b
   json_pointer: /introduction/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_items.json
   json_sha256: ffa851d3dc75c862bbb9df376985067951c7005c988fb0a1002a897b32525b6b
   json_pointer: /signature/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/3
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/20
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/21
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/22
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/23
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/24
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/30
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_clauses.json
   json_sha256: d8207622663bc2dd0cf2a7c5e3ed660f5c3881838e376d1bbb26fdae47ed8abf
   json_pointer: /clauses/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_2_personnel/personnel_requirements.json
   json_sha256: d28c815d5151f36e3d238a6555492a5e618921a67ba7a5582686fe4eb2f14c28
   json_pointer: /personnel_requirements/0/cells/7
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_2_personnel/personnel_requirements.json
   json_sha256: d28c815d5151f36e3d238a6555492a5e618921a67ba7a5582686fe4eb2f14c28
   json_pointer: /personnel_requirements/0/cells/4
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_2_personnel/personnel_requirements.json
   json_sha256: d28c815d5151f36e3d238a6555492a5e618921a67ba7a5582686fe4eb2f14c28
   json_pointer: /personnel_requirements/0/cells/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_2_personnel/personnel_requirements.json
   json_sha256: d28c815d5151f36e3d238a6555492a5e618921a67ba7a5582686fe4eb2f14c28
   json_pointer: /personnel_requirements/0/cells/0
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_2_personnel/personnel_requirements.json
   json_sha256: d28c815d5151f36e3d238a6555492a5e618921a67ba7a5582686fe4eb2f14c28
   json_pointer: /personnel_requirements/0/cells/6
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_2_personnel/personnel_requirements.json
   json_sha256: d28c815d5151f36e3d238a6555492a5e618921a67ba7a5582686fe4eb2f14c28
   json_pointer: /personnel_requirements/0/cells/5
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_2_personnel/personnel_requirements.json
   json_sha256: d28c815d5151f36e3d238a6555492a5e618921a67ba7a5582686fe4eb2f14c28
   json_pointer: /personnel_requirements/0/cells/3
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_2_personnel/personnel_requirements.json
   json_sha256: d28c815d5151f36e3d238a6555492a5e618921a67ba7a5582686fe4eb2f14c28
   json_pointer: /personnel_requirements/1/cells/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_2_personnel/personnel_requirements.json
   json_sha256: d28c815d5151f36e3d238a6555492a5e618921a67ba7a5582686fe4eb2f14c28
   json_pointer: /personnel_requirements/1/cells/3
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_2_personnel/personnel_requirements.json
   json_sha256: d28c815d5151f36e3d238a6555492a5e618921a67ba7a5582686fe4eb2f14c28
   json_pointer: /personnel_requirements/1/cells/4
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_2_personnel/personnel_requirements.json
   json_sha256: d28c815d5151f36e3d238a6555492a5e618921a67ba7a5582686fe4eb2f14c28
   json_pointer: /personnel_requirements/1/cells/1
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/1/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/1/fragments/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/0/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/18
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/19
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_items.json
   json_sha256: ffa851d3dc75c862bbb9df376985067951c7005c988fb0a1002a897b32525b6b
@@ -217,17 +217,17 @@ claims:
   text: Bangalore Metro Rail Corporation Limited (BMRCL) is the inviting organisation and a Joint Venture of the
     Government of Karnataka and the Government of India.
   evidence_ids:
-  - S2a627ca320b40edd
-  - J9b542119f82b0903
+  - Sf73798d34051b329
+  - J6c0f0f80eb24496b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7ab177a12a301c5c
+  id: C29c96e430d0ed3b2
   citations:
-  - id: S2a627ca320b40edd
+  - id: Sf73798d34051b329
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Invitation to Tender
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -248,9 +248,9 @@ claims:
       - **Contract Package:** P1.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: J9b542119f82b0903
+  - id: J6c0f0f80eb24496b
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Invitation to Tender
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -276,21 +276,32 @@ claims:
     heading_alignment: source_context_match
   created_at: '2026-10-30T12:58:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7ab177a12a301c5c
+    previous_evidence_ids:
+    - S2a627ca320b40edd
+    - J9b542119f82b0903
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The issuing authority for the NIT is the General Manager (Contracts), acting on behalf of the Executive
     Director, BMRCL.
   evidence_ids:
-  - S89226a4a9a97bb64
-  - J1306b0d49aca6d13
+  - S0fac57bbac0e0f0d
+  - Jd09bf16ac1a4c564
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8039e7fd3a71a6fe
+  id: C7e33d2a57ba0ea49
   citations:
-  - id: S89226a4a9a97bb64
+  - id: S0fac57bbac0e0f0d
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: D. Issuing Authority
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -299,9 +310,9 @@ claims:
       Metro Rail Corporation Ltd.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: J1306b0d49aca6d13
+  - id: Jd09bf16ac1a4c564
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: D. Issuing Authority
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -320,21 +331,32 @@ claims:
     heading_alignment: source_context_match
   created_at: '2026-10-30T12:58:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8039e7fd3a71a6fe
+    previous_evidence_ids:
+    - S89226a4a9a97bb64
+    - J1306b0d49aca6d13
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Bangalore Metro Rail Corporation Limited (BMRCL) is a joint venture of the Government of India and the Government
     of Karnataka, responsible for implementing the Bangalore Metro Rail project.
   evidence_ids:
-  - Jb9727d343b0a6720
-  - S1a62af76d13a74d9
+  - J628df0a47df6ad31
+  - Sf624bf037b0efdc8
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc03deee9dad7c41a
+  id: C3f3c01652acdafb2
   citations:
-  - id: Jb9727d343b0a6720
+  - id: J628df0a47df6ad31
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 1.0 — Introduction
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -357,9 +379,9 @@ claims:
       \  ],\n  \"heading_line\": \"1.0      INTRODUCTION\",\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: S1a62af76d13a74d9
+  - id: Sf624bf037b0efdc8
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 1.0 — Introduction
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -371,21 +393,32 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:10:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc03deee9dad7c41a
+    previous_evidence_ids:
+    - Jb9727d343b0a6720
+    - S1a62af76d13a74d9
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Site Visit Coordinator for facilitating site inspections is Mr. Ravindra H. Bettaller, Additional Chief
     Engineer, reachable via ravindra@bmrc.co.in or mobile 8277890469.
   evidence_ids:
-  - J38c3dc8eaf4911bc
-  - Sf82a0f0e57aa1e36
+  - J0f81bcbd307215d6
+  - S58526eb02b326b26
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C52093030a5eecfcf
+  id: Ce47d3d4f1376fcae
   citations:
-  - id: J38c3dc8eaf4911bc
+  - id: J0f81bcbd307215d6
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 4.0 — Site Visit
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -426,9 +459,9 @@ claims:
       \ \"heading_line\": \"4.0       SITE VISIT:\",\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Sf82a0f0e57aa1e36
+  - id: S58526eb02b326b26
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 4.0 — Site Visit
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -439,25 +472,36 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:10:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C52093030a5eecfcf
+    previous_evidence_ids:
+    - J38c3dc8eaf4911bc
+    - Sf82a0f0e57aa1e36
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Employer retains final authority for evaluating tender responsiveness, determining abnormally low or
     unbalanced bids, conducting multi-contract award optimization, and issuing notifications of award or contract
     annulment.
   evidence_ids:
-  - J09c893b8d562efdc
-  - J82de4565268740e7
-  - Jb25a9057634bb2b6
-  - Jd536080cfc87ba82
-  - Jfb6b5e080df4f84d
+  - Jc3c19f8b0cc71e2b
+  - Ja51d59e2490f098e
+  - J0fb81567b0e37abb
+  - J87798a1c7f398c6a
+  - J70ec04dc98f0913b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C326a4da21157ad1d
+  id: Cc174ebba4f491df7
   citations:
-  - id: J09c893b8d562efdc
+  - id: Jc3c19f8b0cc71e2b
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 21.0 — Determination of Responsiveness
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -497,9 +541,9 @@ claims:
       ,\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J82de4565268740e7
+  - id: Ja51d59e2490f098e
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 22.0 — Evaluation of Tender
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -631,9 +675,9 @@ claims:
       ,\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jb25a9057634bb2b6
+  - id: J0fb81567b0e37abb
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 23.0 — Award Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -682,9 +726,9 @@ claims:
       pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jd536080cfc87ba82
+  - id: J87798a1c7f398c6a
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 24.0 — Employer's Right to Accept Any Tender and to Reject Any or All Tenders
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -707,9 +751,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jfb6b5e080df4f84d
+  - id: J70ec04dc98f0913b
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 25.0 — Notification of Award
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -739,21 +783,35 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T13:11:43+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C326a4da21157ad1d
+    previous_evidence_ids:
+    - J09c893b8d562efdc
+    - J82de4565268740e7
+    - Jb25a9057634bb2b6
+    - Jd536080cfc87ba82
+    - Jfb6b5e080df4f84d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The official contact person for BMRCL regarding Tender Package P1 is the General Manager (Contracts), located
     at the BMTC Complex, Shantinagar, Bangalore.
   evidence_ids:
-  - J96fa23b6c2d4e26a
-  - Sa83d3349ccebecb1
+  - J044dd0537d015623
+  - Se16bb1a31df0ad4d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C82397abca6f38238
+  id: C99d7b4fd54dbce88
   citations:
-  - id: J96fa23b6c2d4e26a
+  - id: J044dd0537d015623
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 31.0 — Contact Person in the BMRCL Office
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -774,9 +832,9 @@ claims:
       \ \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Sa83d3349ccebecb1
+  - id: Se16bb1a31df0ad4d
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 31.0 — Contact Person in the BMRCL Office
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -786,20 +844,31 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:12:43+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C82397abca6f38238
+    previous_evidence_ids:
+    - J96fa23b6c2d4e26a
+    - Sa83d3349ccebecb1
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: BMRCL qualification decisions are final, and tenderers are deemed to agree that no explanation, justification,
     or right of appeal concerning the qualification process will be provided.
   evidence_ids:
-  - Je3053d2954e3b33f
+  - J510c28f7e5e9a772
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3d9eda78252130a1
+  id: Cbe4171fdc97ae68c
   citations:
-  - id: Je3053d2954e3b33f
+  - id: J510c28f7e5e9a772
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Clause 1.0 — General Information and Qualification Requirement
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -831,27 +900,37 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T13:14:21+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3d9eda78252130a1
+    previous_evidence_ids:
+    - Je3053d2954e3b33f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Annexure 2 of Volume 2 Part 3 mandates a minimum of 1 Project Manager with a BE/B.Tech in Civil Engineering,
     possessing 10 years of post-qualification experience including 3 years as a Project Manager or equivalent in
     similar nature works.
   evidence_ids:
-  - J4895efd5e92cb3dc
-  - J5cd313bb141398b1
-  - J5d05ef68c861b17a
-  - J9ba2f540ab6ccb86
-  - J9d41f0a778883529
-  - Jd6eb3b4a56f992bc
-  - Jf3712de1a37c4fb9
+  - J21e851294e5fb61c
+  - J4fe67b5ff9df16f0
+  - J86b548f78d72203c
+  - Jbdb05653cbeff824
+  - J9cc6446a816e9435
+  - J5d678c00af2559ad
+  - J8cc306484e5f1c70
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc340b48cae6c389a
+  id: Ccac007cffd188177
   citations:
-  - id: J4895efd5e92cb3dc
+  - id: J21e851294e5fb61c
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -868,9 +947,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5cd313bb141398b1
+  - id: J4fe67b5ff9df16f0
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -886,9 +965,9 @@ claims:
       \  \"field_id\": \"minimum_personnel_count\",\n  \"has_extracted_text\": true,\n  \"text\": \"1\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5d05ef68c861b17a
+  - id: J86b548f78d72203c
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -906,9 +985,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J9ba2f540ab6ccb86
+  - id: Jbdb05653cbeff824
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -924,9 +1003,9 @@ claims:
       \  \"field_id\": \"serial_number\",\n  \"has_extracted_text\": true,\n  \"text\": \"1\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J9d41f0a778883529
+  - id: J9cc6446a816e9435
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -943,9 +1022,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jd6eb3b4a56f992bc
+  - id: J5d678c00af2559ad
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -961,9 +1040,9 @@ claims:
       \  \"field_id\": \"proposed_personnel_name\",\n  \"has_extracted_text\": false,\n  \"text\": \"\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf3712de1a37c4fb9
+  - id: J8cc306484e5f1c70
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -982,25 +1061,41 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:27:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc340b48cae6c389a
+    previous_evidence_ids:
+    - J4895efd5e92cb3dc
+    - J5cd313bb141398b1
+    - J5d05ef68c861b17a
+    - J9ba2f540ab6ccb86
+    - J9d41f0a778883529
+    - Jd6eb3b4a56f992bc
+    - Jf3712de1a37c4fb9
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Annexure 2 of Volume 2 Part 3 specifies Key Personnel requirements including a Chief Safety and Health Manager
     requiring a graduate degree in engineering or an MSc in safety from a recognized university, with 8 years of
     total post-qualification experience and 5 years specifically as a chief safety and health manager or equivalent
     in infrastructure projects.
   evidence_ids:
-  - Jb85708c8c97d73f1
-  - J9c7e8b01fef789ea
-  - Jd0c1cdb79c5ff25f
-  - Jc694242598cd58d8
+  - J79569c76bf558c96
+  - Jd753a54c21edd126
+  - Jb545ea437fbc5598
+  - J3b7bb9fca40c8480
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd18a6be98eee5d48
+  id: C7bf904f5c912e8a6
   citations:
-  - id: Jb85708c8c97d73f1
+  - id: J79569c76bf558c96
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1018,9 +1113,9 @@ claims:
       nof total\\nexperience\\n(Post\\nQualification)\\n.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J9c7e8b01fef789ea
+  - id: Jd753a54c21edd126
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1037,9 +1132,9 @@ claims:
       \ years as\\nChief Safety\\nand Health\\nManager or\\nequivalent in\\nInfrastructure\\nprojects\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jd0c1cdb79c5ff25f
+  - id: Jb545ea437fbc5598
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1055,9 +1150,9 @@ claims:
       \  \"field_id\": \"minimum_personnel_count\",\n  \"has_extracted_text\": true,\n  \"text\": \"1\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jc694242598cd58d8
+  - id: J3b7bb9fca40c8480
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1076,24 +1171,37 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:28:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd18a6be98eee5d48
+    previous_evidence_ids:
+    - Jb85708c8c97d73f1
+    - J9c7e8b01fef789ea
+    - Jd0c1cdb79c5ff25f
+    - Jc694242598cd58d8
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Contractors are required to deploy specialized SHE management and engineering personnel, including Chief
     SHE Managers, Senior and Junior SHE Managers, Safety Stewards, Electrical Managers, Fire Managers, Occupational
     Health Officers, Environment Managers, Traffic Engineers, Housekeeping Managers, Barricade Managers, and Labour
     Welfare Officers based on contract value tiers.
   evidence_ids:
-  - J6e5fc013fe3af0f3
-  - Jad6a3420e009687e
-  - Jb23d7ac8ecea82aa
+  - J55e2d9e25ef00019
+  - J8d30ce4ccd19afe5
+  - J71183e109c431b8d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C09448f5842fbc64f
+  id: C4e8cc829a7dabdd3
   citations:
-  - id: J6e5fc013fe3af0f3
+  - id: J55e2d9e25ef00019
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1164,9 +1272,9 @@ claims:
       layout_review_status: pending
     scope_note: One complete PDF-page fragment of a general instruction. Inspect adjacent fragments for continuations;
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
-  - id: Jad6a3420e009687e
+  - id: J8d30ce4ccd19afe5
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1214,9 +1322,9 @@ claims:
       layout_review_status: pending
     scope_note: One complete PDF-page fragment of a general instruction. Inspect adjacent fragments for continuations;
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
-  - id: Jb23d7ac8ecea82aa
+  - id: J71183e109c431b8d
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1287,21 +1395,33 @@ claims:
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
   created_at: '2026-10-31T15:38:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C09448f5842fbc64f
+    previous_evidence_ids:
+    - J6e5fc013fe3af0f3
+    - Jad6a3420e009687e
+    - Jb23d7ac8ecea82aa
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Chief SHE Manager qualifications include specialized post-graduate degrees or diplomas in industrial safety
     from recognized institutions such as NIIE Mumbai, NIT Trichy, Mepco Schlenk, CUSAT Cochin, CLI/RLI, NICMAR,
     or international qualifications like CSP, NEBOSH, MIOSH, and MSISO.
   evidence_ids:
-  - J6e5fc013fe3af0f3
+  - J55e2d9e25ef00019
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C35b0157b2251acdb
+  id: Ceeb308d716f6831b
   citations:
-  - id: J6e5fc013fe3af0f3
+  - id: J55e2d9e25ef00019
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1374,21 +1494,31 @@ claims:
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
   created_at: '2026-10-31T15:38:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C35b0157b2251acdb
+    previous_evidence_ids:
+    - J6e5fc013fe3af0f3
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Candidates with prior work experience in BMRC or DMRC projects may be considered under specific notes for
     Senior SHE Manager, Junior SHE Manager, and Safety Steward posts on a case-to-case basis even without standard
     academic qualifications.
   evidence_ids:
-  - Jad6a3420e009687e
+  - J8d30ce4ccd19afe5
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cdb51434190427fc6
+  id: C5b9cb7dc4bac3f5d
   citations:
-  - id: Jad6a3420e009687e
+  - id: J8d30ce4ccd19afe5
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1438,20 +1568,30 @@ claims:
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
   created_at: '2026-10-31T15:38:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cdb51434190427fc6
+    previous_evidence_ids:
+    - Jad6a3420e009687e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Except for the public opening of tenders on the eProcurement Portal, information regarding tender examination,
     clarification, evaluation, comparison, and award recommendations must remain strictly confidential.
   evidence_ids:
-  - J0ed6a1a0a88dd544
+  - J2a7802689394cec4
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbdfae127aed67299
+  id: C238946d8744c8d5d
   citations:
-  - id: J0ed6a1a0a88dd544
+  - id: J2a7802689394cec4
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 19.0 — Process to Be Confidential
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1477,20 +1617,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T06:32:09+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbdfae127aed67299
+    previous_evidence_ids:
+    - J0ed6a1a0a88dd544
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Any effort by a tenderer to influence BMRCL during the examination, clarification, evaluation, comparison
     of tenders, or contract award decisions may result in the immediate rejection of their tender.
   evidence_ids:
-  - J0ed6a1a0a88dd544
+  - J2a7802689394cec4
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb9d229f2e0f1fd9c
+  id: Cc1f3f57afc34d649
   citations:
-  - id: J0ed6a1a0a88dd544
+  - id: J2a7802689394cec4
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 19.0 — Process to Be Confidential
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1516,20 +1666,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T06:32:09+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb9d229f2e0f1fd9c
+    previous_evidence_ids:
+    - J0ed6a1a0a88dd544
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Employer is under no mandatory obligation to seek clarifications and reserves full discretionary right
     to evaluate bids based solely on documents submitted by bidders.
   evidence_ids:
-  - J8ff3d75e3a108c4e
+  - Jecec2d2b1a0fba3a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ccf78d1a0f23f612c
+  id: C9c537978ba88ce32
   citations:
-  - id: J8ff3d75e3a108c4e
+  - id: Jecec2d2b1a0fba3a
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 20.0 — Clarification of Tenders
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1568,20 +1728,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T06:32:09+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ccf78d1a0f23f612c
+    previous_evidence_ids:
+    - J8ff3d75e3a108c4e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The venue for the pre-bid meeting is specified as Bangalore Metro Rail Corporation Limited, Annex-1, Project
     & Planning, 4th Floor, BMTC Complex, Shanthinagar, Bengaluru, with contact email contracts@bmrc.co.in.
   evidence_ids:
-  - J81d9d24afdf1bc30
+  - Jebdb66598642bdb6
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6a02efc1731bfbca
+  id: C5a39197dc0c5d510
   citations:
-  - id: J81d9d24afdf1bc30
+  - id: Jebdb66598642bdb6
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 9 — Venue for Pre-Bid Meeting
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1603,13 +1773,23 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T11:04:56+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6a02efc1731bfbca
+    previous_evidence_ids:
+    - J81d9d24afdf1bc30
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: belongs_to
   target: index.md
   title: BMRCL Wiki Index
   evidence_ids:
-  - S2a627ca320b40edd
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - Sf73798d34051b329
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Parties and Roles - Pre-Bid Venue and Contacts
@@ -1619,74 +1799,74 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - Bangalore Metro Rail Corporation Limited (BMRCL) is the inviting organisation and a Joint Venture of the Government of Karnataka and the Government of India.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Invitation to Tender|Invitation to Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `S2a627ca320b40edd`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Invitation to Tender|Invitation to Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J9b542119f82b0903`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/introduction/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Invitation to Tender|Invitation to Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Sf73798d34051b329`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Invitation to Tender|Invitation to Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J6c0f0f80eb24496b`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/introduction/0`.
 
 - Bangalore Metro Rail Corporation Limited (BMRCL) is a joint venture of the Government of India and the Government of Karnataka, responsible for implementing the Bangalore Metro Rail project.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 1.0 — Introduction|Clause 1.0 — Introduction]]; `Vol1DLNP1.pdf`; PDF page(s) 11; quotation `Jb9727d343b0a6720`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 1.0 — Introduction|Clause 1.0 — Introduction]]; `Vol1DLNP1.pdf`; PDF page(s) 11; quotation `S1a62af76d13a74d9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 1.0 — Introduction|Clause 1.0 — Introduction]]; `Vol1DLNP1.pdf`; PDF page(s) 11; quotation `J628df0a47df6ad31`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 1.0 — Introduction|Clause 1.0 — Introduction]]; `Vol1DLNP1.pdf`; PDF page(s) 11; quotation `Sf624bf037b0efdc8`.
 
 - The Site Visit Coordinator for facilitating site inspections is Mr. Ravindra H. Bettaller, Additional Chief Engineer, reachable via ravindra@bmrc.co.in or mobile 8277890469.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 4.0 — Site Visit|Clause 4.0 — Site Visit]]; `Vol1DLNP1.pdf`; PDF page(s) 11, 12; quotation `J38c3dc8eaf4911bc`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 4.0 — Site Visit|Clause 4.0 — Site Visit]]; `Vol1DLNP1.pdf`; PDF page(s) 11, 12; quotation `Sf82a0f0e57aa1e36`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 4.0 — Site Visit|Clause 4.0 — Site Visit]]; `Vol1DLNP1.pdf`; PDF page(s) 11, 12; quotation `J0f81bcbd307215d6`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 4.0 — Site Visit|Clause 4.0 — Site Visit]]; `Vol1DLNP1.pdf`; PDF page(s) 11, 12; quotation `S58526eb02b326b26`.
 
 - The Employer retains final authority for evaluating tender responsiveness, determining abnormally low or unbalanced bids, conducting multi-contract award optimization, and issuing notifications of award or contract annulment.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 21.0 — Determination of Responsiveness|Clause 21.0 — Determination of Responsiveness]]; `Vol1DLNP1.pdf`; PDF page(s) 20, 21; quotation `J09c893b8d562efdc`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/20`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 22.0 — Evaluation of Tender|Clause 22.0 — Evaluation of Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 21, 22, 23; quotation `J82de4565268740e7`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/21`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 23.0 — Award Criteria|Clause 23.0 — Award Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 23, 24; quotation `Jb25a9057634bb2b6`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/22`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 24.0 — Employer's Right to Accept Any Tender and to Reject Any or All Tenders|Clause 24.0 — Employer's Right to Accept Any Tender and to Reject Any or All Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 24; quotation `Jd536080cfc87ba82`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/23`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 25.0 — Notification of Award|Clause 25.0 — Notification of Award]]; `Vol1DLNP1.pdf`; PDF page(s) 24; quotation `Jfb6b5e080df4f84d`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/24`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 21.0 — Determination of Responsiveness|Clause 21.0 — Determination of Responsiveness]]; `Vol1DLNP1.pdf`; PDF page(s) 20, 21; quotation `Jc3c19f8b0cc71e2b`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/20`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 22.0 — Evaluation of Tender|Clause 22.0 — Evaluation of Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 21, 22, 23; quotation `Ja51d59e2490f098e`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/21`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 23.0 — Award Criteria|Clause 23.0 — Award Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 23, 24; quotation `J0fb81567b0e37abb`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/22`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 24.0 — Employer's Right to Accept Any Tender and to Reject Any or All Tenders|Clause 24.0 — Employer's Right to Accept Any Tender and to Reject Any or All Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 24; quotation `J87798a1c7f398c6a`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/23`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 25.0 — Notification of Award|Clause 25.0 — Notification of Award]]; `Vol1DLNP1.pdf`; PDF page(s) 24; quotation `J70ec04dc98f0913b`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/24`.
 
 - The official contact person for BMRCL regarding Tender Package P1 is the General Manager (Contracts), located at the BMTC Complex, Shantinagar, Bangalore.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 31.0 — Contact Person in the BMRCL Office|Clause 31.0 — Contact Person in the BMRCL Office]]; `Vol1DLNP1.pdf`; PDF page(s) 25; quotation `J96fa23b6c2d4e26a`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/30`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 31.0 — Contact Person in the BMRCL Office|Clause 31.0 — Contact Person in the BMRCL Office]]; `Vol1DLNP1.pdf`; PDF page(s) 25; quotation `Sa83d3349ccebecb1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 31.0 — Contact Person in the BMRCL Office|Clause 31.0 — Contact Person in the BMRCL Office]]; `Vol1DLNP1.pdf`; PDF page(s) 25; quotation `J044dd0537d015623`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/30`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 31.0 — Contact Person in the BMRCL Office|Clause 31.0 — Contact Person in the BMRCL Office]]; `Vol1DLNP1.pdf`; PDF page(s) 25; quotation `Se16bb1a31df0ad4d`.
 
 - BMRCL qualification decisions are final, and tenderers are deemed to agree that no explanation, justification, or right of appeal concerning the qualification process will be provided.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 1.0 — General Information and Qualification Requirement|Clause 1.0 — General Information and Qualification Requirement]]; `Vol1DLNP1.pdf`; PDF page(s) 27; quotation `Je3053d2954e3b33f`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 1.0 — General Information and Qualification Requirement|Clause 1.0 — General Information and Qualification Requirement]]; `Vol1DLNP1.pdf`; PDF page(s) 27; quotation `J510c28f7e5e9a772`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/0`.
 
 - Contractors are required to deploy specialized SHE management and engineering personnel, including Chief SHE Managers, Senior and Junior SHE Managers, Safety Stewards, Electrical Managers, Fire Managers, Occupational Health Officers, Environment Managers, Traffic Engineers, Housekeeping Managers, Barricade Managers, and Labour Welfare Officers based on contract value tiers.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 97; quotation `J6e5fc013fe3af0f3`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/1/fragments/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 98; quotation `Jad6a3420e009687e`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/1/fragments/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 96; quotation `Jb23d7ac8ecea82aa`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/0/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 97; quotation `J55e2d9e25ef00019`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/1/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 98; quotation `J8d30ce4ccd19afe5`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/1/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 96; quotation `J71183e109c431b8d`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/0/fragments/0`.
 
 - Except for the public opening of tenders on the eProcurement Portal, information regarding tender examination, clarification, evaluation, comparison, and award recommendations must remain strictly confidential.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 19.0 — Process to Be Confidential|Clause 19.0 — Process to Be Confidential]]; `Vol1DLNP1.pdf`; PDF page(s) 20; quotation `J0ed6a1a0a88dd544`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/18`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 19.0 — Process to Be Confidential|Clause 19.0 — Process to Be Confidential]]; `Vol1DLNP1.pdf`; PDF page(s) 20; quotation `J2a7802689394cec4`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/18`.
 
 - Any effort by a tenderer to influence BMRCL during the examination, clarification, evaluation, comparison of tenders, or contract award decisions may result in the immediate rejection of their tender.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 19.0 — Process to Be Confidential|Clause 19.0 — Process to Be Confidential]]; `Vol1DLNP1.pdf`; PDF page(s) 20; quotation `J0ed6a1a0a88dd544`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/18`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 19.0 — Process to Be Confidential|Clause 19.0 — Process to Be Confidential]]; `Vol1DLNP1.pdf`; PDF page(s) 20; quotation `J2a7802689394cec4`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/18`.
 
 - The Employer is under no mandatory obligation to seek clarifications and reserves full discretionary right to evaluate bids based solely on documents submitted by bidders.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 20.0 — Clarification of Tenders|Clause 20.0 — Clarification of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 20; quotation `J8ff3d75e3a108c4e`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/19`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 20.0 — Clarification of Tenders|Clause 20.0 — Clarification of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 20; quotation `Jecec2d2b1a0fba3a`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/19`.
 
 - The venue for the pre-bid meeting is specified as Bangalore Metro Rail Corporation Limited, Annex-1, Project & Planning, 4th Floor, BMTC Complex, Shanthinagar, Bengaluru, with contact email contracts@bmrc.co.in.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 9 — Venue for Pre-Bid Meeting|Key Detail 9 — Venue for Pre-Bid Meeting]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J81d9d24afdf1bc30`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 9 — Venue for Pre-Bid Meeting|Key Detail 9 — Venue for Pre-Bid Meeting]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Jebdb66598642bdb6`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/8`.
 
 ## Key Parameters and Source Statements
 
 - The issuing authority for the NIT is the General Manager (Contracts), acting on behalf of the Executive Director, BMRCL.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#D. Issuing Authority|D. Issuing Authority]]; `Vol1DLNP1.pdf`; PDF page(s) 8; quotation `S89226a4a9a97bb64`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#D. Issuing Authority|D. Issuing Authority]]; `Vol1DLNP1.pdf`; PDF page(s) 8; quotation `J1306b0d49aca6d13`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/signature/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#D. Issuing Authority|D. Issuing Authority]]; `Vol1DLNP1.pdf`; PDF page(s) 8; quotation `S0fac57bbac0e0f0d`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#D. Issuing Authority|D. Issuing Authority]]; `Vol1DLNP1.pdf`; PDF page(s) 8; quotation `Jd09bf16ac1a4c564`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/signature/0`.
 
 - Annexure 2 of Volume 2 Part 3 mandates a minimum of 1 Project Manager with a BE/B.Tech in Civil Engineering, possessing 10 years of post-qualification experience including 3 years as a Project Manager or equivalent in similar nature works.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `J4895efd5e92cb3dc`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/7`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `J5cd313bb141398b1`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `J5d05ef68c861b17a`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `J9ba2f540ab6ccb86`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `J9d41f0a778883529`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `Jd6eb3b4a56f992bc`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `Jf3712de1a37c4fb9`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `J21e851294e5fb61c`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `J4fe67b5ff9df16f0`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `J86b548f78d72203c`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `Jbdb05653cbeff824`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `J9cc6446a816e9435`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `J5d678c00af2559ad`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `J8cc306484e5f1c70`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/0/cells/3`.
 
 - Annexure 2 of Volume 2 Part 3 specifies Key Personnel requirements including a Chief Safety and Health Manager requiring a graduate degree in engineering or an MSc in safety from a recognized university, with 8 years of total post-qualification experience and 5 years specifically as a chief safety and health manager or equivalent in infrastructure projects.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `Jb85708c8c97d73f1`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/1/cells/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `J9c7e8b01fef789ea`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/1/cells/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `Jd0c1cdb79c5ff25f`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/1/cells/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `Jc694242598cd58d8`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/1/cells/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `J79569c76bf558c96`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/1/cells/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `Jd753a54c21edd126`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/1/cells/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `Jb545ea437fbc5598`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/1/cells/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 21; quotation `J3b7bb9fca40c8480`. JSON: `parsed_json/vol2/annexure_2_personnel/personnel_requirements.json#/personnel_requirements/1/cells/1`.
 
 - Chief SHE Manager qualifications include specialized post-graduate degrees or diplomas in industrial safety from recognized institutions such as NIIE Mumbai, NIT Trichy, Mepco Schlenk, CUSAT Cochin, CLI/RLI, NICMAR, or international qualifications like CSP, NEBOSH, MIOSH, and MSISO.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 97; quotation `J6e5fc013fe3af0f3`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/1/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 97; quotation `J55e2d9e25ef00019`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/1/fragments/0`.
 
 - Candidates with prior work experience in BMRC or DMRC projects may be considered under specific notes for Senior SHE Manager, Junior SHE Manager, and Safety Steward posts on a case-to-case basis even without standard academic qualifications.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 98; quotation `Jad6a3420e009687e`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/1/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 98; quotation `J8d30ce4ccd19afe5`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/1/fragments/1`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol1/secA#Invitation to Tender|Invitation to Tender]]
@@ -1709,7 +1889,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Typed Relations
 
 - **belongs_to (editorial, inferred):** [[wiki/index|BMRCL Wiki Index]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Invitation to Tender|Invitation to Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `S2a627ca320b40edd`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Invitation to Tender|Invitation to Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `Sf73798d34051b329`.
 
 ## Open Questions and Contradictions
 
@@ -1718,7 +1898,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### S2a627ca320b40edd
+### Sf73798d34051b329
 
 [[OKF_bundle/Technical/Vol1/secA#Invitation to Tender|Invitation to Tender]]
 
@@ -1729,7 +1909,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Project Scope:** Partial and Full Demolition/Dismantling of Buildings/Structures identified in Bangalore Metro Rail Project Phase-3.
 > - **Contract Package:** P1.
 
-### J9b542119f82b0903
+### J6c0f0f80eb24496b
 
 [[OKF_bundle/Technical/Vol1/secA#Invitation to Tender|Invitation to Tender]]
 
@@ -1738,13 +1918,13 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "SECTION – A: NOTICE INVITING TENDER (NIT)\n\n\n Bangalore Metro Rail Corporation Limited (BMRCL) a Joint Venture of the Government of Karnataka\n and the Government of India, invites open e-tenders (Single stage – Two Cover System) on CPP Portal\n  https://etenders.gov.in/eprocure/app from eligible applicants, who fulfils the prescribed eligibility cum\n  qualification  criteria (EQC)  for the work  of “Partial and Full Demolition/Dismantling of\n Buildings/Structures identified in Bangalore Metro Rail Project Phase-3.”\n      Contract Package-P1: “Partial and Full Demolition/Dismantling of Buildings/Structures\n        identified from JP Nagar 4th Phase Station to Mysore Road Station (from Ch: (-) 0.330\n    Km to Ch: 10.550 Km) in Corridor-1of Bangalore Metro Rail Project Phase-3.”\n\n\nTender No: BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157   Dated. 09.09.2026\n\n\nKey Details:\n\n\n   Sl                                       Description\n  No"
 > }
 
-### S89226a4a9a97bb64
+### S0fac57bbac0e0f0d
 
 [[OKF_bundle/Technical/Vol1/secA#D. Issuing Authority|D. Issuing Authority]]
 
 > - **Issuing Authority:** General Manager (Contracts), on behalf of the Executive Director, Bangalore Metro Rail Corporation Ltd.
 
-### J1306b0d49aca6d13
+### Jd09bf16ac1a4c564
 
 [[OKF_bundle/Technical/Vol1/secA#D. Issuing Authority|D. Issuing Authority]]
 
@@ -1753,7 +1933,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "General Manager (Contracts),\n                                                          (On behalf of the Executive Director)\n                                                        Bangalore Metro Rail Corporation Ltd."
 > }
 
-### Jb9727d343b0a6720
+### J628df0a47df6ad31
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 1.0 — Introduction|Clause 1.0 — Introduction]]
 
@@ -1769,14 +1949,14 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### S1a62af76d13a74d9
+### Sf624bf037b0efdc8
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 1.0 — Introduction|Clause 1.0 — Introduction]]
 
 > - **BMRCL** (Clause 1.1)
 > - **Project Scope** (Clause 1.2)
 
-### J38c3dc8eaf4911bc
+### J0f81bcbd307215d6
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 4.0 — Site Visit|Clause 4.0 — Site Visit]]
 
@@ -1796,7 +1976,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Sf82a0f0e57aa1e36
+### S58526eb02b326b26
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 4.0 — Site Visit|Clause 4.0 — Site Visit]]
 
@@ -1804,7 +1984,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Site Familiarisation** 
 > - **Site-Related Responsibility**
 
-### J09c893b8d562efdc
+### Jc3c19f8b0cc71e2b
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 21.0 — Determination of Responsiveness|Clause 21.0 — Determination of Responsiveness]]
 
@@ -1824,7 +2004,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J82de4565268740e7
+### Ja51d59e2490f098e
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 22.0 — Evaluation of Tender|Clause 22.0 — Evaluation of Tender]]
 
@@ -1848,7 +2028,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Jb25a9057634bb2b6
+### J0fb81567b0e37abb
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 23.0 — Award Criteria|Clause 23.0 — Award Criteria]]
 
@@ -1868,7 +2048,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Jd536080cfc87ba82
+### J87798a1c7f398c6a
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 24.0 — Employer's Right to Accept Any Tender and to Reject Any or All Tenders|Clause 24.0 — Employer's Right to Accept Any Tender and to Reject Any or All Tenders]]
 
@@ -1884,7 +2064,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Jfb6b5e080df4f84d
+### J70ec04dc98f0913b
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 25.0 — Notification of Award|Clause 25.0 — Notification of Award]]
 
@@ -1900,7 +2080,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J96fa23b6c2d4e26a
+### J044dd0537d015623
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 31.0 — Contact Person in the BMRCL Office|Clause 31.0 — Contact Person in the BMRCL Office]]
 
@@ -1916,13 +2096,13 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Sa83d3349ccebecb1
+### Se16bb1a31df0ad4d
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 31.0 — Contact Person in the BMRCL Office|Clause 31.0 — Contact Person in the BMRCL Office]]
 
 > - **Tender Contact**
 
-### Je3053d2954e3b33f
+### J510c28f7e5e9a772
 
 [[OKF_bundle/Technical/Vol1/secC#Clause 1.0 — General Information and Qualification Requirement|Clause 1.0 — General Information and Qualification Requirement]]
 
@@ -1938,7 +2118,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "General Information and Qualification Requirement"
 > }
 
-### J4895efd5e92cb3dc
+### J21e851294e5fb61c
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -1955,7 +2135,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": ""
 > }
 
-### J5cd313bb141398b1
+### J4fe67b5ff9df16f0
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -1972,7 +2152,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "1"
 > }
 
-### J5d05ef68c861b17a
+### J86b548f78d72203c
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -1989,7 +2169,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "BE /B. Tech\nin Civil\nEngineering\nwith 10 years\nof experience\n(Post\nQualification)"
 > }
 
-### J9ba2f540ab6ccb86
+### Jbdb05653cbeff824
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2006,7 +2186,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "1"
 > }
 
-### J9d41f0a778883529
+### J9cc6446a816e9435
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2023,7 +2203,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": ""
 > }
 
-### Jd6eb3b4a56f992bc
+### J5d678c00af2559ad
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2040,7 +2220,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": ""
 > }
 
-### Jf3712de1a37c4fb9
+### J8cc306484e5f1c70
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2057,7 +2237,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "3 years as\nProject\nManager or\nequivalent in\nSimilar\nNature\nWorks"
 > }
 
-### Jb85708c8c97d73f1
+### J79569c76bf558c96
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2074,7 +2254,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "Graduate in\nEngineering /\nMSc in\nSafety from a\nrecognized\nuniversity\nwith 8 years\nof total\nexperience\n(Post\nQualification)\n."
 > }
 
-### J9c7e8b01fef789ea
+### Jd753a54c21edd126
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2091,7 +2271,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "5 years as\nChief Safety\nand Health\nManager or\nequivalent in\nInfrastructure\nprojects"
 > }
 
-### Jd0c1cdb79c5ff25f
+### Jb545ea437fbc5598
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2108,7 +2288,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "1"
 > }
 
-### Jc694242598cd58d8
+### J3b7bb9fca40c8480
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2125,7 +2305,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "Chief\nSafety and\nHealth\nManager"
 > }
 
-### J6e5fc013fe3af0f3
+### J55e2d9e25ef00019
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -2134,7 +2314,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                           General Instruction: BMRC/SHE/CEO/002\n\n\n\n           MINIMUM QUALIFICATION AND EXPERIENCE FOR (SHE) SAFETY, ELECTRICAL,\n         ENVIRONMENTAL, TRAFFIC ENGG. AND OCCUPATIONAL HEALTH PROFESSIONALS\n\n\n           Sl. N                                                                    Experience (in\n                Designation                        Qualification\n                                                                                            years)\n\n          1  Chief SHE    The Chief SHE Manager shall have qualified in any of the  2 {for all\n            Manager        following degree/diploma:                                 category except\n                                                    i)  Post  Graduate  Diploma   in   Industrial  Safety  &    (iv) and 5yrs for\n                                Environmental Management (PGDISEM) from National   category (iv)}\n                                         Institute of Industrial Engineering, Mumbai\n                                                       ii)  M.E. in Industrial Safety from NIT, Trichy, Tamil Nadu\n                                                         iii) M.E.   in  Industrial  Safety  from  Mepco  Schlenk\n                                 Engineering College, Sivakasi, Tamil Nadu\n                                         iv) B.E. in Fire and Safety Engg. From Cochin University\n                                      of Science and Engg. Cochin, Kerala\n                                  v)  B.E. with advanced Safety Management Diploma from\n                               CLI / RLI Mumbai / Chennai / Kolkata and Kanpur.\n                                         vi) B.E  / B.Arch.,  with one year  Full Time advanced\n                                 Safety diploma from NICMAR, Hyderabad.\n                                             vii) B.E  / B.Tech with any other equivalent State and\n                                  Central Govt. recognized full time Degree / Diploma in\n                                    Safety.\n                                                viii) International qualifications like CSP (Certified Safety\n                                    Professional), NEBOSH, MIOSH, MSISO etc.\n\n          2  Senior SHE   As  stated  in  Sl. No:1 and  in  addition  the  following  2 {for category (i),\n            Manager       categories:                                         and (iii) only}\n\n                                                   i)   B.Sc.(Physics/Chemistry/Maths)   with one year Full\n                            Time  advanced  Safety  diploma  from  NICMAR,\n                             Hyderabad\n                                                       ii)  B.Sc.   /  Diploma  in  Engg.  with advanced  Safety\n                           Management Diploma from CLI  / RLI  / Mumbai  /\n                              Chennai / Kolkata and Kanpur.\n                                                         iii)  B.Sc. (Physics/Chemistry/Maths) with One year Full\n                            Time diploma in Safety Engineering offered by West\n                               Bengal State Technical Education Departments and\n                                      similar courses by other states.\n                                         iv) Any Graduate or diploma holder with 7 years of work\n                                experience  in  full fledged SHE department  of any\n                                   Public Sector  / Leading Private Sector  / MNC  / with\n                                        prior approval of employer on a case to case basis\n\n          3  Junior SHE        i) Degree in Science  / Diploma in Engineering with Govt.  2 (for category\n            Manager        recognized  safety  diplomas  from  Correspondence    (i) only)\n                              course of NICMAR, Annamalai University, National and\n                                State  Productivity  Councils,  Other  State  Technical\n                              Education Boards etc.\n\n                                                       ii) Any Graduate or diploma holder with 5 years of work\n                               experience in full fledged SHE department of any Public\n                               Sector  / Leading Private Sector  / MNC  / with  prior\n                               approval of employer on a case to case basis\n\n\n          4  Safety        Any basic qualification with any SHE related certificate            2\n             Steward       courses.\n\n          5  Senior SHE    Degree in Electrical Engineering + Govt. recognized              2"
 > }
 
-### Jad6a3420e009687e
+### J8d30ce4ccd19afe5
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -2143,7 +2323,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "(Electrical)      Electrical Licence holder\n    Manager\n\n  6  Junior SHE    Diploma in Electrical Engineering + Govt. recognized              1\n      (Electrical)      Electrical Licence holder\n    Manager\n\n  7  Senior SHE       i)     B.E. (Fire) from National Fire Service College,        2 (for category (i)\n      (Fire)              Nagpur                                       and (ii) only)\n    Manager                                     ii)    B.E (Fire & Safety) from Cochin University\n                                      iii)   Graduate with any Govt. recognized diploma in Fire\n                          Safety with 5 years of experience\n\n  8  Junior SHE    Any Diploma holder with any Govt. recognized diploma in          1\n      (Fire)            Industrial Fire Safety.\n    Manager\n\n  9  Occupational  MBBS with Govt. recognized degree/diploma in Industrial/          1\n     Health Officer  occupational health\n\n 10 Environment   Govt. recognized PG Degree / PG Diploma / Degree in            2\n    Manager       Environmental Engineering / Science\n\n 11 Senior SHE    Govt. recognized PG Degree / Degree / Diploma in               1\n      (Traffic)         Traffic/Transportation Engineering or Planning\n     Engineer\n\n 12. House       Any Diploma in Engineering                                 1\n    Keeping\n    Squad -\n    Manager\n\n 13 Barricade     Any Diploma in Engineering                                 1\n    Manager\n\n14  Labour       Any Degree with Govt. Recognized Degree / Diploma / P          2\n     Welfare     G Diploma in Labour Welfare related fields like Law,\n      Officer         Personnel / Industrial Relations etc.\n\n\nNote 1:     In some extraordinary cases where the candidate had earlier worked in BMRC/DMRC\n            Projects they can be considered for the following posts:\n                    i)    Senior SHE Manager\n                     ii)    Junior SHE Manager\n                      iii)    Safety Steward\n          depending upon the qualification and no. of years of experience on a case-to-case basis\n          even if they do not possess the prescribed qualification as listed above.\n\nNote 2:     In all other cases other than listed under Note 1 irrespective their earlier experience with\n       DMRC projects the candidates shall qualify as specified above."
 > }
 
-### Jb23d7ac8ecea82aa
+### J71183e109c431b8d
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -2152,7 +2332,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                       General Instruction: BMRC/SHE/CEO/001\n\n\nSUGGESTIVE MANPOWER REQUIREMENTS OF SHE ORGANIZATION BASED ON CONTRACT VALUE\n\n                  1         2           3         4         5              6\n\n                Chief SH   Senior SHE Junior SHE   Safety      Senior        Junior SHE\n  Awarded\n              Manage    Manager  Manager   Steward    SHE           (Electrical)\n  Contract\n                                                                        (Electrical)       Engineer\nvalue (in Cr.)\n                                                          Engineer\n\n     Upto 2              -                -           1                                  -              1\n\n     Upto 10             -          1                                1\n\n     Upto 25        1                                          1                                                        Refer\n                                            Refer                                    Refer                                                    Note 1    Upto 100       1                                          1                               Refer                                         Note 1                                Note 2\n                            Note 1    Upto 250       1                                          1\n\n  More than 25      1                                          1\n\n\n                    7          8          9         10         11        12        13\n\n                                                  Senior                 *Junior   Occupatio   Environ               Barricad    House    Labour\n                                       SHE              SHE     nal Health   mental                 e      Keeping   Welfare\n                                                              (Traffic)                      (Fire)     officer with  Manager             Maintena   Squad     Officer\n                                               Engineer  Awarded     Manager   Necessary                        nce\n  Contract                 /        Nursing                 (Refer Note4 Squad\n value (in Cr.)    **Senior    Assistants                             (Refer\n              SHE       (Refer                             Note4)\n                      (Fire)      Note3)\n              Manager\n\n      Upto 2               -                 -                 -                 -                                                 -\n\n     Upto 10               -        1 (PT)        1          1                             1\n\n     Upto 25          1*       1 (PT)        1          1                             1\n\n     Upto 100         1*       1 (FT)        1          1                             1\n                                                                 Refer Note Refer Note                                                                              1 with\n     Upto 250         1**        2(FT)        1          1                            support\n                                                                                                                   staff\n\n                                     1 with                                    1 with\n  More than\n                        2**        2(FT)    support         1                            support\n    250\n                                                       staff                                                       staff\n\n  Note 1:    Adequate, qualified and trained SHE Professionals with required support staff to be\n             deployed at each worksite at each shift.\n\n  Note 2:    Adequate, qualified and trained Electrical Engineers / supervisors to be deployed at each\n               worksite at each shift.\n  Note 3:    (PT) means Part-Time and (FT) means Full-time.\n\n  Note 4:    Senior SHE (Traffic) Engineer Post and Barricade Manager (including the staff) Posts are\n               applicable to contracts where the work has to be executed either below or over the right-\n              of-way  like  Viaduct,  station,  depot and  Tunnel  Contracts  wherein  erection and\n             maintenance of barricades are paramount important.\n  Note 5:   One Barricade Manager supported by required supervisors and workmen\n\n  Note 6:   One Housekeeping Manager supported by required supervisors and workmen"
 > }
 
-### J0ed6a1a0a88dd544
+### J2a7802689394cec4
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 19.0 — Process to Be Confidential|Clause 19.0 — Process to Be Confidential]]
 
@@ -2168,7 +2348,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J8ff3d75e3a108c4e
+### Jecec2d2b1a0fba3a
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 20.0 — Clarification of Tenders|Clause 20.0 — Clarification of Tenders]]
 
@@ -2184,7 +2364,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J81d9d24afdf1bc30
+### Jebdb66598642bdb6
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 9 — Venue for Pre-Bid Meeting|Key Detail 9 — Venue for Pre-Bid Meeting]]
 

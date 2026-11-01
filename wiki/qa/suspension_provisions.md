@@ -4,9 +4,9 @@ title: Which provisions govern suspension?
 status: draft
 review_status: pending_manual_review
 sources:
-- id: Ja40f8e325b5c8584
+- id: J0fe8982de24f004e
   okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   heading: Clause 8 — Commencement, Completion and Delay
   source_document: Vol1DLNP1.pdf
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -203,9 +203,9 @@ sources:
     pending_manual_review\",\n  \"title\": \"Commencement, Completion and Delay\"\n}"
   page_basis: Parsed record provenance; not independently PDF-verified
   heading_alignment: exact_number_match
-- id: J728382fccccc2b23
+- id: Jb0f2f3592fad0ed6
   okf_path: OKF_bundle/Technical/Vol1/secF.md
-  okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+  okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
   heading: Special Conditions of Contract
   source_document: Vol1DLNP1.pdf
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -229,9 +229,10 @@ sources:
   heading_alignment: document_heading_fallback_not_a_subclause_match
 last_ingested: '2026-11-01T12:36:19+00:00'
 answer_evidence_ids:
-- Ja40f8e325b5c8584
-- J728382fccccc2b23
+- J0fe8982de24f004e
+- Jb0f2f3592fad0ed6
 method: Source-backed answer to the example query in the supplied creation prompt; no API call
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Which provisions govern suspension?
@@ -240,11 +241,11 @@ method: Source-backed answer to the example query in the supplied creation promp
 
 GCC 8.7 provides for an Engineer instruction suspending part or all of the works with stated grounds; the contractor must protect, store and secure the affected works during suspension. GCC 8.8 sets out consequences and GCC 8.9 addresses examination and making good affected works on resumption.
 
-[[OKF_bundle/Technical/Vol1/secE#Clause 8 — Commencement, Completion and Delay|Clause 8 — Commencement, Completion and Delay]]; `Vol1DLNP1.pdf`; PDF page(s) 104, 105, 106, 107; `Ja40f8e325b5c8584`
+[[OKF_bundle/Technical/Vol1/secE#Clause 8 — Commencement, Completion and Delay|Clause 8 — Commencement, Completion and Delay]]; `Vol1DLNP1.pdf`; PDF page(s) 104, 105, 106, 107; `J0fe8982de24f004e`
 
 SCC 3 deletes the specified paragraph of GCC 8.8 concerning suspension for other reasons and the table following it. It does not state that all of 8.8 or the Engineer power in 8.7 is deleted. Do not quote the historical suspension compensation table as an unqualified current entitlement.
 
-[[OKF_bundle/Technical/Vol1/secE#Clause 8 — Commencement, Completion and Delay|Clause 8 — Commencement, Completion and Delay]]; `Vol1DLNP1.pdf`; PDF page(s) 104, 105, 106, 107; `Ja40f8e325b5c8584`; [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; `J728382fccccc2b23`
+[[OKF_bundle/Technical/Vol1/secE#Clause 8 — Commencement, Completion and Delay|Clause 8 — Commencement, Completion and Delay]]; `Vol1DLNP1.pdf`; PDF page(s) 104, 105, 106, 107; `J0fe8982de24f004e`; [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; `Jb0f2f3592fad0ed6`
 
 ## Open questions
 

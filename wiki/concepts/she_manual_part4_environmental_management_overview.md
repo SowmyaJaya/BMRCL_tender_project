@@ -6,120 +6,120 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-31T14:42:22+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-10-31T14:49:18+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json
   json_sha256: 7bea653d28db3a09695fc577706045a118cd6f049b1a965a72f0af31b2b73dbf
   json_pointer: /clauses/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json
   json_sha256: 7bea653d28db3a09695fc577706045a118cd6f049b1a965a72f0af31b2b73dbf
   json_pointer: /clauses/7
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json
   json_sha256: 7bea653d28db3a09695fc577706045a118cd6f049b1a965a72f0af31b2b73dbf
   json_pointer: /clauses/5
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json
   json_sha256: 7bea653d28db3a09695fc577706045a118cd6f049b1a965a72f0af31b2b73dbf
   json_pointer: /clauses/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json
   json_sha256: 7bea653d28db3a09695fc577706045a118cd6f049b1a965a72f0af31b2b73dbf
   json_pointer: /clauses/6
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json
   json_sha256: 7bea653d28db3a09695fc577706045a118cd6f049b1a965a72f0af31b2b73dbf
   json_pointer: /clauses/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json
   json_sha256: 7bea653d28db3a09695fc577706045a118cd6f049b1a965a72f0af31b2b73dbf
   json_pointer: /clauses/4
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json
   json_sha256: 7bea653d28db3a09695fc577706045a118cd6f049b1a965a72f0af31b2b73dbf
   json_pointer: /clauses/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json
   json_sha256: 7bea653d28db3a09695fc577706045a118cd6f049b1a965a72f0af31b2b73dbf
   json_pointer: /clauses/8
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json
   json_sha256: 7bea653d28db3a09695fc577706045a118cd6f049b1a965a72f0af31b2b73dbf
   json_pointer: /source_page_context/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json
   json_sha256: 7bea653d28db3a09695fc577706045a118cd6f049b1a965a72f0af31b2b73dbf
   json_pointer: /source_page_context/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json
   json_sha256: 7bea653d28db3a09695fc577706045a118cd6f049b1a965a72f0af31b2b73dbf
   json_pointer: /source_page_context/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json
   json_sha256: 7bea653d28db3a09695fc577706045a118cd6f049b1a965a72f0af31b2b73dbf
   json_pointer: /source_page_context/4
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json
   json_sha256: 7bea653d28db3a09695fc577706045a118cd6f049b1a965a72f0af31b2b73dbf
   json_pointer: /source_page_context/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json
   json_sha256: 7bea653d28db3a09695fc577706045a118cd6f049b1a965a72f0af31b2b73dbf
   json_pointer: /source_page_context/5
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json
   json_sha256: 7bea653d28db3a09695fc577706045a118cd6f049b1a965a72f0af31b2b73dbf
@@ -131,17 +131,17 @@ claims:
     monitoring, dust control, air quality standards, and event contingency planning obligations for BMRCL Tender
     Package P1.
   evidence_ids:
-  - J2b955fbe0b475c6e
-  - Sea60516d59485d91
+  - J84ce3fcaaa4987c0
+  - Sfc3bc1e59fe2f0ec
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf9307ac9e05d06dc
+  id: Cece6c7ab7e6bbd9a
   citations:
-  - id: J2b955fbe0b475c6e
+  - id: J84ce3fcaaa4987c0
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 47.0 — ENVIORNMENTAL MANAGEMENT
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -683,9 +683,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Sea60516d59485d91
+  - id: Sfc3bc1e59fe2f0ec
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     pdf_pages:
@@ -702,21 +702,32 @@ claims:
     page_precision: document_metadata_range
   created_at: '2026-10-31T14:42:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf9307ac9e05d06dc
+    previous_evidence_ids:
+    - J2b955fbe0b475c6e
+    - Sea60516d59485d91
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The contractor's environmental monitoring program requires noise monitoring at 4 locations once a week during
     active noise-generating operations and air quality monitoring (RSPM, SPM, CO) at 2 locations every fifteen days
     for two continuous 24-hour periods.
   evidence_ids:
-  - J2b955fbe0b475c6e
+  - J84ce3fcaaa4987c0
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cce557c60bfd88c0d
+  id: C824e302e76b4a7e3
   citations:
-  - id: J2b955fbe0b475c6e
+  - id: J84ce3fcaaa4987c0
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 47.0 — ENVIORNMENTAL MANAGEMENT
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1260,20 +1271,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T14:42:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cce557c60bfd88c0d
+    previous_evidence_ids:
+    - J2b955fbe0b475c6e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'Suspended Particulate Matter (SPM) levels must be measured using the standard high volume sampling method
     set out in BIS: 5182-1981, and sound level meters must conform to IS: 9779-1981.'
   evidence_ids:
-  - J2b955fbe0b475c6e
+  - J84ce3fcaaa4987c0
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7ec86004ce6e910c
+  id: Cd930c9ce2e5a7667
   citations:
-  - id: J2b955fbe0b475c6e
+  - id: J84ce3fcaaa4987c0
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 47.0 — ENVIORNMENTAL MANAGEMENT
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1817,21 +1838,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T14:42:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7ec86004ce6e910c
+    previous_evidence_ids:
+    - J2b955fbe0b475c6e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The contractor must submit an Air Monitoring and Control Plan (AMCP) under the site environmental plan,
     maintain wash pits or vehicle cleaning facilities with high-pressure water jets at site exits, and establish
     an Event Contingency Plan to handle environmental exceedances.
   evidence_ids:
-  - J2b955fbe0b475c6e
+  - J84ce3fcaaa4987c0
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc87bc4e9c6c1e89d
+  id: Cd73996208ef312ee
   citations:
-  - id: J2b955fbe0b475c6e
+  - id: J84ce3fcaaa4987c0
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 47.0 — ENVIORNMENTAL MANAGEMENT
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2375,28 +2406,38 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T14:42:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc87bc4e9c6c1e89d
+    previous_evidence_ids:
+    - J2b955fbe0b475c6e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Safety, Health and Environment Manual Part IV (Environmental Management) sets forth detailed contractor
     obligations regarding water quality protection, archaeological preservation, landscape and greenery maintenance,
     tree felling restrictions, fly ash usage, waste management, hazardous waste handling, and energy management.
   evidence_ids:
-  - J268e07c639a4d540
-  - J5817f77b44ae8932
-  - J88068d0ca1624954
-  - J8b3f52d3151b2615
-  - J9ba02e61e2383737
-  - Jd61e4384afce92e6
-  - Jd9da9c7b2d4b3646
-  - Jf26b605710ff2299
+  - J58b0ef7d929794ef
+  - Jfe28b32565bc70e2
+  - Jae8918e6335e220a
+  - Jc6a14aa0a9e5cc1f
+  - J8fb9b8a53b77aca2
+  - J7cee98218eb7ab95
+  - J347d07fa7ae4694d
+  - J83d329b60a4b1d41
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5ed38b982b705e5a
+  id: C1ccbc76a4e85aaaa
   citations:
-  - id: J268e07c639a4d540
+  - id: J58b0ef7d929794ef
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 54.0 — Hazardous Waste Management
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2498,9 +2539,9 @@ claims:
       Hazardous Waste Management\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J5817f77b44ae8932
+  - id: Jfe28b32565bc70e2
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 52.0 — Fly Ash
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2539,9 +2580,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J88068d0ca1624954
+  - id: Jae8918e6335e220a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 49.0 — Archaeological and Historical Preservation
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2592,9 +2633,9 @@ claims:
       \ and Historical Preservation\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J8b3f52d3151b2615
+  - id: Jc6a14aa0a9e5cc1f
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 53.0 — Waste
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2690,9 +2731,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"Waste\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J9ba02e61e2383737
+  - id: J8fb9b8a53b77aca2
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 50.0 — Landscape and Greenery
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2757,9 +2798,9 @@ claims:
       \ and Greenery\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jd61e4384afce92e6
+  - id: J7cee98218eb7ab95
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 51.0 — Felling of Trees
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2827,9 +2868,9 @@ claims:
       review_status\": \"pending_manual_review\",\n  \"title\": \"Felling of Trees\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jd9da9c7b2d4b3646
+  - id: J347d07fa7ae4694d
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 48.0 — Water Quality
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3007,9 +3048,9 @@ claims:
       \  ],\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"Water Quality\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jf26b605710ff2299
+  - id: J83d329b60a4b1d41
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 55.0 — Energy Management
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3073,22 +3114,39 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T14:45:10+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5ed38b982b705e5a
+    previous_evidence_ids:
+    - J268e07c639a4d540
+    - J5817f77b44ae8932
+    - J88068d0ca1624954
+    - J8b3f52d3151b2615
+    - J9ba02e61e2383737
+    - Jd61e4384afce92e6
+    - Jd9da9c7b2d4b3646
+    - Jf26b605710ff2299
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Under Clause 48.3, the contractor is prohibited from discharging dewatering or site water without Employer
     approval and must comply with Local Ground Water Board requirements, ensuring unused groundwater is either reused
     for construction or recharged directly to aquifers through approved recharge proposals while monitoring drawdown
     levels.
   evidence_ids:
-  - Jd9da9c7b2d4b3646
+  - J347d07fa7ae4694d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C059f82f16bac5936
+  id: Cf3c84a3768d2ccc8
   citations:
-  - id: Jd9da9c7b2d4b3646
+  - id: J347d07fa7ae4694d
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 48.0 — Water Quality
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3268,21 +3326,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T14:45:10+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C059f82f16bac5936
+    previous_evidence_ids:
+    - Jd9da9c7b2d4b3646
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Clause 49.0 requires the contractor to accommodate archaeological and historical preservation concerns,
     consulting the Archaeological Survey of India (ASI) and other parties upon the Employer's advice to mitigate
     adverse construction effects on monuments.
   evidence_ids:
-  - J88068d0ca1624954
+  - Jae8918e6335e220a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cdbcc3f8602586246
+  id: C456f3dadf9d9bab4
   citations:
-  - id: J88068d0ca1624954
+  - id: Jae8918e6335e220a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 49.0 — Archaeological and Historical Preservation
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3335,22 +3403,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T14:45:10+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cdbcc3f8602586246
+    previous_evidence_ids:
+    - J88068d0ca1624954
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Under Clause 50.0 and 51.0, the contractor must maintain ecological balance, prevent avoidable scarring
     of natural surroundings, and avoid felling, removing, or disposing of trees or forest produce without prior
     permission obtained from the Forest Department through the Employer.
   evidence_ids:
-  - J9ba02e61e2383737
-  - Jd61e4384afce92e6
+  - J8fb9b8a53b77aca2
+  - J7cee98218eb7ab95
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce534540c786cce20
+  id: Cf7c028d07fc3d6e5
   citations:
-  - id: J9ba02e61e2383737
+  - id: J8fb9b8a53b77aca2
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 50.0 — Landscape and Greenery
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3415,9 +3493,9 @@ claims:
       \ and Greenery\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jd61e4384afce92e6
+  - id: J7cee98218eb7ab95
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 51.0 — Felling of Trees
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3487,23 +3565,34 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T14:45:10+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce534540c786cce20
+    previous_evidence_ids:
+    - J9ba02e61e2383737
+    - Jd61e4384afce92e6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Clause 52.0 and 53.0 govern fly ash and waste management, requiring the contractor to maintain detailed
     usage records when required by the Employer, institute a Waste Management Programme (WMP) approved by the Engineer,
     prohibit waste burning, and dispose of waste and metal scrap through authorized landfill sites (BBMP, BDA, BMRDA,
     BWSSB) and dealers.
   evidence_ids:
-  - J5817f77b44ae8932
-  - J8b3f52d3151b2615
+  - Jfe28b32565bc70e2
+  - Jc6a14aa0a9e5cc1f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C0ff9b1665b26cb4a
+  id: C4af215e3bb7a2e95
   citations:
-  - id: J5817f77b44ae8932
+  - id: Jfe28b32565bc70e2
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 52.0 — Fly Ash
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3542,9 +3631,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J8b3f52d3151b2615
+  - id: Jc6a14aa0a9e5cc1f
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 53.0 — Waste
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3642,6 +3731,17 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T14:45:10+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C0ff9b1665b26cb4a
+    previous_evidence_ids:
+    - J5817f77b44ae8932
+    - J8b3f52d3151b2615
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Under Clause 54.0 and 55.0, hazardous wastes and chemicals must be handled in compliance with statutory
     rules (Hazardous Wastes Management & Handling Rules, 1989/2000/2003 and Manufacture, Storage and Import of Hazardous
@@ -3649,17 +3749,17 @@ claims:
     boards, and authorized recyclers, alongside energy management measures to conserve energy and provide demonstrable
     evidence upon request.
   evidence_ids:
-  - J268e07c639a4d540
-  - Jf26b605710ff2299
+  - J58b0ef7d929794ef
+  - J83d329b60a4b1d41
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C02269a36bd985096
+  id: Cfaa339815c8c1e7e
   citations:
-  - id: J268e07c639a4d540
+  - id: J58b0ef7d929794ef
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 54.0 — Hazardous Waste Management
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3761,9 +3861,9 @@ claims:
       Hazardous Waste Management\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jf26b605710ff2299
+  - id: J83d329b60a4b1d41
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 55.0 — Energy Management
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3827,25 +3927,36 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T14:45:10+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C02269a36bd985096
+    previous_evidence_ids:
+    - J268e07c639a4d540
+    - Jf26b605710ff2299
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part IV of the Safety, Health and Environment (SHE) Manual establishes environmental monitoring
     programs, noise and air quality parameters, event contingency plans, dust control obligations, wastewater management
     rules, and archaeological preservation requirements for BMRCL Tender Package P1.
   evidence_ids:
-  - J4e5376b1822964da
-  - J7176f2ac7f041d74
-  - J89b797a34dc71f82
-  - J8c3f73498d59a801
-  - Jb3c6c78f339d039e
+  - Jb72f4cbacb35c83f
+  - J5051b0054febf5a3
+  - Jbf778e79ee5d7dc3
+  - Ja56bcc2428ec77d1
+  - J493f5af431b2b948
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca4aababc4603567b
+  id: C5d69a36ce06a7cc3
   citations:
-  - id: J4e5376b1822964da
+  - id: Jb72f4cbacb35c83f
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3987,9 +4098,9 @@ claims:
       : \"257\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J7176f2ac7f041d74
+  - id: J5051b0054febf5a3
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4095,9 +4206,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J89b797a34dc71f82
+  - id: Jbf778e79ee5d7dc3
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4213,9 +4324,9 @@ claims:
       : 7,\n      \"text\": \"259\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J8c3f73498d59a801
+  - id: Ja56bcc2428ec77d1
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4322,9 +4433,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jb3c6c78f339d039e
+  - id: J493f5af431b2b948
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4447,21 +4558,35 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T14:47:40+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca4aababc4603567b
+    previous_evidence_ids:
+    - J4e5376b1822964da
+    - J7176f2ac7f041d74
+    - J89b797a34dc71f82
+    - J8c3f73498d59a801
+    - Jb3c6c78f339d039e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Contractor's monitoring program requires noise monitoring at 4 locations once a week during civil construction
     (Day Time Lmax, Leq, L10, L90, L50; Night Time Lmax, Leq, L10, L90, L50, Ldn) and air monitoring at 2 locations
     every fifteen days (RSPM, SPM, 24-hours, and CO 12 hours from 8.00 to 20.00 hrs).
   evidence_ids:
-  - J4e5376b1822964da
+  - Jb72f4cbacb35c83f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C240bfa86fdf8747a
+  id: C8d51576a50c8560b
   citations:
-  - id: J4e5376b1822964da
+  - id: Jb72f4cbacb35c83f
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4605,20 +4730,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T14:47:40+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C240bfa86fdf8747a
+    previous_evidence_ids:
+    - J4e5376b1822964da
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'Suspended Particulate Matter (SPM) levels must be measured using the standard high volume sampling method
     set out in BIS: 5182-1981, and sound level meters must meet IS: 9779-1981 specifications.'
   evidence_ids:
-  - J4e5376b1822964da
+  - Jb72f4cbacb35c83f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbe23f22df551a289
+  id: Cad8a53b042e594b2
   citations:
-  - id: J4e5376b1822964da
+  - id: Jb72f4cbacb35c83f
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4762,21 +4897,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T14:47:40+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbe23f22df551a289
+    previous_evidence_ids:
+    - J4e5376b1822964da
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Impact monitoring at air monitoring stations must be carried out for two continuous twenty-four-hour days
     every fifteen days and where perceived air quality problems exist.
   evidence_ids:
-  - J89b797a34dc71f82
-  - Jb3c6c78f339d039e
+  - Jbf778e79ee5d7dc3
+  - J493f5af431b2b948
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C0f65ba3da45ea5ec
+  id: Cee0d81071eac6af4
   citations:
-  - id: J89b797a34dc71f82
+  - id: Jbf778e79ee5d7dc3
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4892,9 +5037,9 @@ claims:
       : 7,\n      \"text\": \"259\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jb3c6c78f339d039e
+  - id: J493f5af431b2b948
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5017,22 +5162,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T14:47:40+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C0f65ba3da45ea5ec
+    previous_evidence_ids:
+    - J89b797a34dc71f82
+    - Jb3c6c78f339d039e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor must prepare an Air Monitoring and Control Plan (AMCP) and an Event Contingency Plan under
     the Site Environmental Plan to address exceedances, fugitive dust suppression, and equipment emissions.
   evidence_ids:
-  - J4e5376b1822964da
-  - J7176f2ac7f041d74
-  - J89b797a34dc71f82
+  - Jb72f4cbacb35c83f
+  - J5051b0054febf5a3
+  - Jbf778e79ee5d7dc3
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9884a4b981d14750
+  id: Ca75dbb0c43eda486
   citations:
-  - id: J4e5376b1822964da
+  - id: Jb72f4cbacb35c83f
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5174,9 +5330,9 @@ claims:
       : \"257\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J7176f2ac7f041d74
+  - id: J5051b0054febf5a3
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5282,9 +5438,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J89b797a34dc71f82
+  - id: Jbf778e79ee5d7dc3
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5402,22 +5558,34 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T14:47:40+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9884a4b981d14750
+    previous_evidence_ids:
+    - J4e5376b1822964da
+    - J7176f2ac7f041d74
+    - J89b797a34dc71f82
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Water quality and dewatering provisions prohibit direct unapproved discharge of groundwater or site runoff,
     require treatment of mud slurry from drilling or tunnelling, mandate oil interceptors for workshops, and require
     compliance with local ground water board regulations.
   evidence_ids:
-  - J8c3f73498d59a801
-  - Jb3c6c78f339d039e
+  - Ja56bcc2428ec77d1
+  - J493f5af431b2b948
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C51ef9b5f9ffd3efc
+  id: C3eb0bc0d6caac8e1
   citations:
-  - id: J8c3f73498d59a801
+  - id: Ja56bcc2428ec77d1
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5524,9 +5692,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jb3c6c78f339d039e
+  - id: J493f5af431b2b948
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5649,22 +5817,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T14:47:40+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C51ef9b5f9ffd3efc
+    previous_evidence_ids:
+    - J8c3f73498d59a801
+    - Jb3c6c78f339d039e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part IV of the SHE Manual mandates specific contractor environmental management protocols, including
     restrictions on tree felling, utilization of fly ash, institution of a Waste Management Programme (WMP), hazardous
     waste handling under statutory rules, and energy conservation measures.
   evidence_ids:
-  - J2e419c551c39fb2a
-  - Ja6e6658b1e94477e
+  - Jce292466578a84a2
+  - J195a8239e4bc9422
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C39a11cf41b0e5f6e
+  id: C184abc4c9cb757aa
   citations:
-  - id: J2e419c551c39fb2a
+  - id: Jce292466578a84a2
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5759,9 +5938,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Ja6e6658b1e94477e
+  - id: J195a8239e4bc9422
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5870,20 +6049,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T14:49:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C39a11cf41b0e5f6e
+    previous_evidence_ids:
+    - J2e419c551c39fb2a
+    - Ja6e6658b1e94477e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The contractor must obtain prior permission from the Forest Department via the Employer before felling,
     removing, or disposing of any tree or forest produce in land handed over for Bangalore Metro construction works.
   evidence_ids:
-  - J2e419c551c39fb2a
+  - Jce292466578a84a2
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6677b92d27780438
+  id: C2385c26e13a25224
   citations:
-  - id: J2e419c551c39fb2a
+  - id: Jce292466578a84a2
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5980,22 +6170,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T14:49:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6677b92d27780438
+    previous_evidence_ids:
+    - J2e419c551c39fb2a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The contractor must develop, institute, and maintain a Waste Management Programme (WMP) approved by the
     Engineer, and remove waste in a timely manner for disposal at authorized landfill sites after obtaining approvals
     from competent authorities such as BBMP, BDA, BMRDA, and BWSSB.
   evidence_ids:
-  - J2e419c551c39fb2a
-  - Ja6e6658b1e94477e
+  - Jce292466578a84a2
+  - J195a8239e4bc9422
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce2cd70a9af4cb871
+  id: C665aaef0d367b36d
   citations:
-  - id: J2e419c551c39fb2a
+  - id: Jce292466578a84a2
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6090,9 +6290,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Ja6e6658b1e94477e
+  - id: J195a8239e4bc9422
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6201,19 +6401,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T14:49:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce2cd70a9af4cb871
+    previous_evidence_ids:
+    - J2e419c551c39fb2a
+    - Ja6e6658b1e94477e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Burning of debris, vegetation, or construction waste on site is strictly prohibited.
   evidence_ids:
-  - Ja6e6658b1e94477e
+  - J195a8239e4bc9422
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C0f79649b50c68f31
+  id: C4396c1c3d6dc435c
   citations:
-  - id: Ja6e6658b1e94477e
+  - id: J195a8239e4bc9422
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6322,21 +6533,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T14:49:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C0f79649b50c68f31
+    previous_evidence_ids:
+    - Ja6e6658b1e94477e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Hazardous waste must be handled in compliance with the Hazardous Wastes (Management & Handling) Rules, 1989
     and amendments, requiring a Request for Authorisation filed with the Bangalore Pollution Control Board, dedicated
     secure storage with display boards, and disposal through Authorized Recyclers under intimation to the Employer.
   evidence_ids:
-  - Ja6e6658b1e94477e
+  - J195a8239e4bc9422
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8efffed96ce139fd
+  id: Ce3a8ab792b84499d
   citations:
-  - id: Ja6e6658b1e94477e
+  - id: J195a8239e4bc9422
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: 'Safety, Health and Environment Manual – Part IV: Environmental Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6445,13 +6666,23 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T14:49:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8efffed96ce139fd
+    previous_evidence_ids:
+    - Ja6e6658b1e94477e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: belongs_to
   target: index.md
   title: BMRCL Wiki Index
   evidence_ids:
-  - J2b955fbe0b475c6e
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - J84ce3fcaaa4987c0
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Safety, Health and Environment Manual – Part IV: Environmental Management Overview
@@ -6461,90 +6692,90 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - Volume 3 Part IV of the Safety, Health and Environment (SHE) Manual establishes comprehensive environmental monitoring, dust control, air quality standards, and event contingency planning obligations for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 47.0 — ENVIORNMENTAL MANAGEMENT|Clause 47.0 — ENVIORNMENTAL MANAGEMENT]]; `Vol3DLNP1.pdf`; PDF page(s) 73, 74, 75, 76; quotation `J2b955fbe0b475c6e`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 73, 74, 75, 76, 77, 78, 79; quotation `Sea60516d59485d91`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 47.0 — ENVIORNMENTAL MANAGEMENT|Clause 47.0 — ENVIORNMENTAL MANAGEMENT]]; `Vol3DLNP1.pdf`; PDF page(s) 73, 74, 75, 76; quotation `J84ce3fcaaa4987c0`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 73, 74, 75, 76, 77, 78, 79; quotation `Sfc3bc1e59fe2f0ec`.
 
 - The contractor must submit an Air Monitoring and Control Plan (AMCP) under the site environmental plan, maintain wash pits or vehicle cleaning facilities with high-pressure water jets at site exits, and establish an Event Contingency Plan to handle environmental exceedances.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 47.0 — ENVIORNMENTAL MANAGEMENT|Clause 47.0 — ENVIORNMENTAL MANAGEMENT]]; `Vol3DLNP1.pdf`; PDF page(s) 73, 74, 75, 76; quotation `J2b955fbe0b475c6e`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 47.0 — ENVIORNMENTAL MANAGEMENT|Clause 47.0 — ENVIORNMENTAL MANAGEMENT]]; `Vol3DLNP1.pdf`; PDF page(s) 73, 74, 75, 76; quotation `J84ce3fcaaa4987c0`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/0`.
 
 - Safety, Health and Environment Manual Part IV (Environmental Management) sets forth detailed contractor obligations regarding water quality protection, archaeological preservation, landscape and greenery maintenance, tree felling restrictions, fly ash usage, waste management, hazardous waste handling, and energy management.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 54.0 — Hazardous Waste Management|Clause 54.0 — Hazardous Waste Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `J268e07c639a4d540`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/7`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 52.0 — Fly Ash|Clause 52.0 — Fly Ash]]; `Vol3DLNP1.pdf`; PDF page(s) 78; quotation `J5817f77b44ae8932`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 49.0 — Archaeological and Historical Preservation|Clause 49.0 — Archaeological and Historical Preservation]]; `Vol3DLNP1.pdf`; PDF page(s) 77; quotation `J88068d0ca1624954`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 53.0 — Waste|Clause 53.0 — Waste]]; `Vol3DLNP1.pdf`; PDF page(s) 78, 79; quotation `J8b3f52d3151b2615`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 50.0 — Landscape and Greenery|Clause 50.0 — Landscape and Greenery]]; `Vol3DLNP1.pdf`; PDF page(s) 77, 78; quotation `J9ba02e61e2383737`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 51.0 — Felling of Trees|Clause 51.0 — Felling of Trees]]; `Vol3DLNP1.pdf`; PDF page(s) 78; quotation `Jd61e4384afce92e6`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 48.0 — Water Quality|Clause 48.0 — Water Quality]]; `Vol3DLNP1.pdf`; PDF page(s) 76, 77; quotation `Jd9da9c7b2d4b3646`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 55.0 — Energy Management|Clause 55.0 — Energy Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `Jf26b605710ff2299`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 54.0 — Hazardous Waste Management|Clause 54.0 — Hazardous Waste Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `J58b0ef7d929794ef`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 52.0 — Fly Ash|Clause 52.0 — Fly Ash]]; `Vol3DLNP1.pdf`; PDF page(s) 78; quotation `Jfe28b32565bc70e2`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 49.0 — Archaeological and Historical Preservation|Clause 49.0 — Archaeological and Historical Preservation]]; `Vol3DLNP1.pdf`; PDF page(s) 77; quotation `Jae8918e6335e220a`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 53.0 — Waste|Clause 53.0 — Waste]]; `Vol3DLNP1.pdf`; PDF page(s) 78, 79; quotation `Jc6a14aa0a9e5cc1f`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 50.0 — Landscape and Greenery|Clause 50.0 — Landscape and Greenery]]; `Vol3DLNP1.pdf`; PDF page(s) 77, 78; quotation `J8fb9b8a53b77aca2`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 51.0 — Felling of Trees|Clause 51.0 — Felling of Trees]]; `Vol3DLNP1.pdf`; PDF page(s) 78; quotation `J7cee98218eb7ab95`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 48.0 — Water Quality|Clause 48.0 — Water Quality]]; `Vol3DLNP1.pdf`; PDF page(s) 76, 77; quotation `J347d07fa7ae4694d`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 55.0 — Energy Management|Clause 55.0 — Energy Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `J83d329b60a4b1d41`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/8`.
 
 - Volume 3 Part IV of the Safety, Health and Environment (SHE) Manual establishes environmental monitoring programs, noise and air quality parameters, event contingency plans, dust control obligations, wastewater management rules, and archaeological preservation requirements for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 73; quotation `J4e5376b1822964da`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 74; quotation `J7176f2ac7f041d74`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 75; quotation `J89b797a34dc71f82`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 77; quotation `J8c3f73498d59a801`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 76; quotation `Jb3c6c78f339d039e`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 73; quotation `Jb72f4cbacb35c83f`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 74; quotation `J5051b0054febf5a3`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 75; quotation `Jbf778e79ee5d7dc3`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 77; quotation `Ja56bcc2428ec77d1`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 76; quotation `J493f5af431b2b948`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/3`.
 
 - The Contractor must prepare an Air Monitoring and Control Plan (AMCP) and an Event Contingency Plan under the Site Environmental Plan to address exceedances, fugitive dust suppression, and equipment emissions.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 73; quotation `J4e5376b1822964da`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 74; quotation `J7176f2ac7f041d74`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 75; quotation `J89b797a34dc71f82`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 73; quotation `Jb72f4cbacb35c83f`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 74; quotation `J5051b0054febf5a3`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 75; quotation `Jbf778e79ee5d7dc3`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/2`.
 
 - Water quality and dewatering provisions prohibit direct unapproved discharge of groundwater or site runoff, require treatment of mud slurry from drilling or tunnelling, mandate oil interceptors for workshops, and require compliance with local ground water board regulations.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 77; quotation `J8c3f73498d59a801`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 76; quotation `Jb3c6c78f339d039e`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 77; quotation `Ja56bcc2428ec77d1`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 76; quotation `J493f5af431b2b948`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/3`.
 
 - Volume 3 Part IV of the SHE Manual mandates specific contractor environmental management protocols, including restrictions on tree felling, utilization of fly ash, institution of a Waste Management Programme (WMP), hazardous waste handling under statutory rules, and energy conservation measures.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 78; quotation `J2e419c551c39fb2a`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `Ja6e6658b1e94477e`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 78; quotation `Jce292466578a84a2`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `J195a8239e4bc9422`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/6`.
 
 ## Key Parameters and Source Statements
 
 - The contractor's environmental monitoring program requires noise monitoring at 4 locations once a week during active noise-generating operations and air quality monitoring (RSPM, SPM, CO) at 2 locations every fifteen days for two continuous 24-hour periods.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 47.0 — ENVIORNMENTAL MANAGEMENT|Clause 47.0 — ENVIORNMENTAL MANAGEMENT]]; `Vol3DLNP1.pdf`; PDF page(s) 73, 74, 75, 76; quotation `J2b955fbe0b475c6e`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 47.0 — ENVIORNMENTAL MANAGEMENT|Clause 47.0 — ENVIORNMENTAL MANAGEMENT]]; `Vol3DLNP1.pdf`; PDF page(s) 73, 74, 75, 76; quotation `J84ce3fcaaa4987c0`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/0`.
 
 - Suspended Particulate Matter (SPM) levels must be measured using the standard high volume sampling method set out in BIS: 5182-1981, and sound level meters must conform to IS: 9779-1981.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 47.0 — ENVIORNMENTAL MANAGEMENT|Clause 47.0 — ENVIORNMENTAL MANAGEMENT]]; `Vol3DLNP1.pdf`; PDF page(s) 73, 74, 75, 76; quotation `J2b955fbe0b475c6e`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 47.0 — ENVIORNMENTAL MANAGEMENT|Clause 47.0 — ENVIORNMENTAL MANAGEMENT]]; `Vol3DLNP1.pdf`; PDF page(s) 73, 74, 75, 76; quotation `J84ce3fcaaa4987c0`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/0`.
 
 - Under Clause 48.3, the contractor is prohibited from discharging dewatering or site water without Employer approval and must comply with Local Ground Water Board requirements, ensuring unused groundwater is either reused for construction or recharged directly to aquifers through approved recharge proposals while monitoring drawdown levels.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 48.0 — Water Quality|Clause 48.0 — Water Quality]]; `Vol3DLNP1.pdf`; PDF page(s) 76, 77; quotation `Jd9da9c7b2d4b3646`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 48.0 — Water Quality|Clause 48.0 — Water Quality]]; `Vol3DLNP1.pdf`; PDF page(s) 76, 77; quotation `J347d07fa7ae4694d`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/1`.
 
 - Clause 49.0 requires the contractor to accommodate archaeological and historical preservation concerns, consulting the Archaeological Survey of India (ASI) and other parties upon the Employer's advice to mitigate adverse construction effects on monuments.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 49.0 — Archaeological and Historical Preservation|Clause 49.0 — Archaeological and Historical Preservation]]; `Vol3DLNP1.pdf`; PDF page(s) 77; quotation `J88068d0ca1624954`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 49.0 — Archaeological and Historical Preservation|Clause 49.0 — Archaeological and Historical Preservation]]; `Vol3DLNP1.pdf`; PDF page(s) 77; quotation `Jae8918e6335e220a`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/2`.
 
 - Under Clause 50.0 and 51.0, the contractor must maintain ecological balance, prevent avoidable scarring of natural surroundings, and avoid felling, removing, or disposing of trees or forest produce without prior permission obtained from the Forest Department through the Employer.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 50.0 — Landscape and Greenery|Clause 50.0 — Landscape and Greenery]]; `Vol3DLNP1.pdf`; PDF page(s) 77, 78; quotation `J9ba02e61e2383737`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 51.0 — Felling of Trees|Clause 51.0 — Felling of Trees]]; `Vol3DLNP1.pdf`; PDF page(s) 78; quotation `Jd61e4384afce92e6`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 50.0 — Landscape and Greenery|Clause 50.0 — Landscape and Greenery]]; `Vol3DLNP1.pdf`; PDF page(s) 77, 78; quotation `J8fb9b8a53b77aca2`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 51.0 — Felling of Trees|Clause 51.0 — Felling of Trees]]; `Vol3DLNP1.pdf`; PDF page(s) 78; quotation `J7cee98218eb7ab95`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/4`.
 
 - Clause 52.0 and 53.0 govern fly ash and waste management, requiring the contractor to maintain detailed usage records when required by the Employer, institute a Waste Management Programme (WMP) approved by the Engineer, prohibit waste burning, and dispose of waste and metal scrap through authorized landfill sites (BBMP, BDA, BMRDA, BWSSB) and dealers.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 52.0 — Fly Ash|Clause 52.0 — Fly Ash]]; `Vol3DLNP1.pdf`; PDF page(s) 78; quotation `J5817f77b44ae8932`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 53.0 — Waste|Clause 53.0 — Waste]]; `Vol3DLNP1.pdf`; PDF page(s) 78, 79; quotation `J8b3f52d3151b2615`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 52.0 — Fly Ash|Clause 52.0 — Fly Ash]]; `Vol3DLNP1.pdf`; PDF page(s) 78; quotation `Jfe28b32565bc70e2`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 53.0 — Waste|Clause 53.0 — Waste]]; `Vol3DLNP1.pdf`; PDF page(s) 78, 79; quotation `Jc6a14aa0a9e5cc1f`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/6`.
 
 - Under Clause 54.0 and 55.0, hazardous wastes and chemicals must be handled in compliance with statutory rules (Hazardous Wastes Management & Handling Rules, 1989/2000/2003 and Manufacture, Storage and Import of Hazardous Chemical Rules, 1989), requiring authorization requests filed with the Bangalore Pollution Control Board, display boards, and authorized recyclers, alongside energy management measures to conserve energy and provide demonstrable evidence upon request.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 54.0 — Hazardous Waste Management|Clause 54.0 — Hazardous Waste Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `J268e07c639a4d540`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/7`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 55.0 — Energy Management|Clause 55.0 — Energy Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `Jf26b605710ff2299`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 54.0 — Hazardous Waste Management|Clause 54.0 — Hazardous Waste Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `J58b0ef7d929794ef`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 55.0 — Energy Management|Clause 55.0 — Energy Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `J83d329b60a4b1d41`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/8`.
 
 - The Contractor's monitoring program requires noise monitoring at 4 locations once a week during civil construction (Day Time Lmax, Leq, L10, L90, L50; Night Time Lmax, Leq, L10, L90, L50, Ldn) and air monitoring at 2 locations every fifteen days (RSPM, SPM, 24-hours, and CO 12 hours from 8.00 to 20.00 hrs).
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 73; quotation `J4e5376b1822964da`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 73; quotation `Jb72f4cbacb35c83f`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/0`.
 
 - Suspended Particulate Matter (SPM) levels must be measured using the standard high volume sampling method set out in BIS: 5182-1981, and sound level meters must meet IS: 9779-1981 specifications.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 73; quotation `J4e5376b1822964da`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 73; quotation `Jb72f4cbacb35c83f`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/0`.
 
 - Impact monitoring at air monitoring stations must be carried out for two continuous twenty-four-hour days every fifteen days and where perceived air quality problems exist.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 75; quotation `J89b797a34dc71f82`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 76; quotation `Jb3c6c78f339d039e`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 75; quotation `Jbf778e79ee5d7dc3`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 76; quotation `J493f5af431b2b948`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/3`.
 
 - The contractor must obtain prior permission from the Forest Department via the Employer before felling, removing, or disposing of any tree or forest produce in land handed over for Bangalore Metro construction works.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 78; quotation `J2e419c551c39fb2a`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 78; quotation `Jce292466578a84a2`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/5`.
 
 - The contractor must develop, institute, and maintain a Waste Management Programme (WMP) approved by the Engineer, and remove waste in a timely manner for disposal at authorized landfill sites after obtaining approvals from competent authorities such as BBMP, BDA, BMRDA, and BWSSB.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 78; quotation `J2e419c551c39fb2a`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `Ja6e6658b1e94477e`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 78; quotation `Jce292466578a84a2`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `J195a8239e4bc9422`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/6`.
 
 - Burning of debris, vegetation, or construction waste on site is strictly prohibited.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `Ja6e6658b1e94477e`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `J195a8239e4bc9422`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/6`.
 
 - Hazardous waste must be handled in compliance with the Hazardous Wastes (Management & Handling) Rules, 1989 and amendments, requiring a Request for Authorisation filed with the Bangalore Pollution Control Board, dedicated secure storage with display boards, and disposal through Authorized Recyclers under intimation to the Employer.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `Ja6e6658b1e94477e`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `J195a8239e4bc9422`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/source_page_context/6`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 47.0 — ENVIORNMENTAL MANAGEMENT|Clause 47.0 — ENVIORNMENTAL MANAGEMENT]]
@@ -6561,7 +6792,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Typed Relations
 
 - **belongs_to (editorial, inferred):** [[wiki/index|BMRCL Wiki Index]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 47.0 — ENVIORNMENTAL MANAGEMENT|Clause 47.0 — ENVIORNMENTAL MANAGEMENT]]; `Vol3DLNP1.pdf`; PDF page(s) 73, 74, 75, 76; `J2b955fbe0b475c6e`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 47.0 — ENVIORNMENTAL MANAGEMENT|Clause 47.0 — ENVIORNMENTAL MANAGEMENT]]; `Vol3DLNP1.pdf`; PDF page(s) 73, 74, 75, 76; `J84ce3fcaaa4987c0`.
 
 ## Open Questions and Contradictions
 
@@ -6570,7 +6801,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### J2b955fbe0b475c6e
+### J84ce3fcaaa4987c0
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 47.0 — ENVIORNMENTAL MANAGEMENT|Clause 47.0 — ENVIORNMENTAL MANAGEMENT]]
 
@@ -7876,13 +8107,13 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "ENVIORNMENTAL MANAGEMENT"
 > }
 
-### Sea60516d59485d91
+### Sfc3bc1e59fe2f0ec
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]
 
 > This part contains Part IV (Environmental Management) of Section I (SHE - Manual) in Volume 3 of BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`.
 
-### J268e07c639a4d540
+### J58b0ef7d929794ef
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 54.0 — Hazardous Waste Management|Clause 54.0 — Hazardous Waste Management]]
 
@@ -8106,7 +8337,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Hazardous Waste Management"
 > }
 
-### J5817f77b44ae8932
+### Jfe28b32565bc70e2
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 52.0 — Fly Ash|Clause 52.0 — Fly Ash]]
 
@@ -8195,7 +8426,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Fly Ash"
 > }
 
-### J88068d0ca1624954
+### Jae8918e6335e220a
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 49.0 — Archaeological and Historical Preservation|Clause 49.0 — Archaeological and Historical Preservation]]
 
@@ -8299,7 +8530,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Archaeological and Historical Preservation"
 > }
 
-### J8b3f52d3151b2615
+### Jc6a14aa0a9e5cc1f
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 53.0 — Waste|Clause 53.0 — Waste]]
 
@@ -8552,7 +8783,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Waste"
 > }
 
-### J9ba02e61e2383737
+### J8fb9b8a53b77aca2
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 50.0 — Landscape and Greenery|Clause 50.0 — Landscape and Greenery]]
 
@@ -8710,7 +8941,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Landscape and Greenery"
 > }
 
-### Jd61e4384afce92e6
+### J7cee98218eb7ab95
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 51.0 — Felling of Trees|Clause 51.0 — Felling of Trees]]
 
@@ -8864,7 +9095,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Felling of Trees"
 > }
 
-### Jd9da9c7b2d4b3646
+### J347d07fa7ae4694d
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 48.0 — Water Quality|Clause 48.0 — Water Quality]]
 
@@ -9267,7 +9498,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Water Quality"
 > }
 
-### Jf26b605710ff2299
+### J83d329b60a4b1d41
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 55.0 — Energy Management|Clause 55.0 — Energy Management]]
 
@@ -9416,7 +9647,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Energy Management"
 > }
 
-### J4e5376b1822964da
+### Jb72f4cbacb35c83f
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]
 
@@ -9637,7 +9868,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J7176f2ac7f041d74
+### J5051b0054febf5a3
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]
 
@@ -9708,7 +9939,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J89b797a34dc71f82
+### Jbf778e79ee5d7dc3
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]
 
@@ -9809,7 +10040,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J8c3f73498d59a801
+### Ja56bcc2428ec77d1
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]
 
@@ -9880,7 +10111,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jb3c6c78f339d039e
+### J493f5af431b2b948
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]
 
@@ -9981,7 +10212,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J2e419c551c39fb2a
+### Jce292466578a84a2
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]
 
@@ -10062,7 +10293,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Ja6e6658b1e94477e
+### J195a8239e4bc9422
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Safety, Health and Environment Manual – Part IV: Environmental Management|Safety, Health and Environment Manual – Part IV: Environmental Management]]
 

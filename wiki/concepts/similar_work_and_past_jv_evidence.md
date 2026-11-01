@@ -6,33 +6,33 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-11-01T12:14:18+00:00'
-updated_at: '2026-11-01T12:36:19+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T12:14:18+00:00'
 model: source-backed editorial synthesis; no API call
 sources:
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_clauses.json
   json_sha256: d8207622663bc2dd0cf2a7c5e3ed660f5c3881838e376d1bbb26fdae47ed8abf
   json_pointer: /clauses/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_criteria.json
   json_sha256: ab3cdc95d724a7912220cd865c0b6a59bfceea0f7743c525b58aec19278e8816
   json_pointer: /note_groups/work_experience/4
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_clauses.json
   json_sha256: d8207622663bc2dd0cf2a7c5e3ed660f5c3881838e376d1bbb26fdae47ed8abf
   json_pointer: /clauses/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_criteria.json
   json_sha256: ab3cdc95d724a7912220cd865c0b6a59bfceea0f7743c525b58aec19278e8816
@@ -43,19 +43,19 @@ claims:
   text: This page brings together the cited requirements for similar-work evidence and historical jv participation.
     Each source statement retains its own stage, conditions and review limitations.
   evidence_ids:
-  - J704434795075ef24
-  - J546c411c2144a974
-  - J30e07edea4458b0b
-  - Je0ddea947ee72bd2
+  - J0949e7907866cf3c
+  - J533eaf65b77e3edd
+  - J6d3ed99d534c4170
+  - Je32eacc4242ebdeb
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C89b3b89463d34565
+  id: C2f99d7eeaa67bbe4
   citations:
-  - id: J704434795075ef24
+  - id: J0949e7907866cf3c
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Clause 3.0 — Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -180,9 +180,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"Qualification Criteria\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J546c411c2144a974
+  - id: J533eaf65b77e3edd
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -201,9 +201,9 @@ claims:
       : \"work_experience_note_5\",\n  \"number\": 5,\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J30e07edea4458b0b
+  - id: J6d3ed99d534c4170
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Clause 2.0 — Eligible Tenderers
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -372,9 +372,9 @@ claims:
       \    }\n  ],\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"Eligible Tenderers\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Je0ddea947ee72bd2
+  - id: Je32eacc4242ebdeb
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -399,20 +399,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C89b3b89463d34565
+    previous_evidence_ids:
+    - J704434795075ef24
+    - J546c411c2144a974
+    - J30e07edea4458b0b
+    - Je0ddea947ee72bd2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The similar-work value alternatives are one work of INR 3.79 crore, two of INR 2.37 crore each, three of
     INR 1.90 crore each, or any number totalling INR 4.74 crore.
   evidence_ids:
-  - J704434795075ef24
+  - J0949e7907866cf3c
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C215e66bad7dd7ad3
+  id: Cec1de691460315fc
   citations:
-  - id: J704434795075ef24
+  - id: J0949e7907866cf3c
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Clause 3.0 — Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -539,22 +552,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C215e66bad7dd7ad3
+    previous_evidence_ids:
+    - J704434795075ef24
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Historical completed or substantially completed JV experience is counted in proportion to the tenderer’s
     stipulated financial share and requires the JV agreement; this concerns past experience, not permission to submit
     this tender as a JV.
   evidence_ids:
-  - J546c411c2144a974
-  - J30e07edea4458b0b
+  - J533eaf65b77e3edd
+  - J6d3ed99d534c4170
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb4507177793aefd9
+  id: Ca9e7f6c89d06df9d
   citations:
-  - id: J546c411c2144a974
+  - id: J533eaf65b77e3edd
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -573,9 +596,9 @@ claims:
       : \"work_experience_note_5\",\n  \"number\": 5,\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J30e07edea4458b0b
+  - id: J6d3ed99d534c4170
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Clause 2.0 — Eligible Tenderers
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -746,20 +769,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb4507177793aefd9
+    previous_evidence_ids:
+    - J546c411c2144a974
+    - J30e07edea4458b0b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The INR portion of completed similar works receives 5% annual compound updating to the invitation financial
     year; the source expressly excludes ongoing substantially completed works from updating.
   evidence_ids:
-  - Je0ddea947ee72bd2
+  - Je32eacc4242ebdeb
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc0e18822dd64fbfc
+  id: Ce40758ccefd60c8d
   citations:
-  - id: Je0ddea947ee72bd2
+  - id: Je32eacc4242ebdeb
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -784,22 +818,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc0e18822dd64fbfc
+    previous_evidence_ids:
+    - Je0ddea947ee72bd2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: relation
   text: 'Editorial topic mapping for Similar-Work Evidence and Historical JV Participation: the two cited source
     records are connected for this topic only. The connection is inferred, not an explicit contractual reference,
     a document-precedence rule or a compliance decision.'
   evidence_ids:
-  - J704434795075ef24
-  - J546c411c2144a974
+  - J0949e7907866cf3c
+  - J533eaf65b77e3edd
   relation_type: relates_to
   explicitness: inferred
-  from_id: J704434795075ef24
-  to_id: J546c411c2144a974
-  id: Cb11a79c781405782
+  from_id: J0949e7907866cf3c
+  to_id: J533eaf65b77e3edd
+  id: Cc743f262ad48ba6a
   citations:
-  - id: J704434795075ef24
+  - id: J0949e7907866cf3c
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Clause 3.0 — Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -924,9 +968,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"Qualification Criteria\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J546c411c2144a974
+  - id: J533eaf65b77e3edd
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -953,17 +997,27 @@ claims:
       not an explicit hierarchy or a compliance determination.
     corrected_at: '2026-11-01T12:20:49+00:00'
     method: topic-specific editorial relation label
+  - previous_claim_id: Cb11a79c781405782
+    previous_evidence_ids:
+    - J704434795075ef24
+    - J546c411c2144a974
+    previous_from_id: J704434795075ef24
+    previous_to_id: J546c411c2144a974
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T12:20:49+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: commercial_entity_index.md
   title: Source topic page
   evidence_ids:
-  - J704434795075ef24
+  - J0949e7907866cf3c
 source_scope_note: The complete creation prompt explicitly includes matching JSON with each OKF file. These are
   source-linked extracts, not independent external assumptions. PDF/source review remains pending.
 editorial_method: Source-backed editorial synthesis; no new API generation call
-last_editorial_review: '2026-11-01T12:36:19+00:00'
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Similar-Work Evidence and Historical JV Participation
@@ -973,29 +1027,29 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Summary
 
 - This page brings together the cited requirements for similar-work evidence and historical jv participation. Each source statement retains its own stage, conditions and review limitations.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J704434795075ef24`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 33; quotation `J546c411c2144a974`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/work_experience/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 2.0 — Eligible Tenderers|Clause 2.0 — Eligible Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 27, 28, 29, 30, 31; quotation `J30e07edea4458b0b`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 33, 34; quotation `Je0ddea947ee72bd2`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/work_experience/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J0949e7907866cf3c`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 33; quotation `J533eaf65b77e3edd`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/work_experience/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 2.0 — Eligible Tenderers|Clause 2.0 — Eligible Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 27, 28, 29, 30, 31; quotation `J6d3ed99d534c4170`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 33, 34; quotation `Je32eacc4242ebdeb`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/work_experience/6`.
 
 ## Key Parameters and Source Statements
 
 - The similar-work value alternatives are one work of INR 3.79 crore, two of INR 2.37 crore each, three of INR 1.90 crore each, or any number totalling INR 4.74 crore.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J704434795075ef24`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J0949e7907866cf3c`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
 
 - Historical completed or substantially completed JV experience is counted in proportion to the tenderer’s stipulated financial share and requires the JV agreement; this concerns past experience, not permission to submit this tender as a JV.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 33; quotation `J546c411c2144a974`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/work_experience/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 2.0 — Eligible Tenderers|Clause 2.0 — Eligible Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 27, 28, 29, 30, 31; quotation `J30e07edea4458b0b`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 33; quotation `J533eaf65b77e3edd`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/work_experience/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 2.0 — Eligible Tenderers|Clause 2.0 — Eligible Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 27, 28, 29, 30, 31; quotation `J6d3ed99d534c4170`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/1`.
 
 - The INR portion of completed similar works receives 5% annual compound updating to the invitation financial year; the source expressly excludes ongoing substantially completed works from updating.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 33, 34; quotation `Je0ddea947ee72bd2`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/work_experience/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 33, 34; quotation `Je32eacc4242ebdeb`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/work_experience/6`.
 
 ## Typed Relations
 
 - Editorial topic mapping for Similar-Work Evidence and Historical JV Participation: the two cited source records are connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence rule or a compliance decision.
   - **relates_to (inferred):** [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]] → [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J704434795075ef24`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 33; quotation `J546c411c2144a974`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/work_experience/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J0949e7907866cf3c`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 33; quotation `J533eaf65b77e3edd`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/work_experience/4`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]
@@ -1005,7 +1059,7 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Related Wiki Entities
 
 - **relates_to (editorial, inferred):** [[wiki/commercial_entity_index|Source topic page]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; `J704434795075ef24`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; `J0949e7907866cf3c`.
 
 ## Open Questions and Contradictions
 
@@ -1014,7 +1068,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### J704434795075ef24
+### J0949e7907866cf3c
 
 [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]
 
@@ -1046,7 +1100,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Qualification Criteria"
 > }
 
-### J546c411c2144a974
+### J533eaf65b77e3edd
 
 [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]
 
@@ -1062,7 +1116,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J30e07edea4458b0b
+### J6d3ed99d534c4170
 
 [[OKF_bundle/Technical/Vol1/secC#Clause 2.0 — Eligible Tenderers|Clause 2.0 — Eligible Tenderers]]
 
@@ -1094,7 +1148,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Eligible Tenderers"
 > }
 
-### Je0ddea947ee72bd2
+### Je32eacc4242ebdeb
 
 [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]
 

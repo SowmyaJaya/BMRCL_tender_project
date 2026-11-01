@@ -389,6 +389,25 @@ def run_audit(project):
     for relative, page in pages.items():
         body = page["body"].split("<details>", 1)[0]
 
+        # Code spans/fences illustrate syntax; they are not live link destinations.
+        live_lines = []
+        fence_char = None
+        fence_length = 0
+        for line in body.splitlines():
+            match = re.match(r"^ {0,3}(`{3,}|~{3,})(.*)$", line)
+            if fence_char is not None:
+                if match and match[1][0] == fence_char and len(match[1]) >= fence_length and not match[2].strip():
+                    fence_char = None
+                continue
+            if match:
+                fence_char = match[1][0]
+                fence_length = len(match[1])
+                continue
+            live_lines.append(line)
+        body = "\n".join(live_lines)
+        body = re.sub(r"(`+)(?!`)(.*?)\1(?!`)", "", body, flags=re.DOTALL)
+
+
         for link in re.findall(r"\[\[([^\]]+)\]\]", body):
             destination = link.split("|", 1)[0]
             target_name, _, heading = destination.partition("#")

@@ -6,456 +6,456 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-31T15:13:55+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T11:12:36+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_1_mou/mou_clauses.json
   json_sha256: ebda0bbd05593d7cb545405114da044595e74c7d2def7687c6229d4a3241fb3e
   json_pointer: /introduction
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_1_mou/mou_clauses.json
   json_sha256: ebda0bbd05593d7cb545405114da044595e74c7d2def7687c6229d4a3241fb3e
   json_pointer: /clauses/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_1_mou/mou_clauses.json
   json_sha256: ebda0bbd05593d7cb545405114da044595e74c7d2def7687c6229d4a3241fb3e
   json_pointer: /clauses/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_1_mou/mou_clauses.json
   json_sha256: ebda0bbd05593d7cb545405114da044595e74c7d2def7687c6229d4a3241fb3e
   json_pointer: /clauses/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_1_mou/mou_clauses.json
   json_sha256: ebda0bbd05593d7cb545405114da044595e74c7d2def7687c6229d4a3241fb3e
   json_pointer: /source_page_context/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_1_mou/mou_clauses.json
   json_sha256: ebda0bbd05593d7cb545405114da044595e74c7d2def7687c6229d4a3241fb3e
   json_pointer: /clauses/4
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_1_mou/mou_clauses.json
   json_sha256: ebda0bbd05593d7cb545405114da044595e74c7d2def7687c6229d4a3241fb3e
   json_pointer: /execution_and_signatures
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /introduction_and_reference_legend
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/28
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/20
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/30
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/21
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/22
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/23
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/7
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/9
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/58
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/53
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/75
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/73
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/63
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/70
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/62
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /source_page_context/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json
   json_sha256: b7bb126e4b02b2bd9376936bd21307a05e54d3fe04841e8fc9d9aac0d2c58054
   json_pointer: /introduction_and_template_labels
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /source_page_context/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /items/84
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json
   json_sha256: 9956a1190eaaf9b839a05d03b66f4da0dbda85420233b6448f87d776583e5624
   json_pointer: /source_quirks/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json
   json_sha256: b7bb126e4b02b2bd9376936bd21307a05e54d3fe04841e8fc9d9aac0d2c58054
   json_pointer: /source_page_context/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json
   json_sha256: b7bb126e4b02b2bd9376936bd21307a05e54d3fe04841e8fc9d9aac0d2c58054
   json_pointer: /source_page_context/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json
   json_sha256: b7bb126e4b02b2bd9376936bd21307a05e54d3fe04841e8fc9d9aac0d2c58054
   json_pointer: /topics/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json
   json_sha256: b7bb126e4b02b2bd9376936bd21307a05e54d3fe04841e8fc9d9aac0d2c58054
   json_pointer: /topics/13
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json
   json_sha256: 96a8da18726a9d4c7a2150f8e27855b32f1e8ccd7552643932a26c9a79a954a4
   json_pointer: /introduction_quote_and_attribution
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/forms/she_committee_forms.json
   json_sha256: d4d64ab8440b97f6a9deeb0d9cd0b5995bfe88b324ae3231d2f53c8fcbc17a7e
   json_pointer: /forms/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json
   json_sha256: 96a8da18726a9d4c7a2150f8e27855b32f1e8ccd7552643932a26c9a79a954a4
   json_pointer: /policy_measures/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json
   json_sha256: 96a8da18726a9d4c7a2150f8e27855b32f1e8ccd7552643932a26c9a79a954a4
   json_pointer: /policy_measures/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json
   json_sha256: 96a8da18726a9d4c7a2150f8e27855b32f1e8ccd7552643932a26c9a79a954a4
   json_pointer: /policy_measures/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json
   json_sha256: 96a8da18726a9d4c7a2150f8e27855b32f1e8ccd7552643932a26c9a79a954a4
   json_pointer: /policy_measures/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json
   json_sha256: 96a8da18726a9d4c7a2150f8e27855b32f1e8ccd7552643932a26c9a79a954a4
   json_pointer: /source_page_context/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/2/fragments/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/1/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/2/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/forms/she_committee_forms.json
   json_sha256: d4d64ab8440b97f6a9deeb0d9cd0b5995bfe88b324ae3231d2f53c8fcbc17a7e
   json_pointer: /forms/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/1/fragments/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/0/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/4
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/5
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/6/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/7
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/8/fragments/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/8/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/8/fragments/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/9/fragments/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/9/fragments/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/9/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/9/fragments/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/10
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/11
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/appendix_1_mou/mou_clauses.json
   json_sha256: ebda0bbd05593d7cb545405114da044595e74c7d2def7687c6229d4a3241fb3e
@@ -467,17 +467,17 @@ claims:
     BMRCL Tender Package P1, including the Safety Memorandum of Understanding (Appendix 1), statutory BOCW compliance
     lists (Appendix 2), and general instructions.
   evidence_ids:
-  - S1b337276fee87a48
-  - Jce99430952d4c8c7
+  - S916bccd27f957a6c
+  - Jf94482427d1e2fd1
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cde2690800cbad9cb
+  id: C1c6110252ccdbe7b
   citations:
-  - id: S1b337276fee87a48
+  - id: S916bccd27f957a6c
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     pdf_pages:
@@ -516,9 +516,9 @@ claims:
       - Manual) in Volume 3 of BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`.
     page_basis: OKF reference, not independently PDF-verified
     page_precision: document_metadata_range
-  - id: Jce99430952d4c8c7
+  - id: Jf94482427d1e2fd1
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -640,27 +640,38 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:13:55+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cde2690800cbad9cb
+    previous_evidence_ids:
+    - S1b337276fee87a48
+    - Jce99430952d4c8c7
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Appendix 1 is a mandatory Memorandum of Understanding (MoU) executed between BMRC (Employer) and the Contractor
     regarding safe execution, committing the contractor to comply with all BMRCL SHE conditions, manuals, BOCW acts,
     electricity rules, and unilateral employer safety amendments without prior notice.
   evidence_ids:
-  - Jce99430952d4c8c7
-  - J3142e01c4635fda9
-  - J1d05f6f56af1cf0c
-  - J8768d436d258957e
-  - J486a7208e1421ab8
-  - J181fe8af9d771e84
-  - J070f4db006b7a992
+  - Jf94482427d1e2fd1
+  - J931fa0d19d6dcef3
+  - J48e9758f724fa34f
+  - J14aea9aac5f6fa2c
+  - J3b66e539b4efbac6
+  - J5f9119043b65fd8d
+  - J94c6ce7b195eabe9
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C09da7bfdb11fee83
+  id: C4ab10e0d946aeb4a
   citations:
-  - id: Jce99430952d4c8c7
+  - id: Jf94482427d1e2fd1
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -780,9 +791,9 @@ claims:
       \     \"text\": \"\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J3142e01c4635fda9
+  - id: J931fa0d19d6dcef3
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -807,9 +818,9 @@ claims:
       \ \"text\": \"\"\n    }\n  ],\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J1d05f6f56af1cf0c
+  - id: J48e9758f724fa34f
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -833,9 +844,9 @@ claims:
       \  ],\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J8768d436d258957e
+  - id: J14aea9aac5f6fa2c
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -872,9 +883,9 @@ claims:
       : 4,\n      \"text\": \"\"\n    }\n  ],\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J486a7208e1421ab8
+  - id: J3b66e539b4efbac6
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -949,9 +960,9 @@ claims:
       : \"273\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J181fe8af9d771e84
+  - id: J5f9119043b65fd8d
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -984,9 +995,9 @@ claims:
       text\": \"\"\n    }\n  ],\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J070f4db006b7a992
+  - id: J94c6ce7b195eabe9
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1039,25 +1050,41 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:13:55+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C09da7bfdb11fee83
+    previous_evidence_ids:
+    - Jce99430952d4c8c7
+    - J3142e01c4635fda9
+    - J1d05f6f56af1cf0c
+    - J8768d436d258957e
+    - J486a7208e1421ab8
+    - J181fe8af9d771e84
+    - J070f4db006b7a992
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Appendix 2 compiles safety, welfare, and occupational health requirements under the BOCW Act 1996, Rules
     1998, and Karnataka Rules 2006, itemizing establishment registration, display of certification, working hours,
     and overtime registers.
   evidence_ids:
-  - J1fe50e404cdd00dc
-  - Je991a59705619eab
-  - Je53d9db1d6fe0d18
-  - Jdb6ffcc8aff4acd1
-  - Jf6e070e079a79702
+  - J5ef0cde56d952f3d
+  - Jb82dbba20320449e
+  - Ja1ed9cbf9ff3dffe
+  - J5751dcdf1f5ef545
+  - J2f999dbfd7c35f34
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C991d83324cd86684
+  id: Cf6db93b26a67346e
   citations:
-  - id: J1fe50e404cdd00dc
+  - id: J5ef0cde56d952f3d
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1115,9 +1142,9 @@ claims:
       : 90,\n      \"source_line_number\": 32,\n      \"text\": \"\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Je991a59705619eab
+  - id: Jb82dbba20320449e
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1141,9 +1168,9 @@ claims:
       : \"   1.     Registration of establishment               S – 7,\",\n  \"starting_pdf_page\": 90\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Je53d9db1d6fe0d18
+  - id: Ja1ed9cbf9ff3dffe
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1165,9 +1192,9 @@ claims:
       \ \"starting_pdf_page\": 90\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jdb6ffcc8aff4acd1
+  - id: J5751dcdf1f5ef545
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1191,9 +1218,9 @@ claims:
       \                         S – 28\",\n  \"starting_pdf_page\": 90\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf6e070e079a79702
+  - id: J2f999dbfd7c35f34
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1220,22 +1247,36 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:13:55+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C991d83324cd86684
+    previous_evidence_ids:
+    - J1fe50e404cdd00dc
+    - Je991a59705619eab
+    - Je53d9db1d6fe0d18
+    - Jdb6ffcc8aff4acd1
+    - Jf6e070e079a79702
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Technical Volume 3 includes an appendices, general instructions, and forms section mapping statutory requirements
     and rule references such as BOCW and labor regulations to specific manual sections and statutory rules.
   evidence_ids:
-  - J0b3b9cfa6fc2c651
-  - J0f32d3e3d275fec4
-  - J10d4031db2152b11
+  - J165136baa4f93f8b
+  - J907fb52b761d937f
+  - J5aaaabe415618d69
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Caf4773dd40aa859c
+  id: C0ec5095790b5e3dd
   citations:
-  - id: J0b3b9cfa6fc2c651
+  - id: J165136baa4f93f8b
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1259,9 +1300,9 @@ claims:
       \             29.    Safety committee                       S – 38\",\n  \"starting_pdf_page\": 91\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J0f32d3e3d275fec4
+  - id: J907fb52b761d937f
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1284,9 +1325,9 @@ claims:
       \                        S – 34\",\n  \"starting_pdf_page\": 90\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J10d4031db2152b11
+  - id: J5aaaabe415618d69
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1313,24 +1354,36 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:20:35+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Caf4773dd40aa859c
+    previous_evidence_ids:
+    - J0b3b9cfa6fc2c651
+    - J0f32d3e3d275fec4
+    - J10d4031db2152b11
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Statutory mapping lists items such as safety committees, accommodation, creches, first-aid boxes, and canteens
     alongside their respective manual and statutory rule citations.
   evidence_ids:
-  - J0b3b9cfa6fc2c651
-  - J0f32d3e3d275fec4
-  - J119b40971c8f0da0
-  - Ja1520222c88733f8
-  - Je0d2783d7aab1989
+  - J165136baa4f93f8b
+  - J907fb52b761d937f
+  - J9c24dcfac1db7c8c
+  - Ja56824125b04301b
+  - J92404902fd70a205
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C955da47649f049b3
+  id: C228af01ce0b9fca4
   citations:
-  - id: J0b3b9cfa6fc2c651
+  - id: J165136baa4f93f8b
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1354,9 +1407,9 @@ claims:
       \             29.    Safety committee                       S – 38\",\n  \"starting_pdf_page\": 91\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J0f32d3e3d275fec4
+  - id: J907fb52b761d937f
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1379,9 +1432,9 @@ claims:
       \                        S – 34\",\n  \"starting_pdf_page\": 90\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J119b40971c8f0da0
+  - id: J9c24dcfac1db7c8c
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1402,9 +1455,9 @@ claims:
       : \"             22.   Creches                             S – 35\",\n  \"starting_pdf_page\": 91\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Ja1520222c88733f8
+  - id: Ja56824125b04301b
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1429,9 +1482,9 @@ claims:
       : 91\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Je0d2783d7aab1989
+  - id: J92404902fd70a205
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1457,22 +1510,36 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:20:35+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C955da47649f049b3
+    previous_evidence_ids:
+    - J0b3b9cfa6fc2c651
+    - J0f32d3e3d275fec4
+    - J119b40971c8f0da0
+    - Ja1520222c88733f8
+    - Je0d2783d7aab1989
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: source_quirk
   text: The parsed column data for Appendix 2 statutory requirements exhibits unseparated item and reference columns,
     requiring manual review of text fragments for items 5 through 40.
   evidence_ids:
-  - J0b3b9cfa6fc2c651
-  - J2e0dfc1e4a604a31
-  - Jdcacc07571473f16
+  - J165136baa4f93f8b
+  - J08e8960e7aaf3932
+  - Jaa4ef76c297e3b39
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C02717bb450dadb1e
+  id: Ccc491990d7cb0e1b
   citations:
-  - id: J0b3b9cfa6fc2c651
+  - id: J165136baa4f93f8b
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1496,9 +1563,9 @@ claims:
       \             29.    Safety committee                       S – 38\",\n  \"starting_pdf_page\": 91\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J2e0dfc1e4a604a31
+  - id: J08e8960e7aaf3932
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1522,9 +1589,9 @@ claims:
       \ of commencement and completion       S – 46\",\n  \"starting_pdf_page\": 90\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jdcacc07571473f16
+  - id: Jaa4ef76c297e3b39
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1548,21 +1615,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:20:35+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C02717bb450dadb1e
+    previous_evidence_ids:
+    - J0b3b9cfa6fc2c651
+    - J2e0dfc1e4a604a31
+    - Jdcacc07571473f16
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 appendices and general instructions outline statutory compliance references, checklists, and safety
     management requirements for BMRCL Tender Package P1.
   evidence_ids:
-  - J0407ae3458aee821
-  - J04bce54636e6a334
+  - J88b71ffd412589ab
+  - Jfdde59c1c7f3fde3
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca44f70f708a4cbf4
+  id: C8fc0509edba39654
   citations:
-  - id: J0407ae3458aee821
+  - id: J88b71ffd412589ab
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1584,9 +1663,9 @@ claims:
       : 92\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J04bce54636e6a334
+  - id: Jfdde59c1c7f3fde3
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1610,24 +1689,35 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:24:11+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca44f70f708a4cbf4
+    previous_evidence_ids:
+    - J0407ae3458aee821
+    - J04bce54636e6a334
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Appendix 2 lists statutory requirements, including items for lifting appliances, demolition, excavation,
     scaffolding, and medical examinations.
   evidence_ids:
-  - J0b269c50b915b7d4
-  - J1553e49cb8643b36
-  - J309551578d052bd4
-  - J8125e1d0ad7f61d0
-  - Jeb4d3e3f3b66abf3
+  - J9c071f8fd700e324
+  - J2b623b8650c38c2c
+  - J10a0f7450040ba50
+  - Jb332cb7fbf0c4d97
+  - Ja183dec60d2e4e13
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce25d6b26ac7f95ae
+  id: Ceb2c11cb9dbccca5
   citations:
-  - id: J0b269c50b915b7d4
+  - id: J9c071f8fd700e324
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1650,9 +1740,9 @@ claims:
       starting_pdf_page\": 92\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J1553e49cb8643b36
+  - id: J2b623b8650c38c2c
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1674,9 +1764,9 @@ claims:
       : 92\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J309551578d052bd4
+  - id: J10a0f7450040ba50
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1698,9 +1788,9 @@ claims:
       \ C – XIII; R – 119 to 168\",\n  \"starting_pdf_page\": 92\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J8125e1d0ad7f61d0
+  - id: Jb332cb7fbf0c4d97
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1722,9 +1812,9 @@ claims:
       : 92\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jeb4d3e3f3b66abf3
+  - id: Ja183dec60d2e4e13
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1748,22 +1838,36 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:24:11+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce25d6b26ac7f95ae
+    previous_evidence_ids:
+    - J0b269c50b915b7d4
+    - J1553e49cb8643b36
+    - J309551578d052bd4
+    - J8125e1d0ad7f61d0
+    - Jeb4d3e3f3b66abf3
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Technical Volume 3 includes Appendix No. 2, which outlines statutory safety, welfare, and occupational health
     requirements under the BOCW Act 1996, BOCW Rules 1998, and BOCWKR Rules 2006, along with Appendix No. 3 providing
     the Site SHE Plan template.
   evidence_ids:
-  - J70aab9e7390bb46a
-  - Jc8d4f9a64666db34
+  - J7f13cc4826d0b557
+  - Jba82fab0e13e68ee
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb6f9ecd8d3ed8599
+  id: C3ca10b8fa7ae3f84
   citations:
-  - id: J70aab9e7390bb46a
+  - id: J7f13cc4826d0b557
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1896,9 +2000,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jc8d4f9a64666db34
+  - id: Jba82fab0e13e68ee
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1938,22 +2042,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:28:37+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb6f9ecd8d3ed8599
+    previous_evidence_ids:
+    - J70aab9e7390bb46a
+    - Jc8d4f9a64666db34
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Appendix 2 catalogues 85 items in chronological order with primary importance given to sections of the BOCWA
     and secondary importance to rules, spanning establishment registration through inspector powers.
   evidence_ids:
-  - J70aab9e7390bb46a
-  - J1f6d27a8e03639ec
-  - J86f8f19b586d779b
+  - J7f13cc4826d0b557
+  - J50f9cf29ab86eed2
+  - J05b97a9004c77967
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cce69e759c59b462f
+  id: Ccda2239cd6f9f5ec
   citations:
-  - id: J70aab9e7390bb46a
+  - id: J7f13cc4826d0b557
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2086,9 +2201,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J1f6d27a8e03639ec
+  - id: J50f9cf29ab86eed2
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2226,9 +2341,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J86f8f19b586d779b
+  - id: J05b97a9004c77967
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2259,20 +2374,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:28:37+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cce69e759c59b462f
+    previous_evidence_ids:
+    - J70aab9e7390bb46a
+    - J1f6d27a8e03639ec
+    - J86f8f19b586d779b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: source_quirk
   text: Appendix 2 contains duplicate entries for medical examination for occupational health hazards, listed under
     both item numbers 76 and 82, which are preserved in the parsed records with their original item numbers.
   evidence_ids:
-  - Jdd1dba6e5d3176a1
+  - Ja834659360b92a73
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce03bd80932547d0c
+  id: Cc9ef398ec0bb5590
   citations:
-  - id: Jdd1dba6e5d3176a1
+  - id: Ja834659360b92a73
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2293,21 +2420,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:28:37+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce03bd80932547d0c
+    previous_evidence_ids:
+    - Jdd1dba6e5d3176a1
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3, Section I of the BMRCL tender documentation sets out the Appendices, General Instructions, and
     Forms accompanying the Safety, Health and Environment (SHE) Manual for Contract Package P1.
   evidence_ids:
-  - Jbf8658426466b994
-  - J69dc478ccecede37
+  - J2f2eb2da312f8cb3
+  - J902e694ae21161e1
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1c25483d112125df
+  id: Ca50a7e06d2d9d295
   citations:
-  - id: Jbf8658426466b994
+  - id: J2f2eb2da312f8cb3
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2417,9 +2554,9 @@ claims:
       \      ],\n      \"block_number\": 30,\n      \"text\": \"277\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J69dc478ccecede37
+  - id: J902e694ae21161e1
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2490,21 +2627,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:32:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1c25483d112125df
+    previous_evidence_ids:
+    - Jbf8658426466b994
+    - J69dc478ccecede37
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Appendix No. 3 establishes the required structure for the Site SHE Plan, covering 22 distinct topical sections
     ranging from Project Highlights to Visitors and Security arrangements.
   evidence_ids:
-  - Jbf8658426466b994
-  - J69dc478ccecede37
+  - J2f2eb2da312f8cb3
+  - J902e694ae21161e1
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cdac05b43d9af869f
+  id: Cb87369802ce4801f
   citations:
-  - id: Jbf8658426466b994
+  - id: J2f2eb2da312f8cb3
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2614,9 +2762,9 @@ claims:
       \      ],\n      \"block_number\": 30,\n      \"text\": \"277\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J69dc478ccecede37
+  - id: J902e694ae21161e1
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2687,22 +2835,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:32:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cdac05b43d9af869f
+    previous_evidence_ids:
+    - Jbf8658426466b994
+    - J69dc478ccecede37
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: relation
   text: Appendix 3 Site SHE Plan details individual responsibilities for various project roles including Project
     Manager, Construction Manager, Construction Supervisors, SHE Committee Members, SHE In-charge, Site Engineers,
     First Line Supervisors, and Sub-contractors.
   evidence_ids:
-  - Jbf8658426466b994
-  - Jc11bf4223246f5b3
+  - J2f2eb2da312f8cb3
+  - J226a554a117a69be
   relation_type: references
   explicitness: explicit
-  from_id: Jbf8658426466b994
-  to_id: Jc11bf4223246f5b3
-  id: Cfb2198587c50f9be
+  from_id: J2f2eb2da312f8cb3
+  to_id: J226a554a117a69be
+  id: Ce3066f824db7a730
   citations:
-  - id: Jbf8658426466b994
+  - id: J2f2eb2da312f8cb3
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2812,9 +2971,9 @@ claims:
       \      ],\n      \"block_number\": 30,\n      \"text\": \"277\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jc11bf4223246f5b3
+  - id: J226a554a117a69be
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2863,21 +3022,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:32:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cfb2198587c50f9be
+    previous_evidence_ids:
+    - Jbf8658426466b994
+    - Jc11bf4223246f5b3
+    previous_from_id: Jbf8658426466b994
+    previous_to_id: Jc11bf4223246f5b3
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: relation
   text: The Site SHE Plan mandates specific safe work procedures under Topic 14, including work at height, structural
     steel erection, launching of segments, excavation, and abrasive blasting.
   evidence_ids:
-  - J69dc478ccecede37
-  - Ja64f69c31e66f2f3
+  - J902e694ae21161e1
+  - Jce700c9dd803fca8
   relation_type: references
   explicitness: explicit
-  from_id: J69dc478ccecede37
-  to_id: Ja64f69c31e66f2f3
-  id: C439dc8cd129aad30
+  from_id: J902e694ae21161e1
+  to_id: Jce700c9dd803fca8
+  id: C1d570d9d666197df
   citations:
-  - id: J69dc478ccecede37
+  - id: J902e694ae21161e1
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2946,9 +3116,9 @@ claims:
       \      ],\n      \"block_number\": 14,\n      \"text\": \"278\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Ja64f69c31e66f2f3
+  - id: Jce700c9dd803fca8
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3010,21 +3180,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:32:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C439dc8cd129aad30
+    previous_evidence_ids:
+    - J69dc478ccecede37
+    - Ja64f69c31e66f2f3
+    previous_from_id: J69dc478ccecede37
+    previous_to_id: Ja64f69c31e66f2f3
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: source_quirk
   text: The parsed JSON records for Appendix 3 indicate layout structures and page numbering spanning PDF pages
     93 and 94 (Section pages 89 and 90 of 114 within the SHE manual).
   evidence_ids:
-  - Jbf8658426466b994
-  - J69dc478ccecede37
+  - J2f2eb2da312f8cb3
+  - J902e694ae21161e1
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C193f34646344ee19
+  id: C88581d0867654b61
   citations:
-  - id: Jbf8658426466b994
+  - id: J2f2eb2da312f8cb3
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3134,9 +3315,9 @@ claims:
       \      ],\n      \"block_number\": 30,\n      \"text\": \"277\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J69dc478ccecede37
+  - id: J902e694ae21161e1
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3207,22 +3388,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:32:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C193f34646344ee19
+    previous_evidence_ids:
+    - Jbf8658426466b994
+    - J69dc478ccecede37
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 appendices and forms include workplace guidelines such as the HIV/AIDS Prevention and Control Policy
     for contractor workmen (Appendix 4) and standard administrative forms such as the Formation of Site SHE Committee
     (Form SF/001).
   evidence_ids:
-  - J045457175f78f13f
-  - J81bb5479e7edcd11
+  - Jcb88a9688b005df4
+  - J6af8ef325f51b6bf
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C504a91e51beee8ef
+  id: Cce8598afe591953a
   citations:
-  - id: J045457175f78f13f
+  - id: Jcb88a9688b005df4
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3282,9 +3474,9 @@ claims:
       : 27,\n      \"text\": \"\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J81bb5479e7edcd11
+  - id: J6af8ef325f51b6bf
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3498,24 +3690,35 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:35:51+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C504a91e51beee8ef
+    previous_evidence_ids:
+    - J045457175f78f13f
+    - J81bb5479e7edcd11
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Appendix 4 outlines core workplace policy measures for HIV/AIDS prevention among contractor workmen, including
     IEC packages, institutional capacity building, peer educators, and condom social marketing.
   evidence_ids:
-  - J0a08aa7ed3f91b53
-  - J0b136ff9b89b78fb
-  - J43c577773652110c
-  - Jbc99579295e5de50
-  - Jcf45b9428a82e0cb
+  - J07377a90d718da09
+  - J2e82fd42ed65481a
+  - J218aff3f80078645
+  - Jd1766552d16e7154
+  - J62bbeb6ab33a9556
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd7e8dc3b5a3437c0
+  id: C9b455fe6d5fc7dee
   citations:
-  - id: J0a08aa7ed3f91b53
+  - id: J07377a90d718da09
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3543,9 +3746,9 @@ claims:
       : \"pending_manual_review\",\n  \"source_number\": null\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J0b136ff9b89b78fb
+  - id: J2e82fd42ed65481a
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3570,9 +3773,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J43c577773652110c
+  - id: J218aff3f80078645
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3596,9 +3799,9 @@ claims:
       \ null\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jbc99579295e5de50
+  - id: Jd1766552d16e7154
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3627,9 +3830,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jcf45b9428a82e0cb
+  - id: J62bbeb6ab33a9556
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3729,20 +3932,34 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:35:51+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd7e8dc3b5a3437c0
+    previous_evidence_ids:
+    - J0a08aa7ed3f91b53
+    - J0b136ff9b89b78fb
+    - J43c577773652110c
+    - Jbc99579295e5de50
+    - Jcf45b9428a82e0cb
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Form SF/001 establishes the site Safety, Health and Environment (SHE) Committee format, detailing monthly
     periodicity, agenda circulation rules, and minute distribution requirements.
   evidence_ids:
-  - J81bb5479e7edcd11
+  - J6af8ef325f51b6bf
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1719d8fad5dfb339
+  id: C2245979737bf53af
   citations:
-  - id: J81bb5479e7edcd11
+  - id: J6af8ef325f51b6bf
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3956,26 +4173,36 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:35:51+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1719d8fad5dfb339
+    previous_evidence_ids:
+    - J81bb5479e7edcd11
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Safety, Health and Environment Manual Appendices, General Instructions and Forms contain mandatory instructions
     on staffing requirements based on contract value, audio-visual equipment minimum standards, accident investigation
     kit contents, and standard committee meeting forms.
   evidence_ids:
-  - J1fa418177d0b9bcc
-  - J6e5fc013fe3af0f3
-  - J807862a97e7fd333
-  - J929fdfa93d91dfec
-  - Jad6a3420e009687e
-  - Jb23d7ac8ecea82aa
+  - J5d8b8f88c0ed7323
+  - J55e2d9e25ef00019
+  - J5543c388e0459bf6
+  - J9cd3169689d1cf84
+  - J8d30ce4ccd19afe5
+  - J71183e109c431b8d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C71545cc12cedc323
+  id: C11835260299a25c9
   citations:
-  - id: J1fa418177d0b9bcc
+  - id: J5d8b8f88c0ed7323
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4007,9 +4234,9 @@ claims:
       layout_review_status: pending
     scope_note: One complete PDF-page fragment of a general instruction. Inspect adjacent fragments for continuations;
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
-  - id: J6e5fc013fe3af0f3
+  - id: J55e2d9e25ef00019
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4080,9 +4307,9 @@ claims:
       layout_review_status: pending
     scope_note: One complete PDF-page fragment of a general instruction. Inspect adjacent fragments for continuations;
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
-  - id: J807862a97e7fd333
+  - id: J5543c388e0459bf6
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4141,9 +4368,9 @@ claims:
       layout_review_status: pending
     scope_note: One complete PDF-page fragment of a general instruction. Inspect adjacent fragments for continuations;
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
-  - id: J929fdfa93d91dfec
+  - id: J9cd3169689d1cf84
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4519,9 +4746,9 @@ claims:
       ,\n  \"title\": \"Minutes of SHE Committee Meeting\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jad6a3420e009687e
+  - id: J8d30ce4ccd19afe5
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4569,9 +4796,9 @@ claims:
       layout_review_status: pending
     scope_note: One complete PDF-page fragment of a general instruction. Inspect adjacent fragments for continuations;
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
-  - id: Jb23d7ac8ecea82aa
+  - id: J71183e109c431b8d
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4642,20 +4869,35 @@ claims:
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
   created_at: '2026-10-31T15:38:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C71545cc12cedc323
+    previous_evidence_ids:
+    - J1fa418177d0b9bcc
+    - J6e5fc013fe3af0f3
+    - J807862a97e7fd333
+    - J929fdfa93d91dfec
+    - Jad6a3420e009687e
+    - Jb23d7ac8ecea82aa
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: General Instruction BMRC/SHE/CEO/001 establishes suggestive manpower requirements for the SHE organization
     categorized by awarded contract value ranging from upto 2 Cr to more than 250 Cr.
   evidence_ids:
-  - Jb23d7ac8ecea82aa
+  - J71183e109c431b8d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8625007a4c6ba331
+  id: Ce26a9afda7f8bd6c
   citations:
-  - id: Jb23d7ac8ecea82aa
+  - id: J71183e109c431b8d
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4726,21 +4968,31 @@ claims:
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
   created_at: '2026-10-31T15:38:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8625007a4c6ba331
+    previous_evidence_ids:
+    - Jb23d7ac8ecea82aa
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: General Instruction BMRC/SHE/CEO/002 specifies minimum qualifications and experience for safety, electrical,
     environmental, traffic engineering, and occupational health professionals.
   evidence_ids:
-  - J6e5fc013fe3af0f3
-  - Jad6a3420e009687e
+  - J55e2d9e25ef00019
+  - J8d30ce4ccd19afe5
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7015c6dd0a1bade7
+  id: C780b96dd020408a4
   citations:
-  - id: J6e5fc013fe3af0f3
+  - id: J55e2d9e25ef00019
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4811,9 +5063,9 @@ claims:
       layout_review_status: pending
     scope_note: One complete PDF-page fragment of a general instruction. Inspect adjacent fragments for continuations;
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
-  - id: Jad6a3420e009687e
+  - id: J8d30ce4ccd19afe5
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4863,20 +5115,31 @@ claims:
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
   created_at: '2026-10-31T15:38:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7015c6dd0a1bade7
+    previous_evidence_ids:
+    - J6e5fc013fe3af0f3
+    - Jad6a3420e009687e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: General Instruction BMRC/SHE/CEO/003 categorizes contracts into Groups A (upto 25 Cr), B (upto 100 Cr),
     C (upto 250 Cr), and D (more than 250 Cr) for the purpose of minimum audio-visual and monitoring equipment requirements.
   evidence_ids:
-  - J807862a97e7fd333
+  - J5543c388e0459bf6
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C0ff71cdb674b74a4
+  id: Ce8ac049e0a11c563
   citations:
-  - id: J807862a97e7fd333
+  - id: J5543c388e0459bf6
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4937,21 +5200,31 @@ claims:
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
   created_at: '2026-10-31T15:38:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C0ff71cdb674b74a4
+    previous_evidence_ids:
+    - J807862a97e7fd333
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Accident investigation kits must contain chalk for marking, measuring tapes (flexible 2m, metal foot-long,
     and 30m metal tape), equipment tags, multipurpose flashlight, 20m barrier tape, accident investigation forms/checklists,
     witness recording paper, and an emergency phone numbers list.
   evidence_ids:
-  - J1fa418177d0b9bcc
+  - J5d8b8f88c0ed7323
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3ac3861aece6dcc8
+  id: C4df1adee16e91871
   citations:
-  - id: J1fa418177d0b9bcc
+  - id: J5d8b8f88c0ed7323
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4985,20 +5258,30 @@ claims:
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
   created_at: '2026-10-31T15:38:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3ac3861aece6dcc8
+    previous_evidence_ids:
+    - J1fa418177d0b9bcc
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Form SF/002 prescribes the mandatory template for Minutes of SHE Committee Meetings, tracking contract details,
     members present/absent, report distribution, and a ten-item discussion agenda.
   evidence_ids:
-  - J929fdfa93d91dfec
+  - J9cd3169689d1cf84
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C0986b915dbe4230f
+  id: C30583016d7cc09e7
   citations:
-  - id: J929fdfa93d91dfec
+  - id: J9cd3169689d1cf84
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5376,21 +5659,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:38:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C0986b915dbe4230f
+    previous_evidence_ids:
+    - J929fdfa93d91dfec
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: General Instruction BMRC/SHE/CEO/004 details the required topics for the first day at work SHE orientation
     training of workmen, covering hazard identification, personal protective equipment, health, contractor's duties,
     and employee's duties.
   evidence_ids:
-  - J11ff340449438ae9
+  - J7aa6f0503da90d3d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C82d497014bb3e050
+  id: Cabd99971ac71ecef
   citations:
-  - id: J11ff340449438ae9
+  - id: J7aa6f0503da90d3d
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5627,21 +5920,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:41:58+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C82d497014bb3e050
+    previous_evidence_ids:
+    - J11ff340449438ae9
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: General Instruction BMRC/SHE/CEO/005 specifies the ID Card format (85 mm x 55mm) for BMRC Project Phase
     I, detailing the required front and back side information, property clause, replacement charges for loss or
     theft, and the return address.
   evidence_ids:
-  - Jb9832ed62c00c791
+  - J62b06092c3412d6c
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf5043ffa6062ce33
+  id: C7aa1c50327a00136
   citations:
-  - id: Jb9832ed62c00c791
+  - id: J62b06092c3412d6c
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5845,22 +6148,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:41:58+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf5043ffa6062ce33
+    previous_evidence_ids:
+    - Jb9832ed62c00c791
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: General Instruction BMRC/SHE/CEO/006 outlines comprehensive Safety, Health and Environment (SHE) training
     details and topic areas specifically designed for managers and supervisors, covering law and safety, policy
     and administration, accident prevention, site inspection, housekeeping, health, personal protective equipment,
     electricity, and heavy machinery/equipment operations.
   evidence_ids:
-  - J172f1016df5ff05c
+  - Jbda53a94128dc204
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce66675970f5ea78c
+  id: C82fc1e13976bebf8
   citations:
-  - id: J172f1016df5ff05c
+  - id: Jbda53a94128dc204
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6270,21 +6583,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:45:21+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce66675970f5ea78c
+    previous_evidence_ids:
+    - J172f1016df5ff05c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: General Instruction BMRC/SHE/CEO/006 itemizes twenty specific management and supervisory SHE training subjects
     ranging from statutory requirements and hazard identification to specialized machinery, scaffolding, crane lift
     plans, lifting tackles, fire prevention, and safety communication.
   evidence_ids:
-  - J172f1016df5ff05c
+  - Jbda53a94128dc204
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7f49ba327e7b41ae
+  id: C43daf1e80af2b3ab
   citations:
-  - id: J172f1016df5ff05c
+  - id: Jbda53a94128dc204
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6694,22 +7017,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:45:21+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7f49ba327e7b41ae
+    previous_evidence_ids:
+    - J172f1016df5ff05c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: General Instruction BMRC/SHE/CEO/007 establishes the comprehensive SHE Training Matrix, which maps distinct
     safety training modules and mandatory competencies against various project roles including Project Manager,
     Senior Construction Managers, Quality Manager, Planning Engineer, Construction Managers, Construction Supervisors,
     Foremen, Operators, and various specialist trades.
   evidence_ids:
-  - Jade8a5443a3ec982
+  - J0ceb357b2c36eff1
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7b1c66407b1e46f0
+  id: Caa8cb09dbfc36a31
   citations:
-  - id: Jade8a5443a3ec982
+  - id: J0ceb357b2c36eff1
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6795,20 +7128,30 @@ claims:
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
   created_at: '2026-10-31T15:45:21+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7b1c66407b1e46f0
+    previous_evidence_ids:
+    - Jade8a5443a3ec982
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: General Instruction BMRC/SHE/CEO/008 outlines the calendar of days to be observed for creating SHE awareness
     throughout the contract lifecycle.
   evidence_ids:
-  - J4c84cba0ce5576de
+  - Jfd626157ee14f95e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd8d73aa5454cce8e
+  id: Cbe1c984d6c055c4e
   citations:
-  - id: J4c84cba0ce5576de
+  - id: Jfd626157ee14f95e
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6992,23 +7335,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:47:36+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd8d73aa5454cce8e
+    previous_evidence_ids:
+    - J4c84cba0ce5576de
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: General Instruction BMRC/SHE/CEO/009 establishes contract categorization groups based on initial awarded
     contract values up to 25 Cr (Group A), up to 100 Cr (Group B), up to 250 Cr (Group C), and more than 250 Cr
     (Group D), defining minimum quantities for posters, signages, and videos.
   evidence_ids:
-  - J30f2390f6433285e
-  - J52538f520778df48
-  - Jf5d8c04f6860a43d
+  - J08ed134aa962ffed
+  - Jcef9c41367455b19
+  - Jec672c1aa0b63fd8
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cde594ef70bb34ec9
+  id: C81d814fbc96462c3
   citations:
-  - id: J30f2390f6433285e
+  - id: J08ed134aa962ffed
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7049,9 +7402,9 @@ claims:
       layout_review_status: pending
     scope_note: One complete PDF-page fragment of a general instruction. Inspect adjacent fragments for continuations;
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
-  - id: J52538f520778df48
+  - id: Jcef9c41367455b19
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7106,9 +7459,9 @@ claims:
       layout_review_status: pending
     scope_note: One complete PDF-page fragment of a general instruction. Inspect adjacent fragments for continuations;
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
-  - id: Jf5d8c04f6860a43d
+  - id: Jec672c1aa0b63fd8
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7163,23 +7516,35 @@ claims:
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
   created_at: '2026-10-31T15:47:36+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cde594ef70bb34ec9
+    previous_evidence_ids:
+    - J30f2390f6433285e
+    - J52538f520778df48
+    - Jf5d8c04f6860a43d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: General Instruction BMRC/SHE/CEO/010 lists approved external experts and agencies for SHE services such
     as external audits, technical training, medical facilities, and ISO certification.
   evidence_ids:
-  - Jd56bf223e6ad40f8
-  - Je228432442c91b0b
-  - Jeac7250033ff4e35
-  - Jfabb08a8c58bac22
+  - Jaf068180ccbb4a20
+  - J569daf0f255d27c3
+  - J2dcd50f5c97a42c4
+  - Jf454b05fcabe9de3
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C99041ab8b4de9548
+  id: Ca27f9e4060746dbd
   citations:
-  - id: Jd56bf223e6ad40f8
+  - id: Jaf068180ccbb4a20
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7238,9 +7603,9 @@ claims:
       layout_review_status: pending
     scope_note: One complete PDF-page fragment of a general instruction. Inspect adjacent fragments for continuations;
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
-  - id: Je228432442c91b0b
+  - id: J569daf0f255d27c3
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7291,9 +7656,9 @@ claims:
       layout_review_status: pending
     scope_note: One complete PDF-page fragment of a general instruction. Inspect adjacent fragments for continuations;
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
-  - id: Jeac7250033ff4e35
+  - id: J2dcd50f5c97a42c4
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7340,9 +7705,9 @@ claims:
       layout_review_status: pending
     scope_note: One complete PDF-page fragment of a general instruction. Inspect adjacent fragments for continuations;
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
-  - id: Jfabb08a8c58bac22
+  - id: Jf454b05fcabe9de3
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7394,22 +7759,35 @@ claims:
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
   created_at: '2026-10-31T15:47:36+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C99041ab8b4de9548
+    previous_evidence_ids:
+    - Jd56bf223e6ad40f8
+    - Je228432442c91b0b
+    - Jeac7250033ff4e35
+    - Jfabb08a8c58bac22
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The SHE Manual Appendices and General Instructions specify operational safety parameters, including lighting
     requirements under General Instruction BMRC/SHE/CEO/011 and warning sign standards under BMRC/SHE/CEO/012.
   evidence_ids:
-  - J362b2908805ce8ff
-  - J5b6b53d85808fd05
-  - Sd70d1b402e4e8670
+  - J35617df3736a61fc
+  - J00b4a9a2b7384dcb
+  - S7706cbc0b0a54bed
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3d2921a1e2f03f66
+  id: C3e5d0884c9935d38
   citations:
-  - id: J362b2908805ce8ff
+  - id: J35617df3736a61fc
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7684,9 +8062,9 @@ claims:
       \ 35,\n          \"text\": \"298\\n\"\n        }\n      ]\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5b6b53d85808fd05
+  - id: J00b4a9a2b7384dcb
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7770,9 +8148,9 @@ claims:
       \n        }\n      ]\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Sd70d1b402e4e8670
+  - id: S7706cbc0b0a54bed
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: 'General Instruction: BMRC/SHE/CEO/012 — Warning Traffic Sign'
     source_document: Vol3DLNP1.pdf
     pdf_pages:
@@ -7782,19 +8160,31 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T15:51:02+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3d2921a1e2f03f66
+    previous_evidence_ids:
+    - J362b2908805ce8ff
+    - J5b6b53d85808fd05
+    - Sd70d1b402e4e8670
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Administrative areas require a minimum luminance of 540 lux (50 lm/ft2) as per General Instruction BMRC/SHE/CEO/011.
   evidence_ids:
-  - J362b2908805ce8ff
+  - J35617df3736a61fc
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbb8aaacd9eee5723
+  id: C444ea9e7dbe6d60c
   citations:
-  - id: J362b2908805ce8ff
+  - id: J35617df3736a61fc
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8071,21 +8461,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:51:02+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbb8aaacd9eee5723
+    previous_evidence_ids:
+    - J362b2908805ce8ff
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: General indoor construction areas require 55 lux (5 lm/ft2), general outdoor areas require 33 lux (3 lm/ft2),
     and tunnel/underground work areas require 55 lux (5 lm/ft2) with a minimum of 110 lux at the tunnel and shaft
     heading during drilling, mucking, and scaling.
   evidence_ids:
-  - J362b2908805ce8ff
+  - J35617df3736a61fc
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cffa6fc8908b4dbe4
+  id: C484af10a36f54355
   citations:
-  - id: J362b2908805ce8ff
+  - id: J35617df3736a61fc
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8362,20 +8762,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:51:02+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cffa6fc8908b4dbe4
+    previous_evidence_ids:
+    - J362b2908805ce8ff
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Access ways (exit ways, walkways, ladders, stairs) and mechanical/electrical equipment rooms require 110
     lux (10 lm/ft2).
   evidence_ids:
-  - J362b2908805ce8ff
+  - J35617df3736a61fc
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C16fc793f9a7e97b9
+  id: Cb2cce47a4f8107d1
   citations:
-  - id: J362b2908805ce8ff
+  - id: J35617df3736a61fc
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8652,19 +9062,29 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:51:02+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C16fc793f9a7e97b9
+    previous_evidence_ids:
+    - J362b2908805ce8ff
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Laboratories, fine details workshop areas, and administrative spaces require 540 lux (50 lm/ft2).
   evidence_ids:
-  - J362b2908805ce8ff
+  - J35617df3736a61fc
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5a1616b8e35ba33e
+  id: Cf0da88dc46d64a46
   citations:
-  - id: J362b2908805ce8ff
+  - id: J35617df3736a61fc
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8941,21 +9361,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:51:02+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5a1616b8e35ba33e
+    previous_evidence_ids:
+    - J362b2908805ce8ff
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor is required to follow all safety guidelines, rules, regulations, and codes, and must prepare
     a detailed method statement incorporating a job safety analysis for any complicated, hazardous, or high-risk
     work, securing prior approval from the Employer before commencing execution.
   evidence_ids:
-  - J5df0d301a256f601
+  - Jb0b666b05284e7b7
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cdef866cbf14ffc4d
+  id: C2eb982df4fc49671
   citations:
-  - id: J5df0d301a256f601
+  - id: Jb0b666b05284e7b7
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8990,20 +9420,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T11:12:36+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cdef866cbf14ffc4d
+    previous_evidence_ids:
+    - J5df0d301a256f601
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contractors must obtain formal approval of their detailed method statement and job safety analysis from
     the Employer prior to executing complicated or high-risk operations.
   evidence_ids:
-  - J5df0d301a256f601
+  - Jb0b666b05284e7b7
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ccef2573010f86e18
+  id: Cdbbab6548e5c68d1
   citations:
-  - id: J5df0d301a256f601
+  - id: Jb0b666b05284e7b7
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9038,13 +9478,23 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T11:12:36+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ccef2573010f86e18
+    previous_evidence_ids:
+    - J5df0d301a256f601
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: concepts/amendment_sequence_and_conflicts.md
   title: Amendment Sequence and Unresolved Source Conflicts
   evidence_ids:
-  - J81bb5479e7edcd11
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - J6af8ef325f51b6bf
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Safety, Health and Environment Manual – Appendices, General Instructions and Forms Overview
@@ -9054,182 +9504,182 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - Volume 3, Section I Appendices, General Instructions and Forms provides mandatory contract attachments for BMRCL Tender Package P1, including the Safety Memorandum of Understanding (Appendix 1), statutory BOCW compliance lists (Appendix 2), and general instructions.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118; quotation `S1b337276fee87a48`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 88; quotation `Jce99430952d4c8c7`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/introduction`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118; quotation `S916bccd27f957a6c`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 88; quotation `Jf94482427d1e2fd1`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/introduction`.
 
 - Technical Volume 3 includes an appendices, general instructions, and forms section mapping statutory requirements and rule references such as BOCW and labor regulations to specific manual sections and statutory rules.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `J0b3b9cfa6fc2c651`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/28`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `J0f32d3e3d275fec4`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/20`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `J10d4031db2152b11`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/30`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `J165136baa4f93f8b`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/28`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `J907fb52b761d937f`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/20`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `J5aaaabe415618d69`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/30`.
 
 - Volume 3 appendices and general instructions outline statutory compliance references, checklists, and safety management requirements for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `J0407ae3458aee821`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/58`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `J04bce54636e6a334`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/53`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `J88b71ffd412589ab`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/58`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `Jfdde59c1c7f3fde3`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/53`.
 
 - Technical Volume 3 includes Appendix No. 2, which outlines statutory safety, welfare, and occupational health requirements under the BOCW Act 1996, BOCW Rules 1998, and BOCWKR Rules 2006, along with Appendix No. 3 providing the Site SHE Plan template.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `J70aab9e7390bb46a`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/source_page_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 93; quotation `Jc8d4f9a64666db34`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/introduction_and_template_labels`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `J7f13cc4826d0b557`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 93; quotation `Jba82fab0e13e68ee`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/introduction_and_template_labels`.
 
 - Volume 3, Section I of the BMRCL tender documentation sets out the Appendices, General Instructions, and Forms accompanying the Safety, Health and Environment (SHE) Manual for Contract Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 93; quotation `Jbf8658426466b994`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/source_page_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 94; quotation `J69dc478ccecede37`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/source_page_context/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 93; quotation `J2f2eb2da312f8cb3`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 94; quotation `J902e694ae21161e1`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/source_page_context/1`.
 
 - Volume 3 appendices and forms include workplace guidelines such as the HIV/AIDS Prevention and Control Policy for contractor workmen (Appendix 4) and standard administrative forms such as the Formation of Site SHE Committee (Form SF/001).
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 95; quotation `J045457175f78f13f`. JSON: `parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json#/introduction_quote_and_attribution`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 116; quotation `J81bb5479e7edcd11`. JSON: `parsed_json/vol3/forms/she_committee_forms.json#/forms/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 95; quotation `Jcb88a9688b005df4`. JSON: `parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json#/introduction_quote_and_attribution`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 116; quotation `J6af8ef325f51b6bf`. JSON: `parsed_json/vol3/forms/she_committee_forms.json#/forms/0`.
 
 - The Safety, Health and Environment Manual Appendices, General Instructions and Forms contain mandatory instructions on staffing requirements based on contract value, audio-visual equipment minimum standards, accident investigation kit contents, and standard committee meeting forms.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 100; quotation `J1fa418177d0b9bcc`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/2/fragments/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 97; quotation `J6e5fc013fe3af0f3`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/1/fragments/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 99; quotation `J807862a97e7fd333`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/2/fragments/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 117, 118; quotation `J929fdfa93d91dfec`. JSON: `parsed_json/vol3/forms/she_committee_forms.json#/forms/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 98; quotation `Jad6a3420e009687e`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/1/fragments/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 96; quotation `Jb23d7ac8ecea82aa`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/0/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 100; quotation `J5d8b8f88c0ed7323`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/2/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 97; quotation `J55e2d9e25ef00019`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/1/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 99; quotation `J5543c388e0459bf6`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/2/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 117, 118; quotation `J9cd3169689d1cf84`. JSON: `parsed_json/vol3/forms/she_committee_forms.json#/forms/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 98; quotation `J8d30ce4ccd19afe5`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/1/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 96; quotation `J71183e109c431b8d`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/0/fragments/0`.
 
 - General Instruction BMRC/SHE/CEO/004 details the required topics for the first day at work SHE orientation training of workmen, covering hazard identification, personal protective equipment, health, contractor's duties, and employee's duties.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 101; quotation `J11ff340449438ae9`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 101; quotation `J7aa6f0503da90d3d`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/3`.
 
 - General Instruction BMRC/SHE/CEO/005 specifies the ID Card format (85 mm x 55mm) for BMRC Project Phase I, detailing the required front and back side information, property clause, replacement charges for loss or theft, and the return address.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 102; quotation `Jb9832ed62c00c791`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 102; quotation `J62b06092c3412d6c`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/4`.
 
 - General Instruction BMRC/SHE/CEO/006 outlines comprehensive Safety, Health and Environment (SHE) training details and topic areas specifically designed for managers and supervisors, covering law and safety, policy and administration, accident prevention, site inspection, housekeeping, health, personal protective equipment, electricity, and heavy machinery/equipment operations.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 103, 104; quotation `J172f1016df5ff05c`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 103, 104; quotation `Jbda53a94128dc204`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/5`.
 
 - General Instruction BMRC/SHE/CEO/007 establishes the comprehensive SHE Training Matrix, which maps distinct safety training modules and mandatory competencies against various project roles including Project Manager, Senior Construction Managers, Quality Manager, Planning Engineer, Construction Managers, Construction Supervisors, Foremen, Operators, and various specialist trades.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 105; quotation `Jade8a5443a3ec982`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/6/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 105; quotation `J0ceb357b2c36eff1`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/6/fragments/0`.
 
 - General Instruction BMRC/SHE/CEO/008 outlines the calendar of days to be observed for creating SHE awareness throughout the contract lifecycle.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 106; quotation `J4c84cba0ce5576de`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 106; quotation `Jfd626157ee14f95e`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/7`.
 
 - General Instruction BMRC/SHE/CEO/010 lists approved external experts and agencies for SHE services such as external audits, technical training, medical facilities, and ISO certification.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 111; quotation `Jd56bf223e6ad40f8`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/9/fragments/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 112; quotation `Je228432442c91b0b`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/9/fragments/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 110; quotation `Jeac7250033ff4e35`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/9/fragments/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 113; quotation `Jfabb08a8c58bac22`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/9/fragments/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 111; quotation `Jaf068180ccbb4a20`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/9/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 112; quotation `J569daf0f255d27c3`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/9/fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 110; quotation `J2dcd50f5c97a42c4`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/9/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 113; quotation `Jf454b05fcabe9de3`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/9/fragments/3`.
 
 - The SHE Manual Appendices and General Instructions specify operational safety parameters, including lighting requirements under General Instruction BMRC/SHE/CEO/011 and warning sign standards under BMRC/SHE/CEO/012.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 114; quotation `J362b2908805ce8ff`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/10`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 115; quotation `J5b6b53d85808fd05`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/11`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#General Instruction: BMRC/SHE/CEO/012 — Warning Traffic Sign|General Instruction: BMRC/SHE/CEO/012 — Warning Traffic Sign]]; `Vol3DLNP1.pdf`; PDF page(s) 115; quotation `Sd70d1b402e4e8670`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 114; quotation `J35617df3736a61fc`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 115; quotation `J00b4a9a2b7384dcb`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#General Instruction: BMRC/SHE/CEO/012 — Warning Traffic Sign|General Instruction: BMRC/SHE/CEO/012 — Warning Traffic Sign]]; `Vol3DLNP1.pdf`; PDF page(s) 115; quotation `S7706cbc0b0a54bed`.
 
 - The Contractor is required to follow all safety guidelines, rules, regulations, and codes, and must prepare a detailed method statement incorporating a job safety analysis for any complicated, hazardous, or high-risk work, securing prior approval from the Employer before commencing execution.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 89; quotation `J5df0d301a256f601`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 89; quotation `Jb0b666b05284e7b7`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/clauses/3`.
 
 ## Key Parameters and Source Statements
 
 - Appendix 1 is a mandatory Memorandum of Understanding (MoU) executed between BMRC (Employer) and the Contractor regarding safe execution, committing the contractor to comply with all BMRCL SHE conditions, manuals, BOCW acts, electricity rules, and unilateral employer safety amendments without prior notice.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 88; quotation `Jce99430952d4c8c7`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/introduction`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 88; quotation `J3142e01c4635fda9`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/clauses/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 88; quotation `J1d05f6f56af1cf0c`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/clauses/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 88, 89; quotation `J8768d436d258957e`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/clauses/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 89; quotation `J486a7208e1421ab8`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/source_page_context/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 89; quotation `J181fe8af9d771e84`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/clauses/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 89; quotation `J070f4db006b7a992`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/execution_and_signatures`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 88; quotation `Jf94482427d1e2fd1`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/introduction`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 88; quotation `J931fa0d19d6dcef3`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 88; quotation `J48e9758f724fa34f`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 88, 89; quotation `J14aea9aac5f6fa2c`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 89; quotation `J3b66e539b4efbac6`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/source_page_context/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 89; quotation `J5f9119043b65fd8d`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/clauses/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 89; quotation `J94c6ce7b195eabe9`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/execution_and_signatures`.
 
 - Appendix 2 compiles safety, welfare, and occupational health requirements under the BOCW Act 1996, Rules 1998, and Karnataka Rules 2006, itemizing establishment registration, display of certification, working hours, and overtime registers.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `J1fe50e404cdd00dc`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/introduction_and_reference_legend`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `Je991a59705619eab`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `Je53d9db1d6fe0d18`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `Jdb6ffcc8aff4acd1`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `Jf6e070e079a79702`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `J5ef0cde56d952f3d`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/introduction_and_reference_legend`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `Jb82dbba20320449e`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `Ja1ed9cbf9ff3dffe`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `J5751dcdf1f5ef545`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `J2f999dbfd7c35f34`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/3`.
 
 - Statutory mapping lists items such as safety committees, accommodation, creches, first-aid boxes, and canteens alongside their respective manual and statutory rule citations.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `J0b3b9cfa6fc2c651`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/28`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `J0f32d3e3d275fec4`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/20`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `J119b40971c8f0da0`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/21`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `Ja1520222c88733f8`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/22`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `Je0d2783d7aab1989`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/23`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `J165136baa4f93f8b`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/28`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `J907fb52b761d937f`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/20`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `J9c24dcfac1db7c8c`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/21`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `Ja56824125b04301b`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/22`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `J92404902fd70a205`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/23`.
 
 - Appendix 2 lists statutory requirements, including items for lifting appliances, demolition, excavation, scaffolding, and medical examinations.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `J0b269c50b915b7d4`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/75`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `J1553e49cb8643b36`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/73`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `J309551578d052bd4`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/63`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `J8125e1d0ad7f61d0`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/70`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `Jeb4d3e3f3b66abf3`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/62`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `J9c071f8fd700e324`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/75`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `J2b623b8650c38c2c`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/73`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `J10a0f7450040ba50`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/63`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `Jb332cb7fbf0c4d97`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/70`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `Ja183dec60d2e4e13`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/62`.
 
 - Appendix 2 catalogues 85 items in chronological order with primary importance given to sections of the BOCWA and secondary importance to rules, spanning establishment registration through inspector powers.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `J70aab9e7390bb46a`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/source_page_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `J1f6d27a8e03639ec`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/source_page_context/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `J86f8f19b586d779b`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/84`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `J7f13cc4826d0b557`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `J50f9cf29ab86eed2`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/source_page_context/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 92; quotation `J05b97a9004c77967`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/84`.
 
 - Appendix No. 3 establishes the required structure for the Site SHE Plan, covering 22 distinct topical sections ranging from Project Highlights to Visitors and Security arrangements.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 93; quotation `Jbf8658426466b994`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/source_page_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 94; quotation `J69dc478ccecede37`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/source_page_context/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 93; quotation `J2f2eb2da312f8cb3`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 94; quotation `J902e694ae21161e1`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/source_page_context/1`.
 
 - Appendix 4 outlines core workplace policy measures for HIV/AIDS prevention among contractor workmen, including IEC packages, institutional capacity building, peer educators, and condom social marketing.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 95; quotation `J0a08aa7ed3f91b53`. JSON: `parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json#/policy_measures/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 95; quotation `J0b136ff9b89b78fb`. JSON: `parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json#/policy_measures/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 95; quotation `J43c577773652110c`. JSON: `parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json#/policy_measures/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 95; quotation `Jbc99579295e5de50`. JSON: `parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json#/policy_measures/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 95; quotation `Jcf45b9428a82e0cb`. JSON: `parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 95; quotation `J07377a90d718da09`. JSON: `parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json#/policy_measures/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 95; quotation `J2e82fd42ed65481a`. JSON: `parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json#/policy_measures/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 95; quotation `J218aff3f80078645`. JSON: `parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json#/policy_measures/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 95; quotation `Jd1766552d16e7154`. JSON: `parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json#/policy_measures/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 95; quotation `J62bbeb6ab33a9556`. JSON: `parsed_json/vol3/appendix_4_workplace_policy/workplace_policy.json#/source_page_context/0`.
 
 - Form SF/001 establishes the site Safety, Health and Environment (SHE) Committee format, detailing monthly periodicity, agenda circulation rules, and minute distribution requirements.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 116; quotation `J81bb5479e7edcd11`. JSON: `parsed_json/vol3/forms/she_committee_forms.json#/forms/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 116; quotation `J6af8ef325f51b6bf`. JSON: `parsed_json/vol3/forms/she_committee_forms.json#/forms/0`.
 
 - General Instruction BMRC/SHE/CEO/001 establishes suggestive manpower requirements for the SHE organization categorized by awarded contract value ranging from upto 2 Cr to more than 250 Cr.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 96; quotation `Jb23d7ac8ecea82aa`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/0/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 96; quotation `J71183e109c431b8d`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/0/fragments/0`.
 
 - General Instruction BMRC/SHE/CEO/002 specifies minimum qualifications and experience for safety, electrical, environmental, traffic engineering, and occupational health professionals.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 97; quotation `J6e5fc013fe3af0f3`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/1/fragments/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 98; quotation `Jad6a3420e009687e`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/1/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 97; quotation `J55e2d9e25ef00019`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/1/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 98; quotation `J8d30ce4ccd19afe5`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/1/fragments/1`.
 
 - General Instruction BMRC/SHE/CEO/003 categorizes contracts into Groups A (upto 25 Cr), B (upto 100 Cr), C (upto 250 Cr), and D (more than 250 Cr) for the purpose of minimum audio-visual and monitoring equipment requirements.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 99; quotation `J807862a97e7fd333`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/2/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 99; quotation `J5543c388e0459bf6`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/2/fragments/0`.
 
 - Accident investigation kits must contain chalk for marking, measuring tapes (flexible 2m, metal foot-long, and 30m metal tape), equipment tags, multipurpose flashlight, 20m barrier tape, accident investigation forms/checklists, witness recording paper, and an emergency phone numbers list.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 100; quotation `J1fa418177d0b9bcc`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/2/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 100; quotation `J5d8b8f88c0ed7323`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/2/fragments/1`.
 
 - Form SF/002 prescribes the mandatory template for Minutes of SHE Committee Meetings, tracking contract details, members present/absent, report distribution, and a ten-item discussion agenda.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 117, 118; quotation `J929fdfa93d91dfec`. JSON: `parsed_json/vol3/forms/she_committee_forms.json#/forms/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 117, 118; quotation `J9cd3169689d1cf84`. JSON: `parsed_json/vol3/forms/she_committee_forms.json#/forms/1`.
 
 - General Instruction BMRC/SHE/CEO/006 itemizes twenty specific management and supervisory SHE training subjects ranging from statutory requirements and hazard identification to specialized machinery, scaffolding, crane lift plans, lifting tackles, fire prevention, and safety communication.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 103, 104; quotation `J172f1016df5ff05c`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 103, 104; quotation `Jbda53a94128dc204`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/5`.
 
 - General Instruction BMRC/SHE/CEO/009 establishes contract categorization groups based on initial awarded contract values up to 25 Cr (Group A), up to 100 Cr (Group B), up to 250 Cr (Group C), and more than 250 Cr (Group D), defining minimum quantities for posters, signages, and videos.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 109; quotation `J30f2390f6433285e`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/8/fragments/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 107; quotation `J52538f520778df48`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/8/fragments/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 108; quotation `Jf5d8c04f6860a43d`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/8/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 109; quotation `J08ed134aa962ffed`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/8/fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 107; quotation `Jcef9c41367455b19`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/8/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 108; quotation `Jec672c1aa0b63fd8`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/8/fragments/1`.
 
 - Administrative areas require a minimum luminance of 540 lux (50 lm/ft2) as per General Instruction BMRC/SHE/CEO/011.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 114; quotation `J362b2908805ce8ff`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 114; quotation `J35617df3736a61fc`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/10`.
 
 - General indoor construction areas require 55 lux (5 lm/ft2), general outdoor areas require 33 lux (3 lm/ft2), and tunnel/underground work areas require 55 lux (5 lm/ft2) with a minimum of 110 lux at the tunnel and shaft heading during drilling, mucking, and scaling.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 114; quotation `J362b2908805ce8ff`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 114; quotation `J35617df3736a61fc`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/10`.
 
 - Access ways (exit ways, walkways, ladders, stairs) and mechanical/electrical equipment rooms require 110 lux (10 lm/ft2).
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 114; quotation `J362b2908805ce8ff`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 114; quotation `J35617df3736a61fc`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/10`.
 
 - Laboratories, fine details workshop areas, and administrative spaces require 540 lux (50 lm/ft2).
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 114; quotation `J362b2908805ce8ff`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 114; quotation `J35617df3736a61fc`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/10`.
 
 - Contractors must obtain formal approval of their detailed method statement and job safety analysis from the Employer prior to executing complicated or high-risk operations.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 89; quotation `J5df0d301a256f601`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 89; quotation `Jb0b666b05284e7b7`. JSON: `parsed_json/vol3/appendix_1_mou/mou_clauses.json#/clauses/3`.
 
 ## Typed Relations
 
 - Appendix 3 Site SHE Plan details individual responsibilities for various project roles including Project Manager, Construction Manager, Construction Supervisors, SHE Committee Members, SHE In-charge, Site Engineers, First Line Supervisors, and Sub-contractors.
   - **references (explicit):** [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]] → [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 93; quotation `Jbf8658426466b994`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/source_page_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 93; quotation `Jc11bf4223246f5b3`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/topics/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 93; quotation `J2f2eb2da312f8cb3`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 93; quotation `J226a554a117a69be`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/topics/3`.
 
 - The Site SHE Plan mandates specific safe work procedures under Topic 14, including work at height, structural steel erection, launching of segments, excavation, and abrasive blasting.
   - **references (explicit):** [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]] → [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 94; quotation `J69dc478ccecede37`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/source_page_context/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 94; quotation `Ja64f69c31e66f2f3`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/topics/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 94; quotation `J902e694ae21161e1`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/source_page_context/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 94; quotation `Jce700c9dd803fca8`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/topics/13`.
 
 ## Source Quirks
 
 - The parsed column data for Appendix 2 statutory requirements exhibits unseparated item and reference columns, requiring manual review of text fragments for items 5 through 40.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `J0b3b9cfa6fc2c651`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/28`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `J2e0dfc1e4a604a31`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/7`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `Jdcacc07571473f16`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 91; quotation `J165136baa4f93f8b`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/28`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `J08e8960e7aaf3932`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90; quotation `Jaa4ef76c297e3b39`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/items/9`.
 
 - Appendix 2 contains duplicate entries for medical examination for occupational health hazards, listed under both item numbers 76 and 82, which are preserved in the parsed records with their original item numbers.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90, 91, 92; quotation `Jdd1dba6e5d3176a1`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/source_quirks/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 90, 91, 92; quotation `Ja834659360b92a73`. JSON: `parsed_json/vol3/appendix_2_statutory_requirements/statutory_requirements.json#/source_quirks/0`.
 
 - The parsed JSON records for Appendix 3 indicate layout structures and page numbering spanning PDF pages 93 and 94 (Section pages 89 and 90 of 114 within the SHE manual).
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 93; quotation `Jbf8658426466b994`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/source_page_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 94; quotation `J69dc478ccecede37`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/source_page_context/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 93; quotation `J2f2eb2da312f8cb3`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 94; quotation `J902e694ae21161e1`. JSON: `parsed_json/vol3/appendix_3_site_she_plan/site_she_plan.json#/source_page_context/1`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
@@ -9238,7 +9688,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Related Wiki Entities
 
 - **relates_to (editorial, inferred):** [[wiki/concepts/amendment_sequence_and_conflicts|Amendment Sequence and Unresolved Source Conflicts]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 116; `J81bb5479e7edcd11`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 116; `J6af8ef325f51b6bf`.
 
 ## Open Questions and Contradictions
 
@@ -9247,13 +9697,13 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### S1b337276fee87a48
+### S916bccd27f957a6c
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
 > This document contains the supplementary Appendices, General Instructions, and Forms of Section I (SHE - Manual) in Volume 3 of BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`.
 
-### Jce99430952d4c8c7
+### Jf94482427d1e2fd1
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -9563,7 +10013,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J3142e01c4635fda9
+### J931fa0d19d6dcef3
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -9601,7 +10051,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J1d05f6f56af1cf0c
+### J48e9758f724fa34f
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -9634,7 +10084,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J8768d436d258957e
+### J14aea9aac5f6fa2c
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -9706,7 +10156,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J486a7208e1421ab8
+### J3b66e539b4efbac6
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -9857,7 +10307,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J181fe8af9d771e84
+### J5f9119043b65fd8d
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -9910,7 +10360,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J070f4db006b7a992
+### J94c6ce7b195eabe9
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10047,7 +10497,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_visual_review"
 > }
 
-### J1fe50e404cdd00dc
+### J5ef0cde56d952f3d
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10212,7 +10662,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Je991a59705619eab
+### Jb82dbba20320449e
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10253,7 +10703,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 90
 > }
 
-### Je53d9db1d6fe0d18
+### Ja1ed9cbf9ff3dffe
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10284,7 +10734,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 90
 > }
 
-### Jdb6ffcc8aff4acd1
+### J5751dcdf1f5ef545
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10325,7 +10775,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 90
 > }
 
-### Jf6e070e079a79702
+### J2f999dbfd7c35f34
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10366,7 +10816,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 90
 > }
 
-### J0b3b9cfa6fc2c651
+### J165136baa4f93f8b
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10407,7 +10857,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 91
 > }
 
-### J0f32d3e3d275fec4
+### J907fb52b761d937f
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10448,7 +10898,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 90
 > }
 
-### J10d4031db2152b11
+### J5aaaabe415618d69
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10489,7 +10939,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 91
 > }
 
-### J119b40971c8f0da0
+### J9c24dcfac1db7c8c
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10520,7 +10970,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 91
 > }
 
-### Ja1520222c88733f8
+### Ja56824125b04301b
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10561,7 +11011,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 91
 > }
 
-### Je0d2783d7aab1989
+### J92404902fd70a205
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10602,7 +11052,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 91
 > }
 
-### J2e0dfc1e4a604a31
+### J08e8960e7aaf3932
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10643,7 +11093,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 90
 > }
 
-### Jdcacc07571473f16
+### Jaa4ef76c297e3b39
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10674,7 +11124,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 90
 > }
 
-### J0407ae3458aee821
+### J88b71ffd412589ab
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10705,7 +11155,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 92
 > }
 
-### J04bce54636e6a334
+### Jfdde59c1c7f3fde3
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10736,7 +11186,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 91
 > }
 
-### J0b269c50b915b7d4
+### J9c071f8fd700e324
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10772,7 +11222,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 92
 > }
 
-### J1553e49cb8643b36
+### J2b623b8650c38c2c
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10803,7 +11253,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 92
 > }
 
-### J309551578d052bd4
+### J10a0f7450040ba50
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10834,7 +11284,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 92
 > }
 
-### J8125e1d0ad7f61d0
+### Jb332cb7fbf0c4d97
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10865,7 +11315,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 92
 > }
 
-### Jeb4d3e3f3b66abf3
+### Ja183dec60d2e4e13
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -10896,7 +11346,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 92
 > }
 
-### J70aab9e7390bb46a
+### J7f13cc4826d0b557
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -11277,7 +11727,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jc8d4f9a64666db34
+### Jba82fab0e13e68ee
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -11388,7 +11838,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J1f6d27a8e03639ec
+### J50f9cf29ab86eed2
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -11799,7 +12249,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J86f8f19b586d779b
+### J05b97a9004c77967
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -11860,7 +12310,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "starting_pdf_page": 92
 > }
 
-### Jdd1dba6e5d3176a1
+### Ja834659360b92a73
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -11873,7 +12323,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jbf8658426466b994
+### J2f2eb2da312f8cb3
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -12204,7 +12654,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J69dc478ccecede37
+### J902e694ae21161e1
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -12375,7 +12825,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jc11bf4223246f5b3
+### J226a554a117a69be
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -12496,7 +12946,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "topic_id": "4"
 > }
 
-### Ja64f69c31e66f2f3
+### Jce700c9dd803fca8
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -12677,7 +13127,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "topic_id": "14"
 > }
 
-### J045457175f78f13f
+### Jcb88a9688b005df4
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -12817,7 +13267,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J81bb5479e7edcd11
+### J6af8ef325f51b6bf
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -13545,7 +13995,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Formation of Site SHE Committee"
 > }
 
-### J0a08aa7ed3f91b53
+### J07377a90d718da09
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -13590,7 +14040,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_number": null
 > }
 
-### J0b136ff9b89b78fb
+### J2e82fd42ed65481a
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -13640,7 +14090,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_number": null
 > }
 
-### J43c577773652110c
+### J218aff3f80078645
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -13675,7 +14125,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_number": null
 > }
 
-### Jbc99579295e5de50
+### Jd1766552d16e7154
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -13720,7 +14170,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_number": null
 > }
 
-### Jcf45b9428a82e0cb
+### J62bbeb6ab33a9556
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -13941,7 +14391,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J1fa418177d0b9bcc
+### J5d8b8f88c0ed7323
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -13950,7 +14400,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "12. Accident investigation Kit containing         1         1         1           2\n         the following:\n\n        Chalk piece for marking\n\n        Measuring tape for measuring\n\n                Flexible tape – 2m length\n\n                Metal Foot long scale and\n\n                Metal tape – 30m\n\n        Equipment tags\n\n         Multipurpose Flash light\n\n          Barrier tape of 20m length\n\n         Accident investigation Forms and\n          checklists\n\n       Enough Paper for witness recording\n       and other noting\n\n       Emergency Phone Numbers list"
 > }
 
-### J6e5fc013fe3af0f3
+### J55e2d9e25ef00019
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -13959,7 +14409,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                           General Instruction: BMRC/SHE/CEO/002\n\n\n\n           MINIMUM QUALIFICATION AND EXPERIENCE FOR (SHE) SAFETY, ELECTRICAL,\n         ENVIRONMENTAL, TRAFFIC ENGG. AND OCCUPATIONAL HEALTH PROFESSIONALS\n\n\n           Sl. N                                                                    Experience (in\n                Designation                        Qualification\n                                                                                            years)\n\n          1  Chief SHE    The Chief SHE Manager shall have qualified in any of the  2 {for all\n            Manager        following degree/diploma:                                 category except\n                                                    i)  Post  Graduate  Diploma   in   Industrial  Safety  &    (iv) and 5yrs for\n                                Environmental Management (PGDISEM) from National   category (iv)}\n                                         Institute of Industrial Engineering, Mumbai\n                                                       ii)  M.E. in Industrial Safety from NIT, Trichy, Tamil Nadu\n                                                         iii) M.E.   in  Industrial  Safety  from  Mepco  Schlenk\n                                 Engineering College, Sivakasi, Tamil Nadu\n                                         iv) B.E. in Fire and Safety Engg. From Cochin University\n                                      of Science and Engg. Cochin, Kerala\n                                  v)  B.E. with advanced Safety Management Diploma from\n                               CLI / RLI Mumbai / Chennai / Kolkata and Kanpur.\n                                         vi) B.E  / B.Arch.,  with one year  Full Time advanced\n                                 Safety diploma from NICMAR, Hyderabad.\n                                             vii) B.E  / B.Tech with any other equivalent State and\n                                  Central Govt. recognized full time Degree / Diploma in\n                                    Safety.\n                                                viii) International qualifications like CSP (Certified Safety\n                                    Professional), NEBOSH, MIOSH, MSISO etc.\n\n          2  Senior SHE   As  stated  in  Sl. No:1 and  in  addition  the  following  2 {for category (i),\n            Manager       categories:                                         and (iii) only}\n\n                                                   i)   B.Sc.(Physics/Chemistry/Maths)   with one year Full\n                            Time  advanced  Safety  diploma  from  NICMAR,\n                             Hyderabad\n                                                       ii)  B.Sc.   /  Diploma  in  Engg.  with advanced  Safety\n                           Management Diploma from CLI  / RLI  / Mumbai  /\n                              Chennai / Kolkata and Kanpur.\n                                                         iii)  B.Sc. (Physics/Chemistry/Maths) with One year Full\n                            Time diploma in Safety Engineering offered by West\n                               Bengal State Technical Education Departments and\n                                      similar courses by other states.\n                                         iv) Any Graduate or diploma holder with 7 years of work\n                                experience  in  full fledged SHE department  of any\n                                   Public Sector  / Leading Private Sector  / MNC  / with\n                                        prior approval of employer on a case to case basis\n\n          3  Junior SHE        i) Degree in Science  / Diploma in Engineering with Govt.  2 (for category\n            Manager        recognized  safety  diplomas  from  Correspondence    (i) only)\n                              course of NICMAR, Annamalai University, National and\n                                State  Productivity  Councils,  Other  State  Technical\n                              Education Boards etc.\n\n                                                       ii) Any Graduate or diploma holder with 5 years of work\n                               experience in full fledged SHE department of any Public\n                               Sector  / Leading Private Sector  / MNC  / with  prior\n                               approval of employer on a case to case basis\n\n\n          4  Safety        Any basic qualification with any SHE related certificate            2\n             Steward       courses.\n\n          5  Senior SHE    Degree in Electrical Engineering + Govt. recognized              2"
 > }
 
-### J807862a97e7fd333
+### J5543c388e0459bf6
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -13968,7 +14418,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                            General Instruction: BMRC/SHE/CEO/003\n\n\n\n         SUGGESTIVE REQUIREMENTS OF SHE MONITORING AND AUDIO-VISUAL EQUIPMENTS\n\n\n           1.    For the purpose of minimum requirements of Audio-visual and Other equipment the contracts\n                categorized into the following groups:\n\n\n\n                            Contract Value (Initial awarded value of contract)                 Group\n\n\n                                         Upto 25 Cr                            A\n\n\n                                         Upto 100 Cr                            B\n\n\n                                         Upto 250 Cr                         C\n\n\n                                   More than 250 Cr                        D\n\n\n\n           2.    Every contractor falling into the above groups shall provide the following minimum required\n               audio visual aids for conducting weekly review, monthly safety committee and other post\n               review meeting of all fatal and major incidences effectively. These audio-visual equipments\n               are a must  for  conducting  periodical  in-house  safety  presentations  in  the  training\n              programmes.\n\n           3.     In addition to the above portable hand held digital sound level meter (SLM) and portable hand\n               held digital lux meter are also to be provided.\n\n\n                                        SHE monitoring and Audio-Visual equipment\n                 Sl.   SHE monitoring and Audio-Visual                 required for\n          No          Equipment details        Group A   Group B  Group C    Group D\n                                                     Contract   Contract   Contract     Contract\n\n                 1.  Portable hand held Digital Sound Level\n                                                      1         1         1           1\n                 Meter (SLM)\n\n                 2.  Portable hand held Digital Lux Meter         1         1         1           1\n\n                 3.  Laptop Computer with standard\n                    configuration including multi media          1         1         1           1\n                         facilities\n                 4.  Colour Printer                           1         1         1           1\n\n                 5. Computer projector with screen                      -         1         1           1\n\n                 6. Overhead projector                       1\n                 7. 35mm Camera (For taking accident\n                    investigation photos in which case the        1         1         1           1\n                images can not be easily altered)\n                      Digital camera with flash of minimum 4                 8.                                       1         1         1           2\n              mega pixel and video facility\n                 9.  Digital still camera with flash of             1         2         4           6\n               minimum 4 mega pixel\n\n\n               10. Portable loudspeaker (for tool-box talk\n                                                      1         1         2           6\n                and emergency purpose)\n\n               11. Communication facility like mobile      For all supervisors and managers/engineers working\n                 phone, walky-talky etc                  Safety, Health & Environment"
 > }
 
-### J929fdfa93d91dfec
+### J9cd3169689d1cf84
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -15300,7 +15750,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Minutes of SHE Committee Meeting"
 > }
 
-### Jad6a3420e009687e
+### J8d30ce4ccd19afe5
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -15309,7 +15759,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "(Electrical)      Electrical Licence holder\n    Manager\n\n  6  Junior SHE    Diploma in Electrical Engineering + Govt. recognized              1\n      (Electrical)      Electrical Licence holder\n    Manager\n\n  7  Senior SHE       i)     B.E. (Fire) from National Fire Service College,        2 (for category (i)\n      (Fire)              Nagpur                                       and (ii) only)\n    Manager                                     ii)    B.E (Fire & Safety) from Cochin University\n                                      iii)   Graduate with any Govt. recognized diploma in Fire\n                          Safety with 5 years of experience\n\n  8  Junior SHE    Any Diploma holder with any Govt. recognized diploma in          1\n      (Fire)            Industrial Fire Safety.\n    Manager\n\n  9  Occupational  MBBS with Govt. recognized degree/diploma in Industrial/          1\n     Health Officer  occupational health\n\n 10 Environment   Govt. recognized PG Degree / PG Diploma / Degree in            2\n    Manager       Environmental Engineering / Science\n\n 11 Senior SHE    Govt. recognized PG Degree / Degree / Diploma in               1\n      (Traffic)         Traffic/Transportation Engineering or Planning\n     Engineer\n\n 12. House       Any Diploma in Engineering                                 1\n    Keeping\n    Squad -\n    Manager\n\n 13 Barricade     Any Diploma in Engineering                                 1\n    Manager\n\n14  Labour       Any Degree with Govt. Recognized Degree / Diploma / P          2\n     Welfare     G Diploma in Labour Welfare related fields like Law,\n      Officer         Personnel / Industrial Relations etc.\n\n\nNote 1:     In some extraordinary cases where the candidate had earlier worked in BMRC/DMRC\n            Projects they can be considered for the following posts:\n                    i)    Senior SHE Manager\n                     ii)    Junior SHE Manager\n                      iii)    Safety Steward\n          depending upon the qualification and no. of years of experience on a case-to-case basis\n          even if they do not possess the prescribed qualification as listed above.\n\nNote 2:     In all other cases other than listed under Note 1 irrespective their earlier experience with\n       DMRC projects the candidates shall qualify as specified above."
 > }
 
-### Jb23d7ac8ecea82aa
+### J71183e109c431b8d
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -15318,7 +15768,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                       General Instruction: BMRC/SHE/CEO/001\n\n\nSUGGESTIVE MANPOWER REQUIREMENTS OF SHE ORGANIZATION BASED ON CONTRACT VALUE\n\n                  1         2           3         4         5              6\n\n                Chief SH   Senior SHE Junior SHE   Safety      Senior        Junior SHE\n  Awarded\n              Manage    Manager  Manager   Steward    SHE           (Electrical)\n  Contract\n                                                                        (Electrical)       Engineer\nvalue (in Cr.)\n                                                          Engineer\n\n     Upto 2              -                -           1                                  -              1\n\n     Upto 10             -          1                                1\n\n     Upto 25        1                                          1                                                        Refer\n                                            Refer                                    Refer                                                    Note 1    Upto 100       1                                          1                               Refer                                         Note 1                                Note 2\n                            Note 1    Upto 250       1                                          1\n\n  More than 25      1                                          1\n\n\n                    7          8          9         10         11        12        13\n\n                                                  Senior                 *Junior   Occupatio   Environ               Barricad    House    Labour\n                                       SHE              SHE     nal Health   mental                 e      Keeping   Welfare\n                                                              (Traffic)                      (Fire)     officer with  Manager             Maintena   Squad     Officer\n                                               Engineer  Awarded     Manager   Necessary                        nce\n  Contract                 /        Nursing                 (Refer Note4 Squad\n value (in Cr.)    **Senior    Assistants                             (Refer\n              SHE       (Refer                             Note4)\n                      (Fire)      Note3)\n              Manager\n\n      Upto 2               -                 -                 -                 -                                                 -\n\n     Upto 10               -        1 (PT)        1          1                             1\n\n     Upto 25          1*       1 (PT)        1          1                             1\n\n     Upto 100         1*       1 (FT)        1          1                             1\n                                                                 Refer Note Refer Note                                                                              1 with\n     Upto 250         1**        2(FT)        1          1                            support\n                                                                                                                   staff\n\n                                     1 with                                    1 with\n  More than\n                        2**        2(FT)    support         1                            support\n    250\n                                                       staff                                                       staff\n\n  Note 1:    Adequate, qualified and trained SHE Professionals with required support staff to be\n             deployed at each worksite at each shift.\n\n  Note 2:    Adequate, qualified and trained Electrical Engineers / supervisors to be deployed at each\n               worksite at each shift.\n  Note 3:    (PT) means Part-Time and (FT) means Full-time.\n\n  Note 4:    Senior SHE (Traffic) Engineer Post and Barricade Manager (including the staff) Posts are\n               applicable to contracts where the work has to be executed either below or over the right-\n              of-way  like  Viaduct,  station,  depot and  Tunnel  Contracts  wherein  erection and\n             maintenance of barricades are paramount important.\n  Note 5:   One Barricade Manager supported by required supervisors and workmen\n\n  Note 6:   One Housekeeping Manager supported by required supervisors and workmen"
 > }
 
-### J11ff340449438ae9
+### J7aa6f0503da90d3d
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -16036,7 +16486,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jb9832ed62c00c791
+### J62b06092c3412d6c
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -16649,7 +17099,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J172f1016df5ff05c
+### Jbda53a94128dc204
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -17610,7 +18060,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jade8a5443a3ec982
+### J0ceb357b2c36eff1
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -17619,7 +18069,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "BANGALORE METRO RAIL CORPORATION LTD. \nGeneral Instruction: BMRC/SHE/CEO/007 \n \nSHE Training Matrix \n \n \n \n \n \n \n \n \n \n \nTypes of training \nManagement \nSupervisor \nSpecific \nSHE Orientation  \nSHE Leadership \nSHE Plan \nSHE Improvement Plan \nManagement of Change \nSHE Audit & Inspection  \nSHE Emergency Response & Preparedness  \nIncident/Accident Investigation & Reporting  \nSHE Communication \nSHE Promotion & Incentives \nTraffic Management  \nHazard Identification & Risk Analysis \nPermit to work system \nConfined space entry \nscaffolding \nWaste Management  \nEnvironment Monitoring \nLabour welfare measures  \nBehavioural Based Safety Management (BBSM) \nJob/Task Safety Analysis (JSA)  \nSafety Training Observation Programme (STOP) \nIndustrial First Aid & CPR \nIncident / Accident Investigation & Reporting  \nFire fighting \nConfined Space Testing & Certification  \nScaffold Erection & Inspection \nRigging \nWire Rope Inspection \nCrane Inspection  \nElectrical/Mechanical Isolation \nPermit to Work System  \nConfined Space Working  \nExplosive Handling & Control  \nHeavy Lifting Operation \nRadiography (X-Ray) \nHAZMAT Handling & Control \nWelding, Cutting & Bracing \nPower Actuated Hand Tool \nElectrical/Mechanical Isolation \nRoofing Work  \nSteel erection work  \nScaffold Erection/Dismantling  \nFalse-work Erection / Dismantling \nPainting in Confined Area \nProject Manager \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSr. Construction Managers \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nQuality Manager \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPlanning engineer \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nConstruction Managers \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nConstruction Supervisors \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nConstruction Foreman  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMachinery Operators  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMaterial Handlers  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nStation Building Workers \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSteel workers  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMechanical workers  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nOther Civil workers  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nElectrical workers  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRadiographers  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTransportation Drivers  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSecurity Officers \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nClerical Staff \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMedical Doctor \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSr. SHE Managers \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nJr. SHE Managers \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSHE Supervisors \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n"
 > }
 
-### J4c84cba0ce5576de
+### Jfd626157ee14f95e
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -18207,7 +18657,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J30f2390f6433285e
+### J08ed134aa962ffed
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -18216,7 +18666,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "Note 1: Items mentioned under 17 is video. Items under 3 (a) and 5 (a) are metal signage\n                boards and all other items are posters.\n\n          Table No.: 2 – Size of Posters / Signages\n\n\n           Sl.No   Item                                         Size\n\n             1.       Posters – Standard                             17”x22” –135 GSM 4 Colour Printing\n\n             2.       Posters – Special (Wherever required)           17”x22” card laminated FA Poster\n\n             3.       Posters - Mega size (Wherever required)         32”x40” Flex FA Poster\n\n             4.        First-Aid Booklet                                 6”x4”\n\n             5.       Safety Handbook                                 6”x4”\n\n             6.      Signages                                     Small : 12”x6”\n\n                                                                    Big : 24”x12”\n\n             7.      Road Traffic Sign Boards                              Strictly as per Indian Road Congress\n                                                                    (IRC) specifications\n\n\n          Table No.: 3 – Safety Signage Colour (as per IS 9457)\n\n\n           Sl.No     Type of signage                            Colour\n\n            1       Mandatory                                    Blue\n\n            2       Danger                                       Yellow\n\n            3         Prohibit                               Red\n\n            4       Safe conditions                            Green"
 > }
 
-### J52538f520778df48
+### Jcef9c41367455b19
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -18225,7 +18675,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                            General Instruction: BMRC/SHE/CEO/009\n\n\n\n         Minimum Requirements of SHE Communication Posters / Signages / Video\n\n\n          1.     For the purpose of Minimum requirements of SHE Communication Posters  / Signages  /\n              Video the contracts are categorized into the following groups:\n\n\n                           Contract Value (Initial awarded value of contract)              Group\n\n\n                                        Upto 25 Cr                          A\n\n\n                                       Upto 100 Cr                         B\n\n\n                                       Upto 250 Cr                       C\n\n\n                                  More than 250 Cr                      D\n\n\n          2.     Every contractor falling into the above groups shall prepare a SHE Communication Plan as a\n                 part of site specific SHE Plan and shall include the following minimum requirement of Posters /\n              Signages / Video as applicable. In case readymade posters are available in any of the category\n               from National Safety Council, Loss Prevention Association of India or any other safety related\n                organisations they may procure the same and display it. In case the same is not available then\n                the contractors’ shall make necessary arrangements to get the posters designed and printed\n             on their own.\n\n\n                    All the above are to be detailed in the Site SHE Plan and get an approval from the Employer\n                before displaying the posters.\n\n\n                                  Table No.: 1 - Minimum No. of Posters\n\n\n                                   Minimum           No. of Posters / Signage / Video\n                                          No. of\n                                              Group A  Group B  Group C  Group D\n          Sl.No    SHE Poster Title      concepts\n                                                      Contract   Contract   Contract   Contract\n                                                  in each\n                                                                 title\n\n              1.    Safety Culture                5      Each 10   Each 50   Each 75   Each 100\n\n              2.    Daily Safety Oath         1 English    Each 100  Each 200  Each 500 Each 1000\n                                   &1 Hindi\n\n              3.    Mandatory PPE Usage\n\n               a)  Signages to display the    2 types of    Each 25   Each 50   Each 75   Each 200\n               messages like PPE         sizes made\n              ZONE, NO PPE ZONE,    up of metal\n            HARD HAT AREA etc.     sheet to be\n                                      mounted at\n                                                     different\n                                                 locations\n\n              b)  Helmet                     5      Each 25   Each 50   Each 75   Each 200"
 > }
 
-### Jf5d8c04f6860a43d
+### Jec672c1aa0b63fd8
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -18234,7 +18684,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "c)  Shoe                       5      Each 25   Each 50   Each 75   Each 200\n\n   d)  Goggles & Ear Protection       5      Each 25   Each 50   Each 75   Each 200\n\n   e)   Full Body Harness            5      Each 25   Each 50   Each 75   Each 200\n\n     f)  Hi-Vi Jacket                 5      Each 25   Each 50   Each 75   Each 200\n\n  4.   Emergency Management              Each 25   Each 50   Each 75   Each 200\n                                 5\n       Plan\n\n  5.   Working at Heights           10      Each 25   Each 50   Each 75   Each 200\n\n   a)  Ladder, Stairway,         5 types of    Each 25   Each 50   Each 75   Each 200\n       Scaffold - Signages to      sizes made\n       display the messages like  up of metal\n      SAFE, UNSAFE, FIT       sheet to be\n     FOR USE, AVOID USE    mounted at\n        etc.                           different\n                                    locations\n\n  6.    Site Electricity                5      Each 25   Each 50   Each 75   Each 200\n\n  7.    Fire and Explosion            5      Each 25   Each 50   Each 75   Each 200\n\n  8.   Crane Safety                5      Each 25   Each 50   Each 75   Each 200\n\n  9.    Slings                      5      Each 25   Each 50   Each 75   Each 200\n\n 10.   Rigging Procedures           5      Each 25   Each 50   Each 75   Each 200\n\n 11.   Excavation                  5      Each 25   Each 50   Each 75   Each 200\n\n 12.   Occupational Health                  Each 25   Each 50   Each 75   Each 200\n       (Mosquito Control,\n      HIV/AIDS awareness,\n                                10\n      Dust Control, Noise\n        Control, No\n       Smoking/Spitting, etc.)\n\n 13.    First – Aid                   3      Each 25   Each 50   Each 75   Each 200\n\n 14.   Labour Welfare Measures             Each 25   Each 50   Each 75   Each 200\n      (Payment of Minimum\n      Wages, Avoidance of\n                                 5\n       Child labour, Signing in\n       the Muster Roll, In case of\n       accidents-what to do? etc\n\n 15.   Importance of “Safety\n                                 1         25        50        75           200\n      Handbook”\n\n 16.    Traffic Safety (Speed limit,             Each 25   Each 50   Each 75   Each 200\n       safe crossing and working      5\n        within barricaded area etc.)\n\n 17.   Environmental Monitoring             Each 25   Each 50   Each 75   Each 200\n\n        (Spillage of Muck,\n      hazardous material,                                 5\n       Improper drainage, water\n       spray for dust\n       containment etc.)\n\n18.    Video in Hindi on PPE\n      usage – 15 minutes            1                -               -               -             1\n       duration"
 > }
 
-### Jd56bf223e6ad40f8
+### Jaf068180ccbb4a20
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -18243,7 +18693,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "7.    Dr. Cris Research Centre For Occupational Health &     Ambulance Room & Van\n                     Safety                                                   Communication Materials\n                     306, Guru Arjuna Dev Bhawan,                           First-aid box\n                        Ranjit Nagar Complex, New Delhi – 110 008\n                                                                               First-aid Training\n                   Phone: 9810040406\n                                                                              HIV / AIDS awareness\n                     Fax: 011 – 25702929\n                                                                               ID Card\n                       E-mail: team@drcris.com\n                                                                               Medical Facilities\n                     Website: www.drcris.com\n                                                                              SHE Orientation Training\n\n                  8.   DuPont Safety Resources,                              SHE Management Training\n                           E.I. DuPont India Private Limited,\n                      Arihant Nitco Park 6th Floor,\n\n                      90, Dr. Radhakrishnan Salai,\n\n                     Mylapore, Chennai-600 004\n\n                   Phone: 044-2847 2800, 2847 3752\n\n                     Fax: 044-2847 3800\n\n                      Mobile: 9381201040\n\n                     Website: in.dupont.com\n\n                  9.   EQMS INDIA PVT. LTD.                                ISO Certification\n                  304 & 305, 3rd Floor, Rishabh Towers,                  SHE Management / Technical\n                       Plot No. 16, Community Centre,                           Training\n\n                   Karkardooma, Delhi - 110092.\n\n                   Phone: 011 - 22374729 / 22374775\n\n                     Fax: 011- 22374662\n\n                       E-mail: eqms@eqmsindia.org\n\n                     Website: www.eqmsindia.com\n\n                10.  Green Cross Consultants                               SHE Management / Technical\n                      59, 7th Cross, 1st Floor,                                    Training\n\n                        Jai Bharath Nagar, Banglore-560 033\n\n                   Phone: 080-2549 6782\n\n                       E-mail: etgrangan@yahoo.com\n\n                11.  HSRTC, PENTASAFE,                                  SHE Practical Field Training for\n                     201, 2nd Floor, Town Centre,                             Height Safety\n\n                     Andheri Kurla Road, Marol,\n\n                     Andheri (East), Mumbai-400 059\n\n                   Phone: 022-2850 2210/20/50\n\n                     Fax: 022-2850 2260\n\n                       E-mail: training@penta-safe.com\n\n                12.   Institute of Driving Training & Research,                 SHE Technical Training for\n                   Wazirabad Road,                                        Vehicle Drivers.\n\n                      Adjoining Loni Road flyover.\n\n               New Delhi – 110 094\n\n                   Phone: 011 – 22813474, 22815833\n\n                     Fax: 011 - 22811131\n\n                13.   Institute for Research, Development & Training of        SHE Technical /Field Training\n                      Construction Trades & Management,"
 > }
 
-### Je228432442c91b0b
+### J569daf0f255d27c3
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -18252,7 +18702,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "An Educational Institute, Society and Trust,\n              1st Floor, UVCE Alumni Association Building,\n\n          K.R. Circle, Banglore-560 001\n\n          Phone: 080-22294291/22243257\n\n          Fax: 080-22243257\n\n           E-mail: ubrco@vsnl.com\n\n          Website: www.instructindia.org\n\n     14.   International Engineering Company                      Crane and Lifting appliances and\n        K – 10, South Extension,                            Gears Certification\n           Part – 2, New Delhi – 110 049                           SHE Practical Field Training for\n                                                          Crane Safety\n          Phone: 011 – 26254761, 26258130\n\n           Mobile: 9312260130\n\n           E-mail: ashok@intenco.net\n\n     15.  L & T Eutectic                                          SHE Practical Field Training for\n           32, Sivaji Marg, New Delhi – 110 015                   Welding Safety\n\n          Phone: 011 - 51419538, 51419539\n\n          Fax: 011 - 51419600\n\n          Website: www.lnteutecticwelding.com\n\n     16.   Loss Prevention Association of India Ltd.                SHE Management / Technical\n         Warden House,                                           Training\n\n             Sir P.M. Road,\n\n         Mumbai – 400 001\n\n          Website: www.lpaindia.org\n\n     17.  MFA Crucial Moments Healthcare Pvt. Ltd.,               First-aid Training\n           42, Okhla Industrial Estate, Phase – II\n\n        New Delhi – 110 020\n\n          Phone: 011 – 55624000\n\n          Fax: 011 – 55624010\n\n           E-mail: contact@crucialmoments.net\n\n     18.   Modicare Foundation                                   HIV / AIDS awareness\n         4 Community Centre, New Friends Colony,\n\n        New Delhi – 110 065\n\n          Phone: 011 – 5167235059\n\n          Fax: 011 – 26915469\n\n           E-mail: nivedita@modi.com\n\n                 nivedita@gmavil.com\n\n          Website: www.modicarefoundation.org\n\n     19.   National Safety Council                                 SHE Management / Technical\n       HQ and Institute Building                                  Training\n\n          98A, Sector 15, industrial Area\n\n          C.B.D Belapur, Navi Mumbai – 400614\n\n          Phone: 27579924\n\n     20.  NICMAR (National Institute of Construction              SHE Management / Technical\n         Management and Research)                               Training\n            910,9th Floor, Hemkunt Chambers,\n\n           89, Nehru Place,"
 > }
 
-### Jeac7250033ff4e35
+### J2dcd50f5c97a42c4
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -18261,7 +18711,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                   General Instruction: BMRC/SHE/CEO/010\n\n\n\n                     Experts / Agencies for SHE Services\n\n\n  Sl. No.                   Organisation                            Services\n\n      1.   Bureau Veritas Industrial Services (India) Pvt. Ltd.,        External SHE Audit\n          B-21 & 22, First Floor, Sector-16,                        SHE Management /\n         NOIDA-201 301 (U.P.)                                   Technical Training\n\n          Phone: 0120 - 2515055\n\n          Fax: 0120 - 2515248\n\n           E-mail: enp.delhi@in.bureauveritas.com\n\n      2.    Central Labour Institute                                 SHE Management /\n          Post box no: 17851, N.S.Monkikar Marg                  Technical Training\n\n          Sion , Mumbai- 400 022\n\n             Tel.: 022- 4092203\n\n          Fax: 022 – 4071986\n\n           E-mail: cli@dgfasli.nic.in\n\n      3.    Construction Industry Development Council              SHE Management /\n          801, 8th Floor,                                           Technical Training\n\n         Hemkunt Chambers,\n\n           89, Nehru Place,\n\n        New Delhi – 110 019\n\n           E-mail: cidc@vsnl.com\n\n      4.    Delhi Productivity Council                               SHE Management /\n          1E/10, Swami Ramtirath Nagar                           Technical Training\n\n        New Delhi – 110 055\n\n             Tel.: 23522835\n\n      5.    Det Norske Veritas AS,                                  External SHE Audit\n          203, Savitri Sadan 1,                                    SHE Management /\n         11 Preet Vihar Community Centre,                        Technical Training\n\n        New Delhi-110 092\n\n          Phone: 011-22531502/2253/1503,\n\n                   22427688/22531278\n\n          Fax: 011-2253 0247\n\n          Website: www.dnv.com\n\n      6.    Dr. A. V. Baliga Memorial trust                          HIV / AIDS awareness\n           Link House, Bagadur Shah Zafar Marg\n\n          Press Area\n\n        New Delhi – 110 002\n\n          Phone: 011 – 23311119"
 > }
 
-### Jfabb08a8c58bac22
+### Jf454b05fcabe9de3
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -18270,7 +18720,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "New Delhi – 110 019\n\n                   Phone: 011 – 51618415, 51618417, 51618418\n\n                     Fax: 011 – 51618416\n\n                21.   Quality Growth Services Pvt. Ltd.                        ISO Certification\n                     H-13, Kirti Nagar,\n\n               New Delhi – 110 015\n\n                     Fax: 011 – 25431737 / 25438598 / 25918332\n\n                       E-mail: qgs@qgspl.com\n\n                     Website: www.qgspl.com\n\n                22.   Safety Engineers Association / Safety Educational       SHE Management / Technical\n                      Trust – India                                              Training\n                      2/257, First Floor, Dr. Ambedkar Nagar,\n\n                  Manapakkam, Chennai – 600 116\n\n                   Phone: 044 – 22523461\n\n                       E-mail: safetrustindia@rediffmail.com\n\n                23.  SHE Management Consultancy & Support Services,     SHE Management / Technical\n                  145 A, Pocket-VI, (DDA Flats),                             Training\n\n                      Kondli Gharoli, Mayur Vihar-II,\n\n                     Delhi-110 096\n\n                     Fax: 011-2262 5015\n\n                      Mobile: 9811153873\n\n                       E-mail: r_k_p@vsnl.net\n\n                24.   St. Johns’ Ambulance                                    First-aid Training\n                 Red Cross Road\n\n               New Delhi – 110 001\n\n                25.   Vexil Business Process Services Pvt. Ltd.                Emergency Preparedness Mock\n                     208, A/4, Savitri Nagar,                                                    drill\n               New Delhi – 110 017                                    SHE Management / Technical\n                                                                                 Training\n                      Mobile: 9350232714, 98102832201, 9350232716\n\n                       E-mail: info@vexilbps.com\n\n                     Website: www.vexilbps.com\n\n                26.   Welding Research Institute                              SHE Practical Field Training for\n                     Bharat Heavy Electricals Ltd. (BHEL)                    Welding Safety\n\n                         Trichirappalli,\n\n                     Tamil Nadu – 620 014\n\n                   Phone: 0431 – 2577029, 2577283\n\n                     Fax: 0431 – 2520770\n\n                       E-mail: wri@bheltry.co.in"
 > }
 
-### J362b2908805ce8ff
+### J35617df3736a61fc
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -19053,7 +19503,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J5b6b53d85808fd05
+### J00b4a9a2b7384dcb
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -19321,13 +19771,13 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Sd70d1b402e4e8670
+### S7706cbc0b0a54bed
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#General Instruction: BMRC/SHE/CEO/012 — Warning Traffic Sign|General Instruction: BMRC/SHE/CEO/012 — Warning Traffic Sign]]
 
 > ---
 
-### J5df0d301a256f601
+### Jb0b666b05284e7b7
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 

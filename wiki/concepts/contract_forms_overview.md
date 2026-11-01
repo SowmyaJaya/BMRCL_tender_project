@@ -6,68 +6,68 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-31T06:20:49+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-10-31T06:20:49+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol1/secG.md
-  okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+  okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_g_forms/contract_forms.json
   json_sha256: 41670e8866feba3a9ff42e73f2e1da67ed58b020778fce98ad11cf7bc8e2571f
   json_pointer: /index_page
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secG.md
-  okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+  okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_g_forms/contract_forms.json
   json_sha256: 41670e8866feba3a9ff42e73f2e1da67ed58b020778fce98ad11cf7bc8e2571f
   json_pointer: /forms/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secG.md
-  okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+  okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_g_forms/contract_form_2_bank_details.json
   json_sha256: b43ed0fac4afe15a32f7c80e99aab330e47f4d881ca35a5eb701e10e41a85a6c
   json_pointer: /details/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secG.md
-  okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+  okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_g_forms/contract_form_2_bank_details.json
   json_sha256: b43ed0fac4afe15a32f7c80e99aab330e47f4d881ca35a5eb701e10e41a85a6c
   json_pointer: /details/4
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secG.md
-  okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+  okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_g_forms/contract_forms.json
   json_sha256: 41670e8866feba3a9ff42e73f2e1da67ed58b020778fce98ad11cf7bc8e2571f
   json_pointer: /forms/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secG.md
-  okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+  okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_g_forms/contract_form_2_bank_details.json
   json_sha256: b43ed0fac4afe15a32f7c80e99aab330e47f4d881ca35a5eb701e10e41a85a6c
   json_pointer: /details/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secG.md
-  okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+  okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_g_forms/contract_form_2_bank_details.json
   json_sha256: b43ed0fac4afe15a32f7c80e99aab330e47f4d881ca35a5eb701e10e41a85a6c
   json_pointer: /details/5
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secG.md
-  okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+  okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_g_forms/contract_form_2_bank_details.json
   json_sha256: b43ed0fac4afe15a32f7c80e99aab330e47f4d881ca35a5eb701e10e41a85a6c
   json_pointer: /details/3
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secG.md
-  okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+  okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_g_forms/contract_forms.json
   json_sha256: 41670e8866feba3a9ff42e73f2e1da67ed58b020778fce98ad11cf7bc8e2571f
@@ -79,17 +79,17 @@ claims:
     tenderer upon award, including the formal Contract Agreement (Form 1), Bank Guarantee for Performance Security
     and other advances (Form 2), and Insurance Surety Bond for Performance Security and other guarantees (Form 2A).
   evidence_ids:
-  - J72c701b53ecf1501
-  - Jf9d2ada6599b727b
+  - J786296baad8e758d
+  - Jcc49f8beaf50a801
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C881022ab2d30f779
+  id: C29166bfd3f6b7a13
   citations:
-  - id: J72c701b53ecf1501
+  - id: J786296baad8e758d
     okf_path: OKF_bundle/Technical/Vol1/secG.md
-    okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+    okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
     heading: Contract Form 1 — Contract Agreement
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -178,9 +178,9 @@ claims:
       : \"140\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf9d2ada6599b727b
+  - id: Jcc49f8beaf50a801
     okf_path: OKF_bundle/Technical/Vol1/secG.md
-    okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+    okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
     heading: Contract Form 1 — Contract Agreement
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -330,26 +330,37 @@ claims:
     heading_alignment: exact_form_number_match
   created_at: '2026-10-31T06:20:49+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C881022ab2d30f779
+    previous_evidence_ids:
+    - J72c701b53ecf1501
+    - Jf9d2ada6599b727b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'The designated beneficiary name for bank guarantees and payment details is Bangalore Metro Rail Corporation
     Limited, with designated accounts at Bank of India, Cantonment Branch, Bengaluru (Account No. 840420110000760,
     IFSC Code: BKID0008404).'
   evidence_ids:
-  - J26b7950c6932ff2e
-  - J50c95d5ed631ccea
-  - J64b1b854eba1e5c1
-  - J8db95daba8398daf
-  - Jeff3dc424784b556
-  - Jfd0eeef3f7bd5270
+  - Jb1f92455b7a149b0
+  - J8834eedd0fa6f0bc
+  - J94371db17a8f29a3
+  - Jfdac7ee84ff034a7
+  - J5e7cdf8da54ab89b
+  - Jcf3cd2b7f5c978b3
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb9970ab11ba4c5ae
+  id: Cadde7e19cf216c22
   citations:
-  - id: J26b7950c6932ff2e
+  - id: Jb1f92455b7a149b0
     okf_path: OKF_bundle/Technical/Vol1/secG.md
-    okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+    okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
     heading: Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery
       Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to
       the Contractor etc.
@@ -372,9 +383,9 @@ claims:
       : \"string\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: bank_details_within_contract_form_2
-  - id: J50c95d5ed631ccea
+  - id: J8834eedd0fa6f0bc
     okf_path: OKF_bundle/Technical/Vol1/secG.md
-    okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+    okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
     heading: Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery
       Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to
       the Contractor etc.
@@ -397,9 +408,9 @@ claims:
       ,\n  \"value_type\": \"string\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: bank_details_within_contract_form_2
-  - id: J64b1b854eba1e5c1
+  - id: J94371db17a8f29a3
     okf_path: OKF_bundle/Technical/Vol1/secG.md
-    okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+    okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
     heading: Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery
       Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to
       the Contractor etc.
@@ -512,9 +523,9 @@ claims:
       \ 2\",\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"Bank Guarantee\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_form_number_match
-  - id: J8db95daba8398daf
+  - id: Jfdac7ee84ff034a7
     okf_path: OKF_bundle/Technical/Vol1/secG.md
-    okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+    okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
     heading: Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery
       Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to
       the Contractor etc.
@@ -537,9 +548,9 @@ claims:
       \ Branch, Bengaluru.\",\n  \"value_type\": \"string\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: bank_details_within_contract_form_2
-  - id: Jeff3dc424784b556
+  - id: J5e7cdf8da54ab89b
     okf_path: OKF_bundle/Technical/Vol1/secG.md
-    okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+    okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
     heading: Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery
       Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to
       the Contractor etc.
@@ -562,9 +573,9 @@ claims:
       : \"string\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: bank_details_within_contract_form_2
-  - id: Jfd0eeef3f7bd5270
+  - id: Jcf3cd2b7f5c978b3
     okf_path: OKF_bundle/Technical/Vol1/secG.md
-    okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+    okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
     heading: Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery
       Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to
       the Contractor etc.
@@ -590,21 +601,36 @@ claims:
     heading_alignment: bank_details_within_contract_form_2
   created_at: '2026-10-31T06:20:49+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb9970ab11ba4c5ae
+    previous_evidence_ids:
+    - J26b7950c6932ff2e
+    - J50c95d5ed631ccea
+    - J64b1b854eba1e5c1
+    - J8db95daba8398daf
+    - Jeff3dc424784b556
+    - Jfd0eeef3f7bd5270
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Insurance Surety Bonds submitted under Form 2A are subject to the Uniform Rules for Demand Guarantees (URDG)
     2010 Revision, ICC Publication No. 758, excluding the supporting statement under Article 15(a), and must be
     issued by an IRDA approved Surety Insurer.
   evidence_ids:
-  - Jc259832fb8d58dbb
+  - J94fc951e8286f0a0
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2d7769eafac981eb
+  id: C367b6081a8889909
   citations:
-  - id: Jc259832fb8d58dbb
+  - id: J94fc951e8286f0a0
     okf_path: OKF_bundle/Technical/Vol1/secG.md
-    okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+    okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
     heading: Contract Form 2A — Insurance Surety Bond for Performance Security / Mobilisation Advance / Plant &
       Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer
       to the Contractor etc.
@@ -726,20 +752,30 @@ claims:
     heading_alignment: exact_form_number_match
   created_at: '2026-10-31T06:20:49+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2d7769eafac981eb
+    previous_evidence_ids:
+    - Jc259832fb8d58dbb
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Whether contract forms may be modified at the time of finalization of the contract as noted in the index
     page of Section G.
   evidence_ids:
-  - J72c701b53ecf1501
+  - J786296baad8e758d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbc799ff5087bea31
+  id: C2cf643b7257a6117
   citations:
-  - id: J72c701b53ecf1501
+  - id: J786296baad8e758d
     okf_path: OKF_bundle/Technical/Vol1/secG.md
-    okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+    okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
     heading: Contract Form 1 — Contract Agreement
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -830,13 +866,23 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:20:49+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbc799ff5087bea31
+    previous_evidence_ids:
+    - J72c701b53ecf1501
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: concepts/amendment_sequence_and_conflicts.md
   title: Amendment Sequence and Unresolved Source Conflicts
   evidence_ids:
-  - Jf9d2ada6599b727b
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - Jcc49f8beaf50a801
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Contract Forms Overview (Section G)
@@ -846,26 +892,26 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - Section G of Technical Volume 1 provides the standard contractual forms to be submitted by the successful tenderer upon award, including the formal Contract Agreement (Form 1), Bank Guarantee for Performance Security and other advances (Form 2), and Insurance Surety Bond for Performance Security and other guarantees (Form 2A).
-  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 146; quotation `J72c701b53ecf1501`. JSON: `parsed_json/vol1/section_g_forms/contract_forms.json#/index_page`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 147, 148, 149, 150; quotation `Jf9d2ada6599b727b`. JSON: `parsed_json/vol1/section_g_forms/contract_forms.json#/forms/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 146; quotation `J786296baad8e758d`. JSON: `parsed_json/vol1/section_g_forms/contract_forms.json#/index_page`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 147, 148, 149, 150; quotation `Jcc49f8beaf50a801`. JSON: `parsed_json/vol1/section_g_forms/contract_forms.json#/forms/0`.
 
 ## Key Parameters and Source Statements
 
 - The designated beneficiary name for bank guarantees and payment details is Bangalore Metro Rail Corporation Limited, with designated accounts at Bank of India, Cantonment Branch, Bengaluru (Account No. 840420110000760, IFSC Code: BKID0008404).
-  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]; `Vol1DLNP1.pdf`; PDF page(s) 152; quotation `J26b7950c6932ff2e`. JSON: `parsed_json/vol1/section_g_forms/contract_form_2_bank_details.json#/details/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]; `Vol1DLNP1.pdf`; PDF page(s) 152; quotation `J50c95d5ed631ccea`. JSON: `parsed_json/vol1/section_g_forms/contract_form_2_bank_details.json#/details/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]; `Vol1DLNP1.pdf`; PDF page(s) 151, 152, 153; quotation `J64b1b854eba1e5c1`. JSON: `parsed_json/vol1/section_g_forms/contract_forms.json#/forms/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]; `Vol1DLNP1.pdf`; PDF page(s) 152; quotation `J8db95daba8398daf`. JSON: `parsed_json/vol1/section_g_forms/contract_form_2_bank_details.json#/details/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]; `Vol1DLNP1.pdf`; PDF page(s) 152; quotation `Jeff3dc424784b556`. JSON: `parsed_json/vol1/section_g_forms/contract_form_2_bank_details.json#/details/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]; `Vol1DLNP1.pdf`; PDF page(s) 152; quotation `Jfd0eeef3f7bd5270`. JSON: `parsed_json/vol1/section_g_forms/contract_form_2_bank_details.json#/details/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]; `Vol1DLNP1.pdf`; PDF page(s) 152; quotation `Jb1f92455b7a149b0`. JSON: `parsed_json/vol1/section_g_forms/contract_form_2_bank_details.json#/details/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]; `Vol1DLNP1.pdf`; PDF page(s) 152; quotation `J8834eedd0fa6f0bc`. JSON: `parsed_json/vol1/section_g_forms/contract_form_2_bank_details.json#/details/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]; `Vol1DLNP1.pdf`; PDF page(s) 151, 152, 153; quotation `J94371db17a8f29a3`. JSON: `parsed_json/vol1/section_g_forms/contract_forms.json#/forms/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]; `Vol1DLNP1.pdf`; PDF page(s) 152; quotation `Jfdac7ee84ff034a7`. JSON: `parsed_json/vol1/section_g_forms/contract_form_2_bank_details.json#/details/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]; `Vol1DLNP1.pdf`; PDF page(s) 152; quotation `J5e7cdf8da54ab89b`. JSON: `parsed_json/vol1/section_g_forms/contract_form_2_bank_details.json#/details/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]; `Vol1DLNP1.pdf`; PDF page(s) 152; quotation `Jcf3cd2b7f5c978b3`. JSON: `parsed_json/vol1/section_g_forms/contract_form_2_bank_details.json#/details/3`.
 
 - Insurance Surety Bonds submitted under Form 2A are subject to the Uniform Rules for Demand Guarantees (URDG) 2010 Revision, ICC Publication No. 758, excluding the supporting statement under Article 15(a), and must be issued by an IRDA approved Surety Insurer.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 2A — Insurance Surety Bond for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2A — Insurance Surety Bond for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]; `Vol1DLNP1.pdf`; PDF page(s) 154, 155, 156; quotation `Jc259832fb8d58dbb`. JSON: `parsed_json/vol1/section_g_forms/contract_forms.json#/forms/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 2A — Insurance Surety Bond for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2A — Insurance Surety Bond for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]; `Vol1DLNP1.pdf`; PDF page(s) 154, 155, 156; quotation `J94fc951e8286f0a0`. JSON: `parsed_json/vol1/section_g_forms/contract_forms.json#/forms/2`.
 
 ## Open Questions and Contradictions
 
 - Whether contract forms may be modified at the time of finalization of the contract as noted in the index page of Section G.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 146; quotation `J72c701b53ecf1501`. JSON: `parsed_json/vol1/section_g_forms/contract_forms.json#/index_page`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 146; quotation `J786296baad8e758d`. JSON: `parsed_json/vol1/section_g_forms/contract_forms.json#/index_page`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]
@@ -875,12 +921,12 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Typed Relations
 
 - **relates_to (editorial, inferred):** [[wiki/concepts/amendment_sequence_and_conflicts|Amendment Sequence and Unresolved Source Conflicts]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 147, 148, 149, 150; `Jf9d2ada6599b727b`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 147, 148, 149, 150; `Jcc49f8beaf50a801`.
 
 <details>
 <summary>Supporting source passages</summary>
 
-### J72c701b53ecf1501
+### J786296baad8e758d
 
 [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]
 
@@ -1145,7 +1191,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### Jf9d2ada6599b727b
+### Jcc49f8beaf50a801
 
 [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]
 
@@ -1176,7 +1222,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Contract Agreement"
 > }
 
-### J26b7950c6932ff2e
+### Jb1f92455b7a149b0
 
 [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]
 
@@ -1214,7 +1260,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value_type": "string"
 > }
 
-### J50c95d5ed631ccea
+### J8834eedd0fa6f0bc
 
 [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]
 
@@ -1252,7 +1298,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value_type": "string"
 > }
 
-### J64b1b854eba1e5c1
+### J94371db17a8f29a3
 
 [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]
 
@@ -1279,7 +1325,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Bank Guarantee"
 > }
 
-### J8db95daba8398daf
+### Jfdac7ee84ff034a7
 
 [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]
 
@@ -1317,7 +1363,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value_type": "string"
 > }
 
-### Jeff3dc424784b556
+### J5e7cdf8da54ab89b
 
 [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]
 
@@ -1355,7 +1401,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value_type": "string"
 > }
 
-### Jfd0eeef3f7bd5270
+### Jcf3cd2b7f5c978b3
 
 [[OKF_bundle/Technical/Vol1/secG#Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]
 
@@ -1393,7 +1439,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value_type": "string"
 > }
 
-### Jc259832fb8d58dbb
+### J94fc951e8286f0a0
 
 [[OKF_bundle/Technical/Vol1/secG#Contract Form 2A — Insurance Surety Bond for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.|Contract Form 2A — Insurance Surety Bond for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.]]
 

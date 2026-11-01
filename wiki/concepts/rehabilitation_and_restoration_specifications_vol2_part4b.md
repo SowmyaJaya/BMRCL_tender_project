@@ -6,239 +6,239 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-31T06:40:08+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T11:02:31+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /preamble/0
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /restoration_instructions/0
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /restoration_instructions/1
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /technical_specifications/0
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /technical_specifications/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /technical_specifications/3
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /technical_specifications/5
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /technical_specifications/4
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /restoration_instructions/3
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /restoration_instructions/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /restoration_instructions/4
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /technical_specifications/9
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /technical_specifications/11
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /technical_specifications/8
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /technical_specifications/6
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /technical_specifications/14
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /technical_specifications/12
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /technical_specifications/13
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /technical_specifications/7
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /technical_specifications/10
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /source_page_context/0
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /source_page_context/1
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /other_numbered_lines/6
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /technical_specifications/15
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /source_page_context/4
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /source_page_context/5
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /source_page_context/6
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /source_page_context/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /source_page_context/7
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /source_page_context/3
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /restoration_instructions/5
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /technical_specifications/1
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
@@ -250,17 +250,17 @@ claims:
     restoration works carried out for safety reasons following the demolition or dismantling of structures under
     BMRCL Phase 3 Tender Package P1.
   evidence_ids:
-  - Jf69117de36443ee2
-  - S5156636e127c583d
+  - Jba3bcc9d6b70b130
+  - S1c3f01515437083c
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C66028364ddb4d93f
+  id: C0b3defaf8035a162
   citations:
-  - id: Jf69117de36443ee2
+  - id: Jba3bcc9d6b70b130
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -277,9 +277,9 @@ claims:
       n\\n      Restoration works for safety reasons.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S5156636e127c583d
+  - id: S1c3f01515437083c
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -300,21 +300,32 @@ claims:
     page_precision: document_metadata_range
   created_at: '2026-10-31T06:40:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C66028364ddb4d93f
+    previous_evidence_ids:
+    - Jf69117de36443ee2
+    - S5156636e127c583d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: BMRCL may appoint a consultant or Engineer to conduct Building Condition Studies (BCS) and recommend remediation,
     structural restoration (such as front walls, doors, windows, beams, and columns), and demolition sequences,
     with measurements restricted to buildings completed under such supervision.
   evidence_ids:
-  - J4d5b89fdb3b2cdb4
+  - J9ffbd1d96150e096
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C164547135a0d629f
+  id: Cc8cfaf36ae0ec8b2
   citations:
-  - id: J4d5b89fdb3b2cdb4
+  - id: J9ffbd1d96150e096
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -362,19 +373,29 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:40:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C164547135a0d629f
+    previous_evidence_ids:
+    - J4d5b89fdb3b2cdb4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Restoration items executed under this contract follow the KPWD Common Schedule of Rates for the year 2023-24.
   evidence_ids:
-  - J4d5b89fdb3b2cdb4
+  - J9ffbd1d96150e096
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C786c9982753356a1
+  id: Cc784145396e872b2
   citations:
-  - id: J4d5b89fdb3b2cdb4
+  - id: J9ffbd1d96150e096
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -422,21 +443,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:40:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C786c9982753356a1
+    previous_evidence_ids:
+    - J4d5b89fdb3b2cdb4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Order of precedence for standards and technical specifications establishes that provisions in the Employer
     Requirement, Scope of Work & Technical Specifications take priority over General Technical Specifications, KPWD
     Specifications, MORTH Specifications, and Standard Codes of Practice respectively.
   evidence_ids:
-  - Je0c9f938cf2098a9
+  - Jb547c064ce449341
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca9c63f2598c80998
+  id: C0d0c32713b123612
   citations:
-  - id: Je0c9f938cf2098a9
+  - id: Jb547c064ce449341
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -488,20 +519,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:40:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca9c63f2598c80998
+    previous_evidence_ids:
+    - Je0c9f938cf2098a9
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Materials used must be new and of the best quality, complying with Indian Standards, with non-availability
     in metric sizes permitting nearest FPS units upon Engineer approval without extra cost or rebate.
   evidence_ids:
-  - J4b8168b15a2bf828
+  - J145844e252fa35e0
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4048dfe9d650eb6f
+  id: C3c522790e5ddda5a
   citations:
-  - id: J4b8168b15a2bf828
+  - id: J145844e252fa35e0
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 1 — Materials and Workmanship
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -585,20 +626,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:40:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4048dfe9d650eb6f
+    previous_evidence_ids:
+    - J4b8168b15a2bf828
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Samples of materials must be deposited at the Engineer's office for approval at least 15 days before placing
     supply orders.
   evidence_ids:
-  - J6fbd8c1521884f0b
+  - J63e2b62b5192e71f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7e4e82abea12a1a8
+  id: C68d50c15b74c4f01
   citations:
-  - id: J6fbd8c1521884f0b
+  - id: J63e2b62b5192e71f
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 3 — Samples of Material
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -628,21 +679,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:40:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7e4e82abea12a1a8
+    previous_evidence_ids:
+    - J6fbd8c1521884f0b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Storage facilities for materials like cement must be safe, dry, weather-proof with raised wooden flooring,
     and maintained with at least one month's supply during active construction, arranged in chronological order
     of receipt.
   evidence_ids:
-  - J75650c108b10cc06
+  - J8d0440907858629b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C33d0a4c3b02f78bd
+  id: Ca156f0e33452ad80
   citations:
-  - id: J75650c108b10cc06
+  - id: J8d0440907858629b
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 4 — Storage
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -674,23 +735,33 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:40:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C33d0a4c3b02f78bd
+    previous_evidence_ids:
+    - J75650c108b10cc06
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Concrete works require weigh batching (or approved batch mixing plants), mixing times of at least 2 minutes
     for machine mixing, OPC cement complying with IS 8112 stored in stacks not exceeding 10 bags high, fine aggregates
     conforming to IS 383 with fineness modulus between 2.60 and 3.20, and coarse aggregates of 20 mm and down size
     for RCC work unless otherwise stated.
   evidence_ids:
-  - J406cfa054c2884b8
-  - J73e1bb795fa498c3
+  - J97fd952a114e3577
+  - J5e888e90e75effdc
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C09be20bfcf64001a
+  id: C12ee85e787d68e18
   citations:
-  - id: J406cfa054c2884b8
+  - id: J97fd952a114e3577
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 6 — Cement Concrete Plain and Reinforced
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -840,9 +911,9 @@ claims:
       CEMENT CONCRETE PLAIN AND REINFORCED\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J73e1bb795fa498c3
+  - id: J5e888e90e75effdc
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 5 — Specifications for Concrete Works
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -911,22 +982,33 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:40:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C09be20bfcf64001a
+    previous_evidence_ids:
+    - J406cfa054c2884b8
+    - J73e1bb795fa498c3
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Contractors must obtain all necessary local authority permissions prior to site work, protect existing utilities,
     and execute electrical and plumbing works exclusively through licensed electrical and plumbing contractors.
   evidence_ids:
-  - J14c2a5f49d953ca0
-  - Ja42deb9b250cc6d2
-  - Jf1ff2539be6a73c0
+  - J6ce4b4cc2bfb75b0
+  - J045adce8a49dbe7c
+  - J89ede155b8b03f9e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C743f34f9ed178f63
+  id: Cd27fd799b734f0ee
   citations:
-  - id: J14c2a5f49d953ca0
+  - id: J6ce4b4cc2bfb75b0
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -953,9 +1035,9 @@ claims:
       pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Ja42deb9b250cc6d2
+  - id: J045adce8a49dbe7c
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -982,9 +1064,9 @@ claims:
       : \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf1ff2539be6a73c0
+  - id: J89ede155b8b03f9e
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -1012,28 +1094,40 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:40:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C743f34f9ed178f63
+    previous_evidence_ids:
+    - J14c2a5f49d953ca0
+    - Ja42deb9b250cc6d2
+    - Jf1ff2539be6a73c0
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 2 Part 4B establishes technical specifications for rehabilitation and restoration works, covering
     concrete consistency, placement, compaction, transport, curing, joints, strength, formwork, and reinforcement.
   evidence_ids:
-  - J2707c9c8171b144c
-  - J2fb20bb896254a6b
-  - J508fec85b57149d9
-  - J5bb5caa8190cbcad
-  - J6b4d4ddf8645b289
-  - J7e03572adbaca19a
-  - J920a9f596916d4bf
-  - Jc3abe94f6a36730a
-  - Jcbb4e019d209f8c2
+  - J72643d8c3eb5d32b
+  - Jd55409e07356062a
+  - J82823527de96c9fd
+  - J6641594df586321b
+  - J56df1cb7fd233760
+  - Jb0219ea7add4f721
+  - J75ac9732bdf074f2
+  - Jac91342faf7280a7
+  - J8cebe217ce1f04d8
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca6c493d128188748
+  id: C115419ce30938626
   citations:
-  - id: J2707c9c8171b144c
+  - id: J72643d8c3eb5d32b
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 10 — Curing
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1062,9 +1156,9 @@ claims:
       CURING\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J2fb20bb896254a6b
+  - id: Jd55409e07356062a
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 12 — Vertical Joints
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1090,9 +1184,9 @@ claims:
       review_status\": \"pending_manual_review\",\n  \"title\": \"VERTICAL JOINTS\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J508fec85b57149d9
+  - id: J82823527de96c9fd
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 9 — Transporting
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1123,9 +1217,9 @@ claims:
       TRANSPORTING\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J5bb5caa8190cbcad
+  - id: J6641594df586321b
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 7 — Consistency
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1217,9 +1311,9 @@ claims:
       CONSISTENCY\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J6b4d4ddf8645b289
+  - id: J56df1cb7fd233760
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 15 — Reinforcement
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1299,9 +1393,9 @@ claims:
       REINFORCEMENT\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J7e03572adbaca19a
+  - id: Jb0219ea7add4f721
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 13 — Strength of Ordinary Concrete
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1335,9 +1429,9 @@ claims:
       STRENGTH OF ORDINARY CONCRETE\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J920a9f596916d4bf
+  - id: J75ac9732bdf074f2
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 14 — Concrete Formwork and Centering
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1622,9 +1716,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"CONCRETE FORMWORK AND CENTERING\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jc3abe94f6a36730a
+  - id: Jac91342faf7280a7
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 8 — Placing and Compacting
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1663,9 +1757,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"PLACING AND COMPACTING\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jcbb4e019d209f8c2
+  - id: J8cebe217ce1f04d8
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 11 — Construction Joints
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1722,19 +1816,37 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:41:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca6c493d128188748
+    previous_evidence_ids:
+    - J2707c9c8171b144c
+    - J2fb20bb896254a6b
+    - J508fec85b57149d9
+    - J5bb5caa8190cbcad
+    - J6b4d4ddf8645b289
+    - J7e03572adbaca19a
+    - J920a9f596916d4bf
+    - Jc3abe94f6a36730a
+    - Jcbb4e019d209f8c2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Concrete transport time between mixing and consolidation in position shall normally not exceed 30 minutes.
   evidence_ids:
-  - J508fec85b57149d9
+  - J82823527de96c9fd
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Caa2e0726cb398bc5
+  id: Cdf8a6f3b0104a949
   citations:
-  - id: J508fec85b57149d9
+  - id: J82823527de96c9fd
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 9 — Transporting
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1767,20 +1879,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:41:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Caa2e0726cb398bc5
+    previous_evidence_ids:
+    - J508fec85b57149d9
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Cement concrete after laying must be protected from damage until set and cured thereafter for not less than
     10 days using water free from sediments and fit for drinking.
   evidence_ids:
-  - J2707c9c8171b144c
+  - J72643d8c3eb5d32b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C48e23345762d1a11
+  id: C51e011fe593652b3
   citations:
-  - id: J2707c9c8171b144c
+  - id: J72643d8c3eb5d32b
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 10 — Curing
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1811,21 +1933,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:41:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C48e23345762d1a11
+    previous_evidence_ids:
+    - J2707c9c8171b144c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Formwork must be rigidly constructed using 12 mm thick new plastic coated plywood sheets for columns, pedestals,
     beams, walls, and fascia, and steel or plywood for roof slabs, canopies, floors, cover slabs, and retaining
     walls.
   evidence_ids:
-  - J920a9f596916d4bf
+  - J75ac9732bdf074f2
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8badf2c45890e43c
+  id: C8a751c116792a2ea
   citations:
-  - id: J920a9f596916d4bf
+  - id: J75ac9732bdf074f2
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 14 — Concrete Formwork and Centering
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -2112,20 +2244,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:41:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8badf2c45890e43c
+    previous_evidence_ids:
+    - J920a9f596916d4bf
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'Minimum cement quantities for concrete grades are specified as: 3.40 bags/cum for 1:4:8, 4.40 bags/cum
     for 1:3:6, 6.40 bags/cum for 1:2:4, 8.00 bags/cum for 1:1.5:3 plain and RCC, and 10.80 bags/cum for RCC 1:1:2.'
   evidence_ids:
-  - J920a9f596916d4bf
+  - J75ac9732bdf074f2
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd7ddc0ea26ddee00
+  id: C1474919572a96915
   citations:
-  - id: J920a9f596916d4bf
+  - id: J75ac9732bdf074f2
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 14 — Concrete Formwork and Centering
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -2412,21 +2554,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:41:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd7ddc0ea26ddee00
+    previous_evidence_ids:
+    - J920a9f596916d4bf
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Steel reinforcement shall consist of mild steel of tested quality or high yield strength deformed bars of
     grade Fe-415 conforming to IS:1786-1966, Fe-500, or as specified on drawings, with laps generally equal to 50
     times the bar diameter and not more than 33% of bars lapped at the same location.
   evidence_ids:
-  - J6b4d4ddf8645b289
+  - J56df1cb7fd233760
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C23bcb9a12c5dfbc9
+  id: C6503a33efacaa0c2
   citations:
-  - id: J6b4d4ddf8645b289
+  - id: J56df1cb7fd233760
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 15 — Reinforcement
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -2508,22 +2660,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:41:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C23bcb9a12c5dfbc9
+    previous_evidence_ids:
+    - J6b4d4ddf8645b289
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 2 Part 4B establishes technical specifications and execution standards for rehabilitation and restoration
     works (such as front walls, doors, windows, beams, and columns) required for safety and functional reasons following
     Building Condition Studies (BCS) under BMRCL Phase 3 Tender Package P1, with measurements restricted to buildings
     completed under the BCS consultant's supervision.
   evidence_ids:
-  - J28896027b0708774
+  - J4ec840f0bc86412d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3a25f11eab171fdf
+  id: Ca541ea6c699b027a
   citations:
-  - id: J28896027b0708774
+  - id: J4ec840f0bc86412d
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -2636,21 +2798,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:42:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3a25f11eab171fdf
+    previous_evidence_ids:
+    - J28896027b0708774
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The order of precedence for rehabilitation and restoration standards and technical specifications gives
     top priority to provisions in the Employer Requirement, Scope of Work & Technical Specifications, followed by
     Technical Specifications, KPWD Specifications, MORTH Specifications, and Standard Codes of Practice respectively.
   evidence_ids:
-  - J28896027b0708774
+  - J4ec840f0bc86412d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C07859f49060c749f
+  id: Cf50306903cd20bf3
   citations:
-  - id: J28896027b0708774
+  - id: J4ec840f0bc86412d
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -2763,22 +2935,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:42:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C07859f49060c749f
+    previous_evidence_ids:
+    - J28896027b0708774
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Technical specifications mandate that all materials used in rehabilitation and restoration must be new and
     of the best quality, complying with Indian Standards, with weigh batching or approved concrete batch mix plants
     used for concrete production where cement is measured by weight (1 m3 equals 1440 kg or a 50 kg bag equals 35
     liters) and coarse aggregate size is specified as 20 mm and down unless otherwise stated.
   evidence_ids:
-  - Jb5873f13c1466408
+  - J4f14043a2859fce4
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2f448ab47f9e18d0
+  id: C476f27552a50ce1d
   citations:
-  - id: Jb5873f13c1466408
+  - id: J4f14043a2859fce4
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -2881,20 +3063,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:42:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2f448ab47f9e18d0
+    previous_evidence_ids:
+    - Jb5873f13c1466408
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Materials samples must be deposited at the Engineer's office for approval at least 15 days before placing
     supply orders, and cement storage must be maintained adequate for at least 1 month during active construction.
   evidence_ids:
-  - Jb5873f13c1466408
+  - J4f14043a2859fce4
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cac3de0476ce55a22
+  id: C2b676b9e1225ff93
   citations:
-  - id: Jb5873f13c1466408
+  - id: J4f14043a2859fce4
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -2997,21 +3189,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:42:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cac3de0476ce55a22
+    previous_evidence_ids:
+    - Jb5873f13c1466408
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Fresh concrete must be conveyed from mixing to final deposit within not more than 30 minutes to prevent
     segregation, protected against drying wind and direct sun, and cured for not less than 10 days.
   evidence_ids:
-  - J508fec85b57149d9
-  - J2707c9c8171b144c
+  - J82823527de96c9fd
+  - J72643d8c3eb5d32b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C761bb77d49582584
+  id: Cd0a77c54c35f9f10
   citations:
-  - id: J508fec85b57149d9
+  - id: J82823527de96c9fd
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 9 — Transporting
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -3042,9 +3244,9 @@ claims:
       TRANSPORTING\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J2707c9c8171b144c
+  - id: J72643d8c3eb5d32b
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 10 — Curing
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -3075,22 +3277,33 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:42:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C761bb77d49582584
+    previous_evidence_ids:
+    - J508fec85b57149d9
+    - J2707c9c8171b144c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Formwork must be removed without shock or vibration, vertical joints finished against secure temporary shutter
     stops, and reinforcing steel stored to prevent distortion and corrosion.
   evidence_ids:
-  - J6cd629a1b9456c47
-  - J2fb20bb896254a6b
-  - J0f94d3091220f12b
+  - J4f328f0f867039cc
+  - Jd55409e07356062a
+  - J2c54ff975ec2ef58
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc7e538ef7f3454c5
+  id: Cbf1cdc38bd8cb0a9
   citations:
-  - id: J6cd629a1b9456c47
+  - id: J4f328f0f867039cc
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -3108,9 +3321,9 @@ claims:
       \  Removal of Form Work:     All formwork shall be removed without shock or vibration\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J2fb20bb896254a6b
+  - id: Jd55409e07356062a
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 12 — Vertical Joints
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -3136,9 +3349,9 @@ claims:
       review_status\": \"pending_manual_review\",\n  \"title\": \"VERTICAL JOINTS\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J0f94d3091220f12b
+  - id: J2c54ff975ec2ef58
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 16 — Stacking and Storage
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -3168,29 +3381,41 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:42:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc7e538ef7f3454c5
+    previous_evidence_ids:
+    - J6cd629a1b9456c47
+    - J2fb20bb896254a6b
+    - J0f94d3091220f12b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 2 Part 4B details the technical specifications and execution standards for concrete works, formwork,
     reinforcement, and general restoration standards for safety reasons under BMRCL Tender Package P1.
   evidence_ids:
-  - J076acca5e09cfd7b
-  - J0fa404cc10eb35ce
-  - J2707c9c8171b144c
-  - J28896027b0708774
-  - J2fb20bb896254a6b
-  - J508fec85b57149d9
-  - J6b4d4ddf8645b289
-  - J894712ffe19b2491
-  - Jb5c66a5cbbd469d2
-  - Jddc885d563a1fcbf
+  - Je540385f2bc82932
+  - J5ae529d800a393d5
+  - J72643d8c3eb5d32b
+  - J4ec840f0bc86412d
+  - Jd55409e07356062a
+  - J82823527de96c9fd
+  - J56df1cb7fd233760
+  - J19a75531b034e86f
+  - J4d8e9ea35fd88809
+  - Ja7ab6d0b93c648e9
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbf94cb9d7e49f838
+  id: Cff5581d0862494bc
   citations:
-  - id: J076acca5e09cfd7b
+  - id: Je540385f2bc82932
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -3302,9 +3527,9 @@ claims:
       \      ],\n      \"block_number\": 4,\n      \"text\": \"184\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J0fa404cc10eb35ce
+  - id: J5ae529d800a393d5
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -3369,9 +3594,9 @@ claims:
       \      ],\n      \"block_number\": 4,\n      \"text\": \"185\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J2707c9c8171b144c
+  - id: J72643d8c3eb5d32b
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 10 — Curing
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -3400,9 +3625,9 @@ claims:
       CURING\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J28896027b0708774
+  - id: J4ec840f0bc86412d
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -3513,9 +3738,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J2fb20bb896254a6b
+  - id: Jd55409e07356062a
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 12 — Vertical Joints
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -3541,9 +3766,9 @@ claims:
       review_status\": \"pending_manual_review\",\n  \"title\": \"VERTICAL JOINTS\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J508fec85b57149d9
+  - id: J82823527de96c9fd
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 9 — Transporting
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -3574,9 +3799,9 @@ claims:
       TRANSPORTING\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J6b4d4ddf8645b289
+  - id: J56df1cb7fd233760
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 15 — Reinforcement
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -3656,9 +3881,9 @@ claims:
       REINFORCEMENT\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J894712ffe19b2491
+  - id: J19a75531b034e86f
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -3752,9 +3977,9 @@ claims:
       : \"186\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jb5c66a5cbbd469d2
+  - id: J4d8e9ea35fd88809
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -3871,9 +4096,9 @@ claims:
       : 7,\n      \"text\": \"182\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jddc885d563a1fcbf
+  - id: Ja7ab6d0b93c648e9
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -3971,21 +4196,40 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:45:24+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbf94cb9d7e49f838
+    previous_evidence_ids:
+    - J076acca5e09cfd7b
+    - J0fa404cc10eb35ce
+    - J2707c9c8171b144c
+    - J28896027b0708774
+    - J2fb20bb896254a6b
+    - J508fec85b57149d9
+    - J6b4d4ddf8645b289
+    - J894712ffe19b2491
+    - Jb5c66a5cbbd469d2
+    - Jddc885d563a1fcbf
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'Minimum cement contents for concrete grades are specified as follows: CC 1:4:8 at 3.40 bags/cum, CC 1:3:6
     at 4.40 bags/cum, CC 1:2:4 at 6.40 bags/cum, CC 1:1.5:3 at 8.00 bags/cum, RCC 1:1.5:3 at 8.00 bags/cum, and
     RCC 1:1:2 at 10.80 bags/cum.'
   evidence_ids:
-  - J0fa404cc10eb35ce
+  - J5ae529d800a393d5
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce1b18f76144160b9
+  id: C7fbbd4b905ce8e5e
   citations:
-  - id: J0fa404cc10eb35ce
+  - id: J5ae529d800a393d5
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -4052,20 +4296,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:45:24+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce1b18f76144160b9
+    previous_evidence_ids:
+    - J0fa404cc10eb35ce
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Maximum total water including aggregate moisture per 50 kg of cement is restricted to 34 liters for 1:3:6
     mix, 32 liters for 1:2:4 mix, 30 liters for 1:1.5:3 mix, and 27 liters for 1:1:2 mix.
   evidence_ids:
-  - J47015c69706b0a82
+  - J0d82c9ab5318c32e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cfe8960aff9b57d2b
+  id: C0637cbde79a0d5f7
   citations:
-  - id: J47015c69706b0a82
+  - id: J0d82c9ab5318c32e
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -4181,20 +4435,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:45:24+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cfe8960aff9b57d2b
+    previous_evidence_ids:
+    - J47015c69706b0a82
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Cement concrete after laying must be protected from damage and cured for not less than 10 days using clean
     water free from sediments.
   evidence_ids:
-  - J2707c9c8171b144c
+  - J72643d8c3eb5d32b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbb72b3e580d76494
+  id: C97e6e357ea07cce9
   citations:
-  - id: J2707c9c8171b144c
+  - id: J72643d8c3eb5d32b
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 10 — Curing
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -4225,20 +4489,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:45:24+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbb72b3e580d76494
+    previous_evidence_ids:
+    - J2707c9c8171b144c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Steel reinforcement comprises high yield strength deformed bars of grade Fe-415 conforming to IS 1786-1966,
     Fe-500, or mild steel, with lap lengths specified as 50 times the bar diameter unless otherwise shown.
   evidence_ids:
-  - J6b4d4ddf8645b289
+  - J56df1cb7fd233760
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4bc2266781fc4b0b
+  id: C6894b50caaa37c5c
   citations:
-  - id: J6b4d4ddf8645b289
+  - id: J56df1cb7fd233760
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 15 — Reinforcement
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -4320,20 +4594,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:45:24+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4bc2266781fc4b0b
+    previous_evidence_ids:
+    - J6b4d4ddf8645b289
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor must strictly adhere to working drawings, detail drawings, and written instructions issued
     by the Engineer.
   evidence_ids:
-  - Je0b34c8b186a33cc
+  - Jb86293640f0ddef1
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca6f5efcf072cbdfb
+  id: Cddf1be3fee010ea0
   citations:
-  - id: Je0b34c8b186a33cc
+  - id: Jb86293640f0ddef1
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation
       and Restoration Works'
     source_document: Vol2DLNP1.pdf
@@ -4359,20 +4643,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T11:02:31+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca6f5efcf072cbdfb
+    previous_evidence_ids:
+    - Je0b34c8b186a33cc
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: If required by the Engineer or Employer, the Contractor must arrange to test materials, concrete cubes,
     and work portions at its own cost to prove soundness and sufficiency.
   evidence_ids:
-  - J698146021cb33654
+  - Jc09ace3a6f098d6d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc50216ec64967899
+  id: C94218da3a2dd6a38
   citations:
-  - id: J698146021cb33654
+  - id: Jc09ace3a6f098d6d
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 2 — Testing of Works and Materials
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -4410,20 +4704,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T11:02:31+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc50216ec64967899
+    previous_evidence_ids:
+    - J698146021cb33654
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: If testing reveals defective or unsound materials or workmanship in the opinion of the Engineer, the Contractor
     must pull down and re-execute the work at its own cost, and remove defective materials from the site immediately.
   evidence_ids:
-  - J698146021cb33654
+  - Jc09ace3a6f098d6d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C36bf836f974f68f4
+  id: C58363e49fb1e0e86
   citations:
-  - id: J698146021cb33654
+  - id: Jc09ace3a6f098d6d
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 2 — Testing of Works and Materials
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -4461,21 +4765,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T11:02:31+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C36bf836f974f68f4
+    previous_evidence_ids:
+    - J698146021cb33654
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Earthwork specifications cover general requirements in various soils and rocks, including site clearing,
     general filling, compaction, excavation, backfilling, side stabilization, dewatering, access provisions, safety
     measures, lighting, and signage.
   evidence_ids:
-  - J6df236b4e4c87756
+  - J9f7965e43353115f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4c6722b90a083638
+  id: Cf861e4cb9242ce5f
   citations:
-  - id: J6df236b4e4c87756
+  - id: J9f7965e43353115f
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 17 — Earthwork Including General Filling, Dewatering and Backfilling
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -4529,20 +4843,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T11:02:31+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4c6722b90a083638
+    previous_evidence_ids:
+    - J6df236b4e4c87756
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: General filling must use approved material in areas indicated in drawings or directed by the Engineer, and
     tenderers must acquaint themselves with the site to assess effort.
   evidence_ids:
-  - J6df236b4e4c87756
+  - J9f7965e43353115f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce86101f709d91dbe
+  id: C65555571df4e57b5
   citations:
-  - id: J6df236b4e4c87756
+  - id: J9f7965e43353115f
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 17 — Earthwork Including General Filling, Dewatering and Backfilling
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -4596,13 +4920,23 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T11:02:31+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce86101f709d91dbe
+    previous_evidence_ids:
+    - J6df236b4e4c87756
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: concepts/restoration_quality_evidence.md
   title: Restoration Quality, Samples and Testing
   evidence_ids:
-  - J698146021cb33654
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - Jc09ace3a6f098d6d
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Rehabilitation and Restoration Technical Specifications (Vol 2 Part 4B)
@@ -4612,123 +4946,123 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - Volume 2 Part 4B establishes technical specifications and execution requirements for rehabilitation and restoration works carried out for safety reasons following the demolition or dismantling of structures under BMRCL Phase 3 Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `Jf69117de36443ee2`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/preamble/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33, 34, 35, 36, 37, 38, 39, 40; quotation `S5156636e127c583d`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `Jba3bcc9d6b70b130`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/preamble/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33, 34, 35, 36, 37, 38, 39, 40; quotation `S1c3f01515437083c`.
 
 - Order of precedence for standards and technical specifications establishes that provisions in the Employer Requirement, Scope of Work & Technical Specifications take priority over General Technical Specifications, KPWD Specifications, MORTH Specifications, and Standard Codes of Practice respectively.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `Je0c9f938cf2098a9`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/restoration_instructions/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `Jb547c064ce449341`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/restoration_instructions/1`.
 
 - Contractors must obtain all necessary local authority permissions prior to site work, protect existing utilities, and execute electrical and plumbing works exclusively through licensed electrical and plumbing contractors.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `J14c2a5f49d953ca0`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/restoration_instructions/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `Ja42deb9b250cc6d2`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/restoration_instructions/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `Jf1ff2539be6a73c0`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/restoration_instructions/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `J6ce4b4cc2bfb75b0`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/restoration_instructions/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `J045adce8a49dbe7c`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/restoration_instructions/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `J89ede155b8b03f9e`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/restoration_instructions/4`.
 
 - Volume 2 Part 4B establishes technical specifications for rehabilitation and restoration works, covering concrete consistency, placement, compaction, transport, curing, joints, strength, formwork, and reinforcement.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 10 — Curing|Clause 10 — Curing]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J2707c9c8171b144c`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/9`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 12 — Vertical Joints|Clause 12 — Vertical Joints]]; `Vol2DLNP1.pdf`; PDF page(s) 37; quotation `J2fb20bb896254a6b`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/11`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 9 — Transporting|Clause 9 — Transporting]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J508fec85b57149d9`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/8`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 7 — Consistency|Clause 7 — Consistency]]; `Vol2DLNP1.pdf`; PDF page(s) 35, 36; quotation `J5bb5caa8190cbcad`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 15 — Reinforcement|Clause 15 — Reinforcement]]; `Vol2DLNP1.pdf`; PDF page(s) 40; quotation `J6b4d4ddf8645b289`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/14`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 13 — Strength of Ordinary Concrete|Clause 13 — Strength of Ordinary Concrete]]; `Vol2DLNP1.pdf`; PDF page(s) 37; quotation `J7e03572adbaca19a`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/12`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 14 — Concrete Formwork and Centering|Clause 14 — Concrete Formwork and Centering]]; `Vol2DLNP1.pdf`; PDF page(s) 37, 38, 39; quotation `J920a9f596916d4bf`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/13`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 8 — Placing and Compacting|Clause 8 — Placing and Compacting]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `Jc3abe94f6a36730a`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/7`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 11 — Construction Joints|Clause 11 — Construction Joints]]; `Vol2DLNP1.pdf`; PDF page(s) 36, 37; quotation `Jcbb4e019d209f8c2`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 10 — Curing|Clause 10 — Curing]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J72643d8c3eb5d32b`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 12 — Vertical Joints|Clause 12 — Vertical Joints]]; `Vol2DLNP1.pdf`; PDF page(s) 37; quotation `Jd55409e07356062a`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 9 — Transporting|Clause 9 — Transporting]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J82823527de96c9fd`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 7 — Consistency|Clause 7 — Consistency]]; `Vol2DLNP1.pdf`; PDF page(s) 35, 36; quotation `J6641594df586321b`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 15 — Reinforcement|Clause 15 — Reinforcement]]; `Vol2DLNP1.pdf`; PDF page(s) 40; quotation `J56df1cb7fd233760`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 13 — Strength of Ordinary Concrete|Clause 13 — Strength of Ordinary Concrete]]; `Vol2DLNP1.pdf`; PDF page(s) 37; quotation `Jb0219ea7add4f721`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 14 — Concrete Formwork and Centering|Clause 14 — Concrete Formwork and Centering]]; `Vol2DLNP1.pdf`; PDF page(s) 37, 38, 39; quotation `J75ac9732bdf074f2`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 8 — Placing and Compacting|Clause 8 — Placing and Compacting]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `Jac91342faf7280a7`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 11 — Construction Joints|Clause 11 — Construction Joints]]; `Vol2DLNP1.pdf`; PDF page(s) 36, 37; quotation `J8cebe217ce1f04d8`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/10`.
 
 - Volume 2 Part 4B establishes technical specifications and execution standards for rehabilitation and restoration works (such as front walls, doors, windows, beams, and columns) required for safety and functional reasons following Building Condition Studies (BCS) under BMRCL Phase 3 Tender Package P1, with measurements restricted to buildings completed under the BCS consultant's supervision.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `J28896027b0708774`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `J4ec840f0bc86412d`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/0`.
 
 - Technical specifications mandate that all materials used in rehabilitation and restoration must be new and of the best quality, complying with Indian Standards, with weigh batching or approved concrete batch mix plants used for concrete production where cement is measured by weight (1 m3 equals 1440 kg or a 50 kg bag equals 35 liters) and coarse aggregate size is specified as 20 mm and down unless otherwise stated.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `Jb5873f13c1466408`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J4f14043a2859fce4`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/1`.
 
 - Formwork must be removed without shock or vibration, vertical joints finished against secure temporary shutter stops, and reinforcing steel stored to prevent distortion and corrosion.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 37; quotation `J6cd629a1b9456c47`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/other_numbered_lines/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 12 — Vertical Joints|Clause 12 — Vertical Joints]]; `Vol2DLNP1.pdf`; PDF page(s) 37; quotation `J2fb20bb896254a6b`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/11`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 16 — Stacking and Storage|Clause 16 — Stacking and Storage]]; `Vol2DLNP1.pdf`; PDF page(s) 40; quotation `J0f94d3091220f12b`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 37; quotation `J4f328f0f867039cc`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/other_numbered_lines/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 12 — Vertical Joints|Clause 12 — Vertical Joints]]; `Vol2DLNP1.pdf`; PDF page(s) 37; quotation `Jd55409e07356062a`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 16 — Stacking and Storage|Clause 16 — Stacking and Storage]]; `Vol2DLNP1.pdf`; PDF page(s) 40; quotation `J2c54ff975ec2ef58`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/15`.
 
 - Volume 2 Part 4B details the technical specifications and execution standards for concrete works, formwork, reinforcement, and general restoration standards for safety reasons under BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 37; quotation `J076acca5e09cfd7b`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 38; quotation `J0fa404cc10eb35ce`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 10 — Curing|Clause 10 — Curing]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J2707c9c8171b144c`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/9`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `J28896027b0708774`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 12 — Vertical Joints|Clause 12 — Vertical Joints]]; `Vol2DLNP1.pdf`; PDF page(s) 37; quotation `J2fb20bb896254a6b`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/11`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 9 — Transporting|Clause 9 — Transporting]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J508fec85b57149d9`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/8`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 15 — Reinforcement|Clause 15 — Reinforcement]]; `Vol2DLNP1.pdf`; PDF page(s) 40; quotation `J6b4d4ddf8645b289`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/14`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 39; quotation `J894712ffe19b2491`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 35; quotation `Jb5c66a5cbbd469d2`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 40; quotation `Jddc885d563a1fcbf`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 37; quotation `Je540385f2bc82932`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 38; quotation `J5ae529d800a393d5`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 10 — Curing|Clause 10 — Curing]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J72643d8c3eb5d32b`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `J4ec840f0bc86412d`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 12 — Vertical Joints|Clause 12 — Vertical Joints]]; `Vol2DLNP1.pdf`; PDF page(s) 37; quotation `Jd55409e07356062a`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 9 — Transporting|Clause 9 — Transporting]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J82823527de96c9fd`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 15 — Reinforcement|Clause 15 — Reinforcement]]; `Vol2DLNP1.pdf`; PDF page(s) 40; quotation `J56df1cb7fd233760`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 39; quotation `J19a75531b034e86f`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 35; quotation `J4d8e9ea35fd88809`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 40; quotation `Ja7ab6d0b93c648e9`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/7`.
 
 - The Contractor must strictly adhere to working drawings, detail drawings, and written instructions issued by the Engineer.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `Je0b34c8b186a33cc`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/restoration_instructions/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `Jb86293640f0ddef1`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/restoration_instructions/5`.
 
 - If required by the Engineer or Employer, the Contractor must arrange to test materials, concrete cubes, and work portions at its own cost to prove soundness and sufficiency.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J698146021cb33654`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `Jc09ace3a6f098d6d`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`.
 
 - If testing reveals defective or unsound materials or workmanship in the opinion of the Engineer, the Contractor must pull down and re-execute the work at its own cost, and remove defective materials from the site immediately.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J698146021cb33654`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `Jc09ace3a6f098d6d`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`.
 
 - Earthwork specifications cover general requirements in various soils and rocks, including site clearing, general filling, compaction, excavation, backfilling, side stabilization, dewatering, access provisions, safety measures, lighting, and signage.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 17 — Earthwork Including General Filling, Dewatering and Backfilling|Clause 17 — Earthwork Including General Filling, Dewatering and Backfilling]]; `Vol2DLNP1.pdf`; PDF page(s) 40; quotation `J6df236b4e4c87756`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 17 — Earthwork Including General Filling, Dewatering and Backfilling|Clause 17 — Earthwork Including General Filling, Dewatering and Backfilling]]; `Vol2DLNP1.pdf`; PDF page(s) 40; quotation `J9f7965e43353115f`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/16`.
 
 ## Key Parameters and Source Statements
 
 - BMRCL may appoint a consultant or Engineer to conduct Building Condition Studies (BCS) and recommend remediation, structural restoration (such as front walls, doors, windows, beams, and columns), and demolition sequences, with measurements restricted to buildings completed under such supervision.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `J4d5b89fdb3b2cdb4`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/restoration_instructions/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `J9ffbd1d96150e096`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/restoration_instructions/0`.
 
 - Restoration items executed under this contract follow the KPWD Common Schedule of Rates for the year 2023-24.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `J4d5b89fdb3b2cdb4`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/restoration_instructions/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `J9ffbd1d96150e096`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/restoration_instructions/0`.
 
 - Materials used must be new and of the best quality, complying with Indian Standards, with non-availability in metric sizes permitting nearest FPS units upon Engineer approval without extra cost or rebate.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 1 — Materials and Workmanship|Clause 1 — Materials and Workmanship]]; `Vol2DLNP1.pdf`; PDF page(s) 33, 34; quotation `J4b8168b15a2bf828`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 1 — Materials and Workmanship|Clause 1 — Materials and Workmanship]]; `Vol2DLNP1.pdf`; PDF page(s) 33, 34; quotation `J145844e252fa35e0`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/0`.
 
 - Samples of materials must be deposited at the Engineer's office for approval at least 15 days before placing supply orders.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J6fbd8c1521884f0b`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J63e2b62b5192e71f`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/2`.
 
 - Storage facilities for materials like cement must be safe, dry, weather-proof with raised wooden flooring, and maintained with at least one month's supply during active construction, arranged in chronological order of receipt.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 4 — Storage|Clause 4 — Storage]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J75650c108b10cc06`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 4 — Storage|Clause 4 — Storage]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J8d0440907858629b`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/3`.
 
 - Concrete works require weigh batching (or approved batch mixing plants), mixing times of at least 2 minutes for machine mixing, OPC cement complying with IS 8112 stored in stacks not exceeding 10 bags high, fine aggregates conforming to IS 383 with fineness modulus between 2.60 and 3.20, and coarse aggregates of 20 mm and down size for RCC work unless otherwise stated.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 6 — Cement Concrete Plain and Reinforced|Clause 6 — Cement Concrete Plain and Reinforced]]; `Vol2DLNP1.pdf`; PDF page(s) 35; quotation `J406cfa054c2884b8`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 5 — Specifications for Concrete Works|Clause 5 — Specifications for Concrete Works]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J73e1bb795fa498c3`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 6 — Cement Concrete Plain and Reinforced|Clause 6 — Cement Concrete Plain and Reinforced]]; `Vol2DLNP1.pdf`; PDF page(s) 35; quotation `J97fd952a114e3577`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 5 — Specifications for Concrete Works|Clause 5 — Specifications for Concrete Works]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J5e888e90e75effdc`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/4`.
 
 - Concrete transport time between mixing and consolidation in position shall normally not exceed 30 minutes.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 9 — Transporting|Clause 9 — Transporting]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J508fec85b57149d9`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 9 — Transporting|Clause 9 — Transporting]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J82823527de96c9fd`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/8`.
 
 - Cement concrete after laying must be protected from damage until set and cured thereafter for not less than 10 days using water free from sediments and fit for drinking.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 10 — Curing|Clause 10 — Curing]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J2707c9c8171b144c`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 10 — Curing|Clause 10 — Curing]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J72643d8c3eb5d32b`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/9`.
 
 - Formwork must be rigidly constructed using 12 mm thick new plastic coated plywood sheets for columns, pedestals, beams, walls, and fascia, and steel or plywood for roof slabs, canopies, floors, cover slabs, and retaining walls.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 14 — Concrete Formwork and Centering|Clause 14 — Concrete Formwork and Centering]]; `Vol2DLNP1.pdf`; PDF page(s) 37, 38, 39; quotation `J920a9f596916d4bf`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 14 — Concrete Formwork and Centering|Clause 14 — Concrete Formwork and Centering]]; `Vol2DLNP1.pdf`; PDF page(s) 37, 38, 39; quotation `J75ac9732bdf074f2`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/13`.
 
 - Minimum cement quantities for concrete grades are specified as: 3.40 bags/cum for 1:4:8, 4.40 bags/cum for 1:3:6, 6.40 bags/cum for 1:2:4, 8.00 bags/cum for 1:1.5:3 plain and RCC, and 10.80 bags/cum for RCC 1:1:2.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 14 — Concrete Formwork and Centering|Clause 14 — Concrete Formwork and Centering]]; `Vol2DLNP1.pdf`; PDF page(s) 37, 38, 39; quotation `J920a9f596916d4bf`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 14 — Concrete Formwork and Centering|Clause 14 — Concrete Formwork and Centering]]; `Vol2DLNP1.pdf`; PDF page(s) 37, 38, 39; quotation `J75ac9732bdf074f2`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/13`.
 
 - Steel reinforcement shall consist of mild steel of tested quality or high yield strength deformed bars of grade Fe-415 conforming to IS:1786-1966, Fe-500, or as specified on drawings, with laps generally equal to 50 times the bar diameter and not more than 33% of bars lapped at the same location.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 15 — Reinforcement|Clause 15 — Reinforcement]]; `Vol2DLNP1.pdf`; PDF page(s) 40; quotation `J6b4d4ddf8645b289`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 15 — Reinforcement|Clause 15 — Reinforcement]]; `Vol2DLNP1.pdf`; PDF page(s) 40; quotation `J56df1cb7fd233760`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/14`.
 
 - The order of precedence for rehabilitation and restoration standards and technical specifications gives top priority to provisions in the Employer Requirement, Scope of Work & Technical Specifications, followed by Technical Specifications, KPWD Specifications, MORTH Specifications, and Standard Codes of Practice respectively.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `J28896027b0708774`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 33; quotation `J4ec840f0bc86412d`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/0`.
 
 - Materials samples must be deposited at the Engineer's office for approval at least 15 days before placing supply orders, and cement storage must be maintained adequate for at least 1 month during active construction.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `Jb5873f13c1466408`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J4f14043a2859fce4`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/1`.
 
 - Fresh concrete must be conveyed from mixing to final deposit within not more than 30 minutes to prevent segregation, protected against drying wind and direct sun, and cured for not less than 10 days.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 9 — Transporting|Clause 9 — Transporting]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J508fec85b57149d9`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/8`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 10 — Curing|Clause 10 — Curing]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J2707c9c8171b144c`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 9 — Transporting|Clause 9 — Transporting]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J82823527de96c9fd`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 10 — Curing|Clause 10 — Curing]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J72643d8c3eb5d32b`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/9`.
 
 - Minimum cement contents for concrete grades are specified as follows: CC 1:4:8 at 3.40 bags/cum, CC 1:3:6 at 4.40 bags/cum, CC 1:2:4 at 6.40 bags/cum, CC 1:1.5:3 at 8.00 bags/cum, RCC 1:1.5:3 at 8.00 bags/cum, and RCC 1:1:2 at 10.80 bags/cum.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 38; quotation `J0fa404cc10eb35ce`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 38; quotation `J5ae529d800a393d5`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/5`.
 
 - Maximum total water including aggregate moisture per 50 kg of cement is restricted to 34 liters for 1:3:6 mix, 32 liters for 1:2:4 mix, 30 liters for 1:1.5:3 mix, and 27 liters for 1:1:2 mix.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J47015c69706b0a82`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J0d82c9ab5318c32e`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/source_page_context/3`.
 
 - Cement concrete after laying must be protected from damage and cured for not less than 10 days using clean water free from sediments.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 10 — Curing|Clause 10 — Curing]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J2707c9c8171b144c`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 10 — Curing|Clause 10 — Curing]]; `Vol2DLNP1.pdf`; PDF page(s) 36; quotation `J72643d8c3eb5d32b`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/9`.
 
 - Steel reinforcement comprises high yield strength deformed bars of grade Fe-415 conforming to IS 1786-1966, Fe-500, or mild steel, with lap lengths specified as 50 times the bar diameter unless otherwise shown.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 15 — Reinforcement|Clause 15 — Reinforcement]]; `Vol2DLNP1.pdf`; PDF page(s) 40; quotation `J6b4d4ddf8645b289`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 15 — Reinforcement|Clause 15 — Reinforcement]]; `Vol2DLNP1.pdf`; PDF page(s) 40; quotation `J56df1cb7fd233760`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/14`.
 
 - General filling must use approved material in areas indicated in drawings or directed by the Engineer, and tenderers must acquaint themselves with the site to assess effort.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 17 — Earthwork Including General Filling, Dewatering and Backfilling|Clause 17 — Earthwork Including General Filling, Dewatering and Backfilling]]; `Vol2DLNP1.pdf`; PDF page(s) 40; quotation `J6df236b4e4c87756`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 17 — Earthwork Including General Filling, Dewatering and Backfilling|Clause 17 — Earthwork Including General Filling, Dewatering and Backfilling]]; `Vol2DLNP1.pdf`; PDF page(s) 40; quotation `J9f7965e43353115f`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/16`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
@@ -4753,7 +5087,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Typed Relations
 
 - **relates_to (editorial, inferred):** [[wiki/concepts/restoration_quality_evidence|Restoration Quality, Samples and Testing]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; `J698146021cb33654`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; `Jc09ace3a6f098d6d`.
 
 ## Open Questions and Contradictions
 
@@ -4762,7 +5096,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### Jf69117de36443ee2
+### Jba3bcc9d6b70b130
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
 
@@ -4771,13 +5105,13 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "PART – B: SPECIFICATIONS FOR REHABILITATION AND RESTORATION WORKS\n\n      Restoration works for safety reasons."
 > }
 
-### S5156636e127c583d
+### S1c3f01515437083c
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
 
 > This part contains the specifications for rehabilitation and restoration works (Part 4, Part B) of Section H in Volume 2 of BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`, concerning restoration works carried out for safety reasons after demolition or dismantling of buildings and structures identified for Bangalore Metro Rail Project Phase 3.
 
-### J4d5b89fdb3b2cdb4
+### J9ffbd1d96150e096
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
 
@@ -4850,7 +5184,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Je0c9f938cf2098a9
+### Jb547c064ce449341
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
 
@@ -4943,7 +5277,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J4b8168b15a2bf828
+### J145844e252fa35e0
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 1 — Materials and Workmanship|Clause 1 — Materials and Workmanship]]
 
@@ -5116,7 +5450,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "MATERIALS AND WORKMANSHIP"
 > }
 
-### J6fbd8c1521884f0b
+### J63e2b62b5192e71f
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]
 
@@ -5160,7 +5494,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "SAMPLES OF MATERIAL"
 > }
 
-### J75650c108b10cc06
+### J8d0440907858629b
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 4 — Storage|Clause 4 — Storage]]
 
@@ -5209,7 +5543,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "STORAGE"
 > }
 
-### J406cfa054c2884b8
+### J97fd952a114e3577
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 6 — Cement Concrete Plain and Reinforced|Clause 6 — Cement Concrete Plain and Reinforced]]
 
@@ -5498,7 +5832,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "CEMENT CONCRETE PLAIN AND REINFORCED"
 > }
 
-### J73e1bb795fa498c3
+### J5e888e90e75effdc
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 5 — Specifications for Concrete Works|Clause 5 — Specifications for Concrete Works]]
 
@@ -5647,7 +5981,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "SPECIFICATIONS FOR CONCRETE WORKS"
 > }
 
-### J14c2a5f49d953ca0
+### J6ce4b4cc2bfb75b0
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
 
@@ -5680,7 +6014,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Ja42deb9b250cc6d2
+### J045adce8a49dbe7c
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
 
@@ -5713,7 +6047,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Jf1ff2539be6a73c0
+### J89ede155b8b03f9e
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
 
@@ -5746,7 +6080,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J2707c9c8171b144c
+### J72643d8c3eb5d32b
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 10 — Curing|Clause 10 — Curing]]
 
@@ -5790,7 +6124,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "CURING"
 > }
 
-### J2fb20bb896254a6b
+### Jd55409e07356062a
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 12 — Vertical Joints|Clause 12 — Vertical Joints]]
 
@@ -5829,7 +6163,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "VERTICAL JOINTS"
 > }
 
-### J508fec85b57149d9
+### J82823527de96c9fd
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 9 — Transporting|Clause 9 — Transporting]]
 
@@ -5878,7 +6212,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "TRANSPORTING"
 > }
 
-### J5bb5caa8190cbcad
+### J6641594df586321b
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 7 — Consistency|Clause 7 — Consistency]]
 
@@ -6076,7 +6410,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "CONSISTENCY"
 > }
 
-### J6b4d4ddf8645b289
+### J56df1cb7fd233760
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 15 — Reinforcement|Clause 15 — Reinforcement]]
 
@@ -6220,7 +6554,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "REINFORCEMENT"
 > }
 
-### J7e03572adbaca19a
+### Jb0219ea7add4f721
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 13 — Strength of Ordinary Concrete|Clause 13 — Strength of Ordinary Concrete]]
 
@@ -6274,7 +6608,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "STRENGTH OF ORDINARY CONCRETE"
 > }
 
-### J920a9f596916d4bf
+### J75ac9732bdf074f2
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 14 — Concrete Formwork and Centering|Clause 14 — Concrete Formwork and Centering]]
 
@@ -6971,7 +7305,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "CONCRETE FORMWORK AND CENTERING"
 > }
 
-### Jc3abe94f6a36730a
+### Jac91342faf7280a7
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 8 — Placing and Compacting|Clause 8 — Placing and Compacting]]
 
@@ -7035,7 +7369,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "PLACING AND COMPACTING"
 > }
 
-### Jcbb4e019d209f8c2
+### J8cebe217ce1f04d8
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 11 — Construction Joints|Clause 11 — Construction Joints]]
 
@@ -7143,7 +7477,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "CONSTRUCTION JOINTS"
 > }
 
-### J28896027b0708774
+### J4ec840f0bc86412d
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
 
@@ -7248,7 +7582,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jb5873f13c1466408
+### J4f14043a2859fce4
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
 
@@ -7313,7 +7647,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J6cd629a1b9456c47
+### J4f328f0f867039cc
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
 
@@ -7326,7 +7660,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "      14.3  Removal of Form Work:     All formwork shall be removed without shock or vibration"
 > }
 
-### J0f94d3091220f12b
+### J2c54ff975ec2ef58
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 16 — Stacking and Storage|Clause 16 — Stacking and Storage]]
 
@@ -7370,7 +7704,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "STACKING AND STORAGE"
 > }
 
-### J076acca5e09cfd7b
+### Je540385f2bc82932
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
 
@@ -7435,7 +7769,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J0fa404cc10eb35ce
+### J5ae529d800a393d5
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
 
@@ -7500,7 +7834,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J894712ffe19b2491
+### J19a75531b034e86f
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
 
@@ -7645,7 +7979,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jb5c66a5cbbd469d2
+### J4d8e9ea35fd88809
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
 
@@ -7740,7 +8074,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jddc885d563a1fcbf
+### Ja7ab6d0b93c648e9
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
 
@@ -7805,7 +8139,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J47015c69706b0a82
+### J0d82c9ab5318c32e
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
 
@@ -7900,7 +8234,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Je0b34c8b186a33cc
+### Jb86293640f0ddef1
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works|Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works]]
 
@@ -7933,7 +8267,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J698146021cb33654
+### Jc09ace3a6f098d6d
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]
 
@@ -7992,7 +8326,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "TESTING OF WORKS AND MATERIALS"
 > }
 
-### J6df236b4e4c87756
+### J9f7965e43353115f
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 17 — Earthwork Including General Filling, Dewatering and Backfilling|Clause 17 — Earthwork Including General Filling, Dewatering and Backfilling]]
 

@@ -4,9 +4,9 @@ title: What happens to a short-validity EMD?
 status: draft
 review_status: pending_manual_review
 sources:
-- id: J96e5227223f2186d
+- id: Jce685766e7843ace
   okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   heading: Clause 13.0 — Tender Security (EMD)
   source_document: Vol1DLNP1.pdf
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -156,8 +156,9 @@ sources:
   heading_alignment: exact_number_match
 last_ingested: '2026-11-01T12:36:19+00:00'
 answer_evidence_ids:
-- J96e5227223f2186d
+- Jce685766e7843ace
 method: Source-backed answer to the example query in the supplied creation prompt; no API call
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # What happens to a short-validity EMD?
@@ -166,11 +167,11 @@ method: Source-backed answer to the example query in the supplied creation promp
 
 The answer depends on which period is short. ITT 13.4(vii) states rejection where BG/e-BG or surety-bond validity is shorter than the Tender Validity Period. ITT 13.1 requires the relevant security to extend 60 days beyond tender validity, including extensions.
 
-[[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 15, 16, 17, 18; `J96e5227223f2186d`
+[[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 15, 16, 17, 18; `Jce685766e7843ace`
 
 Under ITT 13.4.1, if the security covers tender validity but falls short of the required security-validity period, the Employer notifies the tenderer to supply compliant security within 15 working days of notification. The source states rejection/non-responsiveness on failure. ITT 13.4.2 separately addresses previously submitted bids after a submission-deadline extension and provides a notice/compliance process if necessary. This records the text; it does not decide any actual bid.
 
-[[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 15, 16, 17, 18; `J96e5227223f2186d`
+[[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 15, 16, 17, 18; `Jce685766e7843ace`
 
 ## Open questions
 

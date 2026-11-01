@@ -6,120 +6,120 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-31T06:24:39+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-10-31T06:24:39+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-  okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+  okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
   source_document: Vol2DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-  okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+  okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_2_engineering_controls/engineering_controls.json
   json_sha256: 51192a050a7f7c7a1ab1855313689daf59f120658f7db9a9bebde07948bf82dc
   json_pointer: /preamble/0
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-  okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+  okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_2_engineering_controls/engineering_controls.json
   json_sha256: 51192a050a7f7c7a1ab1855313689daf59f120658f7db9a9bebde07948bf82dc
   json_pointer: /topics/0
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-  okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+  okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_2_engineering_controls/engineering_controls.json
   json_sha256: 51192a050a7f7c7a1ab1855313689daf59f120658f7db9a9bebde07948bf82dc
   json_pointer: /topics/1
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-  okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+  okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_2_engineering_controls/engineering_controls.json
   json_sha256: 51192a050a7f7c7a1ab1855313689daf59f120658f7db9a9bebde07948bf82dc
   json_pointer: /topics/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-  okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+  okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_2_engineering_controls/engineering_controls.json
   json_sha256: 51192a050a7f7c7a1ab1855313689daf59f120658f7db9a9bebde07948bf82dc
   json_pointer: /topics/3
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-  okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+  okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_2_engineering_controls/engineering_controls.json
   json_sha256: 51192a050a7f7c7a1ab1855313689daf59f120658f7db9a9bebde07948bf82dc
   json_pointer: /topics/4
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-  okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+  okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_2_engineering_controls/engineering_controls.json
   json_sha256: 51192a050a7f7c7a1ab1855313689daf59f120658f7db9a9bebde07948bf82dc
   json_pointer: /topics/5
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-  okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+  okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_2_engineering_controls/engineering_controls.json
   json_sha256: 51192a050a7f7c7a1ab1855313689daf59f120658f7db9a9bebde07948bf82dc
   json_pointer: /topics/6
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-  okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+  okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_2_engineering_controls/engineering_controls.json
   json_sha256: 51192a050a7f7c7a1ab1855313689daf59f120658f7db9a9bebde07948bf82dc
   json_pointer: /topics/7
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-  okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+  okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_2_engineering_controls/engineering_controls.json
   json_sha256: 51192a050a7f7c7a1ab1855313689daf59f120658f7db9a9bebde07948bf82dc
   json_pointer: /topics/8
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-  okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+  okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_2_engineering_controls/engineering_controls.json
   json_sha256: 51192a050a7f7c7a1ab1855313689daf59f120658f7db9a9bebde07948bf82dc
   json_pointer: /topics/9
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-  okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+  okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_2_engineering_controls/engineering_controls.json
   json_sha256: 51192a050a7f7c7a1ab1855313689daf59f120658f7db9a9bebde07948bf82dc
   json_pointer: /topics/10
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-  okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+  okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_2_engineering_controls/engineering_controls.json
   json_sha256: 51192a050a7f7c7a1ab1855313689daf59f120658f7db9a9bebde07948bf82dc
   json_pointer: /topics/11
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-  okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+  okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_2_engineering_controls/engineering_controls.json
   json_sha256: 51192a050a7f7c7a1ab1855313689daf59f120658f7db9a9bebde07948bf82dc
   json_pointer: /topics/12
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-  okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+  okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_2_engineering_controls/engineering_controls.json
   json_sha256: 51192a050a7f7c7a1ab1855313689daf59f120658f7db9a9bebde07948bf82dc
   json_pointer: /topics/13
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-  okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+  okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_2_engineering_controls/engineering_controls.json
   json_sha256: 51192a050a7f7c7a1ab1855313689daf59f120658f7db9a9bebde07948bf82dc
@@ -131,17 +131,17 @@ claims:
     PPE required for safe planning, execution, and closing of demolition and dismantling operations under BMRCL
     Tender Package P1.
   evidence_ids:
-  - Sbc08234860d88250
-  - Jcba7786c6d44fc69
+  - S3a26cf2a1ba60c7b
+  - J2d1b5efb7a7a360c
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9229728dddbf41f6
+  id: C8714321a2e599047
   citations:
-  - id: Sbc08234860d88250
+  - id: S3a26cf2a1ba60c7b
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls
       and Work Practices'
     source_document: Vol2DLNP1.pdf
@@ -163,9 +163,9 @@ claims:
       where applicable, additional personal protective equipment (PPE).'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: document_metadata_range
-  - id: Jcba7786c6d44fc69
+  - id: J2d1b5efb7a7a360c
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls
       and Work Practices'
     source_document: Vol2DLNP1.pdf
@@ -186,21 +186,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:24:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9229728dddbf41f6
+    previous_evidence_ids:
+    - Sbc08234860d88250
+    - Jcba7786c6d44fc69
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: General Personal Protective Equipment recommended for specific hazards includes steel helmets, safety belts,
     safety jackets, eye protection with side shields, job-appropriate gloves, approved protective footwear, and
     respiratory protection against nuisance dust.
   evidence_ids:
-  - Jd9be3826faccf17b
+  - J794015f681e4de58
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C069127780cba4bb7
+  id: C803aed9e7752dbb4
   citations:
-  - id: Jd9be3826faccf17b
+  - id: J794015f681e4de58
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls
       and Work Practices'
     source_document: Vol2DLNP1.pdf
@@ -230,21 +241,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:24:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C069127780cba4bb7
+    previous_evidence_ids:
+    - Jd9be3826faccf17b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Structural instability controls require conducting engineering surveys of framing, floors, walls, and adjacent
     structures, shoring or bracing as needed, continual competent person inspections, and executing demolition from
     top to bottom without cutting load-supporting members prematurely.
   evidence_ids:
-  - Jc1c80045b627c45e
+  - Je38b5c16bce60b16
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbd34706b38df4017
+  id: C511d032db0de3de2
   citations:
-  - id: Jc1c80045b627c45e
+  - id: Je38b5c16bce60b16
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls
       and Work Practices'
     source_document: Vol2DLNP1.pdf
@@ -276,21 +297,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:24:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbd34706b38df4017
+    previous_evidence_ids:
+    - Jc1c80045b627c45e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Unsecured hazards management mandates removing or securing falling objects, using debris netting or catch
     platforms, verifying and shutting off outside utility lines, and assessing tanks or equipment containing hazardous
     or flammable materials prior to disturbance.
   evidence_ids:
-  - J6eea018a6c2a54fd
+  - J0e8a1b8ef826206c
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce1e3c89e9e447a7f
+  id: Cd3f0cb14d4f4c42f
   citations:
-  - id: J6eea018a6c2a54fd
+  - id: J0e8a1b8ef826206c
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls
       and Work Practices'
     source_document: Vol2DLNP1.pdf
@@ -328,21 +359,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:24:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce1e3c89e9e447a7f
+    previous_evidence_ids:
+    - J6eea018a6c2a54fd
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Construction debris dropping guidelines require enclosing material chutes at greater than a 45-degree angle
     with 120 cm max openings and closed gates, providing 105 cm high guardrails for manual dumping, and installing
     10 cm wide by 15 cm high toe boards/bumpers for mechanical or wheelbarrow dumping.
   evidence_ids:
-  - Jb8866909815d0baa
+  - J8cc62ae9527e2ca3
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cee85fa59709487f6
+  id: Ca874f4cbb01e39b1
   citations:
-  - id: Jb8866909815d0baa
+  - id: J8cc62ae9527e2ca3
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls
       and Work Practices'
     source_document: Vol2DLNP1.pdf
@@ -368,21 +409,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:24:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cee85fa59709487f6
+    previous_evidence_ids:
+    - Jb8866909815d0baa
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Ladder and scaffold safety controls require inspecting equipment, maintaining a 75-degree angle for straight
     ladders with 90cm extension above landing, using non-conductive ladders near power lines, competent person scaffold
     inspections, fully planked working levels, and guardrails or fall arrest systems on platforms 3.3m or higher.
   evidence_ids:
-  - Jb3f500a5ee4a994f
+  - Jc58b5b9d6d062834
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7ae36846d11aff09
+  id: C967e93e46e71e0ca
   citations:
-  - id: Jb3f500a5ee4a994f
+  - id: Jc58b5b9d6d062834
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls
       and Work Practices'
     source_document: Vol2DLNP1.pdf
@@ -418,20 +469,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:24:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7ae36846d11aff09
+    previous_evidence_ids:
+    - Jb3f500a5ee4a994f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: General heavy equipment operations require hearing protection for noise hazards and proper body harness
     attachment when working from aerial lifts.
   evidence_ids:
-  - J083eded107d71f0c
+  - Jcc25919354aba5f5
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C236b6fd347e00945
+  id: C8d1bd13c4f6da873
   citations:
-  - id: J083eded107d71f0c
+  - id: Jcc25919354aba5f5
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls
       and Work Practices'
     source_document: Vol2DLNP1.pdf
@@ -456,20 +517,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:24:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C236b6fd347e00945
+    previous_evidence_ids:
+    - J083eded107d71f0c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Falls from heights or openings require limited access zones, fall protection systems (guardrails, nets,
     arrest systems), and covers for holes/openings designed to support twice the imposed weight.
   evidence_ids:
-  - Jf583b62a5fa607ef
+  - Jd7608a91acda8395
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1b94ecf2e7611611
+  id: C4c814d16cd85c786
   citations:
-  - id: Jf583b62a5fa607ef
+  - id: Jd7608a91acda8395
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls
       and Work Practices'
     source_document: Vol2DLNP1.pdf
@@ -496,21 +567,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:24:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1b94ecf2e7611611
+    previous_evidence_ids:
+    - Jf583b62a5fa607ef
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Electrical and utility safety assumes all lines are energized until proven otherwise, mandates maintaining
     at least a 3.3m distance from overhead power lines unless de-energized and grounded, and requires securing spark-producing
     devices upon detecting gas leaks.
   evidence_ids:
-  - J866a8ce14d8eb7c3
+  - J0d498ea7a351947a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C986e9c9ef6f03cb0
+  id: C87037ab9d79a9d25
   citations:
-  - id: J866a8ce14d8eb7c3
+  - id: J0d498ea7a351947a
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls
       and Work Practices'
     source_document: Vol2DLNP1.pdf
@@ -541,20 +622,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:24:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C986e9c9ef6f03cb0
+    previous_evidence_ids:
+    - J866a8ce14d8eb7c3
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Power and hand tool usage requires ground-fault circuit interrupters (GFCIs), double-insulated tools or
     assured grounding programs, pre-use inspections, and avoiding wet area usage.
   evidence_ids:
-  - J05a982ab62a27caf
+  - Jdab6d59da4d0aa32
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C309eccebc4b4d496
+  id: Cbbe9a95368404401
   citations:
-  - id: J05a982ab62a27caf
+  - id: Jdab6d59da4d0aa32
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls
       and Work Practices'
     source_document: Vol2DLNP1.pdf
@@ -583,21 +674,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:24:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C309eccebc4b4d496
+    previous_evidence_ids:
+    - J05a982ab62a27caf
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Generator use mandates qualified transfer switch installation for structural connections, proper grounding,
     dry storage under canopies, prohibition of indoor or enclosed space operation due to carbon monoxide risks,
     and maintaining 1 to 1.2 m of clear space on all sides.
   evidence_ids:
-  - Jcaa47da5d5587bb1
+  - J39a8772c5c03105d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cde08af11e6c72011
+  id: Cc0db86d823a6e753
   citations:
-  - id: Jcaa47da5d5587bb1
+  - id: J39a8772c5c03105d
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls
       and Work Practices'
     source_document: Vol2DLNP1.pdf
@@ -636,21 +737,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:24:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cde08af11e6c72011
+    previous_evidence_ids:
+    - Jcaa47da5d5587bb1
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Silica and dust controls require staying upwind, using water spray/mist for dust suppression during cutting
     or jackhammering, avoiding compressed air for cleaning, and wearing respirators with filters for crystalline
     silica or nuisance dusts.
   evidence_ids:
-  - J2d0eaf87d849a0cc
+  - J77899146e522b46d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C609f62febe503126
+  id: C441ad3635e6dafaf
   citations:
-  - id: J2d0eaf87d849a0cc
+  - id: J77899146e522b46d
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls
       and Work Practices'
     source_document: Vol2DLNP1.pdf
@@ -685,21 +796,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:24:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C609f62febe503126
+    previous_evidence_ids:
+    - J2d0eaf87d849a0cc
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Welding, cutting, and hot work require removing combustibles, maintaining a fire watch until cooling, ensuring
     fire extinguishers are ready, providing adequate ventilation, purging pipes, and identifying lead-containing
     painted surfaces.
   evidence_ids:
-  - Je413e774fe6e4108
+  - J43c00c8cce6fd566
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C798667b824da27e3
+  id: Cee3d80f08df24637
   citations:
-  - id: Je413e774fe6e4108
+  - id: J43c00c8cce6fd566
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls
       and Work Practices'
     source_document: Vol2DLNP1.pdf
@@ -733,21 +854,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:24:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C798667b824da27e3
+    previous_evidence_ids:
+    - Je413e774fe6e4108
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Noise mitigation requires placing noisy equipment like generators and compressors at a distance or behind
     barriers, and utilizing hearing protection when noise levels exceed 90 dBA or normal conversation at arm's length
     (0.9m) is impossible.
   evidence_ids:
-  - Jc481c25219f81ef9
+  - J245bcb366a7d7f89
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C26d20bc02337cb99
+  id: C12d4814aef926c9e
   citations:
-  - id: Jc481c25219f81ef9
+  - id: J245bcb366a7d7f89
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls
       and Work Practices'
     source_document: Vol2DLNP1.pdf
@@ -773,20 +904,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:24:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C26d20bc02337cb99
+    previous_evidence_ids:
+    - Jc481c25219f81ef9
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Confined space entry rules require evaluating physical and atmospheric hazards in restricted spaces deeper
     than 1.2m, preventing unauthorized entry, and taking additional precautions during hazardous work such as welding.
   evidence_ids:
-  - Jaca3c2c40b20f381
+  - Jf7f2761d2f203acd
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6e3c3052a40e0c3f
+  id: C2c1ff1c4a08ce171
   citations:
-  - id: Jaca3c2c40b20f381
+  - id: Jf7f2761d2f203acd
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls
       and Work Practices'
     source_document: Vol2DLNP1.pdf
@@ -822,22 +963,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:24:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6e3c3052a40e0c3f
+    previous_evidence_ids:
+    - Jaca3c2c40b20f381
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Property barricading during demolition requires plain MS sheets of 16 gauge fixed with steel frames, painted
     with synthetic enamel paint of approved color/brand, bearing metro lettering and logos, maintained clean with
     blinker lights, and kept continuously until demolition and dismantling completion.
   evidence_ids:
-  - J47b3f1994ff29ecf
-  - Sc480a37d9fb1f02d
+  - J9a5a490b4c33ae47
+  - S9b1268b1dac6b2cf
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1dbfd58fdedba52c
+  id: C6c6883c4d5c550a5
   citations:
-  - id: J47b3f1994ff29ecf
+  - id: J9a5a490b4c33ae47
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls
       and Work Practices'
     source_document: Vol2DLNP1.pdf
@@ -861,9 +1012,9 @@ claims:
       ,\n  \"title\": \"BARRICADING THE PROPERTIES DURING DEMOLITION/DISMANTLING\",\n  \"topic_id\": \"15\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Sc480a37d9fb1f02d
+  - id: S9b1268b1dac6b2cf
     okf_path: OKF_bundle/Technical/Vol2/vol2_part2.md
-    okf_sha256: f24dbe044632873558e9e11c69ddca1ccc8771ce29a63adcd4bfba70c3d78166
+    okf_sha256: f684c36d931b7bebe760be0b254ff115e073554aa02106de57075dc9661ab71b
     heading: Topic 15 — Barricading the Properties During Demolition/Dismantling
     source_document: Vol2DLNP1.pdf
     pdf_pages:
@@ -873,13 +1024,24 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T06:24:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1dbfd58fdedba52c
+    previous_evidence_ids:
+    - J47b3f1994ff29ecf
+    - Sc480a37d9fb1f02d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: belongs_to
   target: index.md
   title: BMRCL Wiki Index
   evidence_ids:
-  - Sbc08234860d88250
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - S3a26cf2a1ba60c7b
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Key Engineering Controls and Work Practices (Vol 2 Part 2)
@@ -889,56 +1051,56 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - Volume 2 Part 2 outlines 15 key hazard topics and associated engineering controls, work practices, and supplemental PPE required for safe planning, execution, and closing of demolition and dismantling operations under BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 9, 10, 11, 12, 13, 14; quotation `Sbc08234860d88250`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 9; quotation `Jcba7786c6d44fc69`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/preamble/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 9, 10, 11, 12, 13, 14; quotation `S3a26cf2a1ba60c7b`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 9; quotation `J2d1b5efb7a7a360c`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/preamble/0`.
 
 ## Key Parameters and Source Statements
 
 - General Personal Protective Equipment recommended for specific hazards includes steel helmets, safety belts, safety jackets, eye protection with side shields, job-appropriate gloves, approved protective footwear, and respiratory protection against nuisance dust.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 9; quotation `Jd9be3826faccf17b`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 9; quotation `J794015f681e4de58`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/0`.
 
 - Structural instability controls require conducting engineering surveys of framing, floors, walls, and adjacent structures, shoring or bracing as needed, continual competent person inspections, and executing demolition from top to bottom without cutting load-supporting members prematurely.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 9; quotation `Jc1c80045b627c45e`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 9; quotation `Je38b5c16bce60b16`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/1`.
 
 - Unsecured hazards management mandates removing or securing falling objects, using debris netting or catch platforms, verifying and shutting off outside utility lines, and assessing tanks or equipment containing hazardous or flammable materials prior to disturbance.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 9, 10; quotation `J6eea018a6c2a54fd`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 9, 10; quotation `J0e8a1b8ef826206c`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/2`.
 
 - Construction debris dropping guidelines require enclosing material chutes at greater than a 45-degree angle with 120 cm max openings and closed gates, providing 105 cm high guardrails for manual dumping, and installing 10 cm wide by 15 cm high toe boards/bumpers for mechanical or wheelbarrow dumping.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 10; quotation `Jb8866909815d0baa`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 10; quotation `J8cc62ae9527e2ca3`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/3`.
 
 - Ladder and scaffold safety controls require inspecting equipment, maintaining a 75-degree angle for straight ladders with 90cm extension above landing, using non-conductive ladders near power lines, competent person scaffold inspections, fully planked working levels, and guardrails or fall arrest systems on platforms 3.3m or higher.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 10; quotation `Jb3f500a5ee4a994f`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 10; quotation `Jc58b5b9d6d062834`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/4`.
 
 - General heavy equipment operations require hearing protection for noise hazards and proper body harness attachment when working from aerial lifts.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 10, 11; quotation `J083eded107d71f0c`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 10, 11; quotation `Jcc25919354aba5f5`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/5`.
 
 - Falls from heights or openings require limited access zones, fall protection systems (guardrails, nets, arrest systems), and covers for holes/openings designed to support twice the imposed weight.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 11; quotation `Jf583b62a5fa607ef`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 11; quotation `Jd7608a91acda8395`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/6`.
 
 - Electrical and utility safety assumes all lines are energized until proven otherwise, mandates maintaining at least a 3.3m distance from overhead power lines unless de-energized and grounded, and requires securing spark-producing devices upon detecting gas leaks.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 11; quotation `J866a8ce14d8eb7c3`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 11; quotation `J0d498ea7a351947a`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/7`.
 
 - Power and hand tool usage requires ground-fault circuit interrupters (GFCIs), double-insulated tools or assured grounding programs, pre-use inspections, and avoiding wet area usage.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 11; quotation `J05a982ab62a27caf`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 11; quotation `Jdab6d59da4d0aa32`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/8`.
 
 - Generator use mandates qualified transfer switch installation for structural connections, proper grounding, dry storage under canopies, prohibition of indoor or enclosed space operation due to carbon monoxide risks, and maintaining 1 to 1.2 m of clear space on all sides.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 12; quotation `Jcaa47da5d5587bb1`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 12; quotation `J39a8772c5c03105d`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/9`.
 
 - Silica and dust controls require staying upwind, using water spray/mist for dust suppression during cutting or jackhammering, avoiding compressed air for cleaning, and wearing respirators with filters for crystalline silica or nuisance dusts.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 12; quotation `J2d0eaf87d849a0cc`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 12; quotation `J77899146e522b46d`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/10`.
 
 - Welding, cutting, and hot work require removing combustibles, maintaining a fire watch until cooling, ensuring fire extinguishers are ready, providing adequate ventilation, purging pipes, and identifying lead-containing painted surfaces.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 13; quotation `Je413e774fe6e4108`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 13; quotation `J43c00c8cce6fd566`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/11`.
 
 - Noise mitigation requires placing noisy equipment like generators and compressors at a distance or behind barriers, and utilizing hearing protection when noise levels exceed 90 dBA or normal conversation at arm's length (0.9m) is impossible.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 13; quotation `Jc481c25219f81ef9`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 13; quotation `J245bcb366a7d7f89`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/12`.
 
 - Confined space entry rules require evaluating physical and atmospheric hazards in restricted spaces deeper than 1.2m, preventing unauthorized entry, and taking additional precautions during hazardous work such as welding.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 13, 14; quotation `Jaca3c2c40b20f381`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 13, 14; quotation `Jf7f2761d2f203acd`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/13`.
 
 - Property barricading during demolition requires plain MS sheets of 16 gauge fixed with steel frames, painted with synthetic enamel paint of approved color/brand, bearing metro lettering and logos, maintained clean with blinker lights, and kept continuously until demolition and dismantling completion.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 14; quotation `J47b3f1994ff29ecf`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/14`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Topic 15 — Barricading the Properties During Demolition/Dismantling|Topic 15 — Barricading the Properties During Demolition/Dismantling]]; `Vol2DLNP1.pdf`; PDF page(s) 14; quotation `Sc480a37d9fb1f02d`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 14; quotation `J9a5a490b4c33ae47`. JSON: `parsed_json/vol2/part_2_engineering_controls/engineering_controls.json#/topics/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Topic 15 — Barricading the Properties During Demolition/Dismantling|Topic 15 — Barricading the Properties During Demolition/Dismantling]]; `Vol2DLNP1.pdf`; PDF page(s) 14; quotation `S9b1268b1dac6b2cf`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
@@ -947,7 +1109,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Typed Relations
 
 - **belongs_to (editorial, inferred):** [[wiki/index|BMRCL Wiki Index]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 9, 10, 11, 12, 13, 14; `Sbc08234860d88250`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]; `Vol2DLNP1.pdf`; PDF page(s) 9, 10, 11, 12, 13, 14; `S3a26cf2a1ba60c7b`.
 
 ## Open Questions and Contradictions
 
@@ -956,7 +1118,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### Sbc08234860d88250
+### S3a26cf2a1ba60c7b
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
 
@@ -964,7 +1126,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > 
 > It is briefed for the guidance of the contractor in achieving safety standards while planning, carrying out and closing demolition and dismantling work. It is organised into 15 hazard topics, each with controls and, where applicable, additional personal protective equipment (PPE).
 
-### Jcba7786c6d44fc69
+### J2d1b5efb7a7a360c
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
 
@@ -973,7 +1135,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "PART 2- KEY ENGINEERING CONTROLS AND WORK PRACTICES\n\n           The following key engineering controls and work practices are briefed for the guidance of\n             the contractor for achieving safety standards during planning operation and closing of the\n              task of Demolition /Dismantling buildings and structures."
 > }
 
-### Jd9be3826faccf17b
+### J794015f681e4de58
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
 
@@ -990,7 +1152,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "topic_id": "1"
 > }
 
-### Jc1c80045b627c45e
+### Je38b5c16bce60b16
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
 
@@ -1007,7 +1169,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "topic_id": "2"
 > }
 
-### J6eea018a6c2a54fd
+### J0e8a1b8ef826206c
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
 
@@ -1028,7 +1190,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "topic_id": "3"
 > }
 
-### Jb8866909815d0baa
+### J8cc62ae9527e2ca3
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
 
@@ -1045,7 +1207,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "topic_id": "4"
 > }
 
-### Jb3f500a5ee4a994f
+### Jc58b5b9d6d062834
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
 
@@ -1062,7 +1224,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "topic_id": "5"
 > }
 
-### J083eded107d71f0c
+### Jcc25919354aba5f5
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
 
@@ -1083,7 +1245,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "topic_id": "6"
 > }
 
-### Jf583b62a5fa607ef
+### Jd7608a91acda8395
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
 
@@ -1100,7 +1262,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "topic_id": "7"
 > }
 
-### J866a8ce14d8eb7c3
+### J0d498ea7a351947a
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
 
@@ -1117,7 +1279,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "topic_id": "8"
 > }
 
-### J05a982ab62a27caf
+### Jdab6d59da4d0aa32
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
 
@@ -1134,7 +1296,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "topic_id": "9"
 > }
 
-### Jcaa47da5d5587bb1
+### J39a8772c5c03105d
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
 
@@ -1151,7 +1313,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "topic_id": "10"
 > }
 
-### J2d0eaf87d849a0cc
+### J77899146e522b46d
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
 
@@ -1168,7 +1330,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "topic_id": "11"
 > }
 
-### Je413e774fe6e4108
+### J43c00c8cce6fd566
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
 
@@ -1185,7 +1347,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "topic_id": "12"
 > }
 
-### Jc481c25219f81ef9
+### J245bcb366a7d7f89
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
 
@@ -1202,7 +1364,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "topic_id": "13"
 > }
 
-### Jaca3c2c40b20f381
+### Jf7f2761d2f203acd
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
 
@@ -1223,7 +1385,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "topic_id": "14"
 > }
 
-### J47b3f1994ff29ecf
+### J9a5a490b4c33ae47
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices|Employer Requirement, Scope of Work and Technical Specifications – Part 2: Key Engineering Controls and Work Practices]]
 
@@ -1240,7 +1402,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "topic_id": "15"
 > }
 
-### Sc480a37d9fb1f02d
+### S9b1268b1dac6b2cf
 
 [[OKF_bundle/Technical/Vol2/vol2_part2#Topic 15 — Barricading the Properties During Demolition/Dismantling|Topic 15 — Barricading the Properties During Demolition/Dismantling]]
 

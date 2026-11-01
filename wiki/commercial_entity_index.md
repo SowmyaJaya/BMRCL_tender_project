@@ -6,346 +6,346 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-30T12:58:34+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-10-31T16:16:19+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_items.json
   json_sha256: ffa851d3dc75c862bbb9df376985067951c7005c988fb0a1002a897b32525b6b
   json_pointer: /key_details/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_table.json
   json_sha256: e4e595fa155f932fe793f28df02a9836eb06f24ca4352db151622db258ce6b10
   json_pointer: /rows/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_items.json
   json_sha256: ffa851d3dc75c862bbb9df376985067951c7005c988fb0a1002a897b32525b6b
   json_pointer: /key_details/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_table.json
   json_sha256: e4e595fa155f932fe793f28df02a9836eb06f24ca4352db151622db258ce6b10
   json_pointer: /rows/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_items.json
   json_sha256: ffa851d3dc75c862bbb9df376985067951c7005c988fb0a1002a897b32525b6b
   json_pointer: /key_details/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_table.json
   json_sha256: e4e595fa155f932fe793f28df02a9836eb06f24ca4352db151622db258ce6b10
   json_pointer: /rows/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/9
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/12
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/21
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/26
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_clauses.json
   json_sha256: d8207622663bc2dd0cf2a7c5e3ed660f5c3881838e376d1bbb26fdae47ed8abf
   json_pointer: /clauses/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_criteria.json
   json_sha256: ab3cdc95d724a7912220cd865c0b6a59bfceea0f7743c525b58aec19278e8816
   json_pointer: /criteria/4/requirement_fragments/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_criteria.json
   json_sha256: ab3cdc95d724a7912220cd865c0b6a59bfceea0f7743c525b58aec19278e8816
   json_pointer: /criteria/5/requirement_fragments/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_criteria.json
   json_sha256: ab3cdc95d724a7912220cd865c0b6a59bfceea0f7743c525b58aec19278e8816
   json_pointer: /criteria/6/requirement_fragments/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_tables.json
   json_sha256: a0ba993fe8e1745d8d8e8613bd5aac0c0d2af1d317b4004000f97f0485a742e4
   json_pointer: /context_fragments/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_tables.json
   json_sha256: a0ba993fe8e1745d8d8e8613bd5aac0c0d2af1d317b4004000f97f0485a742e4
   json_pointer: /context_fragments/3
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_10_tables.json
   json_sha256: df3db5efde82645c9045e98bb0fbc96c7d963498c8ee38a99fdbec3da94a4ba3
   json_pointer: /full_form_context/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json
   json_sha256: 6e9476fdb9d86ab6082d514f0313260c8fe8d1c918479112aa5aa028a1bdc75e
   json_pointer: /details/4
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json
   json_sha256: 6e9476fdb9d86ab6082d514f0313260c8fe8d1c918479112aa5aa028a1bdc75e
   json_pointer: /details/5
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json
   json_sha256: 6e9476fdb9d86ab6082d514f0313260c8fe8d1c918479112aa5aa028a1bdc75e
   json_pointer: /details/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json
   json_sha256: 6e9476fdb9d86ab6082d514f0313260c8fe8d1c918479112aa5aa028a1bdc75e
   json_pointer: /details/3
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json
   json_sha256: 6e9476fdb9d86ab6082d514f0313260c8fe8d1c918479112aa5aa028a1bdc75e
   json_pointer: /details/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/17
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json
   json_sha256: 6e9476fdb9d86ab6082d514f0313260c8fe8d1c918479112aa5aa028a1bdc75e
   json_pointer: /details/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json
   json_sha256: 96052bbff6058581a565657e3010f9ed5ee44ac94ad96d765cb82f64cd1d6706
   json_pointer: /notes/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json
   json_sha256: 96052bbff6058581a565657e3010f9ed5ee44ac94ad96d765cb82f64cd1d6706
   json_pointer: /notes/3
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/19
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/15
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/8
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /contract_data
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/14
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/6
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/26
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /clauses/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /source_page_context/8
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/2/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/general_instructions/general_instructions.json
   json_sha256: 3d779b83ad782b6885c4bb66dc3e760e33f63ea83a6c40738b8db4727121244d
   json_pointer: /instructions/0/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/boq_abstract.json
   json_sha256: 72270396d4fa6937594cd8531e2e59d34d2ab164007793bc1a3ca2b775a056a0
   json_pointer: /records/0
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/boq_abstract.json
   json_sha256: 72270396d4fa6937594cd8531e2e59d34d2ab164007793bc1a3ca2b775a056a0
   json_pointer: /records/1
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/boq_abstract.json
   json_sha256: 72270396d4fa6937594cd8531e2e59d34d2ab164007793bc1a3ca2b775a056a0
   json_pointer: /records/2
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_document.json
   json_sha256: e818be1fb28ea74092cb53a451b92e169c6e8a07afec0add897be67d5844a2b3
   json_pointer: /pages/5
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_document.json
   json_sha256: e818be1fb28ea74092cb53a451b92e169c6e8a07afec0add897be67d5844a2b3
   json_pointer: /pages/6
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-  okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+  okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
   source_document: DLN_P1_AandC1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/2
   source_sha256: 26b25a4e3c3d3206635d0ddae6ce70c00e51468ebb4fe5d93f5e9d65902942d1
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/5
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-  okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+  okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
   source_document: AandC3_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/16
   source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-  okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+  okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
   source_document: AandC3_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
@@ -355,18 +355,18 @@ claims:
 - kind: summary
   text: The estimated cost of work for Contract Package P1 is INR 4.74 Crores.
   evidence_ids:
-  - Sbf2936923c511178
-  - J5ecd0a6a976ec5b2
-  - J1e178b1d5564ca2c
+  - S4957e6c16dfcf271
+  - J4b19345f9e905314
+  - Ja3113b5d018d4993
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1c69ebcc7d202117
+  id: C0a52bff2385760ca
   citations:
-  - id: Sbf2936923c511178
+  - id: S4957e6c16dfcf271
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 1 — Estimated Cost of Work
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -374,9 +374,9 @@ claims:
     quote: '- **Estimated Cost:** INR 4.74 Crores.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: J5ecd0a6a976ec5b2
+  - id: J4b19345f9e905314
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 1 — Estimated Cost of Work
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -393,9 +393,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J1e178b1d5564ca2c
+  - id: Ja3113b5d018d4993
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 1 — Estimated Cost of Work
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -419,21 +419,33 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T12:58:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1c69ebcc7d202117
+    previous_evidence_ids:
+    - Sbf2936923c511178
+    - J5ecd0a6a976ec5b2
+    - J1e178b1d5564ca2c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Tender Security (EMD) amount is INR 7.11 Lakhs.
   evidence_ids:
-  - S4d44a7a957170a04
-  - Jc66c61c80a9fa3ea
-  - J1edc5235a348b39d
+  - S941f625519c1a7c8
+  - J26bac8fe2fb74f79
+  - Jafe130e72c570403
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbe4bf8766c44b4d9
+  id: C5050d23309f46a82
   citations:
-  - id: S4d44a7a957170a04
+  - id: S941f625519c1a7c8
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 2 — Tender Security (EMD)
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -441,9 +453,9 @@ claims:
     quote: '- **Tender Security Amount:** INR 7.11 Lakhs.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: Jc66c61c80a9fa3ea
+  - id: J26bac8fe2fb74f79
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 2 — Tender Security (EMD)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -460,9 +472,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J1edc5235a348b39d
+  - id: Jafe130e72c570403
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 2 — Tender Security (EMD)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -486,21 +498,33 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T12:58:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbe4bf8766c44b4d9
+    previous_evidence_ids:
+    - S4d44a7a957170a04
+    - Jc66c61c80a9fa3ea
+    - J1edc5235a348b39d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Tender Fee inclusive of GST is INR 11,800/- payable online.
   evidence_ids:
-  - S066ae4b04cfbdeea
-  - J67873c515fa1cae7
-  - J6b25db952d30aefd
+  - Sa4257a2e12868606
+  - J8069880d401b8dcd
+  - Jd73959ee8c69976f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5d8250c60c2e642c
+  id: Ce8df7160faf1c5a8
   citations:
-  - id: S066ae4b04cfbdeea
+  - id: Sa4257a2e12868606
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 3 — Tender Fee
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -508,9 +532,9 @@ claims:
     quote: '- **Tender Fee Inclusive of GST:** INR 11,800/-.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: J67873c515fa1cae7
+  - id: J8069880d401b8dcd
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 3 — Tender Fee
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -527,9 +551,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J6b25db952d30aefd
+  - id: Jd73959ee8c69976f
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 3 — Tender Fee
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -553,21 +577,33 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T12:58:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5d8250c60c2e642c
+    previous_evidence_ids:
+    - S066ae4b04cfbdeea
+    - J67873c515fa1cae7
+    - J6b25db952d30aefd
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Quoted prices must be structured according to Schedule-A (percentage rate over BMRCL estimates), Schedule-B
     (KPWD schedule of rates at par), and Schedule-C (lump sum credit to BMRCL for salvageable items).
   evidence_ids:
-  - Jfaf820f2f48dbba8
-  - S221c78cbe87f11d4
+  - J5d1d3ccdbdb537cf
+  - Sc648e8129e9c76c6
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C423a5929e125826b
+  id: C5a5a80c6eac3d557
   citations:
-  - id: Jfaf820f2f48dbba8
+  - id: J5d1d3ccdbdb537cf
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 10.0 — Tender Price
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -612,9 +648,9 @@ claims:
       review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: S221c78cbe87f11d4
+  - id: Sc648e8129e9c76c6
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 10.0 — Tender Price
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -626,22 +662,33 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:10:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C423a5929e125826b
+    previous_evidence_ids:
+    - Jfaf820f2f48dbba8
+    - S221c78cbe87f11d4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Quoted Price includes all applicable taxes, duties, cess, royalties, and statutory levies in force as
     of the last day of the month prior to tender invitation, except for GST, which BMRCL reimburses separately against
     compliant tax invoices.
   evidence_ids:
-  - Jfaf820f2f48dbba8
-  - S221c78cbe87f11d4
+  - J5d1d3ccdbdb537cf
+  - Sc648e8129e9c76c6
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C273506c6a526dfb5
+  id: Ce1e69fb3dfe525df
   citations:
-  - id: Jfaf820f2f48dbba8
+  - id: J5d1d3ccdbdb537cf
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 10.0 — Tender Price
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -686,9 +733,9 @@ claims:
       review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: S221c78cbe87f11d4
+  - id: Sc648e8129e9c76c6
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 10.0 — Tender Price
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -700,21 +747,32 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:10:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C273506c6a526dfb5
+    previous_evidence_ids:
+    - Jfaf820f2f48dbba8
+    - S221c78cbe87f11d4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Quoted Price (exclusive of GST) remains firm and binding for the entire contract duration, including
     extensions, and is not subject to variation due to input cost fluctuations or tax law changes.
   evidence_ids:
-  - Jfaf820f2f48dbba8
-  - S221c78cbe87f11d4
+  - J5d1d3ccdbdb537cf
+  - Sc648e8129e9c76c6
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbce980ddc0ea13a3
+  id: Ce6fd93069e7ea317
   citations:
-  - id: Jfaf820f2f48dbba8
+  - id: J5d1d3ccdbdb537cf
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 10.0 — Tender Price
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -759,9 +817,9 @@ claims:
       review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: S221c78cbe87f11d4
+  - id: Sc648e8129e9c76c6
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 10.0 — Tender Price
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -773,21 +831,32 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:10:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbce980ddc0ea13a3
+    previous_evidence_ids:
+    - Jfaf820f2f48dbba8
+    - S221c78cbe87f11d4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Tender Security (EMD) may be furnished as an irrevocable and unconditional Bank Guarantee (physical or e-BG),
     an Insurance Surety Bond, a Demand Draft, a Banker's Cheque, or via NEFT/RTGS payment to BMRCL's designated
     Bank of India account.
   evidence_ids:
-  - J96e5227223f2186d
+  - Jce685766e7843ace
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7e85ab0ce636a76d
+  id: Cc162d33c9dcea777
   citations:
-  - id: J96e5227223f2186d
+  - id: Jce685766e7843ace
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 13.0 — Tender Security (EMD)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -940,20 +1009,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T13:11:43+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7e85ab0ce636a76d
+    previous_evidence_ids:
+    - J96e5227223f2186d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Additional Performance Security is required for abnormally low bids where the quoted price for Schedule
     A and Schedule B combined is lower by more than 10% of the total estimated cost.
   evidence_ids:
-  - J82de4565268740e7
+  - Ja51d59e2490f098e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C544004f74e9fc2f1
+  id: Cab1957c0c2cb731e
   citations:
-  - id: J82de4565268740e7
+  - id: Ja51d59e2490f098e
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 22.0 — Evaluation of Tender
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1087,22 +1166,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T13:11:43+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C544004f74e9fc2f1
+    previous_evidence_ids:
+    - J82de4565268740e7
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Successful tenderers must furnish performance security and additional performance security as applicable
     under GCC Sub-Clause 4.2 within the period specified in the Contract Data, using a bank guarantee or insurance
     surety bond.
   evidence_ids:
-  - J42b19ad1a0ba2e3e
-  - S4f9e37b6dc95f6a2
+  - Jd1c6c63881acf0b5
+  - Se14fb55708d9a2f4
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C27e96114d980732a
+  id: C580a0bc6bdd3676c
   citations:
-  - id: J42b19ad1a0ba2e3e
+  - id: Jd1c6c63881acf0b5
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 27.0 — Performance Security
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1128,9 +1217,9 @@ claims:
       \    PERFORMANCE SECURITY\",\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: S4f9e37b6dc95f6a2
+  - id: Se14fb55708d9a2f4
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 27.0 — Performance Security
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -1145,21 +1234,32 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:12:43+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C27e96114d980732a
+    previous_evidence_ids:
+    - J42b19ad1a0ba2e3e
+    - S4f9e37b6dc95f6a2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The liquidity requirement for Tender Package P1 is set at not less than ₹ 1.19 Crores, demonstrated through
     liquid assets and/or credit facilities.
   evidence_ids:
-  - J704434795075ef24
-  - Ja40f707b2e28a76e
+  - J0949e7907866cf3c
+  - J5d6fa02cc4835609
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C66793992842563aa
+  id: C64339db9aa334fd4
   citations:
-  - id: J704434795075ef24
+  - id: J0949e7907866cf3c
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Clause 3.0 — Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1284,9 +1384,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"Qualification Criteria\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Ja40f707b2e28a76e
+  - id: J5d6fa02cc4835609
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1307,21 +1407,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:14:21+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C66793992842563aa
+    previous_evidence_ids:
+    - J704434795075ef24
+    - Ja40f707b2e28a76e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The annual turnover threshold is ₹ 9.48 Crores in civil engineering construction works achieved in at least
     two of the last five financial years (2021-2022 to 2025-2026).
   evidence_ids:
-  - J4e531b0c209bd3b8
-  - J704434795075ef24
+  - Je06c8004f1559d68
+  - J0949e7907866cf3c
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cdd23736ceaf14607
+  id: Cafe8e9da6e9723ca
   citations:
-  - id: J4e531b0c209bd3b8
+  - id: Je06c8004f1559d68
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1340,9 +1451,9 @@ claims:
       \ ≥ ₹ 9.48 Crores. ****\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J704434795075ef24
+  - id: J0949e7907866cf3c
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Clause 3.0 — Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1469,20 +1580,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T13:14:21+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cdd23736ceaf14607
+    previous_evidence_ids:
+    - J4e531b0c209bd3b8
+    - J704434795075ef24
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The required available bid capacity must be at least ₹ 4.74 Crores.
   evidence_ids:
-  - J704434795075ef24
-  - J9474231ab903fc15
+  - J0949e7907866cf3c
+  - J5a2247c769778e79
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cfebfc7b9ded95377
+  id: C917d7ea21ffacc0a
   citations:
-  - id: J704434795075ef24
+  - id: J0949e7907866cf3c
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Clause 3.0 — Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1607,9 +1729,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"Qualification Criteria\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J9474231ab903fc15
+  - id: J5a2247c769778e79
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1628,20 +1750,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:14:21+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cfebfc7b9ded95377
+    previous_evidence_ids:
+    - J704434795075ef24
+    - J9474231ab903fc15
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Tenderers must demonstrate liquidity of at least ₹ 1.19 Crores via credit lines, letters of credit, or bank
     certificates uploaded as Attachment-13.
   evidence_ids:
-  - J2d79831d07f43931
+  - J6ca1b2efbb34cc1d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C99984f028f8721c6
+  id: Cc8502126add0068e
   citations:
-  - id: J2d79831d07f43931
+  - id: J6ca1b2efbb34cc1d
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1680,20 +1813,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:15:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C99984f028f8721c6
+    previous_evidence_ids:
+    - J2d79831d07f43931
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Annual turnover requirements mandate a minimum turnover of ₹ 9.48 Crores in at least two of the last five
     financial years (2021-2022 to 2025-2026) for civil engineering construction works.
   evidence_ids:
-  - J2d79831d07f43931
+  - J6ca1b2efbb34cc1d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2ad6ac3e9826a3e2
+  id: Ce9cfba3c54e4a8aa
   citations:
-  - id: J2d79831d07f43931
+  - id: J6ca1b2efbb34cc1d
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1732,20 +1875,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:15:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2ad6ac3e9826a3e2
+    previous_evidence_ids:
+    - J2d79831d07f43931
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Available bid capacity must be equal to or exceed ₹ 4.74 Crores, calculated using the formula (1.5 x A x
     N) - B.
   evidence_ids:
-  - J6d6e6db9092e1d12
+  - J281abfb825cfdd42
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc11a591ecab36e91
+  id: Cfb06cb16fc5c7d8d
   citations:
-  - id: J6d6e6db9092e1d12
+  - id: J281abfb825cfdd42
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1785,20 +1938,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:15:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc11a591ecab36e91
+    previous_evidence_ids:
+    - J6d6e6db9092e1d12
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Work experience monetary alternatives require either 1 work of ₹ 3.79 Crores, 2 works of ₹ 2.37 Crores each,
     3 works of ₹ 1.90 Crores each, or any number of works with a combined value of ₹ 4.74 Crores.
   evidence_ids:
-  - J704434795075ef24
+  - J0949e7907866cf3c
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb07f0491248f02c0
+  id: Ca5b3184556b310a1
   citations:
-  - id: J704434795075ef24
+  - id: J0949e7907866cf3c
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Clause 3.0 — Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1925,23 +2088,33 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T13:15:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb07f0491248f02c0
+    previous_evidence_ids:
+    - J704434795075ef24
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 10 specifies minimum plant and equipment requirements for the demolition work, including diamond
     disc cutters, wall sawing machines, electric drill motors, floor saw machines, chipping machines, crushers/combi
     crushers, hydraulic mobile cranes, high/long reach demolition equipment, hydraulic rock breakers with loaders,
     and 100kVA or higher capacity DG sets.
   evidence_ids:
-  - Jd8027164bb3d94d7
-  - S9d127130be019977
+  - J1a22c44515b0b4ff
+  - S06abea17e682b949
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6aa1327587639b1d
+  id: Cd0ada5a8d2e6701f
   citations:
-  - id: Jd8027164bb3d94d7
+  - id: J1a22c44515b0b4ff
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1974,9 +2147,9 @@ claims:
       \ of signatory: ……………………………\\nName and address of Tenderer:………………..\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S9d127130be019977
+  - id: S06abea17e682b949
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Attachment-10 — Minimum Plants and Equipment for the Work
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -1992,26 +2165,37 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:20:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6aa1327587639b1d
+    previous_evidence_ids:
+    - Jd8027164bb3d94d7
+    - S9d127130be019977
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Source-listed BMRCL beneficiary bank details identify Bangalore Metro Rail Corporation Limited, Bank of
     India, Cantonment Branch, Bengaluru, Account No. 840420110000760 and IFSC Code BKID0008404.
   evidence_ids:
-  - J4f54f26093465a9d
-  - J69ae721d84f91519
-  - J7f454514f22c4c77
-  - Jac2f66467b2a7e97
-  - Je0042dbec6ca67dd
-  - Jf726bdabdb3daf46
-  - Jfd6cb75ec9989923
+  - Jd780574bdb76968d
+  - Jc0a11c9e950c05f3
+  - J6b728a5b8a3dda3a
+  - Jbc56d8fbbdbdc217
+  - Ja00d4004f041fb16
+  - J8ddd6b441dad173f
+  - J7ace950cfa473e04
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C542b46bd5d3babb5
+  id: C3dc79ea6d5d8c5ee
   citations:
-  - id: J4f54f26093465a9d
+  - id: Jd780574bdb76968d
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2032,9 +2216,9 @@ claims:
       ,\n  \"value_type\": \"string\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J69ae721d84f91519
+  - id: Jc0a11c9e950c05f3
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2055,9 +2239,9 @@ claims:
       : \"string\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J7f454514f22c4c77
+  - id: J6b728a5b8a3dda3a
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2078,9 +2262,9 @@ claims:
       ,\n  \"value_type\": \"string\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jac2f66467b2a7e97
+  - id: Jbc56d8fbbdbdc217
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2102,9 +2286,9 @@ claims:
       string\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Je0042dbec6ca67dd
+  - id: Ja00d4004f041fb16
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2125,9 +2309,9 @@ claims:
       : \"string\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf726bdabdb3daf46
+  - id: J8ddd6b441dad173f
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2217,9 +2401,9 @@ claims:
       ,\n  \"review_status\": \"pending_manual_review\",\n  \"source_marking\": \"not_marked_deleted\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jfd6cb75ec9989923
+  - id: J7ace950cfa473e04
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2536,21 +2720,36 @@ claims:
         heading_alignment: document_heading_fallback_not_a_subclause_match
       created_at: '2026-10-30T13:23:31+00:00'
       status: draft
+  - previous_claim_id: C542b46bd5d3babb5
+    previous_evidence_ids:
+    - J4f54f26093465a9d
+    - J69ae721d84f91519
+    - J7f454514f22c4c77
+    - Jac2f66467b2a7e97
+    - Je0042dbec6ca67dd
+    - Jf726bdabdb3daf46
+    - Jfd6cb75ec9989923
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T11:49:40+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 8 note 3 dictates that in case of discrepancies between audited balance sheets and submitted
     financial information or annual turnover, data in the audited balance sheet shall prevail.
   evidence_ids:
-  - J1fc23a24ae7cb153
+  - J6b470fe5122f4c3f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8ab1cab3c1879882
+  id: C7d67c0857686004a
   citations:
-  - id: J1fc23a24ae7cb153
+  - id: J6b470fe5122f4c3f
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2571,21 +2770,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:21:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8ab1cab3c1879882
+    previous_evidence_ids:
+    - J1fc23a24ae7cb153
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 8 note 4 provides that if the audited balance sheet for the financial year ending 2025-26 is
     unavailable, the bidder must submit an affidavit certifying that the balance sheet is not yet audited, allowing
     evaluation based on the preceding four audited financial years.
   evidence_ids:
-  - J42e27e957bad916f
+  - Jd20fa2722b138228
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6b849dc267a992fa
+  id: C628314dd01b6e6fb
   citations:
-  - id: J42e27e957bad916f
+  - id: Jd20fa2722b138228
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2607,21 +2816,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:21:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6b849dc267a992fa
+    previous_evidence_ids:
+    - J42e27e957bad916f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Liquidity requirements for tender qualification mandate access to liquid assets or credit facilities of
     not less than ₹ 1.19 Crores, backed by a Banker's Certificate submitted as Attachment 13.
   evidence_ids:
-  - J2d79831d07f43931
-  - J71b7032ce20bc8cf
+  - J6ca1b2efbb34cc1d
+  - Jff8dfce17cb76750
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3d9dacd40f9db9e1
+  id: C96338f3cc2c9f382
   citations:
-  - id: J2d79831d07f43931
+  - id: J6ca1b2efbb34cc1d
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2658,9 +2877,9 @@ claims:
       \ be considered.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J71b7032ce20bc8cf
+  - id: Jff8dfce17cb76750
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2694,20 +2913,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:23:31+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3d9dacd40f9db9e1
+    previous_evidence_ids:
+    - J2d79831d07f43931
+    - J71b7032ce20bc8cf
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The successful tenderer must furnish a performance security of 5% of the Contract Price within 21 days of
     the issue of the Letter of Acceptance.
   evidence_ids:
-  - J8bd217cf1c0cb384
+  - J68b56efe7d18bd1a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C27697c9d7ef80f93
+  id: C4c9cebf27e33746e
   citations:
-  - id: J8bd217cf1c0cb384
+  - id: J68b56efe7d18bd1a
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2735,20 +2965,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:27:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C27697c9d7ef80f93
+    previous_evidence_ids:
+    - J8bd217cf1c0cb384
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Retention Money in each Interim Payment Certificate (IPC) is limited to 10% of the bill amount, with an
     overall maximum limit of 5% of the Contract Price.
   evidence_ids:
-  - Jf4e946132d7f7ef6
+  - Jb6e7b151a9497982
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1aca5d9481c363ed
+  id: C2e9abaa015d6e419
   citations:
-  - id: Jf4e946132d7f7ef6
+  - id: Jb6e7b151a9497982
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2775,21 +3015,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:27:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1aca5d9481c363ed
+    previous_evidence_ids:
+    - Jf4e946132d7f7ef6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'Liquidated damages for delay are structured around two milestones: Rs. 5,000/- per day for Milestone-1
     (50% area handed over in 6 months) and Rs. 10,000/- per day for Milestone-2 (100% area handed over in 12 months),
     with an upper limit of 5% of the Contract Price.'
   evidence_ids:
-  - J50cf7f54666ad6c6
+  - J70d8d9273eaa879c
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd2699fc8bdd5ff98
+  id: C9436cc479709d89d
   citations:
-  - id: J50cf7f54666ad6c6
+  - id: J70d8d9273eaa879c
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2869,20 +3119,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:27:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd2699fc8bdd5ff98
+    previous_evidence_ids:
+    - J50cf7f54666ad6c6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Retention Money in each IPC is limited to 10% of the bill amount, with a maximum total limit of 5% of the
     Contract Price as stated in the Letter of Acceptance.
   evidence_ids:
-  - J5516f07161b435b2
+  - Jb6d88198cad1dbbd
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4298594e41c08ab7
+  id: C0c236ce64277fc28
   citations:
-  - id: J5516f07161b435b2
+  - id: Jb6d88198cad1dbbd
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2959,21 +3219,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:13:06+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4298594e41c08ab7
+    previous_evidence_ids:
+    - J5516f07161b435b2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Insurances required under GCC Clause 15, including Contractors All Risks and Workmen's Compensation, must
     be submitted within 06 weeks from the date of commencement of works.
   evidence_ids:
-  - J5516f07161b435b2
-  - J7957e3c3de8aec5b
+  - Jb6d88198cad1dbbd
+  - J6539d43b623dd956
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf60d7d6eaf32bb5f
+  id: Cea27bafae9113def
   citations:
-  - id: J5516f07161b435b2
+  - id: Jb6d88198cad1dbbd
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -3048,9 +3318,9 @@ claims:
       : false,\n  \"title\": \"Contract Data\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J7957e3c3de8aec5b
+  - id: J6539d43b623dd956
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 15 — Insurance
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -3260,21 +3530,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:13:06+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf60d7d6eaf32bb5f
+    previous_evidence_ids:
+    - J5516f07161b435b2
+    - J7957e3c3de8aec5b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Construction equipment inducted to site must be certified in sound mechanical working condition by a competent
     person under the Factories Act, manufacturer warranty for brand new items, or authorized persons/firms approved
     by the Employer.
   evidence_ids:
-  - J85cb8851adc8cf4a
+  - J0bae92fd8baf7920
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C64b7158179d4b58a
+  id: Cdabbb96992212a9a
   citations:
-  - id: J85cb8851adc8cf4a
+  - id: J0bae92fd8baf7920
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 23.0 — Construction machinery
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3490,20 +3771,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:14:42+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C64b7158179d4b58a
+    previous_evidence_ids:
+    - J85cb8851adc8cf4a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Permit-to-Work authorisation forms have a defined maximum duration period not exceeding 12 hours, establishing
     a time boundary for high-risk operations.
   evidence_ids:
-  - J906a5c528c244560
+  - Jee37894331f7ed66
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1b387ff827d4e247
+  id: C4185b5979a711ab6
   citations:
-  - id: J906a5c528c244560
+  - id: Jee37894331f7ed66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3602,20 +3893,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:01:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1b387ff827d4e247
+    previous_evidence_ids:
+    - J906a5c528c244560
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Peer educators for HIV/AIDS awareness are paid a monthly honorarium fixed by the Employer for rendering
     services in addition to their regular duties.
   evidence_ids:
-  - J573bee61f4ed333d
+  - J44c81c9cdd51865e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8b89a3311a80a2d2
+  id: C512765af74aa8247
   citations:
-  - id: J573bee61f4ed333d
+  - id: J44c81c9cdd51865e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 42.0 — Medical Facilities
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3954,20 +4255,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T08:10:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8b89a3311a80a2d2
+    previous_evidence_ids:
+    - J573bee61f4ed333d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Canteen foodstuff pricing in workplaces with 250 or more workers must be managed on a no profit no loss
     basis, with a conspicuously displayed price list.
   evidence_ids:
-  - J68c70ff4ff74226a
+  - J7eabb1054ab2b78e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1d1fbe6961ff912f
+  id: C60e37d260640f702
   citations:
-  - id: J68c70ff4ff74226a
+  - id: J7eabb1054ab2b78e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4051,20 +4362,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:15:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1d1fbe6961ff912f
+    previous_evidence_ids:
+    - J68c70ff4ff74226a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'SHE monitoring and audio-visual equipment requirements are tiered by initial awarded contract values: Group
     A (upto 25 Cr), Group B (upto 100 Cr), Group C (upto 250 Cr), and Group D (more than 250 Cr).'
   evidence_ids:
-  - J807862a97e7fd333
+  - J5543c388e0459bf6
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb1b10b4032c96d76
+  id: Ce07654bf7b86fc33
   citations:
-  - id: J807862a97e7fd333
+  - id: J5543c388e0459bf6
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4125,20 +4446,30 @@ claims:
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
   created_at: '2026-10-31T15:38:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb1b10b4032c96d76
+    previous_evidence_ids:
+    - J807862a97e7fd333
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Manpower deployment scales across contract values starting from upto 2 Cr, upto 10 Cr, upto 25 Cr, upto
     100 Cr, upto 250 Cr, and more than 250 Cr.
   evidence_ids:
-  - Jb23d7ac8ecea82aa
+  - J71183e109c431b8d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce5035dc6eaa4c44e
+  id: C5763c5f3559ef532
   citations:
-  - id: Jb23d7ac8ecea82aa
+  - id: J71183e109c431b8d
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4209,20 +4540,30 @@ claims:
       no missing conditions or table structure inferred. Parent layout review status remains pending as supplied.
   created_at: '2026-10-31T15:38:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce5035dc6eaa4c44e
+    previous_evidence_ids:
+    - Jb23d7ac8ecea82aa
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Schedule-A estimated cost is INR 4,69,41,306.00.
   evidence_ids:
-  - J23599c81d83cf26f
-  - S469ca02217533c37
+  - J241ce183fcecf015
+  - S212cc0e74fc3292f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3903c6617d80c4c6
+  id: C7158889e1c32f75a
   citations:
-  - id: J23599c81d83cf26f
+  - id: J241ce183fcecf015
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4244,9 +4585,9 @@ claims:
       ,\n  \"schedule\": \"A\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S469ca02217533c37
+  - id: S212cc0e74fc3292f
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: 2.0 — Abstract of Bill of Quantities (BOQ)
     source_document: Vol4DLNP1.pdf
     pdf_pages:
@@ -4262,20 +4603,31 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T15:57:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3903c6617d80c4c6
+    previous_evidence_ids:
+    - J23599c81d83cf26f
+    - S469ca02217533c37
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Schedule-B estimated cost is INR 5,00,000.00.
   evidence_ids:
-  - Jbd5c1b7c43155768
-  - S469ca02217533c37
+  - Jaf44a3c272fd15bf
+  - S212cc0e74fc3292f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C0025f953aba300b2
+  id: C8851d481c30bdd11
   citations:
-  - id: Jbd5c1b7c43155768
+  - id: Jaf44a3c272fd15bf
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4297,9 +4649,9 @@ claims:
       \  \"schedule\": \"B\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S469ca02217533c37
+  - id: S212cc0e74fc3292f
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: 2.0 — Abstract of Bill of Quantities (BOQ)
     source_document: Vol4DLNP1.pdf
     pdf_pages:
@@ -4315,20 +4667,31 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T15:57:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C0025f953aba300b2
+    previous_evidence_ids:
+    - Jbd5c1b7c43155768
+    - S469ca02217533c37
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Combined total of Schedules A and B estimated cost is INR 4,74,41,306.00.
   evidence_ids:
-  - J40111fda7648d44d
-  - S469ca02217533c37
+  - J76eb6bf2592fa9ee
+  - S212cc0e74fc3292f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd817415f46fb6a94
+  id: Cb52bfc9faaa94085
   citations:
-  - id: J40111fda7648d44d
+  - id: J76eb6bf2592fa9ee
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4349,9 +4712,9 @@ claims:
       : \"pending_manual_review\",\n  \"schedule\": \"A+B\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S469ca02217533c37
+  - id: S212cc0e74fc3292f
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: 2.0 — Abstract of Bill of Quantities (BOQ)
     source_document: Vol4DLNP1.pdf
     pdf_pages:
@@ -4367,20 +4730,31 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T15:57:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd817415f46fb6a94
+    previous_evidence_ids:
+    - J40111fda7648d44d
+    - S469ca02217533c37
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Schedule C salvage material credit lump sum amounts indicated by the tenderer are recovered proportionately
     from running account bills and adjusted pro-rata based on work done variations.
   evidence_ids:
-  - J6f83ecf77cc57b25
+  - Jf17d55c6acfde864
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C70cdadd4b8f13247
+  id: C0413ddbd043aaf22
   citations:
-  - id: J6f83ecf77cc57b25
+  - id: Jf17d55c6acfde864
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4503,20 +4877,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:00:35+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C70cdadd4b8f13247
+    previous_evidence_ids:
+    - J6f83ecf77cc57b25
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Permanent supports and restoration works ordered by BMRCL/Consultant are paid according to accepted rates
     in the BOQ schedule for items available in the Common Schedule of Rates (Common SR) for the year 2023-24.
   evidence_ids:
-  - Jdacd5cece2eca4d3
+  - J002388868106a238
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C60a2e21a95760f8a
+  id: Ceb2e8dd2720dc65b
   citations:
-  - id: Jdacd5cece2eca4d3
+  - id: J002388868106a238
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4619,20 +5003,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:00:35+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C60a2e21a95760f8a
+    previous_evidence_ids:
+    - Jdacd5cece2eca4d3
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Corrigendum No. 1 updates the timeline for delivering original Tender Security instruments (Bank Guarantee,
     Insurance Surety Bond, Demand Draft, or Banker's Cheque) to BMRCL.
   evidence_ids:
-  - J694eb1f7c6c20642
+  - Jadc1b38fe5d638d9
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1d17c869f1612f4d
+  id: C3a934dadadeaffe0
   citations:
-  - id: J694eb1f7c6c20642
+  - id: Jadc1b38fe5d638d9
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-    okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+    okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
     heading: Change 4 — Submission of Original Tender Security Instruments
     source_document: DLN_P1_AandC1_157.PDF
     source_sha256: 26b25a4e3c3d3206635d0ddae6ce70c00e51468ebb4fe5d93f5e9d65902942d1
@@ -4666,22 +5060,32 @@ claims:
     text: The C1 values for Key Detail 12 are historical. C3 replaces 23.10.2026 up to 18.00 Hrs (IST) with 31.10.2026
       up to 18.00 Hrs (IST). This callout does not supersede the entire synthesized claim.
     evidence_ids:
+    - Jadc1b38fe5d638d9
+    - J0daa272fa51cc074
+  editorial_history:
+  - previous_claim_id: C1d17c869f1612f4d
+    previous_evidence_ids:
     - J694eb1f7c6c20642
-    - J9e0c4f73f95653c7
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The deadline for physical submission of original tender security instruments was extended to 23.10.2026
     up to 18.00 Hrs (IST).
   evidence_ids:
-  - J694eb1f7c6c20642
+  - Jadc1b38fe5d638d9
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C25046837f5b0d96b
+  id: Ce7a5ac5dee143b00
   citations:
-  - id: J694eb1f7c6c20642
+  - id: Jadc1b38fe5d638d9
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-    okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+    okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
     heading: Change 4 — Submission of Original Tender Security Instruments
     source_document: DLN_P1_AandC1_157.PDF
     source_sha256: 26b25a4e3c3d3206635d0ddae6ce70c00e51468ebb4fe5d93f5e9d65902942d1
@@ -4715,22 +5119,32 @@ claims:
     text: The C1 values for Key Detail 12 are historical. C3 replaces 23.10.2026 up to 18.00 Hrs (IST) with 31.10.2026
       up to 18.00 Hrs (IST). This callout does not supersede the entire synthesized claim.
     evidence_ids:
+    - Jadc1b38fe5d638d9
+    - J0daa272fa51cc074
+  editorial_history:
+  - previous_claim_id: C25046837f5b0d96b
+    previous_evidence_ids:
     - J694eb1f7c6c20642
-    - J9e0c4f73f95653c7
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Under Corrigendum No. 2 amending GCC Sub-Clause 12.3.1 (iii) c, minor value item quantities operated up
     to and including 200% of the agreement quantity are paid at 100% of the accepted rate.
   evidence_ids:
-  - Jdbaceb05b8fa1555
+  - J4e809387ba405ea9
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C04a38791b9306b3f
+  id: C2a6ee8a6964b356c
   citations:
-  - id: Jdbaceb05b8fa1555
+  - id: J4e809387ba405ea9
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -4773,20 +5187,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:12:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C04a38791b9306b3f
+    previous_evidence_ids:
+    - Jdbaceb05b8fa1555
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Under Corrigendum No. 2 amending GCC Sub-Clause 12.3.1 (iii) c, quantities operated in excess of 200% up
     to 300% are paid at 98% of the accepted rate.
   evidence_ids:
-  - Jdbaceb05b8fa1555
+  - J4e809387ba405ea9
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C63341404037f5445
+  id: Cf76319b17a27ef6b
   citations:
-  - id: Jdbaceb05b8fa1555
+  - id: J4e809387ba405ea9
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -4829,20 +5253,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:12:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C63341404037f5445
+    previous_evidence_ids:
+    - Jdbaceb05b8fa1555
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Under Corrigendum No. 2 amending GCC Sub-Clause 12.3.1 (iii) c, variations in quantities of individual minor
     value items beyond 300% are paid at 96% of the accepted rate.
   evidence_ids:
-  - Jdbaceb05b8fa1555
+  - J4e809387ba405ea9
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3960b2d112a9ef51
+  id: C674380e92a8ef4a4
   citations:
-  - id: Jdbaceb05b8fa1555
+  - id: J4e809387ba405ea9
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -4885,21 +5319,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:12:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3960b2d112a9ef51
+    previous_evidence_ids:
+    - Jdbaceb05b8fa1555
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Corrigendum No. 3 updates key commercial submission deadlines for original Tender Security instruments and
     document availability.
   evidence_ids:
-  - J8827536a17c54d1a
-  - J9e0c4f73f95653c7
+  - J01cf445b9bb9f862
+  - J0daa272fa51cc074
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6ca873240aa0b020
+  id: C3d5912204c4af69b
   citations:
-  - id: J8827536a17c54d1a
+  - id: J01cf445b9bb9f862
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 1 — Tender Document Availability Period
     source_document: AandC3_DLN_P1_157.PDF
     source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
@@ -4926,9 +5370,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: amendment_entry_navigation
-  - id: J9e0c4f73f95653c7
+  - id: J0daa272fa51cc074
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 4 — Submission of Original Tender Security Instruments
     source_document: AandC3_DLN_P1_157.PDF
     source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
@@ -4956,20 +5400,31 @@ claims:
     heading_alignment: amendment_entry_navigation
   created_at: '2026-10-31T16:16:19+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6ca873240aa0b020
+    previous_evidence_ids:
+    - J8827536a17c54d1a
+    - J9e0c4f73f95653c7
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Original Tender Security submission final deadline under Corrigendum No. 3 is 31.10.2026 up to 18.00 Hrs
     (IST), replacing the 23.10.2026 deadline from Corrigendum No. 1.
   evidence_ids:
-  - J9e0c4f73f95653c7
+  - J0daa272fa51cc074
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C97c81e50957984d3
+  id: C034c7b014ec16654
   citations:
-  - id: J9e0c4f73f95653c7
+  - id: J0daa272fa51cc074
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 4 — Submission of Original Tender Security Instruments
     source_document: AandC3_DLN_P1_157.PDF
     source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
@@ -4997,28 +5452,38 @@ claims:
     heading_alignment: amendment_entry_navigation
   created_at: '2026-10-31T16:16:19+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C97c81e50957984d3
+    previous_evidence_ids:
+    - J9e0c4f73f95653c7
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: concepts/tender_security_by_stage.md
   title: Tender Securities by Submission and Award Stage
   evidence_ids:
-  - J1edc5235a348b39d
+  - Jafe130e72c570403
 - relation_type: relates_to
   target: concepts/financial_capacity_evidence.md
   title: Financial Capacity Thresholds and Supporting Evidence
   evidence_ids:
-  - J2d79831d07f43931
+  - J6ca1b2efbb34cc1d
 - relation_type: relates_to
   target: concepts/similar_work_and_past_jv_evidence.md
   title: Similar-Work Evidence and Historical JV Participation
   evidence_ids:
-  - J704434795075ef24
+  - J0949e7907866cf3c
 - relation_type: relates_to
   target: concepts/salvage_ownership_and_credit.md
   title: Salvage Ownership and Schedule C Credit
   evidence_ids:
-  - J6f83ecf77cc57b25
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - Jf17d55c6acfde864
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Commercial Entity Index - Corrigendum No. 3 Deadlines
@@ -5028,164 +5493,164 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - The estimated cost of work for Contract Package P1 is INR 4.74 Crores.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 1 — Estimated Cost of Work|Key Detail 1 — Estimated Cost of Work]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Sbf2936923c511178`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 1 — Estimated Cost of Work|Key Detail 1 — Estimated Cost of Work]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J5ecd0a6a976ec5b2`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 1 — Estimated Cost of Work|Key Detail 1 — Estimated Cost of Work]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J1e178b1d5564ca2c`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 1 — Estimated Cost of Work|Key Detail 1 — Estimated Cost of Work]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `S4957e6c16dfcf271`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 1 — Estimated Cost of Work|Key Detail 1 — Estimated Cost of Work]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J4b19345f9e905314`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 1 — Estimated Cost of Work|Key Detail 1 — Estimated Cost of Work]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Ja3113b5d018d4993`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/0`.
 
 - Canteen foodstuff pricing in workplaces with 250 or more workers must be managed on a no profit no loss basis, with a conspicuously displayed price list.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 72; quotation `J68c70ff4ff74226a`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 72; quotation `J7eabb1054ab2b78e`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/8`.
 
 - Corrigendum No. 1 updates the timeline for delivering original Tender Security instruments (Bank Guarantee, Insurance Surety Bond, Demand Draft, or Banker's Cheque) to BMRCL.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `J694eb1f7c6c20642`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/2`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `Jadc1b38fe5d638d9`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/2`.
 
 - Corrigendum No. 3 updates key commercial submission deadlines for original Tender Security instruments and document availability.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J8827536a17c54d1a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/16`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J9e0c4f73f95653c7`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/15`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J01cf445b9bb9f862`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/16`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J0daa272fa51cc074`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/15`.
 
 ## Key Parameters and Source Statements
 
 - Tender Security (EMD) amount is INR 7.11 Lakhs.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `S4d44a7a957170a04`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Jc66c61c80a9fa3ea`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J1edc5235a348b39d`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `S941f625519c1a7c8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J26bac8fe2fb74f79`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Jafe130e72c570403`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/1`.
 
 - Tender Fee inclusive of GST is INR 11,800/- payable online.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 3 — Tender Fee|Key Detail 3 — Tender Fee]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `S066ae4b04cfbdeea`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 3 — Tender Fee|Key Detail 3 — Tender Fee]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J67873c515fa1cae7`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 3 — Tender Fee|Key Detail 3 — Tender Fee]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J6b25db952d30aefd`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 3 — Tender Fee|Key Detail 3 — Tender Fee]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Sa4257a2e12868606`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 3 — Tender Fee|Key Detail 3 — Tender Fee]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J8069880d401b8dcd`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 3 — Tender Fee|Key Detail 3 — Tender Fee]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Jd73959ee8c69976f`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/2`.
 
 - Quoted prices must be structured according to Schedule-A (percentage rate over BMRCL estimates), Schedule-B (KPWD schedule of rates at par), and Schedule-C (lump sum credit to BMRCL for salvageable items).
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 10.0 — Tender Price|Clause 10.0 — Tender Price]]; `Vol1DLNP1.pdf`; PDF page(s) 14, 15; quotation `Jfaf820f2f48dbba8`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/9`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 10.0 — Tender Price|Clause 10.0 — Tender Price]]; `Vol1DLNP1.pdf`; PDF page(s) 14, 15; quotation `S221c78cbe87f11d4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 10.0 — Tender Price|Clause 10.0 — Tender Price]]; `Vol1DLNP1.pdf`; PDF page(s) 14, 15; quotation `J5d1d3ccdbdb537cf`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 10.0 — Tender Price|Clause 10.0 — Tender Price]]; `Vol1DLNP1.pdf`; PDF page(s) 14, 15; quotation `Sc648e8129e9c76c6`.
 
 - The Quoted Price includes all applicable taxes, duties, cess, royalties, and statutory levies in force as of the last day of the month prior to tender invitation, except for GST, which BMRCL reimburses separately against compliant tax invoices.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 10.0 — Tender Price|Clause 10.0 — Tender Price]]; `Vol1DLNP1.pdf`; PDF page(s) 14, 15; quotation `Jfaf820f2f48dbba8`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/9`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 10.0 — Tender Price|Clause 10.0 — Tender Price]]; `Vol1DLNP1.pdf`; PDF page(s) 14, 15; quotation `S221c78cbe87f11d4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 10.0 — Tender Price|Clause 10.0 — Tender Price]]; `Vol1DLNP1.pdf`; PDF page(s) 14, 15; quotation `J5d1d3ccdbdb537cf`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 10.0 — Tender Price|Clause 10.0 — Tender Price]]; `Vol1DLNP1.pdf`; PDF page(s) 14, 15; quotation `Sc648e8129e9c76c6`.
 
 - The Quoted Price (exclusive of GST) remains firm and binding for the entire contract duration, including extensions, and is not subject to variation due to input cost fluctuations or tax law changes.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 10.0 — Tender Price|Clause 10.0 — Tender Price]]; `Vol1DLNP1.pdf`; PDF page(s) 14, 15; quotation `Jfaf820f2f48dbba8`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/9`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 10.0 — Tender Price|Clause 10.0 — Tender Price]]; `Vol1DLNP1.pdf`; PDF page(s) 14, 15; quotation `S221c78cbe87f11d4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 10.0 — Tender Price|Clause 10.0 — Tender Price]]; `Vol1DLNP1.pdf`; PDF page(s) 14, 15; quotation `J5d1d3ccdbdb537cf`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 10.0 — Tender Price|Clause 10.0 — Tender Price]]; `Vol1DLNP1.pdf`; PDF page(s) 14, 15; quotation `Sc648e8129e9c76c6`.
 
 - Tender Security (EMD) may be furnished as an irrevocable and unconditional Bank Guarantee (physical or e-BG), an Insurance Surety Bond, a Demand Draft, a Banker's Cheque, or via NEFT/RTGS payment to BMRCL's designated Bank of India account.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 15, 16, 17, 18; quotation `J96e5227223f2186d`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 15, 16, 17, 18; quotation `Jce685766e7843ace`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/12`.
 
 - Additional Performance Security is required for abnormally low bids where the quoted price for Schedule A and Schedule B combined is lower by more than 10% of the total estimated cost.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 22.0 — Evaluation of Tender|Clause 22.0 — Evaluation of Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 21, 22, 23; quotation `J82de4565268740e7`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/21`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 22.0 — Evaluation of Tender|Clause 22.0 — Evaluation of Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 21, 22, 23; quotation `Ja51d59e2490f098e`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/21`.
 
 - Successful tenderers must furnish performance security and additional performance security as applicable under GCC Sub-Clause 4.2 within the period specified in the Contract Data, using a bank guarantee or insurance surety bond.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 27.0 — Performance Security|Clause 27.0 — Performance Security]]; `Vol1DLNP1.pdf`; PDF page(s) 24, 25; quotation `J42b19ad1a0ba2e3e`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/26`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 27.0 — Performance Security|Clause 27.0 — Performance Security]]; `Vol1DLNP1.pdf`; PDF page(s) 24, 25; quotation `S4f9e37b6dc95f6a2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 27.0 — Performance Security|Clause 27.0 — Performance Security]]; `Vol1DLNP1.pdf`; PDF page(s) 24, 25; quotation `Jd1c6c63881acf0b5`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/26`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 27.0 — Performance Security|Clause 27.0 — Performance Security]]; `Vol1DLNP1.pdf`; PDF page(s) 24, 25; quotation `Se14fb55708d9a2f4`.
 
 - The liquidity requirement for Tender Package P1 is set at not less than ₹ 1.19 Crores, demonstrated through liquid assets and/or credit facilities.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J704434795075ef24`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `Ja40f707b2e28a76e`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/criteria/4/requirement_fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J0949e7907866cf3c`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `J5d6fa02cc4835609`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/criteria/4/requirement_fragments/0`.
 
 - The annual turnover threshold is ₹ 9.48 Crores in civil engineering construction works achieved in at least two of the last five financial years (2021-2022 to 2025-2026).
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `J4e531b0c209bd3b8`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/criteria/5/requirement_fragments/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J704434795075ef24`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `Je06c8004f1559d68`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/criteria/5/requirement_fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J0949e7907866cf3c`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
 
 - The required available bid capacity must be at least ₹ 4.74 Crores.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J704434795075ef24`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 35; quotation `J9474231ab903fc15`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/criteria/6/requirement_fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J0949e7907866cf3c`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 35; quotation `J5a2247c769778e79`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/criteria/6/requirement_fragments/0`.
 
 - Tenderers must demonstrate liquidity of at least ₹ 1.19 Crores via credit lines, letters of credit, or bank certificates uploaded as Attachment-13.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `J2d79831d07f43931`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `J6ca1b2efbb34cc1d`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/2`.
 
 - Annual turnover requirements mandate a minimum turnover of ₹ 9.48 Crores in at least two of the last five financial years (2021-2022 to 2025-2026) for civil engineering construction works.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `J2d79831d07f43931`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `J6ca1b2efbb34cc1d`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/2`.
 
 - Available bid capacity must be equal to or exceed ₹ 4.74 Crores, calculated using the formula (1.5 x A x N) - B.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 35; quotation `J6d6e6db9092e1d12`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 35; quotation `J281abfb825cfdd42`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/3`.
 
 - Work experience monetary alternatives require either 1 work of ₹ 3.79 Crores, 2 works of ₹ 2.37 Crores each, 3 works of ₹ 1.90 Crores each, or any number of works with a combined value of ₹ 4.74 Crores.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J704434795075ef24`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J0949e7907866cf3c`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
 
 - Attachment 10 specifies minimum plant and equipment requirements for the demolition work, including diamond disc cutters, wall sawing machines, electric drill motors, floor saw machines, chipping machines, crushers/combi crushers, hydraulic mobile cranes, high/long reach demolition equipment, hydraulic rock breakers with loaders, and 100kVA or higher capacity DG sets.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `Jd8027164bb3d94d7`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_10_tables.json#/full_form_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-10 — Minimum Plants and Equipment for the Work|Attachment-10 — Minimum Plants and Equipment for the Work]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `S9d127130be019977`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `J1a22c44515b0b4ff`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_10_tables.json#/full_form_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-10 — Minimum Plants and Equipment for the Work|Attachment-10 — Minimum Plants and Equipment for the Work]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `S06abea17e682b949`.
 
 - Source-listed BMRCL beneficiary bank details identify Bangalore Metro Rail Corporation Limited, Bank of India, Cantonment Branch, Bengaluru, Account No. 840420110000760 and IFSC Code BKID0008404.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 54; quotation `J4f54f26093465a9d`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json#/details/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 54; quotation `J69ae721d84f91519`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json#/details/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 54; quotation `J7f454514f22c4c77`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json#/details/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 54; quotation `Jac2f66467b2a7e97`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json#/details/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 54; quotation `Je0042dbec6ca67dd`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json#/details/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 54, 55; quotation `Jf726bdabdb3daf46`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/17`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 54; quotation `Jfd6cb75ec9989923`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json#/details/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 54; quotation `Jd780574bdb76968d`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json#/details/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 54; quotation `Jc0a11c9e950c05f3`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json#/details/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 54; quotation `J6b728a5b8a3dda3a`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json#/details/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 54; quotation `Jbc56d8fbbdbdc217`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json#/details/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 54; quotation `Ja00d4004f041fb16`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json#/details/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 54, 55; quotation `J8ddd6b441dad173f`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/17`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 54; quotation `J7ace950cfa473e04`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_12_bank_details.json#/details/0`.
 
 - Attachment 8 note 3 dictates that in case of discrepancies between audited balance sheets and submitted financial information or annual turnover, data in the audited balance sheet shall prevail.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 49; quotation `J1fc23a24ae7cb153`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json#/notes/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 49; quotation `J6b470fe5122f4c3f`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json#/notes/2`.
 
 - Attachment 8 note 4 provides that if the audited balance sheet for the financial year ending 2025-26 is unavailable, the bidder must submit an affidavit certifying that the balance sheet is not yet audited, allowing evaluation based on the preceding four audited financial years.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 49; quotation `J42e27e957bad916f`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json#/notes/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 49; quotation `Jd20fa2722b138228`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json#/notes/3`.
 
 - Liquidity requirements for tender qualification mandate access to liquid assets or credit facilities of not less than ₹ 1.19 Crores, backed by a Banker's Certificate submitted as Attachment 13.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `J2d79831d07f43931`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 58; quotation `J71b7032ce20bc8cf`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/19`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `J6ca1b2efbb34cc1d`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 58; quotation `Jff8dfce17cb76750`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/19`.
 
 - The successful tenderer must furnish a performance security of 5% of the Contract Price within 21 days of the issue of the Letter of Acceptance.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `J8bd217cf1c0cb384`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `J68b56efe7d18bd1a`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/1`.
 
 - Retention Money in each Interim Payment Certificate (IPC) is limited to 10% of the bill amount, with an overall maximum limit of 5% of the Contract Price.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `Jf4e946132d7f7ef6`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `Jb6e7b151a9497982`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/15`.
 
 - Liquidated damages for delay are structured around two milestones: Rs. 5,000/- per day for Milestone-1 (50% area handed over in 6 months) and Rs. 10,000/- per day for Milestone-2 (100% area handed over in 12 months), with an upper limit of 5% of the Contract Price.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `J50cf7f54666ad6c6`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `J70d8d9273eaa879c`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/8`.
 
 - Retention Money in each IPC is limited to 10% of the bill amount, with a maximum total limit of 5% of the Contract Price as stated in the Letter of Acceptance.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `J5516f07161b435b2`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `Jb6d88198cad1dbbd`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
 
 - Insurances required under GCC Clause 15, including Contractors All Risks and Workmen's Compensation, must be submitted within 06 weeks from the date of commencement of works.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `J5516f07161b435b2`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 15 — Insurance|Clause 15 — Insurance]]; `Vol1DLNP1.pdf`; PDF page(s) 134, 135, 136, 137; quotation `J7957e3c3de8aec5b`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `Jb6d88198cad1dbbd`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 15 — Insurance|Clause 15 — Insurance]]; `Vol1DLNP1.pdf`; PDF page(s) 134, 135, 136, 137; quotation `J6539d43b623dd956`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/14`.
 
 - Construction equipment inducted to site must be certified in sound mechanical working condition by a competent person under the Factories Act, manufacturer warranty for brand new items, or authorized persons/firms approved by the Employer.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 23.0 — Construction machinery|Clause 23.0 — Construction machinery]]; `Vol3DLNP1.pdf`; PDF page(s) 45, 46; quotation `J85cb8851adc8cf4a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 23.0 — Construction machinery|Clause 23.0 — Construction machinery]]; `Vol3DLNP1.pdf`; PDF page(s) 45, 46; quotation `J0bae92fd8baf7920`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/6`.
 
 - Permit-to-Work authorisation forms have a defined maximum duration period not exceeding 12 hours, establishing a time boundary for high-risk operations.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 57; quotation `J906a5c528c244560`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/26`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 57; quotation `Jee37894331f7ed66`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/26`.
 
 - Peer educators for HIV/AIDS awareness are paid a monthly honorarium fixed by the Employer for rendering services in addition to their regular duties.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66; quotation `J573bee61f4ed333d`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66; quotation `J44c81c9cdd51865e`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/1`.
 
 - SHE monitoring and audio-visual equipment requirements are tiered by initial awarded contract values: Group A (upto 25 Cr), Group B (upto 100 Cr), Group C (upto 250 Cr), and Group D (more than 250 Cr).
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 99; quotation `J807862a97e7fd333`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/2/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 99; quotation `J5543c388e0459bf6`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/2/fragments/0`.
 
 - Manpower deployment scales across contract values starting from upto 2 Cr, upto 10 Cr, upto 25 Cr, upto 100 Cr, upto 250 Cr, and more than 250 Cr.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 96; quotation `Jb23d7ac8ecea82aa`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/0/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 96; quotation `J71183e109c431b8d`. JSON: `parsed_json/vol3/general_instructions/general_instructions.json#/instructions/0/fragments/0`.
 
 - Schedule-A estimated cost is INR 4,69,41,306.00.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J23599c81d83cf26f`. JSON: `parsed_json/vol4/boq_abstract.json#/records/0`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `S469ca02217533c37`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J241ce183fcecf015`. JSON: `parsed_json/vol4/boq_abstract.json#/records/0`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `S212cc0e74fc3292f`.
 
 - Schedule-B estimated cost is INR 5,00,000.00.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `Jbd5c1b7c43155768`. JSON: `parsed_json/vol4/boq_abstract.json#/records/1`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `S469ca02217533c37`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `Jaf44a3c272fd15bf`. JSON: `parsed_json/vol4/boq_abstract.json#/records/1`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `S212cc0e74fc3292f`.
 
 - Combined total of Schedules A and B estimated cost is INR 4,74,41,306.00.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J40111fda7648d44d`. JSON: `parsed_json/vol4/boq_abstract.json#/records/2`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `S469ca02217533c37`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J76eb6bf2592fa9ee`. JSON: `parsed_json/vol4/boq_abstract.json#/records/2`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `S212cc0e74fc3292f`.
 
 - Schedule C salvage material credit lump sum amounts indicated by the tenderer are recovered proportionately from running account bills and adjusted pro-rata based on work done variations.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J6f83ecf77cc57b25`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Jf17d55c6acfde864`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
 
 - Permanent supports and restoration works ordered by BMRCL/Consultant are paid according to accepted rates in the BOQ schedule for items available in the Common Schedule of Rates (Common SR) for the year 2023-24.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `Jdacd5cece2eca4d3`. JSON: `parsed_json/vol4/pricing_document.json#/pages/6`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `J002388868106a238`. JSON: `parsed_json/vol4/pricing_document.json#/pages/6`.
 
 - The deadline for physical submission of original tender security instruments was extended to 23.10.2026 up to 18.00 Hrs (IST).
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `J694eb1f7c6c20642`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/2`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `Jadc1b38fe5d638d9`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/2`.
 
 - Under Corrigendum No. 2 amending GCC Sub-Clause 12.3.1 (iii) c, minor value item quantities operated up to and including 200% of the agreement quantity are paid at 100% of the accepted rate.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `Jdbaceb05b8fa1555`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/5`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J4e809387ba405ea9`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/5`.
 
 - Under Corrigendum No. 2 amending GCC Sub-Clause 12.3.1 (iii) c, quantities operated in excess of 200% up to 300% are paid at 98% of the accepted rate.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `Jdbaceb05b8fa1555`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/5`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J4e809387ba405ea9`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/5`.
 
 - Under Corrigendum No. 2 amending GCC Sub-Clause 12.3.1 (iii) c, variations in quantities of individual minor value items beyond 300% are paid at 96% of the accepted rate.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `Jdbaceb05b8fa1555`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/5`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J4e809387ba405ea9`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/5`.
 
 - Original Tender Security submission final deadline under Corrigendum No. 3 is 31.10.2026 up to 18.00 Hrs (IST), replacing the 23.10.2026 deadline from Corrigendum No. 1.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J9e0c4f73f95653c7`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/15`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J0daa272fa51cc074`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/15`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol1/secA#Key Detail 1 — Estimated Cost of Work|Key Detail 1 — Estimated Cost of Work]]
@@ -5216,13 +5681,13 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Typed Relations
 
 - **relates_to (editorial, inferred):** [[wiki/concepts/tender_security_by_stage|Tender Securities by Submission and Award Stage]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `J1edc5235a348b39d`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `Jafe130e72c570403`.
 - **relates_to (editorial, inferred):** [[wiki/concepts/financial_capacity_evidence|Financial Capacity Thresholds and Supporting Evidence]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; `J2d79831d07f43931`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; `J6ca1b2efbb34cc1d`.
 - **relates_to (editorial, inferred):** [[wiki/concepts/similar_work_and_past_jv_evidence|Similar-Work Evidence and Historical JV Participation]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; `J704434795075ef24`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; `J0949e7907866cf3c`.
 - **relates_to (editorial, inferred):** [[wiki/concepts/salvage_ownership_and_credit|Salvage Ownership and Schedule C Credit]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; `J6f83ecf77cc57b25`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; `Jf17d55c6acfde864`.
 
 ## Open Questions and Contradictions
 
@@ -5230,24 +5695,24 @@ No additional contradiction is recorded on this page. PDF verification and full 
 
 > [!warning] Superseded — C1 date/time fields in the cited source record only
 > The C1 values for Key Detail 12 are historical. C3 replaces 23.10.2026 up to 18.00 Hrs (IST) with 31.10.2026 up to 18.00 Hrs (IST). This callout does not supersede the entire synthesized claim.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J694eb1f7c6c20642`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J9e0c4f73f95653c7`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `Jadc1b38fe5d638d9`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J0daa272fa51cc074`.
 
 > [!warning] Superseded — C1 date/time fields in the cited source record only
 > The C1 values for Key Detail 12 are historical. C3 replaces 23.10.2026 up to 18.00 Hrs (IST) with 31.10.2026 up to 18.00 Hrs (IST). This callout does not supersede the entire synthesized claim.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J694eb1f7c6c20642`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J9e0c4f73f95653c7`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `Jadc1b38fe5d638d9`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J0daa272fa51cc074`.
 
 <details>
 <summary>Supporting source passages</summary>
 
-### Sbf2936923c511178
+### S4957e6c16dfcf271
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 1 — Estimated Cost of Work|Key Detail 1 — Estimated Cost of Work]]
 
 > - **Estimated Cost:** INR 4.74 Crores.
 
-### J5ecd0a6a976ec5b2
+### J4b19345f9e905314
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 1 — Estimated Cost of Work|Key Detail 1 — Estimated Cost of Work]]
 
@@ -5262,7 +5727,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J1e178b1d5564ca2c
+### Ja3113b5d018d4993
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 1 — Estimated Cost of Work|Key Detail 1 — Estimated Cost of Work]]
 
@@ -5306,13 +5771,13 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "value": "INR 4.74 Crores"
 > }
 
-### S4d44a7a957170a04
+### S941f625519c1a7c8
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]
 
 > - **Tender Security Amount:** INR 7.11 Lakhs.
 
-### Jc66c61c80a9fa3ea
+### J26bac8fe2fb74f79
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]
 
@@ -5327,7 +5792,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J1edc5235a348b39d
+### Jafe130e72c570403
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]
 
@@ -5371,13 +5836,13 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "value": "INR 7.11 Lakhs"
 > }
 
-### S066ae4b04cfbdeea
+### Sa4257a2e12868606
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 3 — Tender Fee|Key Detail 3 — Tender Fee]]
 
 > - **Tender Fee Inclusive of GST:** INR 11,800/-.
 
-### J67873c515fa1cae7
+### J8069880d401b8dcd
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 3 — Tender Fee|Key Detail 3 — Tender Fee]]
 
@@ -5392,7 +5857,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J6b25db952d30aefd
+### Jd73959ee8c69976f
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 3 — Tender Fee|Key Detail 3 — Tender Fee]]
 
@@ -5436,7 +5901,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "value": "INR 11,800/-"
 > }
 
-### Jfaf820f2f48dbba8
+### J5d1d3ccdbdb537cf
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 10.0 — Tender Price|Clause 10.0 — Tender Price]]
 
@@ -5456,7 +5921,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### S221c78cbe87f11d4
+### Sc648e8129e9c76c6
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 10.0 — Tender Price|Clause 10.0 — Tender Price]]
 
@@ -5465,7 +5930,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Taxes and Levies** (Clause 10.2) 
 > - **Price Submission Compliance**.
 
-### J96e5227223f2186d
+### Jce685766e7843ace
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]
 
@@ -5493,7 +5958,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J82de4565268740e7
+### Ja51d59e2490f098e
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 22.0 — Evaluation of Tender|Clause 22.0 — Evaluation of Tender]]
 
@@ -5517,7 +5982,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J42b19ad1a0ba2e3e
+### Jd1c6c63881acf0b5
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 27.0 — Performance Security|Clause 27.0 — Performance Security]]
 
@@ -5537,7 +6002,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### S4f9e37b6dc95f6a2
+### Se14fb55708d9a2f4
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 27.0 — Performance Security|Clause 27.0 — Performance Security]]
 
@@ -5545,7 +6010,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Permitted Security Forms** (Clause 27.2)
 > - **e-Bank Guarantee Details**
 
-### J704434795075ef24
+### J0949e7907866cf3c
 
 [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]
 
@@ -5577,7 +6042,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Qualification Criteria"
 > }
 
-### Ja40f707b2e28a76e
+### J5d6fa02cc4835609
 
 [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]
 
@@ -5590,7 +6055,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "Liquidity: Tenderer shall demonstrate that  it has access to, or possess liquid assets and /or\navailability of credit facilities of not less than ₹ 1.19 Crores (Credit lines/ letter of credit/ certificates\nfrom banks for meeting the fund requirement etc.)."
 > }
 
-### J4e531b0c209bd3b8
+### Je06c8004f1559d68
 
 [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]
 
@@ -5603,7 +6068,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "Annual Turnover: Tenderer in its name should have in the last five financial years (2021-2022\nto 2025-2026) achieved in at least two financial years a minimum financial turnover (in all\nclasses of civil engineering construction works only) ≥ ₹ 9.48 Crores. ****"
 > }
 
-### J9474231ab903fc15
+### J5a2247c769778e79
 
 [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]
 
@@ -5616,7 +6081,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "Available Bid capacity should be ≥ ₹ 4.74 Crores\n\nFormula:\n\nAvailable Bid Capacity = (1.5 × A × N) – B"
 > }
 
-### J2d79831d07f43931
+### J6ca1b2efbb34cc1d
 
 [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]
 
@@ -5625,7 +6090,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "The value of ongoing work(s) that are substantially completed shall not be updated to the price level of the financial year of this Tender \nInvitation. \n8) \nIn case the Similar Nature Work(s) are executed for client other than Government Department, PSU, or other Government Body, Contract \nAgreement, Bill wise details of payment received and Proof of TDS (Form 26AS) deducted by clients for all payments received shall be \nsubmitted duly certified by Chartered Accountant. \n9) \nWork experience certificates of the tenderers with qualification as a sub-contractor will not be considered. \n3.1. B.  FINANCIAL STANDING: The Tenderer should meet the following financial qualification criteria: \nSl. No \nCriteria Requirement \nDocument Submission \nrequirement \n3.1.B (i) \nLiquidity: Tenderer shall demonstrate that it has access to, or possess liquid assets and /or \navailability of credit facilities of not less than ₹ 1.19 Crores (Credit lines/ letter of credit/ certificates \nfrom banks for meeting the fund requirement etc.). \nAttachment-13 to Letter of \nTechnical Bid \n3.1.B (ii) \nAnnual Turnover: Tenderer in its name should have in the last five financial years (2021-2022 \nto 2025-2026) achieved in at least two financial years a minimum financial turnover (in all \nclasses of civil engineering construction works only) ≥ ₹ 9.48 Crores. **** \nAttachment-8 to Letter of \nTechnical Bid \n      Notes: \n1) \nA copy of the Banker’s Certificate issued from a Nationalised / Scheduled Bank in India (for liquidity) needs to be uploaded in the \nTechnical Proposal in respect of EQC Clause 3.1 B (i). \n2) \nAnnual financial statements (Audited Balance sheets including all related notes and income statements) for last five financial years \n(2021-2022 to 2025-2026) shall be submitted by the Tenderer. The financial information of the Tenderer must be certified either by the \nIndependent Financial Auditor (statutory Auditor) of the company appointed under the companies’ Act or by a Chartered Accountant with \nhis stamp and signature with membership number and firm registration number. \n3) \nIn case any discrepancy in data is found between the Audited Balance sheet and the financial information submitted, the data as available \nin the Audited Balance sheet will be considered."
 > }
 
-### J6d6e6db9092e1d12
+### J281abfb825cfdd42
 
 [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]
 
@@ -5634,7 +6099,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "4) \nIn case Audited Balance sheet of the last financial year ending with 2025-2026 is not made available by the Tenderer, he has to submit \nan affidavit certifying that 'The Balance Sheet has actually not been audited so far'. In such a case the financial data of previous '4' \naudited financial years will be taken into consideration for evaluation. If audited Balance sheet of any year other than the last financial \nyear ending with 2025-2026 is not submitted even when requested for as a clarification under clause 20 of ITT, then the Tender will be \nconsidered as non-responsive. \n5) \nAll documents shall reflect the stand-alone financial status of the Tenderer and not the Tenderer’s parent companies, subsidiaries, or \naffiliates. \n6) \nFor the purpose of evaluation, amounts in foreign currencies shall be converted to equivalent INR as per the following procedure: \nIn cases where the financial data is denominated in a currency other than Indian Rupees, it shall be converted into the equivalent value \nin Indian Rupees by adopting the exchange rate between the foreign currency and INR prevailing on the last day of the respective \nfinancial year, as published on the Reserve Bank of India (RBI) website, for the purpose of bid evaluation. \n7) \nTo align a January–December financial year with the standard April–March fiscal year, use the following conversion: \nA calendar year (e.g., January–December 2023) corresponds to the subsequent fiscal year (e.g., FY 2023–24, covering April 2023 to \nMarch 2024). Apply this rule consistently to all such conversions. \n8) \n****Financial turnover in INR/converted equivalent INR of previous financial years shall be given a weightage of 5% per year \n(compounded annually) to bring them to the price level of the Financial Year of this Tender Invitation. \n9) \nAll the documents or certifications, which are provided by Chartered Accountant after 1st July, 2019, must contain UDIN thereon and \nthe particulars of certifications must be same as mentioned on document/certification and submitted to ICAI on its website which can be \nverified online on https://udin.icai.org/search-udin. \n3.2 BID CAPACITY: \nRequirement \nDocument Submission \nRequirement \nAvailable Bid capacity should be ≥ ₹ 4.74 Crores \nFormula: \nAvailable Bid Capacity = (1.5 × A × N) – B  \nAttachment-7, Attachment-\n8 to Letter of Technical Bid"
 > }
 
-### Jd8027164bb3d94d7
+### J1a22c44515b0b4ff
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -5643,7 +6108,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "ATTACHMENT -10\n\n                                   (To be submitted by Tenderer)\n\n\n                      MINIMUM PLANTS & EQUIPMENTS FOR THE WORK\n\n                           (TO BE DEPLOYED AS AND WHEN REQUIRED)\n\n\n       Tenderers should have the following plant and machinery either owned or leased or hired by him.\n\n        Sl.\n              Type of equipment required for the work         Proposed to be deployed\n\n\n       1    Diamond  disc  Cutter/floor saw  machine  with               3 Nos\n               suitable capacity\n\n       2    Wall Sawing Machine with suitable capacity                    3 Nos\n\n       3     Electric Drill Motors/ Hammer drilling machine                  4 Nos\n\n\n       4     Floor Saw Machine with suitable capacity                      4 Nos\n\n       5    Chipping Machine                                        12 Nos\n\n       6    Crusher/Combi Crusher                                    2 Nos\n\n       7     Hydraulic Mobile crane                                     2 Nos\n\n       8    High/Long Reach Demolition equipment as per               1 Nos\n              the requirement\n\n       9     Hydraulic rock breaker with loader                            2 Nos\n\n      10  DG set 100kV or higher capacity                             2 Nos\n\n\n  NOTE:\n        1.  Plant and Equipment indicated above is minimum to be deployed at appropriate stage of the work.\n          However, depending on the requirement to complete the work in the stipulated completion period,\n           the tenderer should deploy additional machinery as circumstances warrant at no extra cost.\n        2.  Plant and equipment to be mobilized for the work shall be in good serviceable condition.\n\n\n\n\n\nSignature) ……………………\nName of signatory: ………………………………\nCapacity of signatory: ……………………………\nName and address of Tenderer:……………….."
 > }
 
-### S9d127130be019977
+### S06abea17e682b949
 
 [[OKF_bundle/Technical/Vol1/secD#Attachment-10 — Minimum Plants and Equipment for the Work|Attachment-10 — Minimum Plants and Equipment for the Work]]
 
@@ -5652,7 +6117,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Additional Machinery at No Extra Cost** (Note 1)
 > - **Serviceable Condition Requirement** (Note 2)
 
-### J4f54f26093465a9d
+### Jd780574bdb76968d
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -5690,7 +6155,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "value_type": "string"
 > }
 
-### J69ae721d84f91519
+### Jc0a11c9e950c05f3
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -5728,7 +6193,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "value_type": "string"
 > }
 
-### J7f454514f22c4c77
+### J6b728a5b8a3dda3a
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -5766,7 +6231,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "value_type": "string"
 > }
 
-### Jac2f66467b2a7e97
+### Jbc56d8fbbdbdc217
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -5804,7 +6269,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "value_type": "string"
 > }
 
-### Je0042dbec6ca67dd
+### Ja00d4004f041fb16
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -5842,7 +6307,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "value_type": "string"
 > }
 
-### Jf726bdabdb3daf46
+### J8ddd6b441dad173f
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -5865,7 +6330,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### Jfd6cb75ec9989923
+### J7ace950cfa473e04
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -5903,7 +6368,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "value_type": "string"
 > }
 
-### J1fc23a24ae7cb153
+### J6b470fe5122f4c3f
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -5915,7 +6380,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "3.  In case any discrepancy in data is found between the Audited Balance sheet and the financial\n            information/Annual Turnover (n all classes of civil engineering construction works only) submitted,\n            the data as available in the Audited Balance sheet will be considered."
 > }
 
-### J42e27e957bad916f
+### Jd20fa2722b138228
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -5927,7 +6392,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "4.  In case Audited Balance sheet of the last Financial Year ending with 2025-26 is not made available\n          by the Bidder, he must submit an affidavit certifying that 'The Balance Sheet has actually not been\n            audited so far'. In such a case the financial data of previous '4' audited Financial Years will be taken\n              into consideration for evaluation."
 > }
 
-### J71b7032ce20bc8cf
+### Jff8dfce17cb76750
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -5946,7 +6411,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### J8bd217cf1c0cb384
+### J68b56efe7d18bd1a
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -5990,7 +6455,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "value": "Within 21 days of issue of the Letter of Acceptance, the successful\nTenderer shall furnish Performance Security at 5% (Five percent) of\nthe Contract Price as mentioned in Letter of Acceptance."
 > }
 
-### Jf4e946132d7f7ef6
+### Jb6e7b151a9497982
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -6034,7 +6499,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "value": "Retention Money in each IPC is limited to 10% of Bill amount.\n\nMaximum limit of Retention Money is 5% of Contract Price (as\nstated in Letter of Acceptance)."
 > }
 
-### J50cf7f54666ad6c6
+### J70d8d9273eaa879c
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -6195,7 +6660,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "value": "i.  Milestones:\n\n                               No.      of\n                                 buildings  /\n                   Period       structures\n  Sl.                                         Liquidated\n      Milestone    from   the  to     be\n No                                  damages\n                       start date   demolishe\n                                 d/dismantl\n                            ed\n       Milestone-1    Six months  50% of total  Rs. 5,000/-\n  1.                 from    the  area         per day  for\n                     date      of  handed      delay       in\n                      signing  the  over.         achieving\n                      contract                    Mileston-1\n                    agreement.\n\n       Milestone-2   Twelve     100%     of  Rs. 10,000/-\n  2.                months        total   area  per day  for\n                    from    the  handed      delay       in\n                     date      of  over.         achieving\n                      signing  the                Milestone-2\n                      contract\n                    agreement.\n\nii.  The upper limit for Liquidated Damages is 5% of Contract\n    Price."
 > }
 
-### J5516f07161b435b2
+### Jb6d88198cad1dbbd
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -6216,7 +6681,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Contract Data"
 > }
 
-### J7957e3c3de8aec5b
+### J6539d43b623dd956
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 15 — Insurance|Clause 15 — Insurance]]
 
@@ -6245,7 +6710,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Insurance"
 > }
 
-### J85cb8851adc8cf4a
+### J0bae92fd8baf7920
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 23.0 — Construction machinery|Clause 23.0 — Construction machinery]]
 
@@ -6768,7 +7233,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Construction machinery"
 > }
 
-### J906a5c528c244560
+### Jee37894331f7ed66
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -6849,7 +7314,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J573bee61f4ed333d
+### J44c81c9cdd51865e
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]
 
@@ -7751,7 +8216,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Medical Facilities"
 > }
 
-### J68c70ff4ff74226a
+### J7eabb1054ab2b78e
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]
 
@@ -7842,7 +8307,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J807862a97e7fd333
+### J5543c388e0459bf6
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -7851,7 +8316,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                            General Instruction: BMRC/SHE/CEO/003\n\n\n\n         SUGGESTIVE REQUIREMENTS OF SHE MONITORING AND AUDIO-VISUAL EQUIPMENTS\n\n\n           1.    For the purpose of minimum requirements of Audio-visual and Other equipment the contracts\n                categorized into the following groups:\n\n\n\n                            Contract Value (Initial awarded value of contract)                 Group\n\n\n                                         Upto 25 Cr                            A\n\n\n                                         Upto 100 Cr                            B\n\n\n                                         Upto 250 Cr                         C\n\n\n                                   More than 250 Cr                        D\n\n\n\n           2.    Every contractor falling into the above groups shall provide the following minimum required\n               audio visual aids for conducting weekly review, monthly safety committee and other post\n               review meeting of all fatal and major incidences effectively. These audio-visual equipments\n               are a must  for  conducting  periodical  in-house  safety  presentations  in  the  training\n              programmes.\n\n           3.     In addition to the above portable hand held digital sound level meter (SLM) and portable hand\n               held digital lux meter are also to be provided.\n\n\n                                        SHE monitoring and Audio-Visual equipment\n                 Sl.   SHE monitoring and Audio-Visual                 required for\n          No          Equipment details        Group A   Group B  Group C    Group D\n                                                     Contract   Contract   Contract     Contract\n\n                 1.  Portable hand held Digital Sound Level\n                                                      1         1         1           1\n                 Meter (SLM)\n\n                 2.  Portable hand held Digital Lux Meter         1         1         1           1\n\n                 3.  Laptop Computer with standard\n                    configuration including multi media          1         1         1           1\n                         facilities\n                 4.  Colour Printer                           1         1         1           1\n\n                 5. Computer projector with screen                      -         1         1           1\n\n                 6. Overhead projector                       1\n                 7. 35mm Camera (For taking accident\n                    investigation photos in which case the        1         1         1           1\n                images can not be easily altered)\n                      Digital camera with flash of minimum 4                 8.                                       1         1         1           2\n              mega pixel and video facility\n                 9.  Digital still camera with flash of             1         2         4           6\n               minimum 4 mega pixel\n\n\n               10. Portable loudspeaker (for tool-box talk\n                                                      1         1         2           6\n                and emergency purpose)\n\n               11. Communication facility like mobile      For all supervisors and managers/engineers working\n                 phone, walky-talky etc                  Safety, Health & Environment"
 > }
 
-### Jb23d7ac8ecea82aa
+### J71183e109c431b8d
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 
@@ -7860,7 +8325,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "BANGALORE METRO RAIL CORPORATION LTD.\n\n\n\n                       General Instruction: BMRC/SHE/CEO/001\n\n\nSUGGESTIVE MANPOWER REQUIREMENTS OF SHE ORGANIZATION BASED ON CONTRACT VALUE\n\n                  1         2           3         4         5              6\n\n                Chief SH   Senior SHE Junior SHE   Safety      Senior        Junior SHE\n  Awarded\n              Manage    Manager  Manager   Steward    SHE           (Electrical)\n  Contract\n                                                                        (Electrical)       Engineer\nvalue (in Cr.)\n                                                          Engineer\n\n     Upto 2              -                -           1                                  -              1\n\n     Upto 10             -          1                                1\n\n     Upto 25        1                                          1                                                        Refer\n                                            Refer                                    Refer                                                    Note 1    Upto 100       1                                          1                               Refer                                         Note 1                                Note 2\n                            Note 1    Upto 250       1                                          1\n\n  More than 25      1                                          1\n\n\n                    7          8          9         10         11        12        13\n\n                                                  Senior                 *Junior   Occupatio   Environ               Barricad    House    Labour\n                                       SHE              SHE     nal Health   mental                 e      Keeping   Welfare\n                                                              (Traffic)                      (Fire)     officer with  Manager             Maintena   Squad     Officer\n                                               Engineer  Awarded     Manager   Necessary                        nce\n  Contract                 /        Nursing                 (Refer Note4 Squad\n value (in Cr.)    **Senior    Assistants                             (Refer\n              SHE       (Refer                             Note4)\n                      (Fire)      Note3)\n              Manager\n\n      Upto 2               -                 -                 -                 -                                                 -\n\n     Upto 10               -        1 (PT)        1          1                             1\n\n     Upto 25          1*       1 (PT)        1          1                             1\n\n     Upto 100         1*       1 (FT)        1          1                             1\n                                                                 Refer Note Refer Note                                                                              1 with\n     Upto 250         1**        2(FT)        1          1                            support\n                                                                                                                   staff\n\n                                     1 with                                    1 with\n  More than\n                        2**        2(FT)    support         1                            support\n    250\n                                                       staff                                                       staff\n\n  Note 1:    Adequate, qualified and trained SHE Professionals with required support staff to be\n             deployed at each worksite at each shift.\n\n  Note 2:    Adequate, qualified and trained Electrical Engineers / supervisors to be deployed at each\n               worksite at each shift.\n  Note 3:    (PT) means Part-Time and (FT) means Full-time.\n\n  Note 4:    Senior SHE (Traffic) Engineer Post and Barricade Manager (including the staff) Posts are\n               applicable to contracts where the work has to be executed either below or over the right-\n              of-way  like  Viaduct,  station,  depot and  Tunnel  Contracts  wherein  erection and\n             maintenance of barricades are paramount important.\n  Note 5:   One Barricade Manager supported by required supervisors and workmen\n\n  Note 6:   One Housekeeping Manager supported by required supervisors and workmen"
 > }
 
-### J23599c81d83cf26f
+### J241ce183fcecf015
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -7907,7 +8372,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "schedule": "A"
 > }
 
-### S469ca02217533c37
+### S212cc0e74fc3292f
 
 [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]
 
@@ -7927,7 +8392,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   - **Estimated Cost Field:** `----`
 >   - **Pricing Basis:** Lump-sum credit under Preamble Instruction 3
 
-### Jbd5c1b7c43155768
+### Jaf44a3c272fd15bf
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -7974,7 +8439,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "schedule": "B"
 > }
 
-### J40111fda7648d44d
+### J76eb6bf2592fa9ee
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -8021,7 +8486,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "schedule": "A+B"
 > }
 
-### J6f83ecf77cc57b25
+### Jf17d55c6acfde864
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -8204,7 +8669,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jdacd5cece2eca4d3
+### J002388868106a238
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -8377,7 +8842,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J694eb1f7c6c20642
+### Jadc1b38fe5d638d9
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]
 
@@ -8405,7 +8870,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### Jdbaceb05b8fa1555
+### J4e809387ba405ea9
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -8460,7 +8925,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "unchanged_selected_text": "A minor value item for this purpose is defined as an item whose original agreement value is less than 1 % of the total original contract value."
 > }
 
-### J8827536a17c54d1a
+### J01cf445b9bb9f862
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]
 
@@ -8489,7 +8954,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J9e0c4f73f95653c7
+### J0daa272fa51cc074
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]
 

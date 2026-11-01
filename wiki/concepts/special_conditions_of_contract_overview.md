@@ -6,71 +6,71 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-31T06:15:13+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-10-31T06:15:13+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol1/secF.md
-  okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+  okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_f_scc/scc_entries.json
   json_sha256: c5606227aaa98bf2f262ae9fac1e6698b62a3e84b24b1754cfb3138c22ef7e63
   json_pointer: /entries/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secF.md
-  okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+  okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_f_scc/scc_entries.json
   json_sha256: c5606227aaa98bf2f262ae9fac1e6698b62a3e84b24b1754cfb3138c22ef7e63
   json_pointer: /index_page
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secF.md
-  okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+  okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_f_scc/scc_entries.json
   json_sha256: c5606227aaa98bf2f262ae9fac1e6698b62a3e84b24b1754cfb3138c22ef7e63
   json_pointer: /entries/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secF.md
-  okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+  okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_f_scc/scc_entries.json
   json_sha256: c5606227aaa98bf2f262ae9fac1e6698b62a3e84b24b1754cfb3138c22ef7e63
   json_pointer: /entries/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secF.md
-  okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+  okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_f_scc/scc_entries.json
   json_sha256: c5606227aaa98bf2f262ae9fac1e6698b62a3e84b24b1754cfb3138c22ef7e63
   json_pointer: /introduction/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secF.md
-  okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+  okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
   source_document: Vol1DLNP1.pdf
 claims:
 - kind: summary
   text: Section F establishes the Special Conditions of Contract (SCC) for BMRCL Tender Package P1, supplementing
     the General Conditions of Contract (GCC) and prevailing over GCC terms in the event of conflict.
   evidence_ids:
-  - J24157ca3d92beb0f
-  - J28a22b4750df5613
-  - J728382fccccc2b23
-  - Jd7aba6db9eb08829
-  - Je58297692583ae2a
-  - S0728ade1b6f95e71
-  - S45baac254c9baa49
-  - S595e90a30894a772
-  - Sa7d0853b84506f36
+  - J639db5fde72ee79f
+  - J74c070076b1835e0
+  - Jb0f2f3592fad0ed6
+  - J9190be7ff053bc1d
+  - Jd464e398d37b5798
+  - S9d106ce8e4f66b73
+  - Sabfd28a0d43f8d73
+  - Sacac772d85c09455
+  - S5239599fbd1aead4
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C10a784fef4be9f7f
+  id: C14e57d120d0f325c
   citations:
-  - id: J24157ca3d92beb0f
+  - id: J639db5fde72ee79f
     okf_path: OKF_bundle/Technical/Vol1/secF.md
-    okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+    okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
     heading: Special Conditions of Contract
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -91,9 +91,9 @@ claims:
       \ \"1.1.6.7\",\n  \"review_status\": \"pending_manual_review\",\n  \"scc_clause_id\": \"1\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J28a22b4750df5613
+  - id: J74c070076b1835e0
     okf_path: OKF_bundle/Technical/Vol1/secF.md
-    okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+    okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
     heading: Special Conditions of Contract
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -209,9 +209,9 @@ claims:
       \      ],\n      \"block_number\": 43,\n      \"text\": \"138\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J728382fccccc2b23
+  - id: Jb0f2f3592fad0ed6
     okf_path: OKF_bundle/Technical/Vol1/secF.md
-    okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+    okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
     heading: Special Conditions of Contract
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -233,9 +233,9 @@ claims:
       ,\n  \"scc_clause_id\": \"3\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jd7aba6db9eb08829
+  - id: J9190be7ff053bc1d
     okf_path: OKF_bundle/Technical/Vol1/secF.md
-    okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+    okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
     heading: Special Conditions of Contract
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -254,9 +254,9 @@ claims:
       : \"pending_manual_review\",\n  \"scc_clause_id\": \"2\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Je58297692583ae2a
+  - id: Jd464e398d37b5798
     okf_path: OKF_bundle/Technical/Vol1/secF.md
-    okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+    okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
     heading: Special Conditions of Contract
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -273,9 +273,9 @@ claims:
       \ shall prevail over those\\n  in the GCC.\\n\\n\\n\\n  SCC  GCC\\n Clause  Sub-Clause\\n  No\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S0728ade1b6f95e71
+  - id: S9d106ce8e4f66b73
     okf_path: OKF_bundle/Technical/Vol1/secF.md
-    okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+    okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
     heading: SCC Clause 3 — Consequences of Suspension
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -285,9 +285,9 @@ claims:
       - **Deletion of the Table Following the Paragraph** (GCC Sub-Clause 8.8)'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: S45baac254c9baa49
+  - id: Sabfd28a0d43f8d73
     okf_path: OKF_bundle/Technical/Vol1/secF.md
-    okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+    okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
     heading: Special Conditions of Contract
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -301,9 +301,9 @@ claims:
       It contains three entries, each modifying a specific GCC sub-clause.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: document_metadata_range
-  - id: S595e90a30894a772
+  - id: Sacac772d85c09455
     okf_path: OKF_bundle/Technical/Vol1/secF.md
-    okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+    okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
     heading: SCC Clause 2 — Tests on Completion
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -311,9 +311,9 @@ claims:
     quote: '- **Deletion of the Entire Sub-Clause** (GCC Sub-Clause 7.11)'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: Sa7d0853b84506f36
+  - id: S5239599fbd1aead4
     okf_path: OKF_bundle/Technical/Vol1/secF.md
-    okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+    okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
     heading: 'SCC Clause 1 — Definitions: "Works"'
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -327,21 +327,39 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T06:15:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C10a784fef4be9f7f
+    previous_evidence_ids:
+    - J24157ca3d92beb0f
+    - J28a22b4750df5613
+    - J728382fccccc2b23
+    - Jd7aba6db9eb08829
+    - Je58297692583ae2a
+    - S0728ade1b6f95e71
+    - S45baac254c9baa49
+    - S595e90a30894a772
+    - Sa7d0853b84506f36
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: SCC Clause 1 amends GCC Sub-Clause 1.1.6.7 to define 'Works' as including Dismantling, Demolition, Restoration,
     Permanent Works, and Temporary Works.
   evidence_ids:
-  - J24157ca3d92beb0f
-  - Sa7d0853b84506f36
+  - J639db5fde72ee79f
+  - S5239599fbd1aead4
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C062656a7faf172c6
+  id: Cb8192710708f9acf
   citations:
-  - id: J24157ca3d92beb0f
+  - id: J639db5fde72ee79f
     okf_path: OKF_bundle/Technical/Vol1/secF.md
-    okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+    okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
     heading: Special Conditions of Contract
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -362,9 +380,9 @@ claims:
       \ \"1.1.6.7\",\n  \"review_status\": \"pending_manual_review\",\n  \"scc_clause_id\": \"1\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Sa7d0853b84506f36
+  - id: S5239599fbd1aead4
     okf_path: OKF_bundle/Technical/Vol1/secF.md
-    okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+    okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
     heading: 'SCC Clause 1 — Definitions: "Works"'
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -378,20 +396,31 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T06:15:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C062656a7faf172c6
+    previous_evidence_ids:
+    - J24157ca3d92beb0f
+    - Sa7d0853b84506f36
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: SCC Clause 2 deletes the entirety of GCC Sub-Clause 7.11 concerning Tests on Completion.
   evidence_ids:
-  - Jd7aba6db9eb08829
-  - S595e90a30894a772
+  - J9190be7ff053bc1d
+  - Sacac772d85c09455
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C420bb574f01430fb
+  id: C4c42bb7159edc953
   citations:
-  - id: Jd7aba6db9eb08829
+  - id: J9190be7ff053bc1d
     okf_path: OKF_bundle/Technical/Vol1/secF.md
-    okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+    okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
     heading: Special Conditions of Contract
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -410,9 +439,9 @@ claims:
       : \"pending_manual_review\",\n  \"scc_clause_id\": \"2\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S595e90a30894a772
+  - id: Sacac772d85c09455
     okf_path: OKF_bundle/Technical/Vol1/secF.md
-    okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+    okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
     heading: SCC Clause 2 — Tests on Completion
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -422,21 +451,32 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T06:15:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C420bb574f01430fb
+    previous_evidence_ids:
+    - Jd7aba6db9eb08829
+    - S595e90a30894a772
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: SCC Clause 3 deletes a specific paragraph and the subsequent table within GCC Sub-Clause 8.8 regarding the
     consequences of suspension ordered for reasons other than those mentioned in the sub-clause.
   evidence_ids:
-  - J728382fccccc2b23
-  - S0728ade1b6f95e71
+  - Jb0f2f3592fad0ed6
+  - S9d106ce8e4f66b73
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cad920a25ebfdda49
+  id: C6526da19fbac9c58
   citations:
-  - id: J728382fccccc2b23
+  - id: Jb0f2f3592fad0ed6
     okf_path: OKF_bundle/Technical/Vol1/secF.md
-    okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+    okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
     heading: Special Conditions of Contract
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -458,9 +498,9 @@ claims:
       ,\n  \"scc_clause_id\": \"3\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S0728ade1b6f95e71
+  - id: S9d106ce8e4f66b73
     okf_path: OKF_bundle/Technical/Vol1/secF.md
-    okf_sha256: a40ce25429be071de516fc810b556cb58814f1e1b337548a2bc5c62950ecfd69
+    okf_sha256: db0919fc97ccb458d0cdb9d748165187bc2f13fe5f69dec0eaaea4029261b6ca
     heading: SCC Clause 3 — Consequences of Suspension
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -472,13 +512,24 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T06:15:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cad920a25ebfdda49
+    previous_evidence_ids:
+    - J728382fccccc2b23
+    - S0728ade1b6f95e71
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: belongs_to
   target: index.md
   title: BMRCL Wiki Index
   evidence_ids:
-  - J24157ca3d92beb0f
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - J639db5fde72ee79f
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Special Conditions of Contract (SCC) Overview
@@ -488,29 +539,29 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - Section F establishes the Special Conditions of Contract (SCC) for BMRCL Tender Package P1, supplementing the General Conditions of Contract (GCC) and prevailing over GCC terms in the event of conflict.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `J24157ca3d92beb0f`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 144; quotation `J28a22b4750df5613`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/index_page`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `J728382fccccc2b23`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Jd7aba6db9eb08829`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Je58297692583ae2a`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/introduction/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 3 — Consequences of Suspension|SCC Clause 3 — Consequences of Suspension]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `S0728ade1b6f95e71`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `S45baac254c9baa49`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 2 — Tests on Completion|SCC Clause 2 — Tests on Completion]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `S595e90a30894a772`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 1 — Definitions: "Works"|SCC Clause 1 — Definitions: "Works"]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Sa7d0853b84506f36`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `J639db5fde72ee79f`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 144; quotation `J74c070076b1835e0`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/index_page`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Jb0f2f3592fad0ed6`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `J9190be7ff053bc1d`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Jd464e398d37b5798`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/introduction/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 3 — Consequences of Suspension|SCC Clause 3 — Consequences of Suspension]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `S9d106ce8e4f66b73`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Sabfd28a0d43f8d73`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 2 — Tests on Completion|SCC Clause 2 — Tests on Completion]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Sacac772d85c09455`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 1 — Definitions: "Works"|SCC Clause 1 — Definitions: "Works"]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `S5239599fbd1aead4`.
 
 ## Key Parameters and Source Statements
 
 - SCC Clause 1 amends GCC Sub-Clause 1.1.6.7 to define 'Works' as including Dismantling, Demolition, Restoration, Permanent Works, and Temporary Works.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `J24157ca3d92beb0f`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 1 — Definitions: "Works"|SCC Clause 1 — Definitions: "Works"]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Sa7d0853b84506f36`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `J639db5fde72ee79f`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 1 — Definitions: "Works"|SCC Clause 1 — Definitions: "Works"]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `S5239599fbd1aead4`.
 
 - SCC Clause 2 deletes the entirety of GCC Sub-Clause 7.11 concerning Tests on Completion.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Jd7aba6db9eb08829`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 2 — Tests on Completion|SCC Clause 2 — Tests on Completion]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `S595e90a30894a772`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `J9190be7ff053bc1d`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 2 — Tests on Completion|SCC Clause 2 — Tests on Completion]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Sacac772d85c09455`.
 
 - SCC Clause 3 deletes a specific paragraph and the subsequent table within GCC Sub-Clause 8.8 regarding the consequences of suspension ordered for reasons other than those mentioned in the sub-clause.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `J728382fccccc2b23`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 3 — Consequences of Suspension|SCC Clause 3 — Consequences of Suspension]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `S0728ade1b6f95e71`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `Jb0f2f3592fad0ed6`. JSON: `parsed_json/vol1/section_f_scc/scc_entries.json#/entries/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secF#SCC Clause 3 — Consequences of Suspension|SCC Clause 3 — Consequences of Suspension]]; `Vol1DLNP1.pdf`; PDF page(s) 145; quotation `S9d106ce8e4f66b73`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]
@@ -521,7 +572,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Typed Relations
 
 - **belongs_to (editorial, inferred):** [[wiki/index|BMRCL Wiki Index]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; `J24157ca3d92beb0f`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 145; `J639db5fde72ee79f`.
 
 ## Open Questions and Contradictions
 
@@ -530,7 +581,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### J24157ca3d92beb0f
+### J639db5fde72ee79f
 
 [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]
 
@@ -552,7 +603,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "scc_clause_id": "1"
 > }
 
-### J28a22b4750df5613
+### J74c070076b1835e0
 
 [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]
 
@@ -1007,7 +1058,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J728382fccccc2b23
+### Jb0f2f3592fad0ed6
 
 [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]
 
@@ -1029,7 +1080,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "scc_clause_id": "3"
 > }
 
-### Jd7aba6db9eb08829
+### J9190be7ff053bc1d
 
 [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]
 
@@ -1051,7 +1102,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "scc_clause_id": "2"
 > }
 
-### Je58297692583ae2a
+### Jd464e398d37b5798
 
 [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]
 
@@ -1060,14 +1111,14 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "Following Special Conditions of Contract (SCC) shall be in addition to the General Conditions of\n Contract (GCC). Wherever there is a conflict, the provisions here in (SCC) shall prevail over those\n  in the GCC.\n\n\n\n  SCC  GCC\n Clause  Sub-Clause\n  No"
 > }
 
-### S0728ade1b6f95e71
+### S9d106ce8e4f66b73
 
 [[OKF_bundle/Technical/Vol1/secF#SCC Clause 3 — Consequences of Suspension|SCC Clause 3 — Consequences of Suspension]]
 
 > - **Deletion of Paragraph on Suspension Ordered for Other Reasons** (GCC Sub-Clause 8.8)
 > - **Deletion of the Table Following the Paragraph** (GCC Sub-Clause 8.8)
 
-### S45baac254c9baa49
+### Sabfd28a0d43f8d73
 
 [[OKF_bundle/Technical/Vol1/secF#Special Conditions of Contract|Special Conditions of Contract]]
 
@@ -1075,13 +1126,13 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > 
 > The SCC applies in addition to the General Conditions of Contract (GCC). Where the two conflict, the SCC prevails. It contains three entries, each modifying a specific GCC sub-clause.
 
-### S595e90a30894a772
+### Sacac772d85c09455
 
 [[OKF_bundle/Technical/Vol1/secF#SCC Clause 2 — Tests on Completion|SCC Clause 2 — Tests on Completion]]
 
 > - **Deletion of the Entire Sub-Clause** (GCC Sub-Clause 7.11)
 
-### Sa7d0853b84506f36
+### S5239599fbd1aead4
 
 [[OKF_bundle/Technical/Vol1/secF#SCC Clause 1 — Definitions: "Works"|SCC Clause 1 — Definitions: "Works"]]
 

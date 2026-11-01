@@ -6,134 +6,134 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-31T08:10:22+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T07:46:51+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /clauses/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /clauses/2/fragments/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /clauses/2/fragments/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /clauses/2/fragments/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /source_page_context/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /source_page_context/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /clauses/2/fragments/4
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /source_page_context/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /clauses/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /clauses/5
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /clauses/4
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /source_page_context/4
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /source_page_context/8
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /source_page_context/7
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /source_page_context/6
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /source_page_context/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /source_page_context/5
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
@@ -144,17 +144,17 @@ claims:
   text: Part III of the SHE Manual governs occupational health, medical examinations, occupational health centres,
     first-aid, HIV/AIDS prevention, mosquito breeding control, and noise/vibration limits for contractor personnel.
   evidence_ids:
-  - Sfbb1dbcac61182ed
-  - J573bee61f4ed333d
+  - S5b187b25e5ea2734
+  - J44c81c9cdd51865e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce3f2de752e094cc0
+  id: Ce35eb77b13e79cb1
   citations:
-  - id: Sfbb1dbcac61182ed
+  - id: S5b187b25e5ea2734
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     pdf_pages:
@@ -171,9 +171,9 @@ claims:
       of BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`.
     page_basis: OKF reference, not independently PDF-verified
     page_precision: document_metadata_range
-  - id: J573bee61f4ed333d
+  - id: J44c81c9cdd51865e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 42.0 — Medical Facilities
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -512,21 +512,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T08:10:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce3f2de752e094cc0
+    previous_evidence_ids:
+    - Sfbb1dbcac61182ed
+    - J573bee61f4ed333d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The contractor must arrange pre-employment, post-illness/injury, and periodic medical examinations (once
     every two years up to age 40 and annually thereafter) for all employees including drivers and equipment operators
     at the contractor's cost.
   evidence_ids:
-  - J573bee61f4ed333d
+  - J44c81c9cdd51865e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6b54a8449182f9c3
+  id: C919ca711992e4074
   citations:
-  - id: J573bee61f4ed333d
+  - id: J44c81c9cdd51865e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 42.0 — Medical Facilities
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -865,20 +876,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T08:10:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6b54a8449182f9c3
+    previous_evidence_ids:
+    - J573bee61f4ed333d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contractors must provide one First-aid box for every 100 workers, equipped in accordance with Schedule III
     of BOCWR.
   evidence_ids:
-  - J573bee61f4ed333d
+  - J44c81c9cdd51865e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5fe192b8a54e4670
+  id: C0ef74efd47e07d28
   citations:
-  - id: J573bee61f4ed333d
+  - id: J44c81c9cdd51865e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 42.0 — Medical Facilities
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1217,20 +1238,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T08:10:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5fe192b8a54e4670
+    previous_evidence_ids:
+    - J573bee61f4ed333d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contractors must identify and maintain peer educators at a ratio of 1 for every 100 workers for HIV/AIDS
     awareness and training.
   evidence_ids:
-  - J573bee61f4ed333d
+  - J44c81c9cdd51865e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6452f49880e5c38c
+  id: C4cefdbea90e21527
   citations:
-  - id: J573bee61f4ed333d
+  - id: J44c81c9cdd51865e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 42.0 — Medical Facilities
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1569,22 +1600,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T08:10:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6452f49880e5c38c
+    previous_evidence_ids:
+    - J573bee61f4ed333d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Noise emission and control standards set daytime and nighttime limits, mandate Noise Monitoring and Control
     Plans (NMCP), and require mitigation for excessive construction noise.
   evidence_ids:
-  - Jedfbe657d860b5a4
-  - Jd8b17b047a72715d
-  - J7342ad42c777d9a0
+  - Jcf31dc552bb53faa
+  - J1dd8d9c8b2265f58
+  - J45fcc9b04b07ae52
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C73df86196dc6376b
+  id: C6e255cfa59000ce2
   citations:
-  - id: Jedfbe657d860b5a4
+  - id: Jcf31dc552bb53faa
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 43.0 — Noise
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1653,9 +1694,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger health and welfare provision. A sentence or subclause
       can continue in adjacent fragments; do not infer missing conditions.
-  - id: Jd8b17b047a72715d
+  - id: J1dd8d9c8b2265f58
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 43.0 — Noise
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1718,9 +1759,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger health and welfare provision. A sentence or subclause
       can continue in adjacent fragments; do not infer missing conditions.
-  - id: J7342ad42c777d9a0
+  - id: J45fcc9b04b07ae52
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 43.0 — Noise
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1785,27 +1826,39 @@ claims:
       can continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T08:10:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C73df86196dc6376b
+    previous_evidence_ids:
+    - Jedfbe657d860b5a4
+    - Jd8b17b047a72715d
+    - J7342ad42c777d9a0
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Safety, Health and Environment Manual Part III establishes mandatory contractor requirements regarding
     physical fitness, medical examinations, occupational health centers, ambulance services, first aid, HIV/AIDS
     prevention, vector control, noise, ventilation, illumination, radiation, and worker welfare facilities.
   evidence_ids:
-  - J023a48940816009a
-  - J34f98d56801efb52
-  - J3fd47de4123efa31
-  - J8be1241d1f080ec3
-  - Jab66646bcaf854ba
-  - Jb989ff64a41e73e8
-  - Jf82e3726cef33215
+  - J4ba566627e05e212
+  - J23ac14130beb4725
+  - Jd8ad6700267a399b
+  - Ja2ee2729a4e94860
+  - J79c6bd3eb032dd81
+  - Jeeb17043f0400cc9
+  - Jbda175ad9c5ffd76
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C04c2ef5d1adce8f6
+  id: Cf77c0cd79f83217a
   citations:
-  - id: J023a48940816009a
+  - id: J4ba566627e05e212
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1903,9 +1956,9 @@ claims:
       : 7,\n      \"text\": \"248\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J34f98d56801efb52
+  - id: J23ac14130beb4725
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2004,9 +2057,9 @@ claims:
       : 4,\n      \"text\": \"249\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J3fd47de4123efa31
+  - id: Jd8ad6700267a399b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 43.0 — Noise
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2068,9 +2121,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger health and welfare provision. A sentence or subclause
       can continue in adjacent fragments; do not infer missing conditions.
-  - id: J8be1241d1f080ec3
+  - id: Ja2ee2729a4e94860
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2169,9 +2222,9 @@ claims:
       : 5,\n      \"text\": \"250\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jab66646bcaf854ba
+  - id: J79c6bd3eb032dd81
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 44.0 — Ventilation and illumination
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2240,9 +2293,9 @@ claims:
       \ illumination\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jb989ff64a41e73e8
+  - id: Jeeb17043f0400cc9
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 46.0 — Welfare measures for workers
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2418,9 +2471,9 @@ claims:
       \  ],\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"Welfare measures for workers\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jf82e3726cef33215
+  - id: Jbda175ad9c5ffd76
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 45.0 — Radiation
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2479,21 +2532,37 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T08:12:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C04c2ef5d1adce8f6
+    previous_evidence_ids:
+    - J023a48940816009a
+    - J34f98d56801efb52
+    - J3fd47de4123efa31
+    - J8be1241d1f080ec3
+    - Jab66646bcaf854ba
+    - Jb989ff64a41e73e8
+    - Jf82e3726cef33215
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The contractor must arrange pre-employment medical examinations, post-illness or injury evaluations, and
     recurring medical checks once every two years up to age 40 and annually thereafter for drivers, transport equipment
     operators, and lifting appliance operators.
   evidence_ids:
-  - J023a48940816009a
+  - J4ba566627e05e212
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C11bc825cf1859a23
+  id: Ce105711d60a89989
   citations:
-  - id: J023a48940816009a
+  - id: J4ba566627e05e212
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2593,20 +2662,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:12:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C11bc825cf1859a23
+    previous_evidence_ids:
+    - J023a48940816009a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: First-aid boxes must be provided at a scale of one box for every 100 workers, clearly marked and equipped
     in accordance with Schedule III of BOCWR.
   evidence_ids:
-  - J34f98d56801efb52
+  - J23ac14130beb4725
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C055a5aff4c7d17ae
+  id: C82f7582c90d3bbda
   citations:
-  - id: J34f98d56801efb52
+  - id: J23ac14130beb4725
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2707,20 +2786,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:12:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C055a5aff4c7d17ae
+    previous_evidence_ids:
+    - J34f98d56801efb52
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contractors must identify peer educators at a ratio of one for every 100 workers and support the employer's
     appointed agency for HIV/AIDS awareness and training.
   evidence_ids:
-  - J34f98d56801efb52
+  - J23ac14130beb4725
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6130163226cfe844
+  id: Cd98b35fb06fb3f0f
   citations:
-  - id: J34f98d56801efb52
+  - id: J23ac14130beb4725
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2821,20 +2910,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:12:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6130163226cfe844
+    previous_evidence_ids:
+    - J34f98d56801efb52
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: In free tunnels, fresh air supply must not be less than 6 m3/min per underground building worker, free air
     movement must be at least 9 m/min, and oxygen levels must not fall below 19.5%.
   evidence_ids:
-  - Jab66646bcaf854ba
+  - J79c6bd3eb032dd81
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C604514dceadc82cd
+  id: Cfd28e2aba82aa591
   citations:
-  - id: Jab66646bcaf854ba
+  - id: J79c6bd3eb032dd81
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 44.0 — Ventilation and illumination
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2905,20 +3004,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T08:12:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C604514dceadc82cd
+    previous_evidence_ids:
+    - Jab66646bcaf854ba
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Drinking water provisions require a minimum supply of 5 litres per workman per day, located within 200m
     of all work locations, and situated within six meters of washing places, urinals, or latrines.
   evidence_ids:
-  - Jb989ff64a41e73e8
+  - Jeeb17043f0400cc9
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cabe1e0f680e6c07f
+  id: Cdc8274e42d986bde
   citations:
-  - id: Jb989ff64a41e73e8
+  - id: Jeeb17043f0400cc9
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 46.0 — Welfare measures for workers
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3096,20 +3205,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T08:12:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cabe1e0f680e6c07f
+    previous_evidence_ids:
+    - Jb989ff64a41e73e8
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Latrine and urinal accommodations must be provided at a scale of one latrine seat for every 20 workers up
     to 100 workers, and one for every additional 50 workers thereafter, along with one urinal for every 100 workers.
   evidence_ids:
-  - Jb989ff64a41e73e8
+  - Jeeb17043f0400cc9
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc3634c8680acb1a6
+  id: C5c983303cc52cc22
   citations:
-  - id: Jb989ff64a41e73e8
+  - id: Jeeb17043f0400cc9
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 46.0 — Welfare measures for workers
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3287,25 +3406,35 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T08:12:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc3634c8680acb1a6
+    previous_evidence_ids:
+    - Jb989ff64a41e73e8
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Safety, Health and Environment Manual Part III outlines mandatory occupational health, noise and vibration
     control, ventilation, illumination, radiation, and worker welfare standards for construction sites.
   evidence_ids:
-  - J3f547545dff3333d
-  - J68c70ff4ff74226a
-  - J854b5685ebe1a5e4
-  - J89eb80081c212dac
-  - J9c9ae6304368a371
-  - Jbc8631bff4e6c74f
+  - J681b080009e1dad7
+  - J7eabb1054ab2b78e
+  - J58e05cc1d406b16b
+  - J37502be8cd1d4198
+  - Jd6d8c291d429c50a
+  - Ja840a05f289c4458
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Caeb93cb622c32752
+  id: Ce22a4c8f30b9a906
   citations:
-  - id: J3f547545dff3333d
+  - id: J681b080009e1dad7
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3416,9 +3545,9 @@ claims:
       \      ],\n      \"block_number\": 7,\n      \"text\": \"252\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J68c70ff4ff74226a
+  - id: J7eabb1054ab2b78e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3500,9 +3629,9 @@ claims:
       : \"256\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J854b5685ebe1a5e4
+  - id: J58e05cc1d406b16b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3604,9 +3733,9 @@ claims:
       : \"255\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J89eb80081c212dac
+  - id: J37502be8cd1d4198
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3716,9 +3845,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J9c9ae6304368a371
+  - id: Jd6d8c291d429c50a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3840,9 +3969,9 @@ claims:
       : 8,\n      \"text\": \"251\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jbc8631bff4e6c74f
+  - id: Ja840a05f289c4458
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3958,21 +4087,36 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:15:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Caeb93cb622c32752
+    previous_evidence_ids:
+    - J3f547545dff3333d
+    - J68c70ff4ff74226a
+    - J854b5685ebe1a5e4
+    - J89eb80081c212dac
+    - J9c9ae6304368a371
+    - Jbc8631bff4e6c74f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Construction noise limits for residential areas are 75 dB(A) during daytime and 65 dB(A) during nighttime,
     85 dB(A) for commercial areas, and 90 dB(A) for industrial areas, measured at a distance of 200 feet from construction
     limits or the nearest affected building.
   evidence_ids:
-  - J3f547545dff3333d
+  - J681b080009e1dad7
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1864143525842c7f
+  id: Ce4be72535129ef72
   citations:
-  - id: J3f547545dff3333d
+  - id: J681b080009e1dad7
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4085,20 +4229,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:15:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1864143525842c7f
+    previous_evidence_ids:
+    - J3f547545dff3333d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The contractor shall not expose the public to construction noise levels exceeding 90 dBA slow or impulsive
     noise levels exceeding 140 dB peak sound pressure level.
   evidence_ids:
-  - J3f547545dff3333d
+  - J681b080009e1dad7
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb0dd55058b7f33b2
+  id: Cd845f4f65b7b2c73
   citations:
-  - id: J3f547545dff3333d
+  - id: J681b080009e1dad7
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4211,20 +4365,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:15:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb0dd55058b7f33b2
+    previous_evidence_ids:
+    - J3f547545dff3333d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'Construction vibration limits are set by aggregate duration: 0.01 in/sec for sustained 1 hour per day,
     0.03 in/sec for transient under 1 hour per day, and 0.10 in/sec for transient under 10 minutes per day.'
   evidence_ids:
-  - Jbc8631bff4e6c74f
+  - Ja840a05f289c4458
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8c03b606200531a3
+  id: Cfeebb637a331db63
   citations:
-  - id: Jbc8631bff4e6c74f
+  - id: Ja840a05f289c4458
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4340,21 +4504,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:15:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8c03b606200531a3
+    previous_evidence_ids:
+    - Jbc8631bff4e6c74f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Free tunnel working areas must be provided with an approved ventilation system supplying not less than 6
     cubic meters per minute of fresh air per underground worker and free air flow movement of not less than 9 meters
     per minute, with oxygen levels not less than 19.5 percent.
   evidence_ids:
-  - J854b5685ebe1a5e4
+  - J58e05cc1d406b16b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ccae7204bbe843f62
+  id: C31e65f1fd802358c
   citations:
-  - id: J854b5685ebe1a5e4
+  - id: J58e05cc1d406b16b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4458,20 +4632,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:15:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ccae7204bbe843f62
+    previous_evidence_ids:
+    - J854b5685ebe1a5e4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contractors must provide wholesome drinking water at a minimum quantity of 5 litres per workman per day,
     easily accessible within 200 meters from the place of work.
   evidence_ids:
-  - J68c70ff4ff74226a
+  - J7eabb1054ab2b78e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C65ceed280161f7c4
+  id: C45b1b49b6b5e0d16
   citations:
-  - id: J68c70ff4ff74226a
+  - id: J7eabb1054ab2b78e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4555,20 +4739,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:15:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C65ceed280161f7c4
+    previous_evidence_ids:
+    - J68c70ff4ff74226a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Latrine and urinal accommodations must be provided at a scale of one latrine seat for every 20 workers up
     to 100 workers and one for every additional 50 workers, plus one urinal accommodation for every 100 workers.
   evidence_ids:
-  - J854b5685ebe1a5e4
+  - J58e05cc1d406b16b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cfac735b2f8a58e24
+  id: C1a138246204ad392
   citations:
-  - id: J854b5685ebe1a5e4
+  - id: J58e05cc1d406b16b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4672,21 +4866,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:15:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cfac735b2f8a58e24
+    previous_evidence_ids:
+    - J854b5685ebe1a5e4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The contractor must ensure that all employees and workmen undergo required medical examinations under law
     or contract and maintain corresponding records, while strictly prohibiting entry into work areas under the influence
     of alcohol or drugs.
   evidence_ids:
-  - J75b7300d4da81bec
+  - J26f0e77f41286863
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C38eabf92d01bdefd
+  id: Cbf9a6241cc93fc57
   citations:
-  - id: J75b7300d4da81bec
+  - id: J26f0e77f41286863
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 41.0 — Physical fitness of workmen
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4724,13 +4928,23 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T07:46:51+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C38eabf92d01bdefd
+    previous_evidence_ids:
+    - J75b7300d4da81bec
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: belongs_to
   target: index.md
   title: BMRCL Wiki Index
   evidence_ids:
-  - Sfbb1dbcac61182ed
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - S5b187b25e5ea2734
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Safety, Health and Environment Manual – Part III: Occupational Health and Welfare Overview
@@ -4740,80 +4954,80 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - Part III of the SHE Manual governs occupational health, medical examinations, occupational health centres, first-aid, HIV/AIDS prevention, mosquito breeding control, and noise/vibration limits for contractor personnel.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66, 67, 68, 69, 70, 71, 72; quotation `Sfbb1dbcac61182ed`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66; quotation `J573bee61f4ed333d`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66, 67, 68, 69, 70, 71, 72; quotation `S5b187b25e5ea2734`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66; quotation `J44c81c9cdd51865e`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/1`.
 
 - Noise emission and control standards set daytime and nighttime limits, mandate Noise Monitoring and Control Plans (NMCP), and require mitigation for excessive construction noise.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 43.0 — Noise|Clause 43.0 — Noise]]; `Vol3DLNP1.pdf`; PDF page(s) 67; quotation `Jedfbe657d860b5a4`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/2/fragments/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 43.0 — Noise|Clause 43.0 — Noise]]; `Vol3DLNP1.pdf`; PDF page(s) 68; quotation `Jd8b17b047a72715d`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/2/fragments/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 43.0 — Noise|Clause 43.0 — Noise]]; `Vol3DLNP1.pdf`; PDF page(s) 69; quotation `J7342ad42c777d9a0`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/2/fragments/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 43.0 — Noise|Clause 43.0 — Noise]]; `Vol3DLNP1.pdf`; PDF page(s) 67; quotation `Jcf31dc552bb53faa`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/2/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 43.0 — Noise|Clause 43.0 — Noise]]; `Vol3DLNP1.pdf`; PDF page(s) 68; quotation `J1dd8d9c8b2265f58`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/2/fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 43.0 — Noise|Clause 43.0 — Noise]]; `Vol3DLNP1.pdf`; PDF page(s) 69; quotation `J45fcc9b04b07ae52`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/2/fragments/3`.
 
 - The Safety, Health and Environment Manual Part III establishes mandatory contractor requirements regarding physical fitness, medical examinations, occupational health centers, ambulance services, first aid, HIV/AIDS prevention, vector control, noise, ventilation, illumination, radiation, and worker welfare facilities.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 64; quotation `J023a48940816009a`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 65; quotation `J34f98d56801efb52`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 43.0 — Noise|Clause 43.0 — Noise]]; `Vol3DLNP1.pdf`; PDF page(s) 70; quotation `J3fd47de4123efa31`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/2/fragments/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 66; quotation `J8be1241d1f080ec3`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 44.0 — Ventilation and illumination|Clause 44.0 — Ventilation and illumination]]; `Vol3DLNP1.pdf`; PDF page(s) 70, 71; quotation `Jab66646bcaf854ba`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 46.0 — Welfare measures for workers|Clause 46.0 — Welfare measures for workers]]; `Vol3DLNP1.pdf`; PDF page(s) 71, 72; quotation `Jb989ff64a41e73e8`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 45.0 — Radiation|Clause 45.0 — Radiation]]; `Vol3DLNP1.pdf`; PDF page(s) 71; quotation `Jf82e3726cef33215`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 64; quotation `J4ba566627e05e212`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 65; quotation `J23ac14130beb4725`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 43.0 — Noise|Clause 43.0 — Noise]]; `Vol3DLNP1.pdf`; PDF page(s) 70; quotation `Jd8ad6700267a399b`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/2/fragments/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 66; quotation `Ja2ee2729a4e94860`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 44.0 — Ventilation and illumination|Clause 44.0 — Ventilation and illumination]]; `Vol3DLNP1.pdf`; PDF page(s) 70, 71; quotation `J79c6bd3eb032dd81`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 46.0 — Welfare measures for workers|Clause 46.0 — Welfare measures for workers]]; `Vol3DLNP1.pdf`; PDF page(s) 71, 72; quotation `Jeeb17043f0400cc9`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 45.0 — Radiation|Clause 45.0 — Radiation]]; `Vol3DLNP1.pdf`; PDF page(s) 71; quotation `Jbda175ad9c5ffd76`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/4`.
 
 - The Safety, Health and Environment Manual Part III outlines mandatory occupational health, noise and vibration control, ventilation, illumination, radiation, and worker welfare standards for construction sites.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 68; quotation `J3f547545dff3333d`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 72; quotation `J68c70ff4ff74226a`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/8`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 71; quotation `J854b5685ebe1a5e4`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/7`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 70; quotation `J89eb80081c212dac`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 67; quotation `J9c9ae6304368a371`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 69; quotation `Jbc8631bff4e6c74f`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 68; quotation `J681b080009e1dad7`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 72; quotation `J7eabb1054ab2b78e`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 71; quotation `J58e05cc1d406b16b`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 70; quotation `J37502be8cd1d4198`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 67; quotation `Jd6d8c291d429c50a`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 69; quotation `Ja840a05f289c4458`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/5`.
 
 - The contractor must ensure that all employees and workmen undergo required medical examinations under law or contract and maintain corresponding records, while strictly prohibiting entry into work areas under the influence of alcohol or drugs.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 41.0 — Physical fitness of workmen|Clause 41.0 — Physical fitness of workmen]]; `Vol3DLNP1.pdf`; PDF page(s) 64; quotation `J75b7300d4da81bec`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 41.0 — Physical fitness of workmen|Clause 41.0 — Physical fitness of workmen]]; `Vol3DLNP1.pdf`; PDF page(s) 64; quotation `J26f0e77f41286863`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/0`.
 
 ## Key Parameters and Source Statements
 
 - The contractor must arrange pre-employment, post-illness/injury, and periodic medical examinations (once every two years up to age 40 and annually thereafter) for all employees including drivers and equipment operators at the contractor's cost.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66; quotation `J573bee61f4ed333d`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66; quotation `J44c81c9cdd51865e`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/1`.
 
 - Contractors must provide one First-aid box for every 100 workers, equipped in accordance with Schedule III of BOCWR.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66; quotation `J573bee61f4ed333d`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66; quotation `J44c81c9cdd51865e`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/1`.
 
 - Contractors must identify and maintain peer educators at a ratio of 1 for every 100 workers for HIV/AIDS awareness and training.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66; quotation `J573bee61f4ed333d`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66; quotation `J44c81c9cdd51865e`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/1`.
 
 - The contractor must arrange pre-employment medical examinations, post-illness or injury evaluations, and recurring medical checks once every two years up to age 40 and annually thereafter for drivers, transport equipment operators, and lifting appliance operators.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 64; quotation `J023a48940816009a`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 64; quotation `J4ba566627e05e212`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/0`.
 
 - First-aid boxes must be provided at a scale of one box for every 100 workers, clearly marked and equipped in accordance with Schedule III of BOCWR.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 65; quotation `J34f98d56801efb52`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 65; quotation `J23ac14130beb4725`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/1`.
 
 - Contractors must identify peer educators at a ratio of one for every 100 workers and support the employer's appointed agency for HIV/AIDS awareness and training.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 65; quotation `J34f98d56801efb52`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 65; quotation `J23ac14130beb4725`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/1`.
 
 - In free tunnels, fresh air supply must not be less than 6 m3/min per underground building worker, free air movement must be at least 9 m/min, and oxygen levels must not fall below 19.5%.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 44.0 — Ventilation and illumination|Clause 44.0 — Ventilation and illumination]]; `Vol3DLNP1.pdf`; PDF page(s) 70, 71; quotation `Jab66646bcaf854ba`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 44.0 — Ventilation and illumination|Clause 44.0 — Ventilation and illumination]]; `Vol3DLNP1.pdf`; PDF page(s) 70, 71; quotation `J79c6bd3eb032dd81`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/3`.
 
 - Drinking water provisions require a minimum supply of 5 litres per workman per day, located within 200m of all work locations, and situated within six meters of washing places, urinals, or latrines.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 46.0 — Welfare measures for workers|Clause 46.0 — Welfare measures for workers]]; `Vol3DLNP1.pdf`; PDF page(s) 71, 72; quotation `Jb989ff64a41e73e8`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 46.0 — Welfare measures for workers|Clause 46.0 — Welfare measures for workers]]; `Vol3DLNP1.pdf`; PDF page(s) 71, 72; quotation `Jeeb17043f0400cc9`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/5`.
 
 - Latrine and urinal accommodations must be provided at a scale of one latrine seat for every 20 workers up to 100 workers, and one for every additional 50 workers thereafter, along with one urinal for every 100 workers.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 46.0 — Welfare measures for workers|Clause 46.0 — Welfare measures for workers]]; `Vol3DLNP1.pdf`; PDF page(s) 71, 72; quotation `Jb989ff64a41e73e8`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 46.0 — Welfare measures for workers|Clause 46.0 — Welfare measures for workers]]; `Vol3DLNP1.pdf`; PDF page(s) 71, 72; quotation `Jeeb17043f0400cc9`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/5`.
 
 - Construction noise limits for residential areas are 75 dB(A) during daytime and 65 dB(A) during nighttime, 85 dB(A) for commercial areas, and 90 dB(A) for industrial areas, measured at a distance of 200 feet from construction limits or the nearest affected building.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 68; quotation `J3f547545dff3333d`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 68; quotation `J681b080009e1dad7`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/4`.
 
 - The contractor shall not expose the public to construction noise levels exceeding 90 dBA slow or impulsive noise levels exceeding 140 dB peak sound pressure level.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 68; quotation `J3f547545dff3333d`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 68; quotation `J681b080009e1dad7`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/4`.
 
 - Construction vibration limits are set by aggregate duration: 0.01 in/sec for sustained 1 hour per day, 0.03 in/sec for transient under 1 hour per day, and 0.10 in/sec for transient under 10 minutes per day.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 69; quotation `Jbc8631bff4e6c74f`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 69; quotation `Ja840a05f289c4458`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/5`.
 
 - Free tunnel working areas must be provided with an approved ventilation system supplying not less than 6 cubic meters per minute of fresh air per underground worker and free air flow movement of not less than 9 meters per minute, with oxygen levels not less than 19.5 percent.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 71; quotation `J854b5685ebe1a5e4`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 71; quotation `J58e05cc1d406b16b`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/7`.
 
 - Contractors must provide wholesome drinking water at a minimum quantity of 5 litres per workman per day, easily accessible within 200 meters from the place of work.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 72; quotation `J68c70ff4ff74226a`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 72; quotation `J7eabb1054ab2b78e`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/8`.
 
 - Latrine and urinal accommodations must be provided at a scale of one latrine seat for every 20 workers up to 100 workers and one for every additional 50 workers, plus one urinal accommodation for every 100 workers.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 71; quotation `J854b5685ebe1a5e4`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 71; quotation `J58e05cc1d406b16b`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/7`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]
@@ -4827,7 +5041,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Typed Relations
 
 - **belongs_to (editorial, inferred):** [[wiki/index|BMRCL Wiki Index]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66, 67, 68, 69, 70, 71, 72; `Sfbb1dbcac61182ed`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66, 67, 68, 69, 70, 71, 72; `S5b187b25e5ea2734`.
 
 ## Open Questions and Contradictions
 
@@ -4836,13 +5050,13 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### Sfbb1dbcac61182ed
+### S5b187b25e5ea2734
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]
 
 > This part contains Part III (Occupational Health and Welfare) of Section I (SHE - Manual) in Volume 3 of BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`.
 
-### J573bee61f4ed333d
+### J44c81c9cdd51865e
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]
 
@@ -5744,7 +5958,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Medical Facilities"
 > }
 
-### Jedfbe657d860b5a4
+### Jcf31dc552bb53faa
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 43.0 — Noise|Clause 43.0 — Noise]]
 
@@ -5753,7 +5967,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "43.1.3   The noise monitoring requirements including monitoring locations are given in the\n                     project SHE Manual.\n\n\n          43.2    NOISE MONITORING\n\n          43.2.1   The activities which are expected to cause noise during the construction of Bangalore\n                   metro, include noise from construction equipment, construction activities such as portal\n                     construction, boring for piling, earthwork excavation, concreting, viaduct, station, depot\n                    construction (including shifting of launching truss  / girder) and removal of spoil and\n                movement of construction vehicles and delivery vehicles, traveling to and from the\n                    construction and disposal sites.\n          43.2.2   The level of impact of these noise sources depends upon the noise characteristics of\n                    the equipment and activities involved the construction schedule, and the distance from\n                   noise sensitive receptors.\n\n          43.2.3   The Noise Monitoring and Control Plan (NMCP) in contract specific site Environmental\n                    Quality Management Plan prepared by the Contractor shall establish procedures to\n                   monitor construction noise and determine when to apply measures to control noise\n                      pollution due to construction activities at work sites.\n\n          43.2.4   The NMCP will provide site description, define acceptable noise monitoring equipment,\n                    provide siting and operating procedures for noise equipment, indicate reports and record\n                   keeping on noise monitoring data.\n\n\n\n          43.2.5   The NMCP will provide guidance for construction activity.   It shall also address noise\n                  performance criteria used in the selection of construction equipment.\n\n          43.2.6   The Noise Monitoring and Control Plan shall provide for:\n                       a) Definition of noise-sensitive uses in the zones affected by construction.\n                       b)   Calculation of future noise levels at the closest noise-sensitive receptors to the\n                            construction activity based on construction activity and ambient noise levels.\n                        c)   Evaluation and specification of the noise abatement measures that can be\n                           applied to meet the noise objectives.\n                       d)   Monitoring construction activity and providing adjustments to noise abatement\n                             controls that may be required to increase their effectiveness.\n                       e)  regular reporting\n                                 f)   Requirements of NMCP:\n                                            (i)     It shall specify the nighttime and daytime construction activities, monitoring\n                                    locations, equipment, procedures, and schedule of measurements and\n                                   reporting methods to be used.\n                                                (ii)    It shall contain a scaled plan indicating monitoring locations, including\n                            measurements to be taken at construction site boundaries and at nearby\n                                     residential zones.\n                                                  (iii)  a record of the noise characteristics of powered mechanical equipment\n                             proposed to be used during day time and night time and of proposed\n                               working methods and of potential noise level reduction measures.\n                                      (iv)  Provisions for immediate notification when measured noise levels exceed\n                                 allowable limits,\n                                  (v)  Provide a reporting procedure whereby noise-monitoring data is furnished\n                                     to the Engineer on a weekly basis.\n\n          43.2.7    In defining the requirements of the NMCP, available measures for noise control, such\n                    as, the use of equipment with special exhaust silencers or enclosures, and the\n                    construction of temporary enclosures or noise barriers around specific construction\n                       site activity areas shall be considered.  It should also specify the measures to be\n                  adopted to counter the impact of noise pollution for public and workers working at site\n                    during construction.\n\n          43.2.8      If the measured noise levels exceed the noise limits, the noise levels shall be reduced\n                 by appropriate abatement measures.\n\n         43.2.9    The NMCP will be reviewed on a regular basis and updated as necessary to assure\n                    current construction activities are addressed."
 > }
 
-### Jd8b17b047a72715d
+### J1dd8d9c8b2265f58
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 43.0 — Noise|Clause 43.0 — Noise]]
 
@@ -5762,7 +5976,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "43.2.10  The Engineer shall monitor Contractor’s performance of tasks specified, and  will\n          inspect necessary records, reports and procedures related to the control of noise.\n\n43.2.11  Impact monitoring shall be carried out at noise sensitive receptor locations within 200\n           feet of the construction site once each week and after a change in construction\n            activity. Construction noise measurements shall coincide with daytime and nighttime\n          periods of maximum noise generating construction activities.\n\n43.2.12  Noise Monitoring data will be submitted in a Noise Measurement Report Form. It will\n          contain the type of measurement, duration of measurement, distance of monitoring\n         from construction site, and construction equipment working during monitoring period.\n\n43.2.13   appropriate  parameter  for measuring  construction  noise  impacts  shall be  the\n          equivalent A-weighted sound pressure level (Leq) measured in decibels (dB). The two\n            statistical sound levels L10 and L90; the level exceeded for 10 and 90 percent of the time\n           respectively, shall also be recorded during monitoring. The L90 may be considered as\n          the ambient level into which the L10 as average peak level intrudes. The Lmax, Leq, L10\n        and L90 values will be reported in the noise measurement form along with allowable\n         noise limit. The duration of monitoring shall be for a minimum of 30 minutes.\n\n43.2..14  In no case  shall the Contractor expose the public  to construction noise levels\n         exceeding 90dBA (slow) or to impulsive noise levels with a peak sound pressure level\n         exceeding 140dB as measured on an impulse sound level meter.\n\n43.2.15   Limit for construction noise is based on the existing ambient noise levels in areas\n          adjoining the construction sites.\n\n43.2.16 The noise levels emanating from any source during construction, shall not exceed 5\n         dB(A) or more above existing ambient pre-construction noise levels when measured at\n        a point outside the premises of the location of source. The same may be varied from\n         time to time by and at the sole discretion of the Engineer.\n43.2.17  Where there are no ambient noise measurements, the construction activities shall be\n           limited to levels measured at a distance of 200 feet from the construction limits or at\n          the nearest affected building, whichever is closer, as given in Table-2.\n                                 TABLE-2\n                  ALLOWABLE CONSTRUCTION NOISE\n     LAND USE               MAXIMUM NOISE LEVELS- Lmax dB (A)\n                                            Day Time Night Time\n          Residential                      75             65\n          At all Times\n          Commercial                                   85\n             Industrial                                     90\n\n\n43.2.18   At the surface of the construction site during night time hours, the Contractor shall use\n          only equipment that operating under full load meets the noise limits specified in Table-\n           3, if a sensitive receptor would be affected.\n                             TABLE-3\n NOISE EMISSION LIMITS FOR CONSTRUCTION EQUIPMENT USED DURING NIGHTTIME\n              HOURS; MEASURED AT 50 FEET FROM CONSTRUCTION EQUIPMENT*\n Equipment Category                                     Lmax Level dB(A)\n\n Backhoe                                                80\n Bar Bender                                              75\n Chain Saw                                              81\n Compactor                                              80\n Compressor                                             80\n Concrete Mixer                                           85\n Concrete Pump                                           82\n Crane                                                  85\n Dozer                                                  85\n Front End Loader                                         80\n Generator                                               82\n Gradall                                                 85\n Grader                                                  85\n Paver                                                  85"
 > }
 
-### J7342ad42c777d9a0
+### J45fcc9b04b07ae52
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 43.0 — Noise|Clause 43.0 — Noise]]
 
@@ -5771,7 +5985,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "Pneumatic Tools                                          85\n          Scraper                                                 85\n            Tractor                                                  84\n\n\n         Noise emission limits apply to equipment used at surface of the construction site during Night\n                    time hours of 9 p.m. to 6 a.m.\n\n      43.2.19     The adjustments for close in equipment noise measurement shall\n                 be made in accordance with Table-4.\n\n                                    TABLE – 4\n              ADJUSTMENTS FOR CLOSE-IN EQUIPMENT NOISE MEASUREMENTS\n                    (Measurement Values to be subtracted from Measured Sound)\n         Distance (Feet)                      Level to Estimate Sound Level at 50 Feet dB (A)\n              19-21                                               8\n              22-23                                               7\n              24-26                                               6\n              27-29                                               5\n              30-33                                               4\n              34-37                                               3\n              38-42                                               2\n              43-47                                               1\n              48-50                                               0\n\n                                       TABLE- 5.\n                          CONSTRUCTION VIBRATION LIMITS\n                             VIBRATION TYPE AND PERMISSIBL\n       AGGREGATE DURATION            LIMIT\n           Sustained (1 hr/day)                               0.01 in/sec (80 VdB re 10-6 in/sec)\n           Transient (<1 hr/day)                               0.03 in/sec (90 VdB re 10-6 in/sec)\n           Transient (<10 min/day)                            0.10 in/sec (100 VdB re 10-6 in/sec)\n\n\n          43.2.20  When  Diesel Generator (DG) Sets  are used  for  operation  of equipment and\n                   machinery, then ‘Standards and Guidelines  for  control  of Noise  Pollution from\n                    Stationery DG Sets’, under Environment (Protection) Act, 1986 shall apply.\n         43.2.21  Should the impact monitoring record noise levels which are:\n                         indicative of a deteriorating situation such that closer monitoring is reasonably\n                            indicated, or\n                        when in the opinion of the Engineer additional measurements are required in\n                        view of deteriorating noise environment, then, the Engineer may require the\n                         Contractor to increase the frequency of impact monitoring at any one or more of\n                          the monitoring stations until the results indicate an improving and acceptable\n                             level of noise.\n\n        43.2..22    The Contractor  shall submit a copy  of monitoring  results. The  results should\n                    represent  a statistical evaluation of data for evaluation of trends and comparison\n                      with noise emission standards.\n\n        43.2.23   Where the Engineer determines that the recorded Noise level is significantly\n                    greater than the acceptable levels, the Engineer may direct the Contractor to\n                   take effective remedial measures including, but not limited to, reviewing noise\n                  sources and modifying working procedures.\n\n         43.2.23    The Contractor shall inform the Engineer of all steps taken to investigate cause of\n                  exceedance and immediate action taken to avoid further exceedance through\n                       written reports and proposals for action under an Event Contingency Plan.\n\n          43.3       Control Requirements\n\n\n          43.3.1     Construction material should be operated and transported in such a manner as not to\n                     create unnecessary noise as outlined below:\n\n\n                                 i)    Perform Work within the procedures outlined herein and comply with applicable\n                        codes,  regulations, and  standards  established by  the  Central and  State\n                     Government and their agencies."
 > }
 
-### J023a48940816009a
+### J4ba566627e05e212
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]
 
@@ -5872,7 +6086,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J34f98d56801efb52
+### J23ac14130beb4725
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]
 
@@ -5943,7 +6157,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J3fd47de4123efa31
+### Jd8ad6700267a399b
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 43.0 — Noise|Clause 43.0 — Noise]]
 
@@ -5952,7 +6166,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "ii)   Keep noise to the lowest reasonably practicable level.  Appropriate measures\n                     will be taken to ensure that construction works will not cause any unnecessary\n                or excessive noise, which may disturb the occupants of any nearby dwellings,\n                schools, hospitals, or premises with similar sensitivity to noise. Use equipment\n                with  effective  noise-suppression  devices and employ  other  noise  control\n             measures as to protect the public.\n\n                  iii)   Schedule and conduct operations in a manner that will minimize, to the greatest\n                extent  feasible,  the  disturbance  to  the  public  in  areas  adjacent  to  the\n                construction  activities and  to occupants  of  buildings  in the  vicinity  of the\n                construction activities.\n\n             iv)   The Contractor shall submit to the Employer a Noise Monitoring and Control\n              Plan (NMCP) under contract specific Site Environmental Plan.   It shall include\n                       full and comprehensive details of all powered mechanical equipment, which he\n              proposes to use during daytime and night - time, and of his proposed working\n             methods and noise level reduction measures. The NMCP shall include detailed\n               noise calculations and vibration levels to demonstrate the anticipated noise\n               generation and vibrations by the Contractor.\n\n           v)   The NMCP prepared by the Contractor  shall guide the implementation  of\n                construction  activity. The NMCP  will be reviewed on a regular basis and\n              updated  as  necessary  to  assure  that  current  construction  activities  are\n               addressed.  It may appear as a regular agenda item in project coordination\n               meetings, if noise is an issue at any location in the contract.\n\n\n43.4     Occupational Noise\n\n\n                i)     Protection  against  the  effects  of  occupational  noise exposure should be\n               provided when the sound level exceeds the threshold values as provided in\n                Project SHE Manual.\n\n                  ii)   When employees are subjected to sound levels exceeding those listed in the\n                Table, feasible administrative or engineering controls should be utilized as given\n                   in this document and BMRC’s Project SHE Manual.\n\n                  iii)      If such controls fail to reduce sound levels within the levels of the table, personal\n                 protective equipment shall be provided and used to reduce sound levels within\n                the levels of the table.\n\n             iv)   When the daily noise exposure is composed of two or more periods of noise\n              exposure of different levels, their combined effect should be considered, rather\n               than the individual effect of each. Exposure to different levels for various periods\n                 of time shall be computed according to the formula and sample computations,\n              as given in project SHE Manual.\n\n\n43.4      Vibration Level\n\n\n43.4.1    In locations where the alignment  is close to  historical  / heritage structures, the\n          contractor shall prepare a monitoring scheme prior to construction at such locations.\n          This scheme for monitoring vibration level at such historical / heritage sites shall be\n         submitted to Employer for his approval. This scheme shall include:\n\n                i)     Monitoring requirements  for  vibrations  at  regular  intervals  throughout  the\n                construction period.\n\n                  ii)    Pre-construction  structural  integrity  inspections  of  historic  and  sensitive\n                structures in project activity.\n\n                  iii)    Information dissemination about the construction method, probable  effects,\n                 quality control measures and precautions to be used.\n\n             iv)   The vibration level limits at work sites adjacent to the alignment shall conform to\n                the permitted values of peak p velocity as given in article project SHE Manual."
 > }
 
-### J8be1241d1f080ec3
+### Ja2ee2729a4e94860
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]
 
@@ -6033,7 +6247,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jab66646bcaf854ba
+### J79c6bd3eb032dd81
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 44.0 — Ventilation and illumination|Clause 44.0 — Ventilation and illumination]]
 
@@ -6206,7 +6420,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Ventilation and illumination"
 > }
 
-### Jb989ff64a41e73e8
+### Jeeb17043f0400cc9
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 46.0 — Welfare measures for workers|Clause 46.0 — Welfare measures for workers]]
 
@@ -6699,7 +6913,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Welfare measures for workers"
 > }
 
-### Jf82e3726cef33215
+### Jbda175ad9c5ffd76
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 45.0 — Radiation|Clause 45.0 — Radiation]]
 
@@ -6838,7 +7052,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Radiation"
 > }
 
-### J3f547545dff3333d
+### J681b080009e1dad7
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]
 
@@ -6939,7 +7153,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J68c70ff4ff74226a
+### J7eabb1054ab2b78e
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]
 
@@ -7030,7 +7244,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J854b5685ebe1a5e4
+### J58e05cc1d406b16b
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]
 
@@ -7151,7 +7365,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J89eb80081c212dac
+### J37502be8cd1d4198
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]
 
@@ -7232,7 +7446,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J9c9ae6304368a371
+### Jd6d8c291d429c50a
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]
 
@@ -7343,7 +7557,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jbc8631bff4e6c74f
+### Ja840a05f289c4458
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]
 
@@ -7484,7 +7698,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J75b7300d4da81bec
+### J26f0e77f41286863
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 41.0 — Physical fitness of workmen|Clause 41.0 — Physical fitness of workmen]]
 

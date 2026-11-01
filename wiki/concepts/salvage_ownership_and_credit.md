@@ -6,50 +6,50 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-11-01T12:14:18+00:00'
-updated_at: '2026-11-01T12:36:19+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T12:14:18+00:00'
 model: source-backed editorial synthesis; no API call
 sources:
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/13
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/15
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/16
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/14
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/2
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_document.json
   json_sha256: e818be1fb28ea74092cb53a451b92e169c6e8a07afec0add897be67d5844a2b3
@@ -60,22 +60,22 @@ claims:
   text: This page brings together the cited requirements for salvage ownership and schedule c credit. Each source
     statement retains its own stage, conditions and review limitations.
   evidence_ids:
-  - J186aa0bc2d6a9b41
-  - J2a0339dd70c0c1e7
-  - J37cdd1151af09b0e
-  - J5b556987a9fd11b6
-  - J8c215615fb864781
-  - S19382a03427e15ba
-  - J6f83ecf77cc57b25
+  - J8d2c563b9d83facb
+  - Jb1ec0b1cda22a2ca
+  - J290c3ada0610488f
+  - J6b4a741b13fd1302
+  - J6ae42a6e278602f6
+  - S10ec60af02b3e977
+  - Jf17d55c6acfde864
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C790fa4203941b81b
+  id: C75e47a322f7ca6e0
   citations:
-  - id: J186aa0bc2d6a9b41
+  - id: J8d2c563b9d83facb
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 14 — Disposal of Material
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -97,9 +97,9 @@ claims:
       title\": \"Disposal of material\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J2a0339dd70c0c1e7
+  - id: Jb1ec0b1cda22a2ca
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 16 — Material Salvaged for the Contractor
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -118,9 +118,9 @@ claims:
       \ Salvaged for the contractor\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J37cdd1151af09b0e
+  - id: J290c3ada0610488f
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 17 — Item Salvaged for the Government
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -143,9 +143,9 @@ claims:
       ,\n  \"title\": \"Item salvaged for the Government\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J5b556987a9fd11b6
+  - id: J6b4a741b13fd1302
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 15 — Salvageable Items and Material
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -168,9 +168,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"Salvageable items and material\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J8c215615fb864781
+  - id: J6ae42a6e278602f6
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -208,9 +208,9 @@ claims:
       pricing_rule\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S19382a03427e15ba
+  - id: S10ec60af02b3e977
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: 1.0 — Pricing Document Preamble and Instructions
     source_document: Vol4DLNP1.pdf
     pdf_pages:
@@ -233,9 +233,9 @@ claims:
       \ 20)\n- **Building Additions or Deletions and Accepted Percentage Rates** (Instruction 21)"
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: J6f83ecf77cc57b25
+  - id: Jf17d55c6acfde864
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -358,23 +358,39 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C790fa4203941b81b
+    previous_evidence_ids:
+    - J186aa0bc2d6a9b41
+    - J2a0339dd70c0c1e7
+    - J37cdd1151af09b0e
+    - J5b556987a9fd11b6
+    - J8c215615fb864781
+    - S19382a03427e15ba
+    - J6f83ecf77cc57b25
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The scope distinguishes the losing owner’s interest in salvage from items in which that owner has no interest;
     the latter are assigned to the contractor with credit to BMRCL. Sale of salvage at the site is prohibited.
   evidence_ids:
-  - J186aa0bc2d6a9b41
-  - J2a0339dd70c0c1e7
-  - J37cdd1151af09b0e
-  - J5b556987a9fd11b6
+  - J8d2c563b9d83facb
+  - Jb1ec0b1cda22a2ca
+  - J290c3ada0610488f
+  - J6b4a741b13fd1302
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd3720d83d879edb7
+  id: Ca2479ce7e4883181
   citations:
-  - id: J186aa0bc2d6a9b41
+  - id: J8d2c563b9d83facb
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 14 — Disposal of Material
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -396,9 +412,9 @@ claims:
       title\": \"Disposal of material\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J2a0339dd70c0c1e7
+  - id: Jb1ec0b1cda22a2ca
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 16 — Material Salvaged for the Contractor
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -417,9 +433,9 @@ claims:
       \ Salvaged for the contractor\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J37cdd1151af09b0e
+  - id: J290c3ada0610488f
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 17 — Item Salvaged for the Government
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -442,9 +458,9 @@ claims:
       ,\n  \"title\": \"Item salvaged for the Government\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J5b556987a9fd11b6
+  - id: J6b4a741b13fd1302
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 15 — Salvageable Items and Material
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -469,21 +485,34 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd3720d83d879edb7
+    previous_evidence_ids:
+    - J186aa0bc2d6a9b41
+    - J2a0339dd70c0c1e7
+    - J37cdd1151af09b0e
+    - J5b556987a9fd11b6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'Pricing separates the schedules: two-decimal percentage options for Schedule A, At Par for Schedule B,
     and a lump-sum salvage credit offered to BMRCL under Schedule C.'
   evidence_ids:
-  - J8c215615fb864781
-  - S19382a03427e15ba
+  - J6ae42a6e278602f6
+  - S10ec60af02b3e977
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C27057aab3e40a1c5
+  id: Ccfda7f149da38ffc
   citations:
-  - id: J8c215615fb864781
+  - id: J6ae42a6e278602f6
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -521,9 +550,9 @@ claims:
       pricing_rule\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S19382a03427e15ba
+  - id: S10ec60af02b3e977
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: 1.0 — Pricing Document Preamble and Instructions
     source_document: Vol4DLNP1.pdf
     pdf_pages:
@@ -548,20 +577,31 @@ claims:
     page_precision: section_reference
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C27057aab3e40a1c5
+    previous_evidence_ids:
+    - J8c215615fb864781
+    - S19382a03427e15ba
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Schedule C credit is recovered proportionately through running-account bills, with pro-rata adjustment
     for work-done variation according to the source pricing provision.
   evidence_ids:
-  - J6f83ecf77cc57b25
+  - Jf17d55c6acfde864
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8d1054a54bb0feaa
+  id: C002b7c77948e8ac5
   citations:
-  - id: J6f83ecf77cc57b25
+  - id: Jf17d55c6acfde864
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -684,22 +724,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8d1054a54bb0feaa
+    previous_evidence_ids:
+    - J6f83ecf77cc57b25
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: relation
   text: 'Editorial topic mapping for Salvage Ownership and Schedule C Credit: the two cited source records are connected
     for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence
     rule or a compliance decision.'
   evidence_ids:
-  - J186aa0bc2d6a9b41
-  - J2a0339dd70c0c1e7
+  - J8d2c563b9d83facb
+  - Jb1ec0b1cda22a2ca
   relation_type: relates_to
   explicitness: inferred
-  from_id: J186aa0bc2d6a9b41
-  to_id: J2a0339dd70c0c1e7
-  id: C761ae57ef55ab262
+  from_id: J8d2c563b9d83facb
+  to_id: Jb1ec0b1cda22a2ca
+  id: C5a548af9fe960920
   citations:
-  - id: J186aa0bc2d6a9b41
+  - id: J8d2c563b9d83facb
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 14 — Disposal of Material
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -721,9 +771,9 @@ claims:
       title\": \"Disposal of material\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J2a0339dd70c0c1e7
+  - id: Jb1ec0b1cda22a2ca
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 16 — Material Salvaged for the Contractor
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -750,17 +800,27 @@ claims:
       not an explicit hierarchy or a compliance determination.
     corrected_at: '2026-11-01T12:20:49+00:00'
     method: topic-specific editorial relation label
+  - previous_claim_id: C761ae57ef55ab262
+    previous_evidence_ids:
+    - J186aa0bc2d6a9b41
+    - J2a0339dd70c0c1e7
+    previous_from_id: J186aa0bc2d6a9b41
+    previous_to_id: J2a0339dd70c0c1e7
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T12:20:49+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: concepts/employer_requirements_scope_part3.md
   title: Source topic page
   evidence_ids:
-  - J186aa0bc2d6a9b41
+  - J8d2c563b9d83facb
 source_scope_note: The complete creation prompt explicitly includes matching JSON with each OKF file. These are
   source-linked extracts, not independent external assumptions. PDF/source review remains pending.
 editorial_method: Source-backed editorial synthesis; no new API generation call
-last_editorial_review: '2026-11-01T12:36:19+00:00'
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Salvage Ownership and Schedule C Credit
@@ -770,35 +830,35 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Summary
 
 - This page brings together the cited requirements for salvage ownership and schedule c credit. Each source statement retains its own stage, conditions and review limitations.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 14 — Disposal of Material|Clause 14 — Disposal of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J186aa0bc2d6a9b41`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/13`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 16 — Material Salvaged for the Contractor|Clause 16 — Material Salvaged for the Contractor]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J2a0339dd70c0c1e7`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/15`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 17 — Item Salvaged for the Government|Clause 17 — Item Salvaged for the Government]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J37cdd1151af09b0e`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/16`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 15 — Salvageable Items and Material|Clause 15 — Salvageable Items and Material]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J5b556987a9fd11b6`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/14`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J8c215615fb864781`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/2`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#1.0 — Pricing Document Preamble and Instructions|1.0 — Pricing Document Preamble and Instructions]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `S19382a03427e15ba`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J6f83ecf77cc57b25`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 14 — Disposal of Material|Clause 14 — Disposal of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J8d2c563b9d83facb`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 16 — Material Salvaged for the Contractor|Clause 16 — Material Salvaged for the Contractor]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `Jb1ec0b1cda22a2ca`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 17 — Item Salvaged for the Government|Clause 17 — Item Salvaged for the Government]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J290c3ada0610488f`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 15 — Salvageable Items and Material|Clause 15 — Salvageable Items and Material]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J6b4a741b13fd1302`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/14`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J6ae42a6e278602f6`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/2`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#1.0 — Pricing Document Preamble and Instructions|1.0 — Pricing Document Preamble and Instructions]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `S10ec60af02b3e977`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Jf17d55c6acfde864`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
 
 ## Key Parameters and Source Statements
 
 - The scope distinguishes the losing owner’s interest in salvage from items in which that owner has no interest; the latter are assigned to the contractor with credit to BMRCL. Sale of salvage at the site is prohibited.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 14 — Disposal of Material|Clause 14 — Disposal of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J186aa0bc2d6a9b41`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/13`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 16 — Material Salvaged for the Contractor|Clause 16 — Material Salvaged for the Contractor]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J2a0339dd70c0c1e7`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/15`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 17 — Item Salvaged for the Government|Clause 17 — Item Salvaged for the Government]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J37cdd1151af09b0e`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/16`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 15 — Salvageable Items and Material|Clause 15 — Salvageable Items and Material]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J5b556987a9fd11b6`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 14 — Disposal of Material|Clause 14 — Disposal of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J8d2c563b9d83facb`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 16 — Material Salvaged for the Contractor|Clause 16 — Material Salvaged for the Contractor]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `Jb1ec0b1cda22a2ca`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 17 — Item Salvaged for the Government|Clause 17 — Item Salvaged for the Government]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J290c3ada0610488f`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 15 — Salvageable Items and Material|Clause 15 — Salvageable Items and Material]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J6b4a741b13fd1302`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/14`.
 
 - Pricing separates the schedules: two-decimal percentage options for Schedule A, At Par for Schedule B, and a lump-sum salvage credit offered to BMRCL under Schedule C.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J8c215615fb864781`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/2`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#1.0 — Pricing Document Preamble and Instructions|1.0 — Pricing Document Preamble and Instructions]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `S19382a03427e15ba`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J6ae42a6e278602f6`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/2`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#1.0 — Pricing Document Preamble and Instructions|1.0 — Pricing Document Preamble and Instructions]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `S10ec60af02b3e977`.
 
 - The Schedule C credit is recovered proportionately through running-account bills, with pro-rata adjustment for work-done variation according to the source pricing provision.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J6f83ecf77cc57b25`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Jf17d55c6acfde864`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
 
 ## Typed Relations
 
 - Editorial topic mapping for Salvage Ownership and Schedule C Credit: the two cited source records are connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence rule or a compliance decision.
   - **relates_to (inferred):** [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 14 — Disposal of Material|Clause 14 — Disposal of Material]] → [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 16 — Material Salvaged for the Contractor|Clause 16 — Material Salvaged for the Contractor]]
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 14 — Disposal of Material|Clause 14 — Disposal of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J186aa0bc2d6a9b41`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/13`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 16 — Material Salvaged for the Contractor|Clause 16 — Material Salvaged for the Contractor]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J2a0339dd70c0c1e7`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 14 — Disposal of Material|Clause 14 — Disposal of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J8d2c563b9d83facb`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 16 — Material Salvaged for the Contractor|Clause 16 — Material Salvaged for the Contractor]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `Jb1ec0b1cda22a2ca`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/15`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 14 — Disposal of Material|Clause 14 — Disposal of Material]]
@@ -811,7 +871,7 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Related Wiki Entities
 
 - **relates_to (editorial, inferred):** [[wiki/concepts/employer_requirements_scope_part3|Source topic page]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 14 — Disposal of Material|Clause 14 — Disposal of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 17; `J186aa0bc2d6a9b41`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 14 — Disposal of Material|Clause 14 — Disposal of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 17; `J8d2c563b9d83facb`.
 
 ## Open Questions and Contradictions
 
@@ -820,7 +880,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### J186aa0bc2d6a9b41
+### J8d2c563b9d83facb
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 14 — Disposal of Material|Clause 14 — Disposal of Material]]
 
@@ -837,7 +897,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Disposal of material"
 > }
 
-### J2a0339dd70c0c1e7
+### Jb1ec0b1cda22a2ca
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 16 — Material Salvaged for the Contractor|Clause 16 — Material Salvaged for the Contractor]]
 
@@ -854,7 +914,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Material Salvaged for the contractor"
 > }
 
-### J37cdd1151af09b0e
+### J290c3ada0610488f
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 17 — Item Salvaged for the Government|Clause 17 — Item Salvaged for the Government]]
 
@@ -871,7 +931,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Item salvaged for the Government"
 > }
 
-### J5b556987a9fd11b6
+### J6b4a741b13fd1302
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 15 — Salvageable Items and Material|Clause 15 — Salvageable Items and Material]]
 
@@ -888,7 +948,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Salvageable items and material"
 > }
 
-### J8c215615fb864781
+### J6ae42a6e278602f6
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -967,7 +1027,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### S19382a03427e15ba
+### S10ec60af02b3e977
 
 [[OKF_bundle/Financial/vol4_secJ#1.0 — Pricing Document Preamble and Instructions|1.0 — Pricing Document Preamble and Instructions]]
 
@@ -999,7 +1059,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Total Floor Area as the Sum of Built Areas of All Floors** (Instruction 20)
 > - **Building Additions or Deletions and Accepted Percentage Rates** (Instruction 21)
 
-### J6f83ecf77cc57b25
+### Jf17d55c6acfde864
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 

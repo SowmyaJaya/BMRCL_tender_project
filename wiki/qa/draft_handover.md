@@ -3,9 +3,12 @@ type: wiki_qa
 title: Draft Wiki Handover and Remaining Review
 status: draft
 updated_at: '2026-11-01T12:14:18+00:00'
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Draft Wiki Handover and Remaining Review
+
+> Historical pre-rebase handover. Source identities have since been migrated; consult [[wiki/qa/provenance_migration|Provenance migration]] and the newest audit. Earlier counts and IDs below remain historical snapshots.
 
 This is an editorial handover record. It does not approve exhaustive source coverage, semantic accuracy, legal applicability, bid responsiveness or PDF verification. All knowledge remains draft.
 

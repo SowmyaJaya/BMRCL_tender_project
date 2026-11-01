@@ -6,33 +6,33 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-30T13:11:43+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-10-31T15:57:39+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/21
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/12
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/0
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
 claims:
 - kind: summary
@@ -40,17 +40,17 @@ claims:
     Deposit, ITT for Instructions to Tenderers, EQC for Eligibility and Qualification Criteria, and NeSL for National
     E-Governance Services Limited.
   evidence_ids:
-  - J82de4565268740e7
-  - J96e5227223f2186d
+  - Ja51d59e2490f098e
+  - Jce685766e7843ace
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7b3442c25a786f29
+  id: C0d4e0a831dfd7b96
   citations:
-  - id: J82de4565268740e7
+  - id: Ja51d59e2490f098e
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 22.0 — Evaluation of Tender
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -182,9 +182,9 @@ claims:
       ,\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J96e5227223f2186d
+  - id: Jce685766e7843ace
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 13.0 — Tender Security (EMD)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -337,20 +337,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T13:11:43+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7b3442c25a786f29
+    previous_evidence_ids:
+    - J82de4565268740e7
+    - J96e5227223f2186d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: BOQ refers to the Bill of Quantities provided in Financial Volume Section J.
   evidence_ids:
-  - J712da4ab72233c65
-  - S95cca961b3adbe67
+  - Jf210514e58efed27
+  - S4bb84d1785d9399d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca555bcf5d62d51ba
+  id: Cff46320d7fa395fc
   citations:
-  - id: J712da4ab72233c65
+  - id: Jf210514e58efed27
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -387,9 +398,9 @@ claims:
       \ Annexure,\\nCorrigendum and Addendums.\",\n  \"type\": \"pricing_rule\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S95cca961b3adbe67
+  - id: S4bb84d1785d9399d
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     pdf_pages:
@@ -409,13 +420,24 @@ claims:
     page_precision: document_metadata_range
   created_at: '2026-10-31T15:57:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca555bcf5d62d51ba
+    previous_evidence_ids:
+    - J712da4ab72233c65
+    - S95cca961b3adbe67
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: belongs_to
   target: index.md
   title: BMRCL Wiki Index
   evidence_ids:
-  - J82de4565268740e7
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - Ja51d59e2490f098e
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Glossary and Aliases
@@ -425,12 +447,12 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - Standard abbreviations and terms utilized throughout Instructions to Tenderers include EMD for Earnest Money Deposit, ITT for Instructions to Tenderers, EQC for Eligibility and Qualification Criteria, and NeSL for National E-Governance Services Limited.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 22.0 — Evaluation of Tender|Clause 22.0 — Evaluation of Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 21, 22, 23; quotation `J82de4565268740e7`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/21`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 15, 16, 17, 18; quotation `J96e5227223f2186d`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 22.0 — Evaluation of Tender|Clause 22.0 — Evaluation of Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 21, 22, 23; quotation `Ja51d59e2490f098e`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/21`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 15, 16, 17, 18; quotation `Jce685766e7843ace`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/12`.
 
 - BOQ refers to the Bill of Quantities provided in Financial Volume Section J.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J712da4ab72233c65`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/0`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; quotation `S95cca961b3adbe67`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Jf210514e58efed27`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/0`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; quotation `S4bb84d1785d9399d`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol1/secB#Clause 22.0 — Evaluation of Tender|Clause 22.0 — Evaluation of Tender]]
@@ -444,7 +466,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 ## Typed Relations
 
 - **belongs_to (editorial, inferred):** [[wiki/index|BMRCL Wiki Index]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 22.0 — Evaluation of Tender|Clause 22.0 — Evaluation of Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 21, 22, 23; `J82de4565268740e7`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 22.0 — Evaluation of Tender|Clause 22.0 — Evaluation of Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 21, 22, 23; `Ja51d59e2490f098e`.
 
 ## Open Questions and Contradictions
 
@@ -453,7 +475,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### J82de4565268740e7
+### Ja51d59e2490f098e
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 22.0 — Evaluation of Tender|Clause 22.0 — Evaluation of Tender]]
 
@@ -477,7 +499,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J96e5227223f2186d
+### Jce685766e7843ace
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]
 
@@ -505,7 +527,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J712da4ab72233c65
+### Jf210514e58efed27
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -584,7 +606,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### S95cca961b3adbe67
+### S4bb84d1785d9399d
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 

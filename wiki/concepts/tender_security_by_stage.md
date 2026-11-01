@@ -6,36 +6,36 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-11-01T12:14:18+00:00'
-updated_at: '2026-11-01T12:36:19+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T12:14:18+00:00'
 model: source-backed editorial synthesis; no API call
 sources:
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_items.json
   json_sha256: ffa851d3dc75c862bbb9df376985067951c7005c988fb0a1002a897b32525b6b
   json_pointer: /key_details/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_table.json
   json_sha256: e4e595fa155f932fe793f28df02a9836eb06f24ca4352db151622db258ce6b10
   json_pointer: /rows/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_items.json
   json_sha256: ffa851d3dc75c862bbb9df376985067951c7005c988fb0a1002a897b32525b6b
@@ -46,21 +46,21 @@ claims:
   text: This page brings together the cited requirements for tender securities by submission and award stage. Each
     source statement retains its own stage, conditions and review limitations.
   evidence_ids:
-  - S4d44a7a957170a04
-  - Jc66c61c80a9fa3ea
-  - J1edc5235a348b39d
-  - J8bd217cf1c0cb384
-  - S912544b01bbb1261
-  - Jfdceb1093bf9aa93
+  - S941f625519c1a7c8
+  - J26bac8fe2fb74f79
+  - Jafe130e72c570403
+  - J68b56efe7d18bd1a
+  - Scee9896ebae68c93
+  - J61504b79014caa0b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C12a7a9f73474ab12
+  id: Cfb2f2eb657451f90
   citations:
-  - id: S4d44a7a957170a04
+  - id: S941f625519c1a7c8
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 2 — Tender Security (EMD)
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -68,9 +68,9 @@ claims:
     quote: '- **Tender Security Amount:** INR 7.11 Lakhs.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: Jc66c61c80a9fa3ea
+  - id: J26bac8fe2fb74f79
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 2 — Tender Security (EMD)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -87,9 +87,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J1edc5235a348b39d
+  - id: Jafe130e72c570403
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 2 — Tender Security (EMD)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -111,9 +111,9 @@ claims:
       token_preservation_check\": \"passed\",\n  \"value\": \"INR 7.11 Lakhs\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J8bd217cf1c0cb384
+  - id: J68b56efe7d18bd1a
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -139,9 +139,9 @@ claims:
       \ Letter of Acceptance.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S912544b01bbb1261
+  - id: Scee9896ebae68c93
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Instruction 5 — Tender Validity
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -150,9 +150,9 @@ claims:
       in the NIT, or as amended, if any.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: Jfdceb1093bf9aa93
+  - id: J61504b79014caa0b
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Instruction 5 — Tender Validity
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -179,25 +179,40 @@ claims:
       fields. Latest supplied replacement: 09.09.2026 to 23.10.2026 (up to 3.00 PM (IST)). No claim is made about
       later notices.'
     evidence_ids:
+    - J61504b79014caa0b
+    - J5c7b124982dd60e9
+    - J01cf445b9bb9f862
+  editorial_history:
+  - previous_claim_id: C12a7a9f73474ab12
+    previous_evidence_ids:
+    - S4d44a7a957170a04
+    - Jc66c61c80a9fa3ea
+    - J1edc5235a348b39d
+    - J8bd217cf1c0cb384
+    - S912544b01bbb1261
     - Jfdceb1093bf9aa93
-    - J9631f301faa8967c
-    - J8827536a17c54d1a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: At tender submission, the NIT sets the EMD amount at INR 7.11 lakh; this bid security is distinct from the
     post-award performance security.
   evidence_ids:
-  - S4d44a7a957170a04
-  - Jc66c61c80a9fa3ea
-  - J1edc5235a348b39d
+  - S941f625519c1a7c8
+  - J26bac8fe2fb74f79
+  - Jafe130e72c570403
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3b3112ce0a4b3d44
+  id: C6a9ee491276a19e4
   citations:
-  - id: S4d44a7a957170a04
+  - id: S941f625519c1a7c8
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 2 — Tender Security (EMD)
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -205,9 +220,9 @@ claims:
     quote: '- **Tender Security Amount:** INR 7.11 Lakhs.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: Jc66c61c80a9fa3ea
+  - id: J26bac8fe2fb74f79
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 2 — Tender Security (EMD)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -224,9 +239,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J1edc5235a348b39d
+  - id: Jafe130e72c570403
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 2 — Tender Security (EMD)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -250,20 +265,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3b3112ce0a4b3d44
+    previous_evidence_ids:
+    - S4d44a7a957170a04
+    - Jc66c61c80a9fa3ea
+    - J1edc5235a348b39d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: After the Letter of Acceptance, the successful tenderer has 21 days to furnish performance security equal
     to 5% of the Contract Price.
   evidence_ids:
-  - J8bd217cf1c0cb384
+  - J68b56efe7d18bd1a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb6865cf1055d5671
+  id: C75cbb28b63c9e04b
   citations:
-  - id: J8bd217cf1c0cb384
+  - id: J68b56efe7d18bd1a
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -291,21 +318,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb6865cf1055d5671
+    previous_evidence_ids:
+    - J8bd217cf1c0cb384
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The bid-validity period recorded in ITT is 180 days counted from the prescribed tender-submission deadline;
     revised deadlines must be read with the supplied corrigenda.
   evidence_ids:
-  - S912544b01bbb1261
-  - Jfdceb1093bf9aa93
+  - Scee9896ebae68c93
+  - J61504b79014caa0b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce4fbdddc71af8a38
+  id: C54419a3cc5c66e31
   citations:
-  - id: S912544b01bbb1261
+  - id: Scee9896ebae68c93
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Instruction 5 — Tender Validity
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -314,9 +351,9 @@ claims:
       in the NIT, or as amended, if any.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: Jfdceb1093bf9aa93
+  - id: J61504b79014caa0b
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Instruction 5 — Tender Validity
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -343,25 +380,36 @@ claims:
       fields. Latest supplied replacement: 09.09.2026 to 23.10.2026 (up to 3.00 PM (IST)). No claim is made about
       later notices.'
     evidence_ids:
+    - J61504b79014caa0b
+    - J5c7b124982dd60e9
+    - J01cf445b9bb9f862
+  editorial_history:
+  - previous_claim_id: Ce4fbdddc71af8a38
+    previous_evidence_ids:
+    - S912544b01bbb1261
     - Jfdceb1093bf9aa93
-    - J9631f301faa8967c
-    - J8827536a17c54d1a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: relation
   text: 'Editorial topic mapping for Tender Securities by Submission and Award Stage: the two cited source records
     are connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence
     rule or a compliance decision.'
   evidence_ids:
-  - Jc66c61c80a9fa3ea
-  - J1edc5235a348b39d
+  - J26bac8fe2fb74f79
+  - Jafe130e72c570403
   relation_type: relates_to
   explicitness: inferred
-  from_id: Jc66c61c80a9fa3ea
-  to_id: J1edc5235a348b39d
-  id: C391ef30298294d72
+  from_id: J26bac8fe2fb74f79
+  to_id: Jafe130e72c570403
+  id: Ca57d415d8c718c4e
   citations:
-  - id: Jc66c61c80a9fa3ea
+  - id: J26bac8fe2fb74f79
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 2 — Tender Security (EMD)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -378,9 +426,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J1edc5235a348b39d
+  - id: Jafe130e72c570403
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 2 — Tender Security (EMD)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -410,17 +458,27 @@ claims:
       not an explicit hierarchy or a compliance determination.
     corrected_at: '2026-11-01T12:20:49+00:00'
     method: topic-specific editorial relation label
+  - previous_claim_id: C391ef30298294d72
+    previous_evidence_ids:
+    - Jc66c61c80a9fa3ea
+    - J1edc5235a348b39d
+    previous_from_id: Jc66c61c80a9fa3ea
+    previous_to_id: J1edc5235a348b39d
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T12:20:49+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: commercial_entity_index.md
   title: Source topic page
   evidence_ids:
-  - S4d44a7a957170a04
+  - S941f625519c1a7c8
 source_scope_note: The complete creation prompt explicitly includes matching JSON with each OKF file. These are
   source-linked extracts, not independent external assumptions. PDF/source review remains pending.
 editorial_method: Source-backed editorial synthesis; no new API generation call
-last_editorial_review: '2026-11-01T12:36:19+00:00'
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Tender Securities by Submission and Award Stage
@@ -430,33 +488,33 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Summary
 
 - This page brings together the cited requirements for tender securities by submission and award stage. Each source statement retains its own stage, conditions and review limitations.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `S4d44a7a957170a04`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Jc66c61c80a9fa3ea`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J1edc5235a348b39d`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `J8bd217cf1c0cb384`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Instruction 5 — Tender Validity|Instruction 5 — Tender Validity]]; `Vol1DLNP1.pdf`; PDF page(s) 8; quotation `S912544b01bbb1261`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Instruction 5 — Tender Validity|Instruction 5 — Tender Validity]]; `Vol1DLNP1.pdf`; PDF page(s) 8; quotation `Jfdceb1093bf9aa93`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/instructions/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `S941f625519c1a7c8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J26bac8fe2fb74f79`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Jafe130e72c570403`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `J68b56efe7d18bd1a`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Instruction 5 — Tender Validity|Instruction 5 — Tender Validity]]; `Vol1DLNP1.pdf`; PDF page(s) 8; quotation `Scee9896ebae68c93`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Instruction 5 — Tender Validity|Instruction 5 — Tender Validity]]; `Vol1DLNP1.pdf`; PDF page(s) 8; quotation `J61504b79014caa0b`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/instructions/4`.
 
 ## Key Parameters and Source Statements
 
 - At tender submission, the NIT sets the EMD amount at INR 7.11 lakh; this bid security is distinct from the post-award performance security.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `S4d44a7a957170a04`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Jc66c61c80a9fa3ea`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J1edc5235a348b39d`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `S941f625519c1a7c8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J26bac8fe2fb74f79`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Jafe130e72c570403`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/1`.
 
 - After the Letter of Acceptance, the successful tenderer has 21 days to furnish performance security equal to 5% of the Contract Price.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `J8bd217cf1c0cb384`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `J68b56efe7d18bd1a`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/1`.
 
 - The bid-validity period recorded in ITT is 180 days counted from the prescribed tender-submission deadline; revised deadlines must be read with the supplied corrigenda.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Instruction 5 — Tender Validity|Instruction 5 — Tender Validity]]; `Vol1DLNP1.pdf`; PDF page(s) 8; quotation `S912544b01bbb1261`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Instruction 5 — Tender Validity|Instruction 5 — Tender Validity]]; `Vol1DLNP1.pdf`; PDF page(s) 8; quotation `Jfdceb1093bf9aa93`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/instructions/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Instruction 5 — Tender Validity|Instruction 5 — Tender Validity]]; `Vol1DLNP1.pdf`; PDF page(s) 8; quotation `Scee9896ebae68c93`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Instruction 5 — Tender Validity|Instruction 5 — Tender Validity]]; `Vol1DLNP1.pdf`; PDF page(s) 8; quotation `J61504b79014caa0b`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/instructions/4`.
 
 ## Typed Relations
 
 - Editorial topic mapping for Tender Securities by Submission and Award Stage: the two cited source records are connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence rule or a compliance decision.
   - **relates_to (inferred):** [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]] → [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Jc66c61c80a9fa3ea`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J1edc5235a348b39d`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J26bac8fe2fb74f79`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Jafe130e72c570403`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/1`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]
@@ -466,7 +524,7 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Related Wiki Entities
 
 - **relates_to (editorial, inferred):** [[wiki/commercial_entity_index|Source topic page]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `S4d44a7a957170a04`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `S941f625519c1a7c8`.
 
 ## Open Questions and Contradictions
 
@@ -474,26 +532,26 @@ No additional contradiction is recorded on this page. PDF verification and full 
 
 > [!warning] Superseded — Baseline NIT Key Detail 5 date/time fields only
 > Preserve the baseline source as history. C1 changes these fields, and C3 further replaces the C1 date/time fields. Latest supplied replacement: 09.09.2026 to 23.10.2026 (up to 3.00 PM (IST)). No claim is made about later notices.
-> Evidence: [[OKF_bundle/Technical/Vol1/secA#Instruction 5 — Tender Validity|Instruction 5 — Tender Validity]]; `Vol1DLNP1.pdf`; PDF page(s) 8; `Jfdceb1093bf9aa93`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J9631f301faa8967c`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J8827536a17c54d1a`.
+> Evidence: [[OKF_bundle/Technical/Vol1/secA#Instruction 5 — Tender Validity|Instruction 5 — Tender Validity]]; `Vol1DLNP1.pdf`; PDF page(s) 8; `J61504b79014caa0b`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J5c7b124982dd60e9`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J01cf445b9bb9f862`.
 
 > [!warning] Superseded — Baseline NIT Key Detail 5 date/time fields only
 > Preserve the baseline source as history. C1 changes these fields, and C3 further replaces the C1 date/time fields. Latest supplied replacement: 09.09.2026 to 23.10.2026 (up to 3.00 PM (IST)). No claim is made about later notices.
-> Evidence: [[OKF_bundle/Technical/Vol1/secA#Instruction 5 — Tender Validity|Instruction 5 — Tender Validity]]; `Vol1DLNP1.pdf`; PDF page(s) 8; `Jfdceb1093bf9aa93`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J9631f301faa8967c`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J8827536a17c54d1a`.
+> Evidence: [[OKF_bundle/Technical/Vol1/secA#Instruction 5 — Tender Validity|Instruction 5 — Tender Validity]]; `Vol1DLNP1.pdf`; PDF page(s) 8; `J61504b79014caa0b`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J5c7b124982dd60e9`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J01cf445b9bb9f862`.
 
 <details>
 <summary>Supporting source passages</summary>
 
-### S4d44a7a957170a04
+### S941f625519c1a7c8
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]
 
 > - **Tender Security Amount:** INR 7.11 Lakhs.
 
-### Jc66c61c80a9fa3ea
+### J26bac8fe2fb74f79
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]
 
@@ -508,7 +566,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J1edc5235a348b39d
+### Jafe130e72c570403
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 2 — Tender Security (EMD)|Key Detail 2 — Tender Security (EMD)]]
 
@@ -552,7 +610,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "value": "INR 7.11 Lakhs"
 > }
 
-### J8bd217cf1c0cb384
+### J68b56efe7d18bd1a
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -596,13 +654,13 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "value": "Within 21 days of issue of the Letter of Acceptance, the successful\nTenderer shall furnish Performance Security at 5% (Five percent) of\nthe Contract Price as mentioned in Letter of Acceptance."
 > }
 
-### S912544b01bbb1261
+### Scee9896ebae68c93
 
 [[OKF_bundle/Technical/Vol1/secA#Instruction 5 — Tender Validity|Instruction 5 — Tender Validity]]
 
 > - **Validity Period:** 180 days starting from the prescribed last date of tender submission indicated in the NIT, or as amended, if any.
 
-### Jfdceb1093bf9aa93
+### J61504b79014caa0b
 
 [[OKF_bundle/Technical/Vol1/secA#Instruction 5 — Tender Validity|Instruction 5 — Tender Validity]]
 

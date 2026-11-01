@@ -6,232 +6,232 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-30T13:21:29+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T11:07:26+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/submission_checklist.json
   json_sha256: d46179de9312822b24adce6219ac3093e0d4f431c53cfdaa30df09b9aa9e3234
   json_pointer: /full_form_context/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_6_tables.json
   json_sha256: 09cce9216ab850d8085b31fc6ceebb2d2718c6e306693fe7ad5d257f7814a680
   json_pointer: /full_form_context/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json
   json_sha256: b95752e578a71f5d2b003df2bc34f04a87ca5e45b9ade83b814db0a24175a058
   json_pointer: /notes/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json
   json_sha256: b95752e578a71f5d2b003df2bc34f04a87ca5e45b9ade83b814db0a24175a058
   json_pointer: /notes/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json
   json_sha256: b95752e578a71f5d2b003df2bc34f04a87ca5e45b9ade83b814db0a24175a058
   json_pointer: /full_form_context/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json
   json_sha256: 96052bbff6058581a565657e3010f9ed5ee44ac94ad96d765cb82f64cd1d6706
   json_pointer: /full_form_context/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json
   json_sha256: 96052bbff6058581a565657e3010f9ed5ee44ac94ad96d765cb82f64cd1d6706
   json_pointer: /notes/6
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json
   json_sha256: 96052bbff6058581a565657e3010f9ed5ee44ac94ad96d765cb82f64cd1d6706
   json_pointer: /notes/5
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json
   json_sha256: 96052bbff6058581a565657e3010f9ed5ee44ac94ad96d765cb82f64cd1d6706
   json_pointer: /notes/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json
   json_sha256: 96052bbff6058581a565657e3010f9ed5ee44ac94ad96d765cb82f64cd1d6706
   json_pointer: /notes/4
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json
   json_sha256: 05a1d839e2b5bb79ea3247a38927b01d20d5c195c3b2856edb508d5307e8b383
   json_pointer: /full_form_context/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /contents_page
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/3
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/4
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/5
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/6
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/10
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/11
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/13
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/15
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/17
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/18
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json
   json_sha256: b95752e578a71f5d2b003df2bc34f04a87ca5e45b9ade83b814db0a24175a058
   json_pointer: /notes/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json
   json_sha256: 96052bbff6058581a565657e3010f9ed5ee44ac94ad96d765cb82f64cd1d6706
   json_pointer: /notes/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/7
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/8
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/9
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/14
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
@@ -243,16 +243,16 @@ claims:
     work experience summaries, ongoing works commitments, financial turnover, key personnel qualifications, plant
     and equipment, and administrative forms.
   evidence_ids:
-  - J54cce335d71fa4b6
+  - Jfed33bac8eef4d1e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C15324e430aa25725
+  id: C2702d19a801335df
   citations:
-  - id: J54cce335d71fa4b6
+  - id: Jfed33bac8eef4d1e
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -287,20 +287,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:21:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C15324e430aa25725
+    previous_evidence_ids:
+    - J54cce335d71fa4b6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 6 summarizes completed similar nature work experience, requiring inflation adjustment multiplying
     factors ranging from 1.41 for 2019-20 to 1.00 for 2026-27.
   evidence_ids:
-  - J5c929fc9bf95447d
+  - Jcab66de298f61ed3
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ced9c0392c74e688f
+  id: Cd927fecb5ad49cf1
   citations:
-  - id: J5c929fc9bf95447d
+  - id: Jcab66de298f61ed3
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -336,22 +346,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:21:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ced9c0392c74e688f
+    previous_evidence_ids:
+    - J5c929fc9bf95447d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 7 requires declaration of works in hand and ongoing commitments, updating balance work values
     using the inflation multiplying factors from Attachment 6 and RBI selling exchange rates for foreign currencies.
   evidence_ids:
-  - Jd1639b1b20d352de
-  - Jabd326ab473eee42
-  - Jdfcb22f4e62f06f2
+  - Jd19c11cf170c883c
+  - J1ac9eff308b27d8d
+  - Ja4b74630f796bd08
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc90eea612548abab
+  id: C408c39f286cbac7a
   citations:
-  - id: Jd1639b1b20d352de
+  - id: Jd19c11cf170c883c
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -369,9 +389,9 @@ claims:
       : \"attachment_7_note_1\",\n  \"number\": 1,\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jabd326ab473eee42
+  - id: J1ac9eff308b27d8d
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -391,9 +411,9 @@ claims:
       : \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jdfcb22f4e62f06f2
+  - id: Ja4b74630f796bd08
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -427,25 +447,37 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:21:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc90eea612548abab
+    previous_evidence_ids:
+    - Jd1639b1b20d352de
+    - Jabd326ab473eee42
+    - Jdfcb22f4e62f06f2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 8 provides the updated annual turnover form for the last five financial years (2021-22 to 2025-26)
     with inflation multiplying factors (1.28 down to 1.05) and mandates independent auditor or Chartered Accountant
     certification with UDIN.
   evidence_ids:
-  - J3943be676fd237d8
-  - J4db2f01952f28e7a
-  - J511ce07d1038afad
-  - J7079e663b3f966b7
-  - Jf90904d3bbcac5d7
+  - J5493108a924abd5e
+  - J4a01dccafb2958bf
+  - J5cb244cced01917e
+  - Jd86ee3a29e4d6113
+  - Je4b79b670def10a5
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C54df8bbe21353206
+  id: C0a71b9d807da9cf3
   citations:
-  - id: J3943be676fd237d8
+  - id: J5493108a924abd5e
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -495,9 +527,9 @@ claims:
       n\\n  Name and address of Tenderer………..                 Address: ……….. UDIN:\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J4db2f01952f28e7a
+  - id: J4a01dccafb2958bf
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -516,9 +548,9 @@ claims:
       \ which can be  verified online on\\n             https://udin.icai.org/search-udin.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J511ce07d1038afad
+  - id: J5cb244cced01917e
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -535,9 +567,9 @@ claims:
       \ of the Tenderer and not the Tenderer’s\\n            parent companies, subsidiaries, or affiliates.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J7079e663b3f966b7
+  - id: Jd86ee3a29e4d6113
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -557,9 +589,9 @@ claims:
       \ registration number.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf90904d3bbcac5d7
+  - id: Je4b79b670def10a5
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -581,23 +613,37 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:21:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C54df8bbe21353206
+    previous_evidence_ids:
+    - J3943be676fd237d8
+    - J4db2f01952f28e7a
+    - J511ce07d1038afad
+    - J7079e663b3f966b7
+    - Jf90904d3bbcac5d7
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 9 specifies minimum qualification and experience requirements for key personnel, mandating a
     Project Manager (BE/B.Tech Civil with 10 years experience and 3 years in similar works) and a Chief Safety and
     Health Manager (Engineering graduate/MSc Safety with 8 years total experience and 5 years in infrastructure
     projects).
   evidence_ids:
-  - Je29647f69b1560f9
-  - S3354f1a7fdda9a5d
+  - J6193eee117f064cf
+  - S4c359f6466c94d23
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2a1015678ad50ead
+  id: Cb2fb70666ebc8d0e
   citations:
-  - id: Je29647f69b1560f9
+  - id: J6193eee117f064cf
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -624,9 +670,9 @@ claims:
       \ ……………………………… \\nCapacity of signatory: …………………………… \\nName and address of Tenderer:………………..\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S3354f1a7fdda9a5d
+  - id: S4c359f6466c94d23
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Attachment-9 — Minimum Qualification and Experience Required for Key Personnel
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -640,21 +686,32 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:21:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2a1015678ad50ead
+    previous_evidence_ids:
+    - Je29647f69b1560f9
+    - S3354f1a7fdda9a5d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Technical Volume 1 Section D defines the Letter of Technical Bid and its accompanying numbered attachments,
     detailing declarations, undertakings, and qualification information required from tenderers.
   evidence_ids:
-  - J35c09e1fb40d1a04
-  - J92b9df54ae44bed3
+  - Jc171dfd2fde16242
+  - Jec0eed86126fc415
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Caa3e3694267ffcd2
+  id: C7dae76cfed8b19d1
   citations:
-  - id: J35c09e1fb40d1a04
+  - id: Jc171dfd2fde16242
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -824,9 +881,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J92b9df54ae44bed3
+  - id: Jec0eed86126fc415
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -874,28 +931,39 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:22:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Caa3e3694267ffcd2
+    previous_evidence_ids:
+    - J35c09e1fb40d1a04
+    - J92b9df54ae44bed3
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Several prescribed attachments in Section D are explicitly marked as DELETED in the tender documents, including
     Attachment 2, Attachment 3, Attachment 3A, Attachment 3B, Attachment 13A, and Attachment 15.
   evidence_ids:
-  - J0a2b34fa4fe5f8a8
-  - J117384e47a4b1ce3
-  - J35c09e1fb40d1a04
-  - J51d4e5c747f31e55
-  - Jaaf3958372f3a0c4
-  - S0666433de075e064
-  - S1d04461034115d93
-  - S48dba20895e4d61c
-  - S979178ba808e17a2
+  - J193c4006685ff096
+  - J15000332439c7274
+  - Jc171dfd2fde16242
+  - Jd527ea7071fd41e0
+  - J933264853ae108dc
+  - Sed7063d61763f3a8
+  - S5e756978b681698a
+  - S08ba495bcb136c9b
+  - Sab7f93053c4ed260
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd672bb4cbd57c0a6
+  id: Cbc43d0842939a66c
   citations:
-  - id: J0a2b34fa4fe5f8a8
+  - id: J193c4006685ff096
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -913,9 +981,9 @@ claims:
       ,\n  \"source_marking\": \"marked_deleted\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J117384e47a4b1ce3
+  - id: J15000332439c7274
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -933,9 +1001,9 @@ claims:
       pending_manual_review\",\n  \"source_marking\": \"marked_deleted\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J35c09e1fb40d1a04
+  - id: Jc171dfd2fde16242
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1105,9 +1173,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J51d4e5c747f31e55
+  - id: Jd527ea7071fd41e0
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1125,9 +1193,9 @@ claims:
       \ \"pending_manual_review\",\n  \"source_marking\": \"marked_deleted\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jaaf3958372f3a0c4
+  - id: J933264853ae108dc
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1145,9 +1213,9 @@ claims:
       pending_manual_review\",\n  \"source_marking\": \"marked_deleted\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S0666433de075e064
+  - id: Sed7063d61763f3a8
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Attachment-3 — Proforma Letter of Declaration regarding Eligibility under EQC Clause 2.10 (Deleted)
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -1155,9 +1223,9 @@ claims:
     quote: '- **Deleted Attachment** (EQC Clause 2.10)'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: S1d04461034115d93
+  - id: S5e756978b681698a
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Attachment-3B — Undertaking regarding Eligibility under EQC Clause 2.10 in Case of Transfer of Technology
       (Deleted)
     source_document: Vol1DLNP1.pdf
@@ -1166,9 +1234,9 @@ claims:
     quote: '- **Deleted Attachment** (EQC Clause 2.10)'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: S48dba20895e4d61c
+  - id: S08ba495bcb136c9b
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Attachment-3A — Undertaking regarding Eligibility under EQC Clause 2.10 in Case of Sub-Contracting
       (Deleted)
     source_document: Vol1DLNP1.pdf
@@ -1177,9 +1245,9 @@ claims:
     quote: '- **Deleted Attachment** (EQC Clause 2.10)'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: S979178ba808e17a2
+  - id: Sab7f93053c4ed260
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Attachment-2 — Proforma Letter of Declaration for Class-I Local Supplier (Deleted)
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -1189,22 +1257,40 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:22:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd672bb4cbd57c0a6
+    previous_evidence_ids:
+    - J0a2b34fa4fe5f8a8
+    - J117384e47a4b1ce3
+    - J35c09e1fb40d1a04
+    - J51d4e5c747f31e55
+    - Jaaf3958372f3a0c4
+    - S0666433de075e064
+    - S1d04461034115d93
+    - S48dba20895e4d61c
+    - S979178ba808e17a2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 1 (Proforma Letter of Declaration and Undertaking) requires tenderers to confirm site familiarity,
     confidentiality, deployment of key personnel and plant, compliance with local content and land-border restrictions,
     and acceptance of governing laws and jurisdiction.
   evidence_ids:
-  - J94f28f7a35bde32e
-  - S3ad3b5d0cc707166
+  - J5c976257a751a5b5
+  - Sda3a7df2e4a88b71
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd040ed75e69b4102
+  id: Cbf100c6db31bf8f0
   citations:
-  - id: J94f28f7a35bde32e
+  - id: J5c976257a751a5b5
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1286,9 +1372,9 @@ claims:
       not_marked_deleted\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S3ad3b5d0cc707166
+  - id: Sda3a7df2e4a88b71
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Attachment-1 — Proforma Letter of Declaration and Undertaking
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -1333,21 +1419,32 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:22:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd040ed75e69b4102
+    previous_evidence_ids:
+    - J94f28f7a35bde32e
+    - S3ad3b5d0cc707166
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 1A mandates that tenderers willing to undertake multiple contracts specify concurrent tender
     numbers, acknowledging a maximum award limit of two contracts and committing to separate teams and equipment.
   evidence_ids:
-  - Jc8e3c220abf05a5f
-  - S923afd7933dcab85
+  - J751178be4c6772ef
+  - Sd89a0d641b65287f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7700ff82ba83a1ad
+  id: Cc0fc57fff09cea14
   citations:
-  - id: Jc8e3c220abf05a5f
+  - id: J751178be4c6772ef
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1389,9 +1486,9 @@ claims:
       : \"not_marked_deleted\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S923afd7933dcab85
+  - id: Sd89a0d641b65287f
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Attachment-1A — Undertaking for Execution of Multiple Works Contracts
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -1413,20 +1510,31 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:22:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7700ff82ba83a1ad
+    previous_evidence_ids:
+    - Jc8e3c220abf05a5f
+    - S923afd7933dcab85
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 6 provides inflation multiplying factors for updating completed similar nature work values ranging
     from 1.41 for financial year 2019-20 down to 1.00 for 2026-27.
   evidence_ids:
-  - J597cfa2e0f29dcc4
+  - J34b4b7bf51ba8292
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C887577ab77deedc1
+  id: C6ee441611721019a
   citations:
-  - id: J597cfa2e0f29dcc4
+  - id: J34b4b7bf51ba8292
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1465,20 +1573,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:22:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C887577ab77deedc1
+    previous_evidence_ids:
+    - J597cfa2e0f29dcc4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 7 requires tenderers to list works in hand and ongoing commitments, updating balance work values
     using Attachment 6 inflation factors and RBI selling exchange rates for foreign currency.
   evidence_ids:
-  - Je606f4abfd140f5b
+  - J5de91da9958e7caa
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7c61e12016145b44
+  id: Ca48c2f02965f5dff
   citations:
-  - id: Je606f4abfd140f5b
+  - id: J5de91da9958e7caa
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1520,21 +1638,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:22:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7c61e12016145b44
+    previous_evidence_ids:
+    - Je606f4abfd140f5b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Technical Volume 1 Section D enumerates the required and deleted attachments accompanying the Letter of
     Technical Bid, including administrative forms, qualification proofs, financial statements, and technical submittals.
   evidence_ids:
-  - J35c09e1fb40d1a04
-  - J54cce335d71fa4b6
+  - Jc171dfd2fde16242
+  - Jfed33bac8eef4d1e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5d37a829d0f3c257
+  id: C78fff96c5124e02a
   citations:
-  - id: J35c09e1fb40d1a04
+  - id: Jc171dfd2fde16242
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1704,9 +1832,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J54cce335d71fa4b6
+  - id: Jfed33bac8eef4d1e
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1741,21 +1869,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:23:31+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5d37a829d0f3c257
+    previous_evidence_ids:
+    - J35c09e1fb40d1a04
+    - J54cce335d71fa4b6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Key personnel requirements under Attachment 9 specify a Project Manager with a Civil Engineering degree
     and 10 years experience, and a Chief Safety and Health Manager with an Engineering degree or MSc in Safety and
     8 years total experience.
   evidence_ids:
-  - J8823895f23a432b8
+  - J89e93b08657e95f5
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C587059192003b5b4
+  id: C21c900b9022194fb
   citations:
-  - id: J8823895f23a432b8
+  - id: J89e93b08657e95f5
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1787,21 +1926,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:23:31+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C587059192003b5b4
+    previous_evidence_ids:
+    - J8823895f23a432b8
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 10 mandates minimum plants and equipment to be deployed, including diamond disc cutters, wall
     sawing machines, electric drill motors, floor saws, chipping machines, crushers, hydraulic mobile cranes, long
     reach demolition equipment, rock breakers, and DG sets.
   evidence_ids:
-  - J6dbae519490f54d4
+  - Jc52bd73cc382c668
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C25c7746d9c6f6647
+  id: C40477eca771ef93c
   citations:
-  - id: J6dbae519490f54d4
+  - id: Jc52bd73cc382c668
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1839,22 +1988,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:23:31+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C25c7746d9c6f6647
+    previous_evidence_ids:
+    - J6dbae519490f54d4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 12 and Attachment 12A provide the prescribed formats for Bank Guarantees for Tender Security
     (EMD) and Surety Bonds for Bid Security, specifying BMRCL's bank beneficiary details at the Bank of India Cantonment
     Branch.
   evidence_ids:
-  - Jf726bdabdb3daf46
-  - Jc151e2e978f9a199
+  - J8ddd6b441dad173f
+  - J5c3cfb9a93c39d5c
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C220cb13a514fbaf2
+  id: C8341709b363d2011
   citations:
-  - id: Jf726bdabdb3daf46
+  - id: J8ddd6b441dad173f
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1944,9 +2103,9 @@ claims:
       ,\n  \"review_status\": \"pending_manual_review\",\n  \"source_marking\": \"not_marked_deleted\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jc151e2e978f9a199
+  - id: J5c3cfb9a93c39d5c
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2063,21 +2222,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:23:31+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C220cb13a514fbaf2
+    previous_evidence_ids:
+    - Jf726bdabdb3daf46
+    - Jc151e2e978f9a199
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Tenderers are required under Attachment 7 to report on their current commitments, awarded contracts, letters
     of intent or acceptance received, and contracts approaching completion for which completion certificates are
     still pending.
   evidence_ids:
-  - J3a1588c3042057c9
+  - J90511d5dd1d265d3
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9a961e41e49523c7
+  id: C154ffd52f9eae124
   citations:
-  - id: J3a1588c3042057c9
+  - id: J90511d5dd1d265d3
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2098,20 +2268,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T10:40:40+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9a961e41e49523c7
+    previous_evidence_ids:
+    - J3a1588c3042057c9
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Attachment 8 mandates the submission of annual financial statements, including audited balance sheets with
     related notes and income statements, covering the last five financial years from 2021-22 to 2025-26.
   evidence_ids:
-  - J53dbfdb2f9542fe9
+  - Jd1f40c4a37d076ff
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C40d80b29a65c9249
+  id: C28ad2a4cc18edc20
   citations:
-  - id: J53dbfdb2f9542fe9
+  - id: Jd1f40c4a37d076ff
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2131,21 +2311,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T10:40:40+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C40d80b29a65c9249
+    previous_evidence_ids:
+    - J53dbfdb2f9542fe9
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Attachment 9 establishes the minimum qualification and experience requirements for key personnel deployed
     on the works, specifying mandatory credentials and post-qualification experience for the Project Manager and
     Chief Safety and Health Manager.
   evidence_ids:
-  - Je29647f69b1560f9
+  - J6193eee117f064cf
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7c6099a190cfceda
+  id: Ce0be8e682542ac6c
   citations:
-  - id: Je29647f69b1560f9
+  - id: J6193eee117f064cf
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2174,21 +2364,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T10:40:40+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7c6099a190cfceda
+    previous_evidence_ids:
+    - Je29647f69b1560f9
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Key personnel requirements under Attachment 9 specify a Project Manager holding a BE or B.Tech in Civil
     Engineering with 10 years of post-qualification experience, including 3 years as a Project Manager or equivalent
     in similar nature works, with a minimum required quantity of 1.
   evidence_ids:
-  - Je29647f69b1560f9
+  - J6193eee117f064cf
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9f47459dbc53e17c
+  id: C0ede4c6dcfcc2383
   citations:
-  - id: Je29647f69b1560f9
+  - id: J6193eee117f064cf
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2217,22 +2417,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T10:40:40+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9f47459dbc53e17c
+    previous_evidence_ids:
+    - Je29647f69b1560f9
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Key personnel requirements under Attachment 9 specify a Chief Safety and Health Manager holding an Engineering
     degree or an MSc in Safety from a recognized university with 8 years of total post-qualification experience,
     including 5 years as a Chief Safety and Health Manager or equivalent in infrastructure projects, with a minimum
     required quantity of 1.
   evidence_ids:
-  - Je29647f69b1560f9
+  - J6193eee117f064cf
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc4943bc350d46c2f
+  id: C095d3e2d60b702c2
   citations:
-  - id: Je29647f69b1560f9
+  - id: J6193eee117f064cf
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2261,21 +2471,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T10:40:40+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc4943bc350d46c2f
+    previous_evidence_ids:
+    - Je29647f69b1560f9
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Attachment 4 sets out the standard Tenderer's Information form, requiring legal name, address, date of incorporation,
     authorized representative details, bank details including account number, IFSC code, PAN, GST registration number,
     copy of cancelled cheque, and articles of incorporation or constitution.
   evidence_ids:
-  - Jccd4f83626ee3522
+  - J47803f159cd34cbe
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C647d329e17c6c859
+  id: C5eb716d1bfc8bc2b
   citations:
-  - id: Jccd4f83626ee3522
+  - id: J47803f159cd34cbe
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2306,22 +2526,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T11:07:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C647d329e17c6c859
+    previous_evidence_ids:
+    - Jccd4f83626ee3522
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Attachment 4A captures tender fee payment details (mode, amount in INR, payment reference number, payment
     date, bank name, branch name) and tender security details (security type such as physical/e-BG, insurance surety
     bond, DD, banker's cheque, NEFT, or RTGS, amount in INR, reference number, issue date, bank/insurance company
     name, and branch).
   evidence_ids:
-  - Jc406c2ac17ba1818
+  - Jc96079177f5d2107
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cdbc195c5766b213c
+  id: C5c3d9d98780b553e
   citations:
-  - id: Jc406c2ac17ba1818
+  - id: Jc96079177f5d2107
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2351,6 +2581,16 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T11:07:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cdbc195c5766b213c
+    previous_evidence_ids:
+    - Jc406c2ac17ba1818
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Attachment 5 requires a separate form for each similar work, with the relevant client certificate enclosed.
     The template asks whether the work was carried out as prime contractor acting as a single entity or JV/consortium
@@ -2359,16 +2599,16 @@ claims:
     before tender invitation; and updated completed-contract value excluding GST using Attachment 6 inflation factors.
     These are requested particulars, not completed bidder entries.
   evidence_ids:
-  - Jd2d184711db13a7f
+  - Je41aff26c3939660
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4d7812a27646a4bf
+  id: Ce25407d3efbcf92b
   citations:
-  - id: Jd2d184711db13a7f
+  - id: Je41aff26c3939660
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2414,23 +2654,32 @@ claims:
       extension status, contract value at award, completed contract value, and updated value using inflation factors.
     corrected_at: '2026-11-01T11:37:33+00:00'
     method: source-backed draft review after six supplementary passes
+  - previous_claim_id: C4d7812a27646a4bf
+    previous_evidence_ids:
+    - Jd2d184711db13a7f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T11:37:33+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Attachment 9A prescribes the curriculum vitae (CV) format for proposed key professional staff, capturing
     proposed position, firm name, staff name, profession, date of birth, years with firm, nationality, professional
     memberships, detailed assigned tasks, key qualifications, education, employment record with reverse chronological
     periods and client references, language proficiency, and certification signed by staff and authorized representative.
   evidence_ids:
-  - J427fda3fc68c546c
+  - J33bd11c9449ba491
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C0e8cd760111ddc34
+  id: C44ef07a0b651c86f
   citations:
-  - id: J427fda3fc68c546c
+  - id: J33bd11c9449ba491
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2468,6 +2717,16 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T11:07:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C0e8cd760111ddc34
+    previous_evidence_ids:
+    - J427fda3fc68c546c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Attachment 11 is the Power of Attorney template for bidding, referring to ITT 14.1. It specifies non-judicial
     stamp paper of appropriate value in accordance with the stamp act if in India, or an equivalent document duly
@@ -2476,16 +2735,16 @@ claims:
     procedures and supporting authority documents where required; the template does not appoint that employee to
     represent BMRCL.
   evidence_ids:
-  - Jccd2341b74f6e498
+  - Ja2988f77bed9ddeb
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf67418a032fdb36b
+  id: Ca86acced96aeff52
   citations:
-  - id: Jccd2341b74f6e498
+  - id: Ja2988f77bed9ddeb
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2536,19 +2795,28 @@ claims:
       meetings, and represent BMRCL tender matters.
     corrected_at: '2026-11-01T11:37:33+00:00'
     method: source-backed draft review after six supplementary passes
+  - previous_claim_id: Cf67418a032fdb36b
+    previous_evidence_ids:
+    - Jccd2341b74f6e498
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T11:37:33+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: concepts/bid_authority_and_submission_evidence.md
   title: Bid Authority and Submission Evidence
   evidence_ids:
-  - Jccd2341b74f6e498
+  - Ja2988f77bed9ddeb
 - relation_type: relates_to
   target: concepts/personnel_and_plant_readiness.md
   title: Personnel Qualifications and Plant Readiness
   evidence_ids:
-  - J6dbae519490f54d4
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - Jc52bd73cc382c668
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Letter of Technical Bid Attachments Overview
@@ -2558,101 +2826,101 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - Technical Volume 1 Section D specifies the required attachments to the Letter of Technical Bid, including work experience summaries, ongoing works commitments, financial turnover, key personnel qualifications, plant and equipment, and administrative forms.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 65; quotation `J54cce335d71fa4b6`. JSON: `parsed_json/vol1/section_d_technical_bid/submission_checklist.json#/full_form_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 65; quotation `Jfed33bac8eef4d1e`. JSON: `parsed_json/vol1/section_d_technical_bid/submission_checklist.json#/full_form_context/0`.
 
 - Technical Volume 1 Section D defines the Letter of Technical Bid and its accompanying numbered attachments, detailing declarations, undertakings, and qualification information required from tenderers.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 37; quotation `J35c09e1fb40d1a04`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/contents_page`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 38; quotation `J92b9df54ae44bed3`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 37; quotation `Jc171dfd2fde16242`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/contents_page`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 38; quotation `Jec0eed86126fc415`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/0`.
 
 - Several prescribed attachments in Section D are explicitly marked as DELETED in the tender documents, including Attachment 2, Attachment 3, Attachment 3A, Attachment 3B, Attachment 13A, and Attachment 15.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 42; quotation `J0a2b34fa4fe5f8a8`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 42; quotation `J117384e47a4b1ce3`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 37; quotation `J35c09e1fb40d1a04`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/contents_page`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 42; quotation `J51d4e5c747f31e55`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 42; quotation `Jaaf3958372f3a0c4`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-3 — Proforma Letter of Declaration regarding Eligibility under EQC Clause 2.10 (Deleted)|Attachment-3 — Proforma Letter of Declaration regarding Eligibility under EQC Clause 2.10 (Deleted)]]; `Vol1DLNP1.pdf`; PDF page(s) 42; quotation `S0666433de075e064`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-3B — Undertaking regarding Eligibility under EQC Clause 2.10 in Case of Transfer of Technology (Deleted)|Attachment-3B — Undertaking regarding Eligibility under EQC Clause 2.10 in Case of Transfer of Technology (Deleted)]]; `Vol1DLNP1.pdf`; PDF page(s) 42; quotation `S1d04461034115d93`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-3A — Undertaking regarding Eligibility under EQC Clause 2.10 in Case of Sub-Contracting (Deleted)|Attachment-3A — Undertaking regarding Eligibility under EQC Clause 2.10 in Case of Sub-Contracting (Deleted)]]; `Vol1DLNP1.pdf`; PDF page(s) 42; quotation `S48dba20895e4d61c`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-2 — Proforma Letter of Declaration for Class-I Local Supplier (Deleted)|Attachment-2 — Proforma Letter of Declaration for Class-I Local Supplier (Deleted)]]; `Vol1DLNP1.pdf`; PDF page(s) 42; quotation `S979178ba808e17a2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 42; quotation `J193c4006685ff096`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 42; quotation `J15000332439c7274`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 37; quotation `Jc171dfd2fde16242`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/contents_page`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 42; quotation `Jd527ea7071fd41e0`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 42; quotation `J933264853ae108dc`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-3 — Proforma Letter of Declaration regarding Eligibility under EQC Clause 2.10 (Deleted)|Attachment-3 — Proforma Letter of Declaration regarding Eligibility under EQC Clause 2.10 (Deleted)]]; `Vol1DLNP1.pdf`; PDF page(s) 42; quotation `Sed7063d61763f3a8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-3B — Undertaking regarding Eligibility under EQC Clause 2.10 in Case of Transfer of Technology (Deleted)|Attachment-3B — Undertaking regarding Eligibility under EQC Clause 2.10 in Case of Transfer of Technology (Deleted)]]; `Vol1DLNP1.pdf`; PDF page(s) 42; quotation `S5e756978b681698a`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-3A — Undertaking regarding Eligibility under EQC Clause 2.10 in Case of Sub-Contracting (Deleted)|Attachment-3A — Undertaking regarding Eligibility under EQC Clause 2.10 in Case of Sub-Contracting (Deleted)]]; `Vol1DLNP1.pdf`; PDF page(s) 42; quotation `S08ba495bcb136c9b`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-2 — Proforma Letter of Declaration for Class-I Local Supplier (Deleted)|Attachment-2 — Proforma Letter of Declaration for Class-I Local Supplier (Deleted)]]; `Vol1DLNP1.pdf`; PDF page(s) 42; quotation `Sab7f93053c4ed260`.
 
 - Technical Volume 1 Section D enumerates the required and deleted attachments accompanying the Letter of Technical Bid, including administrative forms, qualification proofs, financial statements, and technical submittals.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 37; quotation `J35c09e1fb40d1a04`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/contents_page`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 65; quotation `J54cce335d71fa4b6`. JSON: `parsed_json/vol1/section_d_technical_bid/submission_checklist.json#/full_form_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 37; quotation `Jc171dfd2fde16242`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/contents_page`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 65; quotation `Jfed33bac8eef4d1e`. JSON: `parsed_json/vol1/section_d_technical_bid/submission_checklist.json#/full_form_context/0`.
 
 - Tenderers are required under Attachment 7 to report on their current commitments, awarded contracts, letters of intent or acceptance received, and contracts approaching completion for which completion certificates are still pending.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47; quotation `J3a1588c3042057c9`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json#/notes/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47; quotation `J90511d5dd1d265d3`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json#/notes/1`.
 
 - Attachment 8 mandates the submission of annual financial statements, including audited balance sheets with related notes and income statements, covering the last five financial years from 2021-22 to 2025-26.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 49; quotation `J53dbfdb2f9542fe9`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json#/notes/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 49; quotation `Jd1f40c4a37d076ff`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json#/notes/0`.
 
 - Attachment 9 establishes the minimum qualification and experience requirements for key personnel deployed on the works, specifying mandatory credentials and post-qualification experience for the Project Manager and Chief Safety and Health Manager.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `Je29647f69b1560f9`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/full_form_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `J6193eee117f064cf`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/full_form_context/0`.
 
 - Attachment 4 sets out the standard Tenderer's Information form, requiring legal name, address, date of incorporation, authorized representative details, bank details including account number, IFSC code, PAN, GST registration number, copy of cancelled cheque, and articles of incorporation or constitution.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 43; quotation `Jccd4f83626ee3522`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 43; quotation `J47803f159cd34cbe`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/7`.
 
 - Attachment 5 requires a separate form for each similar work, with the relevant client certificate enclosed. The template asks whether the work was carried out as prime contractor acting as a single entity or JV/consortium member, including percentage participation; project, client, commencement/completion and extension details; award value and completed/substantially completed contract value excluding GST as at the last day of the month before tender invitation; and updated completed-contract value excluding GST using Attachment 6 inflation factors. These are requested particulars, not completed bidder entries.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 45; quotation `Jd2d184711db13a7f`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 45; quotation `Je41aff26c3939660`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/9`.
 
 - Attachment 9A prescribes the curriculum vitae (CV) format for proposed key professional staff, capturing proposed position, firm name, staff name, profession, date of birth, years with firm, nationality, professional memberships, detailed assigned tasks, key qualifications, education, employment record with reverse chronological periods and client references, language proficiency, and certification signed by staff and authorized representative.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 51; quotation `J427fda3fc68c546c`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 51; quotation `J33bd11c9449ba491`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/14`.
 
 - Attachment 11 is the Power of Attorney template for bidding, referring to ITT 14.1. It specifies non-judicial stamp paper of appropriate value in accordance with the stamp act if in India, or an equivalent document duly attested by a notary public. The tenderer authorizes its named employee to act on the tenderer’s behalf in bid signing, submission, meetings and dealings with BMRCL. The execution notes refer to applicable law, charter procedures and supporting authority documents where required; the template does not appoint that employee to represent BMRCL.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 53; quotation `Jccd2341b74f6e498`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 53; quotation `Ja2988f77bed9ddeb`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/16`.
 
 ## Key Parameters and Source Statements
 
 - Attachment 6 summarizes completed similar nature work experience, requiring inflation adjustment multiplying factors ranging from 1.41 for 2019-20 to 1.00 for 2026-27.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 46; quotation `J5c929fc9bf95447d`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_6_tables.json#/full_form_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 46; quotation `Jcab66de298f61ed3`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_6_tables.json#/full_form_context/0`.
 
 - Attachment 7 requires declaration of works in hand and ongoing commitments, updating balance work values using the inflation multiplying factors from Attachment 6 and RBI selling exchange rates for foreign currencies.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47; quotation `Jd1639b1b20d352de`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json#/notes/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47; quotation `Jabd326ab473eee42`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json#/notes/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47; quotation `Jdfcb22f4e62f06f2`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json#/full_form_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47; quotation `Jd19c11cf170c883c`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json#/notes/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47; quotation `J1ac9eff308b27d8d`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json#/notes/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47; quotation `Ja4b74630f796bd08`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_7_tables.json#/full_form_context/0`.
 
 - Attachment 8 provides the updated annual turnover form for the last five financial years (2021-22 to 2025-26) with inflation multiplying factors (1.28 down to 1.05) and mandates independent auditor or Chartered Accountant certification with UDIN.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 49; quotation `J3943be676fd237d8`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json#/full_form_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 49; quotation `J4db2f01952f28e7a`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json#/notes/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 49; quotation `J511ce07d1038afad`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json#/notes/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 49; quotation `J7079e663b3f966b7`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json#/notes/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 49; quotation `Jf90904d3bbcac5d7`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json#/notes/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 49; quotation `J5493108a924abd5e`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json#/full_form_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 49; quotation `J4a01dccafb2958bf`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json#/notes/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 49; quotation `J5cb244cced01917e`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json#/notes/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 49; quotation `Jd86ee3a29e4d6113`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json#/notes/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 49; quotation `Je4b79b670def10a5`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_8_tables.json#/notes/4`.
 
 - Attachment 9 specifies minimum qualification and experience requirements for key personnel, mandating a Project Manager (BE/B.Tech Civil with 10 years experience and 3 years in similar works) and a Chief Safety and Health Manager (Engineering graduate/MSc Safety with 8 years total experience and 5 years in infrastructure projects).
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `Je29647f69b1560f9`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/full_form_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-9 — Minimum Qualification and Experience Required for Key Personnel|Attachment-9 — Minimum Qualification and Experience Required for Key Personnel]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `S3354f1a7fdda9a5d`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `J6193eee117f064cf`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/full_form_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-9 — Minimum Qualification and Experience Required for Key Personnel|Attachment-9 — Minimum Qualification and Experience Required for Key Personnel]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `S4c359f6466c94d23`.
 
 - Attachment 1 (Proforma Letter of Declaration and Undertaking) requires tenderers to confirm site familiarity, confidentiality, deployment of key personnel and plant, compliance with local content and land-border restrictions, and acceptance of governing laws and jurisdiction.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 39, 40; quotation `J94f28f7a35bde32e`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-1 — Proforma Letter of Declaration and Undertaking|Attachment-1 — Proforma Letter of Declaration and Undertaking]]; `Vol1DLNP1.pdf`; PDF page(s) 39, 40; quotation `S3ad3b5d0cc707166`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 39, 40; quotation `J5c976257a751a5b5`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-1 — Proforma Letter of Declaration and Undertaking|Attachment-1 — Proforma Letter of Declaration and Undertaking]]; `Vol1DLNP1.pdf`; PDF page(s) 39, 40; quotation `Sda3a7df2e4a88b71`.
 
 - Attachment 1A mandates that tenderers willing to undertake multiple contracts specify concurrent tender numbers, acknowledging a maximum award limit of two contracts and committing to separate teams and equipment.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 41; quotation `Jc8e3c220abf05a5f`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-1A — Undertaking for Execution of Multiple Works Contracts|Attachment-1A — Undertaking for Execution of Multiple Works Contracts]]; `Vol1DLNP1.pdf`; PDF page(s) 41; quotation `S923afd7933dcab85`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 41; quotation `J751178be4c6772ef`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-1A — Undertaking for Execution of Multiple Works Contracts|Attachment-1A — Undertaking for Execution of Multiple Works Contracts]]; `Vol1DLNP1.pdf`; PDF page(s) 41; quotation `Sd89a0d641b65287f`.
 
 - Attachment 6 provides inflation multiplying factors for updating completed similar nature work values ranging from 1.41 for financial year 2019-20 down to 1.00 for 2026-27.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 46; quotation `J597cfa2e0f29dcc4`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 46; quotation `J34b4b7bf51ba8292`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/10`.
 
 - Attachment 7 requires tenderers to list works in hand and ongoing commitments, updating balance work values using Attachment 6 inflation factors and RBI selling exchange rates for foreign currency.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47, 48; quotation `Je606f4abfd140f5b`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 47, 48; quotation `J5de91da9958e7caa`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/11`.
 
 - Key personnel requirements under Attachment 9 specify a Project Manager with a Civil Engineering degree and 10 years experience, and a Chief Safety and Health Manager with an Engineering degree or MSc in Safety and 8 years total experience.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `J8823895f23a432b8`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `J89e93b08657e95f5`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/13`.
 
 - Attachment 10 mandates minimum plants and equipment to be deployed, including diamond disc cutters, wall sawing machines, electric drill motors, floor saws, chipping machines, crushers, hydraulic mobile cranes, long reach demolition equipment, rock breakers, and DG sets.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `J6dbae519490f54d4`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `Jc52bd73cc382c668`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/15`.
 
 - Attachment 12 and Attachment 12A provide the prescribed formats for Bank Guarantees for Tender Security (EMD) and Surety Bonds for Bid Security, specifying BMRCL's bank beneficiary details at the Bank of India Cantonment Branch.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 54, 55; quotation `Jf726bdabdb3daf46`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/17`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 56, 57; quotation `Jc151e2e978f9a199`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/18`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 54, 55; quotation `J8ddd6b441dad173f`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/17`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 56, 57; quotation `J5c3cfb9a93c39d5c`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/18`.
 
 - Key personnel requirements under Attachment 9 specify a Project Manager holding a BE or B.Tech in Civil Engineering with 10 years of post-qualification experience, including 3 years as a Project Manager or equivalent in similar nature works, with a minimum required quantity of 1.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `Je29647f69b1560f9`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/full_form_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `J6193eee117f064cf`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/full_form_context/0`.
 
 - Key personnel requirements under Attachment 9 specify a Chief Safety and Health Manager holding an Engineering degree or an MSc in Safety from a recognized university with 8 years of total post-qualification experience, including 5 years as a Chief Safety and Health Manager or equivalent in infrastructure projects, with a minimum required quantity of 1.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `Je29647f69b1560f9`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/full_form_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 50; quotation `J6193eee117f064cf`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_9_tables.json#/full_form_context/0`.
 
 - Attachment 4A captures tender fee payment details (mode, amount in INR, payment reference number, payment date, bank name, branch name) and tender security details (security type such as physical/e-BG, insurance surety bond, DD, banker's cheque, NEFT, or RTGS, amount in INR, reference number, issue date, bank/insurance company name, and branch).
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 44; quotation `Jc406c2ac17ba1818`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 44; quotation `Jc96079177f5d2107`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/8`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
@@ -2667,9 +2935,9 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Typed Relations
 
 - **relates_to (editorial, inferred):** [[wiki/concepts/bid_authority_and_submission_evidence|Bid Authority and Submission Evidence]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 53; `Jccd2341b74f6e498`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 53; `Ja2988f77bed9ddeb`.
 - **relates_to (editorial, inferred):** [[wiki/concepts/personnel_and_plant_readiness|Personnel Qualifications and Plant Readiness]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; `J6dbae519490f54d4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; `Jc52bd73cc382c668`.
 
 ## Open Questions and Contradictions
 
@@ -2678,7 +2946,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### J54cce335d71fa4b6
+### Jfed33bac8eef4d1e
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -2687,7 +2955,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "CHECK LIST FOR SUBMISSION OF IMPORTANT INFORMATION (NOT EXHAUSTIVE)\n\n\n\n          Sl.\n                                        Submission Requirement\n        No.\n\n        1    Letter of Technical Bid\n\n        2   Proforma Letter of Declaration and Undertaking (Attachment -1)\n\n        3    Undertaking for Execution of Multiple Works Contracts (Attachment -1A)\n\n        4    Tenderer’s Information (Attachment -4)\n\n        5   Tender Fee and Tender Security Details (Attachment-4A)\n\n        6   Works of Similar Nature (Attachment -5)\n\n        7   Summary of Information provided in Attachment - 5 (Attachment -6)\n\n        8   Works In Hand (Attachment -7)\n\n        9    Financial Information - Updated Annual Turnover (Attachment -8)\n\n        10  Minimum Qualification and Experience Required for Key personnel to be deployed for the work\n             (Attachment -9)\n\n        11  Format of curriculum vitae (CV) for proposed Key personnel (Attachment -9A)\n\n        12  Minimum Plants & Equipment for the Work (Attachment -10)\n\n        13  Format for Power of Attorney for Bidding (Attachment -11)\n\n        14  Form of Bank Guarantee for Tender Security (EMD)\n\n               (Attachment -12) or Surety Bond for Bid Security (Attachment-12A)\n\n        15  Form of Banker’s Certificate for Liquidity (Attachment -13)\n\n        16   Tenderer’s Brief of Technical Details (Attachment -14)\n\n        17  Statement of Integrity, Eligibility and Social and Environmental Responsibility (Attachment -16)\n\n\n   Signature of the Tenderer: ......................................................................................\n\n  Name & Designation of Authorized signature: ........................................................\n\n   Place, date and seal/stamp of the tenderer: ..........................................................."
 > }
 
-### J5c929fc9bf95447d
+### Jcab66de298f61ed3
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -2696,7 +2964,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "ATTACHMENT -6 \nSummary of Information provided in ATTACHMENT -5 \n(To be submitted by tenderer) \nSl \nNo \nName \nof the \nWork \nName \nof \nthe \nEmployer \n/client \nWork executed \nas \na \nPrime \nContractor \n(single entity or \nMember \nof \na \nJV)  \nPercentage of \nParticipation \nin Case of JV/ \nconsortium for \nthat work \nDate \nof \ncommence\nment \nof  \nwork \nOriginal \nDate \nof \ncompletion \nof work \nFinal date of \ncompletion \nof work  \nContract \nValue \n(at \nthe \ntime \nof \naward)  \nComplet\ned \ncontract \nvalue  in \nINR \nUpdated \nValue \nof \ncompleted \ncontract in \nEquivalent \nINR  \nValue \nof \nSubstantially \ncompleted \ncontract \nin \nEquivalent \nINR \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nNotes: \n \n1. Value of completed Similar Nature Work(s) executed shall be updated to the price level of the financial year in which the tenders are invited as per table \ngiven below: \nFinancial year \n2019-20 \n2020-21 \n2021-2022 \n2022-2023 \n2023-2024 \n2024-2025 \n2025-2026 \n2026-2027 \nIndian Currency \n1.41 \n1.34 \n1.28 \n1.22 \n1.16 \n1.10 \n1.05 \n1.00 \n \n2. Value of completed/ substantially completed Similar Nature Work(s) in foreign currency shall be converted to Equivalent INR by adopting Exchange rate \nbetween the foreign currency and INR as prevailing on the date of completion / date given in the substantial completion certificate as applicable, as per the \nwebsite of Reserve Bank of India (RBI). \n \n3. In case the work of Similar Nature is executed by the Joint venture, the value of Similar Nature of work executed shall be considered as per percentage \nparticipation by the member(s) in that Joint venture/consortium. \n \n(Signature) …………………… \nName of signatory: ……………………………… \nCapacity of signatory: …………………………… \nName and address of Tenderer: ………………."
 > }
 
-### Jd1639b1b20d352de
+### Jd19c11cf170c883c
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -2712,7 +2980,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Jabd326ab473eee42
+### J1ac9eff308b27d8d
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -2728,7 +2996,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Jdfcb22f4e62f06f2
+### Ja4b74630f796bd08
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -2737,7 +3005,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "ATTACHMENT -7 \n             Works in Hand \n            (To be submitted by tenderer) \nName \nand \ndescription \nof \ncontract and date of \naward \n \nName of client with \ntelephone number \n \nContract Value at the \ntime of Award (in INR) \nAnticipated \nCompletion Date \n \n *The updated value (**in INR) \nof \nthe \nbalance \nCivil \nEngineering  works remaining \nto be executed during the \ncompletion period specified in \nthe NIT of this tender, as on the \nlast day of the month previous \nto the month of invitation of \nthis tender  \n \n \n \n \n \n \n \n \n \n \nTotal \n \n \nNote:  \n1. * For calculation of Updated Balance work to the price level of the financial year in which this tender is invited, assume inflation as per multiplying Factors given in \nthe table under note 1 of Attachment-6. \n2. Tenderer should provide information on their current commitments or all contracts that have been awarded or for which a letter of intent or acceptance has been \nreceived or for contracts approaching completion but for which a completion certificate is yet to be issued. \n3. **Total Equivalent INR for balance work in foreign currency should be calculated using the selling exchange rate of Reserve Bank of India as on the last day of the \nmonth previous to the month of invitation of this tender. In case publication is not available on the above day, previous working day published exchange rate shall \nbe considered for evaluation. \n4. Works in Hand information must be certified either by the Independent Financial Auditor (statutory Auditor) of the company appointed under the Companies’ Act or \nby a Chartered Accountant with his stamp and signature in original with membership number and firm registration number."
 > }
 
-### J3943be676fd237d8
+### J5493108a924abd5e
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -2746,7 +3014,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "ATTACHMENT -8\n\n                           Financial Information - Updated Annual Turnover\n\n     (To be submitted duly signed by tenderer & his Chartered Accountant/ Independent Financial Auditor)\n\n                                    (To be submitted by tenderer)\n\n\n                 Sl.    Financial    Annual Turnover from    Multipl    Updated Annual\n          No     Year            all classes of civil       ying         Turnover\n                                    engineering          factor\n                               construction works only\n                                    INR                          INR\n                                                   (a)                  (b)             (a)x(b)\n             1    2021-2022                               1.28\n\n             2                  2022-2023                               1.22\n\n             3                  2023-2024                               1.16\n\n             4    2024-2025                               1.10\n             5    2025-2026                               1.05\n\n\n\nNote:\n         1.  Annual  financial statements (Audited Balance sheets including  all related notes and income\n           statements) for last five financial years (2021-22 to 2025-26) shall be submitted by the Tenderer.\n\n         2.  The financial information/Annual Turnover ( in all classes of civil engineering construction works\n             only) of the Tenderer must be certified either by the Independent Financial Auditor (statutory\n            Auditor) of the company appointed under the Companies’ Act or by a Chartered Accountant with his\n          stamp and signature with membership number and firm registration number.\n\n         3.  In case any discrepancy in data is found between the Audited Balance sheet and the financial\n            information/Annual Turnover (n all classes of civil engineering construction works only) submitted,\n            the data as available in the Audited Balance sheet will be considered.\n\n         4.  In case Audited Balance sheet of the last Financial Year ending with 2025-26 is not made available\n          by the Bidder, he must submit an affidavit certifying that 'The Balance Sheet has actually not been\n            audited so far'. In such a case the financial data of previous '4' audited Financial Years will be taken\n              into consideration for evaluation.\n\n         5.  To align a January–December financial year with the standard April–March fiscal year, use the\n             following conversion:\n\n        A calendar year (e.g., January–December 2023) corresponds to the subsequent fiscal year (e.g.,\n         FY 2023–24, covering  April 2023  to March 2024). Apply  this  rule  consistently  to  all such\n            conversions.\n\n         6.   All documents shall reflect the stand-alone financial status of the Tenderer and not the Tenderer’s\n            parent companies, subsidiaries, or affiliates.\n\n         7.   All the documents or certifications, which are provided by CA after 1st July, 2019, must contain\n         UDIN  thereon  and  the  particulars  of  certifications  must  be  same  as  mentioned  on\n            document/certification and submitted to ICAI on  its website which can be  verified online on\n             https://udin.icai.org/search-udin.\n\n\n\n  (Signature) ……………………                           (Signature & Seal) ……………………\n\n  Name of signatory: ………                     Name of signatory: …………………..\n\n  Capacity of signatory: …………………..                  (Chartered Accountant/ Independent Financial Auditor)\n\n  Name and address of Tenderer………..                 Address: ……….. UDIN:"
 > }
 
-### J4db2f01952f28e7a
+### J4a01dccafb2958bf
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -2758,7 +3026,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "7.   All the documents or certifications, which are provided by CA after 1st July, 2019, must contain\n         UDIN  thereon  and  the  particulars  of  certifications  must  be  same  as  mentioned  on\n            document/certification and submitted to ICAI on  its website which can be  verified online on\n             https://udin.icai.org/search-udin."
 > }
 
-### J511ce07d1038afad
+### J5cb244cced01917e
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -2770,7 +3038,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "6.   All documents shall reflect the stand-alone financial status of the Tenderer and not the Tenderer’s\n            parent companies, subsidiaries, or affiliates."
 > }
 
-### J7079e663b3f966b7
+### Jd86ee3a29e4d6113
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -2782,7 +3050,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "2.  The financial information/Annual Turnover ( in all classes of civil engineering construction works\n             only) of the Tenderer must be certified either by the Independent Financial Auditor (statutory\n            Auditor) of the company appointed under the Companies’ Act or by a Chartered Accountant with his\n          stamp and signature with membership number and firm registration number."
 > }
 
-### Jf90904d3bbcac5d7
+### Je4b79b670def10a5
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -2794,7 +3062,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "5.  To align a January–December financial year with the standard April–March fiscal year, use the\n             following conversion:\n\n        A calendar year (e.g., January–December 2023) corresponds to the subsequent fiscal year (e.g.,\n         FY 2023–24, covering  April 2023  to March 2024). Apply  this  rule  consistently  to  all such\n            conversions."
 > }
 
-### Je29647f69b1560f9
+### J6193eee117f064cf
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -2803,7 +3071,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "ATTACHMENT -9 \nMINIMUM QUALIFICATION AND EXPERIENCE REQUIRED FOR KEY PERSONNEL TO BE DEPLOYED FOR THE WORK \n(To be submitted by Tenderer) \n \nSl. \nNo \nKey \nPersonnel \nQualifications \n& \nTotal \nExperience \n(Post \nQualification) \nExperience in Similar Nature \nworks (Minimum \nrequirement) \n(Post Qualification) \nMinimum \nNumber of \nPersonnel \nRequired \nName of the \nkey \npersonnel \nproposed \nQualification   Total number \nof years of \nexperience \n(Post \nQualification) \nNumber of \nYears of \nexperience in \nthe proposed \nposition/equiv\nalent in \nSimilar Nature \nworks  \n(Post \nQualification) \n1 \n \nProject \nManager  \nBE /B. Tech in Civil \nEngineering with 10 years \nof experience (Post \nQualification) \n3 years as Project Manager or \nequivalent in Similar Nature \nWorks \n1 \n \n \n \n \n2 \nChief \nSafety and \nHealth \nManager \nGraduate in Engineering / \nMSc in Safety from a \nrecognized university with 8 \nyears of total experience \n(Post Qualification). \n5 years as Chief Safety and \nHealth Manager or equivalent \nin Infrastructure projects \n1 \n \n \n \n \n \n \nSignature) …………………… \nName of signatory: ……………………………… \nCapacity of signatory: …………………………… \nName and address of Tenderer:……………….."
 > }
 
-### S3354f1a7fdda9a5d
+### S4c359f6466c94d23
 
 [[OKF_bundle/Technical/Vol1/secD#Attachment-9 — Minimum Qualification and Experience Required for Key Personnel|Attachment-9 — Minimum Qualification and Experience Required for Key Personnel]]
 
@@ -2811,7 +3079,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Chief Safety and Health Manager Requirement**
 > - **Proposed Personnel Details Table**
 
-### J35c09e1fb40d1a04
+### Jc171dfd2fde16242
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3346,7 +3614,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J92b9df54ae44bed3
+### Jec0eed86126fc415
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3364,7 +3632,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### J0a2b34fa4fe5f8a8
+### J193c4006685ff096
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3383,7 +3651,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "marked_deleted"
 > }
 
-### J117384e47a4b1ce3
+### J15000332439c7274
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3402,7 +3670,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "marked_deleted"
 > }
 
-### J51d4e5c747f31e55
+### Jd527ea7071fd41e0
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3421,7 +3689,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "marked_deleted"
 > }
 
-### Jaaf3958372f3a0c4
+### J933264853ae108dc
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3440,31 +3708,31 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "marked_deleted"
 > }
 
-### S0666433de075e064
+### Sed7063d61763f3a8
 
 [[OKF_bundle/Technical/Vol1/secD#Attachment-3 — Proforma Letter of Declaration regarding Eligibility under EQC Clause 2.10 (Deleted)|Attachment-3 — Proforma Letter of Declaration regarding Eligibility under EQC Clause 2.10 (Deleted)]]
 
 > - **Deleted Attachment** (EQC Clause 2.10)
 
-### S1d04461034115d93
+### S5e756978b681698a
 
 [[OKF_bundle/Technical/Vol1/secD#Attachment-3B — Undertaking regarding Eligibility under EQC Clause 2.10 in Case of Transfer of Technology (Deleted)|Attachment-3B — Undertaking regarding Eligibility under EQC Clause 2.10 in Case of Transfer of Technology (Deleted)]]
 
 > - **Deleted Attachment** (EQC Clause 2.10)
 
-### S48dba20895e4d61c
+### S08ba495bcb136c9b
 
 [[OKF_bundle/Technical/Vol1/secD#Attachment-3A — Undertaking regarding Eligibility under EQC Clause 2.10 in Case of Sub-Contracting (Deleted)|Attachment-3A — Undertaking regarding Eligibility under EQC Clause 2.10 in Case of Sub-Contracting (Deleted)]]
 
 > - **Deleted Attachment** (EQC Clause 2.10)
 
-### S979178ba808e17a2
+### Sab7f93053c4ed260
 
 [[OKF_bundle/Technical/Vol1/secD#Attachment-2 — Proforma Letter of Declaration for Class-I Local Supplier (Deleted)|Attachment-2 — Proforma Letter of Declaration for Class-I Local Supplier (Deleted)]]
 
 > - **Deleted Attachment**
 
-### J94f28f7a35bde32e
+### J5c976257a751a5b5
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3487,7 +3755,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### S3ad3b5d0cc707166
+### Sda3a7df2e4a88b71
 
 [[OKF_bundle/Technical/Vol1/secD#Attachment-1 — Proforma Letter of Declaration and Undertaking|Attachment-1 — Proforma Letter of Declaration and Undertaking]]
 
@@ -3510,7 +3778,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Consequences of False Declaration** (Item 19; GCC Clause 4.33)
 > - **Land-Border Registration Note** (Note; EQC Clause 2.10)
 
-### Jc8e3c220abf05a5f
+### J751178be4c6772ef
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3529,7 +3797,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### S923afd7933dcab85
+### Sd89a0d641b65287f
 
 [[OKF_bundle/Technical/Vol1/secD#Attachment-1A — Undertaking for Execution of Multiple Works Contracts|Attachment-1A — Undertaking for Execution of Multiple Works Contracts]]
 
@@ -3541,7 +3809,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Employer's Right to Award Most Beneficial Combination**
 > - **Submission Notes** (Notes 1–2)
 
-### J597cfa2e0f29dcc4
+### J34b4b7bf51ba8292
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3560,7 +3828,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### Je606f4abfd140f5b
+### J5de91da9958e7caa
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3583,7 +3851,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### J8823895f23a432b8
+### J89e93b08657e95f5
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3602,7 +3870,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### J6dbae519490f54d4
+### Jc52bd73cc382c668
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3621,7 +3889,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### Jf726bdabdb3daf46
+### J8ddd6b441dad173f
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3644,7 +3912,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### Jc151e2e978f9a199
+### J5c3cfb9a93c39d5c
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3667,7 +3935,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### J3a1588c3042057c9
+### J90511d5dd1d265d3
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3683,7 +3951,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J53dbfdb2f9542fe9
+### Jd1f40c4a37d076ff
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3695,7 +3963,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "1.  Annual  financial statements (Audited Balance sheets including  all related notes and income\n           statements) for last five financial years (2021-22 to 2025-26) shall be submitted by the Tenderer."
 > }
 
-### Jccd4f83626ee3522
+### J47803f159cd34cbe
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3714,7 +3982,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### Jc406c2ac17ba1818
+### Jc96079177f5d2107
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3733,7 +4001,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### Jd2d184711db13a7f
+### Je41aff26c3939660
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3752,7 +4020,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### J427fda3fc68c546c
+### J33bd11c9449ba491
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -3771,7 +4039,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### Jccd2341b74f6e498
+### Ja2988f77bed9ddeb
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 

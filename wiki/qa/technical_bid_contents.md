@@ -4,9 +4,9 @@ title: What must go in the technical bid?
 status: draft
 review_status: pending_manual_review
 sources:
-- id: J6de42c5ccbb91294
+- id: J5d7b86a9eab037bf
   okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   heading: Clause 9.0 — Composition of Tender Submittals
   source_document: Vol1DLNP1.pdf
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -62,8 +62,9 @@ sources:
   heading_alignment: exact_number_match
 last_ingested: '2026-11-01T12:36:19+00:00'
 answer_evidence_ids:
-- J6de42c5ccbb91294
+- J5d7b86a9eab037bf
 method: Source-backed answer to the example query in the supplied creation prompt; no API call
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # What must go in the technical bid?
@@ -72,11 +73,11 @@ method: Source-backed answer to the example query in the supplied creation promp
 
 ITT 9.2 calls for PDF copies in the Technical Cover: EMD evidence; signatory Power of Attorney; the complete Letter of Technical Bid and attachments; qualification evidence; Attachment 14 technical details; and other documents requested by the bid documents.
 
-[[OKF_bundle/Technical/Vol1/secB#Clause 9.0 — Composition of Tender Submittals|Clause 9.0 — Composition of Tender Submittals]]; `Vol1DLNP1.pdf`; PDF page(s) 13, 14; `J6de42c5ccbb91294`
+[[OKF_bundle/Technical/Vol1/secB#Clause 9.0 — Composition of Tender Submittals|Clause 9.0 — Composition of Tender Submittals]]; `Vol1DLNP1.pdf`; PDF page(s) 13, 14; `J5d7b86a9eab037bf`
 
 ITT 9.2.2 requires sequential page numbering and an index with page numbers, and says a downloaded copy of the tender documents need not be submitted. ITT 9.3 prohibits financial terms, conditions and prices in the Technical Bid. ITT 9.5 says the convenience list does not remove responsibility for requirements elsewhere in the tender. These are source-stated rules, not a decision about a bidder.
 
-[[OKF_bundle/Technical/Vol1/secB#Clause 9.0 — Composition of Tender Submittals|Clause 9.0 — Composition of Tender Submittals]]; `Vol1DLNP1.pdf`; PDF page(s) 13, 14; `J6de42c5ccbb91294`
+[[OKF_bundle/Technical/Vol1/secB#Clause 9.0 — Composition of Tender Submittals|Clause 9.0 — Composition of Tender Submittals]]; `Vol1DLNP1.pdf`; PDF page(s) 13, 14; `J5d7b86a9eab037bf`
 
 ## Open questions
 

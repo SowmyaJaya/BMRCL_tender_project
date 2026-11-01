@@ -6,371 +6,371 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-30T12:58:34+00:00'
-updated_at: '2026-11-01T12:36:19+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T11:04:56+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_items.json
   json_sha256: ffa851d3dc75c862bbb9df376985067951c7005c988fb0a1002a897b32525b6b
   json_pointer: /instructions/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_items.json
   json_sha256: ffa851d3dc75c862bbb9df376985067951c7005c988fb0a1002a897b32525b6b
   json_pointer: /key_details/12
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_table.json
   json_sha256: e4e595fa155f932fe793f28df02a9836eb06f24ca4352db151622db258ce6b10
   json_pointer: /rows/12
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/3
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/5
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/8
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/14
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/12
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/15
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/29
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/25
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_clauses.json
   json_sha256: d8207622663bc2dd0cf2a7c5e3ed660f5c3881838e376d1bbb26fdae47ed8abf
   json_pointer: /clauses/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_criteria.json
   json_sha256: ab3cdc95d724a7912220cd865c0b6a59bfceea0f7743c525b58aec19278e8816
   json_pointer: /note_groups/work_experience/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_criteria.json
   json_sha256: ab3cdc95d724a7912220cd865c0b6a59bfceea0f7743c525b58aec19278e8816
   json_pointer: /note_groups/work_experience/3
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_criteria.json
   json_sha256: ab3cdc95d724a7912220cd865c0b6a59bfceea0f7743c525b58aec19278e8816
   json_pointer: /note_groups/financial_standing/8
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /contract_data
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/12
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/16
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/25
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/26
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/24
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /clauses/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /clauses/2/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /source_page_context/7
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/2
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/10
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/14
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/7
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/8
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/9
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_document.json
   json_sha256: e818be1fb28ea74092cb53a451b92e169c6e8a07afec0add897be67d5844a2b3
   json_pointer: /pages/5
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_document.json
   json_sha256: e818be1fb28ea74092cb53a451b92e169c6e8a07afec0add897be67d5844a2b3
   json_pointer: /pages/6
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/25
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/22
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_document.json
   json_sha256: e818be1fb28ea74092cb53a451b92e169c6e8a07afec0add897be67d5844a2b3
   json_pointer: /pages/4
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/24
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/23
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/6
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/11
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/12
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/9
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/10
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/8
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/7
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/4
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/19
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_items.json
   json_sha256: ffa851d3dc75c862bbb9df376985067951c7005c988fb0a1002a897b32525b6b
   json_pointer: /key_details/13
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
@@ -381,17 +381,17 @@ claims:
   text: Tenderers must pay a non-refundable tender fee of INR 11,800/- inclusive of GST via online payment (RTGS/NEFT/IMPS)
     using specified bank details and upload the proof on the eProcurement portal.
   evidence_ids:
-  - Sab84bdd31a8eee3a
-  - J3f9ffdb1e2de70ae
+  - S22a916adcdb444fc
+  - J36c62c71b3666400
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C121e1e8e2273f27e
+  id: Ce8e8a2578da4e4c8
   citations:
-  - id: Sab84bdd31a8eee3a
+  - id: S22a916adcdb444fc
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Instruction 2 — Tender Fee Payment
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -414,9 +414,9 @@ claims:
       - **RTGS/IFSC:** `BKID0008404`.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: J3f9ffdb1e2de70ae
+  - id: J36c62c71b3666400
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Instruction 2 — Tender Fee Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -441,21 +441,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T12:58:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C121e1e8e2273f27e
+    previous_evidence_ids:
+    - Sab84bdd31a8eee3a
+    - J3f9ffdb1e2de70ae
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Joint venture participation is explicitly not permitted for Contract Package P1.
   evidence_ids:
-  - S0e5f935d1e01eafc
-  - J47d61d669d8f1d64
-  - J270535df426ce06d
+  - S096690399aef8a63
+  - J25cabf10f5eaecbc
+  - J1c72f52ca35012ca
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C72dfad10034ba7a8
+  id: C661bde1e56c80bcb
   citations:
-  - id: S0e5f935d1e01eafc
+  - id: S096690399aef8a63
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 13 — Participation as Joint Venture
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -463,9 +474,9 @@ claims:
     quote: '- **Joint Venture Participation:** Not Permitted.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: J47d61d669d8f1d64
+  - id: J25cabf10f5eaecbc
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 13 — Participation as Joint Venture
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -482,9 +493,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J270535df426ce06d
+  - id: J1c72f52ca35012ca
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 13 — Participation as Joint Venture
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -509,21 +520,33 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T12:58:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C72dfad10034ba7a8
+    previous_evidence_ids:
+    - S0e5f935d1e01eafc
+    - J47d61d669d8f1d64
+    - J270535df426ce06d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Tenderers bear all costs associated with preparing and submitting their tenders, and BMRCL is not responsible
     or liable for those costs regardless of the tendering outcome.
   evidence_ids:
-  - Jdbaa211fb059b7b0
-  - S8e11fcfb235cfc68
+  - Jc82f1ced99d58e59
+  - S5f4107b535ec2bb5
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cddcb888607aa05d7
+  id: C87ddce1557cca671
   citations:
-  - id: Jdbaa211fb059b7b0
+  - id: Jc82f1ced99d58e59
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 3.0 — Cost of Tendering
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -543,9 +566,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: S8e11fcfb235cfc68
+  - id: S5f4107b535ec2bb5
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 3.0 — Cost of Tendering
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -555,21 +578,32 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:10:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cddcb888607aa05d7
+    previous_evidence_ids:
+    - Jdbaa211fb059b7b0
+    - S8e11fcfb235cfc68
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Prospective tenderers may request site visits by submitting representative details to the Site Visit Coordinator
     at least one day in advance, no later than 11:00 Hrs on the preceding day.
   evidence_ids:
-  - J38c3dc8eaf4911bc
-  - Sf82a0f0e57aa1e36
+  - J0f81bcbd307215d6
+  - S58526eb02b326b26
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C30b89bc5b5e24227
+  id: C26d849764606b200
   citations:
-  - id: J38c3dc8eaf4911bc
+  - id: J0f81bcbd307215d6
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 4.0 — Site Visit
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -610,9 +644,9 @@ claims:
       \ \"heading_line\": \"4.0       SITE VISIT:\",\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Sf82a0f0e57aa1e36
+  - id: S58526eb02b326b26
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 4.0 — Site Visit
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -623,21 +657,32 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:10:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C30b89bc5b5e24227
+    previous_evidence_ids:
+    - J38c3dc8eaf4911bc
+    - Sf82a0f0e57aa1e36
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Tenderers must examine all tender documents carefully and submit queries through the eProcurement Portal
     by the deadline mentioned in the NIT.
   evidence_ids:
-  - Jd35d8c98e0909190
-  - S17eb0e4ea8c99c8a
+  - J77602b0c2f9e03d2
+  - Sa3f5c5a1eadc5278
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C03e7a62cfb62642d
+  id: C1cb53dee67da2a83
   citations:
-  - id: Jd35d8c98e0909190
+  - id: J77602b0c2f9e03d2
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 6.0 — Clarification on Tender Documents
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -675,9 +720,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: S17eb0e4ea8c99c8a
+  - id: Sa3f5c5a1eadc5278
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 6.0 — Clarification on Tender Documents
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -688,22 +733,33 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:10:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C03e7a62cfb62642d
+    previous_evidence_ids:
+    - Jd35d8c98e0909190
+    - S17eb0e4ea8c99c8a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The technical bid must be uploaded under the Technical Cover containing EMD, Power of Attorney, complete
     Letter of Technical Bid with attachments, qualification documents, and technical details without any financial
     terms.
   evidence_ids:
-  - J6de42c5ccbb91294
-  - Sda8c79951ff2d6e2
+  - J5d7b86a9eab037bf
+  - S09ca218dbb164dfb
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3c0cff71b6509143
+  id: C49f1e4af51e90835
   citations:
-  - id: J6de42c5ccbb91294
+  - id: J5d7b86a9eab037bf
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 9.0 — Composition of Tender Submittals
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -757,9 +813,9 @@ claims:
       \ TENDER SUBMITTALS\",\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Sda8c79951ff2d6e2
+  - id: S09ca218dbb164dfb
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 9.0 — Composition of Tender Submittals
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -772,22 +828,33 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:10:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3c0cff71b6509143
+    previous_evidence_ids:
+    - J6de42c5ccbb91294
+    - Sda8c79951ff2d6e2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Bidders must ensure that all required tender security instruments and bidding documents are fully uploaded
     and submitted before the official deadline displayed on the e-procurement portal dashboard.
   evidence_ids:
-  - J01104c0b7aaa515d
-  - J96e5227223f2186d
-  - Jc119379a7633f501
+  - J2cf6807848ed47fc
+  - Jce685766e7843ace
+  - J584b82a80c4bdee5
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf19b848091434b0a
+  id: C515cefb2f79ff855
   citations:
-  - id: J01104c0b7aaa515d
+  - id: J2cf6807848ed47fc
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 15.0 — Submission of Tenders
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -829,9 +896,9 @@ claims:
       review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J96e5227223f2186d
+  - id: Jce685766e7843ace
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 13.0 — Tender Security (EMD)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -982,9 +1049,9 @@ claims:
       pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jc119379a7633f501
+  - id: J584b82a80c4bdee5
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 16.0 — Failure to Submit Tenders in Time
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1009,21 +1076,33 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T13:11:43+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf19b848091434b0a
+    previous_evidence_ids:
+    - J01104c0b7aaa515d
+    - J96e5227223f2186d
+    - Jc119379a7633f501
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: If an initial tender security is valid for the tender validity period but does not cover the required security
     validity period, BMRCL will notify the bidder in writing to furnish a compliant instrument within fifteen working
     days.
   evidence_ids:
-  - J96e5227223f2186d
+  - Jce685766e7843ace
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7837dcaf27ecb9e5
+  id: C34d1487aba87dae8
   citations:
-  - id: J96e5227223f2186d
+  - id: Jce685766e7843ace
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 13.0 — Tender Security (EMD)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1176,21 +1255,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T13:11:43+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7837dcaf27ecb9e5
+    previous_evidence_ids:
+    - J96e5227223f2186d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Aggrieved bidders may appeal under Section 16 of the KTPP Act to the Appellate Authority, which is the Managing
     Director of BMRCL, before initiating legal proceedings in the courts at Bangalore.
   evidence_ids:
-  - Ja108d43b3f820ccc
-  - Sc0cc47900fb0a206
+  - Jcb7b6d174a0a2144
+  - Scd85c70e67fd35e1
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C492e455f4bdb5b9d
+  id: C6d4f3a07aed175a0
   citations:
-  - id: Ja108d43b3f820ccc
+  - id: Jcb7b6d174a0a2144
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 30.0 — Appeal
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1212,9 +1301,9 @@ claims:
       : \"30.0     APPEAL\",\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Sc0cc47900fb0a206
+  - id: Scd85c70e67fd35e1
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 30.0 — Appeal
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -1226,21 +1315,32 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:12:43+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C492e455f4bdb5b9d
+    previous_evidence_ids:
+    - Ja108d43b3f820ccc
+    - Sc0cc47900fb0a206
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The successful tenderer is obligated to sign the formal contract agreement within the period stated in the
     GCC Contract Data following the notification of award.
   evidence_ids:
-  - Jdf5a2ffe85eda669
-  - Sb7690f4f4e57213e
+  - Jeaa9be238b1f8dfd
+  - S5fb589e21ed8c539
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C18463fb51eaa8f28
+  id: C572f11c86ff65358
   citations:
-  - id: Jdf5a2ffe85eda669
+  - id: Jeaa9be238b1f8dfd
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 26.0 — Signing of Contract Agreement
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1264,9 +1364,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Sb7690f4f4e57213e
+  - id: S5fb589e21ed8c539
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 26.0 — Signing of Contract Agreement
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -1278,20 +1378,31 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:12:43+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C18463fb51eaa8f28
+    previous_evidence_ids:
+    - Jdf5a2ffe85eda669
+    - Sb7690f4f4e57213e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Tenderers must satisfy strict eligibility and qualification criteria, including prohibitions on joint ventures,
     compliance with class-I local supplier local content rules, land-border restrictions, and specific exclusions.
   evidence_ids:
-  - J30e07edea4458b0b
+  - J6d3ed99d534c4170
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C75acc316d59d241c
+  id: C8fb96acc16cdee4c
   citations:
-  - id: J30e07edea4458b0b
+  - id: J6d3ed99d534c4170
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Clause 2.0 — Eligible Tenderers
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1462,20 +1573,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T13:14:21+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C75acc316d59d241c
+    previous_evidence_ids:
+    - J30e07edea4458b0b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: False declarations regarding class-I local supplier status result in proposal rejection and debarment for
     up to two years.
   evidence_ids:
-  - J30e07edea4458b0b
+  - J6d3ed99d534c4170
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf3f5b43e850177dd
+  id: C7092d62fa326ede5
   citations:
-  - id: J30e07edea4458b0b
+  - id: J6d3ed99d534c4170
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Clause 2.0 — Eligible Tenderers
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1646,20 +1767,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T13:14:21+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf3f5b43e850177dd
+    previous_evidence_ids:
+    - J30e07edea4458b0b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Tenderers must furnish client completion certificates clearly indicating the nature, scope, awarded contract
     value excluding GST, actual completion value excluding GST, and actual completion date.
   evidence_ids:
-  - J23b99427e4534c36
+  - J4e9308d68b952d29
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C42d4d7d9fd02e25f
+  id: Ce7c592896a168250
   citations:
-  - id: J23b99427e4534c36
+  - id: J4e9308d68b952d29
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1682,20 +1813,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:15:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C42d4d7d9fd02e25f
+    previous_evidence_ids:
+    - J23b99427e4534c36
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Where completion certificates are inclusive of taxes, tenderers must deduct applicable GST or a pre-period
     tax rate of 12% supported by a Chartered Accountant certification.
   evidence_ids:
-  - Jbe966142c25854ff
+  - J5f4966bec6d1ee14
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7ea29fe46b6a9ce1
+  id: C8003da5c0816eb52
   citations:
-  - id: Jbe966142c25854ff
+  - id: J5f4966bec6d1ee14
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1718,20 +1859,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:15:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7ea29fe46b6a9ce1
+    previous_evidence_ids:
+    - Jbe966142c25854ff
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Certifications and documents provided by Chartered Accountants after 1st July 2019 must contain a valid
     UDIN verifiable on the ICAI website.
   evidence_ids:
-  - Jeb7cc5f1d1b4be14
+  - Je867895b17b3d3b8
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3813f6b3ec3044f8
+  id: Ca74b6c3fde32d0a9
   citations:
-  - id: Jeb7cc5f1d1b4be14
+  - id: Je867895b17b3d3b8
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1753,19 +1904,29 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:15:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3813f6b3ec3044f8
+    previous_evidence_ids:
+    - Jeb7cc5f1d1b4be14
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor must execute the Contract Agreement within 30 days from the issue of the Letter of Acceptance.
   evidence_ids:
-  - J5516f07161b435b2
+  - Jb6d88198cad1dbbd
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7991a0db3eaf6b1c
+  id: C56ba597f15f8159a
   citations:
-  - id: J5516f07161b435b2
+  - id: Jb6d88198cad1dbbd
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1842,21 +2003,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:13:06+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7991a0db3eaf6b1c
+    previous_evidence_ids:
+    - J5516f07161b435b2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor is obligated to submit a detailed Site Safety Plan and Site Environmental Plan within 4 weeks
     from the issue of the Letter of Acceptance.
   evidence_ids:
-  - J0e6a74396167c946
-  - J5516f07161b435b2
+  - Jff563a5330de75d8
+  - Jb6d88198cad1dbbd
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9f7f9a47f1eb6958
+  id: C05bbfb412b3898e0
   citations:
-  - id: J0e6a74396167c946
+  - id: Jff563a5330de75d8
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1939,9 +2110,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: J5516f07161b435b2
+  - id: Jb6d88198cad1dbbd
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2018,20 +2189,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:13:06+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9f7f9a47f1eb6958
+    previous_evidence_ids:
+    - J0e6a74396167c946
+    - J5516f07161b435b2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Claims for additional payment must be notified to the Engineer as soon as possible and within 28 days of
     the start of the event giving rise to the claim, followed by a fully detailed claim within 28 days of notice.
   evidence_ids:
-  - J3d99ac833d30d558
+  - J3808711ea48ee2c8
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb2131dcff8577278
+  id: C4f0d02634b92ea72
   citations:
-  - id: J3d99ac833d30d558
+  - id: J3808711ea48ee2c8
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 17 — Claims, Disputes and Conciliation
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2180,20 +2362,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:13:06+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb2131dcff8577278
+    previous_evidence_ids:
+    - J3d99ac833d30d558
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Disputes must first be referred to conciliation within 60 days of receipt of a Notice of Dispute under GCC
     Clause 17 before initiating any judicial recourse or action at law.
   evidence_ids:
-  - J3d99ac833d30d558
+  - J3808711ea48ee2c8
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cde82208d24e0c209
+  id: Cd920a9c61651ff97
   citations:
-  - id: J3d99ac833d30d558
+  - id: J3808711ea48ee2c8
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 17 — Claims, Disputes and Conciliation
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2342,21 +2534,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:13:06+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cde82208d24e0c209
+    previous_evidence_ids:
+    - J3d99ac833d30d558
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The contractual obligation map outlines key duties, submission timelines, and compliance requirements mandated
     across the tender documents for BMRCL Tender Package P1.
   evidence_ids:
-  - J0562abcc824c4f49
-  - J4dbf3d178da92201
+  - J6e268122a6c15b66
+  - J7502791d30e9933d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce0036b6698eaa1d0
+  id: C6b597ac42df1d0f6
   citations:
-  - id: J0562abcc824c4f49
+  - id: J6e268122a6c15b66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 4.0 — Contractor SHE Policy and Plan
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2542,9 +2744,9 @@ claims:
       \ SHE Policy and Plan\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J4dbf3d178da92201
+  - id: J7502791d30e9933d
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 3.0 — Compliance
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2819,20 +3021,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:50:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce0036b6698eaa1d0
+    previous_evidence_ids:
+    - J0562abcc824c4f49
+    - J4dbf3d178da92201
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Where requirements stated in Volume 3 Part 1 are less stringent than or in conflict with applicable Indian
     legislation, the country's legislation shall apply.
   evidence_ids:
-  - J4dbf3d178da92201
+  - J7502791d30e9933d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6a3a63abb3512325
+  id: Cb84b615c2cfbcb7e
   citations:
-  - id: J4dbf3d178da92201
+  - id: J7502791d30e9933d
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 3.0 — Compliance
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3107,23 +3320,33 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:50:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6a3a63abb3512325
+    previous_evidence_ids:
+    - J4dbf3d178da92201
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Contractor obligations under Vol 3 Part 2 encompass mandatory statutory notifications, deployment of certified
     safety personnel, adherence to standard codes of practice (BIS, IRC, BOCWR), and establishment of formal permit-to-work
     and traffic management systems.
   evidence_ids:
-  - J21e90e6538c791d8
-  - J906a5c528c244560
-  - Jdcb3c48e22084aac
+  - Jc6480c3a93eb611b
+  - Jee37894331f7ed66
+  - J8612e576d566fd66
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cabcf3ff1e43be925
+  id: C8be853657ce59255
   citations:
-  - id: J21e90e6538c791d8
+  - id: Jc6480c3a93eb611b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3227,9 +3450,9 @@ claims:
       \      ],\n      \"block_number\": 4,\n      \"text\": \"240\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J906a5c528c244560
+  - id: Jee37894331f7ed66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3326,9 +3549,9 @@ claims:
       : 5,\n      \"text\": \"241\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jdcb3c48e22084aac
+  - id: J8612e576d566fd66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3424,21 +3647,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:01:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cabcf3ff1e43be925
+    previous_evidence_ids:
+    - J21e90e6538c791d8
+    - J906a5c528c244560
+    - Jdcb3c48e22084aac
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The contractor bears all costs for required employee medical examinations, maintains confidential records,
     and ensures compliance with occupational health, welfare, and noise control standards.
   evidence_ids:
-  - J573bee61f4ed333d
-  - Jf38211de591ad373
+  - J44c81c9cdd51865e
+  - J96c0758e1616249f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C765604385c8c0777
+  id: C53e66aeb45b38128
   citations:
-  - id: J573bee61f4ed333d
+  - id: J44c81c9cdd51865e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 42.0 — Medical Facilities
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3775,9 +4010,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jf38211de591ad373
+  - id: J96c0758e1616249f
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 43.0 — Noise
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3821,20 +4056,31 @@ claims:
       can continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T08:10:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C765604385c8c0777
+    previous_evidence_ids:
+    - J573bee61f4ed333d
+    - Jf38211de591ad373
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The contractor must conduct monthly illumination monitoring by lux meter, submit reports to the Employer
     within the 7th of the next month, and review them during monthly SHE committee meetings.
   evidence_ids:
-  - J854b5685ebe1a5e4
+  - J58e05cc1d406b16b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C560e9b57cdc7b5b4
+  id: C6d78597e37c8f5b9
   citations:
-  - id: J854b5685ebe1a5e4
+  - id: J58e05cc1d406b16b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3938,21 +4184,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:15:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C560e9b57cdc7b5b4
+    previous_evidence_ids:
+    - J854b5685ebe1a5e4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Tenderers must quote percentage rates in two decimals for Schedule-A with 'At Par / Excess / Less' options,
     select 'At Par' for Schedule-B, and offer a lump-sum salvage credit for Schedule-C.
   evidence_ids:
-  - J8c215615fb864781
-  - S19382a03427e15ba
+  - J6ae42a6e278602f6
+  - S10ec60af02b3e977
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C83693ecbf80a4052
+  id: C2c51db5bfdc95022
   citations:
-  - id: J8c215615fb864781
+  - id: J6ae42a6e278602f6
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -3990,9 +4246,9 @@ claims:
       pricing_rule\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S19382a03427e15ba
+  - id: S10ec60af02b3e977
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: 1.0 — Pricing Document Preamble and Instructions
     source_document: Vol4DLNP1.pdf
     pdf_pages:
@@ -4017,25 +4273,36 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T15:57:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C83693ecbf80a4052
+    previous_evidence_ids:
+    - J8c215615fb864781
+    - S19382a03427e15ba
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Contractors are obligated to bear all costs for temporary utility relocation, temporary supports, false
     works, and safety measures without extra financial implications for BMRCL.
   evidence_ids:
-  - J432ebedc9365fe77
-  - J55b95dcabf6ea8f6
-  - J932d0b53398fa689
-  - Jba70615c46c75144
-  - Jf59d2ba0ab69a572
-  - S19382a03427e15ba
+  - J6d6de1f6e47891f2
+  - Jcf4af13d171ee905
+  - J4ffd739221ad1c6d
+  - Ja8a3909a1accb5d4
+  - J419e679869f97569
+  - S10ec60af02b3e977
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3a3116be67b190be
+  id: C0393a8c509736110
   citations:
-  - id: J432ebedc9365fe77
+  - id: J6d6de1f6e47891f2
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4063,9 +4330,9 @@ claims:
       \ to various departments for obtaining necessary approvals if any.\",\n  \"type\": \"pricing_rule\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J55b95dcabf6ea8f6
+  - id: Jcf4af13d171ee905
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4100,9 +4367,9 @@ claims:
       \ to BMRCL.\",\n  \"type\": \"pricing_rule\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J932d0b53398fa689
+  - id: J4ffd739221ad1c6d
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4141,9 +4408,9 @@ claims:
       \  \"type\": \"pricing_rule\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jba70615c46c75144
+  - id: Ja8a3909a1accb5d4
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4170,9 +4437,9 @@ claims:
       \ land & building while working.\",\n  \"type\": \"pricing_rule\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf59d2ba0ab69a572
+  - id: J419e679869f97569
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4203,9 +4470,9 @@ claims:
       ,\n  \"type\": \"pricing_rule\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S19382a03427e15ba
+  - id: S10ec60af02b3e977
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: 1.0 — Pricing Document Preamble and Instructions
     source_document: Vol4DLNP1.pdf
     pdf_pages:
@@ -4230,22 +4497,37 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T15:57:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3a3116be67b190be
+    previous_evidence_ids:
+    - J432ebedc9365fe77
+    - J55b95dcabf6ea8f6
+    - J932d0b53398fa689
+    - Jba70615c46c75144
+    - Jf59d2ba0ab69a572
+    - S19382a03427e15ba
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 4 pricing instructions impose specific financial and operational obligations on the contractor regarding
     utility relocation, temporary supports, permanent structural restoration using Common SR 2023-24, debris disposal
     at BBMP/GBA facilities, and salvage material credits.
   evidence_ids:
-  - J6f83ecf77cc57b25
-  - Jdacd5cece2eca4d3
+  - Jf17d55c6acfde864
+  - J002388868106a238
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4ff0f0e2f4cca969
+  id: Cc73cfe35b5221936
   citations:
-  - id: J6f83ecf77cc57b25
+  - id: Jf17d55c6acfde864
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4366,9 +4648,9 @@ claims:
       : 16,\n      \"text\": \"305\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jdacd5cece2eca4d3
+  - id: J002388868106a238
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4471,25 +4753,36 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:00:35+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4ff0f0e2f4cca969
+    previous_evidence_ids:
+    - J6f83ecf77cc57b25
+    - Jdacd5cece2eca4d3
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Under price bid declarations, submission of incorrect information or suppression of material facts authorizes
     BMRCL to reject future tenders, cancel awarded contracts without financial claims or arbitration, and remove
     the agency from the qualified panel, in addition to GCC Clause 4.33 provisions.
   evidence_ids:
-  - J19381435b66c635e
-  - J20480575219a693b
-  - J9e654ced7e279231
-  - Jf2d715f2b0e8eae4
-  - Jec1d6ae7c799b64a
+  - J84940809d1568063
+  - Je6dc567de94be4b6
+  - Jf43207b408db4186
+  - J8bd86a88983cc67a
+  - J486df63439fb1a7d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3fe44a364fc00ba4
+  id: Ceeddb5b03d8fa8fa
   citations:
-  - id: J19381435b66c635e
+  - id: J84940809d1568063
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4512,9 +4805,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J20480575219a693b
+  - id: Je6dc567de94be4b6
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4564,9 +4857,9 @@ claims:
       \  \"type\": \"price_bid_declaration\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J9e654ced7e279231
+  - id: Jf43207b408db4186
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4657,9 +4950,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf2d715f2b0e8eae4
+  - id: J8bd86a88983cc67a
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4688,9 +4981,9 @@ claims:
       \ any financial claim /Arbitration request from our side.\",\n  \"type\": \"declaration_subpoint\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jec1d6ae7c799b64a
+  - id: J486df63439fb1a7d
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4717,28 +5010,42 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:00:35+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3fe44a364fc00ba4
+    previous_evidence_ids:
+    - J19381435b66c635e
+    - J20480575219a693b
+    - J9e654ced7e279231
+    - Jf2d715f2b0e8eae4
+    - Jec1d6ae7c799b64a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Corrigendum No. 2 introduces new Special Conditions of Contract (SCC Clauses 4 through 10) which explicitly
     state that entire GCC subclauses regarding sub-contractors, early completion incentives, price variations, mobilization
     advances, plant & machinery advances, special/acceleration advances, and professional indemnity insurance stand
     deleted.
   evidence_ids:
-  - J1dd8bce37ef510fc
-  - J432b23c1c3a0838e
-  - J5075223d6e496a2a
-  - J5d3bb44b86c8dbc6
-  - Ja338361a10571a5c
-  - Jb6dbe6e9c034af69
-  - Jfd41b6562ee997ba
+  - J42ebc7a9caffaf7c
+  - J472f04a0581e5138
+  - J1daf1ac7056acbc2
+  - Ja33aa367f0eabe79
+  - J68b661210475bcab
+  - J9f1e91a67a75186a
+  - J830981895ce0b48b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd335b2d3fd760a43
+  id: Ca046d47e526c4472
   citations:
-  - id: J1dd8bce37ef510fc
+  - id: J42ebc7a9caffaf7c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -4768,9 +5075,9 @@ claims:
       \ and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J432b23c1c3a0838e
+  - id: J472f04a0581e5138
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -4800,9 +5107,9 @@ claims:
       \ amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5075223d6e496a2a
+  - id: J1daf1ac7056acbc2
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -4832,9 +5139,9 @@ claims:
       \ amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5d3bb44b86c8dbc6
+  - id: Ja33aa367f0eabe79
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -4864,9 +5171,9 @@ claims:
       \ wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Ja338361a10571a5c
+  - id: J68b661210475bcab
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -4896,9 +5203,9 @@ claims:
       Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jb6dbe6e9c034af69
+  - id: J9f1e91a67a75186a
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -4929,9 +5236,9 @@ claims:
       \ not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jfd41b6562ee997ba
+  - id: J830981895ce0b48b
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -4963,20 +5270,36 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:12:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd335b2d3fd760a43
+    previous_evidence_ids:
+    - J1dd8bce37ef510fc
+    - J432b23c1c3a0838e
+    - J5075223d6e496a2a
+    - J5d3bb44b86c8dbc6
+    - Ja338361a10571a5c
+    - Jb6dbe6e9c034af69
+    - Jfd41b6562ee997ba
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Tenderers must carefully examine all instructions, forms, terms, and specifications before submission; failure
     to comply with tender document requirements is entirely at the tenderer's own risk.
   evidence_ids:
-  - J779ebe20ca5d5821
+  - J43ced15c147bcb43
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8077715ff17e96e3
+  id: Ceeb6f74593ef2f68
   citations:
-  - id: J779ebe20ca5d5821
+  - id: J43ced15c147bcb43
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 5.0 — Contents of Tender Documents
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -5016,20 +5339,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T06:32:09+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8077715ff17e96e3
+    previous_evidence_ids:
+    - J779ebe20ca5d5821
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: During technical evaluation, BMRCL may request clarifications in writing through the eProcurement Portal,
     but respondents are barred from submitting additional documents unrelated to the specific clarification sought.
   evidence_ids:
-  - J8ff3d75e3a108c4e
+  - Jecec2d2b1a0fba3a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C71374da1834768aa
+  id: C79b3a694c1b9311a
   citations:
-  - id: J8ff3d75e3a108c4e
+  - id: Jecec2d2b1a0fba3a
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 20.0 — Clarification of Tenders
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -5068,20 +5401,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T06:32:09+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C71374da1834768aa
+    previous_evidence_ids:
+    - J8ff3d75e3a108c4e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: If a bidder fails to provide requested bid clarifications by the deadline and time set in BMRCL's request,
     their bid will be evaluated strictly on the basis of information available in the originally submitted bid.
   evidence_ids:
-  - J8ff3d75e3a108c4e
+  - Jecec2d2b1a0fba3a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C0fa03a1e65b8eb43
+  id: C477bb984cb1caf46
   citations:
-  - id: J8ff3d75e3a108c4e
+  - id: Jecec2d2b1a0fba3a
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 20.0 — Clarification of Tenders
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -5120,6 +5463,16 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T06:32:09+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C0fa03a1e65b8eb43
+    previous_evidence_ids:
+    - J8ff3d75e3a108c4e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: ITT 20.2 requires documents establishing eligibility and qualification, and other mandatory requirements,
     to be submitted before the deadline. Under ITT 20.1, the Employer may request clarification but is not obliged
@@ -5127,16 +5480,16 @@ claims:
     to material changes are not considered. These provisions do not by themselves support a blanket statement that
     every initial omission is incapable of clarification.
   evidence_ids:
-  - J8ff3d75e3a108c4e
+  - Jecec2d2b1a0fba3a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf039177347bd7ac0
+  id: C34bdbc34aac6dcfc
   citations:
-  - id: J8ff3d75e3a108c4e
+  - id: Jecec2d2b1a0fba3a
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 20.0 — Clarification of Tenders
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -5181,21 +5534,30 @@ claims:
       deadline, as subsequent clarifications cannot cure initial omissions of mandatory credentials.
     corrected_at: '2026-11-01T08:12:53+00:00'
     method: source-backed draft wording review
+  - previous_claim_id: Cf039177347bd7ac0
+    previous_evidence_ids:
+    - J8ff3d75e3a108c4e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T08:12:53+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Tenderers must apply strictly as a single entity as joint ventures and consortia are prohibited, and suppliers
     must meet the 90% Class-I local content criteria with mandatory declarations.
   evidence_ids:
-  - J30e07edea4458b0b
+  - J6d3ed99d534c4170
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce8dd28c044a870a4
+  id: Ca3320cd65556472f
   citations:
-  - id: J30e07edea4458b0b
+  - id: J6d3ed99d534c4170
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Clause 2.0 — Eligible Tenderers
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -5366,20 +5728,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T08:04:36+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce8dd28c044a870a4
+    previous_evidence_ids:
+    - J30e07edea4458b0b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: EQC 2.9 states that a bidder’s false declaration of Class-I Local Supplier status results in rejection of
     its proposal and debarment for up to two years.
   evidence_ids:
-  - J30e07edea4458b0b
+  - J6d3ed99d534c4170
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cfc914468f59e7ea9
+  id: C4f07ed8e48eae1c2
   citations:
-  - id: J30e07edea4458b0b
+  - id: J6d3ed99d534c4170
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Clause 2.0 — Eligible Tenderers
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -5556,21 +5928,30 @@ claims:
       and debarment for up to two years.
     corrected_at: '2026-11-01T08:12:53+00:00'
     method: source-backed draft wording review
+  - previous_claim_id: Cfc914468f59e7ea9
+    previous_evidence_ids:
+    - J30e07edea4458b0b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T08:12:53+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The date and time of opening of the financial bid (online) will be provided after the evaluation of technical
     bids.
   evidence_ids:
-  - Jbba96dce4d8c3907
+  - J020ea17beaf23dde
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2268a4bb55b58ffc
+  id: Ce5cc9f86f1c0fc0a
   citations:
-  - id: Jbba96dce4d8c3907
+  - id: J020ea17beaf23dde
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 14 — Opening of Financial Bid
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -5590,6 +5971,16 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T11:04:56+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2268a4bb55b58ffc
+    previous_evidence_ids:
+    - Jbba96dce4d8c3907
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'GCC 1.5 states this document priority: Contract Agreement; Letter of Acceptance; Clarifications/Addenda/Corrigenda;
     Pricing Document; SCC; Contract forms; GCC; Employer Requirements and Technical Specifications; Drawings; other
@@ -5597,16 +5988,16 @@ claims:
     not separately ranked in this list, so SCC > GCC > Contract Data is not published as an independently established
     full chain.'
   evidence_ids:
-  - J166f7c346f54a774
+  - J327789a2a7201b30
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C95b997a00c3d51d2
+  id: C066040756a442306
   citations:
-  - id: J166f7c346f54a774
+  - id: J327789a2a7201b30
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 1 — Definitions and Interpretation
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -5928,17 +6319,27 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T12:36:19+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C95b997a00c3d51d2
+    previous_evidence_ids:
+    - J166f7c346f54a774
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: concepts/similar_work_and_past_jv_evidence.md
   title: Similar-Work Evidence and Historical JV Participation
   evidence_ids:
-  - J30e07edea4458b0b
+  - J6d3ed99d534c4170
 - relation_type: relates_to
   target: concepts/salvage_ownership_and_credit.md
   title: Salvage Ownership and Schedule C Credit
   evidence_ids:
-  - J6f83ecf77cc57b25
+  - Jf17d55c6acfde864
 hub_extensions:
 - title: Stage and party navigation
   body: '| Stage | Party / role | Source-stated obligation or issue |
@@ -5947,28 +6348,28 @@ hub_extensions:
 
     | Bid | Tenderer | The technical bid must be uploaded under the Technical Cover containing EMD, Power of Attorney,
     complete Letter of Technical Bid with attachments, qualification documents, and technical details without any
-    financial terms. [^contractual_obligation_map_0_1]; `Vol1DLNP1.pdf`; PDF page(s) 13, 14; `J6de42c5ccbb91294`;
-    [^contractual_obligation_map_0_2]; `Vol1DLNP1.pdf`; PDF page(s) 13, 14; `Sda8c79951ff2d6e2` |
+    financial terms. [^contractual_obligation_map_0_1]; `Vol1DLNP1.pdf`; PDF page(s) 13, 14; `J5d7b86a9eab037bf`;
+    [^contractual_obligation_map_0_2]; `Vol1DLNP1.pdf`; PDF page(s) 13, 14; `S09ca218dbb164dfb` |
 
     | Award | Successful tenderer | The successful tenderer must furnish a performance security of 5% of the Contract
     Price within 21 days of the issue of the Letter of Acceptance. [^contractual_obligation_map_0_3]; `Vol1DLNP1.pdf`;
-    PDF page(s) 142; `J8bd217cf1c0cb384` |
+    PDF page(s) 142; `J68b56efe7d18bd1a` |
 
     | Execution | Contractor / Employer approval | The Contractor is required to follow all safety guidelines, rules,
     regulations, and codes, and must prepare a detailed method statement incorporating a job safety analysis for
     any complicated, hazardous, or high-risk work, securing prior approval from the Employer before commencing execution.
-    [^contractual_obligation_map_0_4]; `Vol3DLNP1.pdf`; PDF page(s) 89; `J5df0d301a256f601` |
+    [^contractual_obligation_map_0_4]; `Vol3DLNP1.pdf`; PDF page(s) 89; `Jb0b666b05284e7b7` |
 
     | Completion | Contractor | The completion period for the whole of the works is 12 months reckoned from the
-    Date of Commencement. [^contractual_obligation_map_0_5]; `Vol1DLNP1.pdf`; PDF page(s) 142; `J6d08f664b55a27f6`
+    Date of Commencement. [^contractual_obligation_map_0_5]; `Vol1DLNP1.pdf`; PDF page(s) 142; `Jaf458862d0ce8129`
     |
 
     | Defects | Review of source discrepancy | Source discrepancy: Contract Data specifies a six-month Defects Liability
     Period, whereas Clause 6 in the unexecuted Contract Agreement template specifies twelve months. The source wording
     uses Taking Over Certificates and Final Taking Over Certificate respectively. Record both durations and seek
     clarification; this wiki does not establish which provision controls. [^contractual_obligation_map_0_6]; `Vol1DLNP1.pdf`;
-    PDF page(s) 143; `J099b5fe5de51f74d`; [^contractual_obligation_map_0_7]; `Vol1DLNP1.pdf`; PDF page(s) 147, 148,
-    149, 150; `Jf9d2ada6599b727b` |
+    PDF page(s) 143; `Jeb83d1b7a6d87fee`; [^contractual_obligation_map_0_7]; `Vol1DLNP1.pdf`; PDF page(s) 147, 148,
+    149, 150; `Jcc49f8beaf50a801` |
 
 
     [^contractual_obligation_map_0_1]: [[OKF_bundle/Technical/Vol1/secB#Clause 9.0 — Composition of Tender Submittals|Clause
@@ -5992,7 +6393,7 @@ hub_extensions:
 
     [^contractual_obligation_map_0_7]: [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract
     Form 1 — Contract Agreement]]'
-last_editorial_review: '2026-11-01T12:36:19+00:00'
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Contractual Obligation Map - Bid Opening Procedures
@@ -6002,150 +6403,150 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Summary
 
 - Tenderers must pay a non-refundable tender fee of INR 11,800/- inclusive of GST via online payment (RTGS/NEFT/IMPS) using specified bank details and upload the proof on the eProcurement portal.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Instruction 2 — Tender Fee Payment|Instruction 2 — Tender Fee Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 8; quotation `Sab84bdd31a8eee3a`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Instruction 2 — Tender Fee Payment|Instruction 2 — Tender Fee Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 8; quotation `J3f9ffdb1e2de70ae`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/instructions/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Instruction 2 — Tender Fee Payment|Instruction 2 — Tender Fee Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 8; quotation `S22a916adcdb444fc`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Instruction 2 — Tender Fee Payment|Instruction 2 — Tender Fee Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 8; quotation `J36c62c71b3666400`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/instructions/1`.
 
 - Tenderers bear all costs associated with preparing and submitting their tenders, and BMRCL is not responsible or liable for those costs regardless of the tendering outcome.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 3.0 — Cost of Tendering|Clause 3.0 — Cost of Tendering]]; `Vol1DLNP1.pdf`; PDF page(s) 11; quotation `Jdbaa211fb059b7b0`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 3.0 — Cost of Tendering|Clause 3.0 — Cost of Tendering]]; `Vol1DLNP1.pdf`; PDF page(s) 11; quotation `S8e11fcfb235cfc68`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 3.0 — Cost of Tendering|Clause 3.0 — Cost of Tendering]]; `Vol1DLNP1.pdf`; PDF page(s) 11; quotation `Jc82f1ced99d58e59`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 3.0 — Cost of Tendering|Clause 3.0 — Cost of Tendering]]; `Vol1DLNP1.pdf`; PDF page(s) 11; quotation `S5f4107b535ec2bb5`.
 
 - Prospective tenderers may request site visits by submitting representative details to the Site Visit Coordinator at least one day in advance, no later than 11:00 Hrs on the preceding day.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 4.0 — Site Visit|Clause 4.0 — Site Visit]]; `Vol1DLNP1.pdf`; PDF page(s) 11, 12; quotation `J38c3dc8eaf4911bc`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 4.0 — Site Visit|Clause 4.0 — Site Visit]]; `Vol1DLNP1.pdf`; PDF page(s) 11, 12; quotation `Sf82a0f0e57aa1e36`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 4.0 — Site Visit|Clause 4.0 — Site Visit]]; `Vol1DLNP1.pdf`; PDF page(s) 11, 12; quotation `J0f81bcbd307215d6`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 4.0 — Site Visit|Clause 4.0 — Site Visit]]; `Vol1DLNP1.pdf`; PDF page(s) 11, 12; quotation `S58526eb02b326b26`.
 
 - Tenderers must examine all tender documents carefully and submit queries through the eProcurement Portal by the deadline mentioned in the NIT.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 6.0 — Clarification on Tender Documents|Clause 6.0 — Clarification on Tender Documents]]; `Vol1DLNP1.pdf`; PDF page(s) 12, 13; quotation `Jd35d8c98e0909190`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 6.0 — Clarification on Tender Documents|Clause 6.0 — Clarification on Tender Documents]]; `Vol1DLNP1.pdf`; PDF page(s) 12, 13; quotation `S17eb0e4ea8c99c8a`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 6.0 — Clarification on Tender Documents|Clause 6.0 — Clarification on Tender Documents]]; `Vol1DLNP1.pdf`; PDF page(s) 12, 13; quotation `J77602b0c2f9e03d2`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 6.0 — Clarification on Tender Documents|Clause 6.0 — Clarification on Tender Documents]]; `Vol1DLNP1.pdf`; PDF page(s) 12, 13; quotation `Sa3f5c5a1eadc5278`.
 
 - The technical bid must be uploaded under the Technical Cover containing EMD, Power of Attorney, complete Letter of Technical Bid with attachments, qualification documents, and technical details without any financial terms.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 9.0 — Composition of Tender Submittals|Clause 9.0 — Composition of Tender Submittals]]; `Vol1DLNP1.pdf`; PDF page(s) 13, 14; quotation `J6de42c5ccbb91294`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/8`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 9.0 — Composition of Tender Submittals|Clause 9.0 — Composition of Tender Submittals]]; `Vol1DLNP1.pdf`; PDF page(s) 13, 14; quotation `Sda8c79951ff2d6e2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 9.0 — Composition of Tender Submittals|Clause 9.0 — Composition of Tender Submittals]]; `Vol1DLNP1.pdf`; PDF page(s) 13, 14; quotation `J5d7b86a9eab037bf`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 9.0 — Composition of Tender Submittals|Clause 9.0 — Composition of Tender Submittals]]; `Vol1DLNP1.pdf`; PDF page(s) 13, 14; quotation `S09ca218dbb164dfb`.
 
 - Bidders must ensure that all required tender security instruments and bidding documents are fully uploaded and submitted before the official deadline displayed on the e-procurement portal dashboard.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 15.0 — Submission of Tenders|Clause 15.0 — Submission of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 19; quotation `J01104c0b7aaa515d`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/14`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 15, 16, 17, 18; quotation `J96e5227223f2186d`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/12`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 16.0 — Failure to Submit Tenders in Time|Clause 16.0 — Failure to Submit Tenders in Time]]; `Vol1DLNP1.pdf`; PDF page(s) 19; quotation `Jc119379a7633f501`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 15.0 — Submission of Tenders|Clause 15.0 — Submission of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 19; quotation `J2cf6807848ed47fc`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 15, 16, 17, 18; quotation `Jce685766e7843ace`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 16.0 — Failure to Submit Tenders in Time|Clause 16.0 — Failure to Submit Tenders in Time]]; `Vol1DLNP1.pdf`; PDF page(s) 19; quotation `J584b82a80c4bdee5`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/15`.
 
 - Aggrieved bidders may appeal under Section 16 of the KTPP Act to the Appellate Authority, which is the Managing Director of BMRCL, before initiating legal proceedings in the courts at Bangalore.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 30.0 — Appeal|Clause 30.0 — Appeal]]; `Vol1DLNP1.pdf`; PDF page(s) 25; quotation `Ja108d43b3f820ccc`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/29`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 30.0 — Appeal|Clause 30.0 — Appeal]]; `Vol1DLNP1.pdf`; PDF page(s) 25; quotation `Sc0cc47900fb0a206`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 30.0 — Appeal|Clause 30.0 — Appeal]]; `Vol1DLNP1.pdf`; PDF page(s) 25; quotation `Jcb7b6d174a0a2144`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/29`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 30.0 — Appeal|Clause 30.0 — Appeal]]; `Vol1DLNP1.pdf`; PDF page(s) 25; quotation `Scd85c70e67fd35e1`.
 
 - The successful tenderer is obligated to sign the formal contract agreement within the period stated in the GCC Contract Data following the notification of award.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 26.0 — Signing of Contract Agreement|Clause 26.0 — Signing of Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 24; quotation `Jdf5a2ffe85eda669`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/25`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 26.0 — Signing of Contract Agreement|Clause 26.0 — Signing of Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 24; quotation `Sb7690f4f4e57213e`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 26.0 — Signing of Contract Agreement|Clause 26.0 — Signing of Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 24; quotation `Jeaa9be238b1f8dfd`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/25`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 26.0 — Signing of Contract Agreement|Clause 26.0 — Signing of Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 24; quotation `S5fb589e21ed8c539`.
 
 - Tenderers must satisfy strict eligibility and qualification criteria, including prohibitions on joint ventures, compliance with class-I local supplier local content rules, land-border restrictions, and specific exclusions.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 2.0 — Eligible Tenderers|Clause 2.0 — Eligible Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 27, 28, 29, 30, 31; quotation `J30e07edea4458b0b`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 2.0 — Eligible Tenderers|Clause 2.0 — Eligible Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 27, 28, 29, 30, 31; quotation `J6d3ed99d534c4170`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/1`.
 
 - Tenderers must furnish client completion certificates clearly indicating the nature, scope, awarded contract value excluding GST, actual completion value excluding GST, and actual completion date.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 33; quotation `J23b99427e4534c36`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/work_experience/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 33; quotation `J4e9308d68b952d29`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/work_experience/2`.
 
 - Where completion certificates are inclusive of taxes, tenderers must deduct applicable GST or a pre-period tax rate of 12% supported by a Chartered Accountant certification.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 33; quotation `Jbe966142c25854ff`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/work_experience/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 33; quotation `J5f4966bec6d1ee14`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/work_experience/3`.
 
 - Certifications and documents provided by Chartered Accountants after 1st July 2019 must contain a valid UDIN verifiable on the ICAI website.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 35; quotation `Jeb7cc5f1d1b4be14`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/financial_standing/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 35; quotation `Je867895b17b3d3b8`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/note_groups/financial_standing/8`.
 
 - The Contractor must execute the Contract Agreement within 30 days from the issue of the Letter of Acceptance.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `J5516f07161b435b2`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `Jb6d88198cad1dbbd`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
 
 - The Contractor is obligated to submit a detailed Site Safety Plan and Site Environmental Plan within 4 weeks from the issue of the Letter of Acceptance.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 88; quotation `J0e6a74396167c946`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/12`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `J5516f07161b435b2`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 88; quotation `Jff563a5330de75d8`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `Jb6d88198cad1dbbd`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
 
 - Claims for additional payment must be notified to the Engineer as soon as possible and within 28 days of the start of the event giving rise to the claim, followed by a fully detailed claim within 28 days of notice.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 17 — Claims, Disputes and Conciliation|Clause 17 — Claims, Disputes and Conciliation]]; `Vol1DLNP1.pdf`; PDF page(s) 139, 140, 141; quotation `J3d99ac833d30d558`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 17 — Claims, Disputes and Conciliation|Clause 17 — Claims, Disputes and Conciliation]]; `Vol1DLNP1.pdf`; PDF page(s) 139, 140, 141; quotation `J3808711ea48ee2c8`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/16`.
 
 - Disputes must first be referred to conciliation within 60 days of receipt of a Notice of Dispute under GCC Clause 17 before initiating any judicial recourse or action at law.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 17 — Claims, Disputes and Conciliation|Clause 17 — Claims, Disputes and Conciliation]]; `Vol1DLNP1.pdf`; PDF page(s) 139, 140, 141; quotation `J3d99ac833d30d558`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 17 — Claims, Disputes and Conciliation|Clause 17 — Claims, Disputes and Conciliation]]; `Vol1DLNP1.pdf`; PDF page(s) 139, 140, 141; quotation `J3808711ea48ee2c8`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/16`.
 
 - The contractual obligation map outlines key duties, submission timelines, and compliance requirements mandated across the tender documents for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J0562abcc824c4f49`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 3.0 — Compliance|Clause 3.0 — Compliance]]; `Vol3DLNP1.pdf`; PDF page(s) 12, 13; quotation `J4dbf3d178da92201`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J6e268122a6c15b66`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 3.0 — Compliance|Clause 3.0 — Compliance]]; `Vol3DLNP1.pdf`; PDF page(s) 12, 13; quotation `J7502791d30e9933d`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/2`.
 
 - Contractor obligations under Vol 3 Part 2 encompass mandatory statutory notifications, deployment of certified safety personnel, adherence to standard codes of practice (BIS, IRC, BOCWR), and establishment of formal permit-to-work and traffic management systems.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 56; quotation `J21e90e6538c791d8`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/25`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 57; quotation `J906a5c528c244560`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/26`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 55; quotation `Jdcb3c48e22084aac`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/24`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 56; quotation `Jc6480c3a93eb611b`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/25`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 57; quotation `Jee37894331f7ed66`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/26`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 55; quotation `J8612e576d566fd66`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/24`.
 
 - The contractor bears all costs for required employee medical examinations, maintains confidential records, and ensures compliance with occupational health, welfare, and noise control standards.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66; quotation `J573bee61f4ed333d`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 43.0 — Noise|Clause 43.0 — Noise]]; `Vol3DLNP1.pdf`; PDF page(s) 66; quotation `Jf38211de591ad373`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/2/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66; quotation `J44c81c9cdd51865e`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 43.0 — Noise|Clause 43.0 — Noise]]; `Vol3DLNP1.pdf`; PDF page(s) 66; quotation `J96c0758e1616249f`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/2/fragments/0`.
 
 - The contractor must conduct monthly illumination monitoring by lux meter, submit reports to the Employer within the 7th of the next month, and review them during monthly SHE committee meetings.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 71; quotation `J854b5685ebe1a5e4`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 71; quotation `J58e05cc1d406b16b`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/7`.
 
 - Tenderers must quote percentage rates in two decimals for Schedule-A with 'At Par / Excess / Less' options, select 'At Par' for Schedule-B, and offer a lump-sum salvage credit for Schedule-C.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J8c215615fb864781`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/2`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#1.0 — Pricing Document Preamble and Instructions|1.0 — Pricing Document Preamble and Instructions]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `S19382a03427e15ba`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J6ae42a6e278602f6`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/2`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#1.0 — Pricing Document Preamble and Instructions|1.0 — Pricing Document Preamble and Instructions]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `S10ec60af02b3e977`.
 
 - Contractors are obligated to bear all costs for temporary utility relocation, temporary supports, false works, and safety measures without extra financial implications for BMRCL.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J432ebedc9365fe77`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/10`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `J55b95dcabf6ea8f6`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/14`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J932d0b53398fa689`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/7`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Jba70615c46c75144`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/8`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Jf59d2ba0ab69a572`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/9`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#1.0 — Pricing Document Preamble and Instructions|1.0 — Pricing Document Preamble and Instructions]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `S19382a03427e15ba`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J6d6de1f6e47891f2`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/10`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `Jcf4af13d171ee905`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/14`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J4ffd739221ad1c6d`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/7`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Ja8a3909a1accb5d4`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/8`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J419e679869f97569`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/9`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#1.0 — Pricing Document Preamble and Instructions|1.0 — Pricing Document Preamble and Instructions]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `S10ec60af02b3e977`.
 
 - Volume 4 pricing instructions impose specific financial and operational obligations on the contractor regarding utility relocation, temporary supports, permanent structural restoration using Common SR 2023-24, debris disposal at BBMP/GBA facilities, and salvage material credits.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J6f83ecf77cc57b25`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `Jdacd5cece2eca4d3`. JSON: `parsed_json/vol4/pricing_document.json#/pages/6`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Jf17d55c6acfde864`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `J002388868106a238`. JSON: `parsed_json/vol4/pricing_document.json#/pages/6`.
 
 - Corrigendum No. 2 introduces new Special Conditions of Contract (SCC Clauses 4 through 10) which explicitly state that entire GCC subclauses regarding sub-contractors, early completion incentives, price variations, mobilization advances, plant & machinery advances, special/acceleration advances, and professional indemnity insurance stand deleted.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J1dd8bce37ef510fc`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J432b23c1c3a0838e`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/11`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J5075223d6e496a2a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/12`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J5d3bb44b86c8dbc6`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/9`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Ja338361a10571a5c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/10`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Jb6dbe6e9c034af69`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/8`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Jfd41b6562ee997ba`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/7`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J42ebc7a9caffaf7c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J472f04a0581e5138`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/11`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 3; quotation `J1daf1ac7056acbc2`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/12`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Ja33aa367f0eabe79`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/9`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J68b661210475bcab`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/10`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J9f1e91a67a75186a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/8`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J830981895ce0b48b`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/7`.
 
 - Tenderers must carefully examine all instructions, forms, terms, and specifications before submission; failure to comply with tender document requirements is entirely at the tenderer's own risk.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 5.0 — Contents of Tender Documents|Clause 5.0 — Contents of Tender Documents]]; `Vol1DLNP1.pdf`; PDF page(s) 12; quotation `J779ebe20ca5d5821`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 5.0 — Contents of Tender Documents|Clause 5.0 — Contents of Tender Documents]]; `Vol1DLNP1.pdf`; PDF page(s) 12; quotation `J43ced15c147bcb43`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/4`.
 
 - During technical evaluation, BMRCL may request clarifications in writing through the eProcurement Portal, but respondents are barred from submitting additional documents unrelated to the specific clarification sought.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 20.0 — Clarification of Tenders|Clause 20.0 — Clarification of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 20; quotation `J8ff3d75e3a108c4e`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/19`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 20.0 — Clarification of Tenders|Clause 20.0 — Clarification of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 20; quotation `Jecec2d2b1a0fba3a`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/19`.
 
 - ITT 20.2 requires documents establishing eligibility and qualification, and other mandatory requirements, to be submitted before the deadline. Under ITT 20.1, the Employer may request clarification but is not obliged to do so; additional documents unrelated to the clarification sought are not permitted, and responses leading to material changes are not considered. These provisions do not by themselves support a blanket statement that every initial omission is incapable of clarification.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 20.0 — Clarification of Tenders|Clause 20.0 — Clarification of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 20; quotation `J8ff3d75e3a108c4e`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/19`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 20.0 — Clarification of Tenders|Clause 20.0 — Clarification of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 20; quotation `Jecec2d2b1a0fba3a`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/19`.
 
 - Tenderers must apply strictly as a single entity as joint ventures and consortia are prohibited, and suppliers must meet the 90% Class-I local content criteria with mandatory declarations.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 2.0 — Eligible Tenderers|Clause 2.0 — Eligible Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 27, 28, 29, 30, 31; quotation `J30e07edea4458b0b`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 2.0 — Eligible Tenderers|Clause 2.0 — Eligible Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 27, 28, 29, 30, 31; quotation `J6d3ed99d534c4170`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/1`.
 
 - EQC 2.9 states that a bidder’s false declaration of Class-I Local Supplier status results in rejection of its proposal and debarment for up to two years.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 2.0 — Eligible Tenderers|Clause 2.0 — Eligible Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 27, 28, 29, 30, 31; quotation `J30e07edea4458b0b`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 2.0 — Eligible Tenderers|Clause 2.0 — Eligible Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 27, 28, 29, 30, 31; quotation `J6d3ed99d534c4170`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/1`.
 
 - The date and time of opening of the financial bid (online) will be provided after the evaluation of technical bids.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 14 — Opening of Financial Bid|Key Detail 14 — Opening of Financial Bid]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Jbba96dce4d8c3907`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 14 — Opening of Financial Bid|Key Detail 14 — Opening of Financial Bid]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J020ea17beaf23dde`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/13`.
 
 ## Key Parameters and Source Statements
 
 - Joint venture participation is explicitly not permitted for Contract Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 13 — Participation as Joint Venture|Key Detail 13 — Participation as Joint Venture]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `S0e5f935d1e01eafc`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 13 — Participation as Joint Venture|Key Detail 13 — Participation as Joint Venture]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J47d61d669d8f1d64`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/12`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 13 — Participation as Joint Venture|Key Detail 13 — Participation as Joint Venture]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J270535df426ce06d`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 13 — Participation as Joint Venture|Key Detail 13 — Participation as Joint Venture]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `S096690399aef8a63`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 13 — Participation as Joint Venture|Key Detail 13 — Participation as Joint Venture]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J25cabf10f5eaecbc`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 13 — Participation as Joint Venture|Key Detail 13 — Participation as Joint Venture]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J1c72f52ca35012ca`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/12`.
 
 - If an initial tender security is valid for the tender validity period but does not cover the required security validity period, BMRCL will notify the bidder in writing to furnish a compliant instrument within fifteen working days.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 15, 16, 17, 18; quotation `J96e5227223f2186d`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 15, 16, 17, 18; quotation `Jce685766e7843ace`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/12`.
 
 - False declarations regarding class-I local supplier status result in proposal rejection and debarment for up to two years.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 2.0 — Eligible Tenderers|Clause 2.0 — Eligible Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 27, 28, 29, 30, 31; quotation `J30e07edea4458b0b`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 2.0 — Eligible Tenderers|Clause 2.0 — Eligible Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 27, 28, 29, 30, 31; quotation `J6d3ed99d534c4170`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/1`.
 
 - Where requirements stated in Volume 3 Part 1 are less stringent than or in conflict with applicable Indian legislation, the country's legislation shall apply.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 3.0 — Compliance|Clause 3.0 — Compliance]]; `Vol3DLNP1.pdf`; PDF page(s) 12, 13; quotation `J4dbf3d178da92201`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 3.0 — Compliance|Clause 3.0 — Compliance]]; `Vol3DLNP1.pdf`; PDF page(s) 12, 13; quotation `J7502791d30e9933d`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/2`.
 
 - Under price bid declarations, submission of incorrect information or suppression of material facts authorizes BMRCL to reject future tenders, cancel awarded contracts without financial claims or arbitration, and remove the agency from the qualified panel, in addition to GCC Clause 4.33 provisions.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 5; quotation `J19381435b66c635e`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/25`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 5; quotation `J20480575219a693b`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/22`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 5; quotation `J9e654ced7e279231`. JSON: `parsed_json/vol4/pricing_document.json#/pages/4`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 5; quotation `Jf2d715f2b0e8eae4`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/24`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 5; quotation `Jec1d6ae7c799b64a`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/23`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 5; quotation `J84940809d1568063`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/25`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 5; quotation `Je6dc567de94be4b6`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/22`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 5; quotation `Jf43207b408db4186`. JSON: `parsed_json/vol4/pricing_document.json#/pages/4`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 5; quotation `J8bd86a88983cc67a`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/24`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 5; quotation `J486df63439fb1a7d`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/23`.
 
 - If a bidder fails to provide requested bid clarifications by the deadline and time set in BMRCL's request, their bid will be evaluated strictly on the basis of information available in the originally submitted bid.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 20.0 — Clarification of Tenders|Clause 20.0 — Clarification of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 20; quotation `J8ff3d75e3a108c4e`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/19`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 20.0 — Clarification of Tenders|Clause 20.0 — Clarification of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 20; quotation `Jecec2d2b1a0fba3a`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/19`.
 
 - GCC 1.5 states this document priority: Contract Agreement; Letter of Acceptance; Clarifications/Addenda/Corrigenda; Pricing Document; SCC; Contract forms; GCC; Employer Requirements and Technical Specifications; Drawings; other contract documents. It instructs the Engineer to clarify conflict, ambiguity or discrepancy. Contract Data is not separately ranked in this list, so SCC > GCC > Contract Data is not published as an independently established full chain.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 1 — Definitions and Interpretation|Clause 1 — Definitions and Interpretation]]; `Vol1DLNP1.pdf`; PDF page(s) 70, 71, 72, 73, 74, 75; quotation `J166f7c346f54a774`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 1 — Definitions and Interpretation|Clause 1 — Definitions and Interpretation]]; `Vol1DLNP1.pdf`; PDF page(s) 70, 71, 72, 73, 74, 75; quotation `J327789a2a7201b30`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/0`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol1/secA#Instruction 2 — Tender Fee Payment|Instruction 2 — Tender Fee Payment]]
@@ -6181,9 +6582,9 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Typed Relations
 
 - **relates_to (editorial, inferred):** [[wiki/concepts/similar_work_and_past_jv_evidence|Similar-Work Evidence and Historical JV Participation]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 2.0 — Eligible Tenderers|Clause 2.0 — Eligible Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 27, 28, 29, 30, 31; `J30e07edea4458b0b`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 2.0 — Eligible Tenderers|Clause 2.0 — Eligible Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 27, 28, 29, 30, 31; `J6d3ed99d534c4170`.
 - **relates_to (editorial, inferred):** [[wiki/concepts/salvage_ownership_and_credit|Salvage Ownership and Schedule C Credit]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; `J6f83ecf77cc57b25`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; `Jf17d55c6acfde864`.
 
 ## Open Questions and Contradictions
 
@@ -6193,11 +6594,11 @@ No additional contradiction is recorded on this page. PDF verification and full 
 
 | Stage | Party / role | Source-stated obligation or issue |
 |---|---|---|
-| Bid | Tenderer | The technical bid must be uploaded under the Technical Cover containing EMD, Power of Attorney, complete Letter of Technical Bid with attachments, qualification documents, and technical details without any financial terms. [^contractual_obligation_map_0_1]; `Vol1DLNP1.pdf`; PDF page(s) 13, 14; `J6de42c5ccbb91294`; [^contractual_obligation_map_0_2]; `Vol1DLNP1.pdf`; PDF page(s) 13, 14; `Sda8c79951ff2d6e2` |
-| Award | Successful tenderer | The successful tenderer must furnish a performance security of 5% of the Contract Price within 21 days of the issue of the Letter of Acceptance. [^contractual_obligation_map_0_3]; `Vol1DLNP1.pdf`; PDF page(s) 142; `J8bd217cf1c0cb384` |
-| Execution | Contractor / Employer approval | The Contractor is required to follow all safety guidelines, rules, regulations, and codes, and must prepare a detailed method statement incorporating a job safety analysis for any complicated, hazardous, or high-risk work, securing prior approval from the Employer before commencing execution. [^contractual_obligation_map_0_4]; `Vol3DLNP1.pdf`; PDF page(s) 89; `J5df0d301a256f601` |
-| Completion | Contractor | The completion period for the whole of the works is 12 months reckoned from the Date of Commencement. [^contractual_obligation_map_0_5]; `Vol1DLNP1.pdf`; PDF page(s) 142; `J6d08f664b55a27f6` |
-| Defects | Review of source discrepancy | Source discrepancy: Contract Data specifies a six-month Defects Liability Period, whereas Clause 6 in the unexecuted Contract Agreement template specifies twelve months. The source wording uses Taking Over Certificates and Final Taking Over Certificate respectively. Record both durations and seek clarification; this wiki does not establish which provision controls. [^contractual_obligation_map_0_6]; `Vol1DLNP1.pdf`; PDF page(s) 143; `J099b5fe5de51f74d`; [^contractual_obligation_map_0_7]; `Vol1DLNP1.pdf`; PDF page(s) 147, 148, 149, 150; `Jf9d2ada6599b727b` |
+| Bid | Tenderer | The technical bid must be uploaded under the Technical Cover containing EMD, Power of Attorney, complete Letter of Technical Bid with attachments, qualification documents, and technical details without any financial terms. [^contractual_obligation_map_0_1]; `Vol1DLNP1.pdf`; PDF page(s) 13, 14; `J5d7b86a9eab037bf`; [^contractual_obligation_map_0_2]; `Vol1DLNP1.pdf`; PDF page(s) 13, 14; `S09ca218dbb164dfb` |
+| Award | Successful tenderer | The successful tenderer must furnish a performance security of 5% of the Contract Price within 21 days of the issue of the Letter of Acceptance. [^contractual_obligation_map_0_3]; `Vol1DLNP1.pdf`; PDF page(s) 142; `J68b56efe7d18bd1a` |
+| Execution | Contractor / Employer approval | The Contractor is required to follow all safety guidelines, rules, regulations, and codes, and must prepare a detailed method statement incorporating a job safety analysis for any complicated, hazardous, or high-risk work, securing prior approval from the Employer before commencing execution. [^contractual_obligation_map_0_4]; `Vol3DLNP1.pdf`; PDF page(s) 89; `Jb0b666b05284e7b7` |
+| Completion | Contractor | The completion period for the whole of the works is 12 months reckoned from the Date of Commencement. [^contractual_obligation_map_0_5]; `Vol1DLNP1.pdf`; PDF page(s) 142; `Jaf458862d0ce8129` |
+| Defects | Review of source discrepancy | Source discrepancy: Contract Data specifies a six-month Defects Liability Period, whereas Clause 6 in the unexecuted Contract Agreement template specifies twelve months. The source wording uses Taking Over Certificates and Final Taking Over Certificate respectively. Record both durations and seek clarification; this wiki does not establish which provision controls. [^contractual_obligation_map_0_6]; `Vol1DLNP1.pdf`; PDF page(s) 143; `Jeb83d1b7a6d87fee`; [^contractual_obligation_map_0_7]; `Vol1DLNP1.pdf`; PDF page(s) 147, 148, 149, 150; `Jcc49f8beaf50a801` |
 
 [^contractual_obligation_map_0_1]: [[OKF_bundle/Technical/Vol1/secB#Clause 9.0 — Composition of Tender Submittals|Clause 9.0 — Composition of Tender Submittals]]
 [^contractual_obligation_map_0_2]: [[OKF_bundle/Technical/Vol1/secB#Clause 9.0 — Composition of Tender Submittals|Clause 9.0 — Composition of Tender Submittals]]
@@ -6210,7 +6611,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### Sab84bdd31a8eee3a
+### S22a916adcdb444fc
 
 [[OKF_bundle/Technical/Vol1/secA#Instruction 2 — Tender Fee Payment|Instruction 2 — Tender Fee Payment]]
 
@@ -6223,7 +6624,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Account Number:** `840420110000760`.
 > - **RTGS/IFSC:** `BKID0008404`.
 
-### J3f9ffdb1e2de70ae
+### J36c62c71b3666400
 
 [[OKF_bundle/Technical/Vol1/secA#Instruction 2 — Tender Fee Payment|Instruction 2 — Tender Fee Payment]]
 
@@ -6238,13 +6639,13 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### S0e5f935d1e01eafc
+### S096690399aef8a63
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 13 — Participation as Joint Venture|Key Detail 13 — Participation as Joint Venture]]
 
 > - **Joint Venture Participation:** Not Permitted.
 
-### J47d61d669d8f1d64
+### J25cabf10f5eaecbc
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 13 — Participation as Joint Venture|Key Detail 13 — Participation as Joint Venture]]
 
@@ -6259,7 +6660,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J270535df426ce06d
+### J1c72f52ca35012ca
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 13 — Participation as Joint Venture|Key Detail 13 — Participation as Joint Venture]]
 
@@ -6303,7 +6704,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "value": "Not Permitted"
 > }
 
-### Jdbaa211fb059b7b0
+### Jc82f1ced99d58e59
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 3.0 — Cost of Tendering|Clause 3.0 — Cost of Tendering]]
 
@@ -6319,13 +6720,13 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### S8e11fcfb235cfc68
+### S5f4107b535ec2bb5
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 3.0 — Cost of Tendering|Clause 3.0 — Cost of Tendering]]
 
 > - **Tender Preparation Costs**
 
-### J38c3dc8eaf4911bc
+### J0f81bcbd307215d6
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 4.0 — Site Visit|Clause 4.0 — Site Visit]]
 
@@ -6345,7 +6746,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Sf82a0f0e57aa1e36
+### S58526eb02b326b26
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 4.0 — Site Visit|Clause 4.0 — Site Visit]]
 
@@ -6353,7 +6754,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Site Familiarisation** 
 > - **Site-Related Responsibility**
 
-### Jd35d8c98e0909190
+### J77602b0c2f9e03d2
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 6.0 — Clarification on Tender Documents|Clause 6.0 — Clarification on Tender Documents]]
 
@@ -6373,14 +6774,14 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### S17eb0e4ea8c99c8a
+### Sa3f5c5a1eadc5278
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 6.0 — Clarification on Tender Documents|Clause 6.0 — Clarification on Tender Documents]]
 
 > - **Tender Document Clarifications** 
 > - **Clarification Process**
 
-### J6de42c5ccbb91294
+### J5d7b86a9eab037bf
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 9.0 — Composition of Tender Submittals|Clause 9.0 — Composition of Tender Submittals]]
 
@@ -6400,7 +6801,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Sda8c79951ff2d6e2
+### S09ca218dbb164dfb
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 9.0 — Composition of Tender Submittals|Clause 9.0 — Composition of Tender Submittals]]
 
@@ -6411,7 +6812,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Financial Bid Documents** (Clause 9.4) 
 > - **Tenderer Responsibility** (Clause 9.5)
 
-### J01104c0b7aaa515d
+### J2cf6807848ed47fc
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 15.0 — Submission of Tenders|Clause 15.0 — Submission of Tenders]]
 
@@ -6427,7 +6828,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J96e5227223f2186d
+### Jce685766e7843ace
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]
 
@@ -6455,7 +6856,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Jc119379a7633f501
+### J584b82a80c4bdee5
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 16.0 — Failure to Submit Tenders in Time|Clause 16.0 — Failure to Submit Tenders in Time]]
 
@@ -6471,7 +6872,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Ja108d43b3f820ccc
+### Jcb7b6d174a0a2144
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 30.0 — Appeal|Clause 30.0 — Appeal]]
 
@@ -6487,14 +6888,14 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Sc0cc47900fb0a206
+### Scd85c70e67fd35e1
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 30.0 — Appeal|Clause 30.0 — Appeal]]
 
 > - **Appeal Authority** (Clause 30.1)
 > - **Jurisdiction** (Clause 30.2)
 
-### Jdf5a2ffe85eda669
+### Jeaa9be238b1f8dfd
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 26.0 — Signing of Contract Agreement|Clause 26.0 — Signing of Contract Agreement]]
 
@@ -6510,14 +6911,14 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Sb7690f4f4e57213e
+### S5fb589e21ed8c539
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 26.0 — Signing of Contract Agreement|Clause 26.0 — Signing of Contract Agreement]]
 
 > - **Contract Agreement Preparation**
 > - **Execution Deadline**
 
-### J30e07edea4458b0b
+### J6d3ed99d534c4170
 
 [[OKF_bundle/Technical/Vol1/secC#Clause 2.0 — Eligible Tenderers|Clause 2.0 — Eligible Tenderers]]
 
@@ -6549,7 +6950,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Eligible Tenderers"
 > }
 
-### J23b99427e4534c36
+### J4e9308d68b952d29
 
 [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]
 
@@ -6565,7 +6966,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Jbe966142c25854ff
+### J5f4966bec6d1ee14
 
 [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]
 
@@ -6581,7 +6982,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Jeb7cc5f1d1b4be14
+### Je867895b17b3d3b8
 
 [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]
 
@@ -6597,7 +6998,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J5516f07161b435b2
+### Jb6d88198cad1dbbd
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -6618,7 +7019,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Contract Data"
 > }
 
-### J0e6a74396167c946
+### Jff563a5330de75d8
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -6627,7 +7028,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "Protection   of  4.17       The Contractor shall take all reasonable steps to protect the environment (both on\n     the                       and off the Site) and to avoid injury, damage and nuisance to people and property\n    Environment                   resulting from pollution, noise and other results of his operations. The Contractor\n                                        shall ensure that air emissions, surface discharges and effluent from the Site\n                                    during the Contract Period shall not exceed the values indicated in the Employer's\n                                Requirements & Technical  specifications, and  shall not exceed the values\n                                    prescribed by law. The Contractor shall conform to the Employer’s Requirements\n                         & Technical specifications and shall indemnify the Employer against any liability\n                                     or damages or claims arising out of his operations. The Contractor shall be\n                                    responsible and liable for any stoppage, closure or suspension of the works due\n                                        to any contravention of statutory requirements relating to the protection of the\n                                 environment and shall indemnify and keep indemnified the Employer in this\n                                     regard.\n                                     Outline Environmental Plan means the environmental plan forming part of the\n                                  Tender, setting out,  in summary form, the Contractor's proposed means of\n                                 complying  with  his  obligations  in  relation  to  environmental  quality.  Site\n                                  Environmental Plan means the site environmental plan including all supplements\n                                       thereto, or any amended or varied version thereof, as submitted by the Contractor\n                                           in accordance with Employer’s Safety, Health and Environmental Manual (SHE\n                                  Manual), this Clause and which has received the Engineer’s consent. The Site\n                                  Environmental Plan shall include detailed policies, procedures and regulations\n                                   which, when implemented,  will ensure compliance  with  this  Clause. The\n                                    Contractor is required to make himself aware of  all the requirements of the\n                                 Employer’s SHE Manual in this regard and comply with them.\n\n                             The Contractor's Site Environmental Plan shall be developed from his Employer’s\n                                     Safety. Health and Environmental Manual (SHE Manual), as per the Employer's\n                                 Requirements.\n\n                       4.17.1      Within stipulated time as mentioned in ‘contract data’, the Contractor shall submit\n                              a detailed and comprehensive Site Environmental Plan based on the Employer’s\n                                     Safety, Health and Environmental Manual (SHE Manual), and shall include such\n                                        further material, which the Contractor considers necessary and relevant.\n\n                            Upon the Engineer notifying his consent to the Site Environmental Plan, or any\n                                 supplemental part thereof, the Contractor shall adhere to the principles and\n                                 procedures contained in such document save to the extent that the Engineer may\n                                    give his consent to any amended or varied version thereof.\n                             The Contractor shall provide all necessary access, assistance and facilities to\n                                 enable the Engineer and the Employer to monitor and conduct tests to verify that\n                                    the Site Environmental Plan is being properly and fully implemented.\n\n      Electricity,       4.18      The Contractor shall be responsible for making his own arrangements at his own\n    Water and Gas                cost to obtain supply of water, electricity or gas for the Works. The Employer where\n                                       feasible may at his discretion assist the Contractor in giving recommendatory\n                                           letters etc.\n     Tools, Plants     4.19       Except for any specific item mentioned in the Special Conditions of Contract or in\n    And Equipment              Employer’s Requirements, the Contractor shall provide  all tools, plants and\n    Supplied By                Equipment  for the Works.  In respect  of such exceptional  tools, plants  or\n    The Employer              Equipment committed to be provided by the Employer under terms and conditions\n                                      specified in the Special Conditions of Contract, the Contractor shall take  all\n                                  reasonable care and shall be responsible for all damages or loss caused by him,\n                                       his representatives, sub-contractors or his workmen or others while they are in his\n                                   charge.\n                          No  tools, plant and equipment shall be supplied by the Employer. Unless\n                                         specifically incorporated in special conditions, the Contractor has to arrange all\n                                          tools, plant, equipment required for the work.\n                         On completion of the Works, the Contractor shall hand over the unused balance\n                                        of the tools, plants and Equipment supplied by the Employer to the Employer back\n                                           in good order and repair, fair wear and tear expected, and shall be responsible for\n                               any failure to account for the same or any damage done thereto.\n                             The decision of the Engineer as to the amount recoverable from the Contractor on\n                                            this account shall be final and binding."
 > }
 
-### J3d99ac833d30d558
+### J3808711ea48ee2c8
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 17 — Claims, Disputes and Conciliation|Clause 17 — Claims, Disputes and Conciliation]]
 
@@ -6652,7 +7053,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Claims, Disputes and Conciliation"
 > }
 
-### J0562abcc824c4f49
+### J6e268122a6c15b66
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]
 
@@ -7110,7 +7511,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Contractor SHE Policy and Plan"
 > }
 
-### J4dbf3d178da92201
+### J7502791d30e9933d
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 3.0 — Compliance|Clause 3.0 — Compliance]]
 
@@ -7873,7 +8274,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Compliance"
 > }
 
-### J21e90e6538c791d8
+### Jc6480c3a93eb611b
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -7944,7 +8345,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J906a5c528c244560
+### Jee37894331f7ed66
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -8025,7 +8426,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jdcb3c48e22084aac
+### J8612e576d566fd66
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -8106,7 +8507,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J573bee61f4ed333d
+### J44c81c9cdd51865e
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]
 
@@ -9008,7 +9409,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Medical Facilities"
 > }
 
-### Jf38211de591ad373
+### J96c0758e1616249f
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 43.0 — Noise|Clause 43.0 — Noise]]
 
@@ -9017,7 +9418,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "43.0     Noise\n\n\n43.1    The Contractor shall consider noise as an environmental constraint in his design,\n          planning and execution of the Works and provide demonstrable evidence of the same\n        on Employer’s request. The Contractor shall, at his own expense, take all appropriate\n        measures  to ensure  that work  carried out by the Contractor and by  his sub-\n          Contractors, whether on or off the Site, will not cause any unnecessary or excessive\n         noise which may disturb the occupants of any nearby dwellings, schools, hospitals, or\n         premises with similar sensitivity to noise.\n\n\n43.1.1    Without prejudice to the generality of the foregoing, noise level reduction measures\n           shall include the following:\n\n\n                i)    The Contractor shall ensure that all powered mechanical equipment used in the\n             Works shall be effectively sound reduced using the most modern techniques\n                available including but not limited to silencers and mufflers.\n\n                  ii)   The Contractor shall construct acoustic screens or enclosures around any parts\n                 of the Works from which excessive noise may be generated.\n\n\n43.1.2   The Contractor shall ensure that noise generated by work carried out by the Contractor\n        and his sub-Contractors during daytime and night time shall not exceed the maximum\n          permissible noise limits, whether continuously or intermittently, as given in the project\n       SHE Manual. The same may be varied from time to time by and at the sole discretion\n           of the Employer, In the event of a breach of this requirement, the Contractor shall\n         immediately re-deploy or adjust the relevant equipment or take other appropriate\n        measures to reduce the noise levels and thereafter maintain them at levels which do\n          not exceed the said limits. Such measures may include without limitation the temporary\n          or permanent cessation of use of certain items of equipment."
 > }
 
-### J854b5685ebe1a5e4
+### J58e05cc1d406b16b
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]
 
@@ -9138,7 +9539,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J8c215615fb864781
+### J6ae42a6e278602f6
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -9217,7 +9618,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### S19382a03427e15ba
+### S10ec60af02b3e977
 
 [[OKF_bundle/Financial/vol4_secJ#1.0 — Pricing Document Preamble and Instructions|1.0 — Pricing Document Preamble and Instructions]]
 
@@ -9249,7 +9650,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Total Floor Area as the Sum of Built Areas of All Floors** (Instruction 20)
 > - **Building Additions or Deletions and Accepted Percentage Rates** (Instruction 21)
 
-### J432ebedc9365fe77
+### J6d6de1f6e47891f2
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -9298,7 +9699,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### J55b95dcabf6ea8f6
+### Jcf4af13d171ee905
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -9367,7 +9768,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### J932d0b53398fa689
+### J4ffd739221ad1c6d
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -9446,7 +9847,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### Jba70615c46c75144
+### Ja8a3909a1accb5d4
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -9495,7 +9896,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### Jf59d2ba0ab69a572
+### J419e679869f97569
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -9554,7 +9955,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### J6f83ecf77cc57b25
+### Jf17d55c6acfde864
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -9737,7 +10138,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jdacd5cece2eca4d3
+### J002388868106a238
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -9910,7 +10311,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J19381435b66c635e
+### J84940809d1568063
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -9941,7 +10342,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "declaration_subpoint"
 > }
 
-### J20480575219a693b
+### Je6dc567de94be4b6
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -10060,7 +10461,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "price_bid_declaration"
 > }
 
-### J9e654ced7e279231
+### Jf43207b408db4186
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -10293,7 +10694,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jf2d715f2b0e8eae4
+### J8bd86a88983cc67a
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -10344,7 +10745,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "declaration_subpoint"
 > }
 
-### Jec1d6ae7c799b64a
+### J486df63439fb1a7d
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -10385,7 +10786,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "declaration_subpoint"
 > }
 
-### J1dd8bce37ef510fc
+### J42ebc7a9caffaf7c
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -10423,7 +10824,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J432b23c1c3a0838e
+### J472f04a0581e5138
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -10461,7 +10862,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J5075223d6e496a2a
+### J1daf1ac7056acbc2
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -10499,7 +10900,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J5d3bb44b86c8dbc6
+### Ja33aa367f0eabe79
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -10537,7 +10938,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### Ja338361a10571a5c
+### J68b661210475bcab
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -10575,7 +10976,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### Jb6dbe6e9c034af69
+### J9f1e91a67a75186a
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -10617,7 +11018,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### Jfd41b6562ee997ba
+### J830981895ce0b48b
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -10655,7 +11056,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J779ebe20ca5d5821
+### J43ced15c147bcb43
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 5.0 — Contents of Tender Documents|Clause 5.0 — Contents of Tender Documents]]
 
@@ -10671,7 +11072,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J8ff3d75e3a108c4e
+### Jecec2d2b1a0fba3a
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 20.0 — Clarification of Tenders|Clause 20.0 — Clarification of Tenders]]
 
@@ -10687,7 +11088,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Jbba96dce4d8c3907
+### J020ea17beaf23dde
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 14 — Opening of Financial Bid|Key Detail 14 — Opening of Financial Bid]]
 
@@ -10702,7 +11103,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J166f7c346f54a774
+### J327789a2a7201b30
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 1 — Definitions and Interpretation|Clause 1 — Definitions and Interpretation]]
 

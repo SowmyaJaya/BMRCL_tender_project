@@ -6,61 +6,61 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-31T16:16:19+00:00'
-updated_at: '2026-11-01T12:36:19+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-10-31T16:16:19+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-  okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+  okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
   source_document: AandC3_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/13
   source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-  okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+  okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
   source_document: AandC3_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/16
   source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-  okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+  okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
   source_document: AandC3_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/15
   source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-  okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+  okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
   source_document: AandC3_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/14
   source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-  okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+  okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
   source_document: DLN_P1_AandC1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/3
   source_sha256: 26b25a4e3c3d3206635d0ddae6ce70c00e51468ebb4fe5d93f5e9d65902942d1
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-  okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+  okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
   source_document: DLN_P1_AandC1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/0
   source_sha256: 26b25a4e3c3d3206635d0ddae6ce70c00e51468ebb4fe5d93f5e9d65902942d1
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-  okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+  okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
   source_document: DLN_P1_AandC1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/1
   source_sha256: 26b25a4e3c3d3206635d0ddae6ce70c00e51468ebb4fe5d93f5e9d65902942d1
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-  okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+  okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
   source_document: DLN_P1_AandC1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
@@ -71,19 +71,19 @@ claims:
   text: Addendum and Corrigendum No. 3 explicitly amends serial 1 of Addendum and Corrigendum No. 1 dated 01-10-2026
     across NIT Key Details 5, 10, 11, and 12.
   evidence_ids:
-  - J4805b52601f511db
-  - J8827536a17c54d1a
-  - J9e0c4f73f95653c7
-  - Ja47b3c8a3cc00974
+  - J827a319dc3712125
+  - J01cf445b9bb9f862
+  - J0daa272fa51cc074
+  - J8f918d1afc408a15
   relation_type: amends
   explicitness: explicit
-  from_id: J4805b52601f511db
-  to_id: J8827536a17c54d1a
-  id: C375dd864e21dd10b
+  from_id: J827a319dc3712125
+  to_id: J01cf445b9bb9f862
+  id: Cd14a8294b0dcad94
   citations:
-  - id: J4805b52601f511db
+  - id: J827a319dc3712125
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 2 — Online Tender Submission Date and Time
     source_document: AandC3_DLN_P1_157.PDF
     source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
@@ -110,9 +110,9 @@ claims:
       : \"Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: amendment_entry_navigation
-  - id: J8827536a17c54d1a
+  - id: J01cf445b9bb9f862
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 1 — Tender Document Availability Period
     source_document: AandC3_DLN_P1_157.PDF
     source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
@@ -139,9 +139,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: amendment_entry_navigation
-  - id: J9e0c4f73f95653c7
+  - id: J0daa272fa51cc074
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 4 — Submission of Original Tender Security Instruments
     source_document: AandC3_DLN_P1_157.PDF
     source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
@@ -167,9 +167,9 @@ claims:
       : \"Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: amendment_entry_navigation
-  - id: Ja47b3c8a3cc00974
+  - id: J8f918d1afc408a15
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 3 — Opening of Technical Bid Online
     source_document: AandC3_DLN_P1_157.PDF
     source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
@@ -197,21 +197,34 @@ claims:
     heading_alignment: amendment_entry_navigation
   created_at: '2026-10-31T16:16:19+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C375dd864e21dd10b
+    previous_evidence_ids:
+    - J4805b52601f511db
+    - J8827536a17c54d1a
+    - J9e0c4f73f95653c7
+    - Ja47b3c8a3cc00974
+    previous_from_id: J4805b52601f511db
+    previous_to_id: J8827536a17c54d1a
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: relation
   text: C3 explicitly replaces the C1 date/time fields for NIT Key Detail 5; this supersession concerns those fields
     only and preserves C1 as historical evidence.
   evidence_ids:
-  - J8827536a17c54d1a
-  - J9631f301faa8967c
+  - J01cf445b9bb9f862
+  - J5c7b124982dd60e9
   relation_type: supersedes
   explicitness: explicit
-  from_id: J8827536a17c54d1a
-  to_id: J9631f301faa8967c
-  id: Caa5759d2273d9a1c
+  from_id: J01cf445b9bb9f862
+  to_id: J5c7b124982dd60e9
+  id: C06709df9fbea348f
   citations:
-  - id: J8827536a17c54d1a
+  - id: J01cf445b9bb9f862
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 1 — Tender Document Availability Period
     source_document: AandC3_DLN_P1_157.PDF
     source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
@@ -238,9 +251,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: amendment_entry_navigation
-  - id: J9631f301faa8967c
+  - id: J5c7b124982dd60e9
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-    okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+    okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
     heading: Change 1 — Tender Document Availability Period
     source_document: DLN_P1_AandC1_157.PDF
     source_sha256: 26b25a4e3c3d3206635d0ddae6ce70c00e51468ebb4fe5d93f5e9d65902942d1
@@ -268,21 +281,32 @@ claims:
     heading_alignment: amendment_entry_navigation
   created_at: '2026-11-01T12:36:19+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Caa5759d2273d9a1c
+    previous_evidence_ids:
+    - J8827536a17c54d1a
+    - J9631f301faa8967c
+    previous_from_id: J8827536a17c54d1a
+    previous_to_id: J9631f301faa8967c
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: relation
   text: C3 explicitly replaces the C1 date/time fields for NIT Key Detail 10; this supersession concerns those fields
     only and preserves C1 as historical evidence.
   evidence_ids:
-  - J4805b52601f511db
-  - J51c423559e058474
+  - J827a319dc3712125
+  - J6b36427c3b2760b1
   relation_type: supersedes
   explicitness: explicit
-  from_id: J4805b52601f511db
-  to_id: J51c423559e058474
-  id: C7f59a5e562ed01b7
+  from_id: J827a319dc3712125
+  to_id: J6b36427c3b2760b1
+  id: Cf5504c7820f7e6e1
   citations:
-  - id: J4805b52601f511db
+  - id: J827a319dc3712125
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 2 — Online Tender Submission Date and Time
     source_document: AandC3_DLN_P1_157.PDF
     source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
@@ -309,9 +333,9 @@ claims:
       : \"Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: amendment_entry_navigation
-  - id: J51c423559e058474
+  - id: J6b36427c3b2760b1
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-    okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+    okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
     heading: Change 2 — Online Tender Submission Date and Time
     source_document: DLN_P1_AandC1_157.PDF
     source_sha256: 26b25a4e3c3d3206635d0ddae6ce70c00e51468ebb4fe5d93f5e9d65902942d1
@@ -339,21 +363,32 @@ claims:
     heading_alignment: amendment_entry_navigation
   created_at: '2026-11-01T12:36:19+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7f59a5e562ed01b7
+    previous_evidence_ids:
+    - J4805b52601f511db
+    - J51c423559e058474
+    previous_from_id: J4805b52601f511db
+    previous_to_id: J51c423559e058474
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: relation
   text: C3 explicitly replaces the C1 date/time fields for NIT Key Detail 11; this supersession concerns those fields
     only and preserves C1 as historical evidence.
   evidence_ids:
-  - Ja47b3c8a3cc00974
-  - J4d688ca3a59e0867
+  - J8f918d1afc408a15
+  - J43cffd80e0a17b4e
   relation_type: supersedes
   explicitness: explicit
-  from_id: Ja47b3c8a3cc00974
-  to_id: J4d688ca3a59e0867
-  id: C5cde1cdce9f6686f
+  from_id: J8f918d1afc408a15
+  to_id: J43cffd80e0a17b4e
+  id: C1d936b620f3567b1
   citations:
-  - id: Ja47b3c8a3cc00974
+  - id: J8f918d1afc408a15
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 3 — Opening of Technical Bid Online
     source_document: AandC3_DLN_P1_157.PDF
     source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
@@ -379,9 +414,9 @@ claims:
       : \"Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: amendment_entry_navigation
-  - id: J4d688ca3a59e0867
+  - id: J43cffd80e0a17b4e
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-    okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+    okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
     heading: Change 3 — Opening of Technical Bid Online
     source_document: DLN_P1_AandC1_157.PDF
     source_sha256: 26b25a4e3c3d3206635d0ddae6ce70c00e51468ebb4fe5d93f5e9d65902942d1
@@ -409,21 +444,32 @@ claims:
     heading_alignment: amendment_entry_navigation
   created_at: '2026-11-01T12:36:19+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5cde1cdce9f6686f
+    previous_evidence_ids:
+    - Ja47b3c8a3cc00974
+    - J4d688ca3a59e0867
+    previous_from_id: Ja47b3c8a3cc00974
+    previous_to_id: J4d688ca3a59e0867
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: relation
   text: C3 explicitly replaces the C1 date/time fields for NIT Key Detail 12; this supersession concerns those fields
     only and preserves C1 as historical evidence.
   evidence_ids:
-  - J9e0c4f73f95653c7
-  - J694eb1f7c6c20642
+  - J0daa272fa51cc074
+  - Jadc1b38fe5d638d9
   relation_type: supersedes
   explicitness: explicit
-  from_id: J9e0c4f73f95653c7
-  to_id: J694eb1f7c6c20642
-  id: Cd8288955e965325d
+  from_id: J0daa272fa51cc074
+  to_id: Jadc1b38fe5d638d9
+  id: Ce961fb6e71afe807
   citations:
-  - id: J9e0c4f73f95653c7
+  - id: J0daa272fa51cc074
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 4 — Submission of Original Tender Security Instruments
     source_document: AandC3_DLN_P1_157.PDF
     source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
@@ -449,9 +495,9 @@ claims:
       : \"Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: amendment_entry_navigation
-  - id: J694eb1f7c6c20642
+  - id: Jadc1b38fe5d638d9
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-    okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+    okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
     heading: Change 4 — Submission of Original Tender Security Instruments
     source_document: DLN_P1_AandC1_157.PDF
     source_sha256: 26b25a4e3c3d3206635d0ddae6ce70c00e51468ebb4fe5d93f5e9d65902942d1
@@ -479,12 +525,23 @@ claims:
     heading_alignment: amendment_entry_navigation
   created_at: '2026-11-01T12:36:19+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd8288955e965325d
+    previous_evidence_ids:
+    - J9e0c4f73f95653c7
+    - J694eb1f7c6c20642
+    previous_from_id: J9e0c4f73f95653c7
+    previous_to_id: J694eb1f7c6c20642
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: concepts/amendment_sequence_and_conflicts.md
   title: Amendment Sequence and Unresolved Source Conflicts
   evidence_ids:
-  - J4805b52601f511db
+  - J827a319dc3712125
 hub_extensions:
 - title: Canonical source-to-target relations
   body: '| Source provision | Target provision | Relation | Classification | Evidence |
@@ -492,85 +549,85 @@ hub_extensions:
     |---|---|---|---|---|
 
     | [^cross_reference_master_0_1] | [^cross_reference_master_0_2] | amends | explicit | [^cross_reference_master_0_3];
-    `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J4805b52601f511db`; [^cross_reference_master_0_4]; `AandC3_DLN_P1_157.PDF`;
-    PDF page(s) 1; `J8827536a17c54d1a`; [^cross_reference_master_0_5]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J9e0c4f73f95653c7`;
-    [^cross_reference_master_0_6]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `Ja47b3c8a3cc00974` |
+    `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J827a319dc3712125`; [^cross_reference_master_0_4]; `AandC3_DLN_P1_157.PDF`;
+    PDF page(s) 1; `J01cf445b9bb9f862`; [^cross_reference_master_0_5]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J0daa272fa51cc074`;
+    [^cross_reference_master_0_6]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J8f918d1afc408a15` |
 
     | [^cross_reference_master_0_7] | [^cross_reference_master_0_8] | amends | explicit | [^cross_reference_master_0_9];
-    `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J9631f301faa8967c`; [^cross_reference_master_0_10]; `DLN_P1_AandC1_157.PDF`;
-    PDF page(s) 1; `S7032a7820139c1b5` |
+    `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J5c7b124982dd60e9`; [^cross_reference_master_0_10]; `DLN_P1_AandC1_157.PDF`;
+    PDF page(s) 1; `S9784970df7f15b91` |
 
     | [^cross_reference_master_0_11] | [^cross_reference_master_0_12] | amends | explicit | [^cross_reference_master_0_13];
-    `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J51c423559e058474`; [^cross_reference_master_0_14]; `DLN_P1_AandC1_157.PDF`;
-    PDF page(s) 1; `Sfd1aa114f35e9e94` |
+    `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J6b36427c3b2760b1`; [^cross_reference_master_0_14]; `DLN_P1_AandC1_157.PDF`;
+    PDF page(s) 1; `S69a6c3139d9e4c35` |
 
     | [^cross_reference_master_0_15] | [^cross_reference_master_0_16] | amends | explicit | [^cross_reference_master_0_17];
-    `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J4d688ca3a59e0867`; [^cross_reference_master_0_18]; `DLN_P1_AandC1_157.PDF`;
-    PDF page(s) 1; `Sa2f795685776db40` |
+    `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J43cffd80e0a17b4e`; [^cross_reference_master_0_18]; `DLN_P1_AandC1_157.PDF`;
+    PDF page(s) 1; `Sf0a7d507e24549a4` |
 
     | [^cross_reference_master_0_19] | [^cross_reference_master_0_20] | amends | explicit | [^cross_reference_master_0_21];
-    `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J694eb1f7c6c20642`; [^cross_reference_master_0_22]; `DLN_P1_AandC1_157.PDF`;
-    PDF page(s) 1; `S22b502c3e5e291d6` |
+    `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `Jadc1b38fe5d638d9`; [^cross_reference_master_0_22]; `DLN_P1_AandC1_157.PDF`;
+    PDF page(s) 1; `S26a4610eeb68df71` |
 
     | [^cross_reference_master_0_23] | [^cross_reference_master_0_24] | relates_to | inferred | [^cross_reference_master_0_25];
-    `Vol1DLNP1.pdf`; PDF page(s) 7; `J54c382c09ffff5f9`; [^cross_reference_master_0_26]; `Vol1DLNP1.pdf`; PDF page(s)
-    7; `J70459e3caeaaef12` |
+    `Vol1DLNP1.pdf`; PDF page(s) 7; `J981b70cc6e283023`; [^cross_reference_master_0_26]; `Vol1DLNP1.pdf`; PDF page(s)
+    7; `Jcbe0f7287bb5da91` |
 
     | [^cross_reference_master_0_27] | [^cross_reference_master_0_28] | relates_to | inferred | [^cross_reference_master_0_29];
-    `Vol1DLNP1.pdf`; PDF page(s) 53; `Jccd2341b74f6e498`; [^cross_reference_master_0_30]; `Vol1DLNP1.pdf`; PDF page(s)
-    43; `Jccd4f83626ee3522` |
+    `Vol1DLNP1.pdf`; PDF page(s) 53; `Ja2988f77bed9ddeb`; [^cross_reference_master_0_30]; `Vol1DLNP1.pdf`; PDF page(s)
+    43; `J47803f159cd34cbe` |
 
     | [^cross_reference_master_0_31] | [^cross_reference_master_0_32] | relates_to | inferred | [^cross_reference_master_0_33];
-    `Vol2DLNP1.pdf`; PDF page(s) 24; `J41b395b066d7bd2d`; [^cross_reference_master_0_34]; `Vol2DLNP1.pdf`; PDF page(s)
-    27; `J9984ce2b513c90ab` |
+    `Vol2DLNP1.pdf`; PDF page(s) 24; `Je57f51de5f815015`; [^cross_reference_master_0_34]; `Vol2DLNP1.pdf`; PDF page(s)
+    27; `Jb29804ec5d4e0387` |
 
     | [^cross_reference_master_0_35] | [^cross_reference_master_0_36] | relates_to | inferred | [^cross_reference_master_0_37];
-    `Vol1DLNP1.pdf`; PDF page(s) 34; `J2d79831d07f43931`; [^cross_reference_master_0_38]; `Vol1DLNP1.pdf`; PDF page(s)
-    58; `J71b7032ce20bc8cf` |
+    `Vol1DLNP1.pdf`; PDF page(s) 34; `J6ca1b2efbb34cc1d`; [^cross_reference_master_0_38]; `Vol1DLNP1.pdf`; PDF page(s)
+    58; `Jff8dfce17cb76750` |
 
     | [^cross_reference_master_0_39] | [^cross_reference_master_0_40] | relates_to | inferred | [^cross_reference_master_0_41];
-    `Vol1DLNP1.pdf`; PDF page(s) 50; `Je29647f69b1560f9`; [^cross_reference_master_0_42]; `Vol1DLNP1.pdf`; PDF page(s)
-    52; `J6dbae519490f54d4` |
+    `Vol1DLNP1.pdf`; PDF page(s) 50; `J6193eee117f064cf`; [^cross_reference_master_0_42]; `Vol1DLNP1.pdf`; PDF page(s)
+    52; `Jc52bd73cc382c668` |
 
     | [^cross_reference_master_0_43] | [^cross_reference_master_0_44] | relates_to | inferred | [^cross_reference_master_0_45];
-    `Vol2DLNP1.pdf`; PDF page(s) 34; `J6fbd8c1521884f0b`; [^cross_reference_master_0_46]; `Vol2DLNP1.pdf`; PDF page(s)
-    34; `J698146021cb33654` |
+    `Vol2DLNP1.pdf`; PDF page(s) 34; `J63e2b62b5192e71f`; [^cross_reference_master_0_46]; `Vol2DLNP1.pdf`; PDF page(s)
+    34; `Jc09ace3a6f098d6d` |
 
     | [^cross_reference_master_0_47] | [^cross_reference_master_0_48] | relates_to | inferred | [^cross_reference_master_0_49];
-    `Vol2DLNP1.pdf`; PDF page(s) 17; `J186aa0bc2d6a9b41`; [^cross_reference_master_0_50]; `Vol2DLNP1.pdf`; PDF page(s)
-    18; `J2a0339dd70c0c1e7` |
+    `Vol2DLNP1.pdf`; PDF page(s) 17; `J8d2c563b9d83facb`; [^cross_reference_master_0_50]; `Vol2DLNP1.pdf`; PDF page(s)
+    18; `Jb1ec0b1cda22a2ca` |
 
     | [^cross_reference_master_0_51] | [^cross_reference_master_0_52] | references | explicit | [^cross_reference_master_0_53];
-    `Vol3DLNP1.pdf`; PDF page(s) 93; `Jbf8658426466b994`; [^cross_reference_master_0_54]; `Vol3DLNP1.pdf`; PDF page(s)
-    93; `Jc11bf4223246f5b3` |
+    `Vol3DLNP1.pdf`; PDF page(s) 93; `J2f2eb2da312f8cb3`; [^cross_reference_master_0_54]; `Vol3DLNP1.pdf`; PDF page(s)
+    93; `J226a554a117a69be` |
 
     | [^cross_reference_master_0_55] | [^cross_reference_master_0_56] | references | explicit | [^cross_reference_master_0_57];
-    `Vol3DLNP1.pdf`; PDF page(s) 94; `J69dc478ccecede37`; [^cross_reference_master_0_58]; `Vol3DLNP1.pdf`; PDF page(s)
-    94; `Ja64f69c31e66f2f3` |
+    `Vol3DLNP1.pdf`; PDF page(s) 94; `J902e694ae21161e1`; [^cross_reference_master_0_58]; `Vol3DLNP1.pdf`; PDF page(s)
+    94; `Jce700c9dd803fca8` |
 
     | [^cross_reference_master_0_59] | [^cross_reference_master_0_60] | relates_to | inferred | [^cross_reference_master_0_61];
-    `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; `J704434795075ef24`; [^cross_reference_master_0_62]; `Vol1DLNP1.pdf`;
-    PDF page(s) 33; `J546c411c2144a974` |
+    `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; `J0949e7907866cf3c`; [^cross_reference_master_0_62]; `Vol1DLNP1.pdf`;
+    PDF page(s) 33; `J533eaf65b77e3edd` |
 
     | [^cross_reference_master_0_63] | [^cross_reference_master_0_64] | relates_to | inferred | [^cross_reference_master_0_65];
-    `Vol1DLNP1.pdf`; PDF page(s) 7; `Jc66c61c80a9fa3ea`; [^cross_reference_master_0_66]; `Vol1DLNP1.pdf`; PDF page(s)
-    7; `J1edc5235a348b39d` |
+    `Vol1DLNP1.pdf`; PDF page(s) 7; `J26bac8fe2fb74f79`; [^cross_reference_master_0_66]; `Vol1DLNP1.pdf`; PDF page(s)
+    7; `Jafe130e72c570403` |
 
     | [^cross_reference_master_0_67] | [^cross_reference_master_0_68] | supersedes | explicit | [^cross_reference_master_0_69];
-    `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J8827536a17c54d1a`; [^cross_reference_master_0_70]; `DLN_P1_AandC1_157.PDF`;
-    PDF page(s) 1; `J9631f301faa8967c` |
+    `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J01cf445b9bb9f862`; [^cross_reference_master_0_70]; `DLN_P1_AandC1_157.PDF`;
+    PDF page(s) 1; `J5c7b124982dd60e9` |
 
     | [^cross_reference_master_0_71] | [^cross_reference_master_0_72] | supersedes | explicit | [^cross_reference_master_0_73];
-    `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J4805b52601f511db`; [^cross_reference_master_0_74]; `DLN_P1_AandC1_157.PDF`;
-    PDF page(s) 1; `J51c423559e058474` |
+    `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J827a319dc3712125`; [^cross_reference_master_0_74]; `DLN_P1_AandC1_157.PDF`;
+    PDF page(s) 1; `J6b36427c3b2760b1` |
 
     | [^cross_reference_master_0_75] | [^cross_reference_master_0_76] | supersedes | explicit | [^cross_reference_master_0_77];
-    `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `Ja47b3c8a3cc00974`; [^cross_reference_master_0_78]; `DLN_P1_AandC1_157.PDF`;
-    PDF page(s) 1; `J4d688ca3a59e0867` |
+    `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J8f918d1afc408a15`; [^cross_reference_master_0_78]; `DLN_P1_AandC1_157.PDF`;
+    PDF page(s) 1; `J43cffd80e0a17b4e` |
 
     | [^cross_reference_master_0_79] | [^cross_reference_master_0_80] | supersedes | explicit | [^cross_reference_master_0_81];
-    `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J9e0c4f73f95653c7`; [^cross_reference_master_0_82]; `DLN_P1_AandC1_157.PDF`;
-    PDF page(s) 1; `J694eb1f7c6c20642` |
+    `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J0daa272fa51cc074`; [^cross_reference_master_0_82]; `DLN_P1_AandC1_157.PDF`;
+    PDF page(s) 1; `Jadc1b38fe5d638d9` |
 
 
     [^cross_reference_master_0_1]: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission
@@ -826,7 +883,7 @@ hub_extensions:
 
     [^cross_reference_master_0_82]: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 4 — Submission of Original
     Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]'
-last_editorial_review: '2026-11-01T12:36:19+00:00'
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Cross Reference Master - Corrigendum No. 3 Amendment Chain
@@ -837,30 +894,30 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 
 - Addendum and Corrigendum No. 3 explicitly amends serial 1 of Addendum and Corrigendum No. 1 dated 01-10-2026 across NIT Key Details 5, 10, 11, and 12.
   - **amends (explicit):** [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]] → [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J4805b52601f511db`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/13`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J8827536a17c54d1a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/16`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J9e0c4f73f95653c7`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/15`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 3 — Opening of Technical Bid Online|Change 3 — Opening of Technical Bid Online]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `Ja47b3c8a3cc00974`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/14`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J827a319dc3712125`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/13`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J01cf445b9bb9f862`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/16`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J0daa272fa51cc074`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/15`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 3 — Opening of Technical Bid Online|Change 3 — Opening of Technical Bid Online]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J8f918d1afc408a15`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/14`.
 
 - C3 explicitly replaces the C1 date/time fields for NIT Key Detail 5; this supersession concerns those fields only and preserves C1 as historical evidence.
   - **supersedes (explicit):** [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]] → [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J8827536a17c54d1a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/16`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `J9631f301faa8967c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/3`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J01cf445b9bb9f862`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/16`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `J5c7b124982dd60e9`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/3`.
 
 - C3 explicitly replaces the C1 date/time fields for NIT Key Detail 10; this supersession concerns those fields only and preserves C1 as historical evidence.
   - **supersedes (explicit):** [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]] → [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J4805b52601f511db`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/13`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `J51c423559e058474`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/0`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J827a319dc3712125`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/13`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `J6b36427c3b2760b1`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/0`.
 
 - C3 explicitly replaces the C1 date/time fields for NIT Key Detail 11; this supersession concerns those fields only and preserves C1 as historical evidence.
   - **supersedes (explicit):** [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 3 — Opening of Technical Bid Online|Change 3 — Opening of Technical Bid Online]] → [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 3 — Opening of Technical Bid Online|Change 3 — Opening of Technical Bid Online]]
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 3 — Opening of Technical Bid Online|Change 3 — Opening of Technical Bid Online]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `Ja47b3c8a3cc00974`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/14`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 3 — Opening of Technical Bid Online|Change 3 — Opening of Technical Bid Online]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `J4d688ca3a59e0867`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/1`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 3 — Opening of Technical Bid Online|Change 3 — Opening of Technical Bid Online]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J8f918d1afc408a15`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/14`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 3 — Opening of Technical Bid Online|Change 3 — Opening of Technical Bid Online]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `J43cffd80e0a17b4e`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/1`.
 
 - C3 explicitly replaces the C1 date/time fields for NIT Key Detail 12; this supersession concerns those fields only and preserves C1 as historical evidence.
   - **supersedes (explicit):** [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]] → [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J9e0c4f73f95653c7`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/15`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `J694eb1f7c6c20642`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/2`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J0daa272fa51cc074`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/15`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `Jadc1b38fe5d638d9`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/2`.
 
 ## Source Headings
 - [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]
@@ -883,7 +940,7 @@ No separate numeric parameter has been recorded; see the cited statements on thi
 ## Related Wiki Entities
 
 - **relates_to (editorial, inferred):** [[wiki/concepts/amendment_sequence_and_conflicts|Amendment Sequence and Unresolved Source Conflicts]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J4805b52601f511db`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J827a319dc3712125`.
 
 ## Open Questions and Contradictions
 
@@ -893,26 +950,26 @@ No additional contradiction is recorded on this page. PDF verification and full 
 
 | Source provision | Target provision | Relation | Classification | Evidence |
 |---|---|---|---|---|
-| [^cross_reference_master_0_1] | [^cross_reference_master_0_2] | amends | explicit | [^cross_reference_master_0_3]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J4805b52601f511db`; [^cross_reference_master_0_4]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J8827536a17c54d1a`; [^cross_reference_master_0_5]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J9e0c4f73f95653c7`; [^cross_reference_master_0_6]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `Ja47b3c8a3cc00974` |
-| [^cross_reference_master_0_7] | [^cross_reference_master_0_8] | amends | explicit | [^cross_reference_master_0_9]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J9631f301faa8967c`; [^cross_reference_master_0_10]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `S7032a7820139c1b5` |
-| [^cross_reference_master_0_11] | [^cross_reference_master_0_12] | amends | explicit | [^cross_reference_master_0_13]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J51c423559e058474`; [^cross_reference_master_0_14]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `Sfd1aa114f35e9e94` |
-| [^cross_reference_master_0_15] | [^cross_reference_master_0_16] | amends | explicit | [^cross_reference_master_0_17]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J4d688ca3a59e0867`; [^cross_reference_master_0_18]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `Sa2f795685776db40` |
-| [^cross_reference_master_0_19] | [^cross_reference_master_0_20] | amends | explicit | [^cross_reference_master_0_21]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J694eb1f7c6c20642`; [^cross_reference_master_0_22]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `S22b502c3e5e291d6` |
-| [^cross_reference_master_0_23] | [^cross_reference_master_0_24] | relates_to | inferred | [^cross_reference_master_0_25]; `Vol1DLNP1.pdf`; PDF page(s) 7; `J54c382c09ffff5f9`; [^cross_reference_master_0_26]; `Vol1DLNP1.pdf`; PDF page(s) 7; `J70459e3caeaaef12` |
-| [^cross_reference_master_0_27] | [^cross_reference_master_0_28] | relates_to | inferred | [^cross_reference_master_0_29]; `Vol1DLNP1.pdf`; PDF page(s) 53; `Jccd2341b74f6e498`; [^cross_reference_master_0_30]; `Vol1DLNP1.pdf`; PDF page(s) 43; `Jccd4f83626ee3522` |
-| [^cross_reference_master_0_31] | [^cross_reference_master_0_32] | relates_to | inferred | [^cross_reference_master_0_33]; `Vol2DLNP1.pdf`; PDF page(s) 24; `J41b395b066d7bd2d`; [^cross_reference_master_0_34]; `Vol2DLNP1.pdf`; PDF page(s) 27; `J9984ce2b513c90ab` |
-| [^cross_reference_master_0_35] | [^cross_reference_master_0_36] | relates_to | inferred | [^cross_reference_master_0_37]; `Vol1DLNP1.pdf`; PDF page(s) 34; `J2d79831d07f43931`; [^cross_reference_master_0_38]; `Vol1DLNP1.pdf`; PDF page(s) 58; `J71b7032ce20bc8cf` |
-| [^cross_reference_master_0_39] | [^cross_reference_master_0_40] | relates_to | inferred | [^cross_reference_master_0_41]; `Vol1DLNP1.pdf`; PDF page(s) 50; `Je29647f69b1560f9`; [^cross_reference_master_0_42]; `Vol1DLNP1.pdf`; PDF page(s) 52; `J6dbae519490f54d4` |
-| [^cross_reference_master_0_43] | [^cross_reference_master_0_44] | relates_to | inferred | [^cross_reference_master_0_45]; `Vol2DLNP1.pdf`; PDF page(s) 34; `J6fbd8c1521884f0b`; [^cross_reference_master_0_46]; `Vol2DLNP1.pdf`; PDF page(s) 34; `J698146021cb33654` |
-| [^cross_reference_master_0_47] | [^cross_reference_master_0_48] | relates_to | inferred | [^cross_reference_master_0_49]; `Vol2DLNP1.pdf`; PDF page(s) 17; `J186aa0bc2d6a9b41`; [^cross_reference_master_0_50]; `Vol2DLNP1.pdf`; PDF page(s) 18; `J2a0339dd70c0c1e7` |
-| [^cross_reference_master_0_51] | [^cross_reference_master_0_52] | references | explicit | [^cross_reference_master_0_53]; `Vol3DLNP1.pdf`; PDF page(s) 93; `Jbf8658426466b994`; [^cross_reference_master_0_54]; `Vol3DLNP1.pdf`; PDF page(s) 93; `Jc11bf4223246f5b3` |
-| [^cross_reference_master_0_55] | [^cross_reference_master_0_56] | references | explicit | [^cross_reference_master_0_57]; `Vol3DLNP1.pdf`; PDF page(s) 94; `J69dc478ccecede37`; [^cross_reference_master_0_58]; `Vol3DLNP1.pdf`; PDF page(s) 94; `Ja64f69c31e66f2f3` |
-| [^cross_reference_master_0_59] | [^cross_reference_master_0_60] | relates_to | inferred | [^cross_reference_master_0_61]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; `J704434795075ef24`; [^cross_reference_master_0_62]; `Vol1DLNP1.pdf`; PDF page(s) 33; `J546c411c2144a974` |
-| [^cross_reference_master_0_63] | [^cross_reference_master_0_64] | relates_to | inferred | [^cross_reference_master_0_65]; `Vol1DLNP1.pdf`; PDF page(s) 7; `Jc66c61c80a9fa3ea`; [^cross_reference_master_0_66]; `Vol1DLNP1.pdf`; PDF page(s) 7; `J1edc5235a348b39d` |
-| [^cross_reference_master_0_67] | [^cross_reference_master_0_68] | supersedes | explicit | [^cross_reference_master_0_69]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J8827536a17c54d1a`; [^cross_reference_master_0_70]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J9631f301faa8967c` |
-| [^cross_reference_master_0_71] | [^cross_reference_master_0_72] | supersedes | explicit | [^cross_reference_master_0_73]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J4805b52601f511db`; [^cross_reference_master_0_74]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J51c423559e058474` |
-| [^cross_reference_master_0_75] | [^cross_reference_master_0_76] | supersedes | explicit | [^cross_reference_master_0_77]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `Ja47b3c8a3cc00974`; [^cross_reference_master_0_78]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J4d688ca3a59e0867` |
-| [^cross_reference_master_0_79] | [^cross_reference_master_0_80] | supersedes | explicit | [^cross_reference_master_0_81]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J9e0c4f73f95653c7`; [^cross_reference_master_0_82]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J694eb1f7c6c20642` |
+| [^cross_reference_master_0_1] | [^cross_reference_master_0_2] | amends | explicit | [^cross_reference_master_0_3]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J827a319dc3712125`; [^cross_reference_master_0_4]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J01cf445b9bb9f862`; [^cross_reference_master_0_5]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J0daa272fa51cc074`; [^cross_reference_master_0_6]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J8f918d1afc408a15` |
+| [^cross_reference_master_0_7] | [^cross_reference_master_0_8] | amends | explicit | [^cross_reference_master_0_9]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J5c7b124982dd60e9`; [^cross_reference_master_0_10]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `S9784970df7f15b91` |
+| [^cross_reference_master_0_11] | [^cross_reference_master_0_12] | amends | explicit | [^cross_reference_master_0_13]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J6b36427c3b2760b1`; [^cross_reference_master_0_14]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `S69a6c3139d9e4c35` |
+| [^cross_reference_master_0_15] | [^cross_reference_master_0_16] | amends | explicit | [^cross_reference_master_0_17]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J43cffd80e0a17b4e`; [^cross_reference_master_0_18]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `Sf0a7d507e24549a4` |
+| [^cross_reference_master_0_19] | [^cross_reference_master_0_20] | amends | explicit | [^cross_reference_master_0_21]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `Jadc1b38fe5d638d9`; [^cross_reference_master_0_22]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `S26a4610eeb68df71` |
+| [^cross_reference_master_0_23] | [^cross_reference_master_0_24] | relates_to | inferred | [^cross_reference_master_0_25]; `Vol1DLNP1.pdf`; PDF page(s) 7; `J981b70cc6e283023`; [^cross_reference_master_0_26]; `Vol1DLNP1.pdf`; PDF page(s) 7; `Jcbe0f7287bb5da91` |
+| [^cross_reference_master_0_27] | [^cross_reference_master_0_28] | relates_to | inferred | [^cross_reference_master_0_29]; `Vol1DLNP1.pdf`; PDF page(s) 53; `Ja2988f77bed9ddeb`; [^cross_reference_master_0_30]; `Vol1DLNP1.pdf`; PDF page(s) 43; `J47803f159cd34cbe` |
+| [^cross_reference_master_0_31] | [^cross_reference_master_0_32] | relates_to | inferred | [^cross_reference_master_0_33]; `Vol2DLNP1.pdf`; PDF page(s) 24; `Je57f51de5f815015`; [^cross_reference_master_0_34]; `Vol2DLNP1.pdf`; PDF page(s) 27; `Jb29804ec5d4e0387` |
+| [^cross_reference_master_0_35] | [^cross_reference_master_0_36] | relates_to | inferred | [^cross_reference_master_0_37]; `Vol1DLNP1.pdf`; PDF page(s) 34; `J6ca1b2efbb34cc1d`; [^cross_reference_master_0_38]; `Vol1DLNP1.pdf`; PDF page(s) 58; `Jff8dfce17cb76750` |
+| [^cross_reference_master_0_39] | [^cross_reference_master_0_40] | relates_to | inferred | [^cross_reference_master_0_41]; `Vol1DLNP1.pdf`; PDF page(s) 50; `J6193eee117f064cf`; [^cross_reference_master_0_42]; `Vol1DLNP1.pdf`; PDF page(s) 52; `Jc52bd73cc382c668` |
+| [^cross_reference_master_0_43] | [^cross_reference_master_0_44] | relates_to | inferred | [^cross_reference_master_0_45]; `Vol2DLNP1.pdf`; PDF page(s) 34; `J63e2b62b5192e71f`; [^cross_reference_master_0_46]; `Vol2DLNP1.pdf`; PDF page(s) 34; `Jc09ace3a6f098d6d` |
+| [^cross_reference_master_0_47] | [^cross_reference_master_0_48] | relates_to | inferred | [^cross_reference_master_0_49]; `Vol2DLNP1.pdf`; PDF page(s) 17; `J8d2c563b9d83facb`; [^cross_reference_master_0_50]; `Vol2DLNP1.pdf`; PDF page(s) 18; `Jb1ec0b1cda22a2ca` |
+| [^cross_reference_master_0_51] | [^cross_reference_master_0_52] | references | explicit | [^cross_reference_master_0_53]; `Vol3DLNP1.pdf`; PDF page(s) 93; `J2f2eb2da312f8cb3`; [^cross_reference_master_0_54]; `Vol3DLNP1.pdf`; PDF page(s) 93; `J226a554a117a69be` |
+| [^cross_reference_master_0_55] | [^cross_reference_master_0_56] | references | explicit | [^cross_reference_master_0_57]; `Vol3DLNP1.pdf`; PDF page(s) 94; `J902e694ae21161e1`; [^cross_reference_master_0_58]; `Vol3DLNP1.pdf`; PDF page(s) 94; `Jce700c9dd803fca8` |
+| [^cross_reference_master_0_59] | [^cross_reference_master_0_60] | relates_to | inferred | [^cross_reference_master_0_61]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; `J0949e7907866cf3c`; [^cross_reference_master_0_62]; `Vol1DLNP1.pdf`; PDF page(s) 33; `J533eaf65b77e3edd` |
+| [^cross_reference_master_0_63] | [^cross_reference_master_0_64] | relates_to | inferred | [^cross_reference_master_0_65]; `Vol1DLNP1.pdf`; PDF page(s) 7; `J26bac8fe2fb74f79`; [^cross_reference_master_0_66]; `Vol1DLNP1.pdf`; PDF page(s) 7; `Jafe130e72c570403` |
+| [^cross_reference_master_0_67] | [^cross_reference_master_0_68] | supersedes | explicit | [^cross_reference_master_0_69]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J01cf445b9bb9f862`; [^cross_reference_master_0_70]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J5c7b124982dd60e9` |
+| [^cross_reference_master_0_71] | [^cross_reference_master_0_72] | supersedes | explicit | [^cross_reference_master_0_73]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J827a319dc3712125`; [^cross_reference_master_0_74]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J6b36427c3b2760b1` |
+| [^cross_reference_master_0_75] | [^cross_reference_master_0_76] | supersedes | explicit | [^cross_reference_master_0_77]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J8f918d1afc408a15`; [^cross_reference_master_0_78]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J43cffd80e0a17b4e` |
+| [^cross_reference_master_0_79] | [^cross_reference_master_0_80] | supersedes | explicit | [^cross_reference_master_0_81]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J0daa272fa51cc074`; [^cross_reference_master_0_82]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `Jadc1b38fe5d638d9` |
 
 [^cross_reference_master_0_1]: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]
 [^cross_reference_master_0_2]: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]
@@ -1000,7 +1057,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### J4805b52601f511db
+### J827a319dc3712125
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]
 
@@ -1029,7 +1086,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J8827536a17c54d1a
+### J01cf445b9bb9f862
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]
 
@@ -1058,7 +1115,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J9e0c4f73f95653c7
+### J0daa272fa51cc074
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]
 
@@ -1087,7 +1144,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### Ja47b3c8a3cc00974
+### J8f918d1afc408a15
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 3 — Opening of Technical Bid Online|Change 3 — Opening of Technical Bid Online]]
 
@@ -1116,7 +1173,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J9631f301faa8967c
+### J5c7b124982dd60e9
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 1 — Tender Document Availability Period|Change 1 — Tender Document Availability Period]]
 
@@ -1144,7 +1201,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J51c423559e058474
+### J6b36427c3b2760b1
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]
 
@@ -1172,7 +1229,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J4d688ca3a59e0867
+### J43cffd80e0a17b4e
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 3 — Opening of Technical Bid Online|Change 3 — Opening of Technical Bid Online]]
 
@@ -1200,7 +1257,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J694eb1f7c6c20642
+### Jadc1b38fe5d638d9
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 4 — Submission of Original Tender Security Instruments|Change 4 — Submission of Original Tender Security Instruments]]
 

@@ -3,7 +3,7 @@ type: wiki_index
 title: BMRCL Wiki Index
 status: draft
 generator: bmrcl-dynamic-wiki-v2
-updated_at: '2026-11-01T12:36:19+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 ---
 
 # BMRCL Wiki Index
@@ -55,6 +55,7 @@ All model-derived knowledge is draft. Listed pages do not establish complete sou
 | [What must go in the technical bid?](qa/technical_bid_contents.md) | Draft cited answer to the supplied example query. |
 | [Which provisions govern suspension?](qa/suspension_provisions.md) | Draft cited answer to the supplied example query. |
 | [What happens to a short-validity EMD?](qa/short_validity_emd.md) | Draft cited answer to the supplied example query. |
+| [Post-Rebase Provenance Migration](qa/provenance_migration.md) | Verified source-identity migration, historical checkpoints and remaining schema review. |
 
 ## Ingestion Boundary
 

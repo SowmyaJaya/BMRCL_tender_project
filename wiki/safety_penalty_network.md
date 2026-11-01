@@ -6,462 +6,462 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-30T13:11:43+00:00'
-updated_at: '2026-11-01T12:36:19+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T06:58:14+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/12
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/27
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/21
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/23
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_1_milestones/milestones.json
   json_sha256: 5ecfa6c3fd3218425c6a741051f947f33183a10f3e6b567b9cb74e9fd0e259fe
   json_pointer: /milestones/0/cells/4
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_1_milestones/milestones.json
   json_sha256: 5ecfa6c3fd3218425c6a741051f947f33183a10f3e6b567b9cb74e9fd0e259fe
   json_pointer: /milestones/1/cells/4
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/4
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/5
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/9
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/10
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/12
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/13
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/15
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/13
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/14
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/17
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/16
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/21
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/20
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/19
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/9/fragments/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/7
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/6
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/9/fragments/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/9/fragments/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/21
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/10
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/11
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/14
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/15
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/13
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/16
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/18
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/23
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/27
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/29
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/28
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/31
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /clauses/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /source_page_context/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /source_page_context/6
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-  okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+  okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json
   json_sha256: dc172436c564fe7d5a449f7f786e6863b16e68ebd59020d555002ab6fc04758d
   json_pointer: /source_page_context/5
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-  okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+  okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json
   json_sha256: 7bea653d28db3a09695fc577706045a118cd6f049b1a965a72f0af31b2b73dbf
   json_pointer: /clauses/7
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /preamble/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /preamble_retained_lines/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /clauses/0/fragments/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /clauses/0/fragments/5
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /clauses/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /clauses/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /source_page_context/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /source_page_context/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /source_page_context/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /source_page_context/4
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /source_page_context/6
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /source_page_context/5
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /source_page_context/7
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /clauses/0/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /clauses/0/fragments/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /clauses/0/fragments/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /clauses/0/fragments/4
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
   json_pointer: /clauses/0/fragments/6
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-  okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+  okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json
   json_sha256: 3ffd12436841457cd1495a3e7447a7b332e2eed1b40f2cc322d4e5f86effc2af
@@ -473,16 +473,16 @@ claims:
     refuses arithmetical price corrections, misrepresents facts, or fails to sign the contract and furnish performance
     guarantees upon award.
   evidence_ids:
-  - J96e5227223f2186d
+  - Jce685766e7843ace
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C405ef86394d49f4b
+  id: Cb928569fa6d56d10
   citations:
-  - id: J96e5227223f2186d
+  - id: Jce685766e7843ace
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 13.0 — Tender Security (EMD)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -635,21 +635,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T13:11:43+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C405ef86394d49f4b
+    previous_evidence_ids:
+    - J96e5227223f2186d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Failure to comply with contract award formalization requirements, including submission of performance security
     and contract signing, constitutes grounds for award annulment and tender security forfeiture.
   evidence_ids:
-  - Jc418e3c330341bac
-  - Sdc71415940665ec2
+  - Ja32aa13d16755b72
+  - Seeeb5ed9033d04a8
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3a8182ecf070e423
+  id: C2b247c626c4a471e
   citations:
-  - id: Jc418e3c330341bac
+  - id: Ja32aa13d16755b72
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 28.0 — Annulment of the Award
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -669,9 +679,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Sdc71415940665ec2
+  - id: Seeeb5ed9033d04a8
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 28.0 — Annulment of the Award
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -681,21 +691,32 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:12:43+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3a8182ecf070e423
+    previous_evidence_ids:
+    - Jc418e3c330341bac
+    - Sdc71415940665ec2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Attachment 14 requires tenderers to submit an outline for their Safety, Health and Environmental plan in
     compliance with the SHE Manual as part of their technical details.
   evidence_ids:
-  - Jb104949f6696eb73
-  - S473ec4d96fbcd73f
+  - Jf39b9044ce41e0b2
+  - S492163b00ddf4b59
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8d28cd1d5b5b95d9
+  id: Cbf251b1db4a12ec3
   citations:
-  - id: Jb104949f6696eb73
+  - id: Jf39b9044ce41e0b2
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -723,9 +744,9 @@ claims:
       \ \"pending_manual_review\",\n  \"source_marking\": \"not_marked_deleted\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S473ec4d96fbcd73f
+  - id: S492163b00ddf4b59
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Attachment-14 — Tenderer's Brief of Technical Details
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -743,21 +764,32 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:23:31+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8d28cd1d5b5b95d9
+    previous_evidence_ids:
+    - Jb104949f6696eb73
+    - S473ec4d96fbcd73f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Attachment 16 requires tenderers to sign a Statement of Integrity, Eligibility and Social and Environmental
     Responsibility, committing to international labour and environmental standards and audit cooperation.
   evidence_ids:
-  - J9392d11af3f7df1b
-  - S3b16337a4e02eb46
+  - J4e9c1d045a5d0f33
+  - S13eec07da5ad21de
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6b4c4623aa203688
+  id: C7b5abf6533282cd5
   citations:
-  - id: J9392d11af3f7df1b
+  - id: J4e9c1d045a5d0f33
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -860,9 +892,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S3b16337a4e02eb46
+  - id: S13eec07da5ad21de
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Attachment-16 — Statement of Integrity, Eligibility and Social and Environmental Responsibility
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -886,19 +918,30 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:23:31+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6b4c4623aa203688
+    previous_evidence_ids:
+    - J9392d11af3f7df1b
+    - S3b16337a4e02eb46
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Failure to achieve Milestone-1 attracts liquidated damages of Rs. 5,000/- per day.
   evidence_ids:
-  - Jf63de23c8f465dca
+  - J252073bc1b671dfd
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ccce1d09f52a6af61
+  id: C0ac21d53bca3bc6b
   citations:
-  - id: Jf63de23c8f465dca
+  - id: J252073bc1b671dfd
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -917,19 +960,29 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:27:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ccce1d09f52a6af61
+    previous_evidence_ids:
+    - Jf63de23c8f465dca
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Failure to achieve Milestone-2 attracts liquidated damages of Rs. 10,000/- per day.
   evidence_ids:
-  - J36896462b2aa6135
+  - J13cc643f9ae21e39
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C562186c96580e21f
+  id: C92772b364ea41032
   citations:
-  - id: J36896462b2aa6135
+  - id: J13cc643f9ae21e39
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -948,21 +1001,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:27:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C562186c96580e21f
+    previous_evidence_ids:
+    - J36896462b2aa6135
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The safety and penalty network connects contractual safety obligations, statutory enactments under the SHE
     manual, and employer oversight mechanisms for BMRCL Tender Package P1.
   evidence_ids:
-  - J0562abcc824c4f49
-  - J4dbf3d178da92201
+  - J6e268122a6c15b66
+  - J7502791d30e9933d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C41b0bfacb66e5db7
+  id: Ca9ee665fb0291fec
   citations:
-  - id: J0562abcc824c4f49
+  - id: J6e268122a6c15b66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 4.0 — Contractor SHE Policy and Plan
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1148,9 +1211,9 @@ claims:
       \ SHE Policy and Plan\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J4dbf3d178da92201
+  - id: J7502791d30e9933d
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 3.0 — Compliance
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1425,20 +1488,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:50:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C41b0bfacb66e5db7
+    previous_evidence_ids:
+    - J0562abcc824c4f49
+    - J4dbf3d178da92201
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Contractor is required to ensure that all employees and workmen are covered under the Workmen Compensation
     Act 1923 and must pay compensation as and when eventuality arises.
   evidence_ids:
-  - J4dbf3d178da92201
+  - J7502791d30e9933d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C69aa16de194b8d10
+  id: C879bfbd1732db64b
   citations:
-  - id: J4dbf3d178da92201
+  - id: J7502791d30e9933d
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 3.0 — Compliance
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1713,21 +1787,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:50:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C69aa16de194b8d10
+    previous_evidence_ids:
+    - J4dbf3d178da92201
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: If the Contractor fails to initiate and complete ISO certifications for Occupational Health and Safety and
     Environmental Management Systems within a reasonable time after award, the Employer may do so at the Contractor's
     cost.
   evidence_ids:
-  - J4dbf3d178da92201
+  - J7502791d30e9933d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C22619fe3852abe46
+  id: C4578e119fcb41d00
   citations:
-  - id: J4dbf3d178da92201
+  - id: J7502791d30e9933d
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 3.0 — Compliance
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2002,21 +2086,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:50:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C22619fe3852abe46
+    previous_evidence_ids:
+    - J4dbf3d178da92201
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The safety and penalty network connects safety obligations, designer duties, contractor organization requirements,
     and default penalties specified across the tender documentation.
   evidence_ids:
-  - J18d9d6b025a34658
-  - J6adabb174d1916a1
+  - Jf8809a71af85b566
+  - J9b89915bf84b73ea
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3360ea7b365ce3c3
+  id: C2e8b9c29da116b7c
   citations:
-  - id: J18d9d6b025a34658
+  - id: Jf8809a71af85b566
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 5.0 — Designer’s role
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2227,9 +2321,9 @@ claims:
       ,\n  \"title\": \"Designer’s role\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J6adabb174d1916a1
+  - id: J9b89915bf84b73ea
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 6.0 — Contractor SHE Organisation
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2448,20 +2542,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:51:24+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3360ea7b365ce3c3
+    previous_evidence_ids:
+    - J18d9d6b025a34658
+    - J6adabb174d1916a1
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Failure to adhere to designer role and safety clauses attracts penalties depending upon the gravity of the
     unsafe act or condition.
   evidence_ids:
-  - J18d9d6b025a34658
+  - Jf8809a71af85b566
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8b74f588b05f9286
+  id: Caf222c08cc9b1e88
   citations:
-  - id: J18d9d6b025a34658
+  - id: Jf8809a71af85b566
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 5.0 — Designer’s role
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2674,20 +2779,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:51:24+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8b74f588b05f9286
+    previous_evidence_ids:
+    - J18d9d6b025a34658
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The conduct and functioning of contractor SHE personnel are monitored by the Employer, and any default or
     deficiency attracts penalties as per penalty clause 56.0 of the SHE manual.
   evidence_ids:
-  - J6adabb174d1916a1
+  - J9b89915bf84b73ea
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf21e4d6d7faf81c3
+  id: Cf2a61295908071d4
   citations:
-  - id: J6adabb174d1916a1
+  - id: J9b89915bf84b73ea
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 6.0 — Contractor SHE Organisation
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2906,20 +3021,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:51:24+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf21e4d6d7faf81c3
+    previous_evidence_ids:
+    - J6adabb174d1916a1
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: If the contractor is unable to demonstrate the competency of any person whose activities directly impact
     the Works' SHE performance, the Employer shall remove that person from site without procedural formalities.
   evidence_ids:
-  - J6adabb174d1916a1
+  - J9b89915bf84b73ea
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd09b4b479c6b446d
+  id: C40c7d4a98b2a0482
   citations:
-  - id: J6adabb174d1916a1
+  - id: J9b89915bf84b73ea
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 6.0 — Contractor SHE Organisation
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3138,20 +3263,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:51:24+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd09b4b479c6b446d
+    previous_evidence_ids:
+    - J6adabb174d1916a1
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: SHE inspections under Vol 3 Part 1 Clause 10 serve as the primary mechanism to identify variations and non-compliance
     against the approved contractor SHE plan across all operational sites.
   evidence_ids:
-  - J583ea0722db5bc0b
+  - J146a1bdce2491605
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C078d8bf18580156c
+  id: Cf52c68036bb1aeff
   citations:
-  - id: J583ea0722db5bc0b
+  - id: J146a1bdce2491605
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 10.0 — SHE Inspection
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3365,20 +3500,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:54:11+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C078d8bf18580156c
+    previous_evidence_ids:
+    - J583ea0722db5bc0b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Under Vol 3 Part 1 Clause 11.4.9.3, non-conformity with external audit findings empowers the Employer to
     take necessary steps including stoppage of work and/or imposing penalties to enforce implementation.
   evidence_ids:
-  - J54fb72d54b0d4203
+  - Ja911fab00f3bad38
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C35e885bdd68f192d
+  id: C82206fe7c4fb2cbc
   citations:
-  - id: J54fb72d54b0d4203
+  - id: Ja911fab00f3bad38
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 11.0 — SHE Audit
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3902,21 +4047,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:55:46+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C35e885bdd68f192d
+    previous_evidence_ids:
+    - J54fb72d54b0d4203
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The safety and penalty network connects reporting obligations, statutory accident notifications, and independent
     investigations to enforce contractor accountability under the SHE manual.
   evidence_ids:
-  - J18c97608213f0958
-  - Jdfb67b661885be1f
+  - J8edcd48c6ac2acdf
+  - J226b324d4a855c2e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C88252cc0cb6535de
+  id: C9da5cf8529d96b6e
   citations:
-  - id: J18c97608213f0958
+  - id: J8edcd48c6ac2acdf
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 13.0 — SHE Submittals to the Employer
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4076,9 +4231,9 @@ claims:
       \ Employer\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jdfb67b661885be1f
+  - id: J226b324d4a855c2e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 14.0 — Accident reporting and investigation
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4451,20 +4606,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:57:12+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C88252cc0cb6535de
+    previous_evidence_ids:
+    - J18c97608213f0958
+    - Jdfb67b661885be1f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Wilful delay in verbal or written reporting of accidents or dangerous occurrences to the Employer attracts
     penalties as per the relevant contract/SHE penalty clauses.
   evidence_ids:
-  - Jdfb67b661885be1f
+  - J226b324d4a855c2e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C113c4181a1de22a4
+  id: C68016421a6fee24d
   citations:
-  - id: Jdfb67b661885be1f
+  - id: J226b324d4a855c2e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 14.0 — Accident reporting and investigation
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4837,22 +5003,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:57:12+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C113c4181a1de22a4
+    previous_evidence_ids:
+    - Jdfb67b661885be1f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The safety and penalty network links periodic SHE inspections, monthly audits, audit rating scores (MARS),
     and mandatory corrective action timelines for BMRCL Tender Package P1.
   evidence_ids:
-  - J1b63f38b8c09440d
-  - J8548b68993a39b18
-  - Jd37f748901fe9872
+  - J8af27a097f747d0a
+  - J4d5ab1b4374dae25
+  - J5c7c6ab80940eb2a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9be89b433f74cd2e
+  id: C268b1781f580459f
   citations:
-  - id: J1b63f38b8c09440d
+  - id: J8af27a097f747d0a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4962,9 +5138,9 @@ claims:
       : \"207\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J8548b68993a39b18
+  - id: J4d5ab1b4374dae25
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5057,9 +5233,9 @@ claims:
       \      ],\n      \"block_number\": 4,\n      \"text\": \"205\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jd37f748901fe9872
+  - id: J5c7c6ab80940eb2a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5171,21 +5347,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:01:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9be89b433f74cd2e
+    previous_evidence_ids:
+    - J1b63f38b8c09440d
+    - J8548b68993a39b18
+    - Jd37f748901fe9872
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'Monthly Audit Rating Score (MARS) evaluations classify criticalities into three tiers: scores under 60%
     require contractor rectification within 24 hours; scores under 75% require rectification within 7 days and confirmation
     in writing; scores under 90% require rectification within one month and confirmation in writing.'
   evidence_ids:
-  - J1b63f38b8c09440d
+  - J8af27a097f747d0a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C11aec34770d9f281
+  id: Cf9c45af32cfb4ebd
   citations:
-  - id: J1b63f38b8c09440d
+  - id: J8af27a097f747d0a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5297,20 +5485,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:01:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C11aec34770d9f281
+    previous_evidence_ids:
+    - J1b63f38b8c09440d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Planned general inspections include monthly committee inspections, weekly construction supervisor inspections,
     and daily contractor site SHE team inspections.
   evidence_ids:
-  - J8548b68993a39b18
+  - J4d5ab1b4374dae25
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf646a2522c5f0c8e
+  id: C2bd2062cd5ebf267
   citations:
-  - id: J8548b68993a39b18
+  - id: J4d5ab1b4374dae25
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5405,22 +5603,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:01:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf646a2522c5f0c8e
+    previous_evidence_ids:
+    - J8548b68993a39b18
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Routine inspections include daily plant and equipment checks, weekly scaffold checks by scaffolding supervisors,
     monthly electrical hand tool inspections by competent electrical supervisors, quarterly temporary electrical
     system checks, and half-yearly lifting equipment inspections by government-approved competent persons.
   evidence_ids:
-  - J8548b68993a39b18
-  - Jd37f748901fe9872
+  - J4d5ab1b4374dae25
+  - J5c7c6ab80940eb2a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca0ab9dd46f5eee86
+  id: Cd243e99a03db6efb
   citations:
-  - id: J8548b68993a39b18
+  - id: J4d5ab1b4374dae25
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5513,9 +5721,9 @@ claims:
       \      ],\n      \"block_number\": 4,\n      \"text\": \"205\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jd37f748901fe9872
+  - id: J5c7c6ab80940eb2a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5627,22 +5835,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:01:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca0ab9dd46f5eee86
+    previous_evidence_ids:
+    - J8548b68993a39b18
+    - Jd37f748901fe9872
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The SHE Manual mandates strict audit regimes, including external quarterly audits by ISO-qualified independent
     agencies, internal electrical safety audits, and specific audit finding prioritisation where Priority 1 gaps
     are rectified within 2 weeks and Priority 2 gaps within 3 to 4 weeks.
   evidence_ids:
-  - J6961f9a6c5dcf38f
-  - Je000412c7dd8410e
+  - Jb4b00f6657678f86
+  - Jd6275a1b6f8e5c3c
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9bdf6f81b02d8215
+  id: Cbd9fda326ac7a1e5
   citations:
-  - id: J6961f9a6c5dcf38f
+  - id: Jb4b00f6657678f86
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5747,9 +5966,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Je000412c7dd8410e
+  - id: Jd6275a1b6f8e5c3c
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5827,20 +6046,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:03:52+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9bdf6f81b02d8215
+    previous_evidence_ids:
+    - J6961f9a6c5dcf38f
+    - Je000412c7dd8410e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Priority 1 audit findings regarding high or unacceptable risk potential require implementation and rectification
     within 2 weeks.
   evidence_ids:
-  - J6961f9a6c5dcf38f
+  - Jb4b00f6657678f86
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C158940bcf8d7105b
+  id: Cb8ddf8b515144d57
   citations:
-  - id: J6961f9a6c5dcf38f
+  - id: Jb4b00f6657678f86
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5947,20 +6177,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:03:52+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C158940bcf8d7105b
+    previous_evidence_ids:
+    - J6961f9a6c5dcf38f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Priority 2 audit findings regarding minor injury likelihood or business loss risk require implementation
     and rectification within a maximum of 3 to 4 weeks.
   evidence_ids:
-  - J6961f9a6c5dcf38f
+  - Jb4b00f6657678f86
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4465d8daf1fe591a
+  id: Cde916c3454a41e84
   citations:
-  - id: J6961f9a6c5dcf38f
+  - id: Jb4b00f6657678f86
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6067,23 +6307,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:03:52+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4465d8daf1fe591a
+    previous_evidence_ids:
+    - J6961f9a6c5dcf38f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor must report total workmen strength within 2 hours of shift start, submit monthly SHE reports
     by the 7th of the following month, and immediately report all accidents and dangerous occurrences verbally followed
     by written reports within 24 hours.
   evidence_ids:
-  - J57d6834545c7169d
-  - J770dad0ff10cd4b4
-  - Ja570ec31c1b1bc8c
+  - J4be5b758524fce37
+  - J29be2765809f0aac
+  - J5564d6f72f8ab250
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C88699d8a3e128db4
+  id: C5f65bd8c549592ef
   citations:
-  - id: J57d6834545c7169d
+  - id: J4be5b758524fce37
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6177,9 +6427,9 @@ claims:
       : 4,\n      \"text\": \"213\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J770dad0ff10cd4b4
+  - id: J29be2765809f0aac
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6282,9 +6532,9 @@ claims:
       \      ],\n      \"block_number\": 7,\n      \"text\": \"212\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Ja570ec31c1b1bc8c
+  - id: J5564d6f72f8ab250
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6378,23 +6628,35 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:03:52+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C88699d8a3e128db4
+    previous_evidence_ids:
+    - J57d6834545c7169d
+    - J770dad0ff10cd4b4
+    - Ja570ec31c1b1bc8c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The safety and penalty network connects safety obligations across construction machinery, electrical installations,
     machine guarding, and lifting operations to contractor liabilities and penalties.
   evidence_ids:
-  - J026fff02246527c2
-  - J2f53f09be3750d34
-  - J85cb8851adc8cf4a
-  - Jb43d24671a70324c
+  - Jf2bd3cd66c8c5306
+  - J856783321be77500
+  - J0bae92fd8baf7920
+  - J2c6688efc51444ad
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C936070df38d87c5b
+  id: Cfaddc9d00a49e659
   citations:
-  - id: J026fff02246527c2
+  - id: Jf2bd3cd66c8c5306
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 26.0 — Site Electricity
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6452,9 +6714,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: J2f53f09be3750d34
+  - id: J856783321be77500
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 24.0 — Machine and general area guarding
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6487,9 +6749,9 @@ claims:
       Machine and general area guarding\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J85cb8851adc8cf4a
+  - id: J0bae92fd8baf7920
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 23.0 — Construction machinery
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6703,9 +6965,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"Construction machinery\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jb43d24671a70324c
+  - id: J2c6688efc51444ad
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 26.0 — Site Electricity
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6763,23 +7025,36 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T07:14:42+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C936070df38d87c5b
+    previous_evidence_ids:
+    - J026fff02246527c2
+    - J2f53f09be3750d34
+    - J85cb8851adc8cf4a
+    - Jb43d24671a70324c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Failure to adhere to construction machinery safety rules, electrical single line diagram submission requirements,
     or allowing loose/tapped electrical connections attracts monetary penalties depending upon the gravity of the
     unsafe act or condition.
   evidence_ids:
-  - J85cb8851adc8cf4a
-  - Jacfcf580da82fece
-  - Jb43d24671a70324c
+  - J0bae92fd8baf7920
+  - J5155320727bec14b
+  - J2c6688efc51444ad
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7dc0bc5c13313049
+  id: Cd2c73627fb2bee68
   citations:
-  - id: J85cb8851adc8cf4a
+  - id: J0bae92fd8baf7920
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 23.0 — Construction machinery
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6993,9 +7268,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"Construction machinery\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jacfcf580da82fece
+  - id: J5155320727bec14b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 26.0 — Site Electricity
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7048,9 +7323,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: Jb43d24671a70324c
+  - id: J2c6688efc51444ad
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 26.0 — Site Electricity
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7108,20 +7383,32 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T07:14:42+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7dc0bc5c13313049
+    previous_evidence_ids:
+    - J85cb8851adc8cf4a
+    - Jacfcf580da82fece
+    - Jb43d24671a70324c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The SHE Manual establishes that non-adherence to safety provisions, such as layout rules for batching plants
     and casting yards, is subject to penalties under relevant penalty clauses.
   evidence_ids:
-  - J96ecb6f98c77702f
+  - J69a83e3638331cdc
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ccf8ebc38575f6b7e
+  id: Cd1c58eef8ffb5a1e
   citations:
-  - id: J96ecb6f98c77702f
+  - id: J69a83e3638331cdc
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 38.0 — Batching Plant and Casting Yard layout
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7227,21 +7514,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:25:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ccf8ebc38575f6b7e
+    previous_evidence_ids:
+    - J96ecb6f98c77702f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The safety network details specific operational restrictions, equipment certification regimes, and inspection
     duties for lifting appliances, gear, and tools under the SHE Manual Part II.
   evidence_ids:
-  - J08371c421ef4c610
-  - Jd3f34769b2c57af8
+  - Jbda21e6eaedd35b8
+  - J6f14ca443d65a682
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4d69367471238298
+  id: C07f428cf93fba144
   citations:
-  - id: J08371c421ef4c610
+  - id: Jbda21e6eaedd35b8
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7355,9 +7652,9 @@ claims:
       : \"225\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jd3f34769b2c57af8
+  - id: J6f14ca443d65a682
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7455,21 +7752,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:54:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4d69367471238298
+    previous_evidence_ids:
+    - J08371c421ef4c610
+    - Jd3f34769b2c57af8
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: All lifting appliances and loose gears must be thoroughly tested and examined by a competent person at least
     once every six months, or after alterations/repairs affecting strength or stability, and when shifted to a new
     site.
   evidence_ids:
-  - Jd3f34769b2c57af8
+  - J6f14ca443d65a682
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C57fe2eb39119829e
+  id: Cd383583a5d4d24fa
   citations:
-  - id: Jd3f34769b2c57af8
+  - id: J6f14ca443d65a682
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7567,22 +7875,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:54:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C57fe2eb39119829e
+    previous_evidence_ids:
+    - Jd3f34769b2c57af8
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Operators of lifting machines like cranes or hydras must be above 21 years of age, possess a valid heavy
     transport vehicle driving licence, be competent and reliable, have formal training from an institution of national
     importance acceptable to the Employer, and undergo periodic medical examinations under Schedule VII of BOCW
     Rules.
   evidence_ids:
-  - Jd3f34769b2c57af8
+  - J6f14ca443d65a682
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ceaf6bd7f7410656c
+  id: C34cbce595318f309
   citations:
-  - id: Jd3f34769b2c57af8
+  - id: J6f14ca443d65a682
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7680,20 +7998,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:54:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ceaf6bd7f7410656c
+    previous_evidence_ids:
+    - Jd3f34769b2c57af8
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contractors must maintain a tool and tackle identification register recording purchase dates, safe working
     loads, and competent person examination dates.
   evidence_ids:
-  - Jd3f34769b2c57af8
+  - J6f14ca443d65a682
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7a1c28a96b8e0bc8
+  id: Ce6634f218db1b626
   citations:
-  - id: Jd3f34769b2c57af8
+  - id: J6f14ca443d65a682
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7791,22 +8119,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:54:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7a1c28a96b8e0bc8
+    previous_evidence_ids:
+    - Jd3f34769b2c57af8
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Non-adherence to safety, machinery, launching, electrical, and operational clauses in Part II of the SHE
     Manual attracts penalties from the Employer depending on gravity.
   evidence_ids:
-  - J1edc4afaf49fc4c1
-  - J91b3e69806245c29
-  - Je0995bcefaaeddfb
+  - J72c05ed76a35021a
+  - J8cc13a15f15bb715
+  - Ja8a8e991df7dd274
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C38118c734ebc1baa
+  id: Cb8b0fe45f417bcdf
   citations:
-  - id: J1edc4afaf49fc4c1
+  - id: J72c05ed76a35021a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7915,9 +8253,9 @@ claims:
       : 6,\n      \"text\": \"229\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J91b3e69806245c29
+  - id: J8cc13a15f15bb715
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8018,9 +8356,9 @@ claims:
       \      ],\n      \"block_number\": 10,\n      \"text\": \"230\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Je0995bcefaaeddfb
+  - id: Ja8a8e991df7dd274
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8132,20 +8470,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:56:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C38118c734ebc1baa
+    previous_evidence_ids:
+    - J1edc4afaf49fc4c1
+    - J91b3e69806245c29
+    - Je0995bcefaaeddfb
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The main contractor is penalized if sub-contractors or petty contractors use small capacity, noise-making
     diesel generators on site.
   evidence_ids:
-  - J8cc559818e9f4931
+  - J5f56babb558900d7
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C33240b160d7d53bd
+  id: C511cdf658b272471
   citations:
-  - id: J8cc559818e9f4931
+  - id: J5f56babb558900d7
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8244,21 +8594,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:56:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C33240b160d7d53bd
+    previous_evidence_ids:
+    - J8cc559818e9f4931
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The SHE Manual Part II establishes strict prohibitions and operational restrictions where non-compliance
     directly triggers penalties or mandatory safety interventions.
   evidence_ids:
-  - Ja97c63e86908cc52
-  - Jf9f7a1b15c644499
+  - Ja9ddeea9fc15b750
+  - J4f980593f73e018f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2e6454b7e830519c
+  id: C6febba9d0a40e6ae
   citations:
-  - id: Ja97c63e86908cc52
+  - id: Ja9ddeea9fc15b750
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8347,9 +8707,9 @@ claims:
       : 4,\n      \"text\": \"233\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf9f7a1b15c644499
+  - id: J4f980593f73e018f
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8446,20 +8806,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:57:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2e6454b7e830519c
+    previous_evidence_ids:
+    - Ja97c63e86908cc52
+    - Jf9f7a1b15c644499
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: No loose connections or tapped joints are permitted anywhere in the worksite, office areas, or stores; penalties
     apply as per relevant clauses upon observation of tapped joints.
   evidence_ids:
-  - Ja97c63e86908cc52
+  - Ja9ddeea9fc15b750
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb6764ea7e4896ada
+  id: C753faa1b6e6d23da
   citations:
-  - id: Ja97c63e86908cc52
+  - id: Ja9ddeea9fc15b750
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8550,22 +8921,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:57:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb6764ea7e4896ada
+    previous_evidence_ids:
+    - Ja97c63e86908cc52
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Safety and Penalty Network maps specific hazard controls, operational safety protocols, and the enforcement
     of penalties for non-adherence across construction zones, batching plants, and public interfaces.
   evidence_ids:
-  - J0c88ef5aa4649896
-  - J88c0835d94c22d50
-  - Jc0871b0810621784
+  - J064f0e8813ced45e
+  - Jdeb26e500ffd2a05
+  - J4330867d3b6837b1
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C89ee0d6ebef6e7a8
+  id: Ca7f91bd7eab3841d
   citations:
-  - id: J0c88ef5aa4649896
+  - id: J064f0e8813ced45e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8654,9 +9035,9 @@ claims:
       \      ],\n      \"block_number\": 4,\n      \"text\": \"242\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J88c0835d94c22d50
+  - id: Jdeb26e500ffd2a05
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8743,9 +9124,9 @@ claims:
       : \"244\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jc0871b0810621784
+  - id: J4330867d3b6837b1
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8854,20 +9235,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:01:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C89ee0d6ebef6e7a8
+    previous_evidence_ids:
+    - J0c88ef5aa4649896
+    - J88c0835d94c22d50
+    - Jc0871b0810621784
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Non-adherence to any site health, welfare, drainage, or general safety provision in batching plants and
     casting yards is subject to financial penalties as per the relevant penalty clauses.
   evidence_ids:
-  - J88c0835d94c22d50
+  - Jdeb26e500ffd2a05
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4c2965cd119f9634
+  id: C6f528f6d33b71b2b
   citations:
-  - id: J88c0835d94c22d50
+  - id: Jdeb26e500ffd2a05
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8956,21 +9349,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:01:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4c2965cd119f9634
+    previous_evidence_ids:
+    - J88c0835d94c22d50
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Barricades must be erected to Employer design specifications, numbered, painted, maintained in good condition,
     entered into a site barricade register, and equipped with retro-reflective stripes and red lights or blinkers.
   evidence_ids:
-  - J0c88ef5aa4649896
-  - Jc0871b0810621784
+  - J064f0e8813ced45e
+  - J4330867d3b6837b1
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca72211916b562e02
+  id: C0dddfb661be810b1
   citations:
-  - id: J0c88ef5aa4649896
+  - id: J064f0e8813ced45e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9059,9 +9462,9 @@ claims:
       \      ],\n      \"block_number\": 4,\n      \"text\": \"242\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jc0871b0810621784
+  - id: J4330867d3b6837b1
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9170,20 +9573,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:01:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca72211916b562e02
+    previous_evidence_ids:
+    - J0c88ef5aa4649896
+    - Jc0871b0810621784
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Failure to maintain the required minimum 10% spare PPE stock invites appropriate penalties as per the provisions
     of the contract.
   evidence_ids:
-  - Jfd70aa97610db08f
+  - J1d1657758880c7f9
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9f9bcdda0835771e
+  id: C1ec4144b9eec6643
   citations:
-  - id: Jfd70aa97610db08f
+  - id: J1d1657758880c7f9
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9293,20 +9707,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:03:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9f9bcdda0835771e
+    previous_evidence_ids:
+    - Jfd70aa97610db08f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Failure by the contractor to conduct mandatory medical examinations permits the employer to arrange them
     through an agency and deduct costs and overhead charges.
   evidence_ids:
-  - J573bee61f4ed333d
+  - J44c81c9cdd51865e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C86eb23df9a3158d0
+  id: C89f686feadf4519d
   citations:
-  - id: J573bee61f4ed333d
+  - id: J44c81c9cdd51865e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: Clause 42.0 — Medical Facilities
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9645,21 +10069,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T08:10:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C86eb23df9a3158d0
+    previous_evidence_ids:
+    - J573bee61f4ed333d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The contractor is required to submit a Noise Monitoring and Control Plan under the site Environmental Quality
     Management Plan to monitor construction noise, calculate future noise levels, and specify abatement measures.
   evidence_ids:
-  - J9c9ae6304368a371
-  - J89eb80081c212dac
+  - Jd6d8c291d429c50a
+  - J37502be8cd1d4198
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C83a24ffbb0f56a5d
+  id: C116f47f96a929a88
   citations:
-  - id: J9c9ae6304368a371
+  - id: Jd6d8c291d429c50a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9781,9 +10215,9 @@ claims:
       : 8,\n      \"text\": \"251\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J89eb80081c212dac
+  - id: J37502be8cd1d4198
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9895,21 +10329,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:15:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C83a24ffbb0f56a5d
+    previous_evidence_ids:
+    - J9c9ae6304368a371
+    - J89eb80081c212dac
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: If measured noise levels exceed allowable limits, the Engineer may direct the contractor to take effective
     remedial measures, modify working procedures, increase impact monitoring frequency, and report actions under
     an Event Contingency Plan.
   evidence_ids:
-  - Jbc8631bff4e6c74f
+  - Ja840a05f289c4458
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd2fe73a5cf04a2e6
+  id: C2e35f99ab7973e6d
   citations:
-  - id: Jbc8631bff4e6c74f
+  - id: Ja840a05f289c4458
     okf_path: OKF_bundle/Technical/Vol3/vol3_part3.md
-    okf_sha256: b4148f4fb1fa80a0ac1664c39ce24856c271ec525814fdb920eab7cb33432639
+    okf_sha256: b973183de77a23a5c4e6f7df14a6bfe6e19a3add3e80a6dc1db238991aff8dd3
     heading: 'Safety, Health and Environment Manual – Part III: Occupational Health and Welfare'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10025,22 +10470,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:15:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd2fe73a5cf04a2e6
+    previous_evidence_ids:
+    - Jbc8631bff4e6c74f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Under SHE Manual Part IV Clause 54.7, failure to submit environmental documents, records, and trend analysis
     on key resource consumption (energy, water, cement, fly ash, iron, steel, and waste recycling/reuse) demonstrating
     continual improvement results in the employer imposing appropriate penalties as indicated under the contract
     penalty clauses.
   evidence_ids:
-  - J268e07c639a4d540
+  - J58b0ef7d929794ef
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ceb233d6cc948c4d4
+  id: C6222804c5102612b
   citations:
-  - id: J268e07c639a4d540
+  - id: J58b0ef7d929794ef
     okf_path: OKF_bundle/Technical/Vol3/vol3_part4.md
-    okf_sha256: 0d5570d1ddb23565e468384b42c7ebe5fc4ca90ae4fc30e57544ebd862d6c085
+    okf_sha256: 8a9850438ec160be318ccdedeb8465b51ba9850986edff681868f388391ea34a
     heading: Clause 54.0 — Hazardous Waste Management
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10144,22 +10599,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T14:45:10+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ceb233d6cc948c4d4
+    previous_evidence_ids:
+    - J268e07c639a4d540
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part V of the SHE Manual establishes BMRCL's recovery mechanism for contractor safety violations,
     unsafe acts, and unsafe conditions, operating alongside provisions for work stoppage and contractor safety awards.
   evidence_ids:
-  - Je48c825331c7d8d0
-  - J93299d4c0b4a15c1
-  - Sa7b00e8434169609
+  - J4c0230be7cd2465a
+  - J0c2708a61861efde
+  - S0a3979dd703595b3
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C05737e3fadd24c6b
+  id: Ca36216134deab369
   citations:
-  - id: Je48c825331c7d8d0
+  - id: J4c0230be7cd2465a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10174,9 +10639,9 @@ claims:
     quote: "{\n  \"pdf_page\": 80,\n  \"text\": \"PART - V: PENALTY AND AWARDS\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J93299d4c0b4a15c1
+  - id: J0c2708a61861efde
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10192,9 +10657,9 @@ claims:
       \ PENALTY AND AWARDS\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Sa7b00e8434169609
+  - id: S0a3979dd703595b3
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     pdf_pages:
@@ -10212,20 +10677,32 @@ claims:
     page_precision: document_metadata_range
   created_at: '2026-10-31T15:01:03+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C05737e3fadd24c6b
+    previous_evidence_ids:
+    - Je48c825331c7d8d0
+    - J93299d4c0b4a15c1
+    - Sa7b00e8434169609
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: For fatal accidents, the recovery amount is Rs. 5,00,000 for the first fatality and Rs. 10,000,000 for every
     subsequent fatality.
   evidence_ids:
-  - Jc0186928fc9c4a1a
+  - Jd6def60c4146adcd
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C41d9ab19846c0864
+  id: C1474ab5e7d053328
   citations:
-  - id: Jc0186928fc9c4a1a
+  - id: Jd6def60c4146adcd
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10303,20 +10780,30 @@ claims:
       continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T15:01:03+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C41d9ab19846c0864
+    previous_evidence_ids:
+    - Jc0186928fc9c4a1a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: For grievously injured persons (as defined by the Workmen's Compensation Act), the recovery amount is Rs.
     1,00,000 for the first injured person and Rs. 2,00,000 for every subsequent grievously injured person.
   evidence_ids:
-  - Jc0186928fc9c4a1a
+  - Jd6def60c4146adcd
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cadc8c2e74ce485ac
+  id: Ce0a2068b630de50a
   citations:
-  - id: Jc0186928fc9c4a1a
+  - id: Jd6def60c4146adcd
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10394,21 +10881,31 @@ claims:
       continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T15:01:03+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cadc8c2e74ce485ac
+    previous_evidence_ids:
+    - Jc0186928fc9c4a1a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Traffic management violations carry recovery charges of Rs. 1,00,000 for the first violation and Rs. 2,00,000
     for subsequent violations under specified clauses, while specific barricade deficiencies carry Rs. 25,000 per
     single violation compounded up to a maximum of Rs. 1,00,000.
   evidence_ids:
-  - J6d03ee02798726bf
+  - J81e907a3bc0af08e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1d7f63eb660c0920
+  id: C31bd4095db8c3c14
   citations:
-  - id: J6d03ee02798726bf
+  - id: J81e907a3bc0af08e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10477,20 +10974,30 @@ claims:
       continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T15:01:03+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1d7f63eb660c0920
+    previous_evidence_ids:
+    - J6d03ee02798726bf
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Clause 57.0 establishes the Employer's right to order work stoppage for safety reasons without entitling
     the contractor to damages or extension of time.
   evidence_ids:
-  - J4729f5d956161ff8
+  - Jb733ee317f5f10ff
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C0db4eb63555d0c49
+  id: Cb274a6a644dc70ba
   citations:
-  - id: J4729f5d956161ff8
+  - id: Jb733ee317f5f10ff
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 57.0 — Stoppage of work
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10545,20 +11052,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T15:01:03+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C0db4eb63555d0c49
+    previous_evidence_ids:
+    - J4729f5d956161ff8
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Clause 58.0 establishes award categories for safety milestones including safe million man-hours and zero
     fatality contracts.
   evidence_ids:
-  - Je8b517b43fba6160
+  - J917a961f86904879
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd2718e693e6d25e8
+  id: C21d49f2f39b7a4d5
   citations:
-  - id: Je8b517b43fba6160
+  - id: J917a961f86904879
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 58.0 — Awards
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10608,21 +11125,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T15:01:03+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd2718e693e6d25e8
+    previous_evidence_ids:
+    - Je8b517b43fba6160
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part V of the Safety, Health and Environment (SHE) Manual establishes BMRCL's financial recovery
     mechanism and penalty schedules for contractor safety violations, unsafe acts, and unsafe conditions at work
     sites.
   evidence_ids:
-  - J4dc46683328b8b94
+  - J8a0e49c22d95d567
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C41cab6c4de64090b
+  id: Ce82abdc46a2c397c
   citations:
-  - id: J4dc46683328b8b94
+  - id: J8a0e49c22d95d567
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10753,20 +11280,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:03:30+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C41cab6c4de64090b
+    previous_evidence_ids:
+    - J4dc46683328b8b94
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Non-compliance with the SHE policy (clause 4.1) incurs a penalty of Rs.5,000 per single violation, compounded
     to a maximum of Rs.25,000 at any single instance.
   evidence_ids:
-  - J4dc46683328b8b94
+  - J8a0e49c22d95d567
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ccc1bedb256511b23
+  id: C04c54285b5f4b4be
   citations:
-  - id: J4dc46683328b8b94
+  - id: J8a0e49c22d95d567
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10897,21 +11434,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:03:30+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ccc1bedb256511b23
+    previous_evidence_ids:
+    - J4dc46683328b8b94
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Deficiencies in the SHE plan (content, coverage, delay in submission, lack of updating or failure to provide
     copies) incur a penalty of Rs.1,00,000 per single violation, compounded to a maximum of Rs.2,00,000 at any single
     instance.
   evidence_ids:
-  - J4dc46683328b8b94
+  - J8a0e49c22d95d567
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2fd6d8e7c3061680
+  id: Cf04b42a5712127e8
   citations:
-  - id: J4dc46683328b8b94
+  - id: J8a0e49c22d95d567
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11042,20 +11589,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:03:30+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2fd6d8e7c3061680
+    previous_evidence_ids:
+    - J4dc46683328b8b94
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Failure to comply with minimum manpower requirements for SHE organisation incurs Rs.1,00,000 per month for
     the first month and Rs.2,00,000 for subsequent months.
   evidence_ids:
-  - J4dc46683328b8b94
+  - J8a0e49c22d95d567
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C663e8da719dade97
+  id: C3ec2973791bc13f3
   citations:
-  - id: J4dc46683328b8b94
+  - id: J8a0e49c22d95d567
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11186,20 +11743,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:03:30+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C663e8da719dade97
+    previous_evidence_ids:
+    - J4dc46683328b8b94
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Fatal accidents incur a penalty of Rs.5,00,000 for the first fatality and Rs.10,00,000 for every subsequent
     fatality.
   evidence_ids:
-  - Jebbe75a21f09e602
+  - J79d23904e48aab50
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbd3486e5aadc85fb
+  id: C0c3e7d650bdfefc8
   citations:
-  - id: Jebbe75a21f09e602
+  - id: J79d23904e48aab50
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11326,20 +11893,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:03:30+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbd3486e5aadc85fb
+    previous_evidence_ids:
+    - Jebbe75a21f09e602
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Grievous injury incidents incur a penalty of Rs.1,00,000 for the first grievously injured person and Rs.2,00,000
     for every subsequent grievously injured person.
   evidence_ids:
-  - Jebbe75a21f09e602
+  - J79d23904e48aab50
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C67a3ad3b00535659
+  id: C95b0f328dc1b8f97
   citations:
-  - id: Jebbe75a21f09e602
+  - id: J79d23904e48aab50
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11466,20 +12043,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:03:30+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C67a3ad3b00535659
+    previous_evidence_ids:
+    - Jebbe75a21f09e602
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Lifting appliances and gear violations (such as missing fitness certificates or SWL markings) incur a penalty
     of Rs.50,000 per single violation, compounded to a maximum of Rs.5,00,000 at any single instance.
   evidence_ids:
-  - J76e888824b1d01d7
+  - Jb988ebfc2348becf
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C13905ed1f8962828
+  id: C08426c5dfc98e0de
   citations:
-  - id: J76e888824b1d01d7
+  - id: Jb988ebfc2348becf
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11592,20 +12179,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:03:30+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C13905ed1f8962828
+    previous_evidence_ids:
+    - J76e888824b1d01d7
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Launching operations non-adherence to clause 22.2 incurs Rs.50,000 for the first violation and Rs.1,00,000
     for subsequent violations.
   evidence_ids:
-  - J1e4284a28e1aef8a
+  - J2556b00273245b11
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9ddfa77622086f98
+  id: C33daf761a73ff9e6
   citations:
-  - id: J1e4284a28e1aef8a
+  - id: J2556b00273245b11
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11737,20 +12334,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:03:30+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9ddfa77622086f98
+    previous_evidence_ids:
+    - J1e4284a28e1aef8a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Site electrical safety non-compliance items incur Rs.10,000 per single violation, compounded to a maximum
     of Rs.1,00,000 at any single instance.
   evidence_ids:
-  - J1e4284a28e1aef8a
+  - J2556b00273245b11
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce03dedad0f100ba9
+  id: C491c7a9f3a95fcec
   citations:
-  - id: J1e4284a28e1aef8a
+  - id: J2556b00273245b11
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11882,22 +12489,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:03:30+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce03dedad0f100ba9
+    previous_evidence_ids:
+    - J1e4284a28e1aef8a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part V of the SHE Manual establishes financial penalties, work stoppage powers, and safety award
     categories for BMRCL Tender Package P1.
   evidence_ids:
-  - J960d4fcab1aa053d
-  - Jef5a3df3ab246f64
-  - Jf5d2b0771b102c5f
+  - Jb6700ce9e4738bf8
+  - J1e9a99df38b19726
+  - Jb59db69e5e2ad8d6
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4c9b8144976efcf8
+  id: C37f0e2af2a7642d8
   citations:
-  - id: J960d4fcab1aa053d
+  - id: Jb6700ce9e4738bf8
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12029,9 +12646,9 @@ claims:
       \     41.38799285888672\n      ],\n      \"block_number\": 17,\n      \"text\": \"270\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jef5a3df3ab246f64
+  - id: J1e9a99df38b19726
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12153,9 +12770,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf5d2b0771b102c5f
+  - id: Jb59db69e5e2ad8d6
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12263,23 +12880,35 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:05:53+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4c9b8144976efcf8
+    previous_evidence_ids:
+    - J960d4fcab1aa053d
+    - Jef5a3df3ab246f64
+    - Jf5d2b0771b102c5f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Penalties for non-compliance with bentonite handling, traffic safety, PPE, occupational health, welfare,
     excavation, work permits, and environmental controls range from Rs. 200 per minor violation up to Rs. 3,00,000
     for repeated observations.
   evidence_ids:
-  - J960d4fcab1aa053d
-  - Jef5a3df3ab246f64
-  - Jf5d2b0771b102c5f
+  - Jb6700ce9e4738bf8
+  - J1e9a99df38b19726
+  - Jb59db69e5e2ad8d6
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf3c9737dde400c1b
+  id: C025a266099cf7941
   citations:
-  - id: J960d4fcab1aa053d
+  - id: Jb6700ce9e4738bf8
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12411,9 +13040,9 @@ claims:
       \     41.38799285888672\n      ],\n      \"block_number\": 17,\n      \"text\": \"270\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jef5a3df3ab246f64
+  - id: J1e9a99df38b19726
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12535,9 +13164,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf5d2b0771b102c5f
+  - id: Jb59db69e5e2ad8d6
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12645,20 +13274,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:05:53+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf3c9737dde400c1b
+    previous_evidence_ids:
+    - J960d4fcab1aa053d
+    - Jef5a3df3ab246f64
+    - Jf5d2b0771b102c5f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Employer holds absolute discretion to order work stoppages for safety hazards without granting time
     extensions or waiving liquidated damages.
   evidence_ids:
-  - Jf5d2b0771b102c5f
+  - Jb59db69e5e2ad8d6
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C65c0b857142dfecc
+  id: C901d0e43a54d519c
   citations:
-  - id: Jf5d2b0771b102c5f
+  - id: Jb59db69e5e2ad8d6
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12766,20 +13407,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:05:53+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C65c0b857142dfecc
+    previous_evidence_ids:
+    - Jf5d2b0771b102c5f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Safety awards are established for achievements such as safe million man-hours, zero fatality contracts,
     and best safety teams.
   evidence_ids:
-  - Jf5d2b0771b102c5f
+  - Jb59db69e5e2ad8d6
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf05ce581fec3ba83
+  id: Caddbf646eb7ae3a0
   citations:
-  - id: Jf5d2b0771b102c5f
+  - id: Jb59db69e5e2ad8d6
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: 'Safety, Health and Environment Manual – Part V: Penalty and Awards'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12887,20 +13538,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T15:05:53+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf05ce581fec3ba83
+    previous_evidence_ids:
+    - Jf5d2b0771b102c5f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: For SHE Policy non-compliance under clause 4.1, the deductible amount is Rs. 5,000 per single violation,
     compounded to a maximum of Rs. 25,000 at any single instance.
   evidence_ids:
-  - Ja43834edb1b05d35
+  - J8642c11e9c25bf31
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cfe9c9210392e2849
+  id: Cc466974ed2660f29
   citations:
-  - id: Ja43834edb1b05d35
+  - id: J8642c11e9c25bf31
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12972,21 +13633,31 @@ claims:
       continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:55:05+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cfe9c9210392e2849
+    previous_evidence_ids:
+    - Ja43834edb1b05d35
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: For SHE Plan deficiencies (not as per employer content/coverage, delay in submission, lack of updating or
     failure to provide copies), the deductible amount is Rs. 1,00,000 per single violation, compounded to a maximum
     of Rs. 2,00,000 at any single instance.
   evidence_ids:
-  - Ja43834edb1b05d35
+  - J8642c11e9c25bf31
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C96dea18134a662af
+  id: Cddbd8f89269ac722
   citations:
-  - id: Ja43834edb1b05d35
+  - id: J8642c11e9c25bf31
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13058,20 +13729,30 @@ claims:
       continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:55:05+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C96dea18134a662af
+    previous_evidence_ids:
+    - Ja43834edb1b05d35
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: For SHE Organisation manpower deficiencies under clause 6.1.1 or vacancy non-fulfillment within 14 days,
     penalties are Rs. 1,00,000 per month for the first month and Rs. 2,00,000 for subsequent months.
   evidence_ids:
-  - Ja43834edb1b05d35
+  - J8642c11e9c25bf31
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2e009d95a8814bcb
+  id: Cfd2298a74b7c15a4
   citations:
-  - id: Ja43834edb1b05d35
+  - id: J8642c11e9c25bf31
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13143,20 +13824,30 @@ claims:
       continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:55:05+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2e009d95a8814bcb
+    previous_evidence_ids:
+    - Ja43834edb1b05d35
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: For lifting appliances and gear non-compliance (such as missing fitness certificates or SWL markings), the
     penalty is Rs. 50,000 per single violation, compounded to a maximum of Rs. 5,00,000 at any single instance.
   evidence_ids:
-  - J94c00c6122a08230
+  - Ja296fb642475b363
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf0fb5884ec81f0b8
+  id: C6301de6290f9f7fe
   citations:
-  - id: J94c00c6122a08230
+  - id: Ja296fb642475b363
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13225,20 +13916,30 @@ claims:
       continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:55:05+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf0fb5884ec81f0b8
+    previous_evidence_ids:
+    - J94c00c6122a08230
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: For working at height, ladders, and scaffold violations (such as lack of safety belts or nets), penalties
     are Rs. 10,000 per single violation, compounded to a maximum of Rs. 1,00,000 at any single instance.
   evidence_ids:
-  - J94c00c6122a08230
+  - Ja296fb642475b363
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C93ac1e348d741848
+  id: C2f76f010770194e5
   citations:
-  - id: J94c00c6122a08230
+  - id: Ja296fb642475b363
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13307,20 +14008,30 @@ claims:
       continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:55:05+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C93ac1e348d741848
+    previous_evidence_ids:
+    - J94c00c6122a08230
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: For SHE Committee failures regarding meeting conduct or site inspections, penalties range from Rs. 5,000
     up to Rs. 5,00,000 for subsequent violations depending on the specific sub-item.
   evidence_ids:
-  - Jb3e3928a0d3c3911
+  - Jec122990a1676bdc
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9b191f40d22e18ae
+  id: C5beba54b37c1ed40
   citations:
-  - id: Jb3e3928a0d3c3911
+  - id: Jec122990a1676bdc
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13403,20 +14114,30 @@ claims:
       continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:55:05+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9b191f40d22e18ae
+    previous_evidence_ids:
+    - Jb3e3928a0d3c3911
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: For SHE Training deficiencies (induction, supervisor, refresher, tool-box talks, skill development, daily
     safety oath), penalties are Rs. 50,000 for the first violation and Rs. 1,00,000 for subsequent violations.
   evidence_ids:
-  - Jb3e3928a0d3c3911
+  - Jec122990a1676bdc
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9a6a692d7d400b10
+  id: C72193c5f1f69cf30
   citations:
-  - id: Jb3e3928a0d3c3911
+  - id: Jec122990a1676bdc
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13499,21 +14220,31 @@ claims:
       continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:55:05+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9a6a692d7d400b10
+    previous_evidence_ids:
+    - Jb3e3928a0d3c3911
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part V specifies recovery charges for launching operations, site electrical safety, hand and power
     tools, gas cutting, and welding infractions, featuring tiered compounding limits up to Rs. 1,00,000 or Rs. 50,000
     per instance.
   evidence_ids:
-  - J48688f4aff2f133e
+  - Jba8ad4872173b796
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf4a98996dcfcc4f9
+  id: C67cc7fc4b1ee308a
   citations:
-  - id: J48688f4aff2f133e
+  - id: Jba8ad4872173b796
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13585,20 +14316,30 @@ claims:
       continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:58:14+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf4a98996dcfcc4f9
+    previous_evidence_ids:
+    - J48688f4aff2f133e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Launching operation violations of clause 22.2 incur Rs. 50,000 for the first violation and Rs. 1,00,000
     for subsequent violations.
   evidence_ids:
-  - J48688f4aff2f133e
+  - Jba8ad4872173b796
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd2602828a9bdba5a
+  id: Cbd02f6a13f85ce23
   citations:
-  - id: J48688f4aff2f133e
+  - id: Jba8ad4872173b796
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13670,20 +14411,30 @@ claims:
       continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:58:14+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd2602828a9bdba5a
+    previous_evidence_ids:
+    - J48688f4aff2f133e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Site electrical safety and hand/power tools non-compliance incur Rs. 10,000 per single violation, compounded
     to a maximum of Rs. 1,00,000 at any single instance.
   evidence_ids:
-  - J48688f4aff2f133e
+  - Jba8ad4872173b796
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca3a90732edf4f71c
+  id: Caa8094fa15f1ed03
   citations:
-  - id: J48688f4aff2f133e
+  - id: Jba8ad4872173b796
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13755,20 +14506,30 @@ claims:
       continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:58:14+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca3a90732edf4f71c
+    previous_evidence_ids:
+    - J48688f4aff2f133e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Bentonite mishandling and tyre cleaning omissions are penalized with progressive observations of Rs. 1,00,000
     on first, Rs. 2,00,000 on second, and Rs. 3,00,000 on third and subsequent observations.
   evidence_ids:
-  - Jfce205ccbc6bf7b7
+  - Jd8e920f7f0911c01
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3d39e2cbf0694b7e
+  id: C86f69da8efc1494b
   citations:
-  - id: Jfce205ccbc6bf7b7
+  - id: Jd8e920f7f0911c01
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13842,21 +14603,31 @@ claims:
       continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:58:14+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3d39e2cbf0694b7e
+    previous_evidence_ids:
+    - Jfce205ccbc6bf7b7
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: PPE non-compliance (not wearing or keeping elsewhere) incurs Rs. 200 per single violation for items i) to
     vi), while wrong helmet color or unauthorized use incurs Rs. 10,000 for first and Rs. 50,000 for subsequent
     violations.
   evidence_ids:
-  - Jfce205ccbc6bf7b7
+  - Jd8e920f7f0911c01
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf2c8e834798b5d9c
+  id: Cd1247220d3cf24af
   citations:
-  - id: Jfce205ccbc6bf7b7
+  - id: Jd8e920f7f0911c01
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13930,20 +14701,30 @@ claims:
       continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:58:14+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf2c8e834798b5d9c
+    previous_evidence_ids:
+    - Jfce205ccbc6bf7b7
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Clause 56.4 grants the Employer the right to deduct charges for any other unlisted unsafe act or condition
     on a case-to-case basis, scaled in comparison with similar offences indicated in clause 56.3.
   evidence_ids:
-  - J6009a204b011808e
+  - J97c03472ea9501e9
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cdbc10c3b8d3558cb
+  id: Ca99acc07ce9c308d
   citations:
-  - id: J6009a204b011808e
+  - id: J97c03472ea9501e9
     okf_path: OKF_bundle/Technical/Vol3/vol3_part5.md
-    okf_sha256: c7bc0cbf19498867a50a84e87e22f782e98b9269e438b3a1128fe46c89000020
+    okf_sha256: 1dfaca4cba8fa1d1cd8be5d42cd344b3604b322be013238bc57386f021c3533c
     heading: Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13990,12 +14771,22 @@ claims:
       continue in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:58:14+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cdbc10c3b8d3558cb
+    previous_evidence_ids:
+    - J6009a204b011808e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: belongs_to
   target: index.md
   title: BMRCL Wiki Index
   evidence_ids:
-  - J96e5227223f2186d
+  - Jce685766e7843ace
 hub_extensions:
 - title: Unsafe conditions, charges, stoppage and awards
   body: 'This is source navigation, not an automatic causal sequence or a decision to impose a penalty.
@@ -14007,18 +14798,18 @@ hub_extensions:
 
     | Unsafe condition / personnel default | The conduct and functioning of contractor SHE personnel are monitored
     by the Employer, and any default or deficiency attracts penalties as per penalty clause 56.0 of the SHE manual.
-    [^safety_penalty_network_0_1]; `Vol3DLNP1.pdf`; PDF page(s) 16, 17; `J6adabb174d1916a1` |
+    [^safety_penalty_network_0_1]; `Vol3DLNP1.pdf`; PDF page(s) 16, 17; `J9b89915bf84b73ea` |
 
     | Charges — 56.4 | Clause 56.4 grants the Employer the right to deduct charges for any other unlisted unsafe
     act or condition on a case-to-case basis, scaled in comparison with similar offences indicated in clause 56.3.
-    [^safety_penalty_network_0_2]; `Vol3DLNP1.pdf`; PDF page(s) 87; `J6009a204b011808e` |
+    [^safety_penalty_network_0_2]; `Vol3DLNP1.pdf`; PDF page(s) 87; `J97c03472ea9501e9` |
 
     | Work stoppage — 57.0 | Clause 57.0 establishes the Employer''s right to order work stoppage for safety reasons
     without entitling the contractor to damages or extension of time. [^safety_penalty_network_0_3]; `Vol3DLNP1.pdf`;
-    PDF page(s) 87; `J4729f5d956161ff8` |
+    PDF page(s) 87; `Jb733ee317f5f10ff` |
 
     | Awards — 58.0 | Clause 58.0 establishes award categories for safety milestones including safe million man-hours
-    and zero fatality contracts. [^safety_penalty_network_0_4]; `Vol3DLNP1.pdf`; PDF page(s) 87; `Je8b517b43fba6160`
+    and zero fatality contracts. [^safety_penalty_network_0_4]; `Vol3DLNP1.pdf`; PDF page(s) 87; `J917a961f86904879`
     |
 
 
@@ -14033,7 +14824,7 @@ hub_extensions:
     57.0 — Stoppage of work]]
 
     [^safety_penalty_network_0_4]: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 58.0 — Awards|Clause 58.0 — Awards]]'
-last_editorial_review: '2026-11-01T12:36:19+00:00'
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Safety and Penalty Network (Vol 3 Part V) - Additional Schedules
@@ -14043,265 +14834,265 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Summary
 
 - BMRCL enforces strict bid security forfeiture conditions if a tenderer withdraws its bid during validity, refuses arithmetical price corrections, misrepresents facts, or fails to sign the contract and furnish performance guarantees upon award.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 15, 16, 17, 18; quotation `J96e5227223f2186d`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 15, 16, 17, 18; quotation `Jce685766e7843ace`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/12`.
 
 - Failure to comply with contract award formalization requirements, including submission of performance security and contract signing, constitutes grounds for award annulment and tender security forfeiture.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 28.0 — Annulment of the Award|Clause 28.0 — Annulment of the Award]]; `Vol1DLNP1.pdf`; PDF page(s) 25; quotation `Jc418e3c330341bac`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/27`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 28.0 — Annulment of the Award|Clause 28.0 — Annulment of the Award]]; `Vol1DLNP1.pdf`; PDF page(s) 25; quotation `Sdc71415940665ec2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 28.0 — Annulment of the Award|Clause 28.0 — Annulment of the Award]]; `Vol1DLNP1.pdf`; PDF page(s) 25; quotation `Ja32aa13d16755b72`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/27`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 28.0 — Annulment of the Award|Clause 28.0 — Annulment of the Award]]; `Vol1DLNP1.pdf`; PDF page(s) 25; quotation `Seeeb5ed9033d04a8`.
 
 - Attachment 14 requires tenderers to submit an outline for their Safety, Health and Environmental plan in compliance with the SHE Manual as part of their technical details.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 60; quotation `Jb104949f6696eb73`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/21`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-14 — Tenderer's Brief of Technical Details|Attachment-14 — Tenderer's Brief of Technical Details]]; `Vol1DLNP1.pdf`; PDF page(s) 60; quotation `S473ec4d96fbcd73f`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 60; quotation `Jf39b9044ce41e0b2`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/21`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-14 — Tenderer's Brief of Technical Details|Attachment-14 — Tenderer's Brief of Technical Details]]; `Vol1DLNP1.pdf`; PDF page(s) 60; quotation `S492163b00ddf4b59`.
 
 - Attachment 16 requires tenderers to sign a Statement of Integrity, Eligibility and Social and Environmental Responsibility, committing to international labour and environmental standards and audit cooperation.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 62, 63, 64; quotation `J9392d11af3f7df1b`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/23`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-16 — Statement of Integrity, Eligibility and Social and Environmental Responsibility|Attachment-16 — Statement of Integrity, Eligibility and Social and Environmental Responsibility]]; `Vol1DLNP1.pdf`; PDF page(s) 62, 63, 64; quotation `S3b16337a4e02eb46`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 62, 63, 64; quotation `J4e9c1d045a5d0f33`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/23`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-16 — Statement of Integrity, Eligibility and Social and Environmental Responsibility|Attachment-16 — Statement of Integrity, Eligibility and Social and Environmental Responsibility]]; `Vol1DLNP1.pdf`; PDF page(s) 62, 63, 64; quotation `S13eec07da5ad21de`.
 
 - The safety and penalty network connects contractual safety obligations, statutory enactments under the SHE manual, and employer oversight mechanisms for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J0562abcc824c4f49`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 3.0 — Compliance|Clause 3.0 — Compliance]]; `Vol3DLNP1.pdf`; PDF page(s) 12, 13; quotation `J4dbf3d178da92201`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J6e268122a6c15b66`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 3.0 — Compliance|Clause 3.0 — Compliance]]; `Vol3DLNP1.pdf`; PDF page(s) 12, 13; quotation `J7502791d30e9933d`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/2`.
 
 - The safety and penalty network connects safety obligations, designer duties, contractor organization requirements, and default penalties specified across the tender documentation.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 5.0 — Designer’s role|Clause 5.0 — Designer’s role]]; `Vol3DLNP1.pdf`; PDF page(s) 14, 15, 16; quotation `J18d9d6b025a34658`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 6.0 — Contractor SHE Organisation|Clause 6.0 — Contractor SHE Organisation]]; `Vol3DLNP1.pdf`; PDF page(s) 16, 17; quotation `J6adabb174d1916a1`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 5.0 — Designer’s role|Clause 5.0 — Designer’s role]]; `Vol3DLNP1.pdf`; PDF page(s) 14, 15, 16; quotation `Jf8809a71af85b566`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 6.0 — Contractor SHE Organisation|Clause 6.0 — Contractor SHE Organisation]]; `Vol3DLNP1.pdf`; PDF page(s) 16, 17; quotation `J9b89915bf84b73ea`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/5`.
 
 - SHE inspections under Vol 3 Part 1 Clause 10 serve as the primary mechanism to identify variations and non-compliance against the approved contractor SHE plan across all operational sites.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 10.0 — SHE Inspection|Clause 10.0 — SHE Inspection]]; `Vol3DLNP1.pdf`; PDF page(s) 21, 22; quotation `J583ea0722db5bc0b`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 10.0 — SHE Inspection|Clause 10.0 — SHE Inspection]]; `Vol3DLNP1.pdf`; PDF page(s) 21, 22; quotation `J146a1bdce2491605`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/9`.
 
 - Under Vol 3 Part 1 Clause 11.4.9.3, non-conformity with external audit findings empowers the Employer to take necessary steps including stoppage of work and/or imposing penalties to enforce implementation.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 11.0 — SHE Audit|Clause 11.0 — SHE Audit]]; `Vol3DLNP1.pdf`; PDF page(s) 22, 23, 24, 25, 26; quotation `J54fb72d54b0d4203`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 11.0 — SHE Audit|Clause 11.0 — SHE Audit]]; `Vol3DLNP1.pdf`; PDF page(s) 22, 23, 24, 25, 26; quotation `Ja911fab00f3bad38`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/10`.
 
 - The safety and penalty network connects reporting obligations, statutory accident notifications, and independent investigations to enforce contractor accountability under the SHE manual.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 13.0 — SHE Submittals to the Employer|Clause 13.0 — SHE Submittals to the Employer]]; `Vol3DLNP1.pdf`; PDF page(s) 26, 27; quotation `J18c97608213f0958`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/12`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 14.0 — Accident reporting and investigation|Clause 14.0 — Accident reporting and investigation]]; `Vol3DLNP1.pdf`; PDF page(s) 27, 28, 29, 30; quotation `Jdfb67b661885be1f`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 13.0 — SHE Submittals to the Employer|Clause 13.0 — SHE Submittals to the Employer]]; `Vol3DLNP1.pdf`; PDF page(s) 26, 27; quotation `J8edcd48c6ac2acdf`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 14.0 — Accident reporting and investigation|Clause 14.0 — Accident reporting and investigation]]; `Vol3DLNP1.pdf`; PDF page(s) 27, 28, 29, 30; quotation `J226b324d4a855c2e`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/13`.
 
 - The safety and penalty network links periodic SHE inspections, monthly audits, audit rating scores (MARS), and mandatory corrective action timelines for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 23; quotation `J1b63f38b8c09440d`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/15`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 21; quotation `J8548b68993a39b18`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/13`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 22; quotation `Jd37f748901fe9872`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 23; quotation `J8af27a097f747d0a`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 21; quotation `J4d5ab1b4374dae25`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 22; quotation `J5c7c6ab80940eb2a`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/14`.
 
 - The SHE Manual mandates strict audit regimes, including external quarterly audits by ISO-qualified independent agencies, internal electrical safety audits, and specific audit finding prioritisation where Priority 1 gaps are rectified within 2 weeks and Priority 2 gaps within 3 to 4 weeks.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 25; quotation `J6961f9a6c5dcf38f`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/17`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 24; quotation `Je000412c7dd8410e`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 25; quotation `Jb4b00f6657678f86`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/17`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 24; quotation `Jd6275a1b6f8e5c3c`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/16`.
 
 - The Contractor must report total workmen strength within 2 hours of shift start, submit monthly SHE reports by the 7th of the following month, and immediately report all accidents and dangerous occurrences verbally followed by written reports within 24 hours.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 29; quotation `J57d6834545c7169d`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/21`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 28; quotation `J770dad0ff10cd4b4`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/20`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 27; quotation `Ja570ec31c1b1bc8c`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/19`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 29; quotation `J4be5b758524fce37`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/21`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 28; quotation `J29be2765809f0aac`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/20`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 27; quotation `J5564d6f72f8ab250`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/19`.
 
 - The safety and penalty network connects safety obligations across construction machinery, electrical installations, machine guarding, and lifting operations to contractor liabilities and penalties.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 48; quotation `J026fff02246527c2`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 24.0 — Machine and general area guarding|Clause 24.0 — Machine and general area guarding]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `J2f53f09be3750d34`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/7`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 23.0 — Construction machinery|Clause 23.0 — Construction machinery]]; `Vol3DLNP1.pdf`; PDF page(s) 45, 46; quotation `J85cb8851adc8cf4a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 47; quotation `Jb43d24671a70324c`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 48; quotation `Jf2bd3cd66c8c5306`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 24.0 — Machine and general area guarding|Clause 24.0 — Machine and general area guarding]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `J856783321be77500`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 23.0 — Construction machinery|Clause 23.0 — Construction machinery]]; `Vol3DLNP1.pdf`; PDF page(s) 45, 46; quotation `J0bae92fd8baf7920`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 47; quotation `J2c6688efc51444ad`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/1`.
 
 - The SHE Manual establishes that non-adherence to safety provisions, such as layout rules for batching plants and casting yards, is subject to penalties under relevant penalty clauses.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 38.0 — Batching Plant and Casting Yard layout|Clause 38.0 — Batching Plant and Casting Yard layout]]; `Vol3DLNP1.pdf`; PDF page(s) 59, 60; quotation `J96ecb6f98c77702f`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/21`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 38.0 — Batching Plant and Casting Yard layout|Clause 38.0 — Batching Plant and Casting Yard layout]]; `Vol3DLNP1.pdf`; PDF page(s) 59, 60; quotation `J69a83e3638331cdc`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/21`.
 
 - The safety network details specific operational restrictions, equipment certification regimes, and inspection duties for lifting appliances, gear, and tools under the SHE Manual Part II.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 41; quotation `J08371c421ef4c610`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/10`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 42; quotation `Jd3f34769b2c57af8`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 41; quotation `Jbda21e6eaedd35b8`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 42; quotation `J6f14ca443d65a682`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/11`.
 
 - Non-adherence to safety, machinery, launching, electrical, and operational clauses in Part II of the SHE Manual attracts penalties from the Employer depending on gravity.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 45; quotation `J1edc4afaf49fc4c1`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/14`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `J91b3e69806245c29`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/15`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 44; quotation `Je0995bcefaaeddfb`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 45; quotation `J72c05ed76a35021a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `J8cc13a15f15bb715`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 44; quotation `Ja8a8e991df7dd274`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/13`.
 
 - The SHE Manual Part II establishes strict prohibitions and operational restrictions where non-compliance directly triggers penalties or mandatory safety interventions.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 49; quotation `Ja97c63e86908cc52`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/18`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 54; quotation `Jf9f7a1b15c644499`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/23`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 49; quotation `Ja9ddeea9fc15b750`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/18`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 54; quotation `J4f980593f73e018f`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/23`.
 
 - The Safety and Penalty Network maps specific hazard controls, operational safety protocols, and the enforcement of penalties for non-adherence across construction zones, batching plants, and public interfaces.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 58; quotation `J0c88ef5aa4649896`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/27`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 60; quotation `J88c0835d94c22d50`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/29`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 59; quotation `Jc0871b0810621784`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/28`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 58; quotation `J064f0e8813ced45e`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/27`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 60; quotation `Jdeb26e500ffd2a05`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/29`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 59; quotation `J4330867d3b6837b1`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/28`.
 
 - Failure to maintain the required minimum 10% spare PPE stock invites appropriate penalties as per the provisions of the contract.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 62; quotation `Jfd70aa97610db08f`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/31`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 62; quotation `J1d1657758880c7f9`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/31`.
 
 - Failure by the contractor to conduct mandatory medical examinations permits the employer to arrange them through an agency and deduct costs and overhead charges.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66; quotation `J573bee61f4ed333d`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]; `Vol3DLNP1.pdf`; PDF page(s) 64, 65, 66; quotation `J44c81c9cdd51865e`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/clauses/1`.
 
 - The contractor is required to submit a Noise Monitoring and Control Plan under the site Environmental Quality Management Plan to monitor construction noise, calculate future noise levels, and specify abatement measures.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 67; quotation `J9c9ae6304368a371`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 70; quotation `J89eb80081c212dac`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 67; quotation `Jd6d8c291d429c50a`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 70; quotation `J37502be8cd1d4198`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/6`.
 
 - Volume 3 Part V of the SHE Manual establishes BMRCL's recovery mechanism for contractor safety violations, unsafe acts, and unsafe conditions, operating alongside provisions for work stoppage and contractor safety awards.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `Je48c825331c7d8d0`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/preamble/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `J93299d4c0b4a15c1`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/preamble_retained_lines/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 80, 81, 82, 83, 84, 85, 86, 87; quotation `Sa7b00e8434169609`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `J4c0230be7cd2465a`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/preamble/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `J0c2708a61861efde`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/preamble_retained_lines/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 80, 81, 82, 83, 84, 85, 86, 87; quotation `S0a3979dd703595b3`.
 
 - Clause 57.0 establishes the Employer's right to order work stoppage for safety reasons without entitling the contractor to damages or extension of time.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 57.0 — Stoppage of work|Clause 57.0 — Stoppage of work]]; `Vol3DLNP1.pdf`; PDF page(s) 87; quotation `J4729f5d956161ff8`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 57.0 — Stoppage of work|Clause 57.0 — Stoppage of work]]; `Vol3DLNP1.pdf`; PDF page(s) 87; quotation `Jb733ee317f5f10ff`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/1`.
 
 - Clause 58.0 establishes award categories for safety milestones including safe million man-hours and zero fatality contracts.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 58.0 — Awards|Clause 58.0 — Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 87; quotation `Je8b517b43fba6160`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 58.0 — Awards|Clause 58.0 — Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 87; quotation `J917a961f86904879`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/2`.
 
 - Volume 3 Part V of the Safety, Health and Environment (SHE) Manual establishes BMRCL's financial recovery mechanism and penalty schedules for contractor safety violations, unsafe acts, and unsafe conditions at work sites.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `J4dc46683328b8b94`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `J8a0e49c22d95d567`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/0`.
 
 - Volume 3 Part V of the SHE Manual establishes financial penalties, work stoppage powers, and safety award categories for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 86; quotation `J960d4fcab1aa053d`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 85; quotation `Jef5a3df3ab246f64`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 87; quotation `Jf5d2b0771b102c5f`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 86; quotation `Jb6700ce9e4738bf8`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 85; quotation `J1e9a99df38b19726`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 87; quotation `Jb59db69e5e2ad8d6`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/7`.
 
 - The Employer holds absolute discretion to order work stoppages for safety hazards without granting time extensions or waiving liquidated damages.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 87; quotation `Jf5d2b0771b102c5f`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 87; quotation `Jb59db69e5e2ad8d6`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/7`.
 
 - Safety awards are established for achievements such as safe million man-hours, zero fatality contracts, and best safety teams.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 87; quotation `Jf5d2b0771b102c5f`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 87; quotation `Jb59db69e5e2ad8d6`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/7`.
 
 - Volume 3 Part V specifies recovery charges for launching operations, site electrical safety, hand and power tools, gas cutting, and welding infractions, featuring tiered compounding limits up to Rs. 1,00,000 or Rs. 50,000 per instance.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 84; quotation `J48688f4aff2f133e`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 84; quotation `Jba8ad4872173b796`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/4`.
 
 - Bentonite mishandling and tyre cleaning omissions are penalized with progressive observations of Rs. 1,00,000 on first, Rs. 2,00,000 on second, and Rs. 3,00,000 on third and subsequent observations.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 86; quotation `Jfce205ccbc6bf7b7`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 86; quotation `Jd8e920f7f0911c01`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/6`.
 
 - Clause 56.4 grants the Employer the right to deduct charges for any other unlisted unsafe act or condition on a case-to-case basis, scaled in comparison with similar offences indicated in clause 56.3.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 87; quotation `J6009a204b011808e`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 87; quotation `J97c03472ea9501e9`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/7`.
 
 ## Key Parameters and Source Statements
 
 - Failure to achieve Milestone-1 attracts liquidated damages of Rs. 5,000/- per day.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 20; quotation `Jf63de23c8f465dca`. JSON: `parsed_json/vol2/annexure_1_milestones/milestones.json#/milestones/0/cells/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 20; quotation `J252073bc1b671dfd`. JSON: `parsed_json/vol2/annexure_1_milestones/milestones.json#/milestones/0/cells/4`.
 
 - Failure to achieve Milestone-2 attracts liquidated damages of Rs. 10,000/- per day.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 20; quotation `J36896462b2aa6135`. JSON: `parsed_json/vol2/annexure_1_milestones/milestones.json#/milestones/1/cells/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 20; quotation `J13cc643f9ae21e39`. JSON: `parsed_json/vol2/annexure_1_milestones/milestones.json#/milestones/1/cells/4`.
 
 - The Contractor is required to ensure that all employees and workmen are covered under the Workmen Compensation Act 1923 and must pay compensation as and when eventuality arises.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 3.0 — Compliance|Clause 3.0 — Compliance]]; `Vol3DLNP1.pdf`; PDF page(s) 12, 13; quotation `J4dbf3d178da92201`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 3.0 — Compliance|Clause 3.0 — Compliance]]; `Vol3DLNP1.pdf`; PDF page(s) 12, 13; quotation `J7502791d30e9933d`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/2`.
 
 - If the Contractor fails to initiate and complete ISO certifications for Occupational Health and Safety and Environmental Management Systems within a reasonable time after award, the Employer may do so at the Contractor's cost.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 3.0 — Compliance|Clause 3.0 — Compliance]]; `Vol3DLNP1.pdf`; PDF page(s) 12, 13; quotation `J4dbf3d178da92201`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 3.0 — Compliance|Clause 3.0 — Compliance]]; `Vol3DLNP1.pdf`; PDF page(s) 12, 13; quotation `J7502791d30e9933d`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/2`.
 
 - Failure to adhere to designer role and safety clauses attracts penalties depending upon the gravity of the unsafe act or condition.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 5.0 — Designer’s role|Clause 5.0 — Designer’s role]]; `Vol3DLNP1.pdf`; PDF page(s) 14, 15, 16; quotation `J18d9d6b025a34658`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 5.0 — Designer’s role|Clause 5.0 — Designer’s role]]; `Vol3DLNP1.pdf`; PDF page(s) 14, 15, 16; quotation `Jf8809a71af85b566`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/4`.
 
 - The conduct and functioning of contractor SHE personnel are monitored by the Employer, and any default or deficiency attracts penalties as per penalty clause 56.0 of the SHE manual.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 6.0 — Contractor SHE Organisation|Clause 6.0 — Contractor SHE Organisation]]; `Vol3DLNP1.pdf`; PDF page(s) 16, 17; quotation `J6adabb174d1916a1`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 6.0 — Contractor SHE Organisation|Clause 6.0 — Contractor SHE Organisation]]; `Vol3DLNP1.pdf`; PDF page(s) 16, 17; quotation `J9b89915bf84b73ea`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/5`.
 
 - If the contractor is unable to demonstrate the competency of any person whose activities directly impact the Works' SHE performance, the Employer shall remove that person from site without procedural formalities.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 6.0 — Contractor SHE Organisation|Clause 6.0 — Contractor SHE Organisation]]; `Vol3DLNP1.pdf`; PDF page(s) 16, 17; quotation `J6adabb174d1916a1`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 6.0 — Contractor SHE Organisation|Clause 6.0 — Contractor SHE Organisation]]; `Vol3DLNP1.pdf`; PDF page(s) 16, 17; quotation `J9b89915bf84b73ea`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/5`.
 
 - Wilful delay in verbal or written reporting of accidents or dangerous occurrences to the Employer attracts penalties as per the relevant contract/SHE penalty clauses.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 14.0 — Accident reporting and investigation|Clause 14.0 — Accident reporting and investigation]]; `Vol3DLNP1.pdf`; PDF page(s) 27, 28, 29, 30; quotation `Jdfb67b661885be1f`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 14.0 — Accident reporting and investigation|Clause 14.0 — Accident reporting and investigation]]; `Vol3DLNP1.pdf`; PDF page(s) 27, 28, 29, 30; quotation `J226b324d4a855c2e`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/13`.
 
 - Monthly Audit Rating Score (MARS) evaluations classify criticalities into three tiers: scores under 60% require contractor rectification within 24 hours; scores under 75% require rectification within 7 days and confirmation in writing; scores under 90% require rectification within one month and confirmation in writing.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 23; quotation `J1b63f38b8c09440d`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 23; quotation `J8af27a097f747d0a`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/15`.
 
 - Planned general inspections include monthly committee inspections, weekly construction supervisor inspections, and daily contractor site SHE team inspections.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 21; quotation `J8548b68993a39b18`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 21; quotation `J4d5ab1b4374dae25`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/13`.
 
 - Routine inspections include daily plant and equipment checks, weekly scaffold checks by scaffolding supervisors, monthly electrical hand tool inspections by competent electrical supervisors, quarterly temporary electrical system checks, and half-yearly lifting equipment inspections by government-approved competent persons.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 21; quotation `J8548b68993a39b18`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/13`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 22; quotation `Jd37f748901fe9872`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 21; quotation `J4d5ab1b4374dae25`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 22; quotation `J5c7c6ab80940eb2a`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/14`.
 
 - Priority 1 audit findings regarding high or unacceptable risk potential require implementation and rectification within 2 weeks.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 25; quotation `J6961f9a6c5dcf38f`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/17`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 25; quotation `Jb4b00f6657678f86`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/17`.
 
 - Priority 2 audit findings regarding minor injury likelihood or business loss risk require implementation and rectification within a maximum of 3 to 4 weeks.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 25; quotation `J6961f9a6c5dcf38f`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/17`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 25; quotation `Jb4b00f6657678f86`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/17`.
 
 - Failure to adhere to construction machinery safety rules, electrical single line diagram submission requirements, or allowing loose/tapped electrical connections attracts monetary penalties depending upon the gravity of the unsafe act or condition.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 23.0 — Construction machinery|Clause 23.0 — Construction machinery]]; `Vol3DLNP1.pdf`; PDF page(s) 45, 46; quotation `J85cb8851adc8cf4a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 49; quotation `Jacfcf580da82fece`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 47; quotation `Jb43d24671a70324c`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 23.0 — Construction machinery|Clause 23.0 — Construction machinery]]; `Vol3DLNP1.pdf`; PDF page(s) 45, 46; quotation `J0bae92fd8baf7920`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 49; quotation `J5155320727bec14b`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 47; quotation `J2c6688efc51444ad`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/1`.
 
 - All lifting appliances and loose gears must be thoroughly tested and examined by a competent person at least once every six months, or after alterations/repairs affecting strength or stability, and when shifted to a new site.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 42; quotation `Jd3f34769b2c57af8`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 42; quotation `J6f14ca443d65a682`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/11`.
 
 - Operators of lifting machines like cranes or hydras must be above 21 years of age, possess a valid heavy transport vehicle driving licence, be competent and reliable, have formal training from an institution of national importance acceptable to the Employer, and undergo periodic medical examinations under Schedule VII of BOCW Rules.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 42; quotation `Jd3f34769b2c57af8`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 42; quotation `J6f14ca443d65a682`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/11`.
 
 - Contractors must maintain a tool and tackle identification register recording purchase dates, safe working loads, and competent person examination dates.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 42; quotation `Jd3f34769b2c57af8`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 42; quotation `J6f14ca443d65a682`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/11`.
 
 - The main contractor is penalized if sub-contractors or petty contractors use small capacity, noise-making diesel generators on site.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 47; quotation `J8cc559818e9f4931`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 47; quotation `J5f56babb558900d7`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/16`.
 
 - No loose connections or tapped joints are permitted anywhere in the worksite, office areas, or stores; penalties apply as per relevant clauses upon observation of tapped joints.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 49; quotation `Ja97c63e86908cc52`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/18`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 49; quotation `Ja9ddeea9fc15b750`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/18`.
 
 - Non-adherence to any site health, welfare, drainage, or general safety provision in batching plants and casting yards is subject to financial penalties as per the relevant penalty clauses.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 60; quotation `J88c0835d94c22d50`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/29`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 60; quotation `Jdeb26e500ffd2a05`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/29`.
 
 - Barricades must be erected to Employer design specifications, numbered, painted, maintained in good condition, entered into a site barricade register, and equipped with retro-reflective stripes and red lights or blinkers.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 58; quotation `J0c88ef5aa4649896`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/27`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 59; quotation `Jc0871b0810621784`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/28`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 58; quotation `J064f0e8813ced45e`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/27`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 59; quotation `J4330867d3b6837b1`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/28`.
 
 - If measured noise levels exceed allowable limits, the Engineer may direct the contractor to take effective remedial measures, modify working procedures, increase impact monitoring frequency, and report actions under an Event Contingency Plan.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 69; quotation `Jbc8631bff4e6c74f`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]; `Vol3DLNP1.pdf`; PDF page(s) 69; quotation `Ja840a05f289c4458`. JSON: `parsed_json/vol3/part_3_health_welfare/health_welfare_clauses.json#/source_page_context/5`.
 
 - Under SHE Manual Part IV Clause 54.7, failure to submit environmental documents, records, and trend analysis on key resource consumption (energy, water, cement, fly ash, iron, steel, and waste recycling/reuse) demonstrating continual improvement results in the employer imposing appropriate penalties as indicated under the contract penalty clauses.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 54.0 — Hazardous Waste Management|Clause 54.0 — Hazardous Waste Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `J268e07c639a4d540`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 54.0 — Hazardous Waste Management|Clause 54.0 — Hazardous Waste Management]]; `Vol3DLNP1.pdf`; PDF page(s) 79; quotation `J58b0ef7d929794ef`. JSON: `parsed_json/vol3/part_4_environmental_management_corrected/environment_clauses.json#/clauses/7`.
 
 - For fatal accidents, the recovery amount is Rs. 5,00,000 for the first fatality and Rs. 10,000,000 for every subsequent fatality.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 82; quotation `Jc0186928fc9c4a1a`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 82; quotation `Jd6def60c4146adcd`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/2`.
 
 - For grievously injured persons (as defined by the Workmen's Compensation Act), the recovery amount is Rs. 1,00,000 for the first injured person and Rs. 2,00,000 for every subsequent grievously injured person.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 82; quotation `Jc0186928fc9c4a1a`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 82; quotation `Jd6def60c4146adcd`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/2`.
 
 - Traffic management violations carry recovery charges of Rs. 1,00,000 for the first violation and Rs. 2,00,000 for subsequent violations under specified clauses, while specific barricade deficiencies carry Rs. 25,000 per single violation compounded up to a maximum of Rs. 1,00,000.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 85; quotation `J6d03ee02798726bf`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 85; quotation `J81e907a3bc0af08e`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/5`.
 
 - Non-compliance with the SHE policy (clause 4.1) incurs a penalty of Rs.5,000 per single violation, compounded to a maximum of Rs.25,000 at any single instance.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `J4dc46683328b8b94`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `J8a0e49c22d95d567`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/0`.
 
 - Deficiencies in the SHE plan (content, coverage, delay in submission, lack of updating or failure to provide copies) incur a penalty of Rs.1,00,000 per single violation, compounded to a maximum of Rs.2,00,000 at any single instance.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `J4dc46683328b8b94`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `J8a0e49c22d95d567`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/0`.
 
 - Failure to comply with minimum manpower requirements for SHE organisation incurs Rs.1,00,000 per month for the first month and Rs.2,00,000 for subsequent months.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `J4dc46683328b8b94`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `J8a0e49c22d95d567`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/0`.
 
 - Fatal accidents incur a penalty of Rs.5,00,000 for the first fatality and Rs.10,00,000 for every subsequent fatality.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 82; quotation `Jebbe75a21f09e602`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 82; quotation `J79d23904e48aab50`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/2`.
 
 - Grievous injury incidents incur a penalty of Rs.1,00,000 for the first grievously injured person and Rs.2,00,000 for every subsequent grievously injured person.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 82; quotation `Jebbe75a21f09e602`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 82; quotation `J79d23904e48aab50`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/2`.
 
 - Lifting appliances and gear violations (such as missing fitness certificates or SWL markings) incur a penalty of Rs.50,000 per single violation, compounded to a maximum of Rs.5,00,000 at any single instance.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 83; quotation `J76e888824b1d01d7`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 83; quotation `Jb988ebfc2348becf`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/3`.
 
 - Launching operations non-adherence to clause 22.2 incurs Rs.50,000 for the first violation and Rs.1,00,000 for subsequent violations.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 84; quotation `J1e4284a28e1aef8a`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 84; quotation `J2556b00273245b11`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/4`.
 
 - Site electrical safety non-compliance items incur Rs.10,000 per single violation, compounded to a maximum of Rs.1,00,000 at any single instance.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 84; quotation `J1e4284a28e1aef8a`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 84; quotation `J2556b00273245b11`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/4`.
 
 - Penalties for non-compliance with bentonite handling, traffic safety, PPE, occupational health, welfare, excavation, work permits, and environmental controls range from Rs. 200 per minor violation up to Rs. 3,00,000 for repeated observations.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 86; quotation `J960d4fcab1aa053d`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 85; quotation `Jef5a3df3ab246f64`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 87; quotation `Jf5d2b0771b102c5f`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 86; quotation `Jb6700ce9e4738bf8`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 85; quotation `J1e9a99df38b19726`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]; `Vol3DLNP1.pdf`; PDF page(s) 87; quotation `Jb59db69e5e2ad8d6`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/source_page_context/7`.
 
 - For SHE Policy non-compliance under clause 4.1, the deductible amount is Rs. 5,000 per single violation, compounded to a maximum of Rs. 25,000 at any single instance.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `Ja43834edb1b05d35`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `J8642c11e9c25bf31`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/0`.
 
 - For SHE Plan deficiencies (not as per employer content/coverage, delay in submission, lack of updating or failure to provide copies), the deductible amount is Rs. 1,00,000 per single violation, compounded to a maximum of Rs. 2,00,000 at any single instance.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `Ja43834edb1b05d35`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `J8642c11e9c25bf31`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/0`.
 
 - For SHE Organisation manpower deficiencies under clause 6.1.1 or vacancy non-fulfillment within 14 days, penalties are Rs. 1,00,000 per month for the first month and Rs. 2,00,000 for subsequent months.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `Ja43834edb1b05d35`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 80; quotation `J8642c11e9c25bf31`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/0`.
 
 - For lifting appliances and gear non-compliance (such as missing fitness certificates or SWL markings), the penalty is Rs. 50,000 per single violation, compounded to a maximum of Rs. 5,00,000 at any single instance.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 83; quotation `J94c00c6122a08230`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 83; quotation `Ja296fb642475b363`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/3`.
 
 - For working at height, ladders, and scaffold violations (such as lack of safety belts or nets), penalties are Rs. 10,000 per single violation, compounded to a maximum of Rs. 1,00,000 at any single instance.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 83; quotation `J94c00c6122a08230`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 83; quotation `Ja296fb642475b363`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/3`.
 
 - For SHE Committee failures regarding meeting conduct or site inspections, penalties range from Rs. 5,000 up to Rs. 5,00,000 for subsequent violations depending on the specific sub-item.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 81; quotation `Jb3e3928a0d3c3911`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 81; quotation `Jec122990a1676bdc`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/1`.
 
 - For SHE Training deficiencies (induction, supervisor, refresher, tool-box talks, skill development, daily safety oath), penalties are Rs. 50,000 for the first violation and Rs. 1,00,000 for subsequent violations.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 81; quotation `Jb3e3928a0d3c3911`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 81; quotation `Jec122990a1676bdc`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/1`.
 
 - Launching operation violations of clause 22.2 incur Rs. 50,000 for the first violation and Rs. 1,00,000 for subsequent violations.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 84; quotation `J48688f4aff2f133e`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 84; quotation `Jba8ad4872173b796`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/4`.
 
 - Site electrical safety and hand/power tools non-compliance incur Rs. 10,000 per single violation, compounded to a maximum of Rs. 1,00,000 at any single instance.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 84; quotation `J48688f4aff2f133e`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 84; quotation `Jba8ad4872173b796`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/4`.
 
 - PPE non-compliance (not wearing or keeping elsewhere) incurs Rs. 200 per single violation for items i) to vi), while wrong helmet color or unauthorized use incurs Rs. 10,000 for first and Rs. 50,000 for subsequent violations.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 86; quotation `Jfce205ccbc6bf7b7`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]; `Vol3DLNP1.pdf`; PDF page(s) 86; quotation `Jd8e920f7f0911c01`. JSON: `parsed_json/vol3/part_5_penalty_awards/penalty_awards_clauses.json#/clauses/0/fragments/6`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]
@@ -14335,7 +15126,7 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Typed Relations
 
 - **belongs_to (editorial, inferred):** [[wiki/index|BMRCL Wiki Index]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 15, 16, 17, 18; `J96e5227223f2186d`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]; `Vol1DLNP1.pdf`; PDF page(s) 15, 16, 17, 18; `Jce685766e7843ace`.
 
 ## Open Questions and Contradictions
 
@@ -14347,10 +15138,10 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 
 | Function | Source statement |
 |---|---|
-| Unsafe condition / personnel default | The conduct and functioning of contractor SHE personnel are monitored by the Employer, and any default or deficiency attracts penalties as per penalty clause 56.0 of the SHE manual. [^safety_penalty_network_0_1]; `Vol3DLNP1.pdf`; PDF page(s) 16, 17; `J6adabb174d1916a1` |
-| Charges — 56.4 | Clause 56.4 grants the Employer the right to deduct charges for any other unlisted unsafe act or condition on a case-to-case basis, scaled in comparison with similar offences indicated in clause 56.3. [^safety_penalty_network_0_2]; `Vol3DLNP1.pdf`; PDF page(s) 87; `J6009a204b011808e` |
-| Work stoppage — 57.0 | Clause 57.0 establishes the Employer's right to order work stoppage for safety reasons without entitling the contractor to damages or extension of time. [^safety_penalty_network_0_3]; `Vol3DLNP1.pdf`; PDF page(s) 87; `J4729f5d956161ff8` |
-| Awards — 58.0 | Clause 58.0 establishes award categories for safety milestones including safe million man-hours and zero fatality contracts. [^safety_penalty_network_0_4]; `Vol3DLNP1.pdf`; PDF page(s) 87; `Je8b517b43fba6160` |
+| Unsafe condition / personnel default | The conduct and functioning of contractor SHE personnel are monitored by the Employer, and any default or deficiency attracts penalties as per penalty clause 56.0 of the SHE manual. [^safety_penalty_network_0_1]; `Vol3DLNP1.pdf`; PDF page(s) 16, 17; `J9b89915bf84b73ea` |
+| Charges — 56.4 | Clause 56.4 grants the Employer the right to deduct charges for any other unlisted unsafe act or condition on a case-to-case basis, scaled in comparison with similar offences indicated in clause 56.3. [^safety_penalty_network_0_2]; `Vol3DLNP1.pdf`; PDF page(s) 87; `J97c03472ea9501e9` |
+| Work stoppage — 57.0 | Clause 57.0 establishes the Employer's right to order work stoppage for safety reasons without entitling the contractor to damages or extension of time. [^safety_penalty_network_0_3]; `Vol3DLNP1.pdf`; PDF page(s) 87; `Jb733ee317f5f10ff` |
+| Awards — 58.0 | Clause 58.0 establishes award categories for safety milestones including safe million man-hours and zero fatality contracts. [^safety_penalty_network_0_4]; `Vol3DLNP1.pdf`; PDF page(s) 87; `J917a961f86904879` |
 
 [^safety_penalty_network_0_1]: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 6.0 — Contractor SHE Organisation|Clause 6.0 — Contractor SHE Organisation]]
 [^safety_penalty_network_0_2]: [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]
@@ -14360,7 +15151,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 <details>
 <summary>Supporting source passages</summary>
 
-### J96e5227223f2186d
+### Jce685766e7843ace
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 13.0 — Tender Security (EMD)|Clause 13.0 — Tender Security (EMD)]]
 
@@ -14388,7 +15179,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "review_status": "pending_manual_review"
 > }
 
-### Jc418e3c330341bac
+### Ja32aa13d16755b72
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 28.0 — Annulment of the Award|Clause 28.0 — Annulment of the Award]]
 
@@ -14404,13 +15195,13 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "review_status": "pending_manual_review"
 > }
 
-### Sdc71415940665ec2
+### Seeeb5ed9033d04a8
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 28.0 — Annulment of the Award|Clause 28.0 — Annulment of the Award]]
 
 > - **Failure to Complete Award Formalities**
 
-### Jb104949f6696eb73
+### Jf39b9044ce41e0b2
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -14429,7 +15220,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "source_marking": "not_marked_deleted"
 > }
 
-### S473ec4d96fbcd73f
+### S492163b00ddf4b59
 
 [[OKF_bundle/Technical/Vol1/secD#Attachment-14 — Tenderer's Brief of Technical Details|Attachment-14 — Tenderer's Brief of Technical Details]]
 
@@ -14439,7 +15230,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 > - **Signed and Stamped Enclosure**
 > - **Cited By:** ITT Clause 9.2.1(e)
 
-### J9392d11af3f7df1b
+### J4e9c1d045a5d0f33
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -14466,7 +15257,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "source_marking": "not_marked_deleted"
 > }
 
-### S3b16337a4e02eb46
+### S13eec07da5ad21de
 
 [[OKF_bundle/Technical/Vol1/secD#Attachment-16 — Statement of Integrity, Eligibility and Social and Environmental Responsibility|Attachment-16 — Statement of Integrity, Eligibility and Social and Environmental Responsibility]]
 
@@ -14478,7 +15269,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 > - **Audit and Inspection Authorisation** (Item 6)
 > - **Signatory Details**
 
-### Jf63de23c8f465dca
+### J252073bc1b671dfd
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -14494,7 +15285,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "text": "Rs. 5,000/-\nper day for delay  in\nachieving Milestone-1"
 > }
 
-### J36896462b2aa6135
+### J13cc643f9ae21e39
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -14510,7 +15301,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "text": "Rs. 10,000/-\nper day for delay  in\nachieving Milestone-2"
 > }
 
-### J0562abcc824c4f49
+### J6e268122a6c15b66
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]
 
@@ -14968,7 +15759,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "title": "Contractor SHE Policy and Plan"
 > }
 
-### J4dbf3d178da92201
+### J7502791d30e9933d
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 3.0 — Compliance|Clause 3.0 — Compliance]]
 
@@ -15731,7 +16522,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "title": "Compliance"
 > }
 
-### J18d9d6b025a34658
+### Jf8809a71af85b566
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 5.0 — Designer’s role|Clause 5.0 — Designer’s role]]
 
@@ -16243,7 +17034,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "title": "Designer’s role"
 > }
 
-### J6adabb174d1916a1
+### J9b89915bf84b73ea
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 6.0 — Contractor SHE Organisation|Clause 6.0 — Contractor SHE Organisation]]
 
@@ -16831,7 +17622,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "title": "Contractor SHE Organisation"
 > }
 
-### J583ea0722db5bc0b
+### J146a1bdce2491605
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 10.0 — SHE Inspection|Clause 10.0 — SHE Inspection]]
 
@@ -17434,7 +18225,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "title": "SHE Inspection"
 > }
 
-### J54fb72d54b0d4203
+### Ja911fab00f3bad38
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 11.0 — SHE Audit|Clause 11.0 — SHE Audit]]
 
@@ -19019,7 +19810,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "title": "SHE Audit"
 > }
 
-### J18c97608213f0958
+### J8edcd48c6ac2acdf
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 13.0 — SHE Submittals to the Employer|Clause 13.0 — SHE Submittals to the Employer]]
 
@@ -19477,7 +20268,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "title": "SHE Submittals to the Employer"
 > }
 
-### Jdfb67b661885be1f
+### J226b324d4a855c2e
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 14.0 — Accident reporting and investigation|Clause 14.0 — Accident reporting and investigation]]
 
@@ -20538,7 +21329,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "title": "Accident reporting and investigation"
 > }
 
-### J1b63f38b8c09440d
+### J8af27a097f747d0a
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -20709,7 +21500,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### J8548b68993a39b18
+### J4d5ab1b4374dae25
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -20780,7 +21571,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### Jd37f748901fe9872
+### J5c7c6ab80940eb2a
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -20951,7 +21742,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### J6961f9a6c5dcf38f
+### Jb4b00f6657678f86
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -21082,7 +21873,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### Je000412c7dd8410e
+### Jd6275a1b6f8e5c3c
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -21173,7 +21964,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### J57d6834545c7169d
+### J4be5b758524fce37
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -21244,7 +22035,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### J770dad0ff10cd4b4
+### J29be2765809f0aac
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -21345,7 +22136,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### Ja570ec31c1b1bc8c
+### J5564d6f72f8ab250
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -21416,7 +22207,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### J026fff02246527c2
+### Jf2bd3cd66c8c5306
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]
 
@@ -21425,7 +22216,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "text": "26.7      Electrical protection circuits\n\n26.7.1    Precautions shall be taken, either by earthing or by other suitable means, to prevent\n         danger arising when any conductor (other than a  circuit conductor) which may\n         reasonably foreseeable become charged as a result of either the use of a system, or a\n            fault in a system, becomes so charged. A conductor shall be regarded as earthed\n        when conductors of sufficient strength and current-carrying capability to discharge\n           electrical energy to earth connect it to the general mass of earth.\n\n                If a circuit conductor is connected to earth or to any other reference point, nothing\n         which might reasonably be expected to give rise to danger by breaking the electrical\n           continuity or introducing high impedance shall be placed in that conductor unless\n          suitable precautions are taken to prevent that danger.\n\n\n26.7.2    Appropriate electrical protection shall be provided for all circuits, against over load,\n          short circuit and earth fault current.\n\n\n26.7.3   The contractor shall provide sufficient ELCBs (maintain sensitivity 30 mA) / RCCBs for\n              all the equipments (including Potable equipments), electrical switchboards, distribution\n         panels etc. to prevent electrical shocks to the workers.\n\n\n26.7.4     All protection devices shall be capable of interrupting the circuit without damage to any\n         equipments and circuits in case of any fault may occur.\n\n\n26.7.5    Rating of fuses and circuit breakers used for the protection of circuits should be\n          coordinate with equipment power ratings.\n\n\n26.7.6    Protection against lightning shall be ensured to all equipment kept in open at sites.\n\n\n26.8     Cables:\n\n\n26.8.1   Cables shall be selected after full consideration of the condition to which they shall be\n        exposed and the duties for which they are required. Supply cable up to 3.3 kV shall be\n            in accordance with BS 6346.\n\n\n26.8.2   For supplies to mobile or transportable equipment where operating of the equipment\n          subjects the cable to flexing, the cable shall conform to any of these codes BS 6007 /\n       BS 6500 / BS 7375.\n\n\n26.8.3    Flexible cords with a conductor cross sectional area smaller than 1.5 mm2 shall not be\n        used and insulated flexible cable shall conform to BS 6500 and BS 7375.\n\n\n26.8.4   Where low voltage cables are to be used, reference shall be made to BS 7375. The\n          following standards shall also be referred to particularly for under ground cables BS\n        6346 and BS 6708\n\n\n26.8.5   Cables buried directly in the ground shall be of a type incorporating armour or metal\n         sheath or both. Such cables shall be marked by cable covers or a suitable marking\n         tape and be buried at a  sufficient depth to avoid  their being damaged by any\n          disturbance of the ground. Cable routes shall be marked on the plans kept in the site\n           electrical register.\n\n26.8.6    Cabling passing under the walk way and across way  for transport and mobile\n         equipment shall be laid in ducts at a minimum depth of 0.6 meters.\n\n26.8.7   Cables that need to cross open areas, or where span of 3m or more are involved, a\n         catenary wire on poles or other supports shall be provided for convenient means of\n         suspension. Minimum height shall be 6 m above ground.\n\n\n26.8.8   Cables carrying a voltage to earth in excess of 65V other than supply for welding\n         process shall have metal armour or sheath, which has been effectively earthed and\n         monitored by the contractor. In case of flexible and trailing cables such earthed metal"
 > }
 
-### J2f53f09be3750d34
+### J856783321be77500
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 24.0 — Machine and general area guarding|Clause 24.0 — Machine and general area guarding]]
 
@@ -21489,7 +22280,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "title": "Machine and general area guarding"
 > }
 
-### J85cb8851adc8cf4a
+### J0bae92fd8baf7920
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 23.0 — Construction machinery|Clause 23.0 — Construction machinery]]
 
@@ -22012,7 +22803,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "title": "Construction machinery"
 > }
 
-### Jb43d24671a70324c
+### J2c6688efc51444ad
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]
 
@@ -22021,7 +22812,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "text": "26.2.1   The contractor shall assess the size and location of the electrical loads and the\n                manner in which they vary with time during the currency of the contract.\n\n\n          26.2.2   The contractor shall elaborate as to how the total supply is to be obtained  /\n                   generated. The  details  of  the  source  of  electricity,  earthing  requirement,\n                    substation  / panel boards, distribution system shall be prepared and necessary\n                   approval from Employer obtained before proceeding of the execution of the job.\n\n\n          26.2.3   The main contractor shall take consideration, the requirements of the sub /\n                   petty contractors’ electric power supply and arrive at the capacity of main\n                 source of power supply from diesel generators.\n\n\n          26.2.4   As the sub / petty contractors’ small capacity generators create more noise\n               and safety hazard, no small capacity diesel generators shall be allowed for\n                 whatsoever the type of job to be executed under this contract.\n\n\n          26.2.5      If any unsafe noise making small capacity diesel generators are found used\n                by sub / petty contractors the main contractor shall only be penalised.\n\n\n          26.3    Work on site\n\n\n          26.3.1   The contractor shall also submit electrical single line diagram, schematic\n                diagram and the  details of the equipment  for  all temporary  electrical\n                     installation and these diagrams together with the temporary  electrical\n                equipment shall be submitted to the Employer’s for necessary approval.\n                   Failure to do so shall invite penalty as per relevant clause.\n\n\n          26.4     Strength and capability of electrical equipment\n\n\n          26.4.1   No electrical equipment shall be put into use where its strength and capability may\n                be exceeded in such a way as may give rise to danger.\n\n\n          26.5     Adverse or hazardous environments\n\n          26.5.1    Electrical equipment, which may reasonably foreseably be exposed to-\n\n                      (a)   mechanical damage;\n                      (b)   the effects of the weather, natural hazards, temperature or pressure;\n                       (c)   the effects of wet, dirty, dusty or corrosive conditions; or\n                      (d)   any flammable or explosive substance, including dusts, vapours or gases,\n                             shall be of such construction or as necessary protected as to prevent, so far\n                      as is reasonably practicable, danger arising from such exposure.\n\n\n\n          26.6      Distribution system:\n\n\n          26.6.1   The contractor shall provide distribution system for control and distribution of\n                        electricity from a main AC supply of 50Hz for typical appliances,\n\n\n                                 i)    Fixed plant – 400V 3 phase\n\n                                    ii)    Movable plant fed via trailing cable over 3.75 kW – 400 3 phase\n\n                                     iii)    Installation in site buildings – 230V single phase\n\n                          iv)   Fixed flood lighting – 230V single phase\n\n                      v)    Portable and hand tools – 115V single phase\n\n                          vi)    Site lighting  - 115V single phase\n\n                             vii)   Portable hand lamps – 115V single phase"
 > }
 
-### Jacfcf580da82fece
+### J5155320727bec14b
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]
 
@@ -22030,7 +22821,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "text": "sheath and/or armour should be in addition to the earth core in the cable and shall not\n                be used as the protective conductor.\n\n\n          26.8.9   Armoured cables having an over-sheath of polyvinyl chloride (PVC) or an  oil\n                      resisting and flame retardant compound shall be used whenever there is a risk of\n                  mechanical damage occurring\n\n\n          26.9     Plugs, socket-outlets and couplers:\n\n\n          26.9.1   The contractor shall ensure plugs, socket-outlets, and couplers available in\n                  the construction  site as “splash proof” type. The minimum degree of\n                  Ingress Protection should be of IP44 in accordance with BS EN 60529.\n\n\n          26.9.2   Only plugs and fittings of the weatherproof type shall be used and they should be colour\n                 coded in accordance with the Internationally recognised standards for example as detailed\n                 as follows:\n\n                      (a)   110 volts : Yellow.\n\n                      (b)   240 volts : Blue.\n\n                       (c)   415 volts : Red.\n\n         26.10    Connections\n\n          26.10.1  Every joint and connection in a system shall be mechanically and electrically\n                   suitable  for  use  to  prevent  danger.  Proper  cable  connectors  as  per\n                    national/international standards shall only be used to connect cables.\n\n          26.10.2  No loose connections or tapped joints shall be allowed any where in the work\n                       site, office area, stores and other areas. Penalty as per relevant clause shall be\n                  put in case of observation of any tapped joints.\n\n\n         26.11    Portable and hand-held equipments:\n\n\n          26.11.1  The contractor shall ensure the use of double insulated or all-insulated portable\n                       electrical hand equipment may be used without earthing (i.e. two core cables), but\n                   they shall still be used only on 110V because of the risk of damage to trailing leads.\n\n\n         26.12    Other equipments:\n\n\n          26.12.1   All equipment shall have the provision for major switch/cut-off switch in the equipment\n                           itself.\n\n\n          26.12.2   All non-current carrying metal parts of electrical equipment shall be earthed through\n                    insulated cable\n\n\n          26.12.3   Isolate exposed high-voltage (over 415 Volts) equipment, such as transformer banks,\n                open switches, and similar equipment with exposed energized parts and prevent\n                   unauthorised access.\n\n\n          26.12.4  Approved perimeter markings shall be used to isolate restricted areas from designated\n                 work areas and entryways and shall be erected before work begins and maintained for\n                      entire duration of work. Approved perimeter marking shall be installed  with either red\n                      barrier tape printed with the words \"DANGER—HIGH VOLTAGE\" or a barrier of yellow\n                     or orange synthetic rope, approximately 1 to 1.5 meter above the floor or work\n                    surface.\n\n\n         26.13   Work on or near live conductors"
 > }
 
-### J96ecb6f98c77702f
+### J69a83e3638331cdc
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 38.0 — Batching Plant and Casting Yard layout|Clause 38.0 — Batching Plant and Casting Yard layout]]
 
@@ -22278,7 +23069,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "title": "Batching Plant and Casting Yard layout"
 > }
 
-### J08371c421ef4c610
+### Jbda21e6eaedd35b8
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -22359,7 +23150,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### Jd3f34769b2c57af8
+### J6f14ca443d65a682
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -22430,7 +23221,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### J1edc4afaf49fc4c1
+### J72c05ed76a35021a
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -22521,7 +23312,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### J91b3e69806245c29
+### J8cc13a15f15bb715
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -22652,7 +23443,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### Je0995bcefaaeddfb
+### Ja8a8e991df7dd274
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -22723,7 +23514,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### J8cc559818e9f4931
+### J5f56babb558900d7
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -22814,7 +23605,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### Ja97c63e86908cc52
+### Ja9ddeea9fc15b750
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -22885,7 +23676,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### Jf9f7a1b15c644499
+### J4f980593f73e018f
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -22966,7 +23757,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### J0c88ef5aa4649896
+### J064f0e8813ced45e
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -23037,7 +23828,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### J88c0835d94c22d50
+### Jdeb26e500ffd2a05
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -23118,7 +23909,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### Jc0871b0810621784
+### J4330867d3b6837b1
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -23199,7 +23990,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### Jfd70aa97610db08f
+### J1d1657758880c7f9
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -23290,7 +24081,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### J573bee61f4ed333d
+### J44c81c9cdd51865e
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Clause 42.0 — Medical Facilities|Clause 42.0 — Medical Facilities]]
 
@@ -24192,7 +24983,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "title": "Medical Facilities"
 > }
 
-### J9c9ae6304368a371
+### Jd6d8c291d429c50a
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]
 
@@ -24303,7 +25094,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### J89eb80081c212dac
+### J37502be8cd1d4198
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]
 
@@ -24384,7 +25175,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### Jbc8631bff4e6c74f
+### Ja840a05f289c4458
 
 [[OKF_bundle/Technical/Vol3/vol3_part3#Safety, Health and Environment Manual – Part III: Occupational Health and Welfare|Safety, Health and Environment Manual – Part III: Occupational Health and Welfare]]
 
@@ -24525,7 +25316,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### J268e07c639a4d540
+### J58b0ef7d929794ef
 
 [[OKF_bundle/Technical/Vol3/vol3_part4#Clause 54.0 — Hazardous Waste Management|Clause 54.0 — Hazardous Waste Management]]
 
@@ -24749,7 +25540,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "title": "Hazardous Waste Management"
 > }
 
-### Je48c825331c7d8d0
+### J4c0230be7cd2465a
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
@@ -24758,7 +25549,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "text": "PART - V: PENALTY AND AWARDS"
 > }
 
-### J93299d4c0b4a15c1
+### J0c2708a61861efde
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
@@ -24768,13 +25559,13 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "text": "                      PART - V: PENALTY AND AWARDS"
 > }
 
-### Sa7b00e8434169609
+### S0a3979dd703595b3
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
 > This part contains Part V (Penalty and Awards) of Section I (SHE - Manual) in Volume 3 of BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`.
 
-### Jc0186928fc9c4a1a
+### Jd6def60c4146adcd
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]
 
@@ -24783,7 +25574,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "text": "contract\n\n9.  SHE Submittals   Non compliance of clause 13.1                   For item i)\n\n                   Non compliance of clause 13.2                  Rs.50,000 for first\n                   Non compliance of clause 13.3                       violation and\n                                                                      Rs.1,00,000 for\n                                                                  subsequent violations\n\n                                                                     For item ii) and iii)\n\n                                                                      Rs.1,00,000 for first\n                                                                                    violation and\n                                                                      Rs.2,00,000 for\n                                                                  subsequent violations\n\n10.  Injury and          Fatal accidents                                                                  i.   Rs.5,00,000 for\n     Incidence           Injury accident                                                         first fatality and\n                                                                         Rs.10,00,000 for\n     reporting         Abnormal delay in reporting accidents or  wilful\n                                                                          every subsequent\n                       suppression of information about any accidents  /\n                                                                                                       fatality.\n                      dangerous occurrence as per clause 14.1.4\n                                                                                                                                                 ii.   Rs.1,00,000 for\n                      Non-compliance of the clause 14.4\n                                                                                                                first grievously\n                                                                                     injured person and\n                                                                          Rs.2,00,000 for\n                                                                          every subsequent\n                                                                                grievously injured\n                                                                       person (Grievous\n                                                                                         Injury as defined\n                                                                    by Workmen\n                                                                    Compensation\n                                                                                  Act)\n\n                                                                                                                                                  iii.  Rs.1,00,000 for\n                                                                                                                first violation and\n                                                                          Rs.2,00,000 for\n                                                                      subsequent\n                                                                                       violations\n\n                                                                     For items iv) and v)\n\n                                                                    Rs.50,000 for first\n                                                                                    violation and\n                                                                      Rs.1,00,000 for\n                                                                  subsequent violations\n\n11.  Emergency        Non-compliance of the clause 15.1,15.2, 15.3,     Rs.1,00,000 for non-\n    preparedness       15.4, 15.5 and 15.6                            compliance of any of\n     Plan                                                                 the clauses\n\n12.  Housekeeping     Housekeeping maintenance register not properly Rs.10,000 per single\n                       maintained up to date (clause 17.4)                  violation Compounded\n                                                                                   to a maximum of                       Surrounding areas of drinking water tanks  / taps\n                                                                      Rs.1,00,000 at any                         not  hygienically cleaned   /  maintained  (clause\n                                                                               single instance                         17.4)\n\n                           Office, stores, toilet / urinals not properly cleaned\n                    and maintained. (clause 17.4)\n\n                      Required  dustbins  at  appropriate  places  not\n                        provided / not cleaned. (clause 17.6)\n\n                         Stairways,  gangways,  passageways  blocked.\n                         (clause 17.9)\n\n                    Lumber with protruding nails left as such (clause\n                        17.10)\n\n                     Openings unprotected (clause 17.7)\n\n                      Excavated earth not removed within a reasonable\n                          time. (clause 17.15, 47.8)\n\n                       Truck carrying excavated earth not covered / tyres\n                         not cleaned. (clause 17.11)"
 > }
 
-### J6d03ee02798726bf
+### J81e907a3bc0af08e
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]
 
@@ -24792,7 +25583,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "text": "Absence of fire extinguishers (clause 31.1)\n\n                                   Fire extinguishers not  refilled once  in a  year.\n                                 (clause 31.2)\n\n                                   Fire extinguisher placed in a not easily accessible\n                                    location\n\n         21.  Excavation,       Non-compliance of clause 34.1.1                 For any item from   i)\n              Tunnelling and     Non-compliance of clause 34.2.3               and ii)\n             confined space    Non-compliance of clause 34.3                  Rs.10,000 per  single\n                                                                                              violation Compounded\n                                                                                            to  a  maximum   of\n                                                                            Rs.50,000    at   any\n                                                                                        single instance.\n\n                                                                             For item iii)\n\n                                                                            Rs.10,000   per     first\n                                                                                              violation and Rs.50,000\n                                                                                                  for        subsequent\n                                                                                            violations\n\n         22.  Work permit       Non-compliance of clause 35.2                   For item I) and ii)\n\n            system           Non-compliance of clause 21.11.9                Rs.50,000   per    first\n                                                                                              violation         and\n                                                                              Rs.1,00,000          for\n                                                                          subsequent violations\n\n         23.  Traffic            Non-compliance of clause 36.4.1                 Rs.1,00,000  per   first\n           Management      Non-compliance of clause 36.8.3                     violation         and\n                                                                              Rs.2,00,000          for\n                              Non-compliance of clause 36.9.2\n                                                                          subsequent violations\n                              Non-compliance of clause 36.9.3\n\n                              Non-compliance of clause 36.9.7\n\n                              Non-compliance of clause 36.9.8\n\n                                   a) Barricades (clause 36.9.4)                    Rs.25,000  per  single\n                              Not Cleaned                                           violation Compounded\n                                                                                            to  a  maximum   of\n                              Not in alignment\n                                                                              Rs.1,00,000   at  any\n                              Not numbered                                      single instance\n                              Not painted\n\n                         Red lights / reflectors not working\n\n                         Damages not repaired\n\n                              Not secured properly\n\n                                Barricade inspector not employed\n\n                                 Protruding parts / portions repaired\n\n                                Barricades  maintaining  register  not  properly\n                               maintained up to date\n\n                                Contractor Vehicles (clause 36.9.5 & 36.9.6)       Rs.25,000  per  single\n                            Over loading of vehicles                              violation Compounded\n                                                                                            to  a  maximum   of\n                                     Unfit drivers or operators\n                                                                              Rs.1,00,000   at  any\n                               Unlicensed vehicles                                 single instance\n                            Absence of traffic marshals\n\n                            Absence of reversing alarm\n\n                            Absence of fog light (at winter)\n\n                           Power / hand brakes not in working\n\n                                    condition."
 > }
 
-### J4729f5d956161ff8
+### Jb733ee317f5f10ff
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 57.0 — Stoppage of work|Clause 57.0 — Stoppage of work]]
 
@@ -24901,7 +25692,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "title": "Stoppage of work"
 > }
 
-### Je8b517b43fba6160
+### J917a961f86904879
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 58.0 — Awards|Clause 58.0 — Awards]]
 
@@ -25020,7 +25811,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "title": "Awards"
 > }
 
-### J4dc46683328b8b94
+### J8a0e49c22d95d567
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
@@ -25191,7 +25982,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### Jebbe75a21f09e602
+### J79d23904e48aab50
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
@@ -25362,7 +26153,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### J76e888824b1d01d7
+### Jb988ebfc2348becf
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
@@ -25493,7 +26284,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### J1e4284a28e1aef8a
+### J2556b00273245b11
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
@@ -25694,7 +26485,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### J960d4fcab1aa053d
+### Jb6700ce9e4738bf8
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
@@ -25895,7 +26686,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### Jef5a3df3ab246f64
+### J1e9a99df38b19726
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
@@ -26106,7 +26897,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### Jf5d2b0771b102c5f
+### Jb59db69e5e2ad8d6
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Safety, Health and Environment Manual – Part V: Penalty and Awards|Safety, Health and Environment Manual – Part V: Penalty and Awards]]
 
@@ -26217,7 +27008,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   ]
 > }
 
-### Ja43834edb1b05d35
+### J8642c11e9c25bf31
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]
 
@@ -26226,7 +27017,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "text": "56.0     Charges to be recovered from contractor for unsafe act or condition\n\n\n   56.1    BMRC has built an image of safety conscious organisation meticulously over a period\n              of seven years. Any reportable accident (fatality / injury) results in loss of life and/or\n             property damage. These accidents not only result in loss of life but also damage the\n             reputation of BMRC. Most of the accidents are avoidable and caused preliminary due\n              to contractors’ negligence. Hence BMRC shall recover the cost of damages from the\n             contractors for every reportable incident (fatality / injury).\n\n\n   56.2      In addition every BMRC work  site  is exposed to public scrutiny as the work  is\n            executed just on the right-of-way. Any unsafe act  / unsafe condition observed by\n              public further damages our reputation. Because of the non-voluntary compliance of\n             contractors to the condition of contract on SHE and project SHE manual, BMRC has\n           been forced to establish safety-enforcing organisation. The cost of established such\n             organisation is to be recovered from contractors for all observed safety violations at\n               sites.\n\n\n   56.3    The following table indicates the Safety, Health and Environment violation (unsafe act\n                      / unsafe condition) and charges to be recovered from contractors.\n\n\nSL.   TOPIC        UNSAFE ACT/UNSAFE CONDITION       DEDUCTIBLE\nNO                                              AMOUNT\n\n 1.   SHE Policy & Plan   i)  SHE policy                                 Rs.5,000   per   single\n                                                                                         violation,  compounded                        non-compliance of clause 4.1\n                                                                                     to  a  maximum   of\n                                                                     Rs.25,000 at any single\n                                                                               instance.\n\n\n                                                ii) SHE plan:                                  Rs.1,00,000 per single\n                        Not as per Employers’  content and coverage  violation, compounded\n                          (clause 4.2, 4.7)                                      to  a  maximum   of\n                                                                        Rs.2,00,000   at  any\n                        Delay in submission (clause 4.2, 4.4)\n                                                                                 single instance.\n                        Not updated as per employer’s instruction as per\n                         clause 4.4\n\n                       Copies not provided to all required supervisors  /\n                         engineers (clause 4.6)\n\n 2.   SHE Organisation  Not  complying   to  the  minimum  manpower  i)   Rs.1,00,000 per\n                         requirements as mentioned in General Instruction     month for first\n                    BMRC/SHE/CEO/ 001(clause 6.1.1)                month and\n                        Not filling up the vacancies created due to SHE     Rs.2,00,000 for\n                         personnel  leaving  the  contractor  within  14     subsequent\n                                                                    months                          days.(clause 6.7)\n                  SHE  organisation  not  provided  with  required   ii)   Rs.50,000 per\n                           Audio-visual  and  other  equipments  as  per     month for first\n                        General Instruction BMRC/SHE/CEO/03 (clause     month and\n                                                                            Rs.1,00,000 for                             6.9.2)\n                                                                        subsequent\n                       Employing  through  outsourcing  agencies  and\n                                                                    months\n                  SHE personal are not in the payroll of the main\n                           contractor (clause 6.5.1)                        For items iii), iv), v) and\n                                                                                                     vi)\n                        Disobedience  / Improper conduct  of any SHE\n                          personnel. (clause 6.2)                         Rs.50,000 for first\n                                                                                      violation and\n                          Chief SHE Manager not reporting directly to CPM\n                                                                        Rs.1,00,000 for\n                             of contractor. (clause 6.6)\n                                                                    subsequent violations\n\n\n 3.   SHE committee     Failed to formulate or conduct SHE Committee  i)   Rs.1,00,000 for the"
 > }
 
-### J94c00c6122a08230
+### Ja296fb642475b363
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]
 
@@ -26235,7 +27026,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "text": "Vehicles  / equipments parked  / placed on roads\n                                  obstructing free flow of traffic (clause 17.13)\n\n                           Unused  surplus  cables   /  steel  scraps  lying\n                                 scattered (clause 17.17)\n\n                         Wooden scraps, empty wooden cable drums lying\n                                 scattered (clause 17.18)\n\n                             Water stagnation leading to mosquito breeding\n                                 (clause 42.6.1)\n\n         13.  Working at Height  Not using or anchoring Safety Belt (clause 18.9)   Rs.10,000 per single\n                       / Ladders and      Not using Safety Net (clause 18.18)                  violation Compounded\n                                                                                            to a maximum of\n              Scaffolds         Absence of life line or anchorage point to anchor\n                                                                              Rs.1,00,000 at any\n                                  safety belt (clause 18.19)\n                                                                                        single instance\n                              Non-compliance of clause 18.17\n\n                              Using Bamboo ladders (clause 18.20)\n\n                                  Painting of ladders\n\n                              Improper usage (less than 1m extension above\n                                 landing point, not maintaining 1:4 ratio) (clause\n                                18.20)\n\n                             Aluminium  ladders  without base  rubber bush\n                                 (clause 18.20)\n\n                          Usage of broken / week ladders (clause 18.20)\n\n                          Usage of re-bar welded ladders (clause 18.20)\n\n                              Improper guardrail, toe board, barriers and other\n                         means of collective protection (clause 18.16)\n\n                              Improper working platform (clause 18.17)\n\n                             Working  at unprotected  fragile surface (clause\n                                  18.9)\n\n                             Working at unprotected edges (clause 20.0)\n\n         14.  Lifting appliances  Non availability of fitness certificate as per clause Rs.50,000 per single\n            and gear          21.3                                                    violation Compounded\n                                                                                            to a maximum of                           Documents not displayed on the machine or not\n                                                                              Rs.5,00,000 at any                                   available with the operator as per clause 21.4\n                                                                                        single instance\n                         Maximum Safe Working Load not written on the\n                            machine as per clause 21.5\n\n                              Non-compliance of 21.6\n\n                              Non-compliance of 21.7\n\n                               Automatic safe load indicator not provided or not\n                                        in working condition as per clause 21.8\n\n                          Age of the operator less than 21 years or without\n                            any licence and non-compliance of other item as\n                                per clause 21.9\n\n                              Non-compliance of 21.10\n\n                              Non-compliance of any of the items mentioned\n                                 regarding  rigging  requirements as  per  clause\n                               21.11\n\n                                   Failure to submit method statement in case of all\n                                           critical lifting (clause 21.3)\n\n                             Person riding on crane. (clause 23.4)\n\n                                Creating more noise and smoke (clause 43.1.1)\n\n                            Absence  of portable  fire extinguisher  in  driver\n                                cabin (clause 31.5)\n\n                                      Fail to guard hoist platform (clause 24.0)\n\n                        No fencing of hoist rope movement area (clause\n                                  24.0)\n\n                                  Hoist  platform  not  in  the  horizontal  position\n                                 (clause 21.2)"
 > }
 
-### Jb3e3928a0d3c3911
+### Jec122990a1676bdc
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]
 
@@ -26244,7 +27035,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "text": "meeting for any month (clause 7.4)                             first  violation and\n                                 Contractor and Sub-contractor representatives not      Rs.5,00,000 for the\n                                 attending SHE Committee meetings (clause 7.10)      subsequent\n                                                                                                 violations\n                                  Failed   to  conduct   Site   inspection   before\n                                conducting SHE Committee meeting (clause 7.2.1   ii)   Rs.5,000   to   the\n                                                 (viii))                                                   contractor  of  the\n                                                                  member who had\n                                  Failed to send SHE Committee Meeting minutes\n                                                                                       not  attended  the\n                                   or Agenda  to Employer  in time (clause  7.8.1,\n                                                                               meeting   for   first\n                                    7.9.1)\n                                                                                                   violation      and\n                             Non-adherence of clause 7.7.1                      Rs.25,000       for\n                             Non-adherence of clause 7.9                        subsequent\n                                                                                                    violations.\n\n                                                                             For item iii), iv), v) and\n                                                                                                              vi)\n\n                                                                            Rs.25,000 for first\n                                                                                              violation and Rs.50,000\n                                                                                                  for subsequent\n                                                                                            violations\n\n         4.    ID card           Non-adherence of clause 8.1, 8.2 and 8.3         Rs.1,00,000 for first\n                                                                                              violation and\n                                                                              Rs.2,00,000 for\n                                                                          subsequent violations\n\n         5.   SHE Training      Not complying to the requirements as mentioned For item 1 a) to g)\n                                        in conditions of contract on SHE and project SHE Rs.50,000 for first\n                            manual with regard to:                                violation on and\n                                  Induction training not given (clause 8.1)           Rs.1,00,000 for\n                               Supervisor/engineer/manager     training     not subsequent violations\n                              conducted as per clause 9.6\n\n                               Refresher training as per clause 9.7 and 9.11 not\n                              conducted\n\n                               Tool-box talk not conducted as per clause 9.8\n\n                                          Skill  development  training  not  conducted  as\n                                clause 9.9\n\n                                  Daily Safety Oath not conducted as per clause\n                                9.10\n\n                          Top management behaviour based SHE training\n                              conducted (clause 9.4)\n\n         6.   SHE Inspection    Not complying to the requirements as mentioned Rs.50,000 for first\n                                        in conditions of contract on SHE and project SHE  violation and\n                            manual as per clause 10.0                       Rs.1,00,000 for\n                         Non compliance of clause 10.3.6                subsequent violations\n\n         7.   SHE audit           Internal Audit: MARS                           For item i) to iii)\n\n                              Not conducted as per SHE Plan (clause 11.2.1)    Rs.50,000 for first\n                                                                                              violation and                               Report not sent to Employer (clause 11.2.6)\n                                                                              Rs.1,00,000 for\n                                 Action not taken for any month (clause 11.2.4)\n                                                                          subsequent violations.\n\n                                 External Audit                                  For item iv) to vi)\n\n                              Not conducted as per SHE Plan (clause 11.4.3)    Rs.1,00,000 for first\n                               Report not sent to employer (clause 11.4.7)         violation and\n                                                                              Rs.2,00,000 for\n                                 Action not taken for any quarter (clause 11.4.9)\n                                                                          subsequent violations.\n\n          8.  SHE               Important  days   to  be  observed   for  SHE  i)   Rs.10,000 for first\n            Communication    awareness  as   furnished  by  employer   not       violation and\n                              observed (clause 12.2)                             Rs.50,000 for\n                                Posters as furnished by Employer not printed and     subsequent\n                                 displayed (clause 12.2)                                   violations\n                                                                                                                                                      ii)   2,00,000 per"
 > }
 
-### J48688f4aff2f133e
+### Jba8ad4872173b796
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]
 
@@ -26253,7 +27044,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "text": "15.  Launching        Non-adherence of any of the provisions           Rs. 50,000 for first\n     operation         mentioned in clause 22.2                             violation and\n                                                                      Rs.1,00,000 for\n                                                                  subsequent violations\n                                                                                                                            .\n\n16.  Site Electrical      Non-compliance of clause 26.1.1                 Rs.10,000 per single\n     safety            Non-compliance of clause 26.2.3, 26.2.4 & 26.2.5   violation Compounded\n                                                                                   to a maximum of\n                      Non-compliance of clause 26.3.1\n                                                                      Rs.1,00,000 at any\n                      Non-compliance of clause 26.7, 26.8 and 26.9.1    single instance\n                      Non-compliance of clause 26.10 and 26.13\n\n                      Non-compliance of clause 28.3.2\n\n                    Exposed electric lines (fermentative damage) and\n                             circuits in the workplace. (clause 26.5.1)\n\n                           Inserting of wires directly into the socket\n\n                       Improper grounding for the electrical appliances\n                         (clause 26.7.1)\n\n                            Electrical cables running on the ground (clause\n                        26.8.5 & 26.8.6)\n\n                      Non-compliance clause 27.0\n\n17.  Hand tools and    Non-compliance of clause 28.0                  Rs.10,000  per  single\n    Power tools                                                                  violation Compounded\n                                                                                   to  a  maximum   of\n                                                                      Rs.1,00,000   at  any\n                                                                               single instance\n\n18. Gas Cutting      Wrong colour coding of cylinder.                 Rs.10,000 per single\n                        Cylinders not stored in upright position. (clause  violation\n                                                         Compounded   to  a                         29.1)\n                                                       maximum           of\n                       Flash  back   arrester,  non-return  valve  and\n                                                                    Rs.50,000   at  any\n                          regulator not present or not in working condition.\n                                                                               single instance\n                         (clause 29.3 & 29.4)\n\n                            Fail to put cylinders in a cylinder trolley. (clause\n                         29.1)\n\n                  Damaged hose and  fail  to use hose clamps\n                         (clause 29.2)\n\n                      Using domestic LPG cylinders (clause 29.5)\n\n                            Fail to store cylinder 6.6m away from fire prone\n                         materials (clause 29.8)\n\n                          Fire extinguisher not placed in the vicinity during\n                        operation (clause 29.6)\n\n19.  Welding           Voltmeter and Ammeter not working (clause 29.9)  Rs.10,000 per single\n                           Non-availability of separate switch in the             violation\n                        transformer (clause 29.9)                    Compounded   to  a\n                                                       maximum           of\n                       Improper grounding and return path. (clause\n                                                                    Rs.50,000   at  any\n                        29.10)\n                                                                               single instance\n                  Damaged and bare openings in the welding cable.\n                         (clause 29.10)\n\n                  Damaged holder (clause 29.10)\n\n                          Fire extinguisher not placed in the vicinity during\n                        operation (clause 29.6)\n\n20.  Fire precaution    Smoking and open flames  in  fire prone area Rs.5,000  per  single\n                         (clause 31.6)                                          violation Compounded\n                                                                                   to  a  maximum   of                      Using  more   than  24V   portable   electrical\n                        appliances in the fire prone area (clause 34.2.3)   Rs.25,000    at   any\n                                                                               single instance.\n                      Not proper ventilation  in cylinder storage area.\n                         (clause 29.8)"
 > }
 
-### Jfce205ccbc6bf7b7
+### Jd8e920f7f0911c01
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]
 
@@ -26262,7 +27053,7 @@ This is source navigation, not an automatic causal sequence or a decision to imp
 >   "text": "Splashing of Bentonite on roads / non-cleaning of For item i) and ii)\n                          tyres of dumpers and transit mixers (clause 17.11 a)    Rs.1,00,000 on\n                 & 17.14)                                                                    first observation.\n                       Mishandling   of  bentonite   like  splashing   of  b)    Rs. 2,00,000 on\n                         bentonite outside specified width of barricading                                                                     second\n                       Non-cleaning  of  tyres  of dumpers and  transit       observation\n                       mixers  before  leaving  the  site  and  thereby                                                                                  c)    Rs. 3,00,000 on\n                         creating a traffic safety hazard to road users.                                                                                               third and\n                                                                        subsequent\n                                                                              observations\n\n24.  Batching plant /    Non-adherence of any of the provisions           Rs. 10,000 for single\n     Casting yard       mentioned in clause 38.0.                            violation compounded\n                                                                                   to a maximum of\n                                                                      Rs.1,00,000 at any\n                                                                               single instant.\n\n25. PPE              Not having (clause 39.1)                     From item i) to vi).\n\n                      Not wearing  (or) using and kept   it elsewhere Rs.200 per single\n                         (clause 39.1)                                          violation\n\n                      Using damaged one (clause 39.2)\n\n                      Using wrong type (clause 39.5)                  For item vii)\n\n                      Using wrong colour helmet or helmet without logo Rs.10,000 for first\n                         (clause 39.4.1)                                        violation and\n                      Using  for  other  operation  (e.g.  Using  safety Rs.50,000 for\n                       helmet for storing materials or carrying water from subsequent violations\n                    one place to other) (clause 39.5)                 For item viii)\n\n                      Not conforming to BIS standard (clause 39.2)      Rs.50,000 for first\n                      Non-compliance of clause 39.6, 39.7 and 39.8      violation and\n                                                                      Rs.1,00,000 for\n                                                                  subsequent violations\n\n26.  Occupational        Fail to conduct Medical examination to workers Rs.10,000 per single\n     Health             (clause 42.1)                                          violation Compounded\n                                                                                   to a maximum of                    Absence of ambulance van & room (clause 42.3)\n                                                                      Rs.1,00,000 at any\n                     Workers not having ID card   (clause 8.2)\n                                                                               single instance\n                    Absence of first-aid person in work site. (clause\n                         42.4)\n\n                    Absence or inadequacy of first-aid box. (clause\n                         42.4)\n\n                     Misuse of first-aid box. (clause 42.4)\n\n                            First-aid box  not  satisfy  the minimum  Indian\n                        standard. (clause 42.4)\n\n                    Smoking  inside  the  construction  site  (clause\n                         42.7.2)\n\n                        Drink and drive or work (clause 42.7.1)\n\n                       Fumigation  / insecticides not sprayed to prevent\n                      Mosquito breeding (clause 42.6.3)\n\n                      Non-compliance of clause 44.1 and 44.2\n\n27.  Labour Welfare    Inadequate number of toilets (clause 46.1.1)       Rs.10,000 per single\n    measures           Toilets not cleaned properly (clause 46.1.3)         violation Compounded\n                                                                                   to a maximum of\n                    Absence of water facilities for toilets and washing\n                                                                    Rs.50,000 at any\n                        places (clause 46.1.3)\n                                                                               single instance\n                            Toilet placed more than 500m from the work site\n                         (clause 46.1.3)\n\n                    Accommodation  not provided as  per BOCWA\n                         (clause 46.5.1)\n\n                    Absence of drinking water (clause 46.4)\n\n                       Excessive noise and vibration (clause 43.0)"
 > }
 
-### J6009a204b011808e
+### J97c03472ea9501e9
 
 [[OKF_bundle/Technical/Vol3/vol3_part5#Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition|Clause 56.0 — Charges to be recovered from contractor for unsafe act or condition]]
 

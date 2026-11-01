@@ -6,246 +6,246 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-31T15:57:39+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T11:17:08+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/boq_abstract.json
   json_sha256: 72270396d4fa6937594cd8531e2e59d34d2ab164007793bc1a3ca2b775a056a0
   json_pointer: /records/2
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/boq_abstract.json
   json_sha256: 72270396d4fa6937594cd8531e2e59d34d2ab164007793bc1a3ca2b775a056a0
   json_pointer: /records/1
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/boq_abstract.json
   json_sha256: 72270396d4fa6937594cd8531e2e59d34d2ab164007793bc1a3ca2b775a056a0
   json_pointer: /records/3
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/boq_abstract.json
   json_sha256: 72270396d4fa6937594cd8531e2e59d34d2ab164007793bc1a3ca2b775a056a0
   json_pointer: /records/0
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_document.json
   json_sha256: e818be1fb28ea74092cb53a451b92e169c6e8a07afec0add897be67d5844a2b3
   json_pointer: /pages/5
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/5
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_document.json
   json_sha256: e818be1fb28ea74092cb53a451b92e169c6e8a07afec0add897be67d5844a2b3
   json_pointer: /pages/7
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/1
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_document.json
   json_sha256: e818be1fb28ea74092cb53a451b92e169c6e8a07afec0add897be67d5844a2b3
   json_pointer: /pages/0
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: BOQ_338417.xls
   json_path: parsed_json/boq/boq_workbook.json
   json_sha256: 569d85cec3466a8ae5a5140c1186aba149aa87755785d0b4ed2b48921f9dfff0
   json_pointer: /schedules/0
   source_sha256: be376d7be062f1b7d481a0c1e07a132896504f5218450cdb02d039c495425896
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: BOQ_338417.xls
   json_path: parsed_json/boq/boq_workbook.json
   json_sha256: 569d85cec3466a8ae5a5140c1186aba149aa87755785d0b4ed2b48921f9dfff0
   json_pointer: /schedules/1
   source_sha256: be376d7be062f1b7d481a0c1e07a132896504f5218450cdb02d039c495425896
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_document.json
   json_sha256: e818be1fb28ea74092cb53a451b92e169c6e8a07afec0add897be67d5844a2b3
   json_pointer: /pages/9
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: BOQ_338417.xls
   json_path: parsed_json/boq/boq_workbook.json
   json_sha256: 569d85cec3466a8ae5a5140c1186aba149aa87755785d0b4ed2b48921f9dfff0
   json_pointer: /schedules/2
   source_sha256: be376d7be062f1b7d481a0c1e07a132896504f5218450cdb02d039c495425896
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_document.json
   json_sha256: e818be1fb28ea74092cb53a451b92e169c6e8a07afec0add897be67d5844a2b3
   json_pointer: /boq_items/0
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_document.json
   json_sha256: e818be1fb28ea74092cb53a451b92e169c6e8a07afec0add897be67d5844a2b3
   json_pointer: /pages/8
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_document.json
   json_sha256: e818be1fb28ea74092cb53a451b92e169c6e8a07afec0add897be67d5844a2b3
   json_pointer: /boq_items/1
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_document.json
   json_sha256: e818be1fb28ea74092cb53a451b92e169c6e8a07afec0add897be67d5844a2b3
   json_pointer: /boq_items/2
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_document.json
   json_sha256: e818be1fb28ea74092cb53a451b92e169c6e8a07afec0add897be67d5844a2b3
   json_pointer: /boq_items/3
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: BOQ_338417.xls
   json_path: parsed_json/boq/boq_formulas.json
   json_sha256: 18510e28dc0b4317ad4bc91fe6fbe98e28f75ea237c16f686fbc59e1107c248b
   json_pointer: /formulas/18
   source_sha256: be376d7be062f1b7d481a0c1e07a132896504f5218450cdb02d039c495425896
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: BOQ_338417.xls
   json_path: parsed_json/boq/boq_formulas.json
   json_sha256: 18510e28dc0b4317ad4bc91fe6fbe98e28f75ea237c16f686fbc59e1107c248b
   json_pointer: /formulas/20
   source_sha256: be376d7be062f1b7d481a0c1e07a132896504f5218450cdb02d039c495425896
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: BOQ_338417.xls
   json_path: parsed_json/boq/boq_formulas.json
   json_sha256: 18510e28dc0b4317ad4bc91fe6fbe98e28f75ea237c16f686fbc59e1107c248b
   json_pointer: /formulas/21
   source_sha256: be376d7be062f1b7d481a0c1e07a132896504f5218450cdb02d039c495425896
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: BOQ_338417.xls
   json_path: parsed_json/boq/boq_formulas.json
   json_sha256: 18510e28dc0b4317ad4bc91fe6fbe98e28f75ea237c16f686fbc59e1107c248b
   json_pointer: /formulas/19
   source_sha256: be376d7be062f1b7d481a0c1e07a132896504f5218450cdb02d039c495425896
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: BOQ_338417.xls
   json_path: parsed_json/boq/boq_formulas.json
   json_sha256: 18510e28dc0b4317ad4bc91fe6fbe98e28f75ea237c16f686fbc59e1107c248b
   json_pointer: /formulas/17
   source_sha256: be376d7be062f1b7d481a0c1e07a132896504f5218450cdb02d039c495425896
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/11
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/12
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/13
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/15
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/6
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/16
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/17
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/18
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/19
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_clauses.json
   json_sha256: eb058f420d9bb04539482ff2016dcd2680c5cb2e6d9da4050b51f4beb4976608
   json_pointer: /records/20
   source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
 - okf_path: OKF_bundle/Financial/vol4_secJ.md
-  okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+  okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
   source_document: Vol4DLNP1.pdf
   json_path: parsed_json/vol4/pricing_document.json
   json_sha256: e818be1fb28ea74092cb53a451b92e169c6e8a07afec0add897be67d5844a2b3
@@ -256,18 +256,18 @@ claims:
   text: The estimated cost put to tender for Schedule-B (Items under Schedule of Rate published by KPWD) is INR
     5,00,000.00, bringing the total estimated cost for Schedules A and B to INR 4,74,41,306.00.
   evidence_ids:
-  - J40111fda7648d44d
-  - Jbd5c1b7c43155768
-  - S469ca02217533c37
+  - J76eb6bf2592fa9ee
+  - Jaf44a3c272fd15bf
+  - S212cc0e74fc3292f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7334dfceeb4cdec6
+  id: C6acf07c2994f34b5
   citations:
-  - id: J40111fda7648d44d
+  - id: J76eb6bf2592fa9ee
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -288,9 +288,9 @@ claims:
       : \"pending_manual_review\",\n  \"schedule\": \"A+B\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jbd5c1b7c43155768
+  - id: Jaf44a3c272fd15bf
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -312,9 +312,9 @@ claims:
       \  \"schedule\": \"B\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S469ca02217533c37
+  - id: S212cc0e74fc3292f
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: 2.0 — Abstract of Bill of Quantities (BOQ)
     source_document: Vol4DLNP1.pdf
     pdf_pages:
@@ -330,21 +330,33 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T15:57:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7334dfceeb4cdec6
+    previous_evidence_ids:
+    - J40111fda7648d44d
+    - Jbd5c1b7c43155768
+    - S469ca02217533c37
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Schedule-C represents a lump-sum credit to BMRCL for salvageable items out of dismantled or demolished private
     properties with no owner interest, shown with a placeholder ('----') in the BOQ abstract.
   evidence_ids:
-  - J2ce3b55e064d0935
-  - S469ca02217533c37
+  - J3b6ef5b6db6162f6
+  - S212cc0e74fc3292f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Caef6fe0d113e35a9
+  id: C91deff25ac841e85
   citations:
-  - id: J2ce3b55e064d0935
+  - id: J3b6ef5b6db6162f6
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -367,9 +379,9 @@ claims:
       ,\n  \"review_status\": \"pending_manual_review\",\n  \"schedule\": \"C\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S469ca02217533c37
+  - id: S212cc0e74fc3292f
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: 2.0 — Abstract of Bill of Quantities (BOQ)
     source_document: Vol4DLNP1.pdf
     pdf_pages:
@@ -385,20 +397,31 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T15:57:39+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Caef6fe0d113e35a9
+    previous_evidence_ids:
+    - J2ce3b55e064d0935
+    - S469ca02217533c37
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Schedule A of the BOQ abstract specifies partial and full demolition and dismantling works amounting to
     ₹ 4,69,41,306.00.
   evidence_ids:
-  - J23599c81d83cf26f
+  - J241ce183fcecf015
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5200ca9d5085e2b7
+  id: C95906234658b2af8
   citations:
-  - id: J23599c81d83cf26f
+  - id: J241ce183fcecf015
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -422,20 +445,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:00:35+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5200ca9d5085e2b7
+    previous_evidence_ids:
+    - J23599c81d83cf26f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Tenderers must quote percentage rates in two decimals for Schedule A (At Par / Excess / Less), 'At Par'
     only for Schedule B, and a lump sum credit amount to BMRCL on salvage of materials for Schedule C.
   evidence_ids:
-  - J6f83ecf77cc57b25
+  - Jf17d55c6acfde864
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C49dd622e159286ee
+  id: Ccff130cee7928894
   citations:
-  - id: J6f83ecf77cc57b25
+  - id: Jf17d55c6acfde864
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -558,28 +591,38 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:00:35+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C49dd622e159286ee
+    previous_evidence_ids:
+    - J6f83ecf77cc57b25
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 4 Section J establishes the Financial Document, Letter of Price Bid, pricing rules and instructions,
     and Bill of Quantities (BOQ) abstract and item schedules for BMRCL Tender Package P1.
   evidence_ids:
-  - J026debd7f34d6fd9
-  - J15df25270985d9b6
-  - J23599c81d83cf26f
-  - J277f317485dab92c
-  - J6f83ecf77cc57b25
-  - Jbd236df1211c8d28
-  - S19382a03427e15ba
-  - S469ca02217533c37
-  - S95cca961b3adbe67
+  - Je35bc79dc160b3f0
+  - Jabb0383ef371ea9a
+  - J241ce183fcecf015
+  - J05ebc60fd5ad4602
+  - Jf17d55c6acfde864
+  - Jf28ae5cc3f92b618
+  - S10ec60af02b3e977
+  - S212cc0e74fc3292f
+  - S4bb84d1785d9399d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8e532db78cc0f946
+  id: Ca5070fb096d89441
   citations:
-  - id: J026debd7f34d6fd9
+  - id: Je35bc79dc160b3f0
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -607,9 +650,9 @@ claims:
       \ of this tender, except Goods and Services Tax (GST).\",\n  \"type\": \"pricing_rule\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J15df25270985d9b6
+  - id: Jabb0383ef371ea9a
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -691,9 +734,9 @@ claims:
       \ \"307\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J23599c81d83cf26f
+  - id: J241ce183fcecf015
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -715,9 +758,9 @@ claims:
       ,\n  \"schedule\": \"A\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J277f317485dab92c
+  - id: J05ebc60fd5ad4602
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -748,9 +791,9 @@ claims:
       \ of Bill of Quantities”.\",\n  \"type\": \"pricing_rule\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J6f83ecf77cc57b25
+  - id: Jf17d55c6acfde864
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -871,9 +914,9 @@ claims:
       : 16,\n      \"text\": \"305\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jbd236df1211c8d28
+  - id: Jf28ae5cc3f92b618
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -930,9 +973,9 @@ claims:
       : \"VOLUME - 4  \\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S19382a03427e15ba
+  - id: S10ec60af02b3e977
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: 1.0 — Pricing Document Preamble and Instructions
     source_document: Vol4DLNP1.pdf
     pdf_pages:
@@ -955,9 +998,9 @@ claims:
       \ 20)\n- **Building Additions or Deletions and Accepted Percentage Rates** (Instruction 21)"
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: S469ca02217533c37
+  - id: S212cc0e74fc3292f
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: 2.0 — Abstract of Bill of Quantities (BOQ)
     source_document: Vol4DLNP1.pdf
     pdf_pages:
@@ -971,9 +1014,9 @@ claims:
       \ Cost Field:** `----`\n  - **Pricing Basis:** Lump-sum credit under Preamble Instruction 3"
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: S95cca961b3adbe67
+  - id: S4bb84d1785d9399d
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     pdf_pages:
@@ -1855,23 +1898,40 @@ claims:
         heading_alignment: document_heading_fallback_not_a_subclause_match
       created_at: '2026-10-31T16:03:48+00:00'
       status: draft
+  - previous_claim_id: C8e532db78cc0f946
+    previous_evidence_ids:
+    - J026debd7f34d6fd9
+    - J15df25270985d9b6
+    - J23599c81d83cf26f
+    - J277f317485dab92c
+    - J6f83ecf77cc57b25
+    - Jbd236df1211c8d28
+    - S19382a03427e15ba
+    - S469ca02217533c37
+    - S95cca961b3adbe67
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T11:49:40+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The total estimated cost for Schedule-A (Partial & Full demolition and dismantling work) is ₹ 4,69,41,306.00.
   evidence_ids:
-  - J110eb79934e3efe2
-  - J15df25270985d9b6
-  - J23599c81d83cf26f
-  - S469ca02217533c37
+  - Je67086ad8617857f
+  - Jabb0383ef371ea9a
+  - J241ce183fcecf015
+  - S212cc0e74fc3292f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb73b503cb47bc02c
+  id: C1a2679c7c01e761f
   citations:
-  - id: J110eb79934e3efe2
+  - id: Je67086ad8617857f
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: BOQ_338417.xls
     source_sha256: be376d7be062f1b7d481a0c1e07a132896504f5218450cdb02d039c495425896
@@ -1898,9 +1958,9 @@ claims:
       \  },\n  \"schedule\": \"A\",\n  \"sheet\": \"BoQ1\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J15df25270985d9b6
+  - id: Jabb0383ef371ea9a
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -1982,9 +2042,9 @@ claims:
       \ \"307\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J23599c81d83cf26f
+  - id: J241ce183fcecf015
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -2006,9 +2066,9 @@ claims:
       ,\n  \"schedule\": \"A\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S469ca02217533c37
+  - id: S212cc0e74fc3292f
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: 2.0 — Abstract of Bill of Quantities (BOQ)
     source_document: Vol4DLNP1.pdf
     pdf_pages:
@@ -2240,23 +2300,35 @@ claims:
       status: draft
       consolidated_claim_ids:
       - C1ab250f373745adc
+  - previous_claim_id: Cb73b503cb47bc02c
+    previous_evidence_ids:
+    - J110eb79934e3efe2
+    - J15df25270985d9b6
+    - J23599c81d83cf26f
+    - S469ca02217533c37
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T11:49:40+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The total estimated cost for Schedule-B (Items under Schedule of Rate published by KPWD) is ₹ 5,00,000.00,
     bringing the total estimated cost of Schedules A and B to ₹ 4,74,41,306.00.
   evidence_ids:
-  - J0ef80cf1b1d4a05f
-  - J15df25270985d9b6
-  - J4c4726ee3a58c841
+  - Jad825d224737bbc4
+  - Jabb0383ef371ea9a
+  - Jadc4a1acf83198bb
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc75381c0d3dbfdc8
+  id: C43d474e29a31aa7f
   citations:
-  - id: J0ef80cf1b1d4a05f
+  - id: Jad825d224737bbc4
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: BOQ_338417.xls
     source_sha256: be376d7be062f1b7d481a0c1e07a132896504f5218450cdb02d039c495425896
@@ -2282,9 +2354,9 @@ claims:
       : 14,\n    \"value\": 0.0,\n    \"xf_index\": 173\n  },\n  \"schedule\": \"B\",\n  \"sheet\": \"BoQ1\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J15df25270985d9b6
+  - id: Jabb0383ef371ea9a
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -2366,9 +2438,9 @@ claims:
       \ \"307\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J4c4726ee3a58c841
+  - id: Jadc4a1acf83198bb
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -2475,22 +2547,34 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:02:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc75381c0d3dbfdc8
+    previous_evidence_ids:
+    - J0ef80cf1b1d4a05f
+    - J15df25270985d9b6
+    - J4c4726ee3a58c841
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Schedule-C specifies a credit to BMRCL for salvageable items out of dismantled or demolished private properties
     on which the owner has no interest, listed as a lump-sum amount without a predefined numerical estimate in the
     abstract summary.
   evidence_ids:
-  - J15df25270985d9b6
-  - Jd9a712a10137d028
+  - Jabb0383ef371ea9a
+  - Jd3c8d7b4ff66f4b1
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce0b66778d130a2d8
+  id: C08459f8e8703216f
   citations:
-  - id: J15df25270985d9b6
+  - id: Jabb0383ef371ea9a
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -2572,9 +2656,9 @@ claims:
       \ \"307\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jd9a712a10137d028
+  - id: Jd3c8d7b4ff66f4b1
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: BOQ_338417.xls
     source_sha256: be376d7be062f1b7d481a0c1e07a132896504f5218450cdb02d039c495425896
@@ -2604,20 +2688,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:02:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce0b66778d130a2d8
+    previous_evidence_ids:
+    - J15df25270985d9b6
+    - Jd9a712a10137d028
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Schedule-A item 1 specifies partial demolition and dismantling of structures of different heights at a quantity
     of 31,245.00 Sqm with a rate of ₹ 1,087.00 per Sqm, resulting in an amount of ₹ 3,39,63,315.00.
   evidence_ids:
-  - J50ed4496a3873130
+  - J3f50dc005015beb7
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce45273834ae1f048
+  id: C5123a54e163baa33
   citations:
-  - id: J50ed4496a3873130
+  - id: J3f50dc005015beb7
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -2655,21 +2750,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:02:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce45273834ae1f048
+    previous_evidence_ids:
+    - J50ed4496a3873130
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Schedule-A item 2 specifies full demolition and dismantling of structures at a quantity of 21,760.00 Sqm
     with a rate of ₹ 548.00 per Sqm, resulting in an amount of ₹ 1,19,24,480.00.
   evidence_ids:
-  - J8e3ee1efdd152a76
-  - Jc5eaa48fed8a39dd
+  - J56d5c0e99ab43b9b
+  - Jb1c8db24c756e2db
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4158f93a98200163
+  id: C480df6a468c882b8
   citations:
-  - id: J8e3ee1efdd152a76
+  - id: J56d5c0e99ab43b9b
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -2765,9 +2870,9 @@ claims:
       : \"308\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jc5eaa48fed8a39dd
+  - id: Jb1c8db24c756e2db
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -2805,21 +2910,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:02:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4158f93a98200163
+    previous_evidence_ids:
+    - J8e3ee1efdd152a76
+    - Jc5eaa48fed8a39dd
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Schedule-A item 3 specifies demolition and dismantling of compound walls at a quantity of 5,183.00 Rmt with
     a rate of ₹ 167.00 per Rmt, resulting in an amount of ₹ 8,65,561.00.
   evidence_ids:
-  - J8e3ee1efdd152a76
-  - Je1901893441800a6
+  - J56d5c0e99ab43b9b
+  - J9c0d0eea0a2aaeec
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7f85f27136b4298b
+  id: C6fcd4b66d74bbd5d
   citations:
-  - id: J8e3ee1efdd152a76
+  - id: J56d5c0e99ab43b9b
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -2915,9 +3031,9 @@ claims:
       : \"308\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Je1901893441800a6
+  - id: J9c0d0eea0a2aaeec
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -2951,21 +3067,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:02:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7f85f27136b4298b
+    previous_evidence_ids:
+    - J8e3ee1efdd152a76
+    - Je1901893441800a6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Schedule-A item 4 specifies demolition and dismantling of steel structures such as sign boards and hoardings
     at a quantity of 25.00 MT with a rate of ₹ 7,518.00 per MT, resulting in an amount of ₹ 1,87,950.00.
   evidence_ids:
-  - J4c4726ee3a58c841
-  - Jbdf4e472845e8372
+  - Jadc4a1acf83198bb
+  - J9d5475ed2f3c7c6d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca4669849d9171fd8
+  id: C39d282efdfc73231
   citations:
-  - id: J4c4726ee3a58c841
+  - id: Jadc4a1acf83198bb
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -3070,9 +3197,9 @@ claims:
       \      ],\n      \"block_number\": 28,\n      \"text\": \"309\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jbdf4e472845e8372
+  - id: J9d5475ed2f3c7c6d
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -3101,23 +3228,34 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:02:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca4669849d9171fd8
+    previous_evidence_ids:
+    - J4c4726ee3a58c841
+    - Jbdf4e472845e8372
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Pricing rule 6 dictates that the Tender Price or Quoted Price includes all applicable taxes, duties, cess,
     royalties, and statutory levies in force as of the last day of the month previous to the month of tender invitation,
     except Goods and Services Tax (GST).
   evidence_ids:
-  - J026debd7f34d6fd9
-  - J6f83ecf77cc57b25
-  - S19382a03427e15ba
+  - Je35bc79dc160b3f0
+  - Jf17d55c6acfde864
+  - S10ec60af02b3e977
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C34b0e9c0b2651965
+  id: C904d49cbfbc57854
   citations:
-  - id: J026debd7f34d6fd9
+  - id: Je35bc79dc160b3f0
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -3145,9 +3283,9 @@ claims:
       \ of this tender, except Goods and Services Tax (GST).\",\n  \"type\": \"pricing_rule\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J6f83ecf77cc57b25
+  - id: Jf17d55c6acfde864
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -3268,9 +3406,9 @@ claims:
       : 16,\n      \"text\": \"305\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S19382a03427e15ba
+  - id: S10ec60af02b3e977
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: 1.0 — Pricing Document Preamble and Instructions
     source_document: Vol4DLNP1.pdf
     pdf_pages:
@@ -3763,21 +3901,32 @@ claims:
         heading_alignment: document_heading_fallback_not_a_subclause_match
       created_at: '2026-10-31T16:03:48+00:00'
       status: draft
+  - previous_claim_id: C34b0e9c0b2651965
+    previous_evidence_ids:
+    - J026debd7f34d6fd9
+    - J6f83ecf77cc57b25
+    - S19382a03427e15ba
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T11:49:40+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The total estimated cost for Schedule-B (Items under KPWD Schedule of Rate) is ₹ 5,00,000.00, making the
     combined total of Schedules A and B ₹ 4,74,41,306.00.
   evidence_ids:
-  - J15df25270985d9b6
+  - Jabb0383ef371ea9a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3d443e5e93bf2018
+  id: C287d51717cf1e68a
   citations:
-  - id: J15df25270985d9b6
+  - id: Jabb0383ef371ea9a
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -3861,21 +4010,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:03:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3d443e5e93bf2018
+    previous_evidence_ids:
+    - J15df25270985d9b6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Schedule-C represents credit to BMRCL for salvageable items out of dismantled/demolished private properties
     where owners have no interest, indicated as lump sum amount to be offered by tenderers.
   evidence_ids:
-  - J15df25270985d9b6
-  - J6f83ecf77cc57b25
+  - Jabb0383ef371ea9a
+  - Jf17d55c6acfde864
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca4769b1d63199e13
+  id: Cd8a5a29655e5c7f6
   citations:
-  - id: J15df25270985d9b6
+  - id: Jabb0383ef371ea9a
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -3957,9 +4116,9 @@ claims:
       \ \"307\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J6f83ecf77cc57b25
+  - id: Jf17d55c6acfde864
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4082,20 +4241,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:03:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca4769b1d63199e13
+    previous_evidence_ids:
+    - J15df25270985d9b6
+    - J6f83ecf77cc57b25
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Tenderers must quote percentage rates in two decimals for Schedule-A (selecting At Par / Excess / Less),
     quote At Par for Schedule-B, and offer a lump sum credit for Schedule-C.
   evidence_ids:
-  - J6f83ecf77cc57b25
+  - Jf17d55c6acfde864
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5aa2f3b8c729db32
+  id: C13a655796690e902
   citations:
-  - id: J6f83ecf77cc57b25
+  - id: Jf17d55c6acfde864
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4218,24 +4388,34 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:03:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5aa2f3b8c729db32
+    previous_evidence_ids:
+    - J6f83ecf77cc57b25
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Underlying BOQ workbook structure includes automated cell formulas and number-to-words functions such as
     SpellNumber and SpellNumberMC for calculation and verification of tender sums.
   evidence_ids:
-  - Ja5b8d9eefe7304dc
-  - Jc2ebb3df673fa4a6
-  - Jcf2bda6a1228367d
-  - Jdd1a2e344dcc692a
-  - Jec7126612a9ce37c
+  - J2b6c7e3129c261f6
+  - J4a966f61d68d291f
+  - J9a979874374a2792
+  - Jccbc53a1c3e23834
+  - Jfd74b52b70d7661d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce3e2967100b11604
+  id: C0a72f78784598aaa
   citations:
-  - id: Ja5b8d9eefe7304dc
+  - id: J2b6c7e3129c261f6
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: BOQ_338417.xls
     source_sha256: be376d7be062f1b7d481a0c1e07a132896504f5218450cdb02d039c495425896
@@ -4251,9 +4431,9 @@ claims:
       : false,\n  \"number_format\": \"0.0000\",\n  \"row\": 17,\n  \"sheet\": \"BoQ1\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jc2ebb3df673fa4a6
+  - id: J4a966f61d68d291f
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: BOQ_338417.xls
     source_sha256: be376d7be062f1b7d481a0c1e07a132896504f5218450cdb02d039c495425896
@@ -4268,9 +4448,9 @@ claims:
       : false,\n  \"number_format\": \"General\",\n  \"row\": 17,\n  \"sheet\": \"BoQ1\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jcf2bda6a1228367d
+  - id: J9a979874374a2792
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: BOQ_338417.xls
     source_sha256: be376d7be062f1b7d481a0c1e07a132896504f5218450cdb02d039c495425896
@@ -4285,9 +4465,9 @@ claims:
       has_array_formula\": false,\n  \"number_format\": \"General\",\n  \"row\": 18,\n  \"sheet\": \"BoQ1\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jdd1a2e344dcc692a
+  - id: Jccbc53a1c3e23834
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: BOQ_338417.xls
     source_sha256: be376d7be062f1b7d481a0c1e07a132896504f5218450cdb02d039c495425896
@@ -4302,9 +4482,9 @@ claims:
       : false,\n  \"number_format\": \"0.0000\",\n  \"row\": 17,\n  \"sheet\": \"BoQ1\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jec7126612a9ce37c
+  - id: Jfd74b52b70d7661d
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: BOQ_338417.xls
     source_sha256: be376d7be062f1b7d481a0c1e07a132896504f5218450cdb02d039c495425896
@@ -4321,20 +4501,34 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T16:03:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce3e2967100b11604
+    previous_evidence_ids:
+    - Ja5b8d9eefe7304dc
+    - Jc2ebb3df673fa4a6
+    - Jcf2bda6a1228367d
+    - Jdd1a2e344dcc692a
+    - Jec7126612a9ce37c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Pricing rules specify that work execution must follow the Bill of Quantity descriptions, technical specifications,
     standards of MORTH, KPWD, CPWD, drawings, engineering practices, and instructions of the Engineer.
   evidence_ids:
-  - Ja084d2ef6281865d
+  - Jbed462ebb1fb6ea8
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbfb7bf902527857c
+  id: C2105bec694a6cf13
   citations:
-  - id: Ja084d2ef6281865d
+  - id: Jbed462ebb1fb6ea8
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4363,20 +4557,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T07:03:15+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbfb7bf902527857c
+    previous_evidence_ids:
+    - Ja084d2ef6281865d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The removal of items such as hoardings, interior lighting, interior furniture, ACP cladding, and structural
     glazing within the line of cut is treated as incidental work with no separate payment considered.
   evidence_ids:
-  - Jc3d6f8ec0e5c8075
+  - J6286c3376d46f205
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ccf5eb31e9579e19c
+  id: C40d6c2a95a9fc2f8
   citations:
-  - id: Jc3d6f8ec0e5c8075
+  - id: J6286c3376d46f205
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4406,20 +4610,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T07:03:15+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ccf5eb31e9579e19c
+    previous_evidence_ids:
+    - Jc3d6f8ec0e5c8075
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Where power, water, or other utilities must be maintained during demolition, such lines must be temporarily
     relocated and protected prior to commencing demolition work.
   evidence_ids:
-  - J4fa380d8bf61e3ac
+  - J3a4bdedbf4a7b7e6
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb5422c1f20d0be44
+  id: C93d6028b623b0b04
   citations:
-  - id: J4fa380d8bf61e3ac
+  - id: J3a4bdedbf4a7b7e6
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4448,21 +4662,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T07:03:15+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb5422c1f20d0be44
+    previous_evidence_ids:
+    - J4fa380d8bf61e3ac
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: When advised by the Consultant or BMRCL, the contractor must provide permanent supports and related restoration
     works before or after demolition to maintain Line of Clearance (LOC), paid according to accepted BOQ rates for
     items available in the Common Schedule of Rates (Common SR) for the year 2023-24.
   evidence_ids:
-  - Jbe1b6f365da89484
+  - J181fa7ffc9bc4a10
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C32a5e3b30a12412e
+  id: Cab7131b75622be5e
   citations:
-  - id: Jbe1b6f365da89484
+  - id: J181fa7ffc9bc4a10
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4503,20 +4727,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T07:03:15+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C32a5e3b30a12412e
+    previous_evidence_ids:
+    - Jbe1b6f365da89484
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The method of measurement for completed work follows the requirements stated in the Technical Specifications
     and the Bill of Quantities or elsewhere in the tender documents.
   evidence_ids:
-  - Jf67d9260f1fad647
+  - Jb360bf15c6254704
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbfe6dab4e461ef3d
+  id: Cfd31e912b60a85df
   citations:
-  - id: Jf67d9260f1fad647
+  - id: Jb360bf15c6254704
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4545,20 +4779,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T07:03:15+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbfe6dab4e461ef3d
+    previous_evidence_ids:
+    - Jf67d9260f1fad647
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: For area calculations regarding payment under property valuation guidelines, 50% of the area of any existing
     balcony and canopy is considered, whereas chejjas or similar coverings and shadows are excluded from payment.
   evidence_ids:
-  - J3c853fabd4214cdc
+  - Jd9bd6bab9dfee535
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C27b3ae9837ecedcd
+  id: C8f9cff79544bc61f
   citations:
-  - id: J3c853fabd4214cdc
+  - id: Jd9bd6bab9dfee535
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4587,21 +4831,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T07:08:11+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C27b3ae9837ecedcd
+    previous_evidence_ids:
+    - J3c853fabd4214cdc
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Demolition and dismantling work must be carried out up to the ground level and/or basement level as applicable,
     including any underground water storage structures, with refilling of low-level areas up to ground level falling
     within the contractor's scope of work.
   evidence_ids:
-  - J98d1e29fbe253728
+  - Jdcdf13c0aabc9e14
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7d2c2a535153eee1
+  id: C097f9e563368cd4c
   citations:
-  - id: J98d1e29fbe253728
+  - id: Jdcdf13c0aabc9e14
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4630,20 +4884,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T07:08:11+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7d2c2a535153eee1
+    previous_evidence_ids:
+    - J98d1e29fbe253728
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Existing items within the proposed line of cut, excluding trees, must be dismantled, demolished, and their
     debris transported and disposed of.
   evidence_ids:
-  - Jd795e6f56622f314
+  - J7cf43a77f3241ea2
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C21257317f6bcb5ce
+  id: Ce0fe4be8498ba2de
   citations:
-  - id: Jd795e6f56622f314
+  - id: J7cf43a77f3241ea2
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4669,20 +4933,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T07:08:11+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C21257317f6bcb5ce
+    previous_evidence_ids:
+    - Jd795e6f56622f314
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Total floor area for payment is defined as the summation of the total built area of all floors in the buildings
     indicated in Schedule A.
   evidence_ids:
-  - Jcd2d676f90f355c1
+  - J9c37cfe6c5cdd275
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C905c25e31f6d35e9
+  id: C8ca3b75b1cfcaef6
   citations:
-  - id: Jcd2d676f90f355c1
+  - id: J9c37cfe6c5cdd275
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4708,21 +4982,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T07:08:11+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C905c25e31f6d35e9
+    previous_evidence_ids:
+    - Jcd2d676f90f355c1
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: If buildings are added or deleted in the Bill of Quantities, the rates per square meter for such additions
     or deletions remain the same as specified, and payment is adjusted using the percentage quoted and accepted
     in the Summary Cost.
   evidence_ids:
-  - Jcb4233cb85d132a2
+  - Jd6b6e3ab9bef397d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C0c72f6bb397ae6e8
+  id: C7f11643db410199b
   citations:
-  - id: Jcb4233cb85d132a2
+  - id: Jd6b6e3ab9bef397d
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4751,21 +5035,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T07:08:11+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C0c72f6bb397ae6e8
+    previous_evidence_ids:
+    - Jcb4233cb85d132a2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Schedule B provides an estimated cost of INR 5,00,000.00 for items not covered in Schedule A, to be executed
     under the Common SR for the year 2023-24 published by the Karnataka Public Works Department with issue rates
     and amendments up to the date of tender submission.
   evidence_ids:
-  - J8e7b0bc9a6c15f10
+  - Jafe6730cc94e67f7
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbec164e090971b8e
+  id: C547fd4a9e883b09e
   citations:
-  - id: J8e7b0bc9a6c15f10
+  - id: Jafe6730cc94e67f7
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4791,19 +5085,29 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T11:17:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbec164e090971b8e
+    previous_evidence_ids:
+    - J8e7b0bc9a6c15f10
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Schedule B estimated cost amount is 500000.00 INR, structured with lump sum unit terms.
   evidence_ids:
-  - J8e7b0bc9a6c15f10
+  - Jafe6730cc94e67f7
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7a34dc6b5fedef18
+  id: Cb0c108acbe989b4d
   citations:
-  - id: J8e7b0bc9a6c15f10
+  - id: Jafe6730cc94e67f7
     okf_path: OKF_bundle/Financial/vol4_secJ.md
-    okf_sha256: 9439a74058830fd65e3d20892e276927f56b1c5717d424ea357f19aca5698795
+    okf_sha256: 5d2e43480b6c02206fddcc3a604c39f7a8b7e9151264f6fd244328f09f8e9c87
     heading: Financial Document and Bill of Quantities
     source_document: Vol4DLNP1.pdf
     source_sha256: d611ce86a28e84279e4cbbd66171d465a12d8e2efdaf37e6cac54cb5ee19246b
@@ -4829,13 +5133,23 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T11:17:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7a34dc6b5fedef18
+    previous_evidence_ids:
+    - J8e7b0bc9a6c15f10
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: concepts/salvage_ownership_and_credit.md
   title: Salvage Ownership and Schedule C Credit
   evidence_ids:
-  - J6f83ecf77cc57b25
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - Jf17d55c6acfde864
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Financial Document and Bill of Quantities Overview (Section J)
@@ -4845,120 +5159,120 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - Volume 4 Section J establishes the Financial Document, Letter of Price Bid, pricing rules and instructions, and Bill of Quantities (BOQ) abstract and item schedules for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J026debd7f34d6fd9`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/5`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J15df25270985d9b6`. JSON: `parsed_json/vol4/pricing_document.json#/pages/7`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J23599c81d83cf26f`. JSON: `parsed_json/vol4/boq_abstract.json#/records/0`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J277f317485dab92c`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/1`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J6f83ecf77cc57b25`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 1; quotation `Jbd236df1211c8d28`. JSON: `parsed_json/vol4/pricing_document.json#/pages/0`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#1.0 — Pricing Document Preamble and Instructions|1.0 — Pricing Document Preamble and Instructions]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `S19382a03427e15ba`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `S469ca02217533c37`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; quotation `S95cca961b3adbe67`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Je35bc79dc160b3f0`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/5`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `Jabb0383ef371ea9a`. JSON: `parsed_json/vol4/pricing_document.json#/pages/7`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J241ce183fcecf015`. JSON: `parsed_json/vol4/boq_abstract.json#/records/0`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J05ebc60fd5ad4602`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/1`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Jf17d55c6acfde864`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 1; quotation `Jf28ae5cc3f92b618`. JSON: `parsed_json/vol4/pricing_document.json#/pages/0`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#1.0 — Pricing Document Preamble and Instructions|1.0 — Pricing Document Preamble and Instructions]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `S10ec60af02b3e977`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `S212cc0e74fc3292f`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; quotation `S4bb84d1785d9399d`.
 
 - Pricing rules specify that work execution must follow the Bill of Quantity descriptions, technical specifications, standards of MORTH, KPWD, CPWD, drawings, engineering practices, and instructions of the Engineer.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `Ja084d2ef6281865d`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/11`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `Jbed462ebb1fb6ea8`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/11`.
 
 - The removal of items such as hoardings, interior lighting, interior furniture, ACP cladding, and structural glazing within the line of cut is treated as incidental work with no separate payment considered.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `Jc3d6f8ec0e5c8075`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/12`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `J6286c3376d46f205`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/12`.
 
 - Where power, water, or other utilities must be maintained during demolition, such lines must be temporarily relocated and protected prior to commencing demolition work.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `J4fa380d8bf61e3ac`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/13`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `J3a4bdedbf4a7b7e6`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/13`.
 
 - When advised by the Consultant or BMRCL, the contractor must provide permanent supports and related restoration works before or after demolition to maintain Line of Clearance (LOC), paid according to accepted BOQ rates for items available in the Common Schedule of Rates (Common SR) for the year 2023-24.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `Jbe1b6f365da89484`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/15`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `J181fa7ffc9bc4a10`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/15`.
 
 - Schedule B provides an estimated cost of INR 5,00,000.00 for items not covered in Schedule A, to be executed under the Common SR for the year 2023-24 published by the Karnataka Public Works Department with issue rates and amendments up to the date of tender submission.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 10; quotation `J8e7b0bc9a6c15f10`. JSON: `parsed_json/vol4/pricing_document.json#/boq_items/4`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 10; quotation `Jafe6730cc94e67f7`. JSON: `parsed_json/vol4/pricing_document.json#/boq_items/4`.
 
 ## Key Parameters and Source Statements
 
 - The estimated cost put to tender for Schedule-B (Items under Schedule of Rate published by KPWD) is INR 5,00,000.00, bringing the total estimated cost for Schedules A and B to INR 4,74,41,306.00.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J40111fda7648d44d`. JSON: `parsed_json/vol4/boq_abstract.json#/records/2`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `Jbd5c1b7c43155768`. JSON: `parsed_json/vol4/boq_abstract.json#/records/1`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `S469ca02217533c37`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J76eb6bf2592fa9ee`. JSON: `parsed_json/vol4/boq_abstract.json#/records/2`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `Jaf44a3c272fd15bf`. JSON: `parsed_json/vol4/boq_abstract.json#/records/1`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `S212cc0e74fc3292f`.
 
 - Schedule-C represents a lump-sum credit to BMRCL for salvageable items out of dismantled or demolished private properties with no owner interest, shown with a placeholder ('----') in the BOQ abstract.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J2ce3b55e064d0935`. JSON: `parsed_json/vol4/boq_abstract.json#/records/3`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `S469ca02217533c37`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J3b6ef5b6db6162f6`. JSON: `parsed_json/vol4/boq_abstract.json#/records/3`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `S212cc0e74fc3292f`.
 
 - Schedule A of the BOQ abstract specifies partial and full demolition and dismantling works amounting to ₹ 4,69,41,306.00.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J23599c81d83cf26f`. JSON: `parsed_json/vol4/boq_abstract.json#/records/0`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J241ce183fcecf015`. JSON: `parsed_json/vol4/boq_abstract.json#/records/0`.
 
 - Tenderers must quote percentage rates in two decimals for Schedule A (At Par / Excess / Less), 'At Par' only for Schedule B, and a lump sum credit amount to BMRCL on salvage of materials for Schedule C.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J6f83ecf77cc57b25`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Jf17d55c6acfde864`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
 
 - The total estimated cost for Schedule-A (Partial & Full demolition and dismantling work) is ₹ 4,69,41,306.00.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `BOQ_338417.xls`; workbook location BoQ1 row 13; quotation `J110eb79934e3efe2`. JSON: `parsed_json/boq/boq_workbook.json#/schedules/0`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J15df25270985d9b6`. JSON: `parsed_json/vol4/pricing_document.json#/pages/7`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J23599c81d83cf26f`. JSON: `parsed_json/vol4/boq_abstract.json#/records/0`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `S469ca02217533c37`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `BOQ_338417.xls`; workbook location BoQ1 row 13; quotation `Je67086ad8617857f`. JSON: `parsed_json/boq/boq_workbook.json#/schedules/0`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `Jabb0383ef371ea9a`. JSON: `parsed_json/vol4/pricing_document.json#/pages/7`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J241ce183fcecf015`. JSON: `parsed_json/vol4/boq_abstract.json#/records/0`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `S212cc0e74fc3292f`.
 
 - The total estimated cost for Schedule-B (Items under Schedule of Rate published by KPWD) is ₹ 5,00,000.00, bringing the total estimated cost of Schedules A and B to ₹ 4,74,41,306.00.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `BOQ_338417.xls`; workbook location BoQ1 row 14; quotation `J0ef80cf1b1d4a05f`. JSON: `parsed_json/boq/boq_workbook.json#/schedules/1`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J15df25270985d9b6`. JSON: `parsed_json/vol4/pricing_document.json#/pages/7`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 10; quotation `J4c4726ee3a58c841`. JSON: `parsed_json/vol4/pricing_document.json#/pages/9`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `BOQ_338417.xls`; workbook location BoQ1 row 14; quotation `Jad825d224737bbc4`. JSON: `parsed_json/boq/boq_workbook.json#/schedules/1`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `Jabb0383ef371ea9a`. JSON: `parsed_json/vol4/pricing_document.json#/pages/7`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 10; quotation `Jadc4a1acf83198bb`. JSON: `parsed_json/vol4/pricing_document.json#/pages/9`.
 
 - Schedule-C specifies a credit to BMRCL for salvageable items out of dismantled or demolished private properties on which the owner has no interest, listed as a lump-sum amount without a predefined numerical estimate in the abstract summary.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J15df25270985d9b6`. JSON: `parsed_json/vol4/pricing_document.json#/pages/7`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `BOQ_338417.xls`; workbook location BoQ1 row 15; quotation `Jd9a712a10137d028`. JSON: `parsed_json/boq/boq_workbook.json#/schedules/2`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `Jabb0383ef371ea9a`. JSON: `parsed_json/vol4/pricing_document.json#/pages/7`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `BOQ_338417.xls`; workbook location BoQ1 row 15; quotation `Jd3c8d7b4ff66f4b1`. JSON: `parsed_json/boq/boq_workbook.json#/schedules/2`.
 
 - Schedule-A item 1 specifies partial demolition and dismantling of structures of different heights at a quantity of 31,245.00 Sqm with a rate of ₹ 1,087.00 per Sqm, resulting in an amount of ₹ 3,39,63,315.00.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 9; quotation `J50ed4496a3873130`. JSON: `parsed_json/vol4/pricing_document.json#/boq_items/0`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 9; quotation `J3f50dc005015beb7`. JSON: `parsed_json/vol4/pricing_document.json#/boq_items/0`.
 
 - Schedule-A item 2 specifies full demolition and dismantling of structures at a quantity of 21,760.00 Sqm with a rate of ₹ 548.00 per Sqm, resulting in an amount of ₹ 1,19,24,480.00.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 9; quotation `J8e3ee1efdd152a76`. JSON: `parsed_json/vol4/pricing_document.json#/pages/8`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 9; quotation `Jc5eaa48fed8a39dd`. JSON: `parsed_json/vol4/pricing_document.json#/boq_items/1`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 9; quotation `J56d5c0e99ab43b9b`. JSON: `parsed_json/vol4/pricing_document.json#/pages/8`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 9; quotation `Jb1c8db24c756e2db`. JSON: `parsed_json/vol4/pricing_document.json#/boq_items/1`.
 
 - Schedule-A item 3 specifies demolition and dismantling of compound walls at a quantity of 5,183.00 Rmt with a rate of ₹ 167.00 per Rmt, resulting in an amount of ₹ 8,65,561.00.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 9; quotation `J8e3ee1efdd152a76`. JSON: `parsed_json/vol4/pricing_document.json#/pages/8`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 9, 10; quotation `Je1901893441800a6`. JSON: `parsed_json/vol4/pricing_document.json#/boq_items/2`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 9; quotation `J56d5c0e99ab43b9b`. JSON: `parsed_json/vol4/pricing_document.json#/pages/8`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 9, 10; quotation `J9c0d0eea0a2aaeec`. JSON: `parsed_json/vol4/pricing_document.json#/boq_items/2`.
 
 - Schedule-A item 4 specifies demolition and dismantling of steel structures such as sign boards and hoardings at a quantity of 25.00 MT with a rate of ₹ 7,518.00 per MT, resulting in an amount of ₹ 1,87,950.00.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 10; quotation `J4c4726ee3a58c841`. JSON: `parsed_json/vol4/pricing_document.json#/pages/9`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 10; quotation `Jbdf4e472845e8372`. JSON: `parsed_json/vol4/pricing_document.json#/boq_items/3`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 10; quotation `Jadc4a1acf83198bb`. JSON: `parsed_json/vol4/pricing_document.json#/pages/9`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 10; quotation `J9d5475ed2f3c7c6d`. JSON: `parsed_json/vol4/pricing_document.json#/boq_items/3`.
 
 - Pricing rule 6 dictates that the Tender Price or Quoted Price includes all applicable taxes, duties, cess, royalties, and statutory levies in force as of the last day of the month previous to the month of tender invitation, except Goods and Services Tax (GST).
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J026debd7f34d6fd9`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/5`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J6f83ecf77cc57b25`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#1.0 — Pricing Document Preamble and Instructions|1.0 — Pricing Document Preamble and Instructions]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `S19382a03427e15ba`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Je35bc79dc160b3f0`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/5`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Jf17d55c6acfde864`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#1.0 — Pricing Document Preamble and Instructions|1.0 — Pricing Document Preamble and Instructions]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `S10ec60af02b3e977`.
 
 - The total estimated cost for Schedule-B (Items under KPWD Schedule of Rate) is ₹ 5,00,000.00, making the combined total of Schedules A and B ₹ 4,74,41,306.00.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J15df25270985d9b6`. JSON: `parsed_json/vol4/pricing_document.json#/pages/7`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `Jabb0383ef371ea9a`. JSON: `parsed_json/vol4/pricing_document.json#/pages/7`.
 
 - Schedule-C represents credit to BMRCL for salvageable items out of dismantled/demolished private properties where owners have no interest, indicated as lump sum amount to be offered by tenderers.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `J15df25270985d9b6`. JSON: `parsed_json/vol4/pricing_document.json#/pages/7`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J6f83ecf77cc57b25`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 8; quotation `Jabb0383ef371ea9a`. JSON: `parsed_json/vol4/pricing_document.json#/pages/7`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Jf17d55c6acfde864`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
 
 - Tenderers must quote percentage rates in two decimals for Schedule-A (selecting At Par / Excess / Less), quote At Par for Schedule-B, and offer a lump sum credit for Schedule-C.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `J6f83ecf77cc57b25`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Jf17d55c6acfde864`. JSON: `parsed_json/vol4/pricing_document.json#/pages/5`.
 
 - Underlying BOQ workbook structure includes automated cell formulas and number-to-words functions such as SpellNumber and SpellNumberMC for calculation and verification of tender sums.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `BOQ_338417.xls`; workbook location BoQ1!$BA$17; quotation `Ja5b8d9eefe7304dc`. JSON: `parsed_json/boq/boq_formulas.json#/formulas/18`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `BOQ_338417.xls`; workbook location BoQ1!$BC$17; quotation `Jc2ebb3df673fa4a6`. JSON: `parsed_json/boq/boq_formulas.json#/formulas/20`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `BOQ_338417.xls`; workbook location BoQ1!$C$18; quotation `Jcf2bda6a1228367d`. JSON: `parsed_json/boq/boq_formulas.json#/formulas/21`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `BOQ_338417.xls`; workbook location BoQ1!$BB$17; quotation `Jdd1a2e344dcc692a`. JSON: `parsed_json/boq/boq_formulas.json#/formulas/19`.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `BOQ_338417.xls`; workbook location BoQ1!$BC$16; quotation `Jec7126612a9ce37c`. JSON: `parsed_json/boq/boq_formulas.json#/formulas/17`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `BOQ_338417.xls`; workbook location BoQ1!$BA$17; quotation `J2b6c7e3129c261f6`. JSON: `parsed_json/boq/boq_formulas.json#/formulas/18`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `BOQ_338417.xls`; workbook location BoQ1!$BC$17; quotation `J4a966f61d68d291f`. JSON: `parsed_json/boq/boq_formulas.json#/formulas/20`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `BOQ_338417.xls`; workbook location BoQ1!$C$18; quotation `J9a979874374a2792`. JSON: `parsed_json/boq/boq_formulas.json#/formulas/21`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `BOQ_338417.xls`; workbook location BoQ1!$BB$17; quotation `Jccbc53a1c3e23834`. JSON: `parsed_json/boq/boq_formulas.json#/formulas/19`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `BOQ_338417.xls`; workbook location BoQ1!$BC$16; quotation `Jfd74b52b70d7661d`. JSON: `parsed_json/boq/boq_formulas.json#/formulas/17`.
 
 - The method of measurement for completed work follows the requirements stated in the Technical Specifications and the Bill of Quantities or elsewhere in the tender documents.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Jf67d9260f1fad647`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/6`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; quotation `Jb360bf15c6254704`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/6`.
 
 - For area calculations regarding payment under property valuation guidelines, 50% of the area of any existing balcony and canopy is considered, whereas chejjas or similar coverings and shadows are excluded from payment.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `J3c853fabd4214cdc`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/16`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `Jd9bd6bab9dfee535`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/16`.
 
 - Demolition and dismantling work must be carried out up to the ground level and/or basement level as applicable, including any underground water storage structures, with refilling of low-level areas up to ground level falling within the contractor's scope of work.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `J98d1e29fbe253728`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/17`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `Jdcdf13c0aabc9e14`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/17`.
 
 - Existing items within the proposed line of cut, excluding trees, must be dismantled, demolished, and their debris transported and disposed of.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `Jd795e6f56622f314`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/18`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `J7cf43a77f3241ea2`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/18`.
 
 - Total floor area for payment is defined as the summation of the total built area of all floors in the buildings indicated in Schedule A.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `Jcd2d676f90f355c1`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/19`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `J9c37cfe6c5cdd275`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/19`.
 
 - If buildings are added or deleted in the Bill of Quantities, the rates per square meter for such additions or deletions remain the same as specified, and payment is adjusted using the percentage quoted and accepted in the Summary Cost.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `Jcb4233cb85d132a2`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/20`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 7; quotation `Jd6b6e3ab9bef397d`. JSON: `parsed_json/vol4/pricing_clauses.json#/records/20`.
 
 - Schedule B estimated cost amount is 500000.00 INR, structured with lump sum unit terms.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 10; quotation `J8e7b0bc9a6c15f10`. JSON: `parsed_json/vol4/pricing_document.json#/boq_items/4`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 10; quotation `Jafe6730cc94e67f7`. JSON: `parsed_json/vol4/pricing_document.json#/boq_items/4`.
 
 ## Source Headings
 - [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
@@ -4968,7 +5282,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Typed Relations
 
 - **relates_to (editorial, inferred):** [[wiki/concepts/salvage_ownership_and_credit|Salvage Ownership and Schedule C Credit]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; `J6f83ecf77cc57b25`.
+  - Evidence: [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]; `Vol4DLNP1.pdf`; PDF page(s) 6; `Jf17d55c6acfde864`.
 
 ## Open Questions and Contradictions
 
@@ -4977,7 +5291,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### J40111fda7648d44d
+### J76eb6bf2592fa9ee
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -5024,7 +5338,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "schedule": "A+B"
 > }
 
-### Jbd5c1b7c43155768
+### Jaf44a3c272fd15bf
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -5071,7 +5385,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "schedule": "B"
 > }
 
-### S469ca02217533c37
+### S212cc0e74fc3292f
 
 [[OKF_bundle/Financial/vol4_secJ#2.0 — Abstract of Bill of Quantities (BOQ)|2.0 — Abstract of Bill of Quantities (BOQ)]]
 
@@ -5091,7 +5405,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   - **Estimated Cost Field:** `----`
 >   - **Pricing Basis:** Lump-sum credit under Preamble Instruction 3
 
-### J2ce3b55e064d0935
+### J3b6ef5b6db6162f6
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -5139,7 +5453,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "schedule": "C"
 > }
 
-### J23599c81d83cf26f
+### J241ce183fcecf015
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -5186,7 +5500,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "schedule": "A"
 > }
 
-### J6f83ecf77cc57b25
+### Jf17d55c6acfde864
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -5369,7 +5683,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J026debd7f34d6fd9
+### Je35bc79dc160b3f0
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -5418,7 +5732,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### J15df25270985d9b6
+### Jabb0383ef371ea9a
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -5641,7 +5955,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J277f317485dab92c
+### J05ebc60fd5ad4602
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -5700,7 +6014,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### Jbd236df1211c8d28
+### Jf28ae5cc3f92b618
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -5863,7 +6177,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### S19382a03427e15ba
+### S10ec60af02b3e977
 
 [[OKF_bundle/Financial/vol4_secJ#1.0 — Pricing Document Preamble and Instructions|1.0 — Pricing Document Preamble and Instructions]]
 
@@ -5895,13 +6209,13 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Total Floor Area as the Sum of Built Areas of All Floors** (Instruction 20)
 > - **Building Additions or Deletions and Accepted Percentage Rates** (Instruction 21)
 
-### S95cca961b3adbe67
+### S4bb84d1785d9399d
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
 > This section contains the financial document for BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`, covering the Letter of Price Bid, pricing instructions, BOQ abstract and work schedules.
 
-### J110eb79934e3efe2
+### Je67086ad8617857f
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -5959,7 +6273,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "sheet": "BoQ1"
 > }
 
-### J0ef80cf1b1d4a05f
+### Jad825d224737bbc4
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -6017,7 +6331,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "sheet": "BoQ1"
 > }
 
-### J4c4726ee3a58c841
+### Jadc4a1acf83198bb
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -6320,7 +6634,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jd9a712a10137d028
+### Jd3c8d7b4ff66f4b1
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -6378,7 +6692,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "sheet": "BoQ1"
 > }
 
-### J50ed4496a3873130
+### J3f50dc005015beb7
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -6407,7 +6721,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "unit": "Sqm"
 > }
 
-### J8e3ee1efdd152a76
+### J56d5c0e99ab43b9b
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -6590,7 +6904,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jc5eaa48fed8a39dd
+### Jb1c8db24c756e2db
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -6619,7 +6933,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "unit": "Sqm"
 > }
 
-### Je1901893441800a6
+### J9c0d0eea0a2aaeec
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -6654,7 +6968,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "unit": "Rmt"
 > }
 
-### Jbdf4e472845e8372
+### J9d5475ed2f3c7c6d
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -6683,7 +6997,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "unit": "MT"
 > }
 
-### Ja5b8d9eefe7304dc
+### J2b6c7e3129c261f6
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -6697,7 +7011,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "sheet": "BoQ1"
 > }
 
-### Jc2ebb3df673fa4a6
+### J4a966f61d68d291f
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -6711,7 +7025,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "sheet": "BoQ1"
 > }
 
-### Jcf2bda6a1228367d
+### J9a979874374a2792
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -6725,7 +7039,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "sheet": "BoQ1"
 > }
 
-### Jdd1a2e344dcc692a
+### Jccbc53a1c3e23834
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -6739,7 +7053,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "sheet": "BoQ1"
 > }
 
-### Jec7126612a9ce37c
+### Jfd74b52b70d7661d
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -6753,7 +7067,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "sheet": "BoQ1"
 > }
 
-### Ja084d2ef6281865d
+### Jbed462ebb1fb6ea8
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -6802,7 +7116,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### Jc3d6f8ec0e5c8075
+### J6286c3376d46f205
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -6851,7 +7165,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### J4fa380d8bf61e3ac
+### J3a4bdedbf4a7b7e6
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -6900,7 +7214,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### Jbe1b6f365da89484
+### J181fa7ffc9bc4a10
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -6979,7 +7293,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### Jf67d9260f1fad647
+### Jb360bf15c6254704
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -7028,7 +7342,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### J3c853fabd4214cdc
+### Jd9bd6bab9dfee535
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -7077,7 +7391,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### J98d1e29fbe253728
+### Jdcdf13c0aabc9e14
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -7126,7 +7440,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### Jd795e6f56622f314
+### J7cf43a77f3241ea2
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -7165,7 +7479,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### Jcd2d676f90f355c1
+### J9c37cfe6c5cdd275
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -7204,7 +7518,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### Jcb4233cb85d132a2
+### Jd6b6e3ab9bef397d
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 
@@ -7253,7 +7567,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "type": "pricing_rule"
 > }
 
-### J8e7b0bc9a6c15f10
+### Jafe6730cc94e67f7
 
 [[OKF_bundle/Financial/vol4_secJ#Financial Document and Bill of Quantities|Financial Document and Bill of Quantities]]
 

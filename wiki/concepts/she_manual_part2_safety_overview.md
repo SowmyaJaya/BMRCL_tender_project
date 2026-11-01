@@ -6,526 +6,526 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-31T07:10:55+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T06:45:54+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /preamble_retained_lines/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /preamble/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/1/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/1/fragments/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/1/fragments/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/1/fragments/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/1/fragments/4
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/1/fragments/5
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/1/fragments/6
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/1/fragments/7
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/4/fragments/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/5
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/4/fragments/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/4/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/9/fragments/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/7
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/8
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/6
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/9/fragments/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/10
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/9/fragments/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/9/fragments/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/9/fragments/4
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/11
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/12
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/13
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/14
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/15
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/18
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/17
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/16
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/21
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/20
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/19
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/22
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/23
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/4
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/5
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/10
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/6
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/8
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/7
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/9
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/11
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/14
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/12
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/16
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/15
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/13
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/17
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/20
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/19
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/18
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/22
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/21
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/23
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/27
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/25
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/29
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/26
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/28
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/24
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/32
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/30
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /source_page_context/31
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
   json_pointer: /clauses/1/fragments/8
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-  okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+  okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_2_safety/safety_clauses.json
   json_sha256: 0042f3256acc51ca4ebb327c3cee57a308fa5f47e1a4ccc7f4994fe898fa11ef
@@ -537,18 +537,18 @@ claims:
     regulations and operational controls for BMRCL Tender Package P1, covering housekeeping, working at height,
     scaffolding, ladders, fragile surfaces, falling objects, and inspection obligations.
   evidence_ids:
-  - Sb4784752b2ce23d2
-  - J362ee260db115362
-  - J73c08c6837783f08
+  - S822d4864d35ef696
+  - Jfe00e9e3f16ea133
+  - J1c223e3acbf93b41
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb87faaa98096f6e4
+  id: C52a57132ffdb5223
   citations:
-  - id: Sb4784752b2ce23d2
+  - id: S822d4864d35ef696
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     pdf_pages:
@@ -588,9 +588,9 @@ claims:
     quote: This part contains Part II (Safety) of Section I (SHE - Manual) in Volume 3 of BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`.
     page_basis: OKF reference, not independently PDF-verified
     page_precision: document_metadata_range
-  - id: J362ee260db115362
+  - id: Jfe00e9e3f16ea133
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -606,9 +606,9 @@ claims:
       \ PART – II : SAFETY\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J73c08c6837783f08
+  - id: J1c223e3acbf93b41
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -625,22 +625,34 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:10:55+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb87faaa98096f6e4
+    previous_evidence_ids:
+    - Sb4784752b2ce23d2
+    - J362ee260db115362
+    - J73c08c6837783f08
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Housekeeping requirements under Clause 17 mandate that the contractor keep the work environment clear of
     unnecessary waste as a first-line defence against accidents, establishing a special housekeeping personnel group
     under General Instruction BMRC/SHE/CEO/001, daily cleaning routines, segregated waste containers, full-height
     barricades, and clear passageways.
   evidence_ids:
-  - J6cb3b0a3b5e68f12
+  - Jf6459aed7523a7bb
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C51d4b5d3472f5bc1
+  id: Cef6f306ed156021d
   citations:
-  - id: J6cb3b0a3b5e68f12
+  - id: Jf6459aed7523a7bb
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 17.0 — Housekeeping
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -850,28 +862,38 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:10:55+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C51d4b5d3472f5bc1
+    previous_evidence_ids:
+    - J6cb3b0a3b5e68f12
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Working at height regulations under Clause 18 define organizational planning, supervision, weather restrictions,
     worker competence, collective safeguards, scaffolding standards, working platform inspections, and personal
     fall protection systems.
   evidence_ids:
-  - J8e1c6f3cd6dcdf75
-  - J72310a853af6ecd5
-  - J3396676939c10d71
-  - Jebd4d2e3f8dc5d1d
-  - Jd60de5aba5750378
-  - J459842af1f243bdb
-  - J3340c21e9aa1985b
-  - J2120a326c1a964f9
+  - J6858219ae1500a56
+  - Jef0f35e0346df447
+  - J27dfb16cb7aa5e0c
+  - J8245b2bcf4357532
+  - Je7e996b73e1f0706
+  - Jd5eba89a289ed716
+  - J8a6b15093c501d97
+  - Jdf3f975578813097
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cde4a32d5614c803c
+  id: Cef89d38218dfea59
   citations:
-  - id: J8e1c6f3cd6dcdf75
+  - id: J6858219ae1500a56
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 18.0 — Working at Height
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -909,9 +931,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: J72310a853af6ecd5
+  - id: Jef0f35e0346df447
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 18.0 — Working at Height
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -970,9 +992,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: J3396676939c10d71
+  - id: J27dfb16cb7aa5e0c
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 18.0 — Working at Height
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1028,9 +1050,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: Jebd4d2e3f8dc5d1d
+  - id: J8245b2bcf4357532
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 18.0 — Working at Height
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1087,9 +1109,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: Jd60de5aba5750378
+  - id: Je7e996b73e1f0706
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 18.0 — Working at Height
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1147,9 +1169,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: J459842af1f243bdb
+  - id: Jd5eba89a289ed716
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 18.0 — Working at Height
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1215,9 +1237,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: J3340c21e9aa1985b
+  - id: J8a6b15093c501d97
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 18.0 — Working at Height
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1273,9 +1295,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: J2120a326c1a964f9
+  - id: Jdf3f975578813097
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 18.0 — Working at Height
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1338,20 +1360,37 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T07:10:55+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cde4a32d5614c803c
+    previous_evidence_ids:
+    - J8e1c6f3cd6dcdf75
+    - J72310a853af6ecd5
+    - J3396676939c10d71
+    - Jebd4d2e3f8dc5d1d
+    - Jd60de5aba5750378
+    - J459842af1f243bdb
+    - J3340c21e9aa1985b
+    - J2120a326c1a964f9
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Working platforms from which a person could fall 2 metres or more must be inspected in that position or,
     in the case of mobile working platforms, on site within the previous 7 days.
   evidence_ids:
-  - Jebd4d2e3f8dc5d1d
+  - J8245b2bcf4357532
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C48a55fbcad7a2171
+  id: Cc6ac62279cf0f1fc
   citations:
-  - id: Jebd4d2e3f8dc5d1d
+  - id: J8245b2bcf4357532
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 18.0 — Working at Height
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1410,22 +1449,32 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T07:10:55+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C48a55fbcad7a2171
+    previous_evidence_ids:
+    - Jebd4d2e3f8dc5d1d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The top guard-rail or other similar collective means of protection for work at height in construction must
     be positioned at least 950 millimetres above the edge from which any person is liable to fall, with intermediate
     gaps not exceeding 470 millimetres.
   evidence_ids:
-  - Jd60de5aba5750378
-  - J459842af1f243bdb
+  - Je7e996b73e1f0706
+  - Jd5eba89a289ed716
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cfed44909b1c3839e
+  id: C7b60f3c4620b6280
   citations:
-  - id: Jd60de5aba5750378
+  - id: Je7e996b73e1f0706
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 18.0 — Working at Height
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1483,9 +1532,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: J459842af1f243bdb
+  - id: Jd5eba89a289ed716
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 18.0 — Working at Height
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1553,26 +1602,37 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T07:10:55+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cfed44909b1c3839e
+    previous_evidence_ids:
+    - Jd60de5aba5750378
+    - J459842af1f243bdb
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part II of the SHE Manual governs comprehensive safety controls for Tender Package P1, detailing
     requirements for working at height, overhead protection, slipping/tripping hazards, lifting appliances and gear,
     and launching operations.
   evidence_ids:
-  - J362ee260db115362
-  - J73c08c6837783f08
-  - J203b90de78c7ba52
-  - J5ff58b37257f71d1
-  - J23fa6c9ebab2ba02
-  - J885c7e78c6927b04
+  - Jfe00e9e3f16ea133
+  - J1c223e3acbf93b41
+  - J4fff6da0bc3af279
+  - J95801a60726af7cf
+  - Jba7c59507e89164a
+  - J8980ba13bcfef2bb
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Caad7954db5457e54
+  id: C5986d4fab6800c15
   citations:
-  - id: J362ee260db115362
+  - id: Jfe00e9e3f16ea133
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1588,9 +1648,9 @@ claims:
       \ PART – II : SAFETY\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J73c08c6837783f08
+  - id: J1c223e3acbf93b41
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1605,9 +1665,9 @@ claims:
     quote: "{\n  \"pdf_page\": 31,\n  \"text\": \"PART – II : SAFETY\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J203b90de78c7ba52
+  - id: J4fff6da0bc3af279
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 20.0 — Slipping, Tripping, Cutting, Drowning and Falling Hazards
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1687,9 +1747,9 @@ claims:
       \ Tripping, Cutting, Drowning and Falling Hazards\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J5ff58b37257f71d1
+  - id: J95801a60726af7cf
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 19.0 — Overhead protection
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1741,9 +1801,9 @@ claims:
       ,\n  \"title\": \"Overhead protection\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J23fa6c9ebab2ba02
+  - id: Jba7c59507e89164a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 21.0 — Lifting Appliances and Gear
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1768,9 +1828,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: J885c7e78c6927b04
+  - id: J8980ba13bcfef2bb
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 22.0 — Launching Operation
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1951,21 +2011,36 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:13:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Caad7954db5457e54
+    previous_evidence_ids:
+    - J362ee260db115362
+    - J73c08c6837783f08
+    - J203b90de78c7ba52
+    - J5ff58b37257f71d1
+    - J23fa6c9ebab2ba02
+    - J885c7e78c6927b04
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Overhead protection along the periphery of buildings under construction (height 15m or above) must be at
     least 2m wide, sloping into the building at an angle not exceeding 20 degrees with the outer edge 150mm higher,
     and erected at a height not exceeding 5m from the base.
   evidence_ids:
-  - J5ff58b37257f71d1
+  - J95801a60726af7cf
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C27d4cb31d91d23ba
+  id: C9eaa7ef3bece8fb5
   citations:
-  - id: J5ff58b37257f71d1
+  - id: J95801a60726af7cf
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 19.0 — Overhead protection
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2019,22 +2094,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:13:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C27d4cb31d91d23ba
+    previous_evidence_ids:
+    - J5ff58b37257f71d1
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Lifting appliances and loose gears must be thoroughly tested and examined by a competent person (approved
     by the Chief Inspector of Factories with Employer permission) at least once every six months, and clearly marked
     with their safe working load and identification.
   evidence_ids:
-  - Jbff97c59f82a7339
-  - Jda21eec19c54839f
+  - Jfd870409d4a32684
+  - J9d64498c4cd584d9
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb5d3c4cc1943202d
+  id: C6dab95c2f527eb1c
   citations:
-  - id: Jbff97c59f82a7339
+  - id: Jfd870409d4a32684
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 21.0 — Lifting Appliances and Gear
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2090,9 +2175,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: Jda21eec19c54839f
+  - id: J9d64498c4cd584d9
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 21.0 — Lifting Appliances and Gear
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2147,21 +2232,32 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T07:13:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb5d3c4cc1943202d
+    previous_evidence_ids:
+    - Jbff97c59f82a7339
+    - Jda21eec19c54839f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Launching operations require comprehensive method statements, mandatory working platforms and fall protection
     anchorage on launching girders, daily monitoring of vertical deflection, maintenance of an operational register,
     and direct supervision by approved engineers.
   evidence_ids:
-  - J885c7e78c6927b04
+  - J8980ba13bcfef2bb
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Caad30575209f74c2
+  id: C7eb008327eeb364b
   citations:
-  - id: J885c7e78c6927b04
+  - id: J8980ba13bcfef2bb
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 22.0 — Launching Operation
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2342,28 +2438,38 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:13:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Caad30575209f74c2
+    previous_evidence_ids:
+    - J885c7e78c6927b04
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part II of the Safety, Health and Environment (SHE) Manual governs safety requirements for construction
     machinery, manual lifting, site electricity, and lighting for BMRCL Tender Package P1.
   evidence_ids:
-  - J026fff02246527c2
-  - J2f53f09be3750d34
-  - J6ae0bbd040f38caf
-  - J85cb8851adc8cf4a
-  - J8f51c956fc10b82b
-  - J9f0932e31acfeb4a
-  - Jacfcf580da82fece
-  - Jb43d24671a70324c
-  - Jc37b230c86ee4459
+  - Jf2bd3cd66c8c5306
+  - J856783321be77500
+  - J1be7784c33e49a71
+  - J0bae92fd8baf7920
+  - Jed4a04ce29862e22
+  - J68936454e52d6e69
+  - J5155320727bec14b
+  - J2c6688efc51444ad
+  - J6a7db06277b17c8f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5de9bfe36e0b27b4
+  id: Cf9290c08f5d798d8
   citations:
-  - id: J026fff02246527c2
+  - id: Jf2bd3cd66c8c5306
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 26.0 — Site Electricity
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2421,9 +2527,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: J2f53f09be3750d34
+  - id: J856783321be77500
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 24.0 — Machine and general area guarding
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2456,9 +2562,9 @@ claims:
       Machine and general area guarding\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J6ae0bbd040f38caf
+  - id: J1be7784c33e49a71
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 25.0 — Manual lifting and carrying of excessive weight
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2514,9 +2620,9 @@ claims:
       \ of excessive weight\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J85cb8851adc8cf4a
+  - id: J0bae92fd8baf7920
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 23.0 — Construction machinery
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2730,9 +2836,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"Construction machinery\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J8f51c956fc10b82b
+  - id: Jed4a04ce29862e22
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 26.0 — Site Electricity
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2756,9 +2862,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: J9f0932e31acfeb4a
+  - id: J68936454e52d6e69
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Clause 27.0 — Lighting:'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2915,9 +3021,9 @@ claims:
       \"\n    }\n  ],\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"Lighting:\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jacfcf580da82fece
+  - id: J5155320727bec14b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 26.0 — Site Electricity
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2970,9 +3076,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: Jb43d24671a70324c
+  - id: J2c6688efc51444ad
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 26.0 — Site Electricity
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3028,9 +3134,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: Jc37b230c86ee4459
+  - id: J6a7db06277b17c8f
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 26.0 — Site Electricity
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3064,20 +3170,38 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T07:14:42+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5de9bfe36e0b27b4
+    previous_evidence_ids:
+    - J026fff02246527c2
+    - J2f53f09be3750d34
+    - J6ae0bbd040f38caf
+    - J85cb8851adc8cf4a
+    - J8f51c956fc10b82b
+    - J9f0932e31acfeb4a
+    - Jacfcf580da82fece
+    - Jb43d24671a70324c
+    - Jc37b230c86ee4459
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Manual lifting and carrying weight limits under Rule 38 of BOCWR restrict adult men to 55 kg and adult women
     to 30 kg when unaided by another worker or device.
   evidence_ids:
-  - J6ae0bbd040f38caf
+  - J1be7784c33e49a71
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C0b1182982d05be1b
+  id: C7fa895da55719eaa
   citations:
-  - id: J6ae0bbd040f38caf
+  - id: J1be7784c33e49a71
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 25.0 — Manual lifting and carrying of excessive weight
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3135,20 +3259,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:14:42+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C0b1182982d05be1b
+    previous_evidence_ids:
+    - J6ae0bbd040f38caf
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Temporary electrical distribution systems require ELCBs or RCCBs with a sensitivity of 30 mA for all equipment,
     portable equipment, and distribution panels.
   evidence_ids:
-  - J026fff02246527c2
+  - Jf2bd3cd66c8c5306
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd27df608bb6233e5
+  id: C28eaf60c2aeff015
   citations:
-  - id: J026fff02246527c2
+  - id: Jf2bd3cd66c8c5306
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 26.0 — Site Electricity
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3208,20 +3342,30 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T07:14:42+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd27df608bb6233e5
+    previous_evidence_ids:
+    - J026fff02246527c2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Plugs, socket-outlets, and couplers at the construction site must be splash-proof with a minimum degree
     of Ingress Protection of IP44 under BS EN 60529, and colour-coded as 110V yellow, 240V blue, and 415V red.
   evidence_ids:
-  - Jacfcf580da82fece
+  - J5155320727bec14b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2b11fa35b7ff2efd
+  id: Cbfd350375dfc98c0
   citations:
-  - id: Jacfcf580da82fece
+  - id: J5155320727bec14b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 26.0 — Site Electricity
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3276,20 +3420,30 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T07:14:42+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2b11fa35b7ff2efd
+    previous_evidence_ids:
+    - Jacfcf580da82fece
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Small capacity diesel generators used by sub or petty contractors are strictly prohibited due to noise and
     safety hazards, and penalties apply tovironment the main contractor if such generators are observed.
   evidence_ids:
-  - Jb43d24671a70324c
+  - J2c6688efc51444ad
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cac3bb661bf0817bb
+  id: C9634d9eaac2a2eb1
   citations:
-  - id: Jb43d24671a70324c
+  - id: J2c6688efc51444ad
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 26.0 — Site Electricity
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3347,25 +3501,35 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T07:14:42+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cac3bb661bf0817bb
+    previous_evidence_ids:
+    - Jb43d24671a70324c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Safety Manual Part II prescribes comprehensive technical safety requirements and precautions for site operations,
     tools, equipment, welding, hazardous environments, fire prevention, and corrosive substances under BMRCL Tender
     Package P1.
   evidence_ids:
-  - J5aabcd6a60a03057
-  - J3ab4e1ccbca10ec6
-  - J13cc94d8a9f49968
-  - Jfe3645300d8a3364
-  - Jec93f93d4259460b
+  - Jd4dadacbf39278c0
+  - Jfcc6f75fe033a376
+  - Jc7a168a918c226d0
+  - J286b87263230a42a
+  - J6875c05c4dfa2de6
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C74d0589ab4e6a6b7
+  id: C682f9ae6c960cbbd
   citations:
-  - id: J5aabcd6a60a03057
+  - id: Jd4dadacbf39278c0
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 28.0 — Hand Tools and Power Tools
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3622,9 +3786,9 @@ claims:
       \ Power Tools\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J3ab4e1ccbca10ec6
+  - id: Jfcc6f75fe033a376
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 29.0 — Welding, Gouging and Cutting
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3757,9 +3921,9 @@ claims:
       \ Cutting\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J13cc94d8a9f49968
+  - id: Jc7a168a918c226d0
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 30.0 — Dangerous and harmful environment
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3818,9 +3982,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jfe3645300d8a3364
+  - id: J286b87263230a42a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 31.0 — Fire prevention, protection and fighting system
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3911,9 +4075,9 @@ claims:
       ,\n  \"title\": \"Fire prevention, protection and fighting system\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jec93f93d4259460b
+  - id: J6875c05c4dfa2de6
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 32.0 — Corrosive substances
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3952,20 +4116,34 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:16:07+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C74d0589ab4e6a6b7
+    previous_evidence_ids:
+    - J5aabcd6a60a03057
+    - J3ab4e1ccbca10ec6
+    - J13cc94d8a9f49968
+    - Jfe3645300d8a3364
+    - Jec93f93d4259460b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Hand and power tools must be inspected before use, equipped with proper guards at nip points, and electrical
     tools must be grounded or double insulated with GFCIs/RCCBs used outdoors or in wet conditions.
   evidence_ids:
-  - J5aabcd6a60a03057
+  - Jd4dadacbf39278c0
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C49e11f3d981e89db
+  id: Cc5edbc357907c71c
   citations:
-  - id: J5aabcd6a60a03057
+  - id: Jd4dadacbf39278c0
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 28.0 — Hand Tools and Power Tools
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4224,21 +4402,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:16:07+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C49e11f3d981e89db
+    previous_evidence_ids:
+    - J5aabcd6a60a03057
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'Welding, gouging, and cutting operations require oxygen and flammable gas cylinders to be stored at least
     6.6 meters apart or separated by a 1.5-meter high fireproof partition, with non-return valves, flashback arresters,
     pressure regulators, and at least 5 kg DCP or CO2 fire extinguishers conforming to IS 2190: 1992.'
   evidence_ids:
-  - J3ab4e1ccbca10ec6
+  - Jfcc6f75fe033a376
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C404293eda07b25b6
+  id: C5d33267e8c5e5f2b
   citations:
-  - id: J3ab4e1ccbca10ec6
+  - id: Jfcc6f75fe033a376
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 29.0 — Welding, Gouging and Cutting
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4373,21 +4561,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:16:07+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C404293eda07b25b6
+    previous_evidence_ids:
+    - J3ab4e1ccbca10ec6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Dangerous and harmful environments such as confined spaces or excavations using internal combustion engines
     require ventilation to keep carbon monoxide below 50 ppm, and worker entry is prohibited unless certified safe
     by a responsible person as per BOCWR Rule 40.
   evidence_ids:
-  - J13cc94d8a9f49968
+  - Jc7a168a918c226d0
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C721edbf9787ae12a
+  id: C160d098fcbe14a00
   citations:
-  - id: J13cc94d8a9f49968
+  - id: Jc7a168a918c226d0
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 30.0 — Dangerous and harmful environment
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4448,21 +4646,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:16:07+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C721edbf9787ae12a
+    previous_evidence_ids:
+    - J13cc94d8a9f49968
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Fire prevention and protection systems require construction sites to have sufficient fire extinguishing
     equipment and water supply, driver cabins of lifting appliances to have portable extinguishers under BOCWK Rules
     2006 Rule 79(a)(vii), and on-site scrap burning locations placed at least 12 meters away from construction work.
   evidence_ids:
-  - Jfe3645300d8a3364
+  - J286b87263230a42a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C435d34794d07ae5a
+  id: Cb842d21bfe9d9529
   citations:
-  - id: Jfe3645300d8a3364
+  - id: J286b87263230a42a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 31.0 — Fire prevention, protection and fighting system
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4555,21 +4763,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:16:07+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C435d34794d07ae5a
+    previous_evidence_ids:
+    - Jfe3645300d8a3364
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Corrosive substances including alkalis and acids must be stored and handled under BOCWR Rule 44 in a manner
     that avoids endangering workers, with suitable PPE provided and immediate remedial measures taken in case of
     spillage.
   evidence_ids:
-  - Jec93f93d4259460b
+  - J6875c05c4dfa2de6
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1d0d7474e6d829d6
+  id: C852a5991769bc906
   citations:
-  - id: Jec93f93d4259460b
+  - id: J6875c05c4dfa2de6
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 32.0 — Corrosive substances
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4608,23 +4826,33 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:16:07+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1d0d7474e6d829d6
+    previous_evidence_ids:
+    - Jec93f93d4259460b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part 2 establishes comprehensive safety requirements and standard operating procedures for high-risk
     operations including demolition, excavation, tunnelling, and work permit systems under BMRCL Tender Package
     P1.
   evidence_ids:
-  - J65f1a57f515d8a85
-  - J8e418199fb2f83a4
-  - Jd0947738f256a639
+  - J74b908d09c5b7f5a
+  - J99fb6136ac3f0174
+  - Jd8e875cd7d0114f3
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C06002946d4163512
+  id: C2344848ee0d93ce4
   citations:
-  - id: J65f1a57f515d8a85
+  - id: J74b908d09c5b7f5a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 35.0 — Work Permit system
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4726,9 +4954,9 @@ claims:
       ,\n  \"title\": \"Work Permit system\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J8e418199fb2f83a4
+  - id: J99fb6136ac3f0174
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Clause 34.0 — Excavation and Tunnelling:'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4946,9 +5174,9 @@ claims:
       ,\n  \"title\": \"Excavation and Tunnelling:\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jd0947738f256a639
+  - id: Jd8e875cd7d0114f3
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 33.0 — Demolition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5043,21 +5271,33 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:17:33+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C06002946d4163512
+    previous_evidence_ids:
+    - J65f1a57f515d8a85
+    - J8e418199fb2f83a4
+    - Jd0947738f256a639
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Demolition work under Safety Clause 33 must be conducted in a controlled manner under experienced supervision,
     requiring prior notification to local authorities/media, utility shutoffs, protective capping of supply lines,
     examination and shoring of adjacent structures, and restriction of access via substantial barricades.
   evidence_ids:
-  - Jd0947738f256a639
+  - Jd8e875cd7d0114f3
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5f454e75ff367ba8
+  id: Ceada60376c1727e5
   citations:
-  - id: Jd0947738f256a639
+  - id: Jd8e875cd7d0114f3
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 33.0 — Demolition
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5152,21 +5392,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:17:33+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5f454e75ff367ba8
+    previous_evidence_ids:
+    - Jd0947738f256a639
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Excavation safety under Clause 34 mandates adequate piling/bracing for excavations deeper than 1.5 m, safe
     access ramps conforming to IS 3696, proper spoil storage clearances of at least 0.65 m, and professional engineering
     designs for trenches exceeding 4 m depth.
   evidence_ids:
-  - J8e418199fb2f83a4
+  - J99fb6136ac3f0174
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8d6605b85a077b93
+  id: C906a513be544f528
   citations:
-  - id: J8e418199fb2f83a4
+  - id: J99fb6136ac3f0174
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Clause 34.0 — Excavation and Tunnelling:'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5386,21 +5636,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:17:33+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8d6605b85a077b93
+    previous_evidence_ids:
+    - J8e418199fb2f83a4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Tunnelling provisions under Clause 34 require 30 days prior written notice to the Director General before
     commencement, appointment of a responsible person under BOCWR rules, emergency power supply for compressed air
     systems, watertight bulkhead doors, and 24V voltage limits for portable tools in underground and confined spaces.
   evidence_ids:
-  - J8e418199fb2f83a4
+  - J99fb6136ac3f0174
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1273ea47033262c5
+  id: Cec3208e4556524ee
   citations:
-  - id: J8e418199fb2f83a4
+  - id: J99fb6136ac3f0174
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Clause 34.0 — Excavation and Tunnelling:'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5620,21 +5880,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:17:33+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1273ea47033262c5
+    previous_evidence_ids:
+    - J8e418199fb2f83a4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Work Permit system under Clause 35 mandates a formal written system for high-risk activities such as
     confined space entry, overhead power line proximity work, hot work, excavation, heavy machinery work, and electrical
     equipment maintenance, with a maximum permit duration of 12 hours.
   evidence_ids:
-  - J65f1a57f515d8a85
+  - J74b908d09c5b7f5a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf1200dafabe2cf39
+  id: Cad4ea6d6381f5ef4
   citations:
-  - id: J65f1a57f515d8a85
+  - id: J74b908d09c5b7f5a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 35.0 — Work Permit system
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5738,23 +6008,33 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:17:33+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf1200dafabe2cf39
+    previous_evidence_ids:
+    - J65f1a57f515d8a85
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Part II of the SHE Manual establishes detailed safety work practices and controls, including rules for traffic
     management, working near adjacent railways, batching plant and casting yard layouts, and the operation of a
     formal work permit system for high-risk activities.
   evidence_ids:
-  - J96ecb6f98c77702f
-  - Jab37b02fb3e0dd56
-  - Jbc37df6ba968168a
+  - J69a83e3638331cdc
+  - J068680018b304ab5
+  - J9100e58281b8fd6b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6291c4b6855d7b1a
+  id: Cc3c896d9bf91acc8
   citations:
-  - id: J96ecb6f98c77702f
+  - id: J69a83e3638331cdc
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 38.0 — Batching Plant and Casting Yard layout
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5858,9 +6138,9 @@ claims:
       \ and Casting Yard layout\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jab37b02fb3e0dd56
+  - id: J068680018b304ab5
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 37.0 — Work to adjacent railways
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5910,9 +6190,9 @@ claims:
       \ adjacent railways\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jbc37df6ba968168a
+  - id: J9100e58281b8fd6b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 36.0 — Traffic Management
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6239,20 +6519,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:25:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6291c4b6855d7b1a
+    previous_evidence_ids:
+    - J96ecb6f98c77702f
+    - Jab37b02fb3e0dd56
+    - Jbc37df6ba968168a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Work Permit authorization forms for high-risk activities shall have a maximum duration period not exceeding
     12 hours.
   evidence_ids:
-  - J65f1a57f515d8a85
+  - J74b908d09c5b7f5a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cac84906529728f1e
+  id: C9f74c055d07afc36
   citations:
-  - id: J65f1a57f515d8a85
+  - id: J74b908d09c5b7f5a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 35.0 — Work Permit system
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6356,20 +6648,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:25:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cac84906529728f1e
+    previous_evidence_ids:
+    - J65f1a57f515d8a85
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'Traffic management standards require construction workers to wear high-visibility jackets with reflective
     tapes, and traffic control signs and devices must comply with IRC: 67 and IRC: 79.'
   evidence_ids:
-  - Jbc37df6ba968168a
+  - J9100e58281b8fd6b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C24a78a72972d7d81
+  id: C3ed1a1935f131fd9
   citations:
-  - id: Jbc37df6ba968168a
+  - id: J9100e58281b8fd6b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 36.0 — Traffic Management
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6696,21 +6998,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:25:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C24a78a72972d7d81
+    previous_evidence_ids:
+    - Jbc37df6ba968168a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Works conducted in close proximity to live railways must adhere to railway manual rules, prohibit unauthorized
     encroachment, follow railway owner protection requirements including block inspectors, flagmen, and lookouts,
     enforce high-visibility clothing, and observe railway induction training.
   evidence_ids:
-  - Jab37b02fb3e0dd56
+  - J068680018b304ab5
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C111dce424aebd681
+  id: Cd8e30a068c9dee02
   citations:
-  - id: Jab37b02fb3e0dd56
+  - id: J068680018b304ab5
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 37.0 — Work to adjacent railways
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6762,21 +7074,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:25:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C111dce424aebd681
+    previous_evidence_ids:
+    - Jab37b02fb3e0dd56
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Batching plants and casting yards must be effectively planned to prevent conflicts, barricaded as compulsory
     PPE zones (or appropriately segregated non-PPE unloading areas), and equipped with proper electrical planning,
     drainage, worker amenities, and well-laid access roads.
   evidence_ids:
-  - J96ecb6f98c77702f
+  - J69a83e3638331cdc
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cca85fb701ae1342b
+  id: C0410e25be6d952b6
   citations:
-  - id: J96ecb6f98c77702f
+  - id: J69a83e3638331cdc
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 38.0 — Batching Plant and Casting Yard layout
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6882,21 +7204,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:25:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cca85fb701ae1342b
+    previous_evidence_ids:
+    - J96ecb6f98c77702f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Safety Manual Part II prescribes comprehensive safety rules for construction and demolition works, governing
     personal protective equipment standards, helmet color coding, and site visitor protocols.
   evidence_ids:
-  - J6dbbd261bc1bffef
-  - Je8fd6ebe3fce0b24
+  - Jabad25c52d8503b7
+  - Jcc46ad95e27a70ea
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C33fab2f79af58b59
+  id: C7e75ea406bfd2f5a
   citations:
-  - id: J6dbbd261bc1bffef
+  - id: Jabad25c52d8503b7
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 39.0 — Personal Protective Equipments (PPEs)
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7195,9 +7527,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Je8fd6ebe3fce0b24
+  - id: Jcc46ad95e27a70ea
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 40.0 — Visitors to site
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7447,19 +7779,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:27:31+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C33fab2f79af58b59
+    previous_evidence_ids:
+    - J6dbbd261bc1bffef
+    - Je8fd6ebe3fce0b24
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The contractor must maintain a minimum stock of 10% spare PPEs and safety appliances for inspection.
   evidence_ids:
-  - J6dbbd261bc1bffef
+  - Jabad25c52d8503b7
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C47a6178643023945
+  id: Cbf999b2ddb8868de
   citations:
-  - id: J6dbbd261bc1bffef
+  - id: Jabad25c52d8503b7
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 39.0 — Personal Protective Equipments (PPEs)
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7760,20 +8103,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:27:31+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C47a6178643023945
+    previous_evidence_ids:
+    - J6dbbd261bc1bffef
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: High-visibility jackets and waistcoats provided to workers and traffic marshals must comply with BS EN 471:1994
     standards for fluorescent background color and retro-reflective strip patterns.
   evidence_ids:
-  - J6dbbd261bc1bffef
+  - Jabad25c52d8503b7
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc17fe329f8fab2b8
+  id: Cc5bdbb3d1e660141
   citations:
-  - id: J6dbbd261bc1bffef
+  - id: Jabad25c52d8503b7
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 39.0 — Personal Protective Equipments (PPEs)
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8074,21 +8427,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:27:31+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc17fe329f8fab2b8
+    previous_evidence_ids:
+    - J6dbbd261bc1bffef
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Safety helmet color codes designate BMRC staff (White), designers and consultants (Grey), main contractor
     supervisors (Violet), sub-contractor supervisors (Blue), electricians (Red), safety professionals (Green), security
     and traffic marshals (Orange), workmen (Yellow), and visitors (White with visitor sticker).
   evidence_ids:
-  - J6dbbd261bc1bffef
+  - Jabad25c52d8503b7
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9a8136b3bc36d0e3
+  id: C929a7884d58fb1b5
   citations:
-  - id: J6dbbd261bc1bffef
+  - id: Jabad25c52d8503b7
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 39.0 — Personal Protective Equipments (PPEs)
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8389,21 +8752,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:27:31+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9a8136b3bc36d0e3
+    previous_evidence_ids:
+    - J6dbbd261bc1bffef
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Site visitors require prior employer permission, must report to the site office, must be accompanied at
     all times by site personnel, and must be provided with appropriate PPE including visitor helmets and safety
     shoes.
   evidence_ids:
-  - Je8fd6ebe3fce0b24
+  - Jcc46ad95e27a70ea
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb9be2721885a0b76
+  id: C6b468e5bf57e75cf
   citations:
-  - id: Je8fd6ebe3fce0b24
+  - id: Jcc46ad95e27a70ea
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 40.0 — Visitors to site
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8653,21 +9026,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:27:31+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb9be2721885a0b76
+    previous_evidence_ids:
+    - Je8fd6ebe3fce0b24
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part II (Safety) of the Safety, Health and Environment Manual establishes comprehensive safety
     regulations, operational controls, housekeeping mandates, and detailed requirements for working at height, scaffolding,
     and site safety management for BMRCL Tender Package P1.
   evidence_ids:
-  - Jf69272a45aa8032e
+  - Je6d1413c834ddf84
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb182507abce35128
+  id: Cbc43ea87effa568e
   citations:
-  - id: Jf69272a45aa8032e
+  - id: Je6d1413c834ddf84
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8772,21 +9155,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:29:33+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb182507abce35128
+    previous_evidence_ids:
+    - Jf69272a45aa8032e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Housekeeping at work sites, depots, batching plants, and labour camps must include daily cleaning by a dedicated
     housekeeping group constituted under General Instruction BMRC/SHE/CEO/001, maintaining a register in an approved
     format.
   evidence_ids:
-  - Jf69272a45aa8032e
+  - Je6d1413c834ddf84
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C0b133e633804c8af
+  id: Ca4c006c6a439cc34
   citations:
-  - id: Jf69272a45aa8032e
+  - id: Je6d1413c834ddf84
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8891,21 +9284,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:29:33+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C0b133e633804c8af
+    previous_evidence_ids:
+    - Jf69272a45aa8032e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Full-height fences, barriers, and barricades must be erected around the site in one line and level to prevent
     public inconvenience from dust, debris, and excavated soil, with public-facing barricades aesthetically maintained
     by regular cleaning and painting.
   evidence_ids:
-  - Jf69272a45aa8032e
+  - Je6d1413c834ddf84
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8928dc46ce529ea7
+  id: C7d79683170db379c
   citations:
-  - id: Jf69272a45aa8032e
+  - id: Je6d1413c834ddf84
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9010,22 +9413,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:29:33+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8928dc46ce529ea7
+    previous_evidence_ids:
+    - Jf69272a45aa8032e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Working at height regulations require proper planning for emergencies and rescue, appropriate supervision,
     and ensuring work is carried out only when weather conditions do not jeopardise health or safety, prioritizing
     collective protection measures over personal protection.
   evidence_ids:
-  - J4d59a4d0645c3fbf
-  - Jfde96d56fc484cc4
+  - Jeedd97c39bd5ea1d
+  - Jd39618f7e4b22cc8
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C687ec9069366f3a5
+  id: C624fb82ee5c7499b
   citations:
-  - id: J4d59a4d0645c3fbf
+  - id: Jeedd97c39bd5ea1d
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9114,9 +9527,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jfde96d56fc484cc4
+  - id: Jd39618f7e4b22cc8
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9220,21 +9633,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:29:33+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C687ec9069366f3a5
+    previous_evidence_ids:
+    - J4d59a4d0645c3fbf
+    - Jfde96d56fc484cc4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Working platforms used for construction work from which a person could fall 2 metres or more must not be
     used unless inspected in that position, or in the case of mobile working platforms, inspected on site within
     the previous 7 days.
   evidence_ids:
-  - J35783b23984f7765
+  - J05b4bd20c16212cd
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C75a139519fa878c7
+  id: Ca5d2558c87ebeebb
   citations:
-  - id: J35783b23984f7765
+  - id: J05b4bd20c16212cd
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9329,20 +9753,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:29:33+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C75a139519fa878c7
+    previous_evidence_ids:
+    - J35783b23984f7765
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Guardrails and collective protective means for work at height must feature a top guard-rail at least 950
     millimetres above the edge from which a person is liable to fall, alongside suitable and sufficient toe-boards.
   evidence_ids:
-  - Jbdb9b435d8e903f4
+  - Jf1e47bed180c0f6b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C782ef5e917e9be84
+  id: Ce860fd76a35d30a8
   citations:
-  - id: Jbdb9b435d8e903f4
+  - id: Jf1e47bed180c0f6b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9447,21 +9881,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:29:33+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C782ef5e917e9be84
+    previous_evidence_ids:
+    - Jbdb9b435d8e903f4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Fragile surfaces must have prominent warning notices affixed at the approach, and persons working on or
     near them must be provided with suitable and sufficient platforms, coverings, or guard rails to support foreseeable
     loads.
   evidence_ids:
-  - J9513274f7f20d619
+  - J4409d4e900216d2f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C88098ef8bd4247c9
+  id: C9ced11e85e49cbe2
   citations:
-  - id: J9513274f7f20d619
+  - id: J4409d4e900216d2f
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9565,26 +10009,36 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:29:33+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C88098ef8bd4247c9
+    previous_evidence_ids:
+    - J9513274f7f20d619
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Part II of the Safety, Health and Environment (SHE) Manual establishes detailed safety obligations and engineering
     controls for working at height, scaffolding, ladders, overhead protection, lifting appliances, and managing
     slipping, tripping, and falling hazards.
   evidence_ids:
-  - J08371c421ef4c610
-  - J33ed3d57cda4e517
-  - J468c21692372b904
-  - Ja0f34b9ac35c8305
-  - Jc61c2e8ba8123cd3
-  - Jd3f34769b2c57af8
+  - Jbda21e6eaedd35b8
+  - J19960e57ab89e39e
+  - Je5b891ac16585a20
+  - Jfa45c23ab68937f8
+  - J52be181015732877
+  - J6f14ca443d65a682
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2522ae3c7b8af8d3
+  id: Ccb49132ace0b0506
   citations:
-  - id: J08371c421ef4c610
+  - id: Jbda21e6eaedd35b8
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9698,9 +10152,9 @@ claims:
       : \"225\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J33ed3d57cda4e517
+  - id: J19960e57ab89e39e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9807,9 +10261,9 @@ claims:
       : \"221\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J468c21692372b904
+  - id: Je5b891ac16585a20
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9917,9 +10371,9 @@ claims:
       : \"223\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Ja0f34b9ac35c8305
+  - id: Jfa45c23ab68937f8
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10016,9 +10470,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jc61c2e8ba8123cd3
+  - id: J52be181015732877
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10123,9 +10577,9 @@ claims:
       : 6,\n      \"text\": \"224\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jd3f34769b2c57af8
+  - id: J6f14ca443d65a682
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10223,20 +10677,35 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:54:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2522ae3c7b8af8d3
+    previous_evidence_ids:
+    - J08371c421ef4c610
+    - J33ed3d57cda4e517
+    - J468c21692372b904
+    - Ja0f34b9ac35c8305
+    - Jc61c2e8ba8123cd3
+    - Jd3f34769b2c57af8
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Guardrail and intermediate protection requirements specify that any gap between an intermediate guardrail
     and other means of protection must not exceed 470 millimetres.
   evidence_ids:
-  - J33ed3d57cda4e517
+  - J19960e57ab89e39e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2b0b11b6e61c0433
+  id: Cf41ddc495a4c0b31
   citations:
-  - id: J33ed3d57cda4e517
+  - id: J19960e57ab89e39e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10345,20 +10814,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:54:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2b0b11b6e61c0433
+    previous_evidence_ids:
+    - J33ed3d57cda4e517
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Scaffolding requirements mandate structural calculations or standard configurations, competent supervision
     during assembly/dismantling, and warning signs when scaffolds are unavailable for use.
   evidence_ids:
-  - Ja0f34b9ac35c8305
+  - Jfa45c23ab68937f8
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6eb611e6f4ad7a2c
+  id: Cfc1ed7cb7d3cf21a
   citations:
-  - id: Ja0f34b9ac35c8305
+  - id: Jfa45c23ab68937f8
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10457,20 +10936,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:54:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6eb611e6f4ad7a2c
+    previous_evidence_ids:
+    - Ja0f34b9ac35c8305
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Ladders used for work at height must be metal; bamboo ladders are strictly prohibited. Portable and suspended
     ladders must be secured against slipping or swinging.
   evidence_ids:
-  - Jc61c2e8ba8123cd3
+  - J52be181015732877
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf22972da32fc178c
+  id: C7e2019ae73dc3178
   citations:
-  - id: Jc61c2e8ba8123cd3
+  - id: J52be181015732877
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10577,21 +11066,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:54:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf22972da32fc178c
+    previous_evidence_ids:
+    - Jc61c2e8ba8123cd3
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Overhead protection along building peripheries under Rule 41 of BOCWR is required for buildings 15m or above
     after construction, must be minimum 2m wide, slope inward at an angle not exceeding 200 (notational typo in
     source text) to the horizontal with the outer edge 150mm higher, and erected at a height of not more than 5m.
   evidence_ids:
-  - Jc61c2e8ba8123cd3
+  - J52be181015732877
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C27e4f5fb275d8aed
+  id: C9ebd393c9d07a2ea
   citations:
-  - id: Jc61c2e8ba8123cd3
+  - id: J52be181015732877
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10698,25 +11197,35 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:54:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C27e4f5fb275d8aed
+    previous_evidence_ids:
+    - Jc61c2e8ba8123cd3
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Part II of the SHE Manual establishes detailed safety requirements and operating procedures for construction
     machinery, lifting, rigging, launching operations, and site electricity during the BMRCL tender project.
   evidence_ids:
-  - J1edc4afaf49fc4c1
-  - J46b17a6edef172ee
-  - J8cc559818e9f4931
-  - J91b3e69806245c29
-  - Je0995bcefaaeddfb
-  - Jf34bbc6e56aaf620
+  - J72c05ed76a35021a
+  - J011a3f8c422ad6c8
+  - J5f56babb558900d7
+  - J8cc13a15f15bb715
+  - Ja8a8e991df7dd274
+  - Jd17e3a90fdf32994
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C59ccb9ee4680559c
+  id: Cddbbaf1e8fdab962
   citations:
-  - id: J1edc4afaf49fc4c1
+  - id: J72c05ed76a35021a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10825,9 +11334,9 @@ claims:
       : 6,\n      \"text\": \"229\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J46b17a6edef172ee
+  - id: J011a3f8c422ad6c8
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10911,9 +11420,9 @@ claims:
       : \"227\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J8cc559818e9f4931
+  - id: J5f56babb558900d7
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11010,9 +11519,9 @@ claims:
       : \"231\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J91b3e69806245c29
+  - id: J8cc13a15f15bb715
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11113,9 +11622,9 @@ claims:
       \      ],\n      \"block_number\": 10,\n      \"text\": \"230\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Je0995bcefaaeddfb
+  - id: Ja8a8e991df7dd274
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11225,9 +11734,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf34bbc6e56aaf620
+  - id: Jd17e3a90fdf32994
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11331,20 +11840,35 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:56:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C59ccb9ee4680559c
+    previous_evidence_ids:
+    - J1edc4afaf49fc4c1
+    - J46b17a6edef172ee
+    - J8cc559818e9f4931
+    - J91b3e69806245c29
+    - Je0995bcefaaeddfb
+    - Jf34bbc6e56aaf620
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Manual lifting and carrying weight limits under Rule 38 of BOCWR are set at a maximum of 55 kg for adult
     men and 30 kg for adult women, with combined weight restrictions for multiple workers.
   evidence_ids:
-  - J91b3e69806245c29
+  - J8cc13a15f15bb715
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C0403571c3bbb83b8
+  id: C36e174e40d5bf43e
   citations:
-  - id: J91b3e69806245c29
+  - id: J8cc13a15f15bb715
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11447,21 +11971,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:56:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C0403571c3bbb83b8
+    previous_evidence_ids:
+    - J91b3e69806245c29
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Site electrical distribution voltage requirements include 400V 3-phase for fixed plant and movable plant
     over 3.75 kW, 230V single phase for site buildings and fixed flood lighting, and 115V single phase for portable
     tools, site lighting, and hand lamps.
   evidence_ids:
-  - J8cc559818e9f4931
+  - J5f56babb558900d7
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf8f953b58c634351
+  id: C0115f0b9c8140c5b
   citations:
-  - id: J8cc559818e9f4931
+  - id: J5f56babb558900d7
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11560,20 +12094,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:56:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf8f953b58c634351
+    previous_evidence_ids:
+    - J8cc559818e9f4931
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Electrical safety protection requires ELCBs/RCCBs with a minimum sensitivity of 30 mA for all equipment,
     switchboards, and distribution panels.
   evidence_ids:
-  - Jf34bbc6e56aaf620
+  - Jd17e3a90fdf32994
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7a7a533268aad1d8
+  id: Cbb242b2b5ef6e44a
   citations:
-  - id: Jf34bbc6e56aaf620
+  - id: Jd17e3a90fdf32994
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11677,26 +12221,36 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:56:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7a7a533268aad1d8
+    previous_evidence_ids:
+    - Jf34bbc6e56aaf620
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Safety, Health and Environment Manual Part II outlines mandatory safety requirements, standards, and
     protective engineering controls covering electricity, illumination, tools, welding, cutting, and demolition
     for BMRCL contract operations.
   evidence_ids:
-  - J84bc773d37d30cbb
-  - Ja03464710a5d202a
-  - Ja97c63e86908cc52
-  - Jd4ae8e157434ed23
-  - Je5db286706cc273c
-  - Jf9f7a1b15c644499
+  - J729d3bb2475539b6
+  - J67c4e92b7ef58dca
+  - Ja9ddeea9fc15b750
+  - Jbab64bfbeadfe6ac
+  - Jb94a43b7dffc498a
+  - J4f980593f73e018f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C54ebb0241a1478be
+  id: C60b097c55fcf1aaf
   citations:
-  - id: J84bc773d37d30cbb
+  - id: J729d3bb2475539b6
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11785,9 +12339,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Ja03464710a5d202a
+  - id: J67c4e92b7ef58dca
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11931,9 +12485,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Ja97c63e86908cc52
+  - id: Ja9ddeea9fc15b750
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12022,9 +12576,9 @@ claims:
       : 4,\n      \"text\": \"233\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jd4ae8e157434ed23
+  - id: Jbab64bfbeadfe6ac
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12118,9 +12672,9 @@ claims:
       \       41.38799285888672\n      ],\n      \"block_number\": 5,\n      \"text\": \"237\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Je5db286706cc273c
+  - id: Jb94a43b7dffc498a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12234,9 +12788,9 @@ claims:
       \     ],\n      \"block_number\": 8,\n      \"text\": \"236\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf9f7a1b15c644499
+  - id: J4f980593f73e018f
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12333,21 +12887,36 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:57:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C54ebb0241a1478be
+    previous_evidence_ids:
+    - J84bc773d37d30cbb
+    - Ja03464710a5d202a
+    - Ja97c63e86908cc52
+    - Jd4ae8e157434ed23
+    - Je5db286706cc273c
+    - Jf9f7a1b15c644499
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Plugs, socket-outlets, and couplers at construction sites must be splash-proof with a minimum degree of
     Ingress Protection of IP44 under BS EN 60529, and weatherproof fittings must be colour-coded for 110V (Yellow),
     240V (Blue), and 415V (Red).
   evidence_ids:
-  - Ja97c63e86908cc52
+  - Ja9ddeea9fc15b750
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf4639d9e3533a533
+  id: C5794c1cafeb82c98
   citations:
-  - id: Ja97c63e86908cc52
+  - id: Ja9ddeea9fc15b750
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12438,20 +13007,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:57:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf4639d9e3533a533
+    previous_evidence_ids:
+    - Ja97c63e86908cc52
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Fixed electrical installations must be inspected at least at three monthly intervals, and equipment must
     be permanently numbered with inspection records maintained.
   evidence_ids:
-  - Ja03464710a5d202a
+  - J67c4e92b7ef58dca
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C431951778b5b3e65
+  id: C4e57e1c2ba9508eb
   citations:
-  - id: Ja03464710a5d202a
+  - id: J67c4e92b7ef58dca
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12597,20 +13176,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:57:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C431951778b5b3e65
+    previous_evidence_ids:
+    - Ja03464710a5d202a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Oxygen and flammable gas cylinders must be stored separately, at least 6.6 meters (20 feet) apart or separated
     by a fireproof 1.5 meter (5 feet) high partition, with flammable substances strictly prohibited within 15 meters.
   evidence_ids:
-  - Jd4ae8e157434ed23
+  - Jbab64bfbeadfe6ac
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca77fd061dc82d052
+  id: C5cc6550b6c4e6ed8
   citations:
-  - id: Jd4ae8e157434ed23
+  - id: Jbab64bfbeadfe6ac
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12706,20 +13295,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:57:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca77fd061dc82d052
+    previous_evidence_ids:
+    - Jd4ae8e157434ed23
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'Electric arc welding current must not exceed 300 A on a hand welding operation, and DCP or CO2 type fire
     extinguishers not less than 5 kg confirming to IS 2190: 1992 must be placed near the welding zone.'
   evidence_ids:
-  - Jd4ae8e157434ed23
+  - Jbab64bfbeadfe6ac
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc8cdbada50724a37
+  id: C1177c9efaae893dd
   citations:
-  - id: Jd4ae8e157434ed23
+  - id: Jbab64bfbeadfe6ac
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12815,26 +13414,36 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:57:48+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc8cdbada50724a37
+    previous_evidence_ids:
+    - Jd4ae8e157434ed23
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Safety, Health and Environment Manual Part II (Safety) establishes detailed mandatory contractor requirements
     for high-risk construction activities, excavation, tunnelling, demolition, traffic management, and personal
     protective equipment.
   evidence_ids:
-  - J0c88ef5aa4649896
-  - J21e90e6538c791d8
-  - J88c0835d94c22d50
-  - J906a5c528c244560
-  - Jc0871b0810621784
-  - Jdcb3c48e22084aac
+  - J064f0e8813ced45e
+  - Jc6480c3a93eb611b
+  - Jdeb26e500ffd2a05
+  - Jee37894331f7ed66
+  - J4330867d3b6837b1
+  - J8612e576d566fd66
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C14824e1937d94ee2
+  id: Cf8c6c46ffd470138
   citations:
-  - id: J0c88ef5aa4649896
+  - id: J064f0e8813ced45e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12923,9 +13532,9 @@ claims:
       \      ],\n      \"block_number\": 4,\n      \"text\": \"242\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J21e90e6538c791d8
+  - id: Jc6480c3a93eb611b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13029,9 +13638,9 @@ claims:
       \      ],\n      \"block_number\": 4,\n      \"text\": \"240\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J88c0835d94c22d50
+  - id: Jdeb26e500ffd2a05
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13118,9 +13727,9 @@ claims:
       : \"244\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J906a5c528c244560
+  - id: Jee37894331f7ed66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13217,9 +13826,9 @@ claims:
       : 5,\n      \"text\": \"241\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jc0871b0810621784
+  - id: J4330867d3b6837b1
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13326,9 +13935,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jdcb3c48e22084aac
+  - id: J8612e576d566fd66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13424,21 +14033,36 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:01:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C14824e1937d94ee2
+    previous_evidence_ids:
+    - J0c88ef5aa4649896
+    - J21e90e6538c791d8
+    - J88c0835d94c22d50
+    - J906a5c528c244560
+    - Jc0871b0810621784
+    - Jdcb3c48e22084aac
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Demolition safety measures require checking adjacent structures, ensuring shoring or bracing for unstable
     structures, removing debris via chutes, buckets, hoists or floor openings, and restricting entry to authorized
     personnel with substantial barricades.
   evidence_ids:
-  - Jdcb3c48e22084aac
+  - J8612e576d566fd66
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7217c6fda86ba098
+  id: C29fe1ccf61d8afb7
   citations:
-  - id: Jdcb3c48e22084aac
+  - id: J8612e576d566fd66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13534,21 +14158,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:01:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7217c6fda86ba098
+    previous_evidence_ids:
+    - Jdcb3c48e22084aac
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Excavation safety mandates piling and bracing for banks exceeding 1.5 meters, shoring for undercut banks,
     storing excavated material at least 0.65 meters from trench edges, and providing metal ladders, staircases,
     or ramps compliant with IS 3696.
   evidence_ids:
-  - Jdcb3c48e22084aac
+  - J8612e576d566fd66
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C7d5d2bc8458a7707
+  id: Cd73a57c182d2422d
   citations:
-  - id: Jdcb3c48e22084aac
+  - id: J8612e576d566fd66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13644,22 +14278,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:01:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C7d5d2bc8458a7707
+    previous_evidence_ids:
+    - Jdcb3c48e22084aac
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Tunnelling safety requirements include written notification to the Director General 30 days prior to commencement,
     appointment of a responsible person under BOCWR Rules 121 and 125, emergency power supply for compressed air
     systems, watertight bulkhead doors, and maximum working chamber temperatures of 29 degrees Celsius.
   evidence_ids:
-  - J21e90e6538c791d8
-  - Jdcb3c48e22084aac
+  - Jc6480c3a93eb611b
+  - J8612e576d566fd66
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd89e4c00cf473d88
+  id: Cd1a0c65ed1bcf573
   citations:
-  - id: J21e90e6538c791d8
+  - id: Jc6480c3a93eb611b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13763,9 +14407,9 @@ claims:
       \      ],\n      \"block_number\": 4,\n      \"text\": \"240\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jdcb3c48e22084aac
+  - id: J8612e576d566fd66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13861,22 +14505,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:01:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd89e4c00cf473d88
+    previous_evidence_ids:
+    - J21e90e6538c791d8
+    - Jdcb3c48e22084aac
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Permit-to-work systems must be implemented for high-risk activities such as confined space entry, working
     near overhead power lines, hot work, digging near underground services, heavy machinery operation, electrical
     equipment work, and heavy lifting, with a maximum authorization duration of 12 hours.
   evidence_ids:
-  - J21e90e6538c791d8
-  - J906a5c528c244560
+  - Jc6480c3a93eb611b
+  - Jee37894331f7ed66
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C79a44fee3239d032
+  id: C45430400ab889d26
   citations:
-  - id: J21e90e6538c791d8
+  - id: Jc6480c3a93eb611b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13980,9 +14635,9 @@ claims:
       \      ],\n      \"block_number\": 4,\n      \"text\": \"240\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J906a5c528c244560
+  - id: Jee37894331f7ed66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -14081,23 +14736,34 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:01:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C79a44fee3239d032
+    previous_evidence_ids:
+    - J21e90e6538c791d8
+    - J906a5c528c244560
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'Traffic management obligations include traffic control devices conforming to IRC: 67, regulatory and warning
     signs, detour signages, barricades with retro-reflective stripes and red blinking lights, tow-away vans for
     breakdowns, and continuous road cleaning.'
   evidence_ids:
-  - J0c88ef5aa4649896
-  - J906a5c528c244560
-  - Jc0871b0810621784
+  - J064f0e8813ced45e
+  - Jee37894331f7ed66
+  - J4330867d3b6837b1
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb81057b524a2dc10
+  id: Cf1bd6da100dc8547
   citations:
-  - id: J0c88ef5aa4649896
+  - id: J064f0e8813ced45e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -14186,9 +14852,9 @@ claims:
       \      ],\n      \"block_number\": 4,\n      \"text\": \"242\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J906a5c528c244560
+  - id: Jee37894331f7ed66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -14285,9 +14951,9 @@ claims:
       : 5,\n      \"text\": \"241\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jc0871b0810621784
+  - id: J4330867d3b6837b1
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -14396,22 +15062,34 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:01:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb81057b524a2dc10
+    previous_evidence_ids:
+    - J0c88ef5aa4649896
+    - J906a5c528c244560
+    - Jc0871b0810621784
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'Personal Protective Equipment (PPE) standards mandate Bureau of Indian Standards (BIS) conformity, high-visibility
     jackets with reflective tapes conforming to BS EN 471: 1994, and mandatory safety helmets, footwear, and apparel
     for all personnel and traffic marshals.'
   evidence_ids:
-  - J88c0835d94c22d50
-  - J906a5c528c244560
+  - Jdeb26e500ffd2a05
+  - Jee37894331f7ed66
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6778c244f21f7b86
+  id: C907dbf9cc28ee043
   citations:
-  - id: J88c0835d94c22d50
+  - id: Jdeb26e500ffd2a05
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -14498,9 +15176,9 @@ claims:
       : \"244\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J906a5c528c244560
+  - id: Jee37894331f7ed66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -14599,22 +15277,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:01:13+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6778c244f21f7b86
+    previous_evidence_ids:
+    - J88c0835d94c22d50
+    - J906a5c528c244560
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Safety, Health and Environment Manual Part II outlines specific safety rules regarding personnel protective
     equipment, visitor protocols, helmet color-coding, and environmental monitoring and inspection reporting procedures.
   evidence_ids:
-  - J5a136ead5ee11b47
-  - Jbf76f1aaab05dae5
-  - Jfd70aa97610db08f
+  - J011e1f1b4bb02021
+  - J7c92d285fc568dff
+  - J1d1657758880c7f9
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C331c0f91f9df9bce
+  id: C7143a3d69bed4aea
   citations:
-  - id: J5a136ead5ee11b47
+  - id: J011e1f1b4bb02021
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -14724,9 +15413,9 @@ claims:
       : 12,\n      \"text\": \"247\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jbf76f1aaab05dae5
+  - id: J7c92d285fc568dff
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -14866,9 +15555,9 @@ claims:
       : \"245\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jfd70aa97610db08f
+  - id: J1d1657758880c7f9
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -14978,20 +15667,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:03:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C331c0f91f9df9bce
+    previous_evidence_ids:
+    - J5a136ead5ee11b47
+    - Jbf76f1aaab05dae5
+    - Jfd70aa97610db08f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contractors must maintain a minimum of 10% spare Personal Protective Equipment (PPE) and safety appliances,
     making them available for inspection by the Employer.
   evidence_ids:
-  - Jfd70aa97610db08f
+  - J1d1657758880c7f9
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C043427b0be189cb3
+  id: C674275bfa9501cd8
   citations:
-  - id: Jfd70aa97610db08f
+  - id: J1d1657758880c7f9
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15101,21 +15802,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:03:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C043427b0be189cb3
+    previous_evidence_ids:
+    - Jfd70aa97610db08f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Helmet colour coding assigns White to BMRC staff, Grey to designers/consultants, Violet to main contractors,
     Blue to subcontractors, Red to electricians, Green to safety professionals, Orange to security/traffic marshals,
     and Yellow to workmen.
   evidence_ids:
-  - Jbf76f1aaab05dae5
+  - J7c92d285fc568dff
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbf59508e643e3fa2
+  id: C2d1f6d610fb98dfd
   citations:
-  - id: Jbf76f1aaab05dae5
+  - id: J7c92d285fc568dff
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15257,20 +15968,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:03:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbf59508e643e3fa2
+    previous_evidence_ids:
+    - Jbf76f1aaab05dae5
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contractors are required to prepare a formal response to each received environmental complaint within seven
     days where possible.
   evidence_ids:
-  - J5a136ead5ee11b47
+  - J011e1f1b4bb02021
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb02837b6b4df09a9
+  id: Cac926ec843b428cc
   citations:
-  - id: J5a136ead5ee11b47
+  - id: J011e1f1b4bb02021
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: 'Safety, Health and Environment Manual – Part II: Safety'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15382,21 +16103,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T08:03:22+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb02837b6b4df09a9
+    previous_evidence_ids:
+    - J5a136ead5ee11b47
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part II of the SHE Manual governs comprehensive safety requirements for working at height, ladders,
     and lifting appliances, establishing rigorous compliance mandates for BMRCL Tender Package P1.
   evidence_ids:
-  - J4f7307af0188e62d
-  - Jef941ed42ffc8c52
+  - Jd279c4e4cfdf35c3
+  - J7de3b9ae72bffb1e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1e4216dc9e4dfba8
+  id: C84b42b333209bb26
   citations:
-  - id: J4f7307af0188e62d
+  - id: Jd279c4e4cfdf35c3
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 18.0 — Working at Height
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15446,9 +16177,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger safety provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: Jef941ed42ffc8c52
+  - id: J7de3b9ae72bffb1e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 21.0 — Lifting Appliances and Gear
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15502,21 +16233,32 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:45:54+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1e4216dc9e4dfba8
+    previous_evidence_ids:
+    - J4f7307af0188e62d
+    - Jef941ed42ffc8c52
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Every contractor must ensure that a ladder is used for work at height only if a risk assessment demonstrates
     that more suitable work equipment is unjustified due to low risk and short duration or unalterable site features;
     metal ladders are allowed while bamboo ladders are strictly prohibited.
   evidence_ids:
-  - J4f7307af0188e62d
+  - Jd279c4e4cfdf35c3
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C91c6cedb86cc9a85
+  id: C9c4bbd77bc8109fc
   citations:
-  - id: J4f7307af0188e62d
+  - id: Jd279c4e4cfdf35c3
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 18.0 — Working at Height
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15568,20 +16310,30 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:45:54+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C91c6cedb86cc9a85
+    previous_evidence_ids:
+    - J4f7307af0188e62d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Where a ladder or run of ladders raises a vertical distance of 9 metres or more above its base, sufficient
     safe landing areas or rest platforms must be provided at suitable intervals where reasonably practicable.
   evidence_ids:
-  - J4f7307af0188e62d
+  - Jd279c4e4cfdf35c3
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cffcc2075ebe2763d
+  id: C1d057461fbccf2dd
   citations:
-  - id: J4f7307af0188e62d
+  - id: Jd279c4e4cfdf35c3
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 18.0 — Working at Height
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15633,21 +16385,31 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:45:54+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cffcc2075ebe2763d
+    previous_evidence_ids:
+    - J4f7307af0188e62d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: All lifting crane booms must be in perfect condition at all times; telescopic booms must be free from cracks,
     rust, flaking, cracked paint, bulges, greases, or varnishes, and no boom section with a bent lattice member
     is allowed.
   evidence_ids:
-  - Jef941ed42ffc8c52
+  - J7de3b9ae72bffb1e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd8c6fbcd9eaa7697
+  id: Cd997390a059e7af8
   citations:
-  - id: Jef941ed42ffc8c52
+  - id: J7de3b9ae72bffb1e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 21.0 — Lifting Appliances and Gear
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15701,21 +16463,31 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:45:54+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd8c6fbcd9eaa7697
+    previous_evidence_ids:
+    - Jef941ed42ffc8c52
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Rigging operations must be executed under an experienced and qualified rigger, requiring weight assessment
     before every lift, master rings on all hooks with fitness certificates, and exclusively four-legged slings,
     while hand-spliced slings up to 32mm diameter are prohibited.
   evidence_ids:
-  - Jef941ed42ffc8c52
+  - J7de3b9ae72bffb1e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca2abb011e4e9a3f9
+  id: C92a755bbab547264
   citations:
-  - id: Jef941ed42ffc8c52
+  - id: J7de3b9ae72bffb1e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part2.md
-    okf_sha256: ee80a88bd673202495b104f1e039fd2b85ddf8e2f3b2cbbf98523266c0f35b6c
+    okf_sha256: f65b3ca7b920c6278519bfcb3684fb79eef9b1a077d2c406d58efb586abc5b98
     heading: Clause 21.0 — Lifting Appliances and Gear
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15769,13 +16541,23 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T06:45:54+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca2abb011e4e9a3f9
+    previous_evidence_ids:
+    - Jef941ed42ffc8c52
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: belongs_to
   target: index.md
   title: BMRCL Wiki Index
   evidence_ids:
-  - Sb4784752b2ce23d2
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - S822d4864d35ef696
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Safety, Health and Environment Manual – Part II: Safety Overview
@@ -15785,284 +16567,284 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - Volume 3 Part II (Safety) of the Safety, Health and Environment (SHE) Manual establishes detailed safety regulations and operational controls for BMRCL Tender Package P1, covering housekeeping, working at height, scaffolding, ladders, fragile surfaces, falling objects, and inspection obligations.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63; quotation `Sb4784752b2ce23d2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31; quotation `J362ee260db115362`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/preamble_retained_lines/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31; quotation `J73c08c6837783f08`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/preamble/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63; quotation `S822d4864d35ef696`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31; quotation `Jfe00e9e3f16ea133`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/preamble_retained_lines/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31; quotation `J1c223e3acbf93b41`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/preamble/0`.
 
 - Housekeeping requirements under Clause 17 mandate that the contractor keep the work environment clear of unnecessary waste as a first-line defence against accidents, establishing a special housekeeping personnel group under General Instruction BMRC/SHE/CEO/001, daily cleaning routines, segregated waste containers, full-height barricades, and clear passageways.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 17.0 — Housekeeping|Clause 17.0 — Housekeeping]]; `Vol3DLNP1.pdf`; PDF page(s) 31, 32; quotation `J6cb3b0a3b5e68f12`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 17.0 — Housekeeping|Clause 17.0 — Housekeeping]]; `Vol3DLNP1.pdf`; PDF page(s) 31, 32; quotation `Jf6459aed7523a7bb`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/0`.
 
 - Working at height regulations under Clause 18 define organizational planning, supervision, weather restrictions, worker competence, collective safeguards, scaffolding standards, working platform inspections, and personal fall protection systems.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 32; quotation `J8e1c6f3cd6dcdf75`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 33; quotation `J72310a853af6ecd5`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 34; quotation `J3396676939c10d71`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 35; quotation `Jebd4d2e3f8dc5d1d`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 36; quotation `Jd60de5aba5750378`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 37; quotation `J459842af1f243bdb`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 38; quotation `J3340c21e9aa1985b`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 39; quotation `J2120a326c1a964f9`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 32; quotation `J6858219ae1500a56`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 33; quotation `Jef0f35e0346df447`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 34; quotation `J27dfb16cb7aa5e0c`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 35; quotation `J8245b2bcf4357532`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 36; quotation `Je7e996b73e1f0706`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 37; quotation `Jd5eba89a289ed716`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 38; quotation `J8a6b15093c501d97`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 39; quotation `Jdf3f975578813097`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/7`.
 
 - Volume 3 Part II of the SHE Manual governs comprehensive safety controls for Tender Package P1, detailing requirements for working at height, overhead protection, slipping/tripping hazards, lifting appliances and gear, and launching operations.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31; quotation `J362ee260db115362`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/preamble_retained_lines/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31; quotation `J73c08c6837783f08`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/preamble/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 20.0 — Slipping, Tripping, Cutting, Drowning and Falling Hazards|Clause 20.0 — Slipping, Tripping, Cutting, Drowning and Falling Hazards]]; `Vol3DLNP1.pdf`; PDF page(s) 40, 41; quotation `J203b90de78c7ba52`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 19.0 — Overhead protection|Clause 19.0 — Overhead protection]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `J5ff58b37257f71d1`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 21.0 — Lifting Appliances and Gear|Clause 21.0 — Lifting Appliances and Gear]]; `Vol3DLNP1.pdf`; PDF page(s) 44; quotation `J23fa6c9ebab2ba02`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/4/fragments/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 22.0 — Launching Operation|Clause 22.0 — Launching Operation]]; `Vol3DLNP1.pdf`; PDF page(s) 44, 45; quotation `J885c7e78c6927b04`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31; quotation `Jfe00e9e3f16ea133`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/preamble_retained_lines/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31; quotation `J1c223e3acbf93b41`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/preamble/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 20.0 — Slipping, Tripping, Cutting, Drowning and Falling Hazards|Clause 20.0 — Slipping, Tripping, Cutting, Drowning and Falling Hazards]]; `Vol3DLNP1.pdf`; PDF page(s) 40, 41; quotation `J4fff6da0bc3af279`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 19.0 — Overhead protection|Clause 19.0 — Overhead protection]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `J95801a60726af7cf`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 21.0 — Lifting Appliances and Gear|Clause 21.0 — Lifting Appliances and Gear]]; `Vol3DLNP1.pdf`; PDF page(s) 44; quotation `Jba7c59507e89164a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/4/fragments/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 22.0 — Launching Operation|Clause 22.0 — Launching Operation]]; `Vol3DLNP1.pdf`; PDF page(s) 44, 45; quotation `J8980ba13bcfef2bb`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/5`.
 
 - Volume 3 Part II of the Safety, Health and Environment (SHE) Manual governs safety requirements for construction machinery, manual lifting, site electricity, and lighting for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 48; quotation `J026fff02246527c2`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 24.0 — Machine and general area guarding|Clause 24.0 — Machine and general area guarding]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `J2f53f09be3750d34`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/7`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 25.0 — Manual lifting and carrying of excessive weight|Clause 25.0 — Manual lifting and carrying of excessive weight]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `J6ae0bbd040f38caf`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/8`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 23.0 — Construction machinery|Clause 23.0 — Construction machinery]]; `Vol3DLNP1.pdf`; PDF page(s) 45, 46; quotation `J85cb8851adc8cf4a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `J8f51c956fc10b82b`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 27.0 — Lighting:|Clause 27.0 — Lighting:]]; `Vol3DLNP1.pdf`; PDF page(s) 50, 51; quotation `J9f0932e31acfeb4a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/10`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 49; quotation `Jacfcf580da82fece`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 47; quotation `Jb43d24671a70324c`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 50; quotation `Jc37b230c86ee4459`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 48; quotation `Jf2bd3cd66c8c5306`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 24.0 — Machine and general area guarding|Clause 24.0 — Machine and general area guarding]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `J856783321be77500`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 25.0 — Manual lifting and carrying of excessive weight|Clause 25.0 — Manual lifting and carrying of excessive weight]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `J1be7784c33e49a71`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 23.0 — Construction machinery|Clause 23.0 — Construction machinery]]; `Vol3DLNP1.pdf`; PDF page(s) 45, 46; quotation `J0bae92fd8baf7920`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `Jed4a04ce29862e22`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 27.0 — Lighting:|Clause 27.0 — Lighting:]]; `Vol3DLNP1.pdf`; PDF page(s) 50, 51; quotation `J68936454e52d6e69`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 49; quotation `J5155320727bec14b`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 47; quotation `J2c6688efc51444ad`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 50; quotation `J6a7db06277b17c8f`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/4`.
 
 - Safety Manual Part II prescribes comprehensive technical safety requirements and precautions for site operations, tools, equipment, welding, hazardous environments, fire prevention, and corrosive substances under BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 28.0 — Hand Tools and Power Tools|Clause 28.0 — Hand Tools and Power Tools]]; `Vol3DLNP1.pdf`; PDF page(s) 51, 52; quotation `J5aabcd6a60a03057`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/11`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 29.0 — Welding, Gouging and Cutting|Clause 29.0 — Welding, Gouging and Cutting]]; `Vol3DLNP1.pdf`; PDF page(s) 52, 53; quotation `J3ab4e1ccbca10ec6`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/12`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 30.0 — Dangerous and harmful environment|Clause 30.0 — Dangerous and harmful environment]]; `Vol3DLNP1.pdf`; PDF page(s) 53; quotation `J13cc94d8a9f49968`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/13`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 31.0 — Fire prevention, protection and fighting system|Clause 31.0 — Fire prevention, protection and fighting system]]; `Vol3DLNP1.pdf`; PDF page(s) 54; quotation `Jfe3645300d8a3364`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/14`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 32.0 — Corrosive substances|Clause 32.0 — Corrosive substances]]; `Vol3DLNP1.pdf`; PDF page(s) 54; quotation `Jec93f93d4259460b`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 28.0 — Hand Tools and Power Tools|Clause 28.0 — Hand Tools and Power Tools]]; `Vol3DLNP1.pdf`; PDF page(s) 51, 52; quotation `Jd4dadacbf39278c0`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 29.0 — Welding, Gouging and Cutting|Clause 29.0 — Welding, Gouging and Cutting]]; `Vol3DLNP1.pdf`; PDF page(s) 52, 53; quotation `Jfcc6f75fe033a376`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 30.0 — Dangerous and harmful environment|Clause 30.0 — Dangerous and harmful environment]]; `Vol3DLNP1.pdf`; PDF page(s) 53; quotation `Jc7a168a918c226d0`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 31.0 — Fire prevention, protection and fighting system|Clause 31.0 — Fire prevention, protection and fighting system]]; `Vol3DLNP1.pdf`; PDF page(s) 54; quotation `J286b87263230a42a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 32.0 — Corrosive substances|Clause 32.0 — Corrosive substances]]; `Vol3DLNP1.pdf`; PDF page(s) 54; quotation `J6875c05c4dfa2de6`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/15`.
 
 - Volume 3 Part 2 establishes comprehensive safety requirements and standard operating procedures for high-risk operations including demolition, excavation, tunnelling, and work permit systems under BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 35.0 — Work Permit system|Clause 35.0 — Work Permit system]]; `Vol3DLNP1.pdf`; PDF page(s) 56, 57; quotation `J65f1a57f515d8a85`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/18`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 34.0 — Excavation and Tunnelling:|Clause 34.0 — Excavation and Tunnelling:]]; `Vol3DLNP1.pdf`; PDF page(s) 55, 56; quotation `J8e418199fb2f83a4`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/17`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 33.0 — Demolition|Clause 33.0 — Demolition]]; `Vol3DLNP1.pdf`; PDF page(s) 54, 55; quotation `Jd0947738f256a639`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 35.0 — Work Permit system|Clause 35.0 — Work Permit system]]; `Vol3DLNP1.pdf`; PDF page(s) 56, 57; quotation `J74b908d09c5b7f5a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/18`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 34.0 — Excavation and Tunnelling:|Clause 34.0 — Excavation and Tunnelling:]]; `Vol3DLNP1.pdf`; PDF page(s) 55, 56; quotation `J99fb6136ac3f0174`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/17`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 33.0 — Demolition|Clause 33.0 — Demolition]]; `Vol3DLNP1.pdf`; PDF page(s) 54, 55; quotation `Jd8e875cd7d0114f3`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/16`.
 
 - Part II of the SHE Manual establishes detailed safety work practices and controls, including rules for traffic management, working near adjacent railways, batching plant and casting yard layouts, and the operation of a formal work permit system for high-risk activities.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 38.0 — Batching Plant and Casting Yard layout|Clause 38.0 — Batching Plant and Casting Yard layout]]; `Vol3DLNP1.pdf`; PDF page(s) 59, 60; quotation `J96ecb6f98c77702f`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/21`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 37.0 — Work to adjacent railways|Clause 37.0 — Work to adjacent railways]]; `Vol3DLNP1.pdf`; PDF page(s) 59; quotation `Jab37b02fb3e0dd56`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/20`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 36.0 — Traffic Management|Clause 36.0 — Traffic Management]]; `Vol3DLNP1.pdf`; PDF page(s) 57, 58, 59; quotation `Jbc37df6ba968168a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/19`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 38.0 — Batching Plant and Casting Yard layout|Clause 38.0 — Batching Plant and Casting Yard layout]]; `Vol3DLNP1.pdf`; PDF page(s) 59, 60; quotation `J69a83e3638331cdc`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/21`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 37.0 — Work to adjacent railways|Clause 37.0 — Work to adjacent railways]]; `Vol3DLNP1.pdf`; PDF page(s) 59; quotation `J068680018b304ab5`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/20`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 36.0 — Traffic Management|Clause 36.0 — Traffic Management]]; `Vol3DLNP1.pdf`; PDF page(s) 57, 58, 59; quotation `J9100e58281b8fd6b`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/19`.
 
 - Safety Manual Part II prescribes comprehensive safety rules for construction and demolition works, governing personal protective equipment standards, helmet color coding, and site visitor protocols.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 39.0 — Personal Protective Equipments (PPEs)|Clause 39.0 — Personal Protective Equipments (PPEs)]]; `Vol3DLNP1.pdf`; PDF page(s) 60, 61, 62; quotation `J6dbbd261bc1bffef`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/22`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 40.0 — Visitors to site|Clause 40.0 — Visitors to site]]; `Vol3DLNP1.pdf`; PDF page(s) 62, 63; quotation `Je8fd6ebe3fce0b24`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/23`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 39.0 — Personal Protective Equipments (PPEs)|Clause 39.0 — Personal Protective Equipments (PPEs)]]; `Vol3DLNP1.pdf`; PDF page(s) 60, 61, 62; quotation `Jabad25c52d8503b7`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/22`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 40.0 — Visitors to site|Clause 40.0 — Visitors to site]]; `Vol3DLNP1.pdf`; PDF page(s) 62, 63; quotation `Jcc46ad95e27a70ea`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/23`.
 
 - Safety helmet color codes designate BMRC staff (White), designers and consultants (Grey), main contractor supervisors (Violet), sub-contractor supervisors (Blue), electricians (Red), safety professionals (Green), security and traffic marshals (Orange), workmen (Yellow), and visitors (White with visitor sticker).
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 39.0 — Personal Protective Equipments (PPEs)|Clause 39.0 — Personal Protective Equipments (PPEs)]]; `Vol3DLNP1.pdf`; PDF page(s) 60, 61, 62; quotation `J6dbbd261bc1bffef`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/22`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 39.0 — Personal Protective Equipments (PPEs)|Clause 39.0 — Personal Protective Equipments (PPEs)]]; `Vol3DLNP1.pdf`; PDF page(s) 60, 61, 62; quotation `Jabad25c52d8503b7`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/22`.
 
 - Site visitors require prior employer permission, must report to the site office, must be accompanied at all times by site personnel, and must be provided with appropriate PPE including visitor helmets and safety shoes.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 40.0 — Visitors to site|Clause 40.0 — Visitors to site]]; `Vol3DLNP1.pdf`; PDF page(s) 62, 63; quotation `Je8fd6ebe3fce0b24`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/23`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 40.0 — Visitors to site|Clause 40.0 — Visitors to site]]; `Vol3DLNP1.pdf`; PDF page(s) 62, 63; quotation `Jcc46ad95e27a70ea`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/23`.
 
 - Volume 3 Part II (Safety) of the Safety, Health and Environment Manual establishes comprehensive safety regulations, operational controls, housekeeping mandates, and detailed requirements for working at height, scaffolding, and site safety management for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31; quotation `Jf69272a45aa8032e`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31; quotation `Je6d1413c834ddf84`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/0`.
 
 - Part II of the Safety, Health and Environment (SHE) Manual establishes detailed safety obligations and engineering controls for working at height, scaffolding, ladders, overhead protection, lifting appliances, and managing slipping, tripping, and falling hazards.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 41; quotation `J08371c421ef4c610`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/10`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 37; quotation `J33ed3d57cda4e517`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 39; quotation `J468c21692372b904`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/8`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 38; quotation `Ja0f34b9ac35c8305`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/7`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `Jc61c2e8ba8123cd3`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/9`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 42; quotation `Jd3f34769b2c57af8`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 41; quotation `Jbda21e6eaedd35b8`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 37; quotation `J19960e57ab89e39e`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 39; quotation `Je5b891ac16585a20`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 38; quotation `Jfa45c23ab68937f8`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `J52be181015732877`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 42; quotation `J6f14ca443d65a682`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/11`.
 
 - Part II of the SHE Manual establishes detailed safety requirements and operating procedures for construction machinery, lifting, rigging, launching operations, and site electricity during the BMRCL tender project.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 45; quotation `J1edc4afaf49fc4c1`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/14`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 43; quotation `J46b17a6edef172ee`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/12`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 47; quotation `J8cc559818e9f4931`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/16`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `J91b3e69806245c29`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/15`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 44; quotation `Je0995bcefaaeddfb`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/13`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 48; quotation `Jf34bbc6e56aaf620`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/17`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 45; quotation `J72c05ed76a35021a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 43; quotation `J011a3f8c422ad6c8`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 47; quotation `J5f56babb558900d7`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `J8cc13a15f15bb715`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 44; quotation `Ja8a8e991df7dd274`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 48; quotation `Jd17e3a90fdf32994`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/17`.
 
 - The Safety, Health and Environment Manual Part II outlines mandatory safety requirements, standards, and protective engineering controls covering electricity, illumination, tools, welding, cutting, and demolition for BMRCL contract operations.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 51; quotation `J84bc773d37d30cbb`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/20`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 50; quotation `Ja03464710a5d202a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/19`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 49; quotation `Ja97c63e86908cc52`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/18`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 53; quotation `Jd4ae8e157434ed23`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/22`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 52; quotation `Je5db286706cc273c`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/21`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 54; quotation `Jf9f7a1b15c644499`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/23`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 51; quotation `J729d3bb2475539b6`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/20`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 50; quotation `J67c4e92b7ef58dca`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/19`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 49; quotation `Ja9ddeea9fc15b750`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/18`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 53; quotation `Jbab64bfbeadfe6ac`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/22`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 52; quotation `Jb94a43b7dffc498a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/21`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 54; quotation `J4f980593f73e018f`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/23`.
 
 - The Safety, Health and Environment Manual Part II (Safety) establishes detailed mandatory contractor requirements for high-risk construction activities, excavation, tunnelling, demolition, traffic management, and personal protective equipment.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 58; quotation `J0c88ef5aa4649896`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/27`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 56; quotation `J21e90e6538c791d8`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/25`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 60; quotation `J88c0835d94c22d50`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/29`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 57; quotation `J906a5c528c244560`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/26`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 59; quotation `Jc0871b0810621784`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/28`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 55; quotation `Jdcb3c48e22084aac`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/24`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 58; quotation `J064f0e8813ced45e`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/27`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 56; quotation `Jc6480c3a93eb611b`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/25`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 60; quotation `Jdeb26e500ffd2a05`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/29`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 57; quotation `Jee37894331f7ed66`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/26`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 59; quotation `J4330867d3b6837b1`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/28`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 55; quotation `J8612e576d566fd66`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/24`.
 
 - The Safety, Health and Environment Manual Part II outlines specific safety rules regarding personnel protective equipment, visitor protocols, helmet color-coding, and environmental monitoring and inspection reporting procedures.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 63; quotation `J5a136ead5ee11b47`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/32`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 61; quotation `Jbf76f1aaab05dae5`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/30`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 62; quotation `Jfd70aa97610db08f`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/31`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 63; quotation `J011e1f1b4bb02021`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/32`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 61; quotation `J7c92d285fc568dff`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/30`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 62; quotation `J1d1657758880c7f9`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/31`.
 
 - Volume 3 Part II of the SHE Manual governs comprehensive safety requirements for working at height, ladders, and lifting appliances, establishing rigorous compliance mandates for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `J4f7307af0188e62d`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/8`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 21.0 — Lifting Appliances and Gear|Clause 21.0 — Lifting Appliances and Gear]]; `Vol3DLNP1.pdf`; PDF page(s) 43; quotation `Jef941ed42ffc8c52`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/4/fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `Jd279c4e4cfdf35c3`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 21.0 — Lifting Appliances and Gear|Clause 21.0 — Lifting Appliances and Gear]]; `Vol3DLNP1.pdf`; PDF page(s) 43; quotation `J7de3b9ae72bffb1e`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/4/fragments/2`.
 
 ## Key Parameters and Source Statements
 
 - Working platforms from which a person could fall 2 metres or more must be inspected in that position or, in the case of mobile working platforms, on site within the previous 7 days.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 35; quotation `Jebd4d2e3f8dc5d1d`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 35; quotation `J8245b2bcf4357532`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/3`.
 
 - The top guard-rail or other similar collective means of protection for work at height in construction must be positioned at least 950 millimetres above the edge from which any person is liable to fall, with intermediate gaps not exceeding 470 millimetres.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 36; quotation `Jd60de5aba5750378`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 37; quotation `J459842af1f243bdb`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 36; quotation `Je7e996b73e1f0706`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 37; quotation `Jd5eba89a289ed716`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/5`.
 
 - Overhead protection along the periphery of buildings under construction (height 15m or above) must be at least 2m wide, sloping into the building at an angle not exceeding 20 degrees with the outer edge 150mm higher, and erected at a height not exceeding 5m from the base.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 19.0 — Overhead protection|Clause 19.0 — Overhead protection]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `J5ff58b37257f71d1`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 19.0 — Overhead protection|Clause 19.0 — Overhead protection]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `J95801a60726af7cf`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/2`.
 
 - Lifting appliances and loose gears must be thoroughly tested and examined by a competent person (approved by the Chief Inspector of Factories with Employer permission) at least once every six months, and clearly marked with their safe working load and identification.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 21.0 — Lifting Appliances and Gear|Clause 21.0 — Lifting Appliances and Gear]]; `Vol3DLNP1.pdf`; PDF page(s) 42; quotation `Jbff97c59f82a7339`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/4/fragments/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 21.0 — Lifting Appliances and Gear|Clause 21.0 — Lifting Appliances and Gear]]; `Vol3DLNP1.pdf`; PDF page(s) 41; quotation `Jda21eec19c54839f`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/4/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 21.0 — Lifting Appliances and Gear|Clause 21.0 — Lifting Appliances and Gear]]; `Vol3DLNP1.pdf`; PDF page(s) 42; quotation `Jfd870409d4a32684`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/4/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 21.0 — Lifting Appliances and Gear|Clause 21.0 — Lifting Appliances and Gear]]; `Vol3DLNP1.pdf`; PDF page(s) 41; quotation `J9d64498c4cd584d9`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/4/fragments/0`.
 
 - Launching operations require comprehensive method statements, mandatory working platforms and fall protection anchorage on launching girders, daily monitoring of vertical deflection, maintenance of an operational register, and direct supervision by approved engineers.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 22.0 — Launching Operation|Clause 22.0 — Launching Operation]]; `Vol3DLNP1.pdf`; PDF page(s) 44, 45; quotation `J885c7e78c6927b04`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 22.0 — Launching Operation|Clause 22.0 — Launching Operation]]; `Vol3DLNP1.pdf`; PDF page(s) 44, 45; quotation `J8980ba13bcfef2bb`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/5`.
 
 - Manual lifting and carrying weight limits under Rule 38 of BOCWR restrict adult men to 55 kg and adult women to 30 kg when unaided by another worker or device.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 25.0 — Manual lifting and carrying of excessive weight|Clause 25.0 — Manual lifting and carrying of excessive weight]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `J6ae0bbd040f38caf`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 25.0 — Manual lifting and carrying of excessive weight|Clause 25.0 — Manual lifting and carrying of excessive weight]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `J1be7784c33e49a71`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/8`.
 
 - Temporary electrical distribution systems require ELCBs or RCCBs with a sensitivity of 30 mA for all equipment, portable equipment, and distribution panels.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 48; quotation `J026fff02246527c2`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 48; quotation `Jf2bd3cd66c8c5306`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/2`.
 
 - Plugs, socket-outlets, and couplers at the construction site must be splash-proof with a minimum degree of Ingress Protection of IP44 under BS EN 60529, and colour-coded as 110V yellow, 240V blue, and 415V red.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 49; quotation `Jacfcf580da82fece`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 49; quotation `J5155320727bec14b`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/3`.
 
 - Small capacity diesel generators used by sub or petty contractors are strictly prohibited due to noise and safety hazards, and penalties apply tovironment the main contractor if such generators are observed.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 47; quotation `Jb43d24671a70324c`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]; `Vol3DLNP1.pdf`; PDF page(s) 47; quotation `J2c6688efc51444ad`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/9/fragments/1`.
 
 - Hand and power tools must be inspected before use, equipped with proper guards at nip points, and electrical tools must be grounded or double insulated with GFCIs/RCCBs used outdoors or in wet conditions.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 28.0 — Hand Tools and Power Tools|Clause 28.0 — Hand Tools and Power Tools]]; `Vol3DLNP1.pdf`; PDF page(s) 51, 52; quotation `J5aabcd6a60a03057`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 28.0 — Hand Tools and Power Tools|Clause 28.0 — Hand Tools and Power Tools]]; `Vol3DLNP1.pdf`; PDF page(s) 51, 52; quotation `Jd4dadacbf39278c0`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/11`.
 
 - Welding, gouging, and cutting operations require oxygen and flammable gas cylinders to be stored at least 6.6 meters apart or separated by a 1.5-meter high fireproof partition, with non-return valves, flashback arresters, pressure regulators, and at least 5 kg DCP or CO2 fire extinguishers conforming to IS 2190: 1992.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 29.0 — Welding, Gouging and Cutting|Clause 29.0 — Welding, Gouging and Cutting]]; `Vol3DLNP1.pdf`; PDF page(s) 52, 53; quotation `J3ab4e1ccbca10ec6`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 29.0 — Welding, Gouging and Cutting|Clause 29.0 — Welding, Gouging and Cutting]]; `Vol3DLNP1.pdf`; PDF page(s) 52, 53; quotation `Jfcc6f75fe033a376`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/12`.
 
 - Dangerous and harmful environments such as confined spaces or excavations using internal combustion engines require ventilation to keep carbon monoxide below 50 ppm, and worker entry is prohibited unless certified safe by a responsible person as per BOCWR Rule 40.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 30.0 — Dangerous and harmful environment|Clause 30.0 — Dangerous and harmful environment]]; `Vol3DLNP1.pdf`; PDF page(s) 53; quotation `J13cc94d8a9f49968`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 30.0 — Dangerous and harmful environment|Clause 30.0 — Dangerous and harmful environment]]; `Vol3DLNP1.pdf`; PDF page(s) 53; quotation `Jc7a168a918c226d0`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/13`.
 
 - Fire prevention and protection systems require construction sites to have sufficient fire extinguishing equipment and water supply, driver cabins of lifting appliances to have portable extinguishers under BOCWK Rules 2006 Rule 79(a)(vii), and on-site scrap burning locations placed at least 12 meters away from construction work.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 31.0 — Fire prevention, protection and fighting system|Clause 31.0 — Fire prevention, protection and fighting system]]; `Vol3DLNP1.pdf`; PDF page(s) 54; quotation `Jfe3645300d8a3364`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 31.0 — Fire prevention, protection and fighting system|Clause 31.0 — Fire prevention, protection and fighting system]]; `Vol3DLNP1.pdf`; PDF page(s) 54; quotation `J286b87263230a42a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/14`.
 
 - Corrosive substances including alkalis and acids must be stored and handled under BOCWR Rule 44 in a manner that avoids endangering workers, with suitable PPE provided and immediate remedial measures taken in case of spillage.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 32.0 — Corrosive substances|Clause 32.0 — Corrosive substances]]; `Vol3DLNP1.pdf`; PDF page(s) 54; quotation `Jec93f93d4259460b`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 32.0 — Corrosive substances|Clause 32.0 — Corrosive substances]]; `Vol3DLNP1.pdf`; PDF page(s) 54; quotation `J6875c05c4dfa2de6`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/15`.
 
 - Demolition work under Safety Clause 33 must be conducted in a controlled manner under experienced supervision, requiring prior notification to local authorities/media, utility shutoffs, protective capping of supply lines, examination and shoring of adjacent structures, and restriction of access via substantial barricades.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 33.0 — Demolition|Clause 33.0 — Demolition]]; `Vol3DLNP1.pdf`; PDF page(s) 54, 55; quotation `Jd0947738f256a639`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 33.0 — Demolition|Clause 33.0 — Demolition]]; `Vol3DLNP1.pdf`; PDF page(s) 54, 55; quotation `Jd8e875cd7d0114f3`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/16`.
 
 - Excavation safety under Clause 34 mandates adequate piling/bracing for excavations deeper than 1.5 m, safe access ramps conforming to IS 3696, proper spoil storage clearances of at least 0.65 m, and professional engineering designs for trenches exceeding 4 m depth.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 34.0 — Excavation and Tunnelling:|Clause 34.0 — Excavation and Tunnelling:]]; `Vol3DLNP1.pdf`; PDF page(s) 55, 56; quotation `J8e418199fb2f83a4`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/17`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 34.0 — Excavation and Tunnelling:|Clause 34.0 — Excavation and Tunnelling:]]; `Vol3DLNP1.pdf`; PDF page(s) 55, 56; quotation `J99fb6136ac3f0174`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/17`.
 
 - Tunnelling provisions under Clause 34 require 30 days prior written notice to the Director General before commencement, appointment of a responsible person under BOCWR rules, emergency power supply for compressed air systems, watertight bulkhead doors, and 24V voltage limits for portable tools in underground and confined spaces.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 34.0 — Excavation and Tunnelling:|Clause 34.0 — Excavation and Tunnelling:]]; `Vol3DLNP1.pdf`; PDF page(s) 55, 56; quotation `J8e418199fb2f83a4`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/17`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 34.0 — Excavation and Tunnelling:|Clause 34.0 — Excavation and Tunnelling:]]; `Vol3DLNP1.pdf`; PDF page(s) 55, 56; quotation `J99fb6136ac3f0174`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/17`.
 
 - The Work Permit system under Clause 35 mandates a formal written system for high-risk activities such as confined space entry, overhead power line proximity work, hot work, excavation, heavy machinery work, and electrical equipment maintenance, with a maximum permit duration of 12 hours.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 35.0 — Work Permit system|Clause 35.0 — Work Permit system]]; `Vol3DLNP1.pdf`; PDF page(s) 56, 57; quotation `J65f1a57f515d8a85`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/18`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 35.0 — Work Permit system|Clause 35.0 — Work Permit system]]; `Vol3DLNP1.pdf`; PDF page(s) 56, 57; quotation `J74b908d09c5b7f5a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/18`.
 
 - Work Permit authorization forms for high-risk activities shall have a maximum duration period not exceeding 12 hours.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 35.0 — Work Permit system|Clause 35.0 — Work Permit system]]; `Vol3DLNP1.pdf`; PDF page(s) 56, 57; quotation `J65f1a57f515d8a85`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/18`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 35.0 — Work Permit system|Clause 35.0 — Work Permit system]]; `Vol3DLNP1.pdf`; PDF page(s) 56, 57; quotation `J74b908d09c5b7f5a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/18`.
 
 - Traffic management standards require construction workers to wear high-visibility jackets with reflective tapes, and traffic control signs and devices must comply with IRC: 67 and IRC: 79.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 36.0 — Traffic Management|Clause 36.0 — Traffic Management]]; `Vol3DLNP1.pdf`; PDF page(s) 57, 58, 59; quotation `Jbc37df6ba968168a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/19`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 36.0 — Traffic Management|Clause 36.0 — Traffic Management]]; `Vol3DLNP1.pdf`; PDF page(s) 57, 58, 59; quotation `J9100e58281b8fd6b`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/19`.
 
 - Works conducted in close proximity to live railways must adhere to railway manual rules, prohibit unauthorized encroachment, follow railway owner protection requirements including block inspectors, flagmen, and lookouts, enforce high-visibility clothing, and observe railway induction training.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 37.0 — Work to adjacent railways|Clause 37.0 — Work to adjacent railways]]; `Vol3DLNP1.pdf`; PDF page(s) 59; quotation `Jab37b02fb3e0dd56`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/20`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 37.0 — Work to adjacent railways|Clause 37.0 — Work to adjacent railways]]; `Vol3DLNP1.pdf`; PDF page(s) 59; quotation `J068680018b304ab5`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/20`.
 
 - Batching plants and casting yards must be effectively planned to prevent conflicts, barricaded as compulsory PPE zones (or appropriately segregated non-PPE unloading areas), and equipped with proper electrical planning, drainage, worker amenities, and well-laid access roads.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 38.0 — Batching Plant and Casting Yard layout|Clause 38.0 — Batching Plant and Casting Yard layout]]; `Vol3DLNP1.pdf`; PDF page(s) 59, 60; quotation `J96ecb6f98c77702f`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/21`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 38.0 — Batching Plant and Casting Yard layout|Clause 38.0 — Batching Plant and Casting Yard layout]]; `Vol3DLNP1.pdf`; PDF page(s) 59, 60; quotation `J69a83e3638331cdc`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/21`.
 
 - The contractor must maintain a minimum stock of 10% spare PPEs and safety appliances for inspection.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 39.0 — Personal Protective Equipments (PPEs)|Clause 39.0 — Personal Protective Equipments (PPEs)]]; `Vol3DLNP1.pdf`; PDF page(s) 60, 61, 62; quotation `J6dbbd261bc1bffef`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/22`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 39.0 — Personal Protective Equipments (PPEs)|Clause 39.0 — Personal Protective Equipments (PPEs)]]; `Vol3DLNP1.pdf`; PDF page(s) 60, 61, 62; quotation `Jabad25c52d8503b7`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/22`.
 
 - High-visibility jackets and waistcoats provided to workers and traffic marshals must comply with BS EN 471:1994 standards for fluorescent background color and retro-reflective strip patterns.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 39.0 — Personal Protective Equipments (PPEs)|Clause 39.0 — Personal Protective Equipments (PPEs)]]; `Vol3DLNP1.pdf`; PDF page(s) 60, 61, 62; quotation `J6dbbd261bc1bffef`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/22`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 39.0 — Personal Protective Equipments (PPEs)|Clause 39.0 — Personal Protective Equipments (PPEs)]]; `Vol3DLNP1.pdf`; PDF page(s) 60, 61, 62; quotation `Jabad25c52d8503b7`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/22`.
 
 - Housekeeping at work sites, depots, batching plants, and labour camps must include daily cleaning by a dedicated housekeeping group constituted under General Instruction BMRC/SHE/CEO/001, maintaining a register in an approved format.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31; quotation `Jf69272a45aa8032e`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31; quotation `Je6d1413c834ddf84`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/0`.
 
 - Full-height fences, barriers, and barricades must be erected around the site in one line and level to prevent public inconvenience from dust, debris, and excavated soil, with public-facing barricades aesthetically maintained by regular cleaning and painting.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31; quotation `Jf69272a45aa8032e`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31; quotation `Je6d1413c834ddf84`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/0`.
 
 - Working at height regulations require proper planning for emergencies and rescue, appropriate supervision, and ensuring work is carried out only when weather conditions do not jeopardise health or safety, prioritizing collective protection measures over personal protection.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 32; quotation `J4d59a4d0645c3fbf`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 33; quotation `Jfde96d56fc484cc4`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 32; quotation `Jeedd97c39bd5ea1d`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 33; quotation `Jd39618f7e4b22cc8`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/2`.
 
 - Working platforms used for construction work from which a person could fall 2 metres or more must not be used unless inspected in that position, or in the case of mobile working platforms, inspected on site within the previous 7 days.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 35; quotation `J35783b23984f7765`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 35; quotation `J05b4bd20c16212cd`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/4`.
 
 - Guardrails and collective protective means for work at height must feature a top guard-rail at least 950 millimetres above the edge from which a person is liable to fall, alongside suitable and sufficient toe-boards.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 36; quotation `Jbdb9b435d8e903f4`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 36; quotation `Jf1e47bed180c0f6b`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/5`.
 
 - Fragile surfaces must have prominent warning notices affixed at the approach, and persons working on or near them must be provided with suitable and sufficient platforms, coverings, or guard rails to support foreseeable loads.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 34; quotation `J9513274f7f20d619`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 34; quotation `J4409d4e900216d2f`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/3`.
 
 - Guardrail and intermediate protection requirements specify that any gap between an intermediate guardrail and other means of protection must not exceed 470 millimetres.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 37; quotation `J33ed3d57cda4e517`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 37; quotation `J19960e57ab89e39e`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/6`.
 
 - Scaffolding requirements mandate structural calculations or standard configurations, competent supervision during assembly/dismantling, and warning signs when scaffolds are unavailable for use.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 38; quotation `Ja0f34b9ac35c8305`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 38; quotation `Jfa45c23ab68937f8`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/7`.
 
 - Ladders used for work at height must be metal; bamboo ladders are strictly prohibited. Portable and suspended ladders must be secured against slipping or swinging.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `Jc61c2e8ba8123cd3`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `J52be181015732877`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/9`.
 
 - Overhead protection along building peripheries under Rule 41 of BOCWR is required for buildings 15m or above after construction, must be minimum 2m wide, slope inward at an angle not exceeding 200 (notational typo in source text) to the horizontal with the outer edge 150mm higher, and erected at a height of not more than 5m.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `Jc61c2e8ba8123cd3`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `J52be181015732877`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/9`.
 
 - Manual lifting and carrying weight limits under Rule 38 of BOCWR are set at a maximum of 55 kg for adult men and 30 kg for adult women, with combined weight restrictions for multiple workers.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `J91b3e69806245c29`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 46; quotation `J8cc13a15f15bb715`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/15`.
 
 - Site electrical distribution voltage requirements include 400V 3-phase for fixed plant and movable plant over 3.75 kW, 230V single phase for site buildings and fixed flood lighting, and 115V single phase for portable tools, site lighting, and hand lamps.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 47; quotation `J8cc559818e9f4931`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 47; quotation `J5f56babb558900d7`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/16`.
 
 - Electrical safety protection requires ELCBs/RCCBs with a minimum sensitivity of 30 mA for all equipment, switchboards, and distribution panels.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 48; quotation `Jf34bbc6e56aaf620`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/17`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 48; quotation `Jd17e3a90fdf32994`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/17`.
 
 - Plugs, socket-outlets, and couplers at construction sites must be splash-proof with a minimum degree of Ingress Protection of IP44 under BS EN 60529, and weatherproof fittings must be colour-coded for 110V (Yellow), 240V (Blue), and 415V (Red).
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 49; quotation `Ja97c63e86908cc52`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/18`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 49; quotation `Ja9ddeea9fc15b750`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/18`.
 
 - Fixed electrical installations must be inspected at least at three monthly intervals, and equipment must be permanently numbered with inspection records maintained.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 50; quotation `Ja03464710a5d202a`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/19`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 50; quotation `J67c4e92b7ef58dca`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/19`.
 
 - Oxygen and flammable gas cylinders must be stored separately, at least 6.6 meters (20 feet) apart or separated by a fireproof 1.5 meter (5 feet) high partition, with flammable substances strictly prohibited within 15 meters.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 53; quotation `Jd4ae8e157434ed23`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/22`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 53; quotation `Jbab64bfbeadfe6ac`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/22`.
 
 - Electric arc welding current must not exceed 300 A on a hand welding operation, and DCP or CO2 type fire extinguishers not less than 5 kg confirming to IS 2190: 1992 must be placed near the welding zone.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 53; quotation `Jd4ae8e157434ed23`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/22`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 53; quotation `Jbab64bfbeadfe6ac`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/22`.
 
 - Demolition safety measures require checking adjacent structures, ensuring shoring or bracing for unstable structures, removing debris via chutes, buckets, hoists or floor openings, and restricting entry to authorized personnel with substantial barricades.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 55; quotation `Jdcb3c48e22084aac`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/24`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 55; quotation `J8612e576d566fd66`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/24`.
 
 - Excavation safety mandates piling and bracing for banks exceeding 1.5 meters, shoring for undercut banks, storing excavated material at least 0.65 meters from trench edges, and providing metal ladders, staircases, or ramps compliant with IS 3696.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 55; quotation `Jdcb3c48e22084aac`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/24`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 55; quotation `J8612e576d566fd66`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/24`.
 
 - Tunnelling safety requirements include written notification to the Director General 30 days prior to commencement, appointment of a responsible person under BOCWR Rules 121 and 125, emergency power supply for compressed air systems, watertight bulkhead doors, and maximum working chamber temperatures of 29 degrees Celsius.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 56; quotation `J21e90e6538c791d8`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/25`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 55; quotation `Jdcb3c48e22084aac`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/24`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 56; quotation `Jc6480c3a93eb611b`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/25`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 55; quotation `J8612e576d566fd66`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/24`.
 
 - Permit-to-work systems must be implemented for high-risk activities such as confined space entry, working near overhead power lines, hot work, digging near underground services, heavy machinery operation, electrical equipment work, and heavy lifting, with a maximum authorization duration of 12 hours.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 56; quotation `J21e90e6538c791d8`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/25`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 57; quotation `J906a5c528c244560`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/26`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 56; quotation `Jc6480c3a93eb611b`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/25`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 57; quotation `Jee37894331f7ed66`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/26`.
 
 - Traffic management obligations include traffic control devices conforming to IRC: 67, regulatory and warning signs, detour signages, barricades with retro-reflective stripes and red blinking lights, tow-away vans for breakdowns, and continuous road cleaning.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 58; quotation `J0c88ef5aa4649896`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/27`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 57; quotation `J906a5c528c244560`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/26`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 59; quotation `Jc0871b0810621784`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/28`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 58; quotation `J064f0e8813ced45e`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/27`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 57; quotation `Jee37894331f7ed66`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/26`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 59; quotation `J4330867d3b6837b1`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/28`.
 
 - Personal Protective Equipment (PPE) standards mandate Bureau of Indian Standards (BIS) conformity, high-visibility jackets with reflective tapes conforming to BS EN 471: 1994, and mandatory safety helmets, footwear, and apparel for all personnel and traffic marshals.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 60; quotation `J88c0835d94c22d50`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/29`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 57; quotation `J906a5c528c244560`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/26`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 60; quotation `Jdeb26e500ffd2a05`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/29`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 57; quotation `Jee37894331f7ed66`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/26`.
 
 - Contractors must maintain a minimum of 10% spare Personal Protective Equipment (PPE) and safety appliances, making them available for inspection by the Employer.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 62; quotation `Jfd70aa97610db08f`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/31`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 62; quotation `J1d1657758880c7f9`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/31`.
 
 - Helmet colour coding assigns White to BMRC staff, Grey to designers/consultants, Violet to main contractors, Blue to subcontractors, Red to electricians, Green to safety professionals, Orange to security/traffic marshals, and Yellow to workmen.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 61; quotation `Jbf76f1aaab05dae5`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/30`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 61; quotation `J7c92d285fc568dff`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/30`.
 
 - Contractors are required to prepare a formal response to each received environmental complaint within seven days where possible.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 63; quotation `J5a136ead5ee11b47`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/32`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 63; quotation `J011e1f1b4bb02021`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/source_page_context/32`.
 
 - Every contractor must ensure that a ladder is used for work at height only if a risk assessment demonstrates that more suitable work equipment is unjustified due to low risk and short duration or unalterable site features; metal ladders are allowed while bamboo ladders are strictly prohibited.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `J4f7307af0188e62d`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `Jd279c4e4cfdf35c3`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/8`.
 
 - Where a ladder or run of ladders raises a vertical distance of 9 metres or more above its base, sufficient safe landing areas or rest platforms must be provided at suitable intervals where reasonably practicable.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `J4f7307af0188e62d`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]; `Vol3DLNP1.pdf`; PDF page(s) 40; quotation `Jd279c4e4cfdf35c3`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/1/fragments/8`.
 
 - All lifting crane booms must be in perfect condition at all times; telescopic booms must be free from cracks, rust, flaking, cracked paint, bulges, greases, or varnishes, and no boom section with a bent lattice member is allowed.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 21.0 — Lifting Appliances and Gear|Clause 21.0 — Lifting Appliances and Gear]]; `Vol3DLNP1.pdf`; PDF page(s) 43; quotation `Jef941ed42ffc8c52`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/4/fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 21.0 — Lifting Appliances and Gear|Clause 21.0 — Lifting Appliances and Gear]]; `Vol3DLNP1.pdf`; PDF page(s) 43; quotation `J7de3b9ae72bffb1e`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/4/fragments/2`.
 
 - Rigging operations must be executed under an experienced and qualified rigger, requiring weight assessment before every lift, master rings on all hooks with fitness certificates, and exclusively four-legged slings, while hand-spliced slings up to 32mm diameter are prohibited.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 21.0 — Lifting Appliances and Gear|Clause 21.0 — Lifting Appliances and Gear]]; `Vol3DLNP1.pdf`; PDF page(s) 43; quotation `Jef941ed42ffc8c52`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/4/fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 21.0 — Lifting Appliances and Gear|Clause 21.0 — Lifting Appliances and Gear]]; `Vol3DLNP1.pdf`; PDF page(s) 43; quotation `J7de3b9ae72bffb1e`. JSON: `parsed_json/vol3/part_2_safety/safety_clauses.json#/clauses/4/fragments/2`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
@@ -16094,7 +16876,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Typed Relations
 
 - **belongs_to (editorial, inferred):** [[wiki/index|BMRCL Wiki Index]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63; `Sb4784752b2ce23d2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]; `Vol3DLNP1.pdf`; PDF page(s) 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63; `S822d4864d35ef696`.
 
 ## Open Questions and Contradictions
 
@@ -16103,13 +16885,13 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### Sb4784752b2ce23d2
+### S822d4864d35ef696
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
 > This part contains Part II (Safety) of Section I (SHE - Manual) in Volume 3 of BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`.
 
-### J362ee260db115362
+### Jfe00e9e3f16ea133
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -16119,7 +16901,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "                                PART – II : SAFETY"
 > }
 
-### J73c08c6837783f08
+### J1c223e3acbf93b41
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -16128,7 +16910,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "PART – II : SAFETY"
 > }
 
-### J6cb3b0a3b5e68f12
+### Jf6459aed7523a7bb
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 17.0 — Housekeeping|Clause 17.0 — Housekeeping]]
 
@@ -16671,7 +17453,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Housekeeping"
 > }
 
-### J8e1c6f3cd6dcdf75
+### J6858219ae1500a56
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]
 
@@ -16680,7 +17462,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "18.0    Working at Height\n\n\n18.1     Definitions\n\n\n18.1.1   “access” and “egress” include ascent and descent.\n\n\n18.1.2   “fragile surface” means a surface, which would be able to fail  if any reasonably\n         foreseeable loading were to be applied to it.\n\n\n18.1.3   “line” includes rope, chain or webbing\n\n\n18.1.4   “personal fall protection” means -\n\n          a)   a  fall prevention, work  restraint, work positioning,  fall arrest or rescue\n               system,   other than a system in which the only safeguards are collective\n               safeguards; or\n          b)    rope access and positioning techniques;\n\n\n18.1.5    \"work at height\" means -\n           a)   work in any place, including a place at or below ground level;\n           b)    obtaining access to or egress from such place while at work, except by a\n                staircase in a permanent workplace,\n              where,  if protective measures were not taken, a person could fall a distance\n                   liable to cause personal injury;\n\n\n18.1.6    \"work equipment\" means any machinery, appliance, apparatus, tool or installation for\n        use at work (whether exclusively or not) and includes\n          a)   a guard-rail, toe-board, barrier or similar collective means of protection\n          b)   a working platform\n           c)   a net, airbag or other collective safe guard for arresting falls.\n          d)    personal fall protection system\n          e)    ladders\n\n18.1.7    “working platform”\n          a)   means any platform used as a place of work or as a means of access to or\n              egress from a place of work;"
 > }
 
-### J72310a853af6ecd5
+### Jef0f35e0346df447
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]
 
@@ -16689,7 +17471,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "b)    includes any scaffold, suspended scaffold, cradle, mobile platforms,  trestle,\n                      gangway, gantry and stairway which is so used.\n\n\n          18.2     Organisation and planning\n\n                The contractor shall ensure that work at height is\n\n                                 i)     properly planned for any emergencies and rescue\n\n                                    ii)    appropriately supervised; and\n\n                                     iii)    carried out in a manner, which is reasonably practicable safe.\n\n\n          18.3    The contractor shall ensure that work at height is carried out only when the weather\n                    conditions do not jeopardise the health or safety of persons involved in the work.\n\n\n          18.4     Competence\n\n                The  contractor  shall ensure  that no person engages  in any  activity,  including\n                     organization, planning and supervision, in relation to work at height or work equipment\n                       for use in such work unless he is competent to do so or,  if being trained, is being\n                   supervised by a competent person.\n\n\n          18.5     Avoidance of risks from work at height\n\n                The contractor shall ensure that work is not carried out at height where it is reasonably\n                     practicable to carry out the work safely otherwise than at height.\n\n\n          18.6    Where work is carried out at height, the contractor shall take suitable and sufficient\n                 measures as given below to prevent, so far as is reasonably practicable, any person\n                      falling a distance liable to cause personal injury.\n\n\n                     a)    his ensuring that the work is carried out\n\n                                           i)    from an existing place of work; or\n\n                                              ii)     (in the case of obtaining access or egress) using an existing means,\n                             complying to the requirements as given in clause 18.15 .\n\n                      where  it is reasonably practicable to carry  it out safely and under appropriate\n                       ergonomic conditions; and\n\n\n                     b)   where  it is not reasonably practicable for the work to be carried out in\n                       accordance with sub-paragraph (a), his providing sufficient work equipment\n                              for preventing, so far as is reasonably practicable, a fall occurring.\n\n\n          18.7    Where the measures taken under clause 18.6 do not eliminate the risk of a fall\n                     occurring, every contractor shall\n\n                     a)   so far as is reasonably practicable, provide sufficient work equipment to\n                        minimise -\n\n                                           i)     the distance and consequences; or\n\n                                              ii)    where  it is not reasonably practicable to minimise the distance, the\n                            consequences, of a fall; and\n\n                     b)    Without prejudice to the generality of clause 18.4 provide such additional\n                             training and  instruction or take other  additional suitable and  sufficient\n                     measures to prevent, so far as is reasonably practicable, any person falling\n                     a distance liable to cause personal injury.\n\n\n          18.8      Selection of ‘work equipment’ for work at height\n\n\n                     1)    the contractor, in selecting work equipment for use in work at height, shall\n\n                           a)    give collective protection measures priority over personal protection\n                            measures; and\n\n                           b)    take account of"
 > }
 
-### J3396676939c10d71
+### J27dfb16cb7aa5e0c
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]
 
@@ -16698,7 +17480,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "i)     the working conditions and the risks to the safety of persons at\n                           the place where the work equipment is to be used;\n\n                                       ii)     in the case of work equipment for access and egress, the\n                           distance to be negotiated;\n\n                                        iii)    the distance and consequences of a potential fall;\n\n                             iv)    the duration and frequency of use;\n\n                        v)    the need  for easy and timely evacuation and rescue in an\n                        emergency; and\n\n                             vi)   any additional risk posed by the use, installation or removal of\n                              that work equipment or by evacuation and rescue from it;\n\n\n          2)   The contractor shall select work equipment for work at height which:\n\n\n                a)   has characteristics including dimensions which:\n\n                                    i)    are appropriate to the nature of the work to be performed and\n                           the foreseeable loadings; and\n\n                                       ii)    allow passage without risk; and\n\n                b)     is in other respects the most suitable work equipment, having regard\n                          in particular to the purposes specified in 18.5 and 18.6 .\n\n\n18.9      Fragile surfaces\n\n\n18.9.1   The contractor shall ensure that no person at work passes across or near, or\n         working on, from or near, a fragile surface where  it is reasonably practicable to\n          carry out work safely and under appropriate ergonomic conditions without his\n         doing so.\n\n\n18.9.2   Where   it  is not reasonably practicable  to carry out work  safely and under\n          appropriate ergonomic conditions without passing across or near, or working on,\n         from or near, a fragile surface, every contractor shall,\n\n\n          a)    ensure, so far as  is reasonably practicable, that suitable and sufficient\n                platforms, coverings, guard rails or similar means of support or protection\n               are provided and used so that any foreseeable loading is supported by such\n               supports or borne by such protection;\n\n\n          b)   where a risk of a person at work falling remains despite the measures taken\n              under the preceding provisions of this regulation, take suitable and sufficient\n             measures to minimise the distances and consequences of his fall.\n\n\n18.9.3   Where any person at work may pass across or near, or work on, from or near, a\n            fragile surface, every contractor shall ensure that\n\n          a)    prominent warning notices are so far as is reasonably practicable affixed at\n                the approach to the place where the fragile surface is situated; or\n\n          b)   where that is not reasonably practicable, such persons are made aware of it\n              by other means.\n\n\n18.10     Falling objects\n\n\n18.10.1  The contractor  shall, where necessary to prevent injury to any person, take\n          suitable and sufficient steps to prevent, so far as is reasonably practicable, the fall\n           of any material or object.\n\n\n18.10.2  Where  it is not reasonably practicable to comply with the requirements of 18.9,\n         every contractor shall take suitable and sufficient steps to prevent any person\n         being struck by any falling material or object which is liable to cause personal\n            injury."
 > }
 
-### Jebd4d2e3f8dc5d1d
+### J8245b2bcf4357532
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]
 
@@ -16707,7 +17489,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "18.10.3  The contractor shall ensure that no material or object is thrown or tipped from\n                    height in circumstances where it is liable to cause injury to any person.\n\n\n          18.10.4  Every employer shall ensure that materials and objects are stored in such a way\n                 as  to prevent  risk  to any person  arising from the  collapse, overturning or\n                  unintended movement of such materials or objects.\n\n\n         18.11    Danger areas\n\n\n          18.11.1  Without prejudice to the preceding requirements of these Regulations, every\n                     contractor shall ensure that\n\n                     a)   where a workplace contains an area in which, owing to the nature of the\n                         work, there is a risk of any person at work\n\n                                           i)      falling a distance; or\n\n                                              ii)    being struck by a falling object,\n\n                       which  is liable to cause personal  injury, the workplace  is so far as  is\n                        reasonably  practicable equipped  with devices  preventing unauthorised\n                       persons from entering such area; and\n\n                     b)   such area is clearly indicated.\n\n\n         18.12    Inspection of work equipment\n\n\n          18.12.1  The contractor shall ensure that, where the safety of work equipment depends on\n               how it is installed or assembled, it is not used after installation or assembly in any\n                     position unless it has been inspected in that position.\n\n\n          18.12.2  The contractor shall ensure that work equipment exposed to conditions causing\n                     deterioration which is liable to result in dangerous situations is inspected\n\n                     a)    at suitable intervals; and\n\n                     b)   each time that exceptional circumstances which are liable to jeopardise the\n                          safety of the work equipment have occurred,\n\n                      to ensure  that  health and  safety  conditions  are maintained and  that any\n                     deterioration can be detected and remedied in good time.\n\n\n          18.12.3  Without prejudice to paragraph 18.12.1, the contractor shall ensure that a working\n                    platform\n\n                     a)   used for construction work; and\n\n                     b)    from which a person could fall 2 metres or more,\n\n                         is not used in any position unless it has been inspected in that position or, in the\n                 case of a mobile working platform, inspected on the site, within the previous 7\n                   days.\n\n\n          18.12.4  The contractor  shall ensure  that the reports  of  all inspections are properly\n                   maintained and shown to the Employer as and when required.\n\n\n          18.12.5   In this clause \"inspection\",\n\n                     a)   means such visual or more rigorous inspection by a competent person as is\n                          appropriate for safety purposes;\n\n                     b)    includes any testing appropriate for those purposes,\n\n\n         18.13    Inspection of places of work at height\n\n\n          18.13.1  The contractor shall so far as is reasonably practicable ensure that the surface\n                and every parapet, permanent rail or other such fall protection measure of every\n                   place of work at height are checked on each occasion before the place is used."
 > }
 
-### Jd60de5aba5750378
+### Je7e996b73e1f0706
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]
 
@@ -16716,7 +17498,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "18.14    Duties of persons at work\n\n\n18.14.1  Any workmen employed by the contractor shall report to the supervisor about any\n          defect relating to work at height which he knows is likely to endanger the safety of\n          himself or another person.\n\n\n18.14.2  Every workmen shall use any work equipment or safety device provided to him for\n         work at height by the contractor, in accordance with\n\n\n          a)   any training in the use of the work equipment or device concerned which\n             have been received by him; and\n\n          b)    the instructions respecting that use which have been provided to him by the\n                contractor as per the requirements of the Employer\n\n\n18.15    Requirements for existing places of work and means of access or egress at height\n         Every existing place of work or means of access or egress at height shall\n\n\n          a)   be stable and of sufficient strength and rigidity for the purpose for which it is\n               intended to be or is being used;\n\n          b)   where applicable, rest on a stable, sufficiently strong surface;\n\n           c)   be of sufficient dimensions to permit the safe passage of persons and the\n               safe use of any plant or materials required to be used and to provide a safe\n               working area having regard to the work to be carried out there;\n\n          d)   possess suitable and sufficient means for preventing a fall;\n\n          e)   possess a surface which has no gap\n\n                          i)    through which a person could fall;\n\n                            ii)    through which any material or object could fall and injure a person; or\n\n                             iii)    giving rise to other risk of injury to any person, unless measures have\n                  been taken to protect persons against such risk;\n\n               f)    be so constructed and used, and maintained  in such condition, as to\n                prevent, so far as is reasonably practicable -\n\n                          i)     the risk of slipping or tripping; or\n\n                            ii)    any person being caught between it and any adjacent structure;\n\n          g)   where   it has moving parts, be prevented by appropriate devices from\n             moving inadvertently during work at height.\n\n\n18.16    Requirements for guardrails, toe-boards, barriers and similar collective means of\n          protection\n\n\n                i)    Unless the context otherwise requires, any reference in this section to\n            means of protection is to a guardrail, toe-board, barrier or similar collective\n            means of protection.\n\n                  ii)   Means of protection shall\n\n                a)   be of sufficient dimensions, of sufficient strength and rigidity for the\n                   purposes for which they are being used, and otherwise suitable;\n\n                b)   be so placed, secured and used as to ensure, so far as is reasonably\n                       practicable, that they do not become accidentally displaced; and\n\n                 c)   be so placed as to prevent, so far as is practicable, the fall of any\n                     person, or of any material or object, from any place of work.\n\n                  iii)    In relation to work at height involved in construction work\n\n                a)    the top guard-rail or other similar means of protection shall be at least\n                  950 millimetres above the edge from which any person is liable to fall;\n\n                b)    toe-boards shall be suitable and sufficient to prevent the fall of any\n                     person, or any material or object, from any place of work; and"
 > }
 
-### J459842af1f243bdb
+### Jd5eba89a289ed716
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]
 
@@ -16725,7 +17507,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "c)   any intermediate guardrail or similar means of protection shall be\n                                positioned so that any gap between  it and other means of protection\n                           does not exceed 470 millimetres.\n\n                          iv)   Any structure or part of a structure which supports means of protection or to\n                       which means of protection are attached shall be of sufficient strength and\n                           suitable for the purpose of such support or attachment.\n\n\n         18.17    Requirements for all Working Platforms\n\n\n                                 i)    Every working platforms requires a supporting structure for holding it\n\n                                    ii)   Any surface upon which any supporting structure rests shall be stable, of\n                              sufficient  strength and  of  suitable  composition  safely  to  support  the\n                         supporting structure, the working platform and any loading intended to be\n                        placed on the working platform.\n\n                                    iii).    Stability of supporting structure\n\n                    Any supporting structure shall\n\n                           a)   be suitable and of sufficient strength and rigidity for the purpose for\n                            which it is being used;\n\n                           b)     in the case of a wheeled structure, be prevented by appropriate\n                              devices from moving inadvertently during work at height;\n\n                            c)     in other cases, be prevented from slipping by secure attachment to\n                               the bearing surface or to another structure, provision of an effective\n                                      anti-slip device or by other means of equivalent effectiveness;\n\n                           d)   be stable while being erected, used and dismantled; and\n\n                           e)   when altered or modified, be so altered or modified as to ensure that it\n                             remains stable.\n\n                                      f)    Have suitable base plates and properly footed thereby.\n\n\n                            iv).    Stability of working platforms\n\n                  A working platform shall\n\n                           a)   be suitable and of sufficient strength and rigidity for the purpose or\n                            purposes for which it is intended to be used or is being used;\n\n                           b)   be so erected and used as to ensure that  its components do not\n                        become accidentally displaced so as to endanger any person;\n\n                            c)   when altered or modified, be so altered or modified as to ensure that it\n                             remains stable; and\n\n                           d)   be dismantled in such a way as to prevent accidental displacement.\n\n\n                      v)    Safety on working platforms\n\n                  A working platform shall\n\n                           a)   be of sufficient dimensions to permit the safe passage of persons and\n                               the safe use of any plant or materials required to be used and to\n                               provide a safe working area having regard to the work being carried\n                               out there;\n\n                           b)   possess a suitable surface and, in particular, be so constructed that\n                               the surface of the working platform has no gap\n\n                                                     i)      through which a person could fall;\n\n                                                         ii)      through which any material or object could fall and injure a\n                                      person; or\n\n                                                          iii)      giving  rise  to other  risk  of  injury  to any person, unless\n                                 measures have been taken to protect persons against such\n                                                 risk; and\n\n                            c)   be so erected and used, and maintained in such condition, as to\n                                prevent, so far as is reasonably practicable\n\n                                                     i)       the risk of slipping or tripping; or\n\n                                                         ii)     any person being caught between the working platform and\n                                  any adjacent structure."
 > }
 
-### J3340c21e9aa1985b
+### J8a6b15093c501d97
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]
 
@@ -16734,7 +17516,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "vi)   Loading\n\n           A working platform and any supporting structure shall not be loaded so as to\n                give rise to a risk of collapse or to any deformation, which could affect its\n               safe use.\n\n\n              vii)   Additional requirements for scaffolding\n\n               Strength and stability calculations for scaffolding shall be carried out unless\n\n                a)   a note  of the  calculations, covering the  structural arrangements\n                     contemplated, is available; or\n\n                b)       it is assembled in conformity with a generally recognised standard\n                       configuration.\n\n\n               viii)  Depending on the complexity of the scaffolding selected, a competent\n              person shall draw up an assembly, use and dismantling plan. This may be\n                   in the form of a standard plan, supplemented by items relating to specific\n                  details of the scaffolding in question.\n\n\n             ix)  A copy of the plan, including any instructions  it may contain, shall be kept\n                available  for  the use  of  persons  concerned  in  the  assembly,  use,\n                dismantling or alteration of scaffolding until it has been dismantled.\n\n\n           x)   The dimensions form and layout of scaffolding decks shall be appropriate to\n                the nature of the work to be performed and suitable for the loads to be\n                 carried and permit work and passage in safety.\n\n\n             xi)   While a scaffold  is not available for use, including during  its assembly,\n                dismantling or alteration,  it shall be marked with general warning signs in\n              accordance with and be suitably delineated by physical means preventing\n              access to the danger zone.\n\n\n              xii)   Scaffolding may be assembled, dismantled or  significantly altered only\n              under the supervision of a competent person and by persons who have\n               received appropriate and specific training in the operations envisaged which\n              addresses specific risks which the operations may entail and precautions to\n             be taken, and more particularly in\n\n                a)    understanding of the plan for the assembly, dismantling or alteration\n                        of the scaffolding concerned;\n\n                b)    safety during the assembly, dismantling or alteration of the scaffolding\n                    concerned;\n\n                 c)   measures to prevent the risk of persons, materials or objects falling;\n\n                d)    safety measures in the event of changing weather conditions which\n                     could adversely affect the safety of the scaffolding concerned;\n\n                e)    permissible loadings;\n\n                       f)    any other risks which the assembly, dismantling or alteration of the\n                       scaffolding may entail.\n\n\n18.18    Requirements for collective safeguards for arresting falls\n\n\n                i)     Collective safeguard are a safety net, airbag or other collective safeguard\n                  for arresting falls\n\n\n                  ii)   A safeguard shall be used only if\n\n                a)   a risk assessment has demonstrated that the work activity can so far\n                   as is reasonably practicable be performed safely while using  it and\n                      without affecting its effectiveness;"
 > }
 
-### J2120a326c1a964f9
+### Jdf3f975578813097
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]
 
@@ -16743,7 +17525,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "b)    the use of other, safer work equipment is not reasonably practicable;\n                          and\n\n                            c)   a sufficient number of available persons have received adequate\n                                    training specific to the safeguard, including rescue procedures.\n\n\n                                     iii)   A safeguard shall be suitable and of sufficient strength to arrest safely the\n                                     fall of any person who is liable to fall.\n\n\n                          iv)   A safeguard shall\n\n                           a)     in the case of a safeguard which  is designed to be attached, be\n                               securely attached to all the required anchors, and the anchors and the\n                        means  of attachment  thereto  shall be  suitable and  of  sufficient\n                                strength and  stability  for  the purpose  of  safely  supporting  the\n                               foreseeable loading in arresting any fall and during any subsequent\n                               rescue;\n\n                           b)     in the case of an airbag, landing mat or similar safeguard, be stable;\n                          and\n\n                            c)     in the case of a safeguard, which distorts in arresting a fall, afford\n                                     sufficient clearance.\n\n\n                                          iv)      Suitable and sufficient steps shall be taken to ensure, so far\n                                  as practicable, that in the event of a fall by any person the\n                                     safeguard does not itself cause injury to that person.\n\n\n         18.19    Requirements for personal fall protection systems\n\n                                 i)   A personal fall protection system shall be used only if\n\n                           a)   a risk assessment has demonstrated that\n\n                                                     i)     the work can so far as is reasonably practicable be performed\n                                       safely while using that system; and\n\n                                                         ii)    the use  of  other  safer work equipment  is  not reasonably\n                                        practicable; and\n\n                           b)    the user and a sufficient number of available persons have received\n                            adequate  training  specific  to the operations envisaged,  including\n                             rescue procedures.\n\n\n                                    ii)   A personal fall protection system shall\n\n                           a)   be suitable and of sufficient strength for the purposes for which  it is\n                              being used having regard to the work being carried out and any\n                               foreseeable loading;\n\n                           b)   where necessary, fit the user;\n\n                            c)   be correctly fitted;\n\n                           d)   be designed to minimise injury to the user and, where necessary, be\n                               adjusted to prevent the user falling or slipping from  it, should a fall\n                                occur; and\n\n                           e)   be so designed,  installed and used as to prevent unplanned or\n                                uncontrolled movement of the user.\n\n\n                                     iii)   A personal fall protection system designed for use with an anchor shall be\n                         securely attached to at least one anchor, and each anchor and the means of\n                        attachment thereto shall be suitable and of sufficient strength and stability\n                              for the purpose of supporting any foreseeable loading.\n\n\n                          iv)    Suitable and sufficient steps shall be taken to prevent any person falling or\n                            slipping from a personal fall protection system."
 > }
 
-### J203b90de78c7ba52
+### J4fff6da0bc3af279
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 20.0 — Slipping, Tripping, Cutting, Drowning and Falling Hazards|Clause 20.0 — Slipping, Tripping, Cutting, Drowning and Falling Hazards]]
 
@@ -16921,7 +17703,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Slipping, Tripping, Cutting, Drowning and Falling Hazards"
 > }
 
-### J5ff58b37257f71d1
+### J95801a60726af7cf
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 19.0 — Overhead protection|Clause 19.0 — Overhead protection]]
 
@@ -17040,7 +17822,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Overhead protection"
 > }
 
-### J23fa6c9ebab2ba02
+### Jba7c59507e89164a
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 21.0 — Lifting Appliances and Gear|Clause 21.0 — Lifting Appliances and Gear]]
 
@@ -17049,7 +17831,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "21.11.9  No close working to any  live overhead power  line  is permitted without the\n         operation of a strict Permit to Work.\n\n\n21.11.10 Minimum lighting is to be ensured at all lifting operations.\n\n\n21.12    Failure to do any of the above shall attract penalty from the Employer as per\n         relevant clause"
 > }
 
-### J885c7e78c6927b04
+### J8980ba13bcfef2bb
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 22.0 — Launching Operation|Clause 22.0 — Launching Operation]]
 
@@ -17487,7 +18269,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Launching Operation"
 > }
 
-### Jbff97c59f82a7339
+### Jfd870409d4a32684
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 21.0 — Lifting Appliances and Gear|Clause 21.0 — Lifting Appliances and Gear]]
 
@@ -17496,7 +18278,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "21.6    The contractor shall also maintain a register containing a system of identification\n           of all tools and tackles, its date of purchase, safe working load, competent person\n         date of examination etc.\n\n\n21.7     Test and periodical examination of lifting appliances and gears\n\n\n21.7.1     All  lifting appliances including  all parts and gears  thereof, whether  fixed or\n        movable shall be thoroughly tested and examined by a competent person once at\n           least in every six months or after it has undergone any alterations or repairs liable\n           to affect its strength or stability. Within the validity,  if the lifting appliances are\n           shifted to a new site, re-examination by the same competent person for ensuring\n              its safety shall also be done.\n\n21.7.2    Contractors can  utilise the services of any competent person as defined  in\n          Factories Act, 1948 and approved by Chief Inspector  of Factories with the\n         permission of the Employer.\n\n\n21.7.3     All alarms and signals  like automatic safe load indicators (SLI), boom angle\n           indicators, boom extension indicators, over lift boom alarm, swing alarm, hydraulic\n          safety valves, mechanical radius indicators, load moment indicators etc. shall be\n           periodically examined and maintained always in working condition\n\n\n21.8     Automatic safe load indicators\n\n\n21.8.1   As stipulated in Rule 78 of BOCWKR 2006, no lifting appliances gear or any\n         other material handling appliance is used, if:\n\n                i)     the  Inspector  having  jurisdiction  is  not  satisfied  with  reference  to a\n                   certification of test or examination or to an authenticated record maintain as\n               provided under these rules; and\n\n                  ii)     in the view of such Inspector, the lifting appliance, lifting gear or any other\n                material  handling  appliance  is  not  safe  for use  in  building  or  other\n                construction work; and\n\n                  iii)   no pulley block is used in building or other construction work unless the safe\n               working load and its identification are clearly marked on such block.\n\n\n21.9      Qualification of operator of lifting appliances and of signaller etc\n\n\n21.9.1   The contractor shall not employ any person to drive or operate a lifting machine\n            like crane, hydra etc whether driven by mechanical power or otherwise or to give\n          signals to work as a operator of a rigger or derricks unless he\n\n                i)      is above twenty-one years of age and possesses a valid heavy transport\n                vehicle driving licence as per Motor Vehicle Act and Rules.\n\n                  ii)     is absolutely competent and reliable\n\n                  iii)   possesses the knowledge of the inherent risks involved in the operation of\n                      lifting appliances by undergoing a formal  training  at any  institution  of\n                national importance acceptable to Employer\n\n             iv)     is medically examined periodically as specified in schedule VII of BOCW\n               Rules.\n\n\n21.10    General requirements of appliances\n\n\n21.10.1   Out-of level\n\n\n21.10.1.1 One of the most severe effects of being out-of fit level is that side loads develop in\n          the boom. Because of side loads all mobile cranes lose capacity rapidly as the\n         degree of out-of-level increases and therefore"
 > }
 
-### Jda21eec19c54839f
+### J9d64498c4cd584d9
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 21.0 — Lifting Appliances and Gear|Clause 21.0 — Lifting Appliances and Gear]]
 
@@ -17505,7 +18287,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "21.0      Lifting Appliances and Gear\n\n\n          21.1       Lifting appliances means a crane, hoist machinery, derrick, winch, gin pole, sheer\n                      legs, jack, hoist drum, slewing machinery, slewing bearing fasteners,  loffing\n                  machinery sheaves, pulley blocks, hooks or other equipment used  for  lifting\n                     materials, objects or building workers and lifting gears means ropes, chain slings,\n                    shackles, hooks, lifting lugs, wire ropes, lifting eyebolts and eyenuts and other\n                   accessories of a lifting appliance.\n\n\n          21.2    No machine shall be selected to do any lifting on a specific job until its size and\n                     characteristics are considered against:\n\n\n                                 i)     the weights, dimensions and lift radii of the heaviest and largest loads\n\n                                    ii)    the maximum lift height, the maximum lift radius and the weight of the loads\n                            that must be handled at each\n\n                                     iii)    the number and frequency of lifts to be made\n\n                          iv)   how long the crane will be required on site\n\n                      v)    the type of lifting to be done (for example, is precision placement of loads\n                          important?)\n\n                          vi)    the type of carrier required (this depends on ground conditions and machine\n                          capacity In its operating quadrants) capacity is normally greatest over the\n                             rear, less over the side, and non-existent over the front\n\n                             vii)   whether loads will have to be walked or carried\n\n                               viii)  whether loads will have to be suspended for lengthy periods\n\n                          ix)    the site conditions, including the ground where the machine will be set up,\n                       access roads and ramps it must travel, space for erection and any obstacles\n                            that might impede access or operation\n\n\n          21.3    The contractor shall ensure that a valid certificate of fitness issued as per clause\n                   21.5  is available for all lifting appliances including synchronised mobile jacks, pre-\n                    stressing hydraulic jacks, jacks fitted with launching girders etc. and Employers\n                   approval before inducting to the site. Only after obtaining the approval from the\n                Employer any lifting appliances and gear shall be used.\n\n\n          21.4    The laminated photocopies  of  fitness  certificate issued by competent\n                  person, the Employers’ approval letter, the operators’ photo, manufacturer’s\n                  load chart and competency certificate shall always be either kept in the\n                  operator cabin or pasted on the visible surface of the lifting appliances.\n\n\n          21.5      All lifting appliances and loose gears shall be clearly marked for its safe\n                 working load and identification by stamping or other suitable means."
 > }
 
-### J026fff02246527c2
+### Jf2bd3cd66c8c5306
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]
 
@@ -17514,7 +18296,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "26.7      Electrical protection circuits\n\n26.7.1    Precautions shall be taken, either by earthing or by other suitable means, to prevent\n         danger arising when any conductor (other than a  circuit conductor) which may\n         reasonably foreseeable become charged as a result of either the use of a system, or a\n            fault in a system, becomes so charged. A conductor shall be regarded as earthed\n        when conductors of sufficient strength and current-carrying capability to discharge\n           electrical energy to earth connect it to the general mass of earth.\n\n                If a circuit conductor is connected to earth or to any other reference point, nothing\n         which might reasonably be expected to give rise to danger by breaking the electrical\n           continuity or introducing high impedance shall be placed in that conductor unless\n          suitable precautions are taken to prevent that danger.\n\n\n26.7.2    Appropriate electrical protection shall be provided for all circuits, against over load,\n          short circuit and earth fault current.\n\n\n26.7.3   The contractor shall provide sufficient ELCBs (maintain sensitivity 30 mA) / RCCBs for\n              all the equipments (including Potable equipments), electrical switchboards, distribution\n         panels etc. to prevent electrical shocks to the workers.\n\n\n26.7.4     All protection devices shall be capable of interrupting the circuit without damage to any\n         equipments and circuits in case of any fault may occur.\n\n\n26.7.5    Rating of fuses and circuit breakers used for the protection of circuits should be\n          coordinate with equipment power ratings.\n\n\n26.7.6    Protection against lightning shall be ensured to all equipment kept in open at sites.\n\n\n26.8     Cables:\n\n\n26.8.1   Cables shall be selected after full consideration of the condition to which they shall be\n        exposed and the duties for which they are required. Supply cable up to 3.3 kV shall be\n            in accordance with BS 6346.\n\n\n26.8.2   For supplies to mobile or transportable equipment where operating of the equipment\n          subjects the cable to flexing, the cable shall conform to any of these codes BS 6007 /\n       BS 6500 / BS 7375.\n\n\n26.8.3    Flexible cords with a conductor cross sectional area smaller than 1.5 mm2 shall not be\n        used and insulated flexible cable shall conform to BS 6500 and BS 7375.\n\n\n26.8.4   Where low voltage cables are to be used, reference shall be made to BS 7375. The\n          following standards shall also be referred to particularly for under ground cables BS\n        6346 and BS 6708\n\n\n26.8.5   Cables buried directly in the ground shall be of a type incorporating armour or metal\n         sheath or both. Such cables shall be marked by cable covers or a suitable marking\n         tape and be buried at a  sufficient depth to avoid  their being damaged by any\n          disturbance of the ground. Cable routes shall be marked on the plans kept in the site\n           electrical register.\n\n26.8.6    Cabling passing under the walk way and across way  for transport and mobile\n         equipment shall be laid in ducts at a minimum depth of 0.6 meters.\n\n26.8.7   Cables that need to cross open areas, or where span of 3m or more are involved, a\n         catenary wire on poles or other supports shall be provided for convenient means of\n         suspension. Minimum height shall be 6 m above ground.\n\n\n26.8.8   Cables carrying a voltage to earth in excess of 65V other than supply for welding\n         process shall have metal armour or sheath, which has been effectively earthed and\n         monitored by the contractor. In case of flexible and trailing cables such earthed metal"
 > }
 
-### J2f53f09be3750d34
+### J856783321be77500
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 24.0 — Machine and general area guarding|Clause 24.0 — Machine and general area guarding]]
 
@@ -17578,7 +18360,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Machine and general area guarding"
 > }
 
-### J6ae0bbd040f38caf
+### J1be7784c33e49a71
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 25.0 — Manual lifting and carrying of excessive weight|Clause 25.0 — Manual lifting and carrying of excessive weight]]
 
@@ -17712,7 +18494,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Manual lifting and carrying of excessive weight"
 > }
 
-### J85cb8851adc8cf4a
+### J0bae92fd8baf7920
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 23.0 — Construction machinery|Clause 23.0 — Construction machinery]]
 
@@ -18235,7 +19017,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Construction machinery"
 > }
 
-### J8f51c956fc10b82b
+### Jed4a04ce29862e22
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]
 
@@ -18244,7 +19026,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "26.0      Site Electricity\n\n26.1     Competency of Electrical personnel:\n\n26.1.1   The contractor shall employ qualified and competent electrical personnel as\n         specified in general instruction BMRC/SHE/CEO/001.\n\n\n26.2     Assessment of power"
 > }
 
-### J9f0932e31acfeb4a
+### J68936454e52d6e69
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 27.0 — Lighting:|Clause 27.0 — Lighting:]]
 
@@ -18627,7 +19409,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Lighting:"
 > }
 
-### Jacfcf580da82fece
+### J5155320727bec14b
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]
 
@@ -18636,7 +19418,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "sheath and/or armour should be in addition to the earth core in the cable and shall not\n                be used as the protective conductor.\n\n\n          26.8.9   Armoured cables having an over-sheath of polyvinyl chloride (PVC) or an  oil\n                      resisting and flame retardant compound shall be used whenever there is a risk of\n                  mechanical damage occurring\n\n\n          26.9     Plugs, socket-outlets and couplers:\n\n\n          26.9.1   The contractor shall ensure plugs, socket-outlets, and couplers available in\n                  the construction  site as “splash proof” type. The minimum degree of\n                  Ingress Protection should be of IP44 in accordance with BS EN 60529.\n\n\n          26.9.2   Only plugs and fittings of the weatherproof type shall be used and they should be colour\n                 coded in accordance with the Internationally recognised standards for example as detailed\n                 as follows:\n\n                      (a)   110 volts : Yellow.\n\n                      (b)   240 volts : Blue.\n\n                       (c)   415 volts : Red.\n\n         26.10    Connections\n\n          26.10.1  Every joint and connection in a system shall be mechanically and electrically\n                   suitable  for  use  to  prevent  danger.  Proper  cable  connectors  as  per\n                    national/international standards shall only be used to connect cables.\n\n          26.10.2  No loose connections or tapped joints shall be allowed any where in the work\n                       site, office area, stores and other areas. Penalty as per relevant clause shall be\n                  put in case of observation of any tapped joints.\n\n\n         26.11    Portable and hand-held equipments:\n\n\n          26.11.1  The contractor shall ensure the use of double insulated or all-insulated portable\n                       electrical hand equipment may be used without earthing (i.e. two core cables), but\n                   they shall still be used only on 110V because of the risk of damage to trailing leads.\n\n\n         26.12    Other equipments:\n\n\n          26.12.1   All equipment shall have the provision for major switch/cut-off switch in the equipment\n                           itself.\n\n\n          26.12.2   All non-current carrying metal parts of electrical equipment shall be earthed through\n                    insulated cable\n\n\n          26.12.3   Isolate exposed high-voltage (over 415 Volts) equipment, such as transformer banks,\n                open switches, and similar equipment with exposed energized parts and prevent\n                   unauthorised access.\n\n\n          26.12.4  Approved perimeter markings shall be used to isolate restricted areas from designated\n                 work areas and entryways and shall be erected before work begins and maintained for\n                      entire duration of work. Approved perimeter marking shall be installed  with either red\n                      barrier tape printed with the words \"DANGER—HIGH VOLTAGE\" or a barrier of yellow\n                     or orange synthetic rope, approximately 1 to 1.5 meter above the floor or work\n                    surface.\n\n\n         26.13   Work on or near live conductors"
 > }
 
-### Jb43d24671a70324c
+### J2c6688efc51444ad
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]
 
@@ -18645,7 +19427,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "26.2.1   The contractor shall assess the size and location of the electrical loads and the\n                manner in which they vary with time during the currency of the contract.\n\n\n          26.2.2   The contractor shall elaborate as to how the total supply is to be obtained  /\n                   generated. The  details  of  the  source  of  electricity,  earthing  requirement,\n                    substation  / panel boards, distribution system shall be prepared and necessary\n                   approval from Employer obtained before proceeding of the execution of the job.\n\n\n          26.2.3   The main contractor shall take consideration, the requirements of the sub /\n                   petty contractors’ electric power supply and arrive at the capacity of main\n                 source of power supply from diesel generators.\n\n\n          26.2.4   As the sub / petty contractors’ small capacity generators create more noise\n               and safety hazard, no small capacity diesel generators shall be allowed for\n                 whatsoever the type of job to be executed under this contract.\n\n\n          26.2.5      If any unsafe noise making small capacity diesel generators are found used\n                by sub / petty contractors the main contractor shall only be penalised.\n\n\n          26.3    Work on site\n\n\n          26.3.1   The contractor shall also submit electrical single line diagram, schematic\n                diagram and the  details of the equipment  for  all temporary  electrical\n                     installation and these diagrams together with the temporary  electrical\n                equipment shall be submitted to the Employer’s for necessary approval.\n                   Failure to do so shall invite penalty as per relevant clause.\n\n\n          26.4     Strength and capability of electrical equipment\n\n\n          26.4.1   No electrical equipment shall be put into use where its strength and capability may\n                be exceeded in such a way as may give rise to danger.\n\n\n          26.5     Adverse or hazardous environments\n\n          26.5.1    Electrical equipment, which may reasonably foreseably be exposed to-\n\n                      (a)   mechanical damage;\n                      (b)   the effects of the weather, natural hazards, temperature or pressure;\n                       (c)   the effects of wet, dirty, dusty or corrosive conditions; or\n                      (d)   any flammable or explosive substance, including dusts, vapours or gases,\n                             shall be of such construction or as necessary protected as to prevent, so far\n                      as is reasonably practicable, danger arising from such exposure.\n\n\n\n          26.6      Distribution system:\n\n\n          26.6.1   The contractor shall provide distribution system for control and distribution of\n                        electricity from a main AC supply of 50Hz for typical appliances,\n\n\n                                 i)    Fixed plant – 400V 3 phase\n\n                                    ii)    Movable plant fed via trailing cable over 3.75 kW – 400 3 phase\n\n                                     iii)    Installation in site buildings – 230V single phase\n\n                          iv)   Fixed flood lighting – 230V single phase\n\n                      v)    Portable and hand tools – 115V single phase\n\n                          vi)    Site lighting  - 115V single phase\n\n                             vii)   Portable hand lamps – 115V single phase"
 > }
 
-### Jc37b230c86ee4459
+### J6a7db06277b17c8f
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 26.0 — Site Electricity|Clause 26.0 — Site Electricity]]
 
@@ -18654,7 +19436,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "26.13.1  No person shall be engaged in any work activity on or so near any live conductor\n          (other than one suitably covered with insulating material so as to prevent danger) that\n         danger may arise unless-\n\n          a)       it is unreasonable in all the circumstances for it to be dead; and\n          b)       it is reasonable in all the circumstances for him to be at work on or near it while\n                             it is live; and\n           c)    suitable  precautions  (including where necessary  the  provision  of  suitable\n                 protective equipment) are taken to prevent injury.\n\n\n26.14    Inspection and Maintenance\n\n\n26.14.1   All electrical equipment should be permanently numbered and a record kept of the\n         date of issue, date of last inspection and recommended inspection period.\n\n\n26.14.2  Fixed installations shall be inspected at least at three monthly intervals; routine\n         maintenance  being  carried  out  in  accordance  with  equipment  manufactures\n         recommendations."
 > }
 
-### J5aabcd6a60a03057
+### Jd4dadacbf39278c0
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 28.0 — Hand Tools and Power Tools|Clause 28.0 — Hand Tools and Power Tools]]
 
@@ -19347,7 +20129,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Hand Tools and Power Tools"
 > }
 
-### J3ab4e1ccbca10ec6
+### Jfcc6f75fe033a376
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 29.0 — Welding, Gouging and Cutting|Clause 29.0 — Welding, Gouging and Cutting]]
 
@@ -19705,7 +20487,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Welding, Gouging and Cutting"
 > }
 
-### J13cc94d8a9f49968
+### Jc7a168a918c226d0
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 30.0 — Dangerous and harmful environment|Clause 30.0 — Dangerous and harmful environment]]
 
@@ -19834,7 +20616,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Dangerous and harmful environment"
 > }
 
-### Jfe3645300d8a3364
+### J286b87263230a42a
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 31.0 — Fire prevention, protection and fighting system|Clause 31.0 — Fire prevention, protection and fighting system]]
 
@@ -20058,7 +20840,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Fire prevention, protection and fighting system"
 > }
 
-### Jec93f93d4259460b
+### J6875c05c4dfa2de6
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 32.0 — Corrosive substances|Clause 32.0 — Corrosive substances]]
 
@@ -20132,7 +20914,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Corrosive substances"
 > }
 
-### J65f1a57f515d8a85
+### J74b908d09c5b7f5a
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 35.0 — Work Permit system|Clause 35.0 — Work Permit system]]
 
@@ -20385,7 +21167,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Work Permit system"
 > }
 
-### J8e418199fb2f83a4
+### J99fb6136ac3f0174
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 34.0 — Excavation and Tunnelling:|Clause 34.0 — Excavation and Tunnelling:]]
 
@@ -20963,7 +21745,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Excavation and Tunnelling:"
 > }
 
-### Jd0947738f256a639
+### Jd8e875cd7d0114f3
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 33.0 — Demolition|Clause 33.0 — Demolition]]
 
@@ -21186,7 +21968,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Demolition"
 > }
 
-### J96ecb6f98c77702f
+### J69a83e3638331cdc
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 38.0 — Batching Plant and Casting Yard layout|Clause 38.0 — Batching Plant and Casting Yard layout]]
 
@@ -21434,7 +22216,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Batching Plant and Casting Yard layout"
 > }
 
-### Jab37b02fb3e0dd56
+### J068680018b304ab5
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 37.0 — Work to adjacent railways|Clause 37.0 — Work to adjacent railways]]
 
@@ -21543,7 +22325,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Work to adjacent railways"
 > }
 
-### Jbc37df6ba968168a
+### J9100e58281b8fd6b
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 36.0 — Traffic Management|Clause 36.0 — Traffic Management]]
 
@@ -22430,7 +23212,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Traffic Management"
 > }
 
-### J6dbbd261bc1bffef
+### Jabad25c52d8503b7
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 39.0 — Personal Protective Equipments (PPEs)|Clause 39.0 — Personal Protective Equipments (PPEs)]]
 
@@ -23172,7 +23954,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Personal Protective Equipments (PPEs)"
 > }
 
-### Je8fd6ebe3fce0b24
+### Jcc46ad95e27a70ea
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 40.0 — Visitors to site|Clause 40.0 — Visitors to site]]
 
@@ -23805,7 +24587,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Visitors to site"
 > }
 
-### Jf69272a45aa8032e
+### Je6d1413c834ddf84
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -23886,7 +24668,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J4d59a4d0645c3fbf
+### Jeedd97c39bd5ea1d
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -23977,7 +24759,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jfde96d56fc484cc4
+### Jd39618f7e4b22cc8
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -24078,7 +24860,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J35783b23984f7765
+### J05b4bd20c16212cd
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -24149,7 +24931,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jbdb9b435d8e903f4
+### Jf1e47bed180c0f6b
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -24250,7 +25032,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J9513274f7f20d619
+### J4409d4e900216d2f
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -24361,7 +25143,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J08371c421ef4c610
+### Jbda21e6eaedd35b8
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -24442,7 +25224,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J33ed3d57cda4e517
+### J19960e57ab89e39e
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -24523,7 +25305,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J468c21692372b904
+### Je5b891ac16585a20
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -24654,7 +25436,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Ja0f34b9ac35c8305
+### Jfa45c23ab68937f8
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -24745,7 +25527,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jc61c2e8ba8123cd3
+### J52be181015732877
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -24836,7 +25618,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jd3f34769b2c57af8
+### J6f14ca443d65a682
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -24907,7 +25689,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J1edc4afaf49fc4c1
+### J72c05ed76a35021a
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -24998,7 +25780,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J46b17a6edef172ee
+### J011a3f8c422ad6c8
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -25069,7 +25851,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J8cc559818e9f4931
+### J5f56babb558900d7
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -25160,7 +25942,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J91b3e69806245c29
+### J8cc13a15f15bb715
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -25291,7 +26073,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Je0995bcefaaeddfb
+### Ja8a8e991df7dd274
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -25362,7 +26144,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jf34bbc6e56aaf620
+### Jd17e3a90fdf32994
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -25433,7 +26215,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J84bc773d37d30cbb
+### J729d3bb2475539b6
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -25514,7 +26296,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Ja03464710a5d202a
+### J67c4e92b7ef58dca
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -25825,7 +26607,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Ja97c63e86908cc52
+### Ja9ddeea9fc15b750
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -25896,7 +26678,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jd4ae8e157434ed23
+### Jbab64bfbeadfe6ac
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -25977,7 +26759,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Je5db286706cc273c
+### Jb94a43b7dffc498a
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -26088,7 +26870,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jf9f7a1b15c644499
+### J4f980593f73e018f
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -26169,7 +26951,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J0c88ef5aa4649896
+### J064f0e8813ced45e
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -26240,7 +27022,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J21e90e6538c791d8
+### Jc6480c3a93eb611b
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -26311,7 +27093,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J88c0835d94c22d50
+### Jdeb26e500ffd2a05
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -26392,7 +27174,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J906a5c528c244560
+### Jee37894331f7ed66
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -26473,7 +27255,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jc0871b0810621784
+### J4330867d3b6837b1
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -26554,7 +27336,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jdcb3c48e22084aac
+### J8612e576d566fd66
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -26635,7 +27417,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J5a136ead5ee11b47
+### J011e1f1b4bb02021
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -26786,7 +27568,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jbf76f1aaab05dae5
+### J7c92d285fc568dff
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -27037,7 +27819,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### Jfd70aa97610db08f
+### J1d1657758880c7f9
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Safety, Health and Environment Manual – Part II: Safety|Safety, Health and Environment Manual – Part II: Safety]]
 
@@ -27128,7 +27910,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   ]
 > }
 
-### J4f7307af0188e62d
+### Jd279c4e4cfdf35c3
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 18.0 — Working at Height|Clause 18.0 — Working at Height]]
 
@@ -27137,7 +27919,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "18.20    Requirements for Ladders\n\n\n          1)    Every contractor shall ensure that a ladder is used for work at height only if\n             a risk assessment has demonstrated that the use of more suitable work\n              equipment is not justified because of the low risk and\n\n                          i)    The short duration of use; or\n\n                            ii)    Existing features on site, which he cannot alter.\n\n          2)    Only metal ladders shall be allowed. Bamboo ladders are prohibited.\n\n          3)   Any surface upon which a ladder rests shall be stable, firm, of sufficient\n                strength and of suitable composition safely to support the ladder so that its\n              rungs or steps remain horizontal, and any loading intended to be placed on\n                            it.\n\n          4)   A ladder shall be so positioned as to ensure its stability during use\n\n          5)   A suspended ladder shall be attached in a secure manner and so that, with\n                the exception of a flexible ladder,  it cannot be displaced and swinging is\n               prevented.\n\n          6)   A portable ladder shall be prevented from slipping during use by -\n\n                          i)     securing the stiles at or near their upper or lower ends;\n\n                            ii)    an effective anti-slip or other effective stability device; or\n\n                             iii)   any other arrangement of equivalent effectiveness.\n\n          7)   A ladder used for access shall be long enough to protrude sufficiently above\n                the place of landing to which  it provides access, unless other measures\n             have been taken to ensure a firm handhold.\n\n          8)   No interlocking or extension ladder shall be used unless its sections are\n               prevented from moving relative to each other while in use.\n\n          9)   A mobile ladder shall be prevented from moving before it is stepped on.\n\n         10)  Where a ladder or run of ladders raises a vertical distance of 9 metres or\n             more above its base, there shall, where reasonably practicable, be provided\n                 at suitable intervals sufficient safe landing areas or rest platforms.\n\n         11)  Every ladder shall be used in such a way that\n\n                a)   a secure handhold and secure support are always available to the\n                      user; and\n\n                b)    the user can maintain a safe handhold when carrying a load unless, in\n                     the case of a step ladder, the maintenance of a handhold  is not\n                       practicable when a load  is  carried, and a  risk assessment has\n                   demonstrated that the use of a stepladder is justified because of\n\n                                    i)     the low risk; and\n\n                                       ii)    the short duration of use."
 > }
 
-### Jef941ed42ffc8c52
+### J7de3b9ae72bffb1e
 
 [[OKF_bundle/Technical/Vol3/vol3_part2#Clause 21.0 — Lifting Appliances and Gear|Clause 21.0 — Lifting Appliances and Gear]]
 

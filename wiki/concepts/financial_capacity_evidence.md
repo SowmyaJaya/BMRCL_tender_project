@@ -6,40 +6,40 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-11-01T12:14:18+00:00'
-updated_at: '2026-11-01T12:36:19+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T12:14:18+00:00'
 model: source-backed editorial synthesis; no API call
 sources:
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_tables.json
   json_sha256: a0ba993fe8e1745d8d8e8613bd5aac0c0d2af1d317b4004000f97f0485a742e4
   json_pointer: /context_fragments/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json
   json_sha256: 6da3816d8291f7364cf6e12f62bf2c0b37ebebda9067f0516d4678f5e1f8f8d9
   json_pointer: /forms/19
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_criteria.json
   json_sha256: ab3cdc95d724a7912220cd865c0b6a59bfceea0f7743c525b58aec19278e8816
   json_pointer: /criteria/5/requirement_fragments/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_clauses.json
   json_sha256: d8207622663bc2dd0cf2a7c5e3ed660f5c3881838e376d1bbb26fdae47ed8abf
   json_pointer: /clauses/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secC.md
-  okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+  okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_c_eqc/eqc_tables.json
   json_sha256: a0ba993fe8e1745d8d8e8613bd5aac0c0d2af1d317b4004000f97f0485a742e4
@@ -50,20 +50,20 @@ claims:
   text: This page brings together the cited requirements for financial capacity thresholds and supporting evidence.
     Each source statement retains its own stage, conditions and review limitations.
   evidence_ids:
-  - J2d79831d07f43931
-  - J71b7032ce20bc8cf
-  - J4e531b0c209bd3b8
-  - J704434795075ef24
-  - J6d6e6db9092e1d12
+  - J6ca1b2efbb34cc1d
+  - Jff8dfce17cb76750
+  - Je06c8004f1559d68
+  - J0949e7907866cf3c
+  - J281abfb825cfdd42
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb96eced2cb9361c8
+  id: C3be7c45fe61547be
   citations:
-  - id: J2d79831d07f43931
+  - id: J6ca1b2efbb34cc1d
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -100,9 +100,9 @@ claims:
       \ be considered.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J71b7032ce20bc8cf
+  - id: Jff8dfce17cb76750
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -134,9 +134,9 @@ claims:
       : \"not_marked_deleted\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J4e531b0c209bd3b8
+  - id: Je06c8004f1559d68
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -155,9 +155,9 @@ claims:
       \ ≥ ₹ 9.48 Crores. ****\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J704434795075ef24
+  - id: J0949e7907866cf3c
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Clause 3.0 — Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -282,9 +282,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"Qualification Criteria\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J6d6e6db9092e1d12
+  - id: J281abfb825cfdd42
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -324,21 +324,35 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb96eced2cb9361c8
+    previous_evidence_ids:
+    - J2d79831d07f43931
+    - J71b7032ce20bc8cf
+    - J4e531b0c209bd3b8
+    - J704434795075ef24
+    - J6d6e6db9092e1d12
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'Liquidity and its evidence are paired: the stated minimum is INR 1.19 crore in liquid assets or credit
     facilities, supported by the banker certificate in Attachment 13.'
   evidence_ids:
-  - J2d79831d07f43931
-  - J71b7032ce20bc8cf
+  - J6ca1b2efbb34cc1d
+  - Jff8dfce17cb76750
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5a5af77f36c05bf5
+  id: C8d996579a7e81e6f
   citations:
-  - id: J2d79831d07f43931
+  - id: J6ca1b2efbb34cc1d
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -375,9 +389,9 @@ claims:
       \ be considered.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J71b7032ce20bc8cf
+  - id: Jff8dfce17cb76750
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -411,21 +425,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5a5af77f36c05bf5
+    previous_evidence_ids:
+    - J2d79831d07f43931
+    - J71b7032ce20bc8cf
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: For civil-engineering construction turnover, the source requires INR 9.48 crore in at least two of FY 2021-22
     through FY 2025-26.
   evidence_ids:
-  - J4e531b0c209bd3b8
-  - J704434795075ef24
+  - Je06c8004f1559d68
+  - J0949e7907866cf3c
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce0bce13a0b6bc43f
+  id: Cf499cdb4cbc8b805
   citations:
-  - id: J4e531b0c209bd3b8
+  - id: Je06c8004f1559d68
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -444,9 +469,9 @@ claims:
       \ ≥ ₹ 9.48 Crores. ****\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J704434795075ef24
+  - id: J0949e7907866cf3c
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Clause 3.0 — Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -573,20 +598,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce0bce13a0b6bc43f
+    previous_evidence_ids:
+    - J4e531b0c209bd3b8
+    - J704434795075ef24
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Available bid capacity is separately tested against INR 4.74 crore using (1.5 x A x N) - B; the liquidity
     and turnover thresholds do not substitute for this stated calculation.
   evidence_ids:
-  - J6d6e6db9092e1d12
+  - J281abfb825cfdd42
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C58b73b8dd12e2262
+  id: Cff7ac7b0c73f5388
   citations:
-  - id: J6d6e6db9092e1d12
+  - id: J281abfb825cfdd42
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -626,22 +662,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C58b73b8dd12e2262
+    previous_evidence_ids:
+    - J6d6e6db9092e1d12
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: relation
   text: 'Editorial topic mapping for Financial Capacity Thresholds and Supporting Evidence: the two cited source
     records are connected for this topic only. The connection is inferred, not an explicit contractual reference,
     a document-precedence rule or a compliance decision.'
   evidence_ids:
-  - J2d79831d07f43931
-  - J71b7032ce20bc8cf
+  - J6ca1b2efbb34cc1d
+  - Jff8dfce17cb76750
   relation_type: relates_to
   explicitness: inferred
-  from_id: J2d79831d07f43931
-  to_id: J71b7032ce20bc8cf
-  id: C81103111af5d5b7c
+  from_id: J6ca1b2efbb34cc1d
+  to_id: Jff8dfce17cb76750
+  id: C756893eed80b5d80
   citations:
-  - id: J2d79831d07f43931
+  - id: J6ca1b2efbb34cc1d
     okf_path: OKF_bundle/Technical/Vol1/secC.md
-    okf_sha256: 5ae5ea7a30496ffbb3384dfb998e3fdd89ef3222744b6b639e3d564508b11172
+    okf_sha256: c658fe17e72740fef6f9e4825097f339eb9cf93901ef98a23761ba54b3b4b04d
     heading: Eligibility cum Qualification Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -678,9 +724,9 @@ claims:
       \ be considered.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J71b7032ce20bc8cf
+  - id: Jff8dfce17cb76750
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -720,17 +766,27 @@ claims:
       not an explicit hierarchy or a compliance determination.
     corrected_at: '2026-11-01T12:20:49+00:00'
     method: topic-specific editorial relation label
+  - previous_claim_id: C81103111af5d5b7c
+    previous_evidence_ids:
+    - J2d79831d07f43931
+    - J71b7032ce20bc8cf
+    previous_from_id: J2d79831d07f43931
+    previous_to_id: J71b7032ce20bc8cf
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T12:20:49+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: commercial_entity_index.md
   title: Source topic page
   evidence_ids:
-  - J2d79831d07f43931
+  - J6ca1b2efbb34cc1d
 source_scope_note: The complete creation prompt explicitly includes matching JSON with each OKF file. These are
   source-linked extracts, not independent external assumptions. PDF/source review remains pending.
 editorial_method: Source-backed editorial synthesis; no new API generation call
-last_editorial_review: '2026-11-01T12:36:19+00:00'
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Financial Capacity Thresholds and Supporting Evidence
@@ -740,31 +796,31 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Summary
 
 - This page brings together the cited requirements for financial capacity thresholds and supporting evidence. Each source statement retains its own stage, conditions and review limitations.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `J2d79831d07f43931`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 58; quotation `J71b7032ce20bc8cf`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/19`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `J4e531b0c209bd3b8`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/criteria/5/requirement_fragments/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J704434795075ef24`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 35; quotation `J6d6e6db9092e1d12`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `J6ca1b2efbb34cc1d`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 58; quotation `Jff8dfce17cb76750`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/19`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `Je06c8004f1559d68`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/criteria/5/requirement_fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J0949e7907866cf3c`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 35; quotation `J281abfb825cfdd42`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/3`.
 
 ## Key Parameters and Source Statements
 
 - Liquidity and its evidence are paired: the stated minimum is INR 1.19 crore in liquid assets or credit facilities, supported by the banker certificate in Attachment 13.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `J2d79831d07f43931`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 58; quotation `J71b7032ce20bc8cf`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/19`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `J6ca1b2efbb34cc1d`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 58; quotation `Jff8dfce17cb76750`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/19`.
 
 - For civil-engineering construction turnover, the source requires INR 9.48 crore in at least two of FY 2021-22 through FY 2025-26.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `J4e531b0c209bd3b8`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/criteria/5/requirement_fragments/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J704434795075ef24`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `Je06c8004f1559d68`. JSON: `parsed_json/vol1/section_c_eqc/eqc_criteria.json#/criteria/5/requirement_fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 32, 33, 34, 35, 36; quotation `J0949e7907866cf3c`. JSON: `parsed_json/vol1/section_c_eqc/eqc_clauses.json#/clauses/2`.
 
 - Available bid capacity is separately tested against INR 4.74 crore using (1.5 x A x N) - B; the liquidity and turnover thresholds do not substitute for this stated calculation.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 35; quotation `J6d6e6db9092e1d12`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 35; quotation `J281abfb825cfdd42`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/3`.
 
 ## Typed Relations
 
 - Editorial topic mapping for Financial Capacity Thresholds and Supporting Evidence: the two cited source records are connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence rule or a compliance decision.
   - **relates_to (inferred):** [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]] → [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `J2d79831d07f43931`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 58; quotation `J71b7032ce20bc8cf`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/19`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; quotation `J6ca1b2efbb34cc1d`. JSON: `parsed_json/vol1/section_c_eqc/eqc_tables.json#/context_fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 58; quotation `Jff8dfce17cb76750`. JSON: `parsed_json/vol1/section_d_technical_bid/technical_bid_forms.json#/forms/19`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]
@@ -774,7 +830,7 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Related Wiki Entities
 
 - **relates_to (editorial, inferred):** [[wiki/commercial_entity_index|Source topic page]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; `J2d79831d07f43931`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 34; `J6ca1b2efbb34cc1d`.
 
 ## Open Questions and Contradictions
 
@@ -783,7 +839,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### J2d79831d07f43931
+### J6ca1b2efbb34cc1d
 
 [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]
 
@@ -792,7 +848,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "The value of ongoing work(s) that are substantially completed shall not be updated to the price level of the financial year of this Tender \nInvitation. \n8) \nIn case the Similar Nature Work(s) are executed for client other than Government Department, PSU, or other Government Body, Contract \nAgreement, Bill wise details of payment received and Proof of TDS (Form 26AS) deducted by clients for all payments received shall be \nsubmitted duly certified by Chartered Accountant. \n9) \nWork experience certificates of the tenderers with qualification as a sub-contractor will not be considered. \n3.1. B.  FINANCIAL STANDING: The Tenderer should meet the following financial qualification criteria: \nSl. No \nCriteria Requirement \nDocument Submission \nrequirement \n3.1.B (i) \nLiquidity: Tenderer shall demonstrate that it has access to, or possess liquid assets and /or \navailability of credit facilities of not less than ₹ 1.19 Crores (Credit lines/ letter of credit/ certificates \nfrom banks for meeting the fund requirement etc.). \nAttachment-13 to Letter of \nTechnical Bid \n3.1.B (ii) \nAnnual Turnover: Tenderer in its name should have in the last five financial years (2021-2022 \nto 2025-2026) achieved in at least two financial years a minimum financial turnover (in all \nclasses of civil engineering construction works only) ≥ ₹ 9.48 Crores. **** \nAttachment-8 to Letter of \nTechnical Bid \n      Notes: \n1) \nA copy of the Banker’s Certificate issued from a Nationalised / Scheduled Bank in India (for liquidity) needs to be uploaded in the \nTechnical Proposal in respect of EQC Clause 3.1 B (i). \n2) \nAnnual financial statements (Audited Balance sheets including all related notes and income statements) for last five financial years \n(2021-2022 to 2025-2026) shall be submitted by the Tenderer. The financial information of the Tenderer must be certified either by the \nIndependent Financial Auditor (statutory Auditor) of the company appointed under the companies’ Act or by a Chartered Accountant with \nhis stamp and signature with membership number and firm registration number. \n3) \nIn case any discrepancy in data is found between the Audited Balance sheet and the financial information submitted, the data as available \nin the Audited Balance sheet will be considered."
 > }
 
-### J71b7032ce20bc8cf
+### Jff8dfce17cb76750
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -811,7 +867,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "source_marking": "not_marked_deleted"
 > }
 
-### J4e531b0c209bd3b8
+### Je06c8004f1559d68
 
 [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]
 
@@ -824,7 +880,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "Annual Turnover: Tenderer in its name should have in the last five financial years (2021-2022\nto 2025-2026) achieved in at least two financial years a minimum financial turnover (in all\nclasses of civil engineering construction works only) ≥ ₹ 9.48 Crores. ****"
 > }
 
-### J704434795075ef24
+### J0949e7907866cf3c
 
 [[OKF_bundle/Technical/Vol1/secC#Clause 3.0 — Qualification Criteria|Clause 3.0 — Qualification Criteria]]
 
@@ -856,7 +912,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Qualification Criteria"
 > }
 
-### J6d6e6db9092e1d12
+### J281abfb825cfdd42
 
 [[OKF_bundle/Technical/Vol1/secC#Eligibility cum Qualification Criteria|Eligibility cum Qualification Criteria]]
 

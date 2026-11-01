@@ -6,70 +6,70 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-11-01T12:14:18+00:00'
-updated_at: '2026-11-01T12:36:19+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T12:14:18+00:00'
 model: source-backed editorial synthesis; no API call
 sources:
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_items.json
   json_sha256: ffa851d3dc75c862bbb9df376985067951c7005c988fb0a1002a897b32525b6b
   json_pointer: /key_details/9
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secA.md
-  okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+  okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_a_nit/nit_table.json
   json_sha256: e4e595fa155f932fe793f28df02a9836eb06f24ca4352db151622db258ce6b10
   json_pointer: /rows/9
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-  okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+  okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
   source_document: DLN_P1_AandC1_157.PDF
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-  okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+  okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
   source_document: DLN_P1_AandC1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/0
   source_sha256: 26b25a4e3c3d3206635d0ddae6ce70c00e51468ebb4fe5d93f5e9d65902942d1
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-  okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+  okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
   source_document: AandC3_DLN_P1_157.PDF
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-  okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+  okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
   source_document: AandC3_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/13
   source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/10
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secG.md
-  okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+  okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_g_forms/contract_forms.json
   json_sha256: 41670e8866feba3a9ff42e73f2e1da67ed58b020778fce98ad11cf7bc8e2571f
   json_pointer: /forms/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/6
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/forms/she_committee_forms.json
   json_sha256: d4d64ab8440b97f6a9deeb0d9cd0b5995bfe88b324ae3231d2f53c8fcbc17a7e
@@ -80,26 +80,26 @@ claims:
   text: This page brings together the cited requirements for amendment sequence and unresolved source conflicts.
     Each source statement retains its own stage, conditions and review limitations.
   evidence_ids:
-  - S09ae5a2a5bf6b41c
-  - J54c382c09ffff5f9
-  - J70459e3caeaaef12
-  - Sfd1aa114f35e9e94
-  - J51c423559e058474
-  - S052ffbb3a0e241a0
-  - J4805b52601f511db
-  - J099b5fe5de51f74d
-  - Jf9d2ada6599b727b
-  - J09eb38685b1042c6
-  - J81bb5479e7edcd11
+  - Sc18621fd1b08f3e0
+  - J981b70cc6e283023
+  - Jcbe0f7287bb5da91
+  - S69a6c3139d9e4c35
+  - J6b36427c3b2760b1
+  - S833aa656a16da78a
+  - J827a319dc3712125
+  - Jeb83d1b7a6d87fee
+  - Jcc49f8beaf50a801
+  - J9eeb4ca708ebff86
+  - J6af8ef325f51b6bf
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C88ec7c5b63e461c2
+  id: C1e9ca2df5b17997f
   citations:
-  - id: S09ae5a2a5bf6b41c
+  - id: Sc18621fd1b08f3e0
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 10 — Online Tender Submission
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -107,9 +107,9 @@ claims:
     quote: '- **Submission Period:** 03.10.2026, from 10.00 AM, to 09.10.2026, up to 3.00 PM (IST).'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: J54c382c09ffff5f9
+  - id: J981b70cc6e283023
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 10 — Online Tender Submission
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -127,9 +127,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J70459e3caeaaef12
+  - id: Jcbe0f7287bb5da91
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 10 — Online Tender Submission
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -153,9 +153,9 @@ claims:
       : \"passed\",\n  \"value\": \"03.10.2026 (From 10.00 AM) to 09.10.2026 (up to\\n3.00 PM) (IST)\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Sfd1aa114f35e9e94
+  - id: S69a6c3139d9e4c35
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-    okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+    okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
     heading: Change 2 — Online Tender Submission Date and Time
     source_document: DLN_P1_AandC1_157.PDF
     pdf_pages:
@@ -177,9 +177,9 @@ claims:
       Both the opening date and closing date of the submission window change.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: J51c423559e058474
+  - id: J6b36427c3b2760b1
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-    okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+    okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
     heading: Change 2 — Online Tender Submission Date and Time
     source_document: DLN_P1_AandC1_157.PDF
     source_sha256: 26b25a4e3c3d3206635d0ddae6ce70c00e51468ebb4fe5d93f5e9d65902942d1
@@ -205,9 +205,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: amendment_entry_navigation
-  - id: S052ffbb3a0e241a0
+  - id: S833aa656a16da78a
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 2 — Online Tender Submission Date and Time
     source_document: AandC3_DLN_P1_157.PDF
     pdf_pages:
@@ -229,9 +229,9 @@ claims:
       The opening date remains 09.10.2026. It is not changed to 16.10.2026.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: J4805b52601f511db
+  - id: J827a319dc3712125
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 2 — Online Tender Submission Date and Time
     source_document: AandC3_DLN_P1_157.PDF
     source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
@@ -258,9 +258,9 @@ claims:
       : \"Selected amendment wording and fields, not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: amendment_entry_navigation
-  - id: J099b5fe5de51f74d
+  - id: Jeb83d1b7a6d87fee
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -285,9 +285,9 @@ claims:
       \ whole of\\nthe work.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf9d2ada6599b727b
+  - id: Jcc49f8beaf50a801
     okf_path: OKF_bundle/Technical/Vol1/secG.md
-    okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+    okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
     heading: Contract Form 1 — Contract Agreement
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -435,9 +435,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"Contract Agreement\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_form_number_match
-  - id: J09eb38685b1042c6
+  - id: J9eeb4ca708ebff86
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 7.0 — Contractor SHE Committee
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -766,9 +766,9 @@ claims:
       review_status\": \"pending_manual_review\",\n  \"title\": \"Contractor SHE Committee\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J81bb5479e7edcd11
+  - id: J6af8ef325f51b6bf
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -989,46 +989,66 @@ claims:
       fields. Latest supplied replacement: 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST). No claim
       is made about later notices.'
     evidence_ids:
-    - J54c382c09ffff5f9
-    - J51c423559e058474
-    - J4805b52601f511db
+    - J981b70cc6e283023
+    - J6b36427c3b2760b1
+    - J827a319dc3712125
   - state: superseded
     scope: Baseline NIT Key Detail 10 date/time fields only
     text: 'Preserve the baseline source as history. C1 changes these fields, and C3 further replaces the C1 date/time
       fields. Latest supplied replacement: 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST). No claim
       is made about later notices.'
     evidence_ids:
-    - J70459e3caeaaef12
-    - J51c423559e058474
-    - J4805b52601f511db
+    - Jcbe0f7287bb5da91
+    - J6b36427c3b2760b1
+    - J827a319dc3712125
   - state: superseded
     scope: C1 date/time fields in the cited source record only
     text: The C1 values for Key Detail 10 are historical. C3 replaces 09.10.2026 (From 10.00 AM) to 15.10.2026 (up
       to 3.00 PM) (IST) with 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST). This callout does not
       supersede the entire synthesized claim.
     evidence_ids:
+    - J6b36427c3b2760b1
+    - J827a319dc3712125
+  editorial_history:
+  - previous_claim_id: C88ec7c5b63e461c2
+    previous_evidence_ids:
+    - S09ae5a2a5bf6b41c
+    - J54c382c09ffff5f9
+    - J70459e3caeaaef12
+    - Sfd1aa114f35e9e94
     - J51c423559e058474
+    - S052ffbb3a0e241a0
     - J4805b52601f511db
+    - J099b5fe5de51f74d
+    - Jf9d2ada6599b727b
+    - J09eb38685b1042c6
+    - J81bb5479e7edcd11
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The historical submission sequence is baseline 03-09 October 2026, C1 09-15 October, and C3 09-23 October,
     with the closing time 3 PM IST. These are recorded tender-history states, not live submission advice.
   evidence_ids:
-  - S09ae5a2a5bf6b41c
-  - J54c382c09ffff5f9
-  - J70459e3caeaaef12
-  - Sfd1aa114f35e9e94
-  - J51c423559e058474
-  - S052ffbb3a0e241a0
-  - J4805b52601f511db
+  - Sc18621fd1b08f3e0
+  - J981b70cc6e283023
+  - Jcbe0f7287bb5da91
+  - S69a6c3139d9e4c35
+  - J6b36427c3b2760b1
+  - S833aa656a16da78a
+  - J827a319dc3712125
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3f092a38a6dc0fd8
+  id: Cd7fc0fcc7de94429
   citations:
-  - id: S09ae5a2a5bf6b41c
+  - id: Sc18621fd1b08f3e0
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 10 — Online Tender Submission
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -1036,9 +1056,9 @@ claims:
     quote: '- **Submission Period:** 03.10.2026, from 10.00 AM, to 09.10.2026, up to 3.00 PM (IST).'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: J54c382c09ffff5f9
+  - id: J981b70cc6e283023
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 10 — Online Tender Submission
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1056,9 +1076,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J70459e3caeaaef12
+  - id: Jcbe0f7287bb5da91
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 10 — Online Tender Submission
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1082,9 +1102,9 @@ claims:
       : \"passed\",\n  \"value\": \"03.10.2026 (From 10.00 AM) to 09.10.2026 (up to\\n3.00 PM) (IST)\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Sfd1aa114f35e9e94
+  - id: S69a6c3139d9e4c35
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-    okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+    okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
     heading: Change 2 — Online Tender Submission Date and Time
     source_document: DLN_P1_AandC1_157.PDF
     pdf_pages:
@@ -1106,9 +1126,9 @@ claims:
       Both the opening date and closing date of the submission window change.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: J51c423559e058474
+  - id: J6b36427c3b2760b1
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C1.md
-    okf_sha256: 182cf4eefb43f211f436e0037636401217771d0b8f207e6a243e7733180f81f2
+    okf_sha256: 8b340a5039e27927eab4df9c9d385ebe89253a3c5e947647c885055e9c4277fd
     heading: Change 2 — Online Tender Submission Date and Time
     source_document: DLN_P1_AandC1_157.PDF
     source_sha256: 26b25a4e3c3d3206635d0ddae6ce70c00e51468ebb4fe5d93f5e9d65902942d1
@@ -1134,9 +1154,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: amendment_entry_navigation
-  - id: S052ffbb3a0e241a0
+  - id: S833aa656a16da78a
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 2 — Online Tender Submission Date and Time
     source_document: AandC3_DLN_P1_157.PDF
     pdf_pages:
@@ -1158,9 +1178,9 @@ claims:
       The opening date remains 09.10.2026. It is not changed to 16.10.2026.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: J4805b52601f511db
+  - id: J827a319dc3712125
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C3.md
-    okf_sha256: a01902a1a7402d8970331adea6f86b718db37a42a8f8cd4068fe6a55a3285a35
+    okf_sha256: d9cb8b7ff09a2dd9ff83e9ea35ba6330264539603a982a5daac47275ff44decb
     heading: Change 2 — Online Tender Submission Date and Time
     source_document: AandC3_DLN_P1_157.PDF
     source_sha256: 623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de
@@ -1196,41 +1216,57 @@ claims:
       fields. Latest supplied replacement: 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST). No claim
       is made about later notices.'
     evidence_ids:
-    - J54c382c09ffff5f9
-    - J51c423559e058474
-    - J4805b52601f511db
+    - J981b70cc6e283023
+    - J6b36427c3b2760b1
+    - J827a319dc3712125
   - state: superseded
     scope: Baseline NIT Key Detail 10 date/time fields only
     text: 'Preserve the baseline source as history. C1 changes these fields, and C3 further replaces the C1 date/time
       fields. Latest supplied replacement: 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST). No claim
       is made about later notices.'
     evidence_ids:
-    - J70459e3caeaaef12
-    - J51c423559e058474
-    - J4805b52601f511db
+    - Jcbe0f7287bb5da91
+    - J6b36427c3b2760b1
+    - J827a319dc3712125
   - state: superseded
     scope: C1 date/time fields in the cited source record only
     text: The C1 values for Key Detail 10 are historical. C3 replaces 09.10.2026 (From 10.00 AM) to 15.10.2026 (up
       to 3.00 PM) (IST) with 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST). This callout does not
       supersede the entire synthesized claim.
     evidence_ids:
+    - J6b36427c3b2760b1
+    - J827a319dc3712125
+  editorial_history:
+  - previous_claim_id: C3f092a38a6dc0fd8
+    previous_evidence_ids:
+    - S09ae5a2a5bf6b41c
+    - J54c382c09ffff5f9
+    - J70459e3caeaaef12
+    - Sfd1aa114f35e9e94
     - J51c423559e058474
+    - S052ffbb3a0e241a0
     - J4805b52601f511db
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The retained DLP discrepancy is six months in Contract Data versus twelve months in the unexecuted Contract
     Agreement template. Both statements remain visible; no controlling duration is selected here.
   evidence_ids:
-  - J099b5fe5de51f74d
-  - Jf9d2ada6599b727b
+  - Jeb83d1b7a6d87fee
+  - Jcc49f8beaf50a801
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf4ee510878d441b0
+  id: C3275e00059822b5d
   citations:
-  - id: J099b5fe5de51f74d
+  - id: Jeb83d1b7a6d87fee
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1255,9 +1291,9 @@ claims:
       \ whole of\\nthe work.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf9d2ada6599b727b
+  - id: Jcc49f8beaf50a801
     okf_path: OKF_bundle/Technical/Vol1/secG.md
-    okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+    okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
     heading: Contract Form 1 — Contract Agreement
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1407,21 +1443,32 @@ claims:
     heading_alignment: exact_form_number_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf4ee510878d441b0
+    previous_evidence_ids:
+    - J099b5fe5de51f74d
+    - Jf9d2ada6599b727b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The SHE agenda discrepancy concerns seven working days in 7.8.1 versus two days in SF/001. Monthly Site
     SHE and weekly Construction SHE committees are distinct provisions, not automatically a frequency contradiction.
   evidence_ids:
-  - J09eb38685b1042c6
-  - J81bb5479e7edcd11
+  - J9eeb4ca708ebff86
+  - J6af8ef325f51b6bf
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cfe6e7ebefda814e0
+  id: Ccbcca28216d54274
   citations:
-  - id: J09eb38685b1042c6
+  - id: J9eeb4ca708ebff86
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 7.0 — Contractor SHE Committee
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1750,9 +1797,9 @@ claims:
       review_status\": \"pending_manual_review\",\n  \"title\": \"Contractor SHE Committee\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J81bb5479e7edcd11
+  - id: J6af8ef325f51b6bf
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1966,22 +2013,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cfe6e7ebefda814e0
+    previous_evidence_ids:
+    - J09eb38685b1042c6
+    - J81bb5479e7edcd11
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: relation
   text: 'Editorial topic mapping for Amendment Sequence and Unresolved Source Conflicts: the two cited source records
     are connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence
     rule or a compliance decision.'
   evidence_ids:
-  - J54c382c09ffff5f9
-  - J70459e3caeaaef12
+  - J981b70cc6e283023
+  - Jcbe0f7287bb5da91
   relation_type: relates_to
   explicitness: inferred
-  from_id: J54c382c09ffff5f9
-  to_id: J70459e3caeaaef12
-  id: Ce1ee913ceff2e5ec
+  from_id: J981b70cc6e283023
+  to_id: Jcbe0f7287bb5da91
+  id: C65f8a1db37a4b5f6
   citations:
-  - id: J54c382c09ffff5f9
+  - id: J981b70cc6e283023
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 10 — Online Tender Submission
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1999,9 +2057,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J70459e3caeaaef12
+  - id: Jcbe0f7287bb5da91
     okf_path: OKF_bundle/Technical/Vol1/secA.md
-    okf_sha256: b882b23f2e83f9c6876fe655e690ee5b8fc4c110053453eeeea7dbf13ad79097
+    okf_sha256: 1d19d2821187107d8bead3c38cac38cb70cac496bf9b5b067362f9b891f92cfb
     heading: Key Detail 10 — Online Tender Submission
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2034,35 +2092,45 @@ claims:
       fields. Latest supplied replacement: 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST). No claim
       is made about later notices.'
     evidence_ids:
-    - J54c382c09ffff5f9
-    - J51c423559e058474
-    - J4805b52601f511db
+    - J981b70cc6e283023
+    - J6b36427c3b2760b1
+    - J827a319dc3712125
   - state: superseded
     scope: Baseline NIT Key Detail 10 date/time fields only
     text: 'Preserve the baseline source as history. C1 changes these fields, and C3 further replaces the C1 date/time
       fields. Latest supplied replacement: 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST). No claim
       is made about later notices.'
     evidence_ids:
-    - J70459e3caeaaef12
-    - J51c423559e058474
-    - J4805b52601f511db
+    - Jcbe0f7287bb5da91
+    - J6b36427c3b2760b1
+    - J827a319dc3712125
   editorial_history:
   - previous_claim_id: C9b992464c99493d8
     previous_text: The cited provisions are grouped by topic for navigation; this is an inferred editorial connection,
       not an explicit hierarchy or a compliance determination.
     corrected_at: '2026-11-01T12:20:49+00:00'
     method: topic-specific editorial relation label
+  - previous_claim_id: Ce1ee913ceff2e5ec
+    previous_evidence_ids:
+    - J54c382c09ffff5f9
+    - J70459e3caeaaef12
+    previous_from_id: J54c382c09ffff5f9
+    previous_to_id: J70459e3caeaaef12
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T12:20:49+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: timeline.md
   title: Source topic page
   evidence_ids:
-  - S09ae5a2a5bf6b41c
+  - Sc18621fd1b08f3e0
 source_scope_note: The complete creation prompt explicitly includes matching JSON with each OKF file. These are
   source-linked extracts, not independent external assumptions. PDF/source review remains pending.
 editorial_method: Source-backed editorial synthesis; no new API generation call
-last_editorial_review: '2026-11-01T12:36:19+00:00'
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Amendment Sequence and Unresolved Source Conflicts
@@ -2072,43 +2140,43 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Summary
 
 - This page brings together the cited requirements for amendment sequence and unresolved source conflicts. Each source statement retains its own stage, conditions and review limitations.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `S09ae5a2a5bf6b41c`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J54c382c09ffff5f9`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/9`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J70459e3caeaaef12`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/9`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `Sfd1aa114f35e9e94`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `J51c423559e058474`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/0`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `S052ffbb3a0e241a0`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J4805b52601f511db`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/13`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `J099b5fe5de51f74d`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/10`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 147, 148, 149, 150; quotation `Jf9d2ada6599b727b`. JSON: `parsed_json/vol1/section_g_forms/contract_forms.json#/forms/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J09eb38685b1042c6`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 116; quotation `J81bb5479e7edcd11`. JSON: `parsed_json/vol3/forms/she_committee_forms.json#/forms/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Sc18621fd1b08f3e0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J981b70cc6e283023`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Jcbe0f7287bb5da91`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/9`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `S69a6c3139d9e4c35`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `J6b36427c3b2760b1`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/0`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `S833aa656a16da78a`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J827a319dc3712125`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `Jeb83d1b7a6d87fee`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 147, 148, 149, 150; quotation `Jcc49f8beaf50a801`. JSON: `parsed_json/vol1/section_g_forms/contract_forms.json#/forms/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J9eeb4ca708ebff86`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 116; quotation `J6af8ef325f51b6bf`. JSON: `parsed_json/vol3/forms/she_committee_forms.json#/forms/0`.
 
 ## Key Parameters and Source Statements
 
 - The historical submission sequence is baseline 03-09 October 2026, C1 09-15 October, and C3 09-23 October, with the closing time 3 PM IST. These are recorded tender-history states, not live submission advice.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `S09ae5a2a5bf6b41c`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J54c382c09ffff5f9`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/9`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J70459e3caeaaef12`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/9`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `Sfd1aa114f35e9e94`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `J51c423559e058474`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/0`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `S052ffbb3a0e241a0`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J4805b52601f511db`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Sc18621fd1b08f3e0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J981b70cc6e283023`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Jcbe0f7287bb5da91`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/9`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `S69a6c3139d9e4c35`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; quotation `J6b36427c3b2760b1`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/0`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `S833aa656a16da78a`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J827a319dc3712125`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/13`.
 
 - The retained DLP discrepancy is six months in Contract Data versus twelve months in the unexecuted Contract Agreement template. Both statements remain visible; no controlling duration is selected here.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `J099b5fe5de51f74d`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/10`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 147, 148, 149, 150; quotation `Jf9d2ada6599b727b`. JSON: `parsed_json/vol1/section_g_forms/contract_forms.json#/forms/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `Jeb83d1b7a6d87fee`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 147, 148, 149, 150; quotation `Jcc49f8beaf50a801`. JSON: `parsed_json/vol1/section_g_forms/contract_forms.json#/forms/0`.
 
 - The SHE agenda discrepancy concerns seven working days in 7.8.1 versus two days in SF/001. Monthly Site SHE and weekly Construction SHE committees are distinct provisions, not automatically a frequency contradiction.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J09eb38685b1042c6`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 116; quotation `J81bb5479e7edcd11`. JSON: `parsed_json/vol3/forms/she_committee_forms.json#/forms/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J9eeb4ca708ebff86`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 116; quotation `J6af8ef325f51b6bf`. JSON: `parsed_json/vol3/forms/she_committee_forms.json#/forms/0`.
 
 ## Typed Relations
 
 - Editorial topic mapping for Amendment Sequence and Unresolved Source Conflicts: the two cited source records are connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence rule or a compliance decision.
   - **relates_to (inferred):** [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]] → [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J54c382c09ffff5f9`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/9`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J70459e3caeaaef12`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `J981b70cc6e283023`. JSON: `parsed_json/vol1/section_a_nit/nit_items.json#/key_details/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; quotation `Jcbe0f7287bb5da91`. JSON: `parsed_json/vol1/section_a_nit/nit_table.json#/rows/9`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]
@@ -2122,7 +2190,7 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Related Wiki Entities
 
 - **relates_to (editorial, inferred):** [[wiki/timeline|Source topic page]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `S09ae5a2a5bf6b41c`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `Sc18621fd1b08f3e0`.
 
 ## Open Questions and Contradictions
 
@@ -2130,60 +2198,60 @@ No additional contradiction is recorded on this page. PDF verification and full 
 
 > [!warning] Superseded — Baseline NIT Key Detail 10 date/time fields only
 > Preserve the baseline source as history. C1 changes these fields, and C3 further replaces the C1 date/time fields. Latest supplied replacement: 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST). No claim is made about later notices.
-> Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `J54c382c09ffff5f9`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J51c423559e058474`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J4805b52601f511db`.
+> Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `J981b70cc6e283023`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J6b36427c3b2760b1`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J827a319dc3712125`.
 
 > [!warning] Superseded — Baseline NIT Key Detail 10 date/time fields only
 > Preserve the baseline source as history. C1 changes these fields, and C3 further replaces the C1 date/time fields. Latest supplied replacement: 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST). No claim is made about later notices.
-> Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `J70459e3caeaaef12`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J51c423559e058474`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J4805b52601f511db`.
+> Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `Jcbe0f7287bb5da91`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J6b36427c3b2760b1`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J827a319dc3712125`.
 
 > [!warning] Superseded — C1 date/time fields in the cited source record only
 > The C1 values for Key Detail 10 are historical. C3 replaces 09.10.2026 (From 10.00 AM) to 15.10.2026 (up to 3.00 PM) (IST) with 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST). This callout does not supersede the entire synthesized claim.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J51c423559e058474`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J4805b52601f511db`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J6b36427c3b2760b1`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J827a319dc3712125`.
 
 > [!warning] Superseded — Baseline NIT Key Detail 10 date/time fields only
 > Preserve the baseline source as history. C1 changes these fields, and C3 further replaces the C1 date/time fields. Latest supplied replacement: 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST). No claim is made about later notices.
-> Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `J54c382c09ffff5f9`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J51c423559e058474`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J4805b52601f511db`.
+> Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `J981b70cc6e283023`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J6b36427c3b2760b1`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J827a319dc3712125`.
 
 > [!warning] Superseded — Baseline NIT Key Detail 10 date/time fields only
 > Preserve the baseline source as history. C1 changes these fields, and C3 further replaces the C1 date/time fields. Latest supplied replacement: 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST). No claim is made about later notices.
-> Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `J70459e3caeaaef12`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J51c423559e058474`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J4805b52601f511db`.
+> Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `Jcbe0f7287bb5da91`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J6b36427c3b2760b1`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J827a319dc3712125`.
 
 > [!warning] Superseded — C1 date/time fields in the cited source record only
 > The C1 values for Key Detail 10 are historical. C3 replaces 09.10.2026 (From 10.00 AM) to 15.10.2026 (up to 3.00 PM) (IST) with 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST). This callout does not supersede the entire synthesized claim.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J51c423559e058474`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J4805b52601f511db`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J6b36427c3b2760b1`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J827a319dc3712125`.
 
 > [!warning] Superseded — Baseline NIT Key Detail 10 date/time fields only
 > Preserve the baseline source as history. C1 changes these fields, and C3 further replaces the C1 date/time fields. Latest supplied replacement: 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST). No claim is made about later notices.
-> Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `J54c382c09ffff5f9`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J51c423559e058474`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J4805b52601f511db`.
+> Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `J981b70cc6e283023`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J6b36427c3b2760b1`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J827a319dc3712125`.
 
 > [!warning] Superseded — Baseline NIT Key Detail 10 date/time fields only
 > Preserve the baseline source as history. C1 changes these fields, and C3 further replaces the C1 date/time fields. Latest supplied replacement: 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST). No claim is made about later notices.
-> Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `J70459e3caeaaef12`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J51c423559e058474`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J4805b52601f511db`.
+> Evidence: [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]; `Vol1DLNP1.pdf`; PDF page(s) 7; `Jcbe0f7287bb5da91`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `DLN_P1_AandC1_157.PDF`; PDF page(s) 1; `J6b36427c3b2760b1`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]; `AandC3_DLN_P1_157.PDF`; PDF page(s) 1; `J827a319dc3712125`.
 
 <details>
 <summary>Supporting source passages</summary>
 
-### S09ae5a2a5bf6b41c
+### Sc18621fd1b08f3e0
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]
 
 > - **Submission Period:** 03.10.2026, from 10.00 AM, to 09.10.2026, up to 3.00 PM (IST).
 
-### J54c382c09ffff5f9
+### J981b70cc6e283023
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]
 
@@ -2198,7 +2266,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J70459e3caeaaef12
+### Jcbe0f7287bb5da91
 
 [[OKF_bundle/Technical/Vol1/secA#Key Detail 10 — Online Tender Submission|Key Detail 10 — Online Tender Submission]]
 
@@ -2242,7 +2310,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "value": "03.10.2026 (From 10.00 AM) to 09.10.2026 (up to\n3.00 PM) (IST)"
 > }
 
-### Sfd1aa114f35e9e94
+### S69a6c3139d9e4c35
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]
 
@@ -2255,7 +2323,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > 
 > Both the opening date and closing date of the submission window change.
 
-### J51c423559e058474
+### J6b36427c3b2760b1
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C1#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]
 
@@ -2283,7 +2351,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### S052ffbb3a0e241a0
+### S833aa656a16da78a
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]
 
@@ -2296,7 +2364,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > 
 > The opening date remains 09.10.2026. It is not changed to 16.10.2026.
 
-### J4805b52601f511db
+### J827a319dc3712125
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C3#Change 2 — Online Tender Submission Date and Time|Change 2 — Online Tender Submission Date and Time]]
 
@@ -2325,7 +2393,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J099b5fe5de51f74d
+### Jeb83d1b7a6d87fee
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -2369,7 +2437,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "value": "Defects Liability Period is 6 months from the date of Taking over\nmentioned in Taking Over Certificates being issued for whole of\nthe work."
 > }
 
-### Jf9d2ada6599b727b
+### Jcc49f8beaf50a801
 
 [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]
 
@@ -2400,7 +2468,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Contract Agreement"
 > }
 
-### J09eb38685b1042c6
+### J9eeb4ca708ebff86
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]
 
@@ -3307,7 +3375,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Contractor SHE Committee"
 > }
 
-### J81bb5479e7edcd11
+### J6af8ef325f51b6bf
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 

@@ -6,130 +6,130 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-30T13:10:32+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T06:32:09+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /preamble/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/7
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/10
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/14
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/20
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/21
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/17
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/22
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/13
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_10_tables.json
   json_sha256: df3db5efde82645c9045e98bb0fbc96c7d963498c8ee38a99fdbec3da94a4ba3
   json_pointer: /notes/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_10_tables.json
   json_sha256: df3db5efde82645c9045e98bb0fbc96c7d963498c8ee38a99fdbec3da94a4ba3
   json_pointer: /notes/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_d_technical_bid/attachment_10_tables.json
   json_sha256: df3db5efde82645c9045e98bb0fbc96c7d963498c8ee38a99fdbec3da94a4ba3
   json_pointer: /full_form_context/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secD.md
-  okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+  okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
   source_document: Vol1DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/11
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/4
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
   json_pointer: /clauses/6
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secB.md
-  okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+  okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_b_itt/itt_clauses.json
   json_sha256: 5cbf8e397b40de4d6a1dfcd47405f4c93e0487e11869bb7807e45ebef78c56bf
@@ -140,17 +140,17 @@ claims:
   text: The Instructions to Tenderers (ITT) governs tender participation, document composition, submission, opening,
     evaluation, award, and formal contract execution for BMRCL Tender Package P1.
   evidence_ids:
-  - S66f566d4f630a01b
-  - J64b5a39bf4e41201
+  - Saed4fe474400415a
+  - J84812ea5bd0d508e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cdab427eceef3ea85
+  id: C320ccd4b3e45e84e
   citations:
-  - id: S66f566d4f630a01b
+  - id: Saed4fe474400415a
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Instructions to Tenderers
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -178,9 +178,9 @@ claims:
       evaluation, award, and contract formalities.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: document_metadata_range
-  - id: J64b5a39bf4e41201
+  - id: J84812ea5bd0d508e
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Instructions to Tenderers
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -204,20 +204,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:10:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cdab427eceef3ea85
+    previous_evidence_ids:
+    - S66f566d4f630a01b
+    - J64b5a39bf4e41201
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Tenders must be submitted as a Single Entity only; participation as a Joint Venture is expressly not permitted.
   evidence_ids:
-  - J2ef5776f222301f0
-  - S68b4fc0a54c14f0b
+  - Jbc10aa6f7d256175
+  - S0b291d5c5d47c7c2
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd118755e10afaf5c
+  id: C96e550bf3dba57e5
   citations:
-  - id: J2ef5776f222301f0
+  - id: Jbc10aa6f7d256175
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 2.0 — Information & Requirements
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -241,9 +252,9 @@ claims:
       \ \"2.0      INFORMATION & REQUIREMENTS\",\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: S68b4fc0a54c14f0b
+  - id: S0b291d5c5d47c7c2
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 2.0 — Information & Requirements
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -257,20 +268,31 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:10:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd118755e10afaf5c
+    previous_evidence_ids:
+    - J2ef5776f222301f0
+    - S68b4fc0a54c14f0b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Package P1 has been issued concurrently with three similar demolition tender packages (P2, P3, and P4),
     allowing tenderers to bid for any one, two, three, or all four packages.
   evidence_ids:
-  - J2ef5776f222301f0
+  - Jbc10aa6f7d256175
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C568b9112c8a87238
+  id: C2c6345be261a8309
   citations:
-  - id: J2ef5776f222301f0
+  - id: Jbc10aa6f7d256175
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 2.0 — Information & Requirements
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -296,21 +318,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T13:10:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C568b9112c8a87238
+    previous_evidence_ids:
+    - J2ef5776f222301f0
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: All tender documents and communications must be in English; if any document is in another language, an accurate
     English translation must be provided, which shall prevail for interpretation and evaluation.
   evidence_ids:
-  - Ja92023255f51cfcf
-  - S7be3f9f25b2494d2
+  - J9567cff6ed57c98f
+  - S6c8f98d19f433c1f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce757d807e1ab7f2d
+  id: Cf1dd9bdddfa4bb16
   citations:
-  - id: Ja92023255f51cfcf
+  - id: J9567cff6ed57c98f
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 8.0 — Language of Tender
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -331,9 +363,9 @@ claims:
       \ be in English\",\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: S7be3f9f25b2494d2
+  - id: S6c8f98d19f433c1f
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 8.0 — Language of Tender
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -347,20 +379,31 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:10:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce757d807e1ab7f2d
+    previous_evidence_ids:
+    - Ja92023255f51cfcf
+    - S7be3f9f25b2494d2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Tender prices must be quoted exclusively in Indian Rupees.
   evidence_ids:
-  - Jeda157492debd7e7
-  - Sdc9b603bd8e6f937
+  - J8d5015cde4a4ab1b
+  - Sf2edc9126f02280b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ccf6fb0d5771eb547
+  id: C2f599ef2ce436413
   citations:
-  - id: Jeda157492debd7e7
+  - id: J8d5015cde4a4ab1b
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 11.0 — Currencies of the Tender
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -378,9 +421,9 @@ claims:
       ,\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Sdc9b603bd8e6f937
+  - id: Sf2edc9126f02280b
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 11.0 — Currencies of the Tender
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -390,25 +433,36 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:10:32+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ccf6fb0d5771eb547
+    previous_evidence_ids:
+    - Jeda157492debd7e7
+    - Sdc9b603bd8e6f937
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: BMRCL Instructions to Tenderers Section B sets forth detailed procedures for tender preparation, online
     submission via the e-procurement portal, bid opening, formal evaluation, responsiveness determination, and contract
     award.
   evidence_ids:
-  - J01104c0b7aaa515d
-  - J09c893b8d562efdc
-  - J82de4565268740e7
-  - Jbacd1782c518d531
-  - Jb25a9057634bb2b6
+  - J2cf6807848ed47fc
+  - Jc3c19f8b0cc71e2b
+  - Ja51d59e2490f098e
+  - Je75bb9fb94961f44
+  - J0fb81567b0e37abb
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5ba902a561fbb601
+  id: Cb971e5da1b832be8
   citations:
-  - id: J01104c0b7aaa515d
+  - id: J2cf6807848ed47fc
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 15.0 — Submission of Tenders
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -450,9 +504,9 @@ claims:
       review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J09c893b8d562efdc
+  - id: Jc3c19f8b0cc71e2b
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 21.0 — Determination of Responsiveness
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -492,9 +546,9 @@ claims:
       ,\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J82de4565268740e7
+  - id: Ja51d59e2490f098e
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 22.0 — Evaluation of Tender
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -626,9 +680,9 @@ claims:
       ,\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jbacd1782c518d531
+  - id: Je75bb9fb94961f44
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 18.0 — Tender Opening
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -659,9 +713,9 @@ claims:
       \ \"heading_line\": \"18.0     TENDER OPENING\",\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jb25a9057634bb2b6
+  - id: J0fb81567b0e37abb
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 23.0 — Award Criteria
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -712,21 +766,35 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T13:11:43+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5ba902a561fbb601
+    previous_evidence_ids:
+    - J01104c0b7aaa515d
+    - J09c893b8d562efdc
+    - J82de4565268740e7
+    - Jbacd1782c518d531
+    - Jb25a9057634bb2b6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Tenders must be submitted online using a Class III digital signature on the e-procurement portal, and physical
     tenders are strictly prohibited.
   evidence_ids:
-  - J01104c0b7aaa515d
-  - J0cda7feb6f39e38c
+  - J2cf6807848ed47fc
+  - Je19197019d37460c
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ced722320e97c2447
+  id: C9dcc18c6478491b8
   citations:
-  - id: J01104c0b7aaa515d
+  - id: J2cf6807848ed47fc
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 15.0 — Submission of Tenders
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -768,9 +836,9 @@ claims:
       review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J0cda7feb6f39e38c
+  - id: Je19197019d37460c
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 14.0 — Format and Signing of Tenders
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -814,24 +882,35 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T13:11:43+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ced722320e97c2447
+    previous_evidence_ids:
+    - J01104c0b7aaa515d
+    - J0cda7feb6f39e38c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Attachment 10 notes stipulate that the specified plant and equipment are minimums to be deployed at appropriate
     stages, and tenderers must deploy additional machinery as circumstances warrant to complete the work within
     the stipulated completion period at no extra cost, ensuring all equipment is in good serviceable condition.
   evidence_ids:
-  - J6712136dec3edcb1
-  - Jcd6ebab6b4b9f050
-  - Jd8027164bb3d94d7
-  - S9d127130be019977
+  - Jd7e6de1543901ee0
+  - J4bcfa2a598881add
+  - J1a22c44515b0b4ff
+  - S06abea17e682b949
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca6f48158c4ef627f
+  id: Ca7ff576c85dd1d2c
   citations:
-  - id: J6712136dec3edcb1
+  - id: Jd7e6de1543901ee0
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -848,9 +927,9 @@ claims:
       \ in good serviceable condition.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jcd6ebab6b4b9f050
+  - id: J4bcfa2a598881add
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -869,9 +948,9 @@ claims:
       \ warrant at no extra cost.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jd8027164bb3d94d7
+  - id: J1a22c44515b0b4ff
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Letter of Technical Bid (Including Attachments)
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -904,9 +983,9 @@ claims:
       \ of signatory: ……………………………\\nName and address of Tenderer:………………..\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S9d127130be019977
+  - id: S06abea17e682b949
     okf_path: OKF_bundle/Technical/Vol1/secD.md
-    okf_sha256: fb8297a9b0fb5a39db7af743aed04bb65c2a461730b8d1572f10654738e1a198
+    okf_sha256: 20868ef64fc77af0623087c29acb6a052822c80cdf176cddeb170ab7bc8fe68d
     heading: Attachment-10 — Minimum Plants and Equipment for the Work
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -922,21 +1001,34 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-30T13:20:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca6f48158c4ef627f
+    previous_evidence_ids:
+    - J6712136dec3edcb1
+    - Jcd6ebab6b4b9f050
+    - Jd8027164bb3d94d7
+    - S9d127130be019977
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Under ITT 12, a tenderer may refuse a request to extend tender validity without forfeiting its Tender Security
     (EMD). A tenderer agreeing to the request is not permitted to modify or alter its tender, including quoted prices
     or terms.
   evidence_ids:
-  - J46f4f62e1337f609
+  - Jecffefa14596505a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3404415d3c79c49d
+  id: Cdba74101cfb90825
   citations:
-  - id: J46f4f62e1337f609
+  - id: Jecffefa14596505a
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 12.0 — Tender Validity
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -965,23 +1057,33 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T17:00:51+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3404415d3c79c49d
+    previous_evidence_ids:
+    - J46f4f62e1337f609
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Section B Instructions to Tenderers defines the complete components of the tender documents, including technical
     and financial volumes, and governs confidentiality, addenda priorities, tender modifications, and clarification
     procedures.
   evidence_ids:
-  - J779ebe20ca5d5821
-  - J8491194dd6f4d9ec
-  - Jfb725f509e473676
+  - J43ced15c147bcb43
+  - Jef33ad2d05217f24
+  - J1baf1e129a1708a7
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cce7b6e4dd708aced
+  id: C0229ae33633dc1f7
   citations:
-  - id: J779ebe20ca5d5821
+  - id: J43ced15c147bcb43
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 5.0 — Contents of Tender Documents
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1019,9 +1121,9 @@ claims:
       ,\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J8491194dd6f4d9ec
+  - id: Jef33ad2d05217f24
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 7.0 — Amendment to Tender Documents
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1047,9 +1149,9 @@ claims:
       \ TO TENDER DOCUMENTS\",\n  \"review_status\": \"pending_manual_review\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jfb725f509e473676
+  - id: J1baf1e129a1708a7
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 17.0 — Modification and Withdrawal of Tenders
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1075,21 +1177,33 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T06:32:09+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cce7b6e4dd708aced
+    previous_evidence_ids:
+    - J779ebe20ca5d5821
+    - J8491194dd6f4d9ec
+    - Jfb725f509e473676
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Tender Document Volume 1 comprises Sections A through G, Volume 2 covers Employer Requirements and Specifications,
     Volume 3 comprises the SHE Manual, and the Financial Document Volume 4 includes the Letter of Price Bid, Preamble,
     BOQ, and BOQ summary spreadsheet.
   evidence_ids:
-  - J779ebe20ca5d5821
+  - J43ced15c147bcb43
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9598ff5d239b01a8
+  id: Ccf2f483f631e8b65
   citations:
-  - id: J779ebe20ca5d5821
+  - id: J43ced15c147bcb43
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 5.0 — Contents of Tender Documents
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1129,20 +1243,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T06:32:09+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9598ff5d239b01a8
+    previous_evidence_ids:
+    - J779ebe20ca5d5821
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Addenda and corrigenda issued prior to the tender submission deadline take priority over previously issued
     tender documents, without prejudice to GCC Clause 1.5 order of preference.
   evidence_ids:
-  - J8491194dd6f4d9ec
+  - Jef33ad2d05217f24
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2e639f0c8df89b8f
+  id: C41bb179de94faff7
   citations:
-  - id: J8491194dd6f4d9ec
+  - id: Jef33ad2d05217f24
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 7.0 — Amendment to Tender Documents
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1170,20 +1294,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T06:32:09+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2e639f0c8df89b8f
+    previous_evidence_ids:
+    - J8491194dd6f4d9ec
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Tenderers are strictly prohibited from altering, erasing, or obliterating the text of Employer-prepared
     documents, and online submissions on the eProcurement Portal are treated as the final binding bid.
   evidence_ids:
-  - Jfb725f509e473676
+  - J1baf1e129a1708a7
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb447fc070f417f00
+  id: Cdc3eca67206353b9
   citations:
-  - id: Jfb725f509e473676
+  - id: J1baf1e129a1708a7
     okf_path: OKF_bundle/Technical/Vol1/secB.md
-    okf_sha256: e939aa5d764ea69ebc90821e3739717055c6fc9a79f67e3ed96823ded78b04f9
+    okf_sha256: e3cf38f3c94155bb807c3dc1374cc20588ab715e06455bf88cda54b8e92b1665
     heading: Clause 17.0 — Modification and Withdrawal of Tenders
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1209,13 +1343,23 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T06:32:09+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb447fc070f417f00
+    previous_evidence_ids:
+    - Jfb725f509e473676
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: belongs_to
   target: index.md
   title: BMRCL Wiki Index
   evidence_ids:
-  - S66f566d4f630a01b
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - Saed4fe474400415a
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Instructions to Tenderers (ITT) Overview and Supplementary Provisions
@@ -1225,59 +1369,59 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - The Instructions to Tenderers (ITT) governs tender participation, document composition, submission, opening, evaluation, award, and formal contract execution for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Instructions to Tenderers|Instructions to Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25; quotation `S66f566d4f630a01b`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Instructions to Tenderers|Instructions to Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 11; quotation `J64b5a39bf4e41201`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/preamble/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Instructions to Tenderers|Instructions to Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25; quotation `Saed4fe474400415a`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Instructions to Tenderers|Instructions to Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 11; quotation `J84812ea5bd0d508e`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/preamble/0`.
 
 - BMRCL Instructions to Tenderers Section B sets forth detailed procedures for tender preparation, online submission via the e-procurement portal, bid opening, formal evaluation, responsiveness determination, and contract award.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 15.0 — Submission of Tenders|Clause 15.0 — Submission of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 19; quotation `J01104c0b7aaa515d`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/14`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 21.0 — Determination of Responsiveness|Clause 21.0 — Determination of Responsiveness]]; `Vol1DLNP1.pdf`; PDF page(s) 20, 21; quotation `J09c893b8d562efdc`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/20`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 22.0 — Evaluation of Tender|Clause 22.0 — Evaluation of Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 21, 22, 23; quotation `J82de4565268740e7`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/21`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 18.0 — Tender Opening|Clause 18.0 — Tender Opening]]; `Vol1DLNP1.pdf`; PDF page(s) 20; quotation `Jbacd1782c518d531`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/17`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 23.0 — Award Criteria|Clause 23.0 — Award Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 23, 24; quotation `Jb25a9057634bb2b6`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/22`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 15.0 — Submission of Tenders|Clause 15.0 — Submission of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 19; quotation `J2cf6807848ed47fc`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 21.0 — Determination of Responsiveness|Clause 21.0 — Determination of Responsiveness]]; `Vol1DLNP1.pdf`; PDF page(s) 20, 21; quotation `Jc3c19f8b0cc71e2b`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/20`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 22.0 — Evaluation of Tender|Clause 22.0 — Evaluation of Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 21, 22, 23; quotation `Ja51d59e2490f098e`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/21`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 18.0 — Tender Opening|Clause 18.0 — Tender Opening]]; `Vol1DLNP1.pdf`; PDF page(s) 20; quotation `Je75bb9fb94961f44`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/17`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 23.0 — Award Criteria|Clause 23.0 — Award Criteria]]; `Vol1DLNP1.pdf`; PDF page(s) 23, 24; quotation `J0fb81567b0e37abb`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/22`.
 
 - Attachment 10 notes stipulate that the specified plant and equipment are minimums to be deployed at appropriate stages, and tenderers must deploy additional machinery as circumstances warrant to complete the work within the stipulated completion period at no extra cost, ensuring all equipment is in good serviceable condition.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `J6712136dec3edcb1`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_10_tables.json#/notes/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `Jcd6ebab6b4b9f050`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_10_tables.json#/notes/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `Jd8027164bb3d94d7`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_10_tables.json#/full_form_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-10 — Minimum Plants and Equipment for the Work|Attachment-10 — Minimum Plants and Equipment for the Work]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `S9d127130be019977`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `Jd7e6de1543901ee0`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_10_tables.json#/notes/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `J4bcfa2a598881add`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_10_tables.json#/notes/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `J1a22c44515b0b4ff`. JSON: `parsed_json/vol1/section_d_technical_bid/attachment_10_tables.json#/full_form_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secD#Attachment-10 — Minimum Plants and Equipment for the Work|Attachment-10 — Minimum Plants and Equipment for the Work]]; `Vol1DLNP1.pdf`; PDF page(s) 52; quotation `S06abea17e682b949`.
 
 - Section B Instructions to Tenderers defines the complete components of the tender documents, including technical and financial volumes, and governs confidentiality, addenda priorities, tender modifications, and clarification procedures.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 5.0 — Contents of Tender Documents|Clause 5.0 — Contents of Tender Documents]]; `Vol1DLNP1.pdf`; PDF page(s) 12; quotation `J779ebe20ca5d5821`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 7.0 — Amendment to Tender Documents|Clause 7.0 — Amendment to Tender Documents]]; `Vol1DLNP1.pdf`; PDF page(s) 13; quotation `J8491194dd6f4d9ec`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 17.0 — Modification and Withdrawal of Tenders|Clause 17.0 — Modification and Withdrawal of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 19; quotation `Jfb725f509e473676`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 5.0 — Contents of Tender Documents|Clause 5.0 — Contents of Tender Documents]]; `Vol1DLNP1.pdf`; PDF page(s) 12; quotation `J43ced15c147bcb43`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 7.0 — Amendment to Tender Documents|Clause 7.0 — Amendment to Tender Documents]]; `Vol1DLNP1.pdf`; PDF page(s) 13; quotation `Jef33ad2d05217f24`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 17.0 — Modification and Withdrawal of Tenders|Clause 17.0 — Modification and Withdrawal of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 19; quotation `J1baf1e129a1708a7`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/16`.
 
 - Tenderers are strictly prohibited from altering, erasing, or obliterating the text of Employer-prepared documents, and online submissions on the eProcurement Portal are treated as the final binding bid.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 17.0 — Modification and Withdrawal of Tenders|Clause 17.0 — Modification and Withdrawal of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 19; quotation `Jfb725f509e473676`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 17.0 — Modification and Withdrawal of Tenders|Clause 17.0 — Modification and Withdrawal of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 19; quotation `J1baf1e129a1708a7`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/16`.
 
 ## Key Parameters and Source Statements
 
 - Tenders must be submitted as a Single Entity only; participation as a Joint Venture is expressly not permitted.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 2.0 — Information & Requirements|Clause 2.0 — Information & Requirements]]; `Vol1DLNP1.pdf`; PDF page(s) 11; quotation `J2ef5776f222301f0`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 2.0 — Information & Requirements|Clause 2.0 — Information & Requirements]]; `Vol1DLNP1.pdf`; PDF page(s) 11; quotation `S68b4fc0a54c14f0b`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 2.0 — Information & Requirements|Clause 2.0 — Information & Requirements]]; `Vol1DLNP1.pdf`; PDF page(s) 11; quotation `Jbc10aa6f7d256175`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 2.0 — Information & Requirements|Clause 2.0 — Information & Requirements]]; `Vol1DLNP1.pdf`; PDF page(s) 11; quotation `S0b291d5c5d47c7c2`.
 
 - Package P1 has been issued concurrently with three similar demolition tender packages (P2, P3, and P4), allowing tenderers to bid for any one, two, three, or all four packages.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 2.0 — Information & Requirements|Clause 2.0 — Information & Requirements]]; `Vol1DLNP1.pdf`; PDF page(s) 11; quotation `J2ef5776f222301f0`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 2.0 — Information & Requirements|Clause 2.0 — Information & Requirements]]; `Vol1DLNP1.pdf`; PDF page(s) 11; quotation `Jbc10aa6f7d256175`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/1`.
 
 - All tender documents and communications must be in English; if any document is in another language, an accurate English translation must be provided, which shall prevail for interpretation and evaluation.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 8.0 — Language of Tender|Clause 8.0 — Language of Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 13; quotation `Ja92023255f51cfcf`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/7`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 8.0 — Language of Tender|Clause 8.0 — Language of Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 13; quotation `S7be3f9f25b2494d2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 8.0 — Language of Tender|Clause 8.0 — Language of Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 13; quotation `J9567cff6ed57c98f`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 8.0 — Language of Tender|Clause 8.0 — Language of Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 13; quotation `S6c8f98d19f433c1f`.
 
 - Tender prices must be quoted exclusively in Indian Rupees.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 11.0 — Currencies of the Tender|Clause 11.0 — Currencies of the Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 15; quotation `Jeda157492debd7e7`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/10`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 11.0 — Currencies of the Tender|Clause 11.0 — Currencies of the Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 15; quotation `Sdc9b603bd8e6f937`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 11.0 — Currencies of the Tender|Clause 11.0 — Currencies of the Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 15; quotation `J8d5015cde4a4ab1b`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 11.0 — Currencies of the Tender|Clause 11.0 — Currencies of the Tender]]; `Vol1DLNP1.pdf`; PDF page(s) 15; quotation `Sf2edc9126f02280b`.
 
 - Tenders must be submitted online using a Class III digital signature on the e-procurement portal, and physical tenders are strictly prohibited.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 15.0 — Submission of Tenders|Clause 15.0 — Submission of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 19; quotation `J01104c0b7aaa515d`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/14`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 14.0 — Format and Signing of Tenders|Clause 14.0 — Format and Signing of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 18; quotation `J0cda7feb6f39e38c`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 15.0 — Submission of Tenders|Clause 15.0 — Submission of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 19; quotation `J2cf6807848ed47fc`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 14.0 — Format and Signing of Tenders|Clause 14.0 — Format and Signing of Tenders]]; `Vol1DLNP1.pdf`; PDF page(s) 18; quotation `Je19197019d37460c`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/13`.
 
 - Under ITT 12, a tenderer may refuse a request to extend tender validity without forfeiting its Tender Security (EMD). A tenderer agreeing to the request is not permitted to modify or alter its tender, including quoted prices or terms.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 12.0 — Tender Validity|Clause 12.0 — Tender Validity]]; `Vol1DLNP1.pdf`; PDF page(s) 15; quotation `J46f4f62e1337f609`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 12.0 — Tender Validity|Clause 12.0 — Tender Validity]]; `Vol1DLNP1.pdf`; PDF page(s) 15; quotation `Jecffefa14596505a`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/11`.
 
 - Tender Document Volume 1 comprises Sections A through G, Volume 2 covers Employer Requirements and Specifications, Volume 3 comprises the SHE Manual, and the Financial Document Volume 4 includes the Letter of Price Bid, Preamble, BOQ, and BOQ summary spreadsheet.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 5.0 — Contents of Tender Documents|Clause 5.0 — Contents of Tender Documents]]; `Vol1DLNP1.pdf`; PDF page(s) 12; quotation `J779ebe20ca5d5821`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 5.0 — Contents of Tender Documents|Clause 5.0 — Contents of Tender Documents]]; `Vol1DLNP1.pdf`; PDF page(s) 12; quotation `J43ced15c147bcb43`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/4`.
 
 - Addenda and corrigenda issued prior to the tender submission deadline take priority over previously issued tender documents, without prejudice to GCC Clause 1.5 order of preference.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 7.0 — Amendment to Tender Documents|Clause 7.0 — Amendment to Tender Documents]]; `Vol1DLNP1.pdf`; PDF page(s) 13; quotation `J8491194dd6f4d9ec`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Clause 7.0 — Amendment to Tender Documents|Clause 7.0 — Amendment to Tender Documents]]; `Vol1DLNP1.pdf`; PDF page(s) 13; quotation `Jef33ad2d05217f24`. JSON: `parsed_json/vol1/section_b_itt/itt_clauses.json#/clauses/6`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol1/secB#Instructions to Tenderers|Instructions to Tenderers]]
@@ -1300,7 +1444,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Typed Relations
 
 - **belongs_to (editorial, inferred):** [[wiki/index|BMRCL Wiki Index]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Instructions to Tenderers|Instructions to Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25; `S66f566d4f630a01b`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secB#Instructions to Tenderers|Instructions to Tenderers]]; `Vol1DLNP1.pdf`; PDF page(s) 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25; `Saed4fe474400415a`.
 
 ## Open Questions and Contradictions
 
@@ -1309,7 +1453,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### S66f566d4f630a01b
+### Saed4fe474400415a
 
 [[OKF_bundle/Technical/Vol1/secB#Instructions to Tenderers|Instructions to Tenderers]]
 
@@ -1317,7 +1461,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > 
 > The ITT describes the requirements governing tender participation, document preparation, submission, opening, evaluation, award, and contract formalities.
 
-### J64b5a39bf4e41201
+### J84812ea5bd0d508e
 
 [[OKF_bundle/Technical/Vol1/secB#Instructions to Tenderers|Instructions to Tenderers]]
 
@@ -1326,7 +1470,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "INSTRUCTIONS TO TENDERERS (ITT)\n\n  Name of the work: “Partial and Full Demolition/Dismantling of Buildings/Structures identified in\n  Bangalore Metro Rail Project Phase-3.”\n          Contract Package-P1:  “Partial and  Full  Demolition/Dismantling  of  Buildings/Structures\n            identified from JP Nagar 4th Phase Station to Mysore Road Station (from Ch: (-) 0.330 Km to\n          Ch: 10.550 Km) in Corridor-1of Bangalore Metro Rail Project Phase-3.”\n\n  Bangalore Metro Rail Corporation Limited (BMRCL) invited bids through open e-tender (Single Stage –\n  Two Cover System) on the eProcurement Portal from eligible applicants for the above-mentioned work.\n\n  A      GENERAL"
 > }
 
-### J2ef5776f222301f0
+### Jbc10aa6f7d256175
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 2.0 — Information & Requirements|Clause 2.0 — Information & Requirements]]
 
@@ -1342,7 +1486,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### S68b4fc0a54c14f0b
+### S0b291d5c5d47c7c2
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 2.0 — Information & Requirements|Clause 2.0 — Information & Requirements]]
 
@@ -1350,7 +1494,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Joint Venture Restrictions** (Clause 2.2)
 > - **Related Tender Packages** (Clause 2.3)
 
-### Ja92023255f51cfcf
+### J9567cff6ed57c98f
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 8.0 — Language of Tender|Clause 8.0 — Language of Tender]]
 
@@ -1366,7 +1510,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### S7be3f9f25b2494d2
+### S6c8f98d19f433c1f
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 8.0 — Language of Tender|Clause 8.0 — Language of Tender]]
 
@@ -1374,7 +1518,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **English Translation**
 > - **Interpretation**
 
-### Jeda157492debd7e7
+### J8d5015cde4a4ab1b
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 11.0 — Currencies of the Tender|Clause 11.0 — Currencies of the Tender]]
 
@@ -1390,13 +1534,13 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Sdc9b603bd8e6f937
+### Sf2edc9126f02280b
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 11.0 — Currencies of the Tender|Clause 11.0 — Currencies of the Tender]]
 
 > - **Permitted Currency**
 
-### J01104c0b7aaa515d
+### J2cf6807848ed47fc
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 15.0 — Submission of Tenders|Clause 15.0 — Submission of Tenders]]
 
@@ -1412,7 +1556,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J09c893b8d562efdc
+### Jc3c19f8b0cc71e2b
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 21.0 — Determination of Responsiveness|Clause 21.0 — Determination of Responsiveness]]
 
@@ -1432,7 +1576,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J82de4565268740e7
+### Ja51d59e2490f098e
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 22.0 — Evaluation of Tender|Clause 22.0 — Evaluation of Tender]]
 
@@ -1456,7 +1600,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Jbacd1782c518d531
+### Je75bb9fb94961f44
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 18.0 — Tender Opening|Clause 18.0 — Tender Opening]]
 
@@ -1472,7 +1616,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Jb25a9057634bb2b6
+### J0fb81567b0e37abb
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 23.0 — Award Criteria|Clause 23.0 — Award Criteria]]
 
@@ -1492,7 +1636,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J0cda7feb6f39e38c
+### Je19197019d37460c
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 14.0 — Format and Signing of Tenders|Clause 14.0 — Format and Signing of Tenders]]
 
@@ -1508,7 +1652,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J6712136dec3edcb1
+### Jd7e6de1543901ee0
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -1520,7 +1664,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "2.  Plant and equipment to be mobilized for the work shall be in good serviceable condition."
 > }
 
-### Jcd6ebab6b4b9f050
+### J4bcfa2a598881add
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -1532,7 +1676,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "1.  Plant and Equipment indicated above is minimum to be deployed at appropriate stage of the work.\n          However, depending on the requirement to complete the work in the stipulated completion period,\n           the tenderer should deploy additional machinery as circumstances warrant at no extra cost."
 > }
 
-### Jd8027164bb3d94d7
+### J1a22c44515b0b4ff
 
 [[OKF_bundle/Technical/Vol1/secD#Letter of Technical Bid (Including Attachments)|Letter of Technical Bid (Including Attachments)]]
 
@@ -1541,7 +1685,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "ATTACHMENT -10\n\n                                   (To be submitted by Tenderer)\n\n\n                      MINIMUM PLANTS & EQUIPMENTS FOR THE WORK\n\n                           (TO BE DEPLOYED AS AND WHEN REQUIRED)\n\n\n       Tenderers should have the following plant and machinery either owned or leased or hired by him.\n\n        Sl.\n              Type of equipment required for the work         Proposed to be deployed\n\n\n       1    Diamond  disc  Cutter/floor saw  machine  with               3 Nos\n               suitable capacity\n\n       2    Wall Sawing Machine with suitable capacity                    3 Nos\n\n       3     Electric Drill Motors/ Hammer drilling machine                  4 Nos\n\n\n       4     Floor Saw Machine with suitable capacity                      4 Nos\n\n       5    Chipping Machine                                        12 Nos\n\n       6    Crusher/Combi Crusher                                    2 Nos\n\n       7     Hydraulic Mobile crane                                     2 Nos\n\n       8    High/Long Reach Demolition equipment as per               1 Nos\n              the requirement\n\n       9     Hydraulic rock breaker with loader                            2 Nos\n\n      10  DG set 100kV or higher capacity                             2 Nos\n\n\n  NOTE:\n        1.  Plant and Equipment indicated above is minimum to be deployed at appropriate stage of the work.\n          However, depending on the requirement to complete the work in the stipulated completion period,\n           the tenderer should deploy additional machinery as circumstances warrant at no extra cost.\n        2.  Plant and equipment to be mobilized for the work shall be in good serviceable condition.\n\n\n\n\n\nSignature) ……………………\nName of signatory: ………………………………\nCapacity of signatory: ……………………………\nName and address of Tenderer:……………….."
 > }
 
-### S9d127130be019977
+### S06abea17e682b949
 
 [[OKF_bundle/Technical/Vol1/secD#Attachment-10 — Minimum Plants and Equipment for the Work|Attachment-10 — Minimum Plants and Equipment for the Work]]
 
@@ -1550,7 +1694,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Additional Machinery at No Extra Cost** (Note 1)
 > - **Serviceable Condition Requirement** (Note 2)
 
-### J46f4f62e1337f609
+### Jecffefa14596505a
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 12.0 — Tender Validity|Clause 12.0 — Tender Validity]]
 
@@ -1566,7 +1710,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J779ebe20ca5d5821
+### J43ced15c147bcb43
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 5.0 — Contents of Tender Documents|Clause 5.0 — Contents of Tender Documents]]
 
@@ -1582,7 +1726,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### J8491194dd6f4d9ec
+### Jef33ad2d05217f24
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 7.0 — Amendment to Tender Documents|Clause 7.0 — Amendment to Tender Documents]]
 
@@ -1598,7 +1742,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "review_status": "pending_manual_review"
 > }
 
-### Jfb725f509e473676
+### J1baf1e129a1708a7
 
 [[OKF_bundle/Technical/Vol1/secB#Clause 17.0 — Modification and Withdrawal of Tenders|Clause 17.0 — Modification and Withdrawal of Tenders]]
 

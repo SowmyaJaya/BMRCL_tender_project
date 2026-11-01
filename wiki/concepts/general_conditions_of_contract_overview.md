@@ -6,505 +6,505 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-30T13:27:28+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T07:33:45+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /contents_pages/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /contents_pages/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/10
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/8
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/7
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/8
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/5
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/12
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/10
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/11
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/14
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/16
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/4
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/5
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/9
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/7
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/8
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/6
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/10/fragments/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/10/fragments/5
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/10/fragments/2
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/10/fragments/6
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/10/fragments/1
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/10/fragments/8
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/10/fragments/4
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/10/fragments/3
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/10/fragments/7
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/10/fragments/15
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/10/fragments/12
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/10/fragments/14
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/10/fragments/11
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/10/fragments/13
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/10/fragments/9
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/10/fragments/10
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/11
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/12
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/13
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/16
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /contract_data
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/17
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/15
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/14
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/14
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/13
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/12
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/11
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/16
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/6
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/8
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-  okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+  okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
   source_document: AandC2_DLN_P1_157.PDF
   json_path: parsed_json/addendum_corrigendum/corrigenda_amendments.json
   json_sha256: 41af12b27292ebbdcf0de3bbd3c72bf1a52ac20ad7977041d1ed344c3240e712
   json_pointer: /amendments/4
   source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
 - okf_path: OKF_bundle/Technical/Vol1/secG.md
-  okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+  okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_g_forms/contract_forms.json
   json_sha256: 41670e8866feba3a9ff42e73f2e1da67ed58b020778fce98ad11cf7bc8e2571f
   json_pointer: /forms/0
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/3
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/4
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/5
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/9
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/contract_data_table.json
   json_sha256: c50606c1aae8c00241df233c1dca694aab3deefbb1a6d2156b880f44beae0938
   json_pointer: /items/17
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/9
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/4
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/3
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/13
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/15
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/6
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol1/secE.md
-  okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+  okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
   source_document: Vol1DLNP1.pdf
   json_path: parsed_json/vol1/section_e_gcc/gcc_clauses.json
   json_sha256: ebcddb3df6158a35353d5cbabda41eaabf5b49ea6a2e275040396356122c49d5
   json_pointer: /clauses/3/fragments/7
   source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
@@ -516,18 +516,18 @@ claims:
     Tender Package P1, governing the rights, obligations, timeframes, and financial parameters between the Employer,
     Engineer, and Contractor across 18 clauses.
   evidence_ids:
-  - S413f0e71a030f746
-  - J10b9218b8f963460
-  - Jed5e9aba24b8eac6
+  - Sfa8c5aea1471cef2
+  - J11c78e424e603302
+  - J7763c02d3462f0d3
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2ce1803bd1947216
+  id: C4034289a0ab642e2
   citations:
-  - id: S413f0e71a030f746
+  - id: Sfa8c5aea1471cef2
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -619,9 +619,9 @@ claims:
       11.1.2) is omitted.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: document_metadata_range
-  - id: J10b9218b8f963460
+  - id: J11c78e424e603302
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -705,9 +705,9 @@ claims:
       \      ],\n      \"block_number\": 7,\n      \"text\": \"060\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jed5e9aba24b8eac6
+  - id: J7763c02d3462f0d3
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -785,24 +785,36 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-30T13:27:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2ce1803bd1947216
+    previous_evidence_ids:
+    - S413f0e71a030f746
+    - J10b9218b8f963460
+    - Jed5e9aba24b8eac6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Contract Data establishes key project parameters including a 12-month completion period, 5% performance
     security, milestone-based liquidated damages capped at 5% of the contract price, and a 6-month defects liability
     period.
   evidence_ids:
-  - J099b5fe5de51f74d
-  - J50cf7f54666ad6c6
-  - J6d08f664b55a27f6
-  - J8bd217cf1c0cb384
+  - Jeb83d1b7a6d87fee
+  - J70d8d9273eaa879c
+  - Jaf458862d0ce8129
+  - J68b56efe7d18bd1a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce038b26269dcd59f
+  id: C7532eebfa45e5a0e
   citations:
-  - id: J099b5fe5de51f74d
+  - id: Jeb83d1b7a6d87fee
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -827,9 +839,9 @@ claims:
       \ whole of\\nthe work.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J50cf7f54666ad6c6
+  - id: J70d8d9273eaa879c
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -907,9 +919,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J6d08f664b55a27f6
+  - id: Jaf458862d0ce8129
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -936,9 +948,9 @@ claims:
       \ works will be 12 months\\nreckoned from the Date of Commencement.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J8bd217cf1c0cb384
+  - id: J68b56efe7d18bd1a
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -969,26 +981,39 @@ claims:
   editorial_notes:
   - text: 'Contract Data baseline: six months. The Contract Agreement template separately states twelve months;
       discrepancy unresolved.'
-    related_claim_id: Ccbee310449417dd2
+    related_claim_id: C3c9ea7a86f0cc214
+  editorial_history:
+  - previous_claim_id: Ce038b26269dcd59f
+    previous_evidence_ids:
+    - J099b5fe5de51f74d
+    - J50cf7f54666ad6c6
+    - J6d08f664b55a27f6
+    - J8bd217cf1c0cb384
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Section E defines the General Conditions of Contract (GCC) and Contract Data for BMRCL Tender Package P1,
     covering definitions, the Employer, the Engineer, the Contractor, payment terms, insurance, variations, and
     dispute resolution across 18 clauses.
   evidence_ids:
-  - J10b9218b8f963460
-  - J166f7c346f54a774
-  - Jaf7b1fd2f94ad352
-  - Jf33838786f0f30e1
-  - Jfc9714b11b6c93cb
+  - J11c78e424e603302
+  - J327789a2a7201b30
+  - J9075206a7706061d
+  - J5ecb5e578858a268
+  - Jb775be0c2c64399b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4e3296251ffaf00e
+  id: C07866c57c3e718e5
   citations:
-  - id: J10b9218b8f963460
+  - id: J11c78e424e603302
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1072,9 +1097,9 @@ claims:
       \      ],\n      \"block_number\": 7,\n      \"text\": \"060\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J166f7c346f54a774
+  - id: J327789a2a7201b30
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 1 — Definitions and Interpretation
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1394,9 +1419,9 @@ claims:
       \ and Interpretation\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jaf7b1fd2f94ad352
+  - id: J9075206a7706061d
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 2 — The Employer
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1439,9 +1464,9 @@ claims:
       : \"The Employer\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jf33838786f0f30e1
+  - id: J5ecb5e578858a268
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -1465,9 +1490,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Jfc9714b11b6c93cb
+  - id: Jb775be0c2c64399b
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 3 — The Engineer
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2235,21 +2260,34 @@ claims:
         heading_alignment: document_heading_fallback_not_a_subclause_match
       created_at: '2026-10-30T13:31:12+00:00'
       status: draft
+  - previous_claim_id: C4e3296251ffaf00e
+    previous_evidence_ids:
+    - J10b9218b8f963460
+    - J166f7c346f54a774
+    - Jaf7b1fd2f94ad352
+    - Jf33838786f0f30e1
+    - Jfc9714b11b6c93cb
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T11:49:40+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Defects Liability Period is specified as 6 months from the date of Taking Over Certificates being issued
     for the whole of the work.
   evidence_ids:
-  - J099b5fe5de51f74d
+  - Jeb83d1b7a6d87fee
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C706d341c4623d504
+  id: Ca8e785c0e3250a01
   citations:
-  - id: J099b5fe5de51f74d
+  - id: Jeb83d1b7a6d87fee
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2279,21 +2317,31 @@ claims:
   editorial_notes:
   - text: 'Contract Data baseline: six months. The Contract Agreement template separately states twelve months;
       discrepancy unresolved.'
-    related_claim_id: Ccbee310449417dd2
+    related_claim_id: C3c9ea7a86f0cc214
+  editorial_history:
+  - previous_claim_id: C706d341c4623d504
+    previous_evidence_ids:
+    - J099b5fe5de51f74d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Engineer has explicit authority to oversee works, monitor test results, and issue necessary instructions
     for execution, but holds no authority to amend the Contract or relieve the Contractor of its obligations.
   evidence_ids:
-  - Jfc9714b11b6c93cb
+  - Jb775be0c2c64399b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cafdf7a60dc6cc20f
+  id: C6352a7c9c339d3b8
   citations:
-  - id: Jfc9714b11b6c93cb
+  - id: Jb775be0c2c64399b
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 3 — The Engineer
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2366,21 +2414,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-30T13:29:46+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cafdf7a60dc6cc20f
+    previous_evidence_ids:
+    - Jfc9714b11b6c93cb
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor's general obligations include designing (if in scope), executing, completing, testing, and
     commissioning the Works within the Time for Completion and remedying defects, while taking full responsibility
     for the adequacy, stability, and safety of all site operations.
   evidence_ids:
-  - Jb8d20a5a82c66dae
+  - J5bbb477947601531
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5737662c8476e7e2
+  id: C4378bff9885d46a2
   citations:
-  - id: Jb8d20a5a82c66dae
+  - id: J5bbb477947601531
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2456,21 +2514,31 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-30T13:31:12+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5737662c8476e7e2
+    previous_evidence_ids:
+    - Jb8d20a5a82c66dae
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The successful tenderer must furnish a Performance Security either as an unconditional and irrevocable e-Bank
     Guarantee from an Indian Scheduled Bank or scheduled Foreign Bank, or as an Insurance Surety Bond from an IRDA-authorized
     insurer.
   evidence_ids:
-  - J53354df6bf3b7556
+  - J59080c39eb32cf34
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd563a69b71d20684
+  id: C225c48f5327b35e3
   citations:
-  - id: J53354df6bf3b7556
+  - id: J59080c39eb32cf34
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2552,20 +2620,30 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-30T13:31:12+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd563a69b71d20684
+    previous_evidence_ids:
+    - J53354df6bf3b7556
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Performance Security is required to be valid and enforceable up to 60 days beyond the completion period,
     and extensions must be provided by the contractor at their own cost if the completion period is extended.
   evidence_ids:
-  - J53354df6bf3b7556
+  - J59080c39eb32cf34
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd8218b11231dc2be
+  id: Ca881a40f43f24b99
   citations:
-  - id: J53354df6bf3b7556
+  - id: J59080c39eb32cf34
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2647,20 +2725,30 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-30T13:31:12+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd8218b11231dc2be
+    previous_evidence_ids:
+    - J53354df6bf3b7556
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Contractor must submit an initial programme using precedence networking techniques to the Engineer no
     later than 28 days from the date of receipt of the Letter of Acceptance.
   evidence_ids:
-  - J18ff8ca501f1ddf3
+  - J2302d893bd99709d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9e2f0e0ced2181ac
+  id: Cffd166b38c147206
   citations:
-  - id: J18ff8ca501f1ddf3
+  - id: J2302d893bd99709d
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2743,21 +2831,31 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-30T13:31:12+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9e2f0e0ced2181ac
+    previous_evidence_ids:
+    - J18ff8ca501f1ddf3
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Sub-contracting of works is permitted only with the prior consent of the Engineer or Employer and is limited
     to the value stated in the Contract Data, and the Contractor remains fully responsible for all acts, defaults,
     and omissions of any sub-contractor.
   evidence_ids:
-  - J9c3e04f4e576342b
+  - Jc926698db21bac42
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca0e13ff0d6abb69b
+  id: C7010674fb0324bcd
   citations:
-  - id: J9c3e04f4e576342b
+  - id: Jc926698db21bac42
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2840,30 +2938,40 @@ claims:
   editorial_notes:
   - text: 'Historical GCC 4.5 wording only: Corrigendum 2 adds SCC 4 instructing deletion of GCC 4.5. Do not present
       this baseline permission as an unamended operative requirement.'
-    related_claim_id: C83e868feeefc8e7a
+    related_claim_id: C21a5e5c516f65643
   amendment_annotations:
   - state: superseded
     scope: Historical GCC 4.5 text only
     text: C2 adds SCC 4 instructing deletion of the entire listed GCC 4.5 subclause. Preserve the baseline source;
       this does not delete GCC 4.6/4.7 or decide remaining rights.
     evidence_ids:
+    - Jc926698db21bac42
+    - J42ebc7a9caffaf7c
+  editorial_history:
+  - previous_claim_id: Ca0e13ff0d6abb69b
+    previous_evidence_ids:
     - J9c3e04f4e576342b
-    - J1dd8bce37ef510fc
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor must take all reasonable steps to protect the environment both on and off the Site, ensuring
     that emissions, discharges, and effluents do not exceed statutory limits or the Employer's Requirements and
     Technical Specifications, while remaining fully liable for any work stoppage due to statutory contraventions.
   evidence_ids:
-  - J0e6a74396167c946
+  - Jff563a5330de75d8
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce39b84f3baba8806
+  id: C5fe31401e117b604
   citations:
-  - id: J0e6a74396167c946
+  - id: Jff563a5330de75d8
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -2948,21 +3056,31 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T06:06:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce39b84f3baba8806
+    previous_evidence_ids:
+    - J0e6a74396167c946
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor is responsible for obtaining its own water, electricity, and gas supplies, and must provide
     all tools, plants, and equipment required for the Works unless specific exceptions are authorized under the
     Special Conditions of Contract.
   evidence_ids:
-  - J0e6a74396167c946
+  - Jff563a5330de75d8
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cde06ac6977091d5e
+  id: C0f6e2579f8dbf579
   citations:
-  - id: J0e6a74396167c946
+  - id: Jff563a5330de75d8
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -3047,21 +3165,31 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T06:06:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cde06ac6977091d5e
+    previous_evidence_ids:
+    - J0e6a74396167c946
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor must submit an initial programme within 28 days of receiving the Letter of Acceptance, structured
     using precedence networking techniques, and maintain access routes while indemnifying the Employer against associated
     claims or damage.
   evidence_ids:
-  - J18ff8ca501f1ddf3
+  - J2302d893bd99709d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca5032cf7eddc9599
+  id: Cd4cb8f2e5b7cb96d
   citations:
-  - id: J18ff8ca501f1ddf3
+  - id: J2302d893bd99709d
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -3144,22 +3272,32 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T06:06:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca5032cf7eddc9599
+    previous_evidence_ids:
+    - J18ff8ca501f1ddf3
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor bears full responsibility for the safety of the Works, persons, and adjoining properties,
     must implement an approved Site Safety Plan, report serious accidents immediately, and maintain firefighting
     and first aid facilities.
   evidence_ids:
-  - Jfad7cf2ceee3f634
-  - Jbc7919daf9ce2797
+  - Jd550be062c63737f
+  - J4483e84c108dba13
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd6752e0af358a4be
+  id: Cce14d57a894454c4
   citations:
-  - id: Jfad7cf2ceee3f634
+  - id: Jd550be062c63737f
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -3238,9 +3376,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Jbc7919daf9ce2797
+  - id: J4483e84c108dba13
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -3325,20 +3463,31 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T06:06:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd6752e0af358a4be
+    previous_evidence_ids:
+    - Jfad7cf2ceee3f634
+    - Jbc7919daf9ce2797
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor must clear the Site of all wreckage, rubbish, temporary works, and labour camps within 45
     days of physical completion, failing which the Engineer may remove them at the Contractor's expense.
   evidence_ids:
-  - J2279c3874346ffe8
+  - J8a3411be06c63fde
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C73f86c3c5ddbbe7e
+  id: C2e3de326db7e71c4
   citations:
-  - id: J2279c3874346ffe8
+  - id: J8a3411be06c63fde
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -3422,20 +3571,30 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T06:06:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C73f86c3c5ddbbe7e
+    previous_evidence_ids:
+    - J2279c3874346ffe8
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor is prohibited from engaging in corrupt or fraudulent practices, and the Employer may rescind
     the Contract and declare the Contractor ineligible for a minimum of two years upon determination of such conduct.
   evidence_ids:
-  - J0096c6ff093139d4
+  - J0426d48dadd5a871
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8cd197bc30d6aca1
+  id: Ce20a5e7ba8b840c8
   citations:
-  - id: J0096c6ff093139d4
+  - id: J0426d48dadd5a871
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -3501,23 +3660,33 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T06:06:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8cd197bc30d6aca1
+    previous_evidence_ids:
+    - J0096c6ff093139d4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: GCC Section E covers comprehensive contract provisions including Design (Clause 5) and Staff and Labour
     (Clause 6), governing contractor responsibilities, reviews, warranties, wages, safety, and superintendence.
   evidence_ids:
-  - J77b7b5d197f3383c
-  - Jf60d5499e22ff823
-  - S97c55804a0fa4e0c
-  - Sab0a1105568311b6
+  - J8c807939135d64e7
+  - Jfdac701c40fa58f5
+  - Se228883d8292024a
+  - Sa8896004834bc20a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C116f2c6fedbc7052
+  id: C1c66455760f10c14
   citations:
-  - id: J77b7b5d197f3383c
+  - id: J8c807939135d64e7
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 5 — Design
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -3844,9 +4013,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"Design\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jf60d5499e22ff823
+  - id: Jfdac701c40fa58f5
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 6 — Staff and Labour
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -4007,9 +4176,9 @@ claims:
       \ \"review_status\": \"pending_manual_review\",\n  \"title\": \"Staff and Labour\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: S97c55804a0fa4e0c
+  - id: Se228883d8292024a
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 5 — Design
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -4036,9 +4205,9 @@ claims:
       - **Intellectual Property Rights and Royalties** (Clause 5.8)'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: Sab0a1105568311b6
+  - id: Sa8896004834bc20a
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 6 — Staff and Labour
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -4077,20 +4246,33 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T06:07:38+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C116f2c6fedbc7052
+    previous_evidence_ids:
+    - J77b7b5d197f3383c
+    - Jf60d5499e22ff823
+    - S97c55804a0fa4e0c
+    - Sab0a1105568311b6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Under GCC Clause 5.3, the Engineer's review period for each Construction and/or Manufacture Document shall
     not exceed 21 days from receipt, unless otherwise stated in the Employer's Requirements.
   evidence_ids:
-  - J77b7b5d197f3383c
+  - J8c807939135d64e7
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C800d33f510ecb464
+  id: Cd687b8838d18139b
   citations:
-  - id: J77b7b5d197f3383c
+  - id: J8c807939135d64e7
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 5 — Design
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -4419,20 +4601,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:07:38+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C800d33f510ecb464
+    previous_evidence_ids:
+    - J77b7b5d197f3383c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Under GCC Clause 6.3, the Contractor must not employ any retired employee of the Employer or Engineer unless
     they have completed at least two years post-retirement or obtained a no-objection certificate from the Employer.
   evidence_ids:
-  - Jf60d5499e22ff823
+  - Jfdac701c40fa58f5
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd9a83e2ccd06215d
+  id: C5945f5e0a7a911bd
   citations:
-  - id: Jf60d5499e22ff823
+  - id: Jfdac701c40fa58f5
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 6 — Staff and Labour
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -4595,26 +4787,36 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:07:38+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd9a83e2ccd06215d
+    previous_evidence_ids:
+    - Jf60d5499e22ff823
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: GCC Clauses 7 through 10 establish the regulatory framework for Quality Control, Commencement and Completion,
     Handing Over and Taking Over, and Defects Liability under BMRCL Tender Package P1.
   evidence_ids:
-  - J3ee05cf07206532c
-  - Ja40f8e325b5c8584
-  - Jf4e386b46571b6cf
-  - S1136460c84cc6918
-  - S92ea45e9093c7566
-  - Se3f42b85b1116546
-  - Jec665a3a5a7e3d74
+  - Jbd8a761fe0ff7843
+  - J0fe8982de24f004e
+  - Jcca39da89cc1c67d
+  - S63c8f4d138e3e79b
+  - Sed64f6d87db84e86
+  - S7f6e91c820498af8
+  - Jf0b79db67c1bd20b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C371683a6714679a7
+  id: C94bb42ac6fa6240f
   citations:
-  - id: J3ee05cf07206532c
+  - id: Jbd8a761fe0ff7843
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 10 — Defects Liability
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -4734,9 +4936,9 @@ claims:
       \ \"title\": \"Defects Liability\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Ja40f8e325b5c8584
+  - id: J0fe8982de24f004e
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 8 — Commencement, Completion and Delay
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -4937,9 +5139,9 @@ claims:
       ,\n  \"title\": \"Commencement, Completion and Delay\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jf4e386b46571b6cf
+  - id: Jcca39da89cc1c67d
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 9 — Handing Over by Contractor and Taking Over by Employer
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -4998,9 +5200,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"Handing over by Contractor and Taking over by Employer\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: S1136460c84cc6918
+  - id: S63c8f4d138e3e79b
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 7 — Quality Control
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -5034,9 +5236,9 @@ claims:
       - **Integrated Testing and System Commissioning** (Clause 7.12)'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: S92ea45e9093c7566
+  - id: Sed64f6d87db84e86
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 9 — Handing Over by Contractor and Taking Over by Employer
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -5047,9 +5249,9 @@ claims:
       - **Taking Over of Parts of the Works** (Clause 9.2)'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: Se3f42b85b1116546
+  - id: S7f6e91c820498af8
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 10 — Defects Liability
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -5079,9 +5281,9 @@ claims:
       - **Emergency Defect Rectification** (Clause 10.11)'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: section_reference
-  - id: Jec665a3a5a7e3d74
+  - id: Jf0b79db67c1bd20b
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 7 — Quality Control
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -5310,21 +5512,37 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:08:40+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C371683a6714679a7
+    previous_evidence_ids:
+    - J3ee05cf07206532c
+    - Ja40f8e325b5c8584
+    - Jf4e386b46571b6cf
+    - S1136460c84cc6918
+    - S92ea45e9093c7566
+    - Se3f42b85b1116546
+    - Jec665a3a5a7e3d74
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Contractor must submit its proposed Site Quality Plan based on the Outline Quality Plan and ISO 9001-1991
     standards within 30 days of receiving the Letter of Acceptance, with any supplements submitted at least 14 days
     before work commencement.
   evidence_ids:
-  - Jec665a3a5a7e3d74
+  - Jf0b79db67c1bd20b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C36a1fed597d6f2af
+  id: C7c946879e36c82b2
   citations:
-  - id: Jec665a3a5a7e3d74
+  - id: Jf0b79db67c1bd20b
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 7 — Quality Control
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -5553,20 +5771,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:08:40+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C36a1fed597d6f2af
+    previous_evidence_ids:
+    - Jec665a3a5a7e3d74
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Tests on Completion include pre-commissioning tests (dry or cold functional tests), commissioning tests
     (operational tests), and trial operation, following a 21-day notice period given by the Contractor to the Engineer.
   evidence_ids:
-  - Jec665a3a5a7e3d74
+  - Jf0b79db67c1bd20b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cddc5036d78592a50
+  id: C58e2c8dde2329853
   citations:
-  - id: Jec665a3a5a7e3d74
+  - id: Jf0b79db67c1bd20b
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 7 — Quality Control
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -5795,20 +6023,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:08:40+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cddc5036d78592a50
+    previous_evidence_ids:
+    - Jec665a3a5a7e3d74
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Statutory safety approvals and sanctions from the Commissioner of Railway Safety or Commissioner of Metro
     Railway Safety (CMRS) are mandatory prior to the commissioning and public passenger introduction of the system.
   evidence_ids:
-  - Jec665a3a5a7e3d74
+  - Jf0b79db67c1bd20b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc08a18ccd387478f
+  id: Cee4efb14f1e54f96
   citations:
-  - id: Jec665a3a5a7e3d74
+  - id: Jf0b79db67c1bd20b
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 7 — Quality Control
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -6037,21 +6275,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:08:40+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc08a18ccd387478f
+    previous_evidence_ids:
+    - Jec665a3a5a7e3d74
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Defects Liability Period is specified as 6 months from the date of Taking Over Certificates being issued
     for the whole of the works, and is extendable if the works cannot be used due to defects or damage.
   evidence_ids:
-  - J3ee05cf07206532c
-  - J099b5fe5de51f74d
+  - Jbd8a761fe0ff7843
+  - Jeb83d1b7a6d87fee
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ccc88bb1ee8b75627
+  id: Cc30525651110907a
   citations:
-  - id: J3ee05cf07206532c
+  - id: Jbd8a761fe0ff7843
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 10 — Defects Liability
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -6171,9 +6419,9 @@ claims:
       \ \"title\": \"Defects Liability\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J099b5fe5de51f74d
+  - id: Jeb83d1b7a6d87fee
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -6203,24 +6451,35 @@ claims:
   editorial_notes:
   - text: 'Contract Data baseline: six months. The Contract Agreement template separately states twelve months;
       discrepancy unresolved.'
-    related_claim_id: Ccbee310449417dd2
+    related_claim_id: C3c9ea7a86f0cc214
+  editorial_history:
+  - previous_claim_id: Ccc88bb1ee8b75627
+    previous_evidence_ids:
+    - J3ee05cf07206532c
+    - J099b5fe5de51f74d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Section E sets out the General Conditions of Contract (GCC) and project-specific Contract Data across 18
     clauses, governing contract price adjustments, advance payments, measurements, and contractor obligations for
     BMRCL Tender Package P1.
   evidence_ids:
-  - J10b9218b8f963460
-  - J6cd6932ed829dd24
-  - S7b871f472760e0b1
+  - J11c78e424e603302
+  - J7ef88675279ec260
+  - Scb3273de3340df68
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbcade9f0a0634135
+  id: C46adddc18042a42e
   citations:
-  - id: J10b9218b8f963460
+  - id: J11c78e424e603302
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -6304,9 +6563,9 @@ claims:
       \      ],\n      \"block_number\": 7,\n      \"text\": \"060\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J6cd6932ed829dd24
+  - id: J7ef88675279ec260
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -6381,9 +6640,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: S7b871f472760e0b1
+  - id: Scb3273de3340df68
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     pdf_pages:
@@ -6448,29 +6707,41 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T06:09:40+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbcade9f0a0634135
+    previous_evidence_ids:
+    - J10b9218b8f963460
+    - J6cd6932ed829dd24
+    - S7b871f472760e0b1
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contract Price provisions under GCC Clause 11 establish rules for output GST reimbursement, changes in law,
     custom duty project import benefits, and detailed price variation formulas covering labour, fuel, materials,
     plant, steel, and cement components.
   evidence_ids:
-  - J39a95f3672044adc
-  - J6cd6932ed829dd24
-  - J76b28c1d67e5195f
-  - Jaa78e9fb25292061
-  - Jaddb352ddef52cd5
-  - Jd9eb2e0f3944651f
-  - Jda9bfcfa83f1277c
-  - Je94c427ee13a318d
-  - Jf1391b18570b6a3b
+  - J8344230c23e73f27
+  - J7ef88675279ec260
+  - J6efcf59a307be5ec
+  - Jeb34685d9b61c0c7
+  - Je5a9908856cd7981
+  - J460da7cbbe01754e
+  - Je5457b35d125e14f
+  - Jf536bea58b7fb32a
+  - Jdbf2f72cdd4e3f45
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce086aa243f5d0de3
+  id: C0956a0b64bf9232f
   citations:
-  - id: J39a95f3672044adc
+  - id: J8344230c23e73f27
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -6549,9 +6820,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: J6cd6932ed829dd24
+  - id: J7ef88675279ec260
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -6626,9 +6897,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: J76b28c1d67e5195f
+  - id: J6efcf59a307be5ec
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -6690,9 +6961,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Jaa78e9fb25292061
+  - id: Jeb34685d9b61c0c7
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -6772,9 +7043,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Jaddb352ddef52cd5
+  - id: Je5a9908856cd7981
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -6844,9 +7115,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Jd9eb2e0f3944651f
+  - id: J460da7cbbe01754e
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -6923,9 +7194,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Jda9bfcfa83f1277c
+  - id: Je5457b35d125e14f
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -6998,9 +7269,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Je94c427ee13a318d
+  - id: Jf536bea58b7fb32a
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -7058,9 +7329,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Jf1391b18570b6a3b
+  - id: Jdbf2f72cdd4e3f45
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -7144,28 +7415,46 @@ claims:
   editorial_notes:
   - text: 'Historical GCC price-variation text: Corrigendum 2 adds SCC 6 instructing deletion of GCC 11.1.2 and
       11.1.2.1–11.1.2.4; its Contract Data amendment retains NOT APPLICABLE.'
-    related_claim_id: C91113f62b7e67b8e
+    related_claim_id: C3aff26dec86721e4
+  editorial_history:
+  - previous_claim_id: Ce086aa243f5d0de3
+    previous_evidence_ids:
+    - J39a95f3672044adc
+    - J6cd6932ed829dd24
+    - J76b28c1d67e5195f
+    - Jaa78e9fb25292061
+    - Jaddb352ddef52cd5
+    - Jd9eb2e0f3944651f
+    - Jda9bfcfa83f1277c
+    - Je94c427ee13a318d
+    - Jf1391b18570b6a3b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: GCC Clause 11 establishes comprehensive payment rules including interim payment certificate procedures,
     ad-hoc 80% payments within 2 working days, final statements, retention money rules, withholding and liens, tax
     deductions at source, and post-payment audits.
   evidence_ids:
-  - J25554cbe423a2266
-  - J3e7d1573f2d6b62f
-  - J698e684a20f2b1b9
-  - J80396ccc60e8914a
-  - J8e79f5666980cdde
-  - J9c51544f86890db8
-  - Je053a5fbb65fa773
+  - J4417d9e6dbc778a8
+  - Ja847246bb76162ce
+  - Jc35a93986fa1e949
+  - J07840889aa7fb49a
+  - Jcbfd2f279820d2b7
+  - J1ba0c2a536865ea1
+  - J51512a62ff7facb4
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce48ab4560b4c8797
+  id: Cf04549eed4a120c3
   citations:
-  - id: J25554cbe423a2266
+  - id: J4417d9e6dbc778a8
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -7201,9 +7490,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: J3e7d1573f2d6b62f
+  - id: Ja847246bb76162ce
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -7282,9 +7571,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: J698e684a20f2b1b9
+  - id: Jc35a93986fa1e949
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -7372,9 +7661,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: J80396ccc60e8914a
+  - id: J07840889aa7fb49a
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -7455,9 +7744,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: J8e79f5666980cdde
+  - id: Jcbfd2f279820d2b7
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -7535,9 +7824,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: J9c51544f86890db8
+  - id: J1ba0c2a536865ea1
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -7608,9 +7897,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Je053a5fbb65fa773
+  - id: J51512a62ff7facb4
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -7690,21 +7979,37 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T06:10:47+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce48ab4560b4c8797
+    previous_evidence_ids:
+    - J25554cbe423a2266
+    - J3e7d1573f2d6b62f
+    - J698e684a20f2b1b9
+    - J80396ccc60e8914a
+    - J8e79f5666980cdde
+    - J9c51544f86890db8
+    - Je053a5fbb65fa773
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Interim Payment Certificates provide for an ad-hoc payment of 80% of bill value within 2 working days of
     receiving a statement and supporting documents, with the remaining balance certified and delivered within 7
     working days.
   evidence_ids:
-  - J9c51544f86890db8
+  - J1ba0c2a536865ea1
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C855ef35c1d76896b
+  id: Caabd1ed1b1ffcb0d
   citations:
-  - id: J9c51544f86890db8
+  - id: J1ba0c2a536865ea1
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -7777,21 +8082,31 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T06:10:47+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C855ef35c1d76896b
+    previous_evidence_ids:
+    - J9c51544f86890db8
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Retention money is deducted from running account bills as stated in the Contract Data, or alternatively
     the contractor may submit an e-Bank Guarantee or Insurance Surety Bond equal to the maximum retention amount
     along with the 1st IPC.
   evidence_ids:
-  - J80396ccc60e8914a
+  - J07840889aa7fb49a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3ba2fbdbb70bd976
+  id: C7533b91456bd6f37
   citations:
-  - id: J80396ccc60e8914a
+  - id: J07840889aa7fb49a
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -7874,20 +8189,30 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T06:10:47+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3ba2fbdbb70bd976
+    previous_evidence_ids:
+    - J80396ccc60e8914a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Employer shall pay the amount certified in the Final Payment Certificate within 56 days from the date
     of its issue.
   evidence_ids:
-  - Je053a5fbb65fa773
+  - J51512a62ff7facb4
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C11289fdc69d90203
+  id: C3a4d63f2ffcdcfea
   citations:
-  - id: Je053a5fbb65fa773
+  - id: J51512a62ff7facb4
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -7967,21 +8292,31 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-10-31T06:10:47+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C11289fdc69d90203
+    previous_evidence_ids:
+    - Je053a5fbb65fa773
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: General Conditions of Contract (GCC) Section E governs the execution of BMRCL Tender Package P1 across comprehensive
     clauses covering definitions, the Employer, the Engineer, the Contractor, payment terms, variations, risk, responsibility,
     and termination.
   evidence_ids:
-  - J10b9218b8f963460
+  - J11c78e424e603302
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9c8d1adb13b79c74
+  id: C812bc962d34016cb
   citations:
-  - id: J10b9218b8f963460
+  - id: J11c78e424e603302
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -8067,21 +8402,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:12:04+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9c8d1adb13b79c74
+    previous_evidence_ids:
+    - J10b9218b8f963460
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: GCC Clause 12 establishes variation mechanisms including Employer's Variations, Contractor's value engineering,
     and quantity variation rules where individual items can vary up to 25% plus side, and minor value items have
     specialized threshold and payment percentage bands.
   evidence_ids:
-  - J34dd4978a26ba674
+  - J4821b3a8ad55cf39
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4aa1c7267775fcd6
+  id: C866dece62c7c47a1
   citations:
-  - id: J34dd4978a26ba674
+  - id: J4821b3a8ad55cf39
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 12 — Variations
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -8344,22 +8689,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:12:04+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4aa1c7267775fcd6
+    previous_evidence_ids:
+    - J34dd4978a26ba674
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: GCC Clause 13 sets forth determination and termination conditions, empowering the Employer to terminate
     the contract for contractor default upon 14 days' notice (or immediately in cases of insolvency/bankruptcy or
     corrupt practices) and specifying financial consequences, forfeiture of retention money, and performance guarantee
     encashment.
   evidence_ids:
-  - Jab380d877ae91925
+  - J2d2ff78aa38287b3
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1fe0c77bca2d38e8
+  id: Ca286cf8a744c1ac0
   citations:
-  - id: Jab380d877ae91925
+  - id: J2d2ff78aa38287b3
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 13 — Determination/Termination of the Contract
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -8582,21 +8937,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:12:04+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1fe0c77bca2d38e8
+    previous_evidence_ids:
+    - Jab380d877ae91925
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: GCC Clause 14 defines risk and responsibility, requiring the Contractor to indemnify the Employer and Engineer
     against all claims, damages, and losses arising from operations, and outlining Employer's risks such as war,
     civil commotion, and radioactive contamination.
   evidence_ids:
-  - J7bf0d00829ade4bd
+  - Je54c7d2ea0825007
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C723e2a31cfa103b6
+  id: C5049a0ef5dfcf6e6
   citations:
-  - id: J7bf0d00829ade4bd
+  - id: Je54c7d2ea0825007
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 14 — Risk and Responsibility
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -8708,26 +9073,36 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:12:04+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C723e2a31cfa103b6
+    previous_evidence_ids:
+    - J7bf0d00829ade4bd
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Section E defines the General Conditions of Contract (GCC) and project-specific Contract Data for BMRCL
     Tender Package P1 across 18 clauses, covering definitions, the Employer, the Engineer, the Contractor, payment
     terms, insurance, variations, force majeure, claims, disputes, and service of notices.
   evidence_ids:
-  - J10b9218b8f963460
-  - J3d99ac833d30d558
-  - J5516f07161b435b2
-  - J6106502aaeac9922
-  - J66bb662a0f3422b9
-  - J7957e3c3de8aec5b
+  - J11c78e424e603302
+  - J3808711ea48ee2c8
+  - Jb6d88198cad1dbbd
+  - Jef4907e87becd01a
+  - J60650fa2dd4a1e9f
+  - J6539d43b623dd956
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8b81f683d3029cec
+  id: C96bf4e61f91dc93c
   citations:
-  - id: J10b9218b8f963460
+  - id: J11c78e424e603302
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -8811,9 +9186,9 @@ claims:
       \      ],\n      \"block_number\": 7,\n      \"text\": \"060\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J3d99ac833d30d558
+  - id: J3808711ea48ee2c8
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 17 — Claims, Disputes and Conciliation
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -8960,9 +9335,9 @@ claims:
       title\": \"Claims, Disputes and Conciliation\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J5516f07161b435b2
+  - id: Jb6d88198cad1dbbd
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -9037,9 +9412,9 @@ claims:
       : false,\n  \"title\": \"Contract Data\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J6106502aaeac9922
+  - id: Jef4907e87becd01a
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 18 — Service of Notices
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -9073,9 +9448,9 @@ claims:
       ,\n  \"title\": \"Service of Notices\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J66bb662a0f3422b9
+  - id: J60650fa2dd4a1e9f
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 16 — Force Majeure
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -9152,9 +9527,9 @@ claims:
       ,\n  \"title\": \"Force Majeure\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J7957e3c3de8aec5b
+  - id: J6539d43b623dd956
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 15 — Insurance
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -9364,20 +9739,35 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:13:06+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8b81f683d3029cec
+    previous_evidence_ids:
+    - J10b9218b8f963460
+    - J3d99ac833d30d558
+    - J5516f07161b435b2
+    - J6106502aaeac9922
+    - J66bb662a0f3422b9
+    - J7957e3c3de8aec5b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The completion period for the whole of the works is 12 months reckoned from the Date of Commencement, where
     the date of commencement is the date of signing of the Contract Agreement.
   evidence_ids:
-  - J5516f07161b435b2
+  - Jb6d88198cad1dbbd
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cde95b36d0d2e7d33
+  id: Cb4082ea834932af0
   citations:
-  - id: J5516f07161b435b2
+  - id: Jb6d88198cad1dbbd
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -9454,20 +9844,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:13:06+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cde95b36d0d2e7d33
+    previous_evidence_ids:
+    - J5516f07161b435b2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Performance Security is set at 5% of the Contract Price as mentioned in the Letter of Acceptance, to be
     furnished within 21 days of issue of the Letter of Acceptance.
   evidence_ids:
-  - J5516f07161b435b2
+  - Jb6d88198cad1dbbd
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf061cd1c14170dfd
+  id: C25d15b85a175cc42
   citations:
-  - id: J5516f07161b435b2
+  - id: Jb6d88198cad1dbbd
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -9544,21 +9944,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:13:06+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf061cd1c14170dfd
+    previous_evidence_ids:
+    - J5516f07161b435b2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Liquidated Damages for milestones are specified as Rs. 5,000 per day for delay in achieving Milestone-1
     (50% area in 6 months) and Rs. 10,000 per day for Milestone-2 (100% area in 12 months), with an upper limit
     of 5% of the Contract Price.
   evidence_ids:
-  - J5516f07161b435b2
+  - Jb6d88198cad1dbbd
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca498529500cfabdf
+  id: Ccb38eedf4f76f30a
   citations:
-  - id: J5516f07161b435b2
+  - id: Jb6d88198cad1dbbd
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -9635,21 +10045,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:13:06+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca498529500cfabdf
+    previous_evidence_ids:
+    - J5516f07161b435b2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Defects Liability Period is 6 months from the date of taking over mentioned in Taking Over Certificates
     issued for the whole of the work.
   evidence_ids:
-  - J099b5fe5de51f74d
-  - J5516f07161b435b2
+  - Jeb83d1b7a6d87fee
+  - Jb6d88198cad1dbbd
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8604e17e9b0c63a6
+  id: C04b2bb910bf1a3a8
   citations:
-  - id: J099b5fe5de51f74d
+  - id: Jeb83d1b7a6d87fee
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -9674,9 +10094,9 @@ claims:
       \ whole of\\nthe work.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5516f07161b435b2
+  - id: Jb6d88198cad1dbbd
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -9756,27 +10176,38 @@ claims:
   editorial_notes:
   - text: 'Contract Data baseline: six months. The Contract Agreement template separately states twelve months;
       discrepancy unresolved.'
-    related_claim_id: Ccbee310449417dd2
+    related_claim_id: C3c9ea7a86f0cc214
+  editorial_history:
+  - previous_claim_id: C8604e17e9b0c63a6
+    previous_evidence_ids:
+    - J099b5fe5de51f74d
+    - J5516f07161b435b2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contract Data items for Price Variation/Adjustment, Mobilization Advance, Advance Against Plant & Machinery,
     Special/Acceleration Advance, Professional Indemnity Insurance, and Incentives for Early Completion are explicitly
     designated as NOT APPLICABLE.
   evidence_ids:
-  - J4954cab466983818
-  - J5516f07161b435b2
-  - J8565a5e674ba4694
-  - J8df0ee6180c6bca7
-  - Ja4c36b878b83ce15
-  - Jd63702bce5914d55
+  - Jc55728d55a75639f
+  - Jb6d88198cad1dbbd
+  - J685ffec94f86ce6e
+  - Jc8e0050a04c093f1
+  - Jefeb0c84a448ac2f
+  - Ja740f4ef77fe8481
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb6628ca1c28ec235
+  id: Cf11b2392f05cf8ec
   citations:
-  - id: J4954cab466983818
+  - id: Jc55728d55a75639f
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -9799,9 +10230,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J5516f07161b435b2
+  - id: Jb6d88198cad1dbbd
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -9876,9 +10307,9 @@ claims:
       : false,\n  \"title\": \"Contract Data\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J8565a5e674ba4694
+  - id: J685ffec94f86ce6e
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -9901,9 +10332,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J8df0ee6180c6bca7
+  - id: Jc8e0050a04c093f1
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -9925,9 +10356,9 @@ claims:
       \   568.2239837646484,\n    476.3396186828613\n  ],\n  \"value\": \"NOT APPLICABLE\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Ja4c36b878b83ce15
+  - id: Jefeb0c84a448ac2f
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -9950,9 +10381,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jd63702bce5914d55
+  - id: Ja740f4ef77fe8481
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -10242,23 +10673,37 @@ claims:
         heading_alignment: document_heading_fallback_not_a_subclause_match
       created_at: '2026-10-31T06:13:06+00:00'
       status: draft
+  - previous_claim_id: Cb6628ca1c28ec235
+    previous_evidence_ids:
+    - J4954cab466983818
+    - J5516f07161b435b2
+    - J8565a5e674ba4694
+    - J8df0ee6180c6bca7
+    - Ja4c36b878b83ce15
+    - Jd63702bce5914d55
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T11:49:40+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Reconcile the historical GCC 4.5 subcontracting statement with Corrigendum 2 new SCC 4, which instructs
     that the entire listed subclause stands deleted. Preserve both source versions; this finding does not decide
     remaining subcontracting rights or obligations.
   evidence_ids:
-  - J9c3e04f4e576342b
-  - J1dd8bce37ef510fc
+  - Jc926698db21bac42
+  - J42ebc7a9caffaf7c
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C83e868feeefc8e7a
+  id: C21a5e5c516f65643
   citations:
-  - id: J9c3e04f4e576342b
+  - id: Jc926698db21bac42
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -10336,9 +10781,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: J1dd8bce37ef510fc
+  - id: J42ebc7a9caffaf7c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -10370,31 +10815,42 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T17:00:51+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C83e868feeefc8e7a
+    previous_evidence_ids:
+    - J9c3e04f4e576342b
+    - J1dd8bce37ef510fc
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: Reconcile the historical GCC price-variation discussion with Corrigendum 2 new SCC 6 and amended Contract
     Data Item 14. The deletion instruction lists GCC 11.1.2 and 11.1.2.1 through 11.1.2.4, while Item 14 retains
     NOT APPLICABLE. This does not delete all of GCC Clause 11 or decide unrelated GST/change-in-law provisions.
   evidence_ids:
-  - J39a95f3672044adc
-  - J6cd6932ed829dd24
-  - J76b28c1d67e5195f
-  - Jaa78e9fb25292061
-  - Jaddb352ddef52cd5
-  - Jd9eb2e0f3944651f
-  - Jda9bfcfa83f1277c
-  - Je94c427ee13a318d
-  - Jf1391b18570b6a3b
-  - Jb6dbe6e9c034af69
-  - J2cc37360d6e327cb
+  - J8344230c23e73f27
+  - J7ef88675279ec260
+  - J6efcf59a307be5ec
+  - Jeb34685d9b61c0c7
+  - Je5a9908856cd7981
+  - J460da7cbbe01754e
+  - Je5457b35d125e14f
+  - Jf536bea58b7fb32a
+  - Jdbf2f72cdd4e3f45
+  - J9f1e91a67a75186a
+  - J03d7bc25e8c4862c
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C91113f62b7e67b8e
+  id: C3aff26dec86721e4
   citations:
-  - id: J39a95f3672044adc
+  - id: J8344230c23e73f27
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -10473,9 +10929,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: J6cd6932ed829dd24
+  - id: J7ef88675279ec260
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -10550,9 +11006,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: J76b28c1d67e5195f
+  - id: J6efcf59a307be5ec
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -10614,9 +11070,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Jaa78e9fb25292061
+  - id: Jeb34685d9b61c0c7
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -10696,9 +11152,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Jaddb352ddef52cd5
+  - id: Je5a9908856cd7981
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -10768,9 +11224,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Jd9eb2e0f3944651f
+  - id: J460da7cbbe01754e
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -10847,9 +11303,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Jda9bfcfa83f1277c
+  - id: Je5457b35d125e14f
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -10922,9 +11378,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Je94c427ee13a318d
+  - id: Jf536bea58b7fb32a
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -10982,9 +11438,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Jf1391b18570b6a3b
+  - id: Jdbf2f72cdd4e3f45
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 11 — Contract Price and Payment
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -11063,9 +11519,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Jb6dbe6e9c034af69
+  - id: J9f1e91a67a75186a
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -11096,9 +11552,9 @@ claims:
       \ not a complete verbatim table transcription\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J2cc37360d6e327cb
+  - id: J03d7bc25e8c4862c
     okf_path: OKF_bundle/addendum_and_corrigendum/A_and_C2.md
-    okf_sha256: cdd5f8641206e173e0b62d494966695a4d54c893ce8b0cd781d5a9c3837ca161
+    okf_sha256: d7577041103cae5b855881e3dafd79651cd3df8b33d1c6b14c29319b424459bb
     heading: Addendum and Corrigendum No. 2
     source_document: AandC2_DLN_P1_157.PDF
     source_sha256: db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a
@@ -11127,23 +11583,43 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T17:00:51+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C91113f62b7e67b8e
+    previous_evidence_ids:
+    - J39a95f3672044adc
+    - J6cd6932ed829dd24
+    - J76b28c1d67e5195f
+    - Jaa78e9fb25292061
+    - Jaddb352ddef52cd5
+    - Jd9eb2e0f3944651f
+    - Jda9bfcfa83f1277c
+    - Je94c427ee13a318d
+    - Jf1391b18570b6a3b
+    - Jb6dbe6e9c034af69
+    - J2cc37360d6e327cb
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: 'Source discrepancy: Contract Data specifies a six-month Defects Liability Period, whereas Clause 6 in the
     unexecuted Contract Agreement template specifies twelve months. The source wording uses Taking Over Certificates
     and Final Taking Over Certificate respectively. Record both durations and seek clarification; this wiki does
     not establish which provision controls.'
   evidence_ids:
-  - J099b5fe5de51f74d
-  - Jf9d2ada6599b727b
+  - Jeb83d1b7a6d87fee
+  - Jcc49f8beaf50a801
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ccbee310449417dd2
+  id: C3c9ea7a86f0cc214
   citations:
-  - id: J099b5fe5de51f74d
+  - id: Jeb83d1b7a6d87fee
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -11168,9 +11644,9 @@ claims:
       \ whole of\\nthe work.\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf9d2ada6599b727b
+  - id: Jcc49f8beaf50a801
     okf_path: OKF_bundle/Technical/Vol1/secG.md
-    okf_sha256: d430888e12d2d5737b14f76f602a30b6cfa5fcd57bb9736c416af3f7fa163f08
+    okf_sha256: 78eac979b2d8f01921b45df904f4bb99ae14aed1895d97a7853eb017c3ed315c
     heading: Contract Form 1 — Contract Agreement
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -11320,19 +11796,30 @@ claims:
     heading_alignment: exact_form_number_match
   created_at: '2026-10-31T17:00:51+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ccbee310449417dd2
+    previous_evidence_ids:
+    - J099b5fe5de51f74d
+    - Jf9d2ada6599b727b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contract Data Item 4 stipulates that Sub-Contracting (GCC Sub-Clause 4.5) is Not Permitted.
   evidence_ids:
-  - Jede127bc7333e750
+  - J334035669e5961a3
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Caa5c21be681752e7
+  id: C28493b61aac38cc8
   citations:
-  - id: Jede127bc7333e750
+  - id: J334035669e5961a3
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -11356,20 +11843,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T07:14:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Caa5c21be681752e7
+    previous_evidence_ids:
+    - Jede127bc7333e750
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contract Data Item 5 specifies that the Site Safety Plan (GCC Sub-Clause 4.16.2) must be submitted within
     4 weeks from the issue of the Letter of Acceptance.
   evidence_ids:
-  - Je6ac80eb69f46bb5
+  - J45d7d58d24286667
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C0269cd032aa920e6
+  id: C960a7346b6e1ba80
   citations:
-  - id: Je6ac80eb69f46bb5
+  - id: J45d7d58d24286667
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -11395,20 +11892,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T07:14:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C0269cd032aa920e6
+    previous_evidence_ids:
+    - Je6ac80eb69f46bb5
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contract Data Item 6 requires the Site Environmental Plan (GCC Sub-Clause 4.17.1) to be submitted within
     4 weeks from the issue of the Letter of Acceptance.
   evidence_ids:
-  - J90b7e8b79b96f3f6
+  - J7ded2d3391e4e5fd
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce3a398d77d6f4908
+  id: C773aa4428a6413ea
   citations:
-  - id: J90b7e8b79b96f3f6
+  - id: J7ded2d3391e4e5fd
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -11434,20 +11941,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T07:14:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce3a398d77d6f4908
+    previous_evidence_ids:
+    - J90b7e8b79b96f3f6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contract Data Item 11 designates Incentives for early completion of whole work (GCC Sub-Clause 8.10) as
     NOT APPLICABLE.
   evidence_ids:
-  - J4d88f9523ba735a6
+  - J52e5fd6afe9bd8b2
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C84704dbff41b31a3
+  id: C52d8a6dafeea38b2
   citations:
-  - id: J4d88f9523ba735a6
+  - id: J52e5fd6afe9bd8b2
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -11472,20 +11989,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T07:14:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C84704dbff41b31a3
+    previous_evidence_ids:
+    - J4d88f9523ba735a6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contract Data Item 20 dictates that all insurances under GCC Clause 15 must be submitted within 06 weeks
     from the date of commencement of works.
   evidence_ids:
-  - Je61e896d6545169a
+  - J69286fc9df529874
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cdf01e5a21af1fce3
+  id: C2f4b83643856892e
   citations:
-  - id: Je61e896d6545169a
+  - id: J69286fc9df529874
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: General Conditions of Contract and Contract Data
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -11511,20 +12038,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-11-01T07:14:28+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cdf01e5a21af1fce3
+    previous_evidence_ids:
+    - Je61e896d6545169a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor is responsible for access route maintenance, obtaining permits, and paying costs for temporary
     rights of way, while indemnifying the Employer against claims arising from access routes.
   evidence_ids:
-  - J18ff8ca501f1ddf3
+  - J2302d893bd99709d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca2dcf1321a8cc241
+  id: C0c2b64bfd2d46065
   citations:
-  - id: J18ff8ca501f1ddf3
+  - id: J2302d893bd99709d
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -11607,21 +12144,31 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:21:47+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca2dcf1321a8cc241
+    previous_evidence_ids:
+    - J18ff8ca501f1ddf3
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Contractor must submit an initial programme within 28 days of receiving the Letter of Acceptance, and
     submit monthly progress reports by the end of each calendar month.
   evidence_ids:
-  - J18ff8ca501f1ddf3
-  - Jada3f43d4b5cb9df
+  - J2302d893bd99709d
+  - Jbabe5feb9b94a9ca
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C38168b48be93bd43
+  id: C77cd9af285fc08fd
   citations:
-  - id: J18ff8ca501f1ddf3
+  - id: J2302d893bd99709d
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -11702,9 +12249,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Jada3f43d4b5cb9df
+  - id: Jbabe5feb9b94a9ca
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -11781,21 +12328,32 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:21:47+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C38168b48be93bd43
+    previous_evidence_ids:
+    - J18ff8ca501f1ddf3
+    - Jada3f43d4b5cb9df
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor must undertake design coordination and interface management with designated contractors,
     sharing staging and storage areas and submitting joint coordination statements within 7 days of the coordination
     period end.
   evidence_ids:
-  - J1f819820cf715c7c
+  - Je087084d48108fc5
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Caa47a8b45ecf4560
+  id: C993e8e3f661a513b
   citations:
-  - id: J1f819820cf715c7c
+  - id: Je087084d48108fc5
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -11882,20 +12440,30 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:21:47+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Caa47a8b45ecf4560
+    previous_evidence_ids:
+    - J1f819820cf715c7c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Sub-contracting is restricted and permitted only with prior consent of the Engineer or Employer, and the
     Contractor remains fully responsible for all acts, defaults, and omissions of any subcontractor.
   evidence_ids:
-  - J9c3e04f4e576342b
+  - Jc926698db21bac42
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5f2b83be63429bc0
+  id: Cf9342b97d57a89ea
   citations:
-  - id: J9c3e04f4e576342b
+  - id: Jc926698db21bac42
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -11978,21 +12546,31 @@ claims:
   editorial_notes:
   - text: Historical GCC 4.5 wording only. Contract Data Item 4 states Not Permitted, and Corrigendum 2 adds SCC
       4 instructing deletion of GCC 4.5. Do not read this baseline wording as an unamended subcontracting permission.
-    related_claim_id: C83e868feeefc8e7a
+    related_claim_id: C21a5e5c516f65643
+  editorial_history:
+  - previous_claim_id: C5f2b83be63429bc0
+    previous_evidence_ids:
+    - J9c3e04f4e576342b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Within the time period stated in the Contract Data, the Contractor must submit parent company undertakings
     and guarantees as well as contractor warranties in approved formats.
   evidence_ids:
-  - Jefd7aa60b6e10054
+  - Jc0b69557db8e02f2
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3a0faf4172a4e945
+  id: C9f30dfb3994697bb
   citations:
-  - id: Jefd7aa60b6e10054
+  - id: Jc0b69557db8e02f2
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -12071,23 +12649,33 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:21:47+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3a0faf4172a4e945
+    previous_evidence_ids:
+    - Jefd7aa60b6e10054
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: GCC Clause 4 governs various contractor obligations including site environmental planning, temporary works,
     unforeseen physical conditions, access, site security, operations, archaeological discoveries, publicity, relationship
     disclosures, explosives usage, prohibited conduct, and quality assurance.
   evidence_ids:
-  - J0096c6ff093139d4
-  - Je42afcdd3719ec15
-  - J919318f1e3e3911e
+  - J0426d48dadd5a871
+  - J87327422164e9c7a
+  - Jae8c522e7fce7f56
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce65136c4270e2b08
+  id: C02969a532fa38666
   citations:
-  - id: J0096c6ff093139d4
+  - id: J0426d48dadd5a871
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -12151,9 +12739,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Je42afcdd3719ec15
+  - id: J87327422164e9c7a
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -12234,9 +12822,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: J919318f1e3e3911e
+  - id: Jae8c522e7fce7f56
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -12317,20 +12905,32 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:27:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce65136c4270e2b08
+    previous_evidence_ids:
+    - J0096c6ff093139d4
+    - Je42afcdd3719ec15
+    - J919318f1e3e3911e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Under GCC Sub-Clause 4.17.1, the Contractor must submit a detailed and comprehensive Site Environmental
     Plan within the stipulated time mentioned in the Contract Data.
   evidence_ids:
-  - J0e6a74396167c946
+  - Jff563a5330de75d8
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C263ef9fff23d09fb
+  id: C391fece6e1141f0b
   citations:
-  - id: J0e6a74396167c946
+  - id: Jff563a5330de75d8
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -12415,20 +13015,30 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:27:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C263ef9fff23d09fb
+    previous_evidence_ids:
+    - J0e6a74396167c946
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Employer-provided materials, if any, are supplied in a phased manner under pre-approved programs against
     an e-Bank Guarantee or Insurance Surety Bond matching the material value, subject to SCC terms.
   evidence_ids:
-  - Je42afcdd3719ec15
+  - J87327422164e9c7a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca0c79ba3ed18c8d0
+  id: C4a319d40d03b3c24
   citations:
-  - id: Je42afcdd3719ec15
+  - id: J87327422164e9c7a
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -12511,20 +13121,30 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:27:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca0c79ba3ed18c8d0
+    previous_evidence_ids:
+    - Je42afcdd3719ec15
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Temporary works drawings and design calculations must be submitted to the Engineer for approval at least
     one month before commencement, though approval does not relieve the Contractor of responsibility.
   evidence_ids:
-  - Je42afcdd3719ec15
+  - J87327422164e9c7a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce9319a68aa964824
+  id: C5c8339bb10cf34fb
   citations:
-  - id: Je42afcdd3719ec15
+  - id: J87327422164e9c7a
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -12607,21 +13227,31 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:27:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce9319a68aa964824
+    previous_evidence_ids:
+    - Je42afcdd3719ec15
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Unforeseen physical conditions encountered by the Contractor that could not reasonably have been foreseen
     by an experienced contractor entitle the contractor to written notice, certified additional costs, and reasonable
     measure approvals from the Engineer.
   evidence_ids:
-  - Je42afcdd3719ec15
+  - J87327422164e9c7a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb0d53b705a9dd211
+  id: C002e299f70bb98d5
   citations:
-  - id: Je42afcdd3719ec15
+  - id: J87327422164e9c7a
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -12704,21 +13334,31 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:27:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb0d53b705a9dd211
+    previous_evidence_ids:
+    - Je42afcdd3719ec15
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: On completion of work, labour camps, hutments, and related installations must be cleared and land restored
     to its original condition within 45 days of physical completion, or recovery of delay costs will be made from
     contractor dues.
   evidence_ids:
-  - J2279c3874346ffe8
+  - J8a3411be06c63fde
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C13799948f3b26127
+  id: C6602a8cc8f8c02cd
   citations:
-  - id: J2279c3874346ffe8
+  - id: J8a3411be06c63fde
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -12802,20 +13442,30 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:27:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C13799948f3b26127
+    previous_evidence_ids:
+    - J2279c3874346ffe8
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Site security measures require the Contractor to control personnel and vehicles, issue and check admission
     passes, maintain visitor lists with photographs upon request, and follow relevant safety and security instructions.
   evidence_ids:
-  - J2279c3874346ffe8
+  - J8a3411be06c63fde
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3d38b5fde17b9125
+  id: Cf46049be33ad74fe
   citations:
-  - id: J2279c3874346ffe8
+  - id: J8a3411be06c63fde
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -12899,20 +13549,30 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:27:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3d38b5fde17b9125
+    previous_evidence_ids:
+    - J2279c3874346ffe8
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Geological and archaeological discoveries on the Site remain the absolute property of the Government of
     India, and the Contractor must prevent removal or damage and immediately acquaint the Engineer upon discovery.
   evidence_ids:
-  - J919318f1e3e3911e
+  - Jae8c522e7fce7f56
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5f49bd65fed0f313
+  id: Cb8abc4cc3b17a9c7
   citations:
-  - id: J919318f1e3e3911e
+  - id: Jae8c522e7fce7f56
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -12993,20 +13653,30 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:27:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5f49bd65fed0f313
+    previous_evidence_ids:
+    - J919318f1e3e3911e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Publicity restrictions prohibit the Contractor from circulating articles, photographs, or materials or granting
     media access without the written permission of the Employer.
   evidence_ids:
-  - J919318f1e3e3911e
+  - Jae8c522e7fce7f56
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ccb2df40387679f7b
+  id: Ce4cb68a1bb730edd
   citations:
-  - id: J919318f1e3e3911e
+  - id: Jae8c522e7fce7f56
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -13087,20 +13757,30 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:27:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ccb2df40387679f7b
+    previous_evidence_ids:
+    - J919318f1e3e3911e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Under GCC Sub-Clause 4.31, the Contractor must disclose at tender filing if any partner or director is closely
     related to officers of the Employer or Engineer, or if close relatives hold financial stakes.
   evidence_ids:
-  - J919318f1e3e3911e
+  - Jae8c522e7fce7f56
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca4a9cd911361817e
+  id: C666acc77811e69bf
   citations:
-  - id: J919318f1e3e3911e
+  - id: Jae8c522e7fce7f56
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -13181,20 +13861,30 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:27:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca4a9cd911361817e
+    previous_evidence_ids:
+    - J919318f1e3e3911e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Explosives usage requires prior approval from the Engineer, storage in a special magazine provided at contractor
     cost, and strict supervision under licensed personnel pursuant to statutory rules.
   evidence_ids:
-  - J919318f1e3e3911e
+  - Jae8c522e7fce7f56
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5fcc0ada372adfc8
+  id: Cc5a54ba34f3521fb
   citations:
-  - id: J919318f1e3e3911e
+  - id: Jae8c522e7fce7f56
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -13278,22 +13968,32 @@ claims:
   editorial_notes:
   - text: Generic historical GCC 4.32 wording. Volume 2 Scope Clause 11 expressly prohibits explosives. Read the
       cited cross-source finding before using this summary; it is not permission to use explosives for this package.
-    related_claim_id: Cdeaf08aff3d6d3f7
+    related_claim_id: Cf83340e8aa5e8d9d
+  editorial_history:
+  - previous_claim_id: C5fcc0ada372adfc8
+    previous_evidence_ids:
+    - J919318f1e3e3911e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Prohibited conduct under GCC Sub-Clause 4.33 encompasses corrupt and fraudulent practices, empowering the
     Employer to reject tenders, rescind contracts without compensation except for work done, and declare contractors
     ineligible for a minimum of 2 years.
   evidence_ids:
-  - J0096c6ff093139d4
+  - J0426d48dadd5a871
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc51adbe00534eb58
+  id: C69c622df40d1e89b
   citations:
-  - id: J0096c6ff093139d4
+  - id: J0426d48dadd5a871
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -13359,20 +14059,30 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:27:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc51adbe00534eb58
+    previous_evidence_ids:
+    - J0096c6ff093139d4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Under GCC Sub-Clause 4.34, the Contractor must institute a quality assurance system in accordance with contract
     details, submitting procedure and compliance documents to the Engineer for consent before each execution stage.
   evidence_ids:
-  - J0096c6ff093139d4
+  - J0426d48dadd5a871
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb6a4adbafa346092
+  id: C11fcf24cb09906a5
   citations:
-  - id: J0096c6ff093139d4
+  - id: J0426d48dadd5a871
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -13438,20 +14148,30 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:27:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb6a4adbafa346092
+    previous_evidence_ids:
+    - J0096c6ff093139d4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Confidentiality provisions prohibit the Contractor from using or divulging project information without written
     employer permission, and require sub-contractors to be bound by equivalent undertakings.
   evidence_ids:
-  - J0096c6ff093139d4
+  - J0426d48dadd5a871
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C295a8b1f09c674ed
+  id: Cb9b7e17c8f8fb11b
   citations:
-  - id: J0096c6ff093139d4
+  - id: J0426d48dadd5a871
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -13517,23 +14237,33 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:27:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C295a8b1f09c674ed
+    previous_evidence_ids:
+    - J0096c6ff093139d4
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: GCC Clause 4 governs contractor obligations regarding access routes, interference, rights of way, programs,
     sub-contracting, assignment, setting out, site data, and sufficiency of contract amount.
   evidence_ids:
-  - J18ff8ca501f1ddf3
-  - J9c3e04f4e576342b
-  - Jb6331f6c243c0e9a
-  - Jf25f89c198cf1628
+  - J2302d893bd99709d
+  - Jc926698db21bac42
+  - J8e92493e9e5f8f82
+  - J883b354f2814258f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C995f749af859e83e
+  id: C69fb7a2a35731911
   citations:
-  - id: J18ff8ca501f1ddf3
+  - id: J2302d893bd99709d
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -13614,9 +14344,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: J9c3e04f4e576342b
+  - id: Jc926698db21bac42
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -13694,9 +14424,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Jb6331f6c243c0e9a
+  - id: J8e92493e9e5f8f82
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -13776,9 +14506,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Jf25f89c198cf1628
+  - id: J883b354f2814258f
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -13861,22 +14591,35 @@ claims:
   - text: This is an overview of baseline GCC topics. Read the subcontracting topic with Contract Data Item 4 and
       Corrigendum 2 new SCC 4; the overview does not establish permission to subcontract or deletion of all GCC
       Clause 4.
-    related_claim_id: C83e868feeefc8e7a
+    related_claim_id: C21a5e5c516f65643
+  editorial_history:
+  - previous_claim_id: C995f749af859e83e
+    previous_evidence_ids:
+    - J18ff8ca501f1ddf3
+    - J9c3e04f4e576342b
+    - Jb6331f6c243c0e9a
+    - Jf25f89c198cf1628
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Contractor must submit an initial programme to the Engineer within 28 days of receiving the Letter of
     Acceptance, structured using precedence networking techniques to show staging, design, procurement, construction,
     and month-wise fund requirements.
   evidence_ids:
-  - J18ff8ca501f1ddf3
+  - J2302d893bd99709d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4436ee2123db28fc
+  id: C74b491e829536a43
   citations:
-  - id: J18ff8ca501f1ddf3
+  - id: J2302d893bd99709d
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -13959,20 +14702,30 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:33:45+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4436ee2123db28fc
+    previous_evidence_ids:
+    - J18ff8ca501f1ddf3
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Engineer must inform the Contractor in writing within 21 days of receiving the initial programme or
     revised programming information.
   evidence_ids:
-  - J18ff8ca501f1ddf3
+  - J2302d893bd99709d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C715b9714436d217f
+  id: Cc336e27ad2c8a1f9
   citations:
-  - id: J18ff8ca501f1ddf3
+  - id: J2302d893bd99709d
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -14055,21 +14808,31 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:33:45+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C715b9714436d217f
+    previous_evidence_ids:
+    - J18ff8ca501f1ddf3
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Contractor may sub-contract works only with prior written consent of the Engineer or Employer and limited
     to the value stated in the Contract Data, remaining fully responsible for all sub-contractor acts and defaults.
   evidence_ids:
-  - J9c3e04f4e576342b
-  - Jb6331f6c243c0e9a
+  - Jc926698db21bac42
+  - J8e92493e9e5f8f82
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C72a60c4f7900b3af
+  id: C9e6b951c27318df3
   citations:
-  - id: J9c3e04f4e576342b
+  - id: Jc926698db21bac42
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -14147,9 +14910,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: Jb6331f6c243c0e9a
+  - id: J8e92493e9e5f8f82
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -14234,30 +14997,41 @@ claims:
   editorial_notes:
   - text: Historical GCC 4.5 wording only. Contract Data Item 4 states Not Permitted, and Corrigendum 2 adds SCC
       4 instructing deletion of GCC 4.5. Do not read this baseline wording as an unamended subcontracting permission.
-    related_claim_id: C83e868feeefc8e7a
+    related_claim_id: C21a5e5c516f65643
   amendment_annotations:
   - state: superseded
     scope: Historical GCC 4.5 text only
     text: C2 adds SCC 4 instructing deletion of the entire listed GCC 4.5 subclause. Preserve the baseline source;
       this does not delete GCC 4.6/4.7 or decide remaining rights.
     evidence_ids:
+    - Jc926698db21bac42
+    - J42ebc7a9caffaf7c
+  editorial_history:
+  - previous_claim_id: C72a60c4f7900b3af
+    previous_evidence_ids:
     - J9c3e04f4e576342b
-    - J1dd8bce37ef510fc
+    - Jb6331f6c243c0e9a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Upon receiving instructions from the Engineer regarding poor or unsatisfactory performance of a sub-contractor
     in quality, progress, workmanship, or safety norms, the Contractor must demobilize and remove such sub-contractor
     from the site within 10 days.
   evidence_ids:
-  - Jb6331f6c243c0e9a
+  - J8e92493e9e5f8f82
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8fe7c9f0d39df51c
+  id: C381ab6fe6cb2b28b
   citations:
-  - id: Jb6331f6c243c0e9a
+  - id: J8e92493e9e5f8f82
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -14342,29 +15116,39 @@ claims:
   editorial_notes:
   - text: Historical GCC 4.5.7 wording within GCC 4.5. Corrigendum 2 new SCC 4 instructs deletion of GCC 4.5. The
       historical 10-day removal statement is retained for traceability, not asserted as an unamended operative requirement.
-    related_claim_id: C83e868feeefc8e7a
+    related_claim_id: C21a5e5c516f65643
   amendment_annotations:
   - state: superseded
     scope: Historical GCC 4.5 text only
     text: C2 adds SCC 4 instructing deletion of the entire listed GCC 4.5 subclause. Preserve the baseline source;
       this does not delete GCC 4.6/4.7 or decide remaining rights.
     evidence_ids:
+    - J8e92493e9e5f8f82
+    - J42ebc7a9caffaf7c
+  editorial_history:
+  - previous_claim_id: C8fe7c9f0d39df51c
+    previous_evidence_ids:
     - Jb6331f6c243c0e9a
-    - J1dd8bce37ef510fc
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Any breach of sub-contracting provisions under GCC Sub-Clauses 4.5 to 4.6 entitles the Employer to rescind
     the contract under Sub-Clause 13.2 and hold the Contractor liable for resulting loss or damage.
   evidence_ids:
-  - Jf25f89c198cf1628
+  - J883b354f2814258f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6ae178037808b6fa
+  id: C650d684a0883f0a3
   citations:
-  - id: Jf25f89c198cf1628
+  - id: J883b354f2814258f
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -14447,22 +15231,32 @@ claims:
   - text: Baseline GCC 4.7 cross-refers to 4.5 and 4.6. Corrigendum 2 new SCC 4 targets GCC 4.5; it does not expressly
       list 4.6 or 4.7 for deletion. The effect on this cross-reference requires review. Do not infer automatic deletion
       or settled applicability of the neighbouring provisions.
-    related_claim_id: C83e868feeefc8e7a
+    related_claim_id: C21a5e5c516f65643
+  editorial_history:
+  - previous_claim_id: C6ae178037808b6fa
+    previous_evidence_ids:
+    - Jf25f89c198cf1628
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Contractor is fully responsible for accurate setting out of the works, preserving benchmarks and reference
     points, and must rectify any positional, dimensional, or alignment errors at its own cost when required by the
     Engineer.
   evidence_ids:
-  - Jf25f89c198cf1628
+  - J883b354f2814258f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cee4ac1e15f2c853a
+  id: Ce4fea599ddd219d0
   citations:
-  - id: Jf25f89c198cf1628
+  - id: J883b354f2814258f
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -14541,20 +15335,30 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:33:45+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cee4ac1e15f2c853a
+    previous_evidence_ids:
+    - Jf25f89c198cf1628
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Employer-provided geo-technical data and sub-surface information are not warranted for accuracy, and errors
     or discrepancies found therein do not constitute grounds for claims for extra time or costs.
   evidence_ids:
-  - Jf25f89c198cf1628
+  - J883b354f2814258f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2084ea060de108ca
+  id: C1c77f0e9a7320766
   citations:
-  - id: Jf25f89c198cf1628
+  - id: J883b354f2814258f
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -14633,23 +15437,33 @@ claims:
       adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T07:33:45+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2084ea060de108ca
+    previous_evidence_ids:
+    - Jf25f89c198cf1628
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: GCC 4.32 contains generic conditional wording on Engineer-approved explosives, while Volume 2 Scope Clause
     11 expressly states that use of explosives will not be permitted. Preserve both source statements and cross-reference
     the scope prohibition beside the GCC summary; the generic text must not be presented alone as permission for
     this demolition package. This draft finding does not decide document precedence or legal applicability.
   evidence_ids:
-  - J919318f1e3e3911e
-  - J2b2f745124be1231
+  - Jae8c522e7fce7f56
+  - J1693150d9155007c
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cdeaf08aff3d6d3f7
+  id: Cf83340e8aa5e8d9d
   citations:
-  - id: J919318f1e3e3911e
+  - id: Jae8c522e7fce7f56
     okf_path: OKF_bundle/Technical/Vol1/secE.md
-    okf_sha256: cc7b637ccd04c0125cec18eeb4887040af71ec0620ae2143a949342599d405b3
+    okf_sha256: d72224b0c08c509f8485b0d971bd10c690c5dace89c225ac4a8fcb0f9f2c9dad
     heading: Clause 4 — The Contractor
     source_document: Vol1DLNP1.pdf
     source_sha256: 74441e621d2e627d9132506a894883aff3b5fe3fdfa9600f5be3c7ec394d5c5c
@@ -14728,9 +15542,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger GCC provision. A sentence or subclause can continue in
       adjacent fragments; do not infer missing conditions.
-  - id: J2b2f745124be1231
+  - id: J1693150d9155007c
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 11 — Use of Explosives
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -14750,18 +15564,29 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T11:37:33+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cdeaf08aff3d6d3f7
+    previous_evidence_ids:
+    - J919318f1e3e3911e
+    - J2b2f745124be1231
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: concepts/tender_security_by_stage.md
   title: Tender Securities by Submission and Award Stage
   evidence_ids:
-  - J8bd217cf1c0cb384
+  - J68b56efe7d18bd1a
 - relation_type: relates_to
   target: concepts/amendment_sequence_and_conflicts.md
   title: Amendment Sequence and Unresolved Source Conflicts
   evidence_ids:
-  - J099b5fe5de51f74d
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - Jeb83d1b7a6d87fee
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # General Conditions of Contract (GCC) and Contract Data Overview
@@ -14771,315 +15596,315 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - Section E sets out the General Conditions of Contract (GCC) and project-specific Contract Data for BMRCL Tender Package P1, governing the rights, obligations, timeframes, and financial parameters between the Employer, Engineer, and Contractor across 18 clauses.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143; quotation `S413f0e71a030f746`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 66; quotation `J10b9218b8f963460`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contents_pages/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 67; quotation `Jed5e9aba24b8eac6`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contents_pages/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143; quotation `Sfa8c5aea1471cef2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 66; quotation `J11c78e424e603302`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contents_pages/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 67; quotation `J7763c02d3462f0d3`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contents_pages/1`.
 
 - Section E defines the General Conditions of Contract (GCC) and Contract Data for BMRCL Tender Package P1, covering definitions, the Employer, the Engineer, the Contractor, payment terms, insurance, variations, and dispute resolution across 18 clauses.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 66; quotation `J10b9218b8f963460`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contents_pages/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 1 — Definitions and Interpretation|Clause 1 — Definitions and Interpretation]]; `Vol1DLNP1.pdf`; PDF page(s) 70, 71, 72, 73, 74, 75; quotation `J166f7c346f54a774`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 2 — The Employer|Clause 2 — The Employer]]; `Vol1DLNP1.pdf`; PDF page(s) 75; quotation `Jaf7b1fd2f94ad352`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 76; quotation `Jf33838786f0f30e1`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 3 — The Engineer|Clause 3 — The Engineer]]; `Vol1DLNP1.pdf`; PDF page(s) 75, 76; quotation `Jfc9714b11b6c93cb`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 66; quotation `J11c78e424e603302`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contents_pages/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 1 — Definitions and Interpretation|Clause 1 — Definitions and Interpretation]]; `Vol1DLNP1.pdf`; PDF page(s) 70, 71, 72, 73, 74, 75; quotation `J327789a2a7201b30`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 2 — The Employer|Clause 2 — The Employer]]; `Vol1DLNP1.pdf`; PDF page(s) 75; quotation `J9075206a7706061d`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 76; quotation `J5ecb5e578858a268`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 3 — The Engineer|Clause 3 — The Engineer]]; `Vol1DLNP1.pdf`; PDF page(s) 75, 76; quotation `Jb775be0c2c64399b`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/2`.
 
 - The Contractor's general obligations include designing (if in scope), executing, completing, testing, and commissioning the Works within the Time for Completion and remedying defects, while taking full responsibility for the adequacy, stability, and safety of all site operations.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 77; quotation `Jb8d20a5a82c66dae`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 77; quotation `J5bbb477947601531`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/1`.
 
 - The Contractor must take all reasonable steps to protect the environment both on and off the Site, ensuring that emissions, discharges, and effluents do not exceed statutory limits or the Employer's Requirements and Technical Specifications, while remaining fully liable for any work stoppage due to statutory contraventions.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 88; quotation `J0e6a74396167c946`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 88; quotation `Jff563a5330de75d8`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/12`.
 
 - The Contractor is responsible for obtaining its own water, electricity, and gas supplies, and must provide all tools, plants, and equipment required for the Works unless specific exceptions are authorized under the Special Conditions of Contract.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 88; quotation `J0e6a74396167c946`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 88; quotation `Jff563a5330de75d8`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/12`.
 
 - The Contractor must submit an initial programme within 28 days of receiving the Letter of Acceptance, structured using precedence networking techniques, and maintain access routes while indemnifying the Employer against associated claims or damage.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 84; quotation `J18ff8ca501f1ddf3`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 84; quotation `J2302d893bd99709d`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/8`.
 
 - The Contractor bears full responsibility for the safety of the Works, persons, and adjoining properties, must implement an approved Site Safety Plan, report serious accidents immediately, and maintain firefighting and first aid facilities.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 86; quotation `Jfad7cf2ceee3f634`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/10`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 87; quotation `Jbc7919daf9ce2797`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 86; quotation `Jd550be062c63737f`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 87; quotation `J4483e84c108dba13`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/11`.
 
 - The Contractor must clear the Site of all wreckage, rubbish, temporary works, and labour camps within 45 days of physical completion, failing which the Engineer may remove them at the Contractor's expense.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 90; quotation `J2279c3874346ffe8`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 90; quotation `J8a3411be06c63fde`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/14`.
 
 - The Contractor is prohibited from engaging in corrupt or fraudulent practices, and the Employer may rescind the Contract and declare the Contractor ineligible for a minimum of two years upon determination of such conduct.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 92; quotation `J0096c6ff093139d4`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 92; quotation `J0426d48dadd5a871`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/16`.
 
 - GCC Section E covers comprehensive contract provisions including Design (Clause 5) and Staff and Labour (Clause 6), governing contractor responsibilities, reviews, warranties, wages, safety, and superintendence.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 5 — Design|Clause 5 — Design]]; `Vol1DLNP1.pdf`; PDF page(s) 92, 93, 94, 95, 96, 97; quotation `J77b7b5d197f3383c`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 6 — Staff and Labour|Clause 6 — Staff and Labour]]; `Vol1DLNP1.pdf`; PDF page(s) 97, 98, 99, 100; quotation `Jf60d5499e22ff823`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 5 — Design|Clause 5 — Design]]; `Vol1DLNP1.pdf`; PDF page(s) 92, 93, 94, 95, 96, 97; quotation `S97c55804a0fa4e0c`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 6 — Staff and Labour|Clause 6 — Staff and Labour]]; `Vol1DLNP1.pdf`; PDF page(s) 97, 98, 99, 100; quotation `Sab0a1105568311b6`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 5 — Design|Clause 5 — Design]]; `Vol1DLNP1.pdf`; PDF page(s) 92, 93, 94, 95, 96, 97; quotation `J8c807939135d64e7`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 6 — Staff and Labour|Clause 6 — Staff and Labour]]; `Vol1DLNP1.pdf`; PDF page(s) 97, 98, 99, 100; quotation `Jfdac701c40fa58f5`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 5 — Design|Clause 5 — Design]]; `Vol1DLNP1.pdf`; PDF page(s) 92, 93, 94, 95, 96, 97; quotation `Se228883d8292024a`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 6 — Staff and Labour|Clause 6 — Staff and Labour]]; `Vol1DLNP1.pdf`; PDF page(s) 97, 98, 99, 100; quotation `Sa8896004834bc20a`.
 
 - GCC Clauses 7 through 10 establish the regulatory framework for Quality Control, Commencement and Completion, Handing Over and Taking Over, and Defects Liability under BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 10 — Defects Liability|Clause 10 — Defects Liability]]; `Vol1DLNP1.pdf`; PDF page(s) 108, 109, 110; quotation `J3ee05cf07206532c`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/9`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 8 — Commencement, Completion and Delay|Clause 8 — Commencement, Completion and Delay]]; `Vol1DLNP1.pdf`; PDF page(s) 104, 105, 106, 107; quotation `Ja40f8e325b5c8584`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/7`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 9 — Handing Over by Contractor and Taking Over by Employer|Clause 9 — Handing Over by Contractor and Taking Over by Employer]]; `Vol1DLNP1.pdf`; PDF page(s) 107, 108; quotation `Jf4e386b46571b6cf`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/8`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 7 — Quality Control|Clause 7 — Quality Control]]; `Vol1DLNP1.pdf`; PDF page(s) 100, 101, 102, 103, 104; quotation `S1136460c84cc6918`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 9 — Handing Over by Contractor and Taking Over by Employer|Clause 9 — Handing Over by Contractor and Taking Over by Employer]]; `Vol1DLNP1.pdf`; PDF page(s) 107, 108; quotation `S92ea45e9093c7566`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 10 — Defects Liability|Clause 10 — Defects Liability]]; `Vol1DLNP1.pdf`; PDF page(s) 108, 109, 110; quotation `Se3f42b85b1116546`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 7 — Quality Control|Clause 7 — Quality Control]]; `Vol1DLNP1.pdf`; PDF page(s) 100, 101, 102, 103, 104; quotation `Jec665a3a5a7e3d74`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 10 — Defects Liability|Clause 10 — Defects Liability]]; `Vol1DLNP1.pdf`; PDF page(s) 108, 109, 110; quotation `Jbd8a761fe0ff7843`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 8 — Commencement, Completion and Delay|Clause 8 — Commencement, Completion and Delay]]; `Vol1DLNP1.pdf`; PDF page(s) 104, 105, 106, 107; quotation `J0fe8982de24f004e`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 9 — Handing Over by Contractor and Taking Over by Employer|Clause 9 — Handing Over by Contractor and Taking Over by Employer]]; `Vol1DLNP1.pdf`; PDF page(s) 107, 108; quotation `Jcca39da89cc1c67d`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 7 — Quality Control|Clause 7 — Quality Control]]; `Vol1DLNP1.pdf`; PDF page(s) 100, 101, 102, 103, 104; quotation `S63c8f4d138e3e79b`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 9 — Handing Over by Contractor and Taking Over by Employer|Clause 9 — Handing Over by Contractor and Taking Over by Employer]]; `Vol1DLNP1.pdf`; PDF page(s) 107, 108; quotation `Sed64f6d87db84e86`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 10 — Defects Liability|Clause 10 — Defects Liability]]; `Vol1DLNP1.pdf`; PDF page(s) 108, 109, 110; quotation `S7f6e91c820498af8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 7 — Quality Control|Clause 7 — Quality Control]]; `Vol1DLNP1.pdf`; PDF page(s) 100, 101, 102, 103, 104; quotation `Jf0b79db67c1bd20b`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/6`.
 
 - Section E sets out the General Conditions of Contract (GCC) and project-specific Contract Data across 18 clauses, governing contract price adjustments, advance payments, measurements, and contractor obligations for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 66; quotation `J10b9218b8f963460`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contents_pages/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 110; quotation `J6cd6932ed829dd24`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125; quotation `S7b871f472760e0b1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 66; quotation `J11c78e424e603302`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contents_pages/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 110; quotation `J7ef88675279ec260`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125; quotation `Scb3273de3340df68`.
 
 - GCC Clause 11 establishes comprehensive payment rules including interim payment certificate procedures, ad-hoc 80% payments within 2 working days, final statements, retention money rules, withholding and liens, tax deductions at source, and post-payment audits.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 125; quotation `J25554cbe423a2266`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/15`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 122; quotation `J3e7d1573f2d6b62f`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/12`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 124; quotation `J698e684a20f2b1b9`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/14`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 121; quotation `J80396ccc60e8914a`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/11`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 123; quotation `J8e79f5666980cdde`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/13`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 119; quotation `J9c51544f86890db8`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/9`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 120; quotation `Je053a5fbb65fa773`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 125; quotation `J4417d9e6dbc778a8`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 122; quotation `Ja847246bb76162ce`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 124; quotation `Jc35a93986fa1e949`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 121; quotation `J07840889aa7fb49a`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 123; quotation `Jcbfd2f279820d2b7`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 119; quotation `J1ba0c2a536865ea1`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 120; quotation `J51512a62ff7facb4`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/10`.
 
 - General Conditions of Contract (GCC) Section E governs the execution of BMRCL Tender Package P1 across comprehensive clauses covering definitions, the Employer, the Engineer, the Contractor, payment terms, variations, risk, responsibility, and termination.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 66; quotation `J10b9218b8f963460`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contents_pages/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 66; quotation `J11c78e424e603302`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contents_pages/0`.
 
 - Section E defines the General Conditions of Contract (GCC) and project-specific Contract Data for BMRCL Tender Package P1 across 18 clauses, covering definitions, the Employer, the Engineer, the Contractor, payment terms, insurance, variations, force majeure, claims, disputes, and service of notices.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 66; quotation `J10b9218b8f963460`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contents_pages/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 17 — Claims, Disputes and Conciliation|Clause 17 — Claims, Disputes and Conciliation]]; `Vol1DLNP1.pdf`; PDF page(s) 139, 140, 141; quotation `J3d99ac833d30d558`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/16`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `J5516f07161b435b2`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 18 — Service of Notices|Clause 18 — Service of Notices]]; `Vol1DLNP1.pdf`; PDF page(s) 141; quotation `J6106502aaeac9922`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/17`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 16 — Force Majeure|Clause 16 — Force Majeure]]; `Vol1DLNP1.pdf`; PDF page(s) 137, 138; quotation `J66bb662a0f3422b9`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/15`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 15 — Insurance|Clause 15 — Insurance]]; `Vol1DLNP1.pdf`; PDF page(s) 134, 135, 136, 137; quotation `J7957e3c3de8aec5b`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 66; quotation `J11c78e424e603302`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contents_pages/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 17 — Claims, Disputes and Conciliation|Clause 17 — Claims, Disputes and Conciliation]]; `Vol1DLNP1.pdf`; PDF page(s) 139, 140, 141; quotation `J3808711ea48ee2c8`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `Jb6d88198cad1dbbd`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 18 — Service of Notices|Clause 18 — Service of Notices]]; `Vol1DLNP1.pdf`; PDF page(s) 141; quotation `Jef4907e87becd01a`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/17`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 16 — Force Majeure|Clause 16 — Force Majeure]]; `Vol1DLNP1.pdf`; PDF page(s) 137, 138; quotation `J60650fa2dd4a1e9f`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 15 — Insurance|Clause 15 — Insurance]]; `Vol1DLNP1.pdf`; PDF page(s) 134, 135, 136, 137; quotation `J6539d43b623dd956`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/14`.
 
 - The Contractor is responsible for access route maintenance, obtaining permits, and paying costs for temporary rights of way, while indemnifying the Employer against claims arising from access routes.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 84; quotation `J18ff8ca501f1ddf3`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 84; quotation `J2302d893bd99709d`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/8`.
 
 - The Contractor must undertake design coordination and interface management with designated contractors, sharing staging and storage areas and submitting joint coordination statements within 7 days of the coordination period end.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 80; quotation `J1f819820cf715c7c`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 80; quotation `Je087084d48108fc5`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/4`.
 
 - Sub-contracting is restricted and permitted only with prior consent of the Engineer or Employer, and the Contractor remains fully responsible for all acts, defaults, and omissions of any subcontractor.
-  - **Draft review note:** Historical GCC 4.5 wording only. Contract Data Item 4 states Not Permitted, and Corrigendum 2 adds SCC 4 instructing deletion of GCC 4.5. Do not read this baseline wording as an unamended subcontracting permission. Supporting finding: `C83e868feeefc8e7a`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 81; quotation `J9c3e04f4e576342b`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/5`.
+  - **Draft review note:** Historical GCC 4.5 wording only. Contract Data Item 4 states Not Permitted, and Corrigendum 2 adds SCC 4 instructing deletion of GCC 4.5. Do not read this baseline wording as an unamended subcontracting permission. Supporting finding: `C21a5e5c516f65643`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 81; quotation `Jc926698db21bac42`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/5`.
 
 - Within the time period stated in the Contract Data, the Contractor must submit parent company undertakings and guarantees as well as contractor warranties in approved formats.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 79; quotation `Jefd7aa60b6e10054`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 79; quotation `Jc0b69557db8e02f2`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/3`.
 
 - GCC Clause 4 governs various contractor obligations including site environmental planning, temporary works, unforeseen physical conditions, access, site security, operations, archaeological discoveries, publicity, relationship disclosures, explosives usage, prohibited conduct, and quality assurance.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 92; quotation `J0096c6ff093139d4`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/16`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 89; quotation `Je42afcdd3719ec15`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/13`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 91; quotation `J919318f1e3e3911e`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 92; quotation `J0426d48dadd5a871`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 89; quotation `J87327422164e9c7a`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 91; quotation `Jae8c522e7fce7f56`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/15`.
 
 - GCC Clause 4 governs contractor obligations regarding access routes, interference, rights of way, programs, sub-contracting, assignment, setting out, site data, and sufficiency of contract amount.
-  - **Draft review note:** This is an overview of baseline GCC topics. Read the subcontracting topic with Contract Data Item 4 and Corrigendum 2 new SCC 4; the overview does not establish permission to subcontract or deletion of all GCC Clause 4. Supporting finding: `C83e868feeefc8e7a`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 84; quotation `J18ff8ca501f1ddf3`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/8`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 81; quotation `J9c3e04f4e576342b`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 82; quotation `Jb6331f6c243c0e9a`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 83; quotation `Jf25f89c198cf1628`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/7`.
+  - **Draft review note:** This is an overview of baseline GCC topics. Read the subcontracting topic with Contract Data Item 4 and Corrigendum 2 new SCC 4; the overview does not establish permission to subcontract or deletion of all GCC Clause 4. Supporting finding: `C21a5e5c516f65643`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 84; quotation `J2302d893bd99709d`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 81; quotation `Jc926698db21bac42`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 82; quotation `J8e92493e9e5f8f82`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 83; quotation `J883b354f2814258f`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/7`.
 
 ## Key Parameters and Source Statements
 
 - The Contract Data establishes key project parameters including a 12-month completion period, 5% performance security, milestone-based liquidated damages capped at 5% of the contract price, and a 6-month defects liability period.
-  - **Draft review note:** Contract Data baseline: six months. The Contract Agreement template separately states twelve months; discrepancy unresolved. Supporting finding: `Ccbee310449417dd2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `J099b5fe5de51f74d`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/10`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `J50cf7f54666ad6c6`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/8`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `J6d08f664b55a27f6`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/7`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `J8bd217cf1c0cb384`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/1`.
+  - **Draft review note:** Contract Data baseline: six months. The Contract Agreement template separately states twelve months; discrepancy unresolved. Supporting finding: `C3c9ea7a86f0cc214`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `Jeb83d1b7a6d87fee`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `J70d8d9273eaa879c`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `Jaf458862d0ce8129`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `J68b56efe7d18bd1a`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/1`.
 
 - The Defects Liability Period is specified as 6 months from the date of Taking Over Certificates being issued for the whole of the work.
-  - **Draft review note:** Contract Data baseline: six months. The Contract Agreement template separately states twelve months; discrepancy unresolved. Supporting finding: `Ccbee310449417dd2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `J099b5fe5de51f74d`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/10`.
+  - **Draft review note:** Contract Data baseline: six months. The Contract Agreement template separately states twelve months; discrepancy unresolved. Supporting finding: `C3c9ea7a86f0cc214`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `Jeb83d1b7a6d87fee`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/10`.
 
 - The Engineer has explicit authority to oversee works, monitor test results, and issue necessary instructions for execution, but holds no authority to amend the Contract or relieve the Contractor of its obligations.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 3 — The Engineer|Clause 3 — The Engineer]]; `Vol1DLNP1.pdf`; PDF page(s) 75, 76; quotation `Jfc9714b11b6c93cb`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 3 — The Engineer|Clause 3 — The Engineer]]; `Vol1DLNP1.pdf`; PDF page(s) 75, 76; quotation `Jb775be0c2c64399b`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/2`.
 
 - The successful tenderer must furnish a Performance Security either as an unconditional and irrevocable e-Bank Guarantee from an Indian Scheduled Bank or scheduled Foreign Bank, or as an Insurance Surety Bond from an IRDA-authorized insurer.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 78; quotation `J53354df6bf3b7556`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 78; quotation `J59080c39eb32cf34`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/2`.
 
 - Performance Security is required to be valid and enforceable up to 60 days beyond the completion period, and extensions must be provided by the contractor at their own cost if the completion period is extended.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 78; quotation `J53354df6bf3b7556`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 78; quotation `J59080c39eb32cf34`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/2`.
 
 - The Contractor must submit an initial programme using precedence networking techniques to the Engineer no later than 28 days from the date of receipt of the Letter of Acceptance.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 84; quotation `J18ff8ca501f1ddf3`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 84; quotation `J2302d893bd99709d`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/8`.
 
 - Sub-contracting of works is permitted only with the prior consent of the Engineer or Employer and is limited to the value stated in the Contract Data, and the Contractor remains fully responsible for all acts, defaults, and omissions of any sub-contractor.
-  - **Draft review note:** Historical GCC 4.5 wording only: Corrigendum 2 adds SCC 4 instructing deletion of GCC 4.5. Do not present this baseline permission as an unamended operative requirement. Supporting finding: `C83e868feeefc8e7a`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 81; quotation `J9c3e04f4e576342b`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/5`.
+  - **Draft review note:** Historical GCC 4.5 wording only: Corrigendum 2 adds SCC 4 instructing deletion of GCC 4.5. Do not present this baseline permission as an unamended operative requirement. Supporting finding: `C21a5e5c516f65643`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 81; quotation `Jc926698db21bac42`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/5`.
 
 - Under GCC Clause 5.3, the Engineer's review period for each Construction and/or Manufacture Document shall not exceed 21 days from receipt, unless otherwise stated in the Employer's Requirements.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 5 — Design|Clause 5 — Design]]; `Vol1DLNP1.pdf`; PDF page(s) 92, 93, 94, 95, 96, 97; quotation `J77b7b5d197f3383c`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 5 — Design|Clause 5 — Design]]; `Vol1DLNP1.pdf`; PDF page(s) 92, 93, 94, 95, 96, 97; quotation `J8c807939135d64e7`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/4`.
 
 - Under GCC Clause 6.3, the Contractor must not employ any retired employee of the Employer or Engineer unless they have completed at least two years post-retirement or obtained a no-objection certificate from the Employer.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 6 — Staff and Labour|Clause 6 — Staff and Labour]]; `Vol1DLNP1.pdf`; PDF page(s) 97, 98, 99, 100; quotation `Jf60d5499e22ff823`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 6 — Staff and Labour|Clause 6 — Staff and Labour]]; `Vol1DLNP1.pdf`; PDF page(s) 97, 98, 99, 100; quotation `Jfdac701c40fa58f5`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/5`.
 
 - The Contractor must submit its proposed Site Quality Plan based on the Outline Quality Plan and ISO 9001-1991 standards within 30 days of receiving the Letter of Acceptance, with any supplements submitted at least 14 days before work commencement.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 7 — Quality Control|Clause 7 — Quality Control]]; `Vol1DLNP1.pdf`; PDF page(s) 100, 101, 102, 103, 104; quotation `Jec665a3a5a7e3d74`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 7 — Quality Control|Clause 7 — Quality Control]]; `Vol1DLNP1.pdf`; PDF page(s) 100, 101, 102, 103, 104; quotation `Jf0b79db67c1bd20b`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/6`.
 
 - Tests on Completion include pre-commissioning tests (dry or cold functional tests), commissioning tests (operational tests), and trial operation, following a 21-day notice period given by the Contractor to the Engineer.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 7 — Quality Control|Clause 7 — Quality Control]]; `Vol1DLNP1.pdf`; PDF page(s) 100, 101, 102, 103, 104; quotation `Jec665a3a5a7e3d74`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 7 — Quality Control|Clause 7 — Quality Control]]; `Vol1DLNP1.pdf`; PDF page(s) 100, 101, 102, 103, 104; quotation `Jf0b79db67c1bd20b`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/6`.
 
 - Statutory safety approvals and sanctions from the Commissioner of Railway Safety or Commissioner of Metro Railway Safety (CMRS) are mandatory prior to the commissioning and public passenger introduction of the system.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 7 — Quality Control|Clause 7 — Quality Control]]; `Vol1DLNP1.pdf`; PDF page(s) 100, 101, 102, 103, 104; quotation `Jec665a3a5a7e3d74`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 7 — Quality Control|Clause 7 — Quality Control]]; `Vol1DLNP1.pdf`; PDF page(s) 100, 101, 102, 103, 104; quotation `Jf0b79db67c1bd20b`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/6`.
 
 - The Defects Liability Period is specified as 6 months from the date of Taking Over Certificates being issued for the whole of the works, and is extendable if the works cannot be used due to defects or damage.
-  - **Draft review note:** Contract Data baseline: six months. The Contract Agreement template separately states twelve months; discrepancy unresolved. Supporting finding: `Ccbee310449417dd2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 10 — Defects Liability|Clause 10 — Defects Liability]]; `Vol1DLNP1.pdf`; PDF page(s) 108, 109, 110; quotation `J3ee05cf07206532c`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/9`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `J099b5fe5de51f74d`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/10`.
+  - **Draft review note:** Contract Data baseline: six months. The Contract Agreement template separately states twelve months; discrepancy unresolved. Supporting finding: `C3c9ea7a86f0cc214`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 10 — Defects Liability|Clause 10 — Defects Liability]]; `Vol1DLNP1.pdf`; PDF page(s) 108, 109, 110; quotation `Jbd8a761fe0ff7843`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `Jeb83d1b7a6d87fee`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/10`.
 
 - Contract Price provisions under GCC Clause 11 establish rules for output GST reimbursement, changes in law, custom duty project import benefits, and detailed price variation formulas covering labour, fuel, materials, plant, steel, and cement components.
-  - **Draft review note:** Historical GCC price-variation text: Corrigendum 2 adds SCC 6 instructing deletion of GCC 11.1.2 and 11.1.2.1–11.1.2.4; its Contract Data amendment retains NOT APPLICABLE. Supporting finding: `C91113f62b7e67b8e`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 115; quotation `J39a95f3672044adc`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 110; quotation `J6cd6932ed829dd24`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 112; quotation `J76b28c1d67e5195f`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 116; quotation `Jaa78e9fb25292061`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 111; quotation `Jaddb352ddef52cd5`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 118; quotation `Jd9eb2e0f3944651f`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/8`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 114; quotation `Jda9bfcfa83f1277c`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 113; quotation `Je94c427ee13a318d`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 117; quotation `Jf1391b18570b6a3b`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/7`.
+  - **Draft review note:** Historical GCC price-variation text: Corrigendum 2 adds SCC 6 instructing deletion of GCC 11.1.2 and 11.1.2.1–11.1.2.4; its Contract Data amendment retains NOT APPLICABLE. Supporting finding: `C3aff26dec86721e4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 115; quotation `J8344230c23e73f27`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 110; quotation `J7ef88675279ec260`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 112; quotation `J6efcf59a307be5ec`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 116; quotation `Jeb34685d9b61c0c7`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 111; quotation `Je5a9908856cd7981`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 118; quotation `J460da7cbbe01754e`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 114; quotation `Je5457b35d125e14f`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 113; quotation `Jf536bea58b7fb32a`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 117; quotation `Jdbf2f72cdd4e3f45`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/7`.
 
 - Interim Payment Certificates provide for an ad-hoc payment of 80% of bill value within 2 working days of receiving a statement and supporting documents, with the remaining balance certified and delivered within 7 working days.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 119; quotation `J9c51544f86890db8`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 119; quotation `J1ba0c2a536865ea1`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/9`.
 
 - Retention money is deducted from running account bills as stated in the Contract Data, or alternatively the contractor may submit an e-Bank Guarantee or Insurance Surety Bond equal to the maximum retention amount along with the 1st IPC.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 121; quotation `J80396ccc60e8914a`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 121; quotation `J07840889aa7fb49a`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/11`.
 
 - The Employer shall pay the amount certified in the Final Payment Certificate within 56 days from the date of its issue.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 120; quotation `Je053a5fbb65fa773`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 120; quotation `J51512a62ff7facb4`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/10`.
 
 - GCC Clause 12 establishes variation mechanisms including Employer's Variations, Contractor's value engineering, and quantity variation rules where individual items can vary up to 25% plus side, and minor value items have specialized threshold and payment percentage bands.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 12 — Variations|Clause 12 — Variations]]; `Vol1DLNP1.pdf`; PDF page(s) 125, 126, 127, 128, 129; quotation `J34dd4978a26ba674`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 12 — Variations|Clause 12 — Variations]]; `Vol1DLNP1.pdf`; PDF page(s) 125, 126, 127, 128, 129; quotation `J4821b3a8ad55cf39`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/11`.
 
 - GCC Clause 13 sets forth determination and termination conditions, empowering the Employer to terminate the contract for contractor default upon 14 days' notice (or immediately in cases of insolvency/bankruptcy or corrupt practices) and specifying financial consequences, forfeiture of retention money, and performance guarantee encashment.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 13 — Determination/Termination of the Contract|Clause 13 — Determination/Termination of the Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 129, 130, 131, 132; quotation `Jab380d877ae91925`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 13 — Determination/Termination of the Contract|Clause 13 — Determination/Termination of the Contract]]; `Vol1DLNP1.pdf`; PDF page(s) 129, 130, 131, 132; quotation `J2d2ff78aa38287b3`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/12`.
 
 - GCC Clause 14 defines risk and responsibility, requiring the Contractor to indemnify the Employer and Engineer against all claims, damages, and losses arising from operations, and outlining Employer's risks such as war, civil commotion, and radioactive contamination.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 14 — Risk and Responsibility|Clause 14 — Risk and Responsibility]]; `Vol1DLNP1.pdf`; PDF page(s) 133, 134; quotation `J7bf0d00829ade4bd`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 14 — Risk and Responsibility|Clause 14 — Risk and Responsibility]]; `Vol1DLNP1.pdf`; PDF page(s) 133, 134; quotation `Je54c7d2ea0825007`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/13`.
 
 - The completion period for the whole of the works is 12 months reckoned from the Date of Commencement, where the date of commencement is the date of signing of the Contract Agreement.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `J5516f07161b435b2`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `Jb6d88198cad1dbbd`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
 
 - Performance Security is set at 5% of the Contract Price as mentioned in the Letter of Acceptance, to be furnished within 21 days of issue of the Letter of Acceptance.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `J5516f07161b435b2`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `Jb6d88198cad1dbbd`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
 
 - Liquidated Damages for milestones are specified as Rs. 5,000 per day for delay in achieving Milestone-1 (50% area in 6 months) and Rs. 10,000 per day for Milestone-2 (100% area in 12 months), with an upper limit of 5% of the Contract Price.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `J5516f07161b435b2`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `Jb6d88198cad1dbbd`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
 
 - The Defects Liability Period is 6 months from the date of taking over mentioned in Taking Over Certificates issued for the whole of the work.
-  - **Draft review note:** Contract Data baseline: six months. The Contract Agreement template separately states twelve months; discrepancy unresolved. Supporting finding: `Ccbee310449417dd2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `J099b5fe5de51f74d`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/10`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `J5516f07161b435b2`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
+  - **Draft review note:** Contract Data baseline: six months. The Contract Agreement template separately states twelve months; discrepancy unresolved. Supporting finding: `C3c9ea7a86f0cc214`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `Jeb83d1b7a6d87fee`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `Jb6d88198cad1dbbd`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
 
 - Contract Data items for Price Variation/Adjustment, Mobilization Advance, Advance Against Plant & Machinery, Special/Acceleration Advance, Professional Indemnity Insurance, and Incentives for Early Completion are explicitly designated as NOT APPLICABLE.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `J4954cab466983818`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/14`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `J5516f07161b435b2`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `J8565a5e674ba4694`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/13`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `J8df0ee6180c6bca7`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/12`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `Ja4c36b878b83ce15`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/11`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `Jd63702bce5914d55`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `Jc55728d55a75639f`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142, 143; quotation `Jb6d88198cad1dbbd`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/contract_data`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `J685ffec94f86ce6e`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `Jc8e0050a04c093f1`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `Jefeb0c84a448ac2f`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `Ja740f4ef77fe8481`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/16`.
 
 - Contract Data Item 4 stipulates that Sub-Contracting (GCC Sub-Clause 4.5) is Not Permitted.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `Jede127bc7333e750`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `J334035669e5961a3`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/3`.
 
 - Contract Data Item 5 specifies that the Site Safety Plan (GCC Sub-Clause 4.16.2) must be submitted within 4 weeks from the issue of the Letter of Acceptance.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `Je6ac80eb69f46bb5`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `J45d7d58d24286667`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/4`.
 
 - Contract Data Item 6 requires the Site Environmental Plan (GCC Sub-Clause 4.17.1) to be submitted within 4 weeks from the issue of the Letter of Acceptance.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `J90b7e8b79b96f3f6`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; quotation `J7ded2d3391e4e5fd`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/5`.
 
 - Contract Data Item 11 designates Incentives for early completion of whole work (GCC Sub-Clause 8.10) as NOT APPLICABLE.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `J4d88f9523ba735a6`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `J52e5fd6afe9bd8b2`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/9`.
 
 - Contract Data Item 20 dictates that all insurances under GCC Clause 15 must be submitted within 06 weeks from the date of commencement of works.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `Je61e896d6545169a`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/17`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `J69286fc9df529874`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/17`.
 
 - The Contractor must submit an initial programme within 28 days of receiving the Letter of Acceptance, and submit monthly progress reports by the end of each calendar month.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 84; quotation `J18ff8ca501f1ddf3`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/8`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 85; quotation `Jada3f43d4b5cb9df`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 84; quotation `J2302d893bd99709d`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 85; quotation `Jbabe5feb9b94a9ca`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/9`.
 
 - Under GCC Sub-Clause 4.17.1, the Contractor must submit a detailed and comprehensive Site Environmental Plan within the stipulated time mentioned in the Contract Data.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 88; quotation `J0e6a74396167c946`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 88; quotation `Jff563a5330de75d8`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/12`.
 
 - Employer-provided materials, if any, are supplied in a phased manner under pre-approved programs against an e-Bank Guarantee or Insurance Surety Bond matching the material value, subject to SCC terms.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 89; quotation `Je42afcdd3719ec15`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 89; quotation `J87327422164e9c7a`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/13`.
 
 - Temporary works drawings and design calculations must be submitted to the Engineer for approval at least one month before commencement, though approval does not relieve the Contractor of responsibility.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 89; quotation `Je42afcdd3719ec15`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 89; quotation `J87327422164e9c7a`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/13`.
 
 - Unforeseen physical conditions encountered by the Contractor that could not reasonably have been foreseen by an experienced contractor entitle the contractor to written notice, certified additional costs, and reasonable measure approvals from the Engineer.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 89; quotation `Je42afcdd3719ec15`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 89; quotation `J87327422164e9c7a`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/13`.
 
 - On completion of work, labour camps, hutments, and related installations must be cleared and land restored to its original condition within 45 days of physical completion, or recovery of delay costs will be made from contractor dues.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 90; quotation `J2279c3874346ffe8`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 90; quotation `J8a3411be06c63fde`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/14`.
 
 - Site security measures require the Contractor to control personnel and vehicles, issue and check admission passes, maintain visitor lists with photographs upon request, and follow relevant safety and security instructions.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 90; quotation `J2279c3874346ffe8`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 90; quotation `J8a3411be06c63fde`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/14`.
 
 - Geological and archaeological discoveries on the Site remain the absolute property of the Government of India, and the Contractor must prevent removal or damage and immediately acquaint the Engineer upon discovery.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 91; quotation `J919318f1e3e3911e`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 91; quotation `Jae8c522e7fce7f56`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/15`.
 
 - Publicity restrictions prohibit the Contractor from circulating articles, photographs, or materials or granting media access without the written permission of the Employer.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 91; quotation `J919318f1e3e3911e`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 91; quotation `Jae8c522e7fce7f56`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/15`.
 
 - Under GCC Sub-Clause 4.31, the Contractor must disclose at tender filing if any partner or director is closely related to officers of the Employer or Engineer, or if close relatives hold financial stakes.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 91; quotation `J919318f1e3e3911e`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 91; quotation `Jae8c522e7fce7f56`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/15`.
 
 - Explosives usage requires prior approval from the Engineer, storage in a special magazine provided at contractor cost, and strict supervision under licensed personnel pursuant to statutory rules.
-  - **Draft review note:** Generic historical GCC 4.32 wording. Volume 2 Scope Clause 11 expressly prohibits explosives. Read the cited cross-source finding before using this summary; it is not permission to use explosives for this package. Supporting finding: `Cdeaf08aff3d6d3f7`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 91; quotation `J919318f1e3e3911e`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/15`.
+  - **Draft review note:** Generic historical GCC 4.32 wording. Volume 2 Scope Clause 11 expressly prohibits explosives. Read the cited cross-source finding before using this summary; it is not permission to use explosives for this package. Supporting finding: `Cf83340e8aa5e8d9d`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 91; quotation `Jae8c522e7fce7f56`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/15`.
 
 - Prohibited conduct under GCC Sub-Clause 4.33 encompasses corrupt and fraudulent practices, empowering the Employer to reject tenders, rescind contracts without compensation except for work done, and declare contractors ineligible for a minimum of 2 years.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 92; quotation `J0096c6ff093139d4`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 92; quotation `J0426d48dadd5a871`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/16`.
 
 - Under GCC Sub-Clause 4.34, the Contractor must institute a quality assurance system in accordance with contract details, submitting procedure and compliance documents to the Engineer for consent before each execution stage.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 92; quotation `J0096c6ff093139d4`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 92; quotation `J0426d48dadd5a871`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/16`.
 
 - Confidentiality provisions prohibit the Contractor from using or divulging project information without written employer permission, and require sub-contractors to be bound by equivalent undertakings.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 92; quotation `J0096c6ff093139d4`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 92; quotation `J0426d48dadd5a871`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/16`.
 
 - The Contractor must submit an initial programme to the Engineer within 28 days of receiving the Letter of Acceptance, structured using precedence networking techniques to show staging, design, procurement, construction, and month-wise fund requirements.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 84; quotation `J18ff8ca501f1ddf3`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 84; quotation `J2302d893bd99709d`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/8`.
 
 - The Engineer must inform the Contractor in writing within 21 days of receiving the initial programme or revised programming information.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 84; quotation `J18ff8ca501f1ddf3`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 84; quotation `J2302d893bd99709d`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/8`.
 
 - The Contractor may sub-contract works only with prior written consent of the Engineer or Employer and limited to the value stated in the Contract Data, remaining fully responsible for all sub-contractor acts and defaults.
-  - **Draft review note:** Historical GCC 4.5 wording only. Contract Data Item 4 states Not Permitted, and Corrigendum 2 adds SCC 4 instructing deletion of GCC 4.5. Do not read this baseline wording as an unamended subcontracting permission. Supporting finding: `C83e868feeefc8e7a`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 81; quotation `J9c3e04f4e576342b`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 82; quotation `Jb6331f6c243c0e9a`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/6`.
+  - **Draft review note:** Historical GCC 4.5 wording only. Contract Data Item 4 states Not Permitted, and Corrigendum 2 adds SCC 4 instructing deletion of GCC 4.5. Do not read this baseline wording as an unamended subcontracting permission. Supporting finding: `C21a5e5c516f65643`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 81; quotation `Jc926698db21bac42`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 82; quotation `J8e92493e9e5f8f82`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/6`.
 
 - Upon receiving instructions from the Engineer regarding poor or unsatisfactory performance of a sub-contractor in quality, progress, workmanship, or safety norms, the Contractor must demobilize and remove such sub-contractor from the site within 10 days.
-  - **Draft review note:** Historical GCC 4.5.7 wording within GCC 4.5. Corrigendum 2 new SCC 4 instructs deletion of GCC 4.5. The historical 10-day removal statement is retained for traceability, not asserted as an unamended operative requirement. Supporting finding: `C83e868feeefc8e7a`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 82; quotation `Jb6331f6c243c0e9a`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/6`.
+  - **Draft review note:** Historical GCC 4.5.7 wording within GCC 4.5. Corrigendum 2 new SCC 4 instructs deletion of GCC 4.5. The historical 10-day removal statement is retained for traceability, not asserted as an unamended operative requirement. Supporting finding: `C21a5e5c516f65643`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 82; quotation `J8e92493e9e5f8f82`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/6`.
 
 - Any breach of sub-contracting provisions under GCC Sub-Clauses 4.5 to 4.6 entitles the Employer to rescind the contract under Sub-Clause 13.2 and hold the Contractor liable for resulting loss or damage.
-  - **Draft review note:** Baseline GCC 4.7 cross-refers to 4.5 and 4.6. Corrigendum 2 new SCC 4 targets GCC 4.5; it does not expressly list 4.6 or 4.7 for deletion. The effect on this cross-reference requires review. Do not infer automatic deletion or settled applicability of the neighbouring provisions. Supporting finding: `C83e868feeefc8e7a`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 83; quotation `Jf25f89c198cf1628`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/7`.
+  - **Draft review note:** Baseline GCC 4.7 cross-refers to 4.5 and 4.6. Corrigendum 2 new SCC 4 targets GCC 4.5; it does not expressly list 4.6 or 4.7 for deletion. The effect on this cross-reference requires review. Do not infer automatic deletion or settled applicability of the neighbouring provisions. Supporting finding: `C21a5e5c516f65643`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 83; quotation `J883b354f2814258f`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/7`.
 
 - The Contractor is fully responsible for accurate setting out of the works, preserving benchmarks and reference points, and must rectify any positional, dimensional, or alignment errors at its own cost when required by the Engineer.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 83; quotation `Jf25f89c198cf1628`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 83; quotation `J883b354f2814258f`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/7`.
 
 - Employer-provided geo-technical data and sub-surface information are not warranted for accuracy, and errors or discrepancies found therein do not constitute grounds for claims for extra time or costs.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 83; quotation `Jf25f89c198cf1628`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 83; quotation `J883b354f2814258f`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/7`.
 
 ## Open Questions and Contradictions
 
 - Reconcile the historical GCC 4.5 subcontracting statement with Corrigendum 2 new SCC 4, which instructs that the entire listed subclause stands deleted. Preserve both source versions; this finding does not decide remaining subcontracting rights or obligations.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 81; quotation `J9c3e04f4e576342b`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/5`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J1dd8bce37ef510fc`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 81; quotation `Jc926698db21bac42`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/5`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J42ebc7a9caffaf7c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/6`.
 
 - Reconcile the historical GCC price-variation discussion with Corrigendum 2 new SCC 6 and amended Contract Data Item 14. The deletion instruction lists GCC 11.1.2 and 11.1.2.1 through 11.1.2.4, while Item 14 retains NOT APPLICABLE. This does not delete all of GCC Clause 11 or decide unrelated GST/change-in-law provisions.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 115; quotation `J39a95f3672044adc`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 110; quotation `J6cd6932ed829dd24`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 112; quotation `J76b28c1d67e5195f`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 116; quotation `Jaa78e9fb25292061`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 111; quotation `Jaddb352ddef52cd5`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 118; quotation `Jd9eb2e0f3944651f`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/8`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 114; quotation `Jda9bfcfa83f1277c`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 113; quotation `Je94c427ee13a318d`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 117; quotation `Jf1391b18570b6a3b`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/7`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `Jb6dbe6e9c034af69`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/8`.
-  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J2cc37360d6e327cb`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 115; quotation `J8344230c23e73f27`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 110; quotation `J7ef88675279ec260`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 112; quotation `J6efcf59a307be5ec`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 116; quotation `Jeb34685d9b61c0c7`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 111; quotation `Je5a9908856cd7981`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 118; quotation `J460da7cbbe01754e`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 114; quotation `Je5457b35d125e14f`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 113; quotation `Jf536bea58b7fb32a`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]; `Vol1DLNP1.pdf`; PDF page(s) 117; quotation `Jdbf2f72cdd4e3f45`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/10/fragments/7`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; quotation `J9f1e91a67a75186a`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/8`.
+  - Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 1; quotation `J03d7bc25e8c4862c`. JSON: `parsed_json/addendum_corrigendum/corrigenda_amendments.json#/amendments/4`.
 
 - Source discrepancy: Contract Data specifies a six-month Defects Liability Period, whereas Clause 6 in the unexecuted Contract Agreement template specifies twelve months. The source wording uses Taking Over Certificates and Final Taking Over Certificate respectively. Record both durations and seek clarification; this wiki does not establish which provision controls.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `J099b5fe5de51f74d`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/10`.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 147, 148, 149, 150; quotation `Jf9d2ada6599b727b`. JSON: `parsed_json/vol1/section_g_forms/contract_forms.json#/forms/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; quotation `Jeb83d1b7a6d87fee`. JSON: `parsed_json/vol1/section_e_gcc/contract_data_table.json#/items/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]; `Vol1DLNP1.pdf`; PDF page(s) 147, 148, 149, 150; quotation `Jcc49f8beaf50a801`. JSON: `parsed_json/vol1/section_g_forms/contract_forms.json#/forms/0`.
 
 - GCC 4.32 contains generic conditional wording on Engineer-approved explosives, while Volume 2 Scope Clause 11 expressly states that use of explosives will not be permitted. Preserve both source statements and cross-reference the scope prohibition beside the GCC summary; the generic text must not be presented alone as permission for this demolition package. This draft finding does not decide document precedence or legal applicability.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 91; quotation `J919318f1e3e3911e`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/15`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 11 — Use of Explosives|Clause 11 — Use of Explosives]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J2b2f745124be1231`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 91; quotation `Jae8c522e7fce7f56`. JSON: `parsed_json/vol1/section_e_gcc/gcc_clauses.json#/clauses/3/fragments/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 11 — Use of Explosives|Clause 11 — Use of Explosives]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J1693150d9155007c`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/10`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
@@ -15108,29 +15933,29 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Typed Relations
 
 - **relates_to (editorial, inferred):** [[wiki/concepts/tender_security_by_stage|Tender Securities by Submission and Award Stage]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; `J8bd217cf1c0cb384`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 142; `J68b56efe7d18bd1a`.
 - **relates_to (editorial, inferred):** [[wiki/concepts/amendment_sequence_and_conflicts|Amendment Sequence and Unresolved Source Conflicts]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; `J099b5fe5de51f74d`.
+  - Evidence: [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]; `Vol1DLNP1.pdf`; PDF page(s) 143; `Jeb83d1b7a6d87fee`.
 
 > [!warning] Superseded — Historical GCC 4.5 text only
 > C2 adds SCC 4 instructing deletion of the entire listed GCC 4.5 subclause. Preserve the baseline source; this does not delete GCC 4.6/4.7 or decide remaining rights.
-> Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 81; `J9c3e04f4e576342b`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; `J1dd8bce37ef510fc`.
+> Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 81; `Jc926698db21bac42`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; `J42ebc7a9caffaf7c`.
 
 > [!warning] Superseded — Historical GCC 4.5 text only
 > C2 adds SCC 4 instructing deletion of the entire listed GCC 4.5 subclause. Preserve the baseline source; this does not delete GCC 4.6/4.7 or decide remaining rights.
-> Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 81; `J9c3e04f4e576342b`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; `J1dd8bce37ef510fc`.
+> Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 81; `Jc926698db21bac42`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; `J42ebc7a9caffaf7c`.
 
 > [!warning] Superseded — Historical GCC 4.5 text only
 > C2 adds SCC 4 instructing deletion of the entire listed GCC 4.5 subclause. Preserve the baseline source; this does not delete GCC 4.6/4.7 or decide remaining rights.
-> Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 82; `Jb6331f6c243c0e9a`.
-> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; `J1dd8bce37ef510fc`.
+> Evidence: [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]; `Vol1DLNP1.pdf`; PDF page(s) 82; `J8e92493e9e5f8f82`.
+> Evidence: [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]; `AandC2_DLN_P1_157.PDF`; PDF page(s) 2; `J42ebc7a9caffaf7c`.
 
 <details>
 <summary>Supporting source passages</summary>
 
-### S413f0e71a030f746
+### Sfa8c5aea1471cef2
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -15140,7 +15965,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 > 
 > This file lists clause headings and sub-clause (x.y) headings only. Deeper numbering (for example 4.2.1 or 11.1.2) is omitted.
 
-### J10b9218b8f963460
+### J11c78e424e603302
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -15235,7 +16060,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### Jed5e9aba24b8eac6
+### J7763c02d3462f0d3
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -15300,7 +16125,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### J099b5fe5de51f74d
+### Jeb83d1b7a6d87fee
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -15344,7 +16169,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value": "Defects Liability Period is 6 months from the date of Taking over\nmentioned in Taking Over Certificates being issued for whole of\nthe work."
 > }
 
-### J50cf7f54666ad6c6
+### J70d8d9273eaa879c
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -15505,7 +16330,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value": "i.  Milestones:\n\n                               No.      of\n                                 buildings  /\n                   Period       structures\n  Sl.                                         Liquidated\n      Milestone    from   the  to     be\n No                                  damages\n                       start date   demolishe\n                                 d/dismantl\n                            ed\n       Milestone-1    Six months  50% of total  Rs. 5,000/-\n  1.                 from    the  area         per day  for\n                     date      of  handed      delay       in\n                      signing  the  over.         achieving\n                      contract                    Mileston-1\n                    agreement.\n\n       Milestone-2   Twelve     100%     of  Rs. 10,000/-\n  2.                months        total   area  per day  for\n                    from    the  handed      delay       in\n                     date      of  over.         achieving\n                      signing  the                Milestone-2\n                      contract\n                    agreement.\n\nii.  The upper limit for Liquidated Damages is 5% of Contract\n    Price."
 > }
 
-### J6d08f664b55a27f6
+### Jaf458862d0ce8129
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -15549,7 +16374,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value": "The whole of the works shall be completed and delivered within time\nstated in Key Dates/Mile Stones, as specified in Annexure-1 to\nEmployer’s Requirements.\n\nThe completion period for the whole of the works will be 12 months\nreckoned from the Date of Commencement."
 > }
 
-### J8bd217cf1c0cb384
+### J68b56efe7d18bd1a
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -15593,7 +16418,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value": "Within 21 days of issue of the Letter of Acceptance, the successful\nTenderer shall furnish Performance Security at 5% (Five percent) of\nthe Contract Price as mentioned in Letter of Acceptance."
 > }
 
-### J166f7c346f54a774
+### J327789a2a7201b30
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 1 — Definitions and Interpretation|Clause 1 — Definitions and Interpretation]]
 
@@ -15630,7 +16455,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Definitions and Interpretation"
 > }
 
-### Jaf7b1fd2f94ad352
+### J9075206a7706061d
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 2 — The Employer|Clause 2 — The Employer]]
 
@@ -15647,7 +16472,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "The Employer"
 > }
 
-### Jf33838786f0f30e1
+### J5ecb5e578858a268
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -15656,7 +16481,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "4     The Contractor\n\n    General          4.1    The Works completed by the Contractor shall be in full compliance with the Contract,\n     Obligations                           fit for their intended purpose as defined in the Contract, and shall include:"
 > }
 
-### Jfc9714b11b6c93cb
+### Jb775be0c2c64399b
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 3 — The Engineer|Clause 3 — The Engineer]]
 
@@ -15677,7 +16502,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "The Engineer"
 > }
 
-### Jb8d20a5a82c66dae
+### J5bbb477947601531
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -15686,7 +16511,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "  Any  work  necessary  to meet  the  Employer's  Requirements,  Technical\n                                   Specifications, the Contractor's Proposal, and Contract Forms\n                               Any work implied by the Contract or arising from the Contractor's obligations\n                                 All works not explicitly mentioned in the Contract but necessary for stability,\n                                completion, safe operation, or reliable and efficient functioning of the Works.\n\n                      The Contractor shall design (if in the scope of work), manufacture, execute, install,\n                          complete, test and commission, the Works, including providing Construction and/or\n                         Manufacture Documents, within the Time for Completion and shall remedy any defects\n                             within the Contract Period. The Contractor shall provide all superintendence, labour,\n                             Plant, Materials, Contractor’s Equipment, Temporary Works and  all other things,\n                         whether of a temporary or permanent nature, required in and for such design,\n                          manufacture, execution,  installation, completion, testing and commissioning and\n                        remedying of defects.\n\n                         Before commencing design, (if in the scope of the contract) the contractor shall satisfy\n                           himself regarding the Employer's Requirements &Technical specifications (including\n                         design criteria and calculations, if any) and the items of reference mentioned in Sub-\n                        Clause 4.8.\n                      The Contractor shall give notice to the Engineer of any error, fault or other defect in\n                           the Employer's Requirements or such items of reference. After receipt of such notice,\n                           the Engineer shall determine whether Clause 12 shall be applied, and shall notify the\n                           Contractor accordingly.\n\n                     The Contractor shall take full responsibility for the adequacy, stability and safety of all\n                             Site operations, of all methods of construction, manufacture, and of all the Works,\n                             irrespective of any approval or consent by the Engineer.\n\n                     The Contractor shall be deemed to have satisfied himself before submitting his Tender\n                        as to the correctness and sufficiency of his Tender to cover all his risks, liabilities and\n                            obligations set out in or implied by the Contract and all matters and things necessary\n                                for the proper Design, manufacture, execution,  installation, completion,  testing,\n                        commissioning of the Works and remedying of the Defects.\n                     The Contractor acknowledges responsibility for ascertaining and securing at his own\n                             cost:\n\n                                  (a) conditions bearing upon the proper transportation, disposal, handling and\n                                 storage of materials (including but not limited to hazardous toxic substances\n                            and excavated materials);\n                                  (b)  availability of electricity, water and gas;\n                                   (c)  availability of skilled manpower;\n                                  (d) the character of equipment and facilities needed preliminary to and during the\n                                manufacture, installation, execution, testing, and commissioning of the Works\n                            and remedying of any defects;\n                                  (e) the protection of the environment and adjacent structures which  will be\n                               necessary preliminary to and during the manufacture, installation, execution,\n                                     testing and commissioning of the Works and remedying of any defects;\n                                           (f)  the location of and the authorisation required for and the means of diversion of\n                             any services and facilities required for the purposes of the Works.\n                      The Contractor  shall whenever require by the Engineer, submit  details  of the\n                        arrangement and methods which the Contractor proposed to adopt for the execution\n                              of the Works. No alteration to these arrangements or methods shall be made without\n                           the approval of the Engineer.\n\nPerformance     4.2         “Performance Security\" refers to a guarantee for the satisfactory completion of the\nSecurity,                   work by the Contractor and compensates the Employer for any monetary loss up\nGuarantee,                      to the amount of the Performance security\nWarranties and\nUndertakings.\n\nPerformance     4.2.1                  i.  The successful tenderer shall furnish Performance Security in the amount\nSecurity                             specified in the Contract Data. The Performance Security shall be provided\n                                           in the form of a e-Bank Guarantee/Insurance Surety Bond , payable at a\n                                  designated branch in Bangalore, and issued by either: The Performance"
 > }
 
-### J53354df6bf3b7556
+### J59080c39eb32cf34
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -15695,7 +16520,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "Security  shall be provided  either the forms  of   a) unconditional and\n                                           irrevocable e- Bank Guarantee(s) or b) Insurance Surety bond in accordance\n                                           with provision with set out below;\n                                                   (a) e- Bank Guarantees  shall be from an Indian Schedule bank\n                                                 (excluding Cooperative Banks) or from a schedule Foreign Bank as\n                                                defined in Section 2(e) of RBI Act 1934 read with Second Schedule.\n                                           e-Bank Guarantee format is provided in the contract forms. All e-\n                                        Bank Guarantees should be payable in Bangalore at the designated\n                                              Branch.  In case  of  Joint Venture, e-Bank Guarantees can be\n                                                 furnished by any member or members of the consortium/JV.\n                                                   (b) The Insurance Surety Bond  shall be issued by an Insurance\n                                     Company   authorized  by   the   ‘Insurance   Regulatory  and\n                                          Development Authority of India (IRDA).\n\n\n                                 The e-Bank Guarantee shall be denominated in the type and proportion of\n                                         currencies  in which the Contract Price  is payable. An electronic Bank\n                                    Guarantee (e-BG) complying with the conditions shall also be deemed\n                                         acceptable.\n\n\n                                                                          ii. Performance Security (including Additional Performance Security  if any)\n                                              shall be initially valid and enforceable up to 60 days beyond completion\n                                           period. In case the completion period is extended, then the contractor is\n                                         required to extend the validity of Performance Security e-BG/Insurance\n                                       Surety Bond at his own cost. If the contractor fails to extend the validity of\n                                         the Performance Security e-BG/Insurance Surety Bond, then Employer shall\n                                         claim the full amount of Performance Security.\n\n\n                                                                           iii.  If the offer of the successful Tenderer is considered as abnormally low,\n                                           seriously unbalanced or front loaded in the opinion of the Employer, the\n                                    Employer may require that the amount of the performance security set forth\n                                   above vide sub para (i) be increased and an additional performance security\n                              may be obtained at the expense of the Successful Bidder to a level sufficient\n                                              to protect the Employer against financial loss in the event of default of the\n                                        successful bidder under the contract.\n                                                     iv. The approved format is provided in the “contract forms of Contract” and may\n                                  be modified by the employer to comply with the tender condition or any other\n                                      form approved by the Employer.\n                                             v.  In the case of a Joint Venture (JV), the Performance Security may be\n                                       submitted by any one or more of the JV members.\n                                                     vi. The Extension of Time for submission of Performance Security beyond 30\n                                                (Thirty) days up to 60 days from date of issue of LOA may be given by the\n                                           Authority who is competent to sign the Contract Agreement. However, a\n                                     Penal Interest of 15% per annum shall be charged for the entire period i.e.,\n                                      from the date of issue of LOA to the date of submission of Performance\n                                            Security.\n\n     Forfeiture          4.2.2        Failure by the successful tenderer to furnish the required Performance Security\n                                        shall constitute grounds for annulment of the contract award and forfeiture of the\n                               Tender Security\n                             The failed Contractor shall be debarred not only from participating in re-tender for\n                                        that work but also in any other tender of BMRCL for a period of one year from date\n                                        of issue of letter of annulment of LOA\n                             The Performance Security amount as may be consider  fit shall be liable to be\n                                         forfeited by the Employer at the discretion of the Employer, in the event of any\n                                 breach of Contract on the part of the Contractor.\n\n    Release of        4.2.3       After completion of the entire Work, the Performance Security shall be released to\n    performance                 the Contractor, on issue of last Taking Over Certificate if more than one Certificate\n     security                          exist, by the Engineer, in accordance with Sub-Clause 9.1 and 9.2 of these\n                                    Conditions. The release of Performance Security shall not relieve the Contractor\n                                from his obligations and liabilities, to make good that may be detected during the\n                                 Defects Liability Period."
 > }
 
-### J18ff8ca501f1ddf3
+### J2302d893bd99709d
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -15704,7 +16529,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "Access Route    4.11       The Contractor shall be deemed to have satisfied himself as to the suitability and\n                                           availability of the access routes he chooses to use. The Contractor shall (as\n                               between the Parties) be responsible for the maintenance of access routes. The\n                                    Contractor shall provide at his cost signs or directions, which he may consider\n                                 necessary or as instructed by Engineer for the guidance of his staff, labour and\n                                      others. The Contractor shall obtain any permission concessions and related\n                              easement right that may be required from the relevant authorities for the use of\n                               such routes, signs and directions.\n                             The Contractor shall select routes, choose and use vehicles so that movement of\n                                     Contractor’s Equipment, Plant and Materials from and to the Site is limited so that\n                                               traffic is not delayed and damage to highways and bridges is prevented. If there\n                                              is any delay or damage or injury, the cost of rectification or reconstruction of\n                                highways or bridges shall be borne by the Contractor. In case of claim arising of\n                                    the execution of work from any aggrieved party, the Contractor shall immediately\n                                      report the facts to the Engineer and negotiate a settlement. The Contractor shall\n                                   indemnify the Employer in respect of all claims, demands, proceedings, damages,\n                                      costs, charges and expenses whatsoever arising out of or in relation to any such\n                                    matters.\n                             The Employer will not be responsible for any claims which may arise from the use\n                                     or otherwise of any access route. The Employer does not guarantee the suitability\n                                     or availability of any particular access route, and will not entertain any claim for\n                               any non-suitability or non-availability for continuous use during construction of any\n                               such route.\n\n    Avoidance of     4.11.1        All operations for the execution of the Works shall be carried out so as not to\n     Interference                     interfere unnecessarily with the convenience of the public or the access to public\n                                     or private roads or footpaths or properties owned by the Employer or by any other\n                                   person.\n\n     Rights of way    4.12       The Employer will acquire and provide land for Permanent Works and right of way\n    and Facilities                   (within BMRCL’s  land)  for access  thereto over routes  established by the\n                                     Contractor. The Contractor shall bear all cost and charges for special or temporary\n                                         rights of way which he may require including those for access to the Site. The\n                                    Contractor shall also obtain, at his risk and cost, any additional facility outside the\n                                       Site which he may require for the purpose of the Works. The Employer reserves\n                                    the right to make use of these service roads/rights of way for itself or for other\n                                     contractors working in the area, as and when necessary without any payment to\n                                    the Contractor.\n    Programmes     4.13       The Contractor shall submit an Initial programme to the Engineer after receipt of\n                                    the Letter of Acceptance but not later than 28 days from the date of receipt of\n                                       Letter of Acceptance. The Contractor shall also submit a revised programme\n                               whenever the Engineer finds that the previous programme is inconsistent with\n                                     actual progress.\n\n                             Each programme shall include the following:\n                               a    the order in which the Contractor proposes to carry out the Works (including\n                                    each  stage  of  Design,  procurement,  manufacture,  delivery  to  Site,\n                                             construction, erection, testing and commissioning),\n                               b      all major events and  activities  in  the progress  of Construction   or\n                                       Manufacture /Documents; and\n                                  c   The sequence of all tests specified in the Contract and Commissioning.\n                               d    Requirement of funds, month wise.\n\n                                 Unless otherwise stated in the Contract, the programmes shall be developed using\n                                precedence networking techniques, showing early start, late start, early finish and\n                                         late finish dates.\n\n                          No  significant  alteration to the programmes, or to such arrangements and\n                                methods, shall be made without obtaining consent of the Engineer. If the progress\n                                        of the Works does not conform to the programmes, the Engineer may instruct the\n                                    Contractor to revise the programmes, showing the modifications necessary to\n                                  achieve completion within the Time period for Completion.\n\n                             The Engineer shall inform the Contractor in writing within 21 days after receipt of\n                                    the above information;"
 > }
 
-### J9c3e04f4e576342b
+### Jc926698db21bac42
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -15713,7 +16538,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "experienced contractor at the time of tender, then the Engineer shall take\n                                such delay into account in determining any extension of time to which the\n                                     Contractor is entitled under the Contract.\n\n                           h      It shall be the responsibility of the Contractor to ensure that the full extent\n                                         of the Works under the Contract and the works to be carried out by\n                                  Designated Contractors within the Works or, in, on, under, through and over\n                                     the Site are co-ordinated and integrated in their design, manufacture,\n                                           installation and construction. Such responsibility shall neither be mitigated\n                                    nor in any other way affected by virtue of similar responsibilities being\n                                   placed on other contractors.\n\n                         The Contractor shall be deemed to have made adequate allowance in the Contract\n                               Price and in the Works Programme in respect of these obligations.\n\n                                                   If any act or omission of the Contractor whether directly or indirectly results in the\n                              delay in the execution of the works of a Designated Contractor, the Contractor, in\n                                 addition to his liability in respect of Liquidated damages if they become due, shall\n                          pay  to the Employer, or the Engineer may deduct from  Interim Payment\n                                  Certificates such amount as the Engineer shall have certified in respect of\n                                 additional payments or costs to the Designated Contractor in respect of such\n                                delay.\n\nSub-               4.5                         The  Contractor  may  sub-contract  works  only  with   prior  consent  of\nContractors                            Engineer/Employer and limited to the value as stated in ‘contract data’.\n\n                                   4.5.1       The Contractor shall not subcontract any part of works for which\n                                 subcontracting is not permitted as stated in Contract Data.\n\n                                                                ’\n\n                                   4.5.2        Unless otherwise stated in the Special Conditions of Contract.\n\n\n                                     a) the Contractor shall not be required to obtain consent for purchases of\n                                      Materials which are in accordance with the standards specified in the\n                                    Contract or provisions of labour or for the sub-contracts for which the Sub-\n                                       contractor is named in the Contract;\n                                     b) the prior consent of the Engineer shall be obtained for other proposed Sub-\n                                       contractors;\n                                       c) not less than 28 days before the intended date of each Sub-contractor\n                              commencing work, the Contractor  shall  notify the Engineer  of such\n                                          intention; and the Contractor shall give fair and reasonable opportunity for\n                                      contractors in India to be appointed as Sub-contractors.\n\n\n                                   4.5.3       The Contractor shall be responsible for observance by  all Sub-\n                                  contractors of  all the provisions of the Contract. The Contractor shall be\n                                 responsible for the acts or defaults of any Sub-contractor, his representatives\n                                   or employees, as fully as if they were the acts or defaults of the Contractor, his\n                                  representatives or employees and nothing contained in above Sub-clause (a)\n                                     shall constitute a waiver of the Contractor’s obligations under this contract. The\n                                 Contractor shall provide to the Engineer the details of subcontracts upon\n                                request of the Engineer. The Contractor shall Endeavour to resolve all matters\n                            and payments amicably and speedily with the sub-contractors.\n\n\n                                     In the event of contractor’s default for payment to any of the sub-contractors or\n                             Vendors of any tier engaged by him for carrying out of this Contract, the\n                             Employer  shall  reserve  the  right  to make payment  to  such  affected\n                                 subcontractors or vendors on behalf of contractor and further employer may\n                           engage the same subcontractor or vendor on behalf of contractor and make\n                            payment directly to complete that part of the work and any sums so paid\n                                   including interest shall be debited to the Contractor’s account.\n\n                                   4.5.4       The   Contractor   shall  ensure   that   their   Sub-contractors,\n                                material/equipment suppliers, Consultants and other agencies deployed by\n                            them in connection with execution of the Contract do not make any claim or\n                                   raise any dispute before BMRCL. For this, necessary provision is to be made in\n                                 the agreement between Contractor and their Sub-contractors/Consultants/other"
 > }
 
-### J0e6a74396167c946
+### Jff563a5330de75d8
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -15722,7 +16547,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "Protection   of  4.17       The Contractor shall take all reasonable steps to protect the environment (both on\n     the                       and off the Site) and to avoid injury, damage and nuisance to people and property\n    Environment                   resulting from pollution, noise and other results of his operations. The Contractor\n                                        shall ensure that air emissions, surface discharges and effluent from the Site\n                                    during the Contract Period shall not exceed the values indicated in the Employer's\n                                Requirements & Technical  specifications, and  shall not exceed the values\n                                    prescribed by law. The Contractor shall conform to the Employer’s Requirements\n                         & Technical specifications and shall indemnify the Employer against any liability\n                                     or damages or claims arising out of his operations. The Contractor shall be\n                                    responsible and liable for any stoppage, closure or suspension of the works due\n                                        to any contravention of statutory requirements relating to the protection of the\n                                 environment and shall indemnify and keep indemnified the Employer in this\n                                     regard.\n                                     Outline Environmental Plan means the environmental plan forming part of the\n                                  Tender, setting out,  in summary form, the Contractor's proposed means of\n                                 complying  with  his  obligations  in  relation  to  environmental  quality.  Site\n                                  Environmental Plan means the site environmental plan including all supplements\n                                       thereto, or any amended or varied version thereof, as submitted by the Contractor\n                                           in accordance with Employer’s Safety, Health and Environmental Manual (SHE\n                                  Manual), this Clause and which has received the Engineer’s consent. The Site\n                                  Environmental Plan shall include detailed policies, procedures and regulations\n                                   which, when implemented,  will ensure compliance  with  this  Clause. The\n                                    Contractor is required to make himself aware of  all the requirements of the\n                                 Employer’s SHE Manual in this regard and comply with them.\n\n                             The Contractor's Site Environmental Plan shall be developed from his Employer’s\n                                     Safety. Health and Environmental Manual (SHE Manual), as per the Employer's\n                                 Requirements.\n\n                       4.17.1      Within stipulated time as mentioned in ‘contract data’, the Contractor shall submit\n                              a detailed and comprehensive Site Environmental Plan based on the Employer’s\n                                     Safety, Health and Environmental Manual (SHE Manual), and shall include such\n                                        further material, which the Contractor considers necessary and relevant.\n\n                            Upon the Engineer notifying his consent to the Site Environmental Plan, or any\n                                 supplemental part thereof, the Contractor shall adhere to the principles and\n                                 procedures contained in such document save to the extent that the Engineer may\n                                    give his consent to any amended or varied version thereof.\n                             The Contractor shall provide all necessary access, assistance and facilities to\n                                 enable the Engineer and the Employer to monitor and conduct tests to verify that\n                                    the Site Environmental Plan is being properly and fully implemented.\n\n      Electricity,       4.18      The Contractor shall be responsible for making his own arrangements at his own\n    Water and Gas                cost to obtain supply of water, electricity or gas for the Works. The Employer where\n                                       feasible may at his discretion assist the Contractor in giving recommendatory\n                                           letters etc.\n     Tools, Plants     4.19       Except for any specific item mentioned in the Special Conditions of Contract or in\n    And Equipment              Employer’s Requirements, the Contractor shall provide  all tools, plants and\n    Supplied By                Equipment  for the Works.  In respect  of such exceptional  tools, plants  or\n    The Employer              Equipment committed to be provided by the Employer under terms and conditions\n                                      specified in the Special Conditions of Contract, the Contractor shall take  all\n                                  reasonable care and shall be responsible for all damages or loss caused by him,\n                                       his representatives, sub-contractors or his workmen or others while they are in his\n                                   charge.\n                          No  tools, plant and equipment shall be supplied by the Employer. Unless\n                                         specifically incorporated in special conditions, the Contractor has to arrange all\n                                          tools, plant, equipment required for the work.\n                         On completion of the Works, the Contractor shall hand over the unused balance\n                                        of the tools, plants and Equipment supplied by the Employer to the Employer back\n                                           in good order and repair, fair wear and tear expected, and shall be responsible for\n                               any failure to account for the same or any damage done thereto.\n                             The decision of the Engineer as to the amount recoverable from the Contractor on\n                                            this account shall be final and binding."
 > }
 
-### Jfad7cf2ceee3f634
+### Jd550be062c63737f
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -15731,7 +16556,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "specifications, tolerances and production output to the entire satisfaction of\n                                 Engineer before commencement of work.\n\n                                             All plants / equipment deployed on the work shall be of proven efficiency and shall\n                              be operated and maintained  at  all times  in a manner  prescribed by the\n                                  manufacturer and / or acceptable to the Engineer.\n\n                                             All plants / equipment to be deployed on the work shall carry designated authority\n                                            certificate. Where not specified,  it shall have third party safety certificate for the\n                                   safe working of the equipment and shall be renewed after every 3 months. This\n                                           certificate shall be produced to the Engineer as and when required.\n\n                                             All the construction plant shall be provided with the experienced operators having\n                                         valid license issued by the competent authority.\n                             Any material or equipment not meeting the approval of the Engineer shall be\n                              removed from the site immediately.\n\n                                             All Contractor’s Equipment and Temporary Works provided by the Contractor\n                                           shall, when brought on to the site, be deemed to be exclusively intended for\n                                   execution of the Works and not be removed without the consent in writing of the\n                                   Engineer. Such consent shall not be unreasonably withheld or delayed.\n\n                       4.15.2     Upon completion of the Works the Contractor shall remove from the Site all the\n                                    said Contractor’s Equipment, Temporary works and his unused materials.\n                       4.15.3     The Employer shall not at any time be liable for the loss or damage to any of the\n                                     Contractor’s Equipment, Temporary Works or materials save as mentioned in\n                                Clause 14.1\n                       4.15.4       In respect of any Contractor’s Equipment which the Contractor shall have imported\n                                          for the purpose of the Works, the Employer may assist the Contractor, where\n                                      required, in procuring any necessary Government consent for re-export of the\n                           same after the completion of the Works.\n                       4.15.5     The Employer may assist (but is not obliged to) the Contractor, where required, in\n                                     obtaining clearance through the Customs of Contractor’s Equipment, materials\n                              and other things required for the Works.\n\n     Safety of Works  4.16      The Contractor shall throughout the execution of the Works including carrying out\n                                           of any testing, commissioning or remedying of any defect:\n\n                                        a. takes full responsibility for the adequacy, stability, safety and security of the\n                                  Works, Plant, Contractor's, Temporary Works, operations on Site and methods\n                                           of manufacture, installation, construction and transportation;\n                                        b. have full regard for the safety of all persons on or in the vicinity of the Site\n                                          (including without limitation persons to whom access to the Site has been\n                                     allowed by the Contractor), comply with all relevant safety regulations, including\n                                        provision of safety gear, and insofar as the Contractor is in occupation or\n                                     otherwise is using areas of the Site, keep the Site and the Works (so far as the\n                             same are not completed and occupied by the Employer) in an orderly state\n                                       appropriate to the avoidance of injury to  all persons and shall keep the\n                                  Employer indemnified against all injuries to such persons.\n                                          c. provides and maintain  all  lights, guards, fences and warning signs and\n                               watchmen when and where necessary or required by the Engineer or by laws\n                                        or by any relevant authority for the protection of the Works and for the safety\n                                and convenience of the public and all persons on or in the vicinity of the Site;\n                                and\n                                        d. where any work would otherwise be carried out in darkness, ensure that all parts\n                                           of the Site where work is being carried out are so lighted as to ensure the safety\n                                           of all persons on or in the vicinity of the Site and of such work.\n\n                       4.16.1         Contractor is required to take note of all the necessary provisions in Employer’s\n                                        Safety, Health and Environment Manual (SHE Manual) and the Contractor’s\n                                         price shall be inclusive of all the necessary costs to meet the prescribed safety\n                                      standards. In the case, the Contractor fails in the above; the Employer may\n                                      provide  the  necessary arrangements and  recover  the  costs  from  the\n                                        Contractor."
 > }
 
-### Jbc7919daf9ce2797
+### J4483e84c108dba13
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -15740,7 +16565,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "4.16.2       Within stipulated time as mentioned in ‘contract data’, the Contractor shall submit\n                         a detailed and comprehensive contract-specific Site Safety Plan based on the\n                           Employer’s Safety, Health and Environmental Manual (SHE Manual).\n                       The Contractor is required to make himself aware of all the requirements of the\n                           Employer’s Safety, Health and Environmental Manual in this regard and comply\n                              with them. The Site Safety Plan shall include detailed policies, procedures and\n                              regulations which, when implemented,  will ensure compliance with this Sub-\n                           Clause.\n                       The Contractor shall, from time to time and as necessary or required by the\n                            Engineer, produce supplements to the Site Safety Plan such that it is at all times\n                        a detailed, comprehensive and contemporaneous statement by the Contractor of\n                               his site safety and industrial health obligations, responsibilities, policies and\n                           procedures (under the laws of India) or as stated in the Contract or elsewhere\n                                relating to work on Site.\n                                                 If at any time the Site Safety Plan is, in the opinion of the Engineer, insufficient or\n                              requires revision or modification to ensure the security of the Works and the safety\n                                of  all workmen upon, and visitors to the Site, the Engineer may instruct the\n                             Contractor to revise the Site Safety Plan. The Contractor shall, within 14 days,\n                           submit the revised plan to the Engineer for review.\n                        Any omission, inconsistency or error in the Site Safety Plan or the Engineer\n                           concurrence or rejection of the Site Safety Plan and/or supplements thereto shall\n                        be without prejudice to the Contractor's obligations with respect to site safety and\n                                 industrial health and shall not excuse any failure by the Contractor to adopt proper\n                        and recognised safety practices throughout the execution of the Works.\n                        The Contractor shall adhere to the Site Safety Plan and shall ensure that all sub-\n                              contractors of all tiers have a copy of the Site Safety Plan and comply with its\n                               provisions.\n                        The Contractor shall provide all necessary access, assistance and facilities to\n                           enable the Engineer and the Employer to carry out surveillance to verify that the\n                               Site Safety Plan is being properly and fully implemented.\n                        The contractor shall have full regard for the safety of works (till it is handed over\n                                to the Employer), adjoining properties and all persons on/ or in the vicinity of the\n                                  site (including without limiting to the persons to whom the access has been\n                           allowed by the contractor), existing utilities etc. and comply with all the relevant\n                              safety regulations as appropriate or as directed by Engineer.\n                      He shall be responsible for accidents, injury, damage to properties, loss of life /\n                            time etc. whatsoever may be the cause in connection with or as a result of\n                            execution of the work until they are taken over by the Employer even though all\n                           reasonable and proper precautions may have taken by him. Such cost, loss or\n                      damage  or compensation  (including  that payable under  the  provisions  of\n                        Workmen’s Compensation Act or any statutory amendment thereof) to any person\n                              or persons including third party sustaining damage as omission on part of the\n                              contractor is to be borne by the contractor and he shall keep the Employer  /\n                           Engineer indemnified against the same.\n                         The Contractor shall notify the Engineer immediately of any occurrence or\n                               incident that results in death or serious injury as defined in the Indian Penal Code.\n                       Such initial notification may be verbal and confirmed in writing thereafter and shall\n                        be  followed by a  comprehensive  written  report  within 24  hours  of  the\n                              occurrence/incident. The Contractor  shall duly complete standard forms as\n                             required by the Engineer and Statutory Authorities.\n                         The Contractor  shall provide and maintain  all necessary temporary  fire\n                              protection and firefighting facilities on the Site during the construction of the Works\n                                  in accordance with the statutory regulations and as required by the Engineer. The\n                             Contractor shall ensure that all gases, fuels and other dangerous Materials and\n                         goods are stored and handled in a safe manner and in accordance with the\n                               statutory regulations and as required by the Engineer.\n                          The obligations and requirements for safety and industrial health under this\n                            Contract are  entirely without prejudice  to, and do not derogate from, the\n                              Contractor’s statutory obligations, with respect to safety and industrial health.\n\n                               First aid Base\n                         The Contractor shall provide a First Aid Base at his principal Works Area/\n                            Construction Depot, suitable medical facilities for Workmen’s Camps, suitable and\n                                  sufficient first aid boxes at worksites for the Contractor’s workforce and his Sub-\n                               contractors’ workforce as further described in the Employer’s Requirements."
 > }
 
-### J2279c3874346ffe8
+### J8a3411be06c63fde
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -15749,7 +16574,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "The Contractor shall plan transportation of construction materials to work site in\n                                accordance with traffic regulations enforced by local traffic authorities from time to\n                                   time and in such a way that congestion on the roads and road accidents are\n                                   avoided. The Contractor should study this aspect thoroughly before quoting for the\n                                  work.\n\n     Contractor to     4.26       During the execution of the Works, the Contractor shall keep the Site free from all\n    keep Site Clear              unnecessary  obstruction, and  shall  store  or  dispose  of any  Contractor’s\n                               Equipment or surplus materials. The Contractor shall clear away and remove from\n                                    the Site any wreckage, rubbish or Temporary Works no longer required.\n                         On completion of the works, the Contractor shall clear away and remove from site\n                                                  all Constructional Plant, surplus material and Temporary Works. He should leave\n                                    the whole of the site and Works in a clean, tidy and workman like condition to the\n                                        satisfaction of the Engineer.\n                         On completion of Work the Contractor shall also clear away the labour camps,\n                                hutments and other related installations and restore the land to  its original\n                                     condition to the satisfaction of the Engineer within 45 days of the physical\n                                  completion  of Work. The cost on account  of delay  in return  of land and\n                                   reinstatement of original condition within the stipulated time as determined by\n                                 Engineer will be recovered from the Contractor’s dues.\n                                            All garbage shall be removed from site daily or as they accumulate. All surface\n                              and sub-soil drains shall be maintained in a clean, sound and satisfactory state of\n                                  performance. No extra payment shall be made on this account.\n                          No final payment in settlement of the accounts for Works shall be made  till, in\n                                      addition to any other condition necessary for such final payment, site clearance\n                              and clearances of labour camps etc. shall have been effected by him.  Such\n                                  clearance may be made by the Engineer through any other agency at the expense\n                                        of the Contractor in the event of the Contractor’s failure to comply with this\n                                     provision within 7 days after receiving notice to that effect from the Engineer. All\n                               expenses on such removal / clearance shall be debitable to the Contractor as\n                                   loans due from the Contractor to the Employer, and the Employer shall be\n                                competent to recover the same from Contractor’s on-account or final bills, or from\n                                Performance Security amount or from any other amount payable to the Contractor\n                                           in any other Contract.\n\n     Security of the   4.27      The Contractor shall take all measures necessary to ensure security, including\n     Site                           exercising control over all persons and vehicles which are employed or engaged\n                              on the Site or in connection with the Works or the other works comprising the\n                                     Project and with the security arrangements applicable to any other site within the\n                                       Project.\n                             The Contractor shall arrange the issue of passes for the admission of all persons\n                              and vehicles to the Site or to any part thereof and may refuse admission to or\n                              remove from the Site any person or vehicle failing to show an appropriate pass on\n                           demand to any duly authorized person.\n\n                                                           If required by the Engineer, the Contractor shall submit a list identifying all persons\n                                        to whom passes have been issued together with two photographs of each person\n                              and all entities to which a pass has been issued in respect of any vehicle and shall\n                                        satisfy the Engineer of the bonafides of any such person or entity.\n\n                             The Contractor shall not, without the written permission of the Engineer or\n                                   otherwise in accordance with the Contract, allow access to the Site to any person\n                                  unless the presence on Site of such person is necessary in connection with the\n                                   execution of the Works or with the discharge of the duties of any relevant authority.\n\n                             The Contractor shall be wholly responsible for security of site and Works. The\n                                    Contractor shall follow relevant Safety and Security instructions issued by the\n                                concerned Authorities from time to time and shall work in close coordination with\n                                    the concerned Authorities.\n\n     Contractor's      4.28      The Contractor shall confine his operations to the Site, and to any additional area\n    Operations on               which may be provided to the Contractor and agreed by the Engineer as working\n     Site                           areas. The Contractor shall take all necessary precautions to keep his personnel\n                              and equipment within the Site and such additional areas, and to keep and prohibit\n                              them from encroaching on adjacent land."
 > }
 
-### J0096c6ff093139d4
+### J0426d48dadd5a871
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -15758,7 +16583,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "not indulge in Prohibited conduct which includes ‘corrupt practice’ and ‘fraudulent\n                                        practice’ defined as follows;\n\n                                                        (i)      “corrupt practice” means the offering, giving, receiving or soliciting of\n                                   anything of value to Employer, Engineer or any of their employees, influence in\n                                    the procurement process or during Contract execution; and\n                                                            (ii)      “fraudulent practice” means a misrepresentation of facts  in order to\n                                     influence a procurement process or during the execution of a Contract to the\n                                    detriment of the Employer, and includes collusive practice among Tenderers (prior\n                                        to or after tender submission) designed to establish tender prices at artificial non-\n                                    competitive levels and to deprive the Employer of the benefits of free and open\n                                     competition.\n\n                                        In pursuance with this policy, the Employer:\n\n                                        a. Will reject the Tender for the Work or rescind the Contract,  if the Employer\n                                 determines that the Tenderer/Contractor has engaged in corrupt or fraudulent\n                                       practices, and\n                                        b. Will declare a Tenderer/Contractor ineligible, either indefinitely or for a minimum\n                                    period of 2 years from the date of identification of such prohibited conduct, to be\n                              awarded a Contract/s  if he at any time determines that the Contractor has\n                              engaged in corrupt or fraudulent practices in competing for, or in executing the\n                                     Contract.\n\n    Compensation   4.33.2       In the event of rescission of Contract under Sub-clause 4.33.1, the Contractor\n     to Contractor                   shall not be entitled to any compensation whatsoever, except for the work done\n    on rescission              up to the date of rescission.\n     of Contract\n    under this\n     clause\n\n     Quality           4.34       Unless otherwise stated in Special Conditions of Contract and/or Employer’s\n    Assurance                  Requirement, the Contractor  shall  institute a  quality assurance system  to\n                                 demonstrate compliance with the requirements of the Contract. Such system shall\n                              be in accordance with the details stated in the Contract. Compliance with the\n                                        quality assurance system shall not relieve the Contractor of his duties, obligations\n                                     or responsibilities.\n                                      Details of all procedure and compliance documents shall be submitted to the\n                                 Engineer for his consent before each execution stage is commenced.\n\n     Confidentiality   4.35       The Contractor shall not use or divulge, except for the purpose of the Contract or\n     of Information                 with the written permission of the Employer, any information relating to the Works\n                                     or the Project provided in the Contract or otherwise provided by the Employer, or\n                                    the Engineer. The Contractor shall ensure that his sub-contractors of any tier shall\n                              be bound by a like confidentiality undertaking.\n                             The Employer and the Engineer and any third party to whom an assignment has\n                              been made in accordance with Sub-clause 2.4 may use any information provided\n                               by the Contractor in accordance with the Contract. The Employer shall use\n                                  reasonable endeavors to ensure that the Engineer and any third party- referred to\n                                           in aforesaid Sub-Clause 2.4 shall not, divulge such information except for any\n                                purpose connected with the Contract."
 > }
 
-### J77b7b5d197f3383c
+### J8c807939135d64e7
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 5 — Design|Clause 5 — Design]]
 
@@ -15795,7 +16620,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Design"
 > }
 
-### Jf60d5499e22ff823
+### Jfdac701c40fa58f5
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 6 — Staff and Labour|Clause 6 — Staff and Labour]]
 
@@ -15824,7 +16649,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Staff and Labour"
 > }
 
-### S97c55804a0fa4e0c
+### Se228883d8292024a
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 5 — Design|Clause 5 — Design]]
 
@@ -15837,7 +16662,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 > - **Operation & Maintenance Manual** (Clause 5.7)
 > - **Intellectual Property Rights and Royalties** (Clause 5.8)
 
-### Sab0a1105568311b6
+### Sa8896004834bc20a
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 6 — Staff and Labour|Clause 6 — Staff and Labour]]
 
@@ -15856,7 +16681,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 > - **Claim on Account of Violation of Labour Laws** (Clause 6.13)
 > - **Maintenance of Record** (Clause 6.14)
 
-### J3ee05cf07206532c
+### Jbd8a761fe0ff7843
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 10 — Defects Liability|Clause 10 — Defects Liability]]
 
@@ -15881,7 +16706,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Defects Liability"
 > }
 
-### Ja40f8e325b5c8584
+### J0fe8982de24f004e
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 8 — Commencement, Completion and Delay|Clause 8 — Commencement, Completion and Delay]]
 
@@ -15910,7 +16735,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Commencement, Completion and Delay"
 > }
 
-### Jf4e386b46571b6cf
+### Jcca39da89cc1c67d
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 9 — Handing Over by Contractor and Taking Over by Employer|Clause 9 — Handing Over by Contractor and Taking Over by Employer]]
 
@@ -15931,7 +16756,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Handing over by Contractor and Taking over by Employer"
 > }
 
-### S1136460c84cc6918
+### S63c8f4d138e3e79b
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 7 — Quality Control|Clause 7 — Quality Control]]
 
@@ -15948,14 +16773,14 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 > - **Tests on Completion** (Clause 7.11)
 > - **Integrated Testing and System Commissioning** (Clause 7.12)
 
-### S92ea45e9093c7566
+### Sed64f6d87db84e86
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 9 — Handing Over by Contractor and Taking Over by Employer|Clause 9 — Handing Over by Contractor and Taking Over by Employer]]
 
 > - **Taking Over Certificate** (Clause 9.1)
 > - **Taking Over of Parts of the Works** (Clause 9.2)
 
-### Se3f42b85b1116546
+### S7f6e91c820498af8
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 10 — Defects Liability|Clause 10 — Defects Liability]]
 
@@ -15971,7 +16796,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 > - **Unfulfilled Obligations** (Clause 10.10)
 > - **Emergency Defect Rectification** (Clause 10.11)
 
-### Jec665a3a5a7e3d74
+### Jf0b79db67c1bd20b
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 7 — Quality Control|Clause 7 — Quality Control]]
 
@@ -16004,7 +16829,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Quality Control"
 > }
 
-### J6cd6932ed829dd24
+### J7ef88675279ec260
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]
 
@@ -16013,7 +16838,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "11         Contract Price and Payment\n\n    The              11.1       Contract Price\n     Contract Price\n                                   Contract Price is the sum stated in the Letter of Acceptance, subject to such\n                                     additions or deductions as may be made under the provisions of the Contract. The\n                                    Contractor shall be responsible for and shall pay all taxes, duties, royalties, and\n                                   fees arising from or required under this Contract, except as specifically provided\n                                      herein. The Employer shall reimburse Output GST to the Contractor in accordance\n                                     with the provisions of the Goods and Services Tax Act, 2017 and the rules made\n                                    thereunder.\n                             The Contract Price shall remain firm and shall not be subject to any adjustment\n                              on account of tax-related changes, except for adjustments expressly permitted\n                                 under Sub-Clause 11.1.1\n\n                       11.1.1     Change in Law\n\n\n                             The Contract Price is based on the applicable taxes as on last day of the month\n                                   previous to the month of invitation of this tender. Any subsequent change in these\n                                 laws that becomes effective after this date shall be considered a ‘Change in Law’\n                                          for the purposes of this Clause\n\n\n                                                                     i. Any imposition, abolition, increase, decrease, or change in the rate or scope\n                                            of any tax, duty, levy, or cess (including but not limited to Goods and Services\n                                 Tax (GST)) applicable to the output of the Works/Services under this Contract,\n                                    whether by way  of primary  legislation,  notification,  circular,  or  judicial\n                                   pronouncement, shall result in a corresponding adjustment to the Contract\n                                           Price, limited to the actual variation in tax liability arising from such change,\n                                         calculated on the value of the portion of the Works executed after the effective\n                                      date of such change.\n                                                                       ii. The adjustment contemplated in the preceding paragraph shall not apply to\n                                  any taxes, duties, royalties, or fees arising from or required under this Contract\n                                               in relation to the inputs for the Works. Such input-related levies shall remain\n                                        the sole responsibility of the Contractor and shall not give rise to any change\n                                               in the Contract Price.\n                                                                        iii. Should there be a partial or complete waiver or exemption for any taxes and\n                                           duties, etc. in  full or part thereof during the execution of the project, the\n                                         contractor shall be obliged to follow and obtain exemption / refund of such\n                                         taxes, duties etc., from the concerned Authorities and pass on the benefit so\n                                      obtained to the employer. In case of failure by the contractor to obtain and\n                                         remit the exemption / concession within reasonable time to the employer (to\n                                 be decided by the employer& intimated to the contractor), the same will be\n                                     recovered by the employer from the amounts due to the contractor.\n                                                   iv. The Contractor shall maintain complete records in respect of payments made\n                                  by them for taxes and duties payable to various authorities (except Income\n                                 Tax or Corporate Tax) and advise the Employer the summary of such payment\n                                     every month in a format advised by the Employer during execution of the\n                                           contract.\n                                            v. The detailed records shall however remain open for inspection by the Engineer\n                                            at any time and copies of the records shall be furnished as required by the\n                                      Engineer. The amount payable/recoverable from the contractor will generally\n                                 be calculated based on these records. However, Engineer  at  his sole\n                                            discretion, if not satisfied with the veracity of records or records are incomplete\n                                         or otherwise, may separately determine the amount payable/recoverable from\n                                       the contractor in accordance with the conditions of the contract, which shall be\n                                                  final and binding."
 > }
 
-### S7b871f472760e0b1
+### Scb3273de3340df68
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]
 
@@ -16039,7 +16864,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 > - **Post Payment Audit** (Clause 11.20)
 > - **Recovery of Amount Due to the Employer** (Clause 11.21)
 
-### J39a95f3672044adc
+### J8344230c23e73f27
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]
 
@@ -16048,7 +16873,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "11.1.2.2        If any item of work is derived from COMMON SR of KPWD under the BoQ\n                            schedule “ITEMS UNDER SCHEDULE OF RATE PUBLISHED BY KPWD” the\n                                 price variation is applicable.\n\n                   11.1.2.3    Price Variation during Extended Period of Completion:\n                         The price adjustment  will be applicable for the work done from the date of\n                       commence to the stipulated completion date of the work including the extended\n                               period of completion where such extension has been granted under Sub-Clause\n                                8.4.1 of GCC or it is specifically mentioned that extension is with price variation\n                                  also. However, where extension has been granted under Sub-Clause 8.4.3 of\n                       GCC, price adjustment will be reckoned as follows:\n                                   In case the indices increase above the indices applicable to an IPC made on the\n                                     last date of original completion period or the extended period under Sub-Clauses\n                                8.4.1 of GCC, the price adjustment for the period of extension under Sub-Clause\n                                8.4.3 of GCC will be limited to the amount payable as per the indices applicable\n                                  to the IPC made on the last date of the original completion period or the extended\n                               period under Sub-Clauses 8.4.1 of GCC as the case may be.\n                                   In case the indices fall below the indices applicable to an IPC made on the last\n                             date of the original completion period or extended period of completion granted\n                            under sub clause 8.4.1, then the lower indices will be adopted for Price Adjustment\n                                    for the period of extension under Clause 8.4.3 of GCC.\n\n                   11.1.2.4    Price Variations for extra item of work:\n                                                    If the extra item of work is derived in accordance with clause GCC12.3.2, price\n                                  variation shall not be applicable up to Twelve months from the base month\n                        recommended by the Engineer. However, when the period of execution of such\n                              items exceeds more than Twelve months’ price variation is applicable and the\n                         Base month for calculation of Price Variation will be the month in which NT item\n                           has been recommended by the Engineer.\n\nAdvance          11.2      Advance Payments\nPayments\n                                      All Advances as admissible as stated in sub-clause of GCC 11.2 shall be payable\n                               only at Contractor’s written request to the Employer. The Advance payment will\n                          be paid against submission of either unconditional and irrevocable e- Bank\n                             Guarantee(s) or Insurance Surety bond in accordance with provision with set out\n                              below.\n                                       (a) e-Bank Guarantees (e-BG): The e- Bank Guarantees shall be from an\n                                       Indian Schedule bank (excluding Cooperative Banks) or from a schedule\n                                     Foreign Bank as defined in Section 2(e) of RBI Act 1934 read with Second\n                                    Schedule. e-Bank Guarantee format is provided in the contract forms. All\n                                e-Bank Guarantees should be payable in Bangalore at the designated\n                                    Branch. In case of Joint Venture, e-Bank Guarantees can be furnished by\n                                 any member or members of the consortium/JV.\n                                       (b) Insurance Surety Bond: The Insurance Surety Bond shall be issued by\n                                an Insurance Company authorized by the Insurance Regulatory and\n                                 Development Authority of India (IRDAI) and shall be payable in Bengaluru\n                                              in favor of Bangalore Metro Rail Corporation Limited (BMRCL).  It shall\n                                   conform to the prescribed format provided in Contract forms. In case of\n                                          Joint Venture, Insurance Surety Bond can be furnished by any member or\n                              members of the consortium/JV.\n                                         (c) Wherever e-Bank Guarantee or Insurance Surety Bond is to be extended\n                                        or fresh e-Bank Guarantee/Insurance Surety Bond is to be obtained, the\n                                       cost towards getting extension of e-Bank Guarantee/Insurance Surety\n                               Bond or fresh e-Bank Surety Bond and other incidental charges will be in\n                                       the contractor’s account.\n                                       (d) BMRCL is not liable to pay GST on any advances paid to the contractor.\n                                       (e) The Contractor shall issue the receipt voucher for having received the\n                                 advance to the Employer as per the GST Laws.\n\nMobilisation      11.2.1       Interest free Mobilization Advance Payment shall be paid for an amount as stated\nAdvance                          in ‘Contact Data’. The number of instalments  (if more than one) and  their\n                               proportions shall be as stated in the contract Data. If an amount is not stated in\n                                  ‘contract data’ this sub- clause shall not apply."
 > }
 
-### J76b28c1d67e5195f
+### J6efcf59a307be5ec
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]
 
@@ -16057,7 +16882,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "Lo =The average consumer price index for industrial workers for Bangalore Centre\n\n                                as applicable for the month of submission of the tender as published by Labour\n\n                                 Bureau, Ministry of Labour, GOI.\n\n                                           Li = The average consumer price index for industrial workers for Bangalore Centre\n\n                                    during the ‘month under consideration’ as published by Labour Bureau, Ministry\n\n                                        of Labour, GOI.\n\n                                 PL =cost co-efficient of “Labour” to the total cost.\n\n                                         b. Adjustment for High-Speed Diesel component:\n\n                                    Price adjustment for increase or decrease in the cost of High-Speed Diesel (HSD)\n\n                              components shall be paid in accordance with following formula (Base: 2022-\n\n                                 23=100).\n\n                                VF = R X PF x [(Fi –Fo)/Fo] where\n\n                                VF = Increase  or decrease  in the cost  of work during the month under\n\n                                    consideration due to change in rates for High-Speed Diesel components.\n\n                            Fo = All India average wholesale price index for High-Speed Diesel component as\n\n                                     applicable for the month of submission of the tender as published by Office of the\n\n                              Economic Adviser.\n\n                                        Fi = All India average wholesale price index for High-Speed Diesel component for\n\n                                    the ‘month under consideration’ as published by Office of the Economic Adviser.\n\n                                PF = cost co-efficient of “Fuel and Lubricants” to the total cost.\n\n                                            c. Adjustment on account of Other Materials component:\n\n                                    Price adjustment  for increase  or decrease  in the  cost  of  other  materials\n\n                              components shall be paid in accordance with following formula (Base: 2022-\n\n                                 23=100).\n\n                             VM = R X PM x [(Mi –Mo)/Mo] where\n\n                             VM = Increase  or decrease  in the cost  of work during the month under\n\n                                    consideration due to change in rates for other material components.\n\n                        Mo = The wholesale price index for ‘All Commodities’ as applicable for the month\n\n                                        of submission of the tender as published by Office of the Economic Adviser.\n\n                                Mi = The whole sale price index for ‘All Commodities’ during the month preceding\n\n                                    the ‘month under consideration’ as published by Office of the Economic Adviser.\n\n                             PM =cost co-efficient of “Other Materials” to the total cost.\n\n                                         d. Adjustment on account of Plant, Machinery and spares:\n\n                                    Price adjustment for increase or decrease in the cost of Plant, Machinery and\n\n                                 spares component shall be paid in accordance with following formula (Base: 2022-\n\n                                 23=100).\n\n                               VP = R X PP x [(Pi – Po)/Po] where\n\n                               VP = Increase  or decrease  in the cost  of work during the month under\n\n                                    consideration due to change in rates for Plant, Machinery and spares components.\n\n                           Po = the wholesale price index for Construction Machine/Equipment including\n\n                               Batching Plants as applicable for the month of submission of the tender as\n\n                                   published by Office of the Economic Adviser."
 > }
 
-### Jaa78e9fb25292061
+### Jeb34685d9b61c0c7
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]
 
@@ -16066,7 +16891,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "The Contractor shall have, prior to making a request for the first instalment of\n                                      mobilization advance, (a) submitted the Performance Security in accordance with\n                                    the Contract,  (b) commenced the mobilization process as  certified by the\n                                   Engineer. and  (c)  shall  submit an  unconditional and  irrevocable e-Bank\n                                  guarantee/Insurance Surety Bond for a value of 110% of the approved advance\n                                amount.\n                             The Contractor shall have, prior to making a request for the second instalment of\n                                    the mobilization advance; (a) submitted a statement of utilization of the  first\n                                    instalment of mobilization advance paid to the Contractor along with a certificate\n                                 from the Engineer and (b) shall submit an unconditional and irrevocable e-Bank\n                                  guarantee/Insurance Surety Bond for a value of 110% of the approved advance\n                                amount.\n                             The Mobilization Advance shall be paid by the Employer within 30 days of receipt\n                                        of request letter from the contractor.\n    Advance         11.2.2       Interest free Plant & Machinery Advance Payment shall be paid for an amount as\n     against Plant                  stated in ‘Contact Data’. If an amount is not stated in ‘contract data’ this sub- clause\n    and Machinery                  shall not apply.\n\n                                   This advance is payable in the currency (i.e.) and in same proportion as stated in\n                                    the LOA against purchase of new plant & machinery and staging materials,\n                                   provided the same have reached the site, or in the case of new items meant\n                                         specifically for the works, firm purchase order has been placed and the invoices\n                                     received. The plant and machinery shall be valued by the Engineer as follows:\n\n                                         (a)   New Machinery 80% of purchase price\n\n                                         (b)   New staging materials 80% of purchase price\n\n\n                              Advance Payment will be paid against submission of unconditional and irrevocable\n                              e-Bank Guarantee(s)/Insurance Surety Bond for a value of 110 % of the\n                                approved advance amount.\n\n                             The Advance against Plant & Machinery and staging materials will be paid by the\n                                Employer within 30 days’ receipt of request letter from the contractor.\n                             The Contractor should give an Undertaking that “No advance/loan has been taken\n                                     against  the  subject  plant &machinery from any  other  individual/financial\n                                             institution/ organization etc.” If a wrong/false undertaking is given, all the Bank\n                                Guarantees can be forfeited and the contract is liable for termination under clause\n                                   13.0 of GCC.\n                             The contractor shall submit along with Bank Guarantees;\n\n                                                         (i)     the invoice and RC book (wherever applicable) in original at the time of\n                                      obtaining advance amount.\n\n                                                             (ii)    an Indemnity bond in favour of an Employer as against Third Party claim.\n\n                                                                (iii)    Contractor shall not seek the possession of machinery and staging\n                                      material brought to the site till the Advance obtained from Employer is fully settled.\n\n                             The contractor should ensure that in the case of “Machinery and Equipment\n                                Advance” insurance and hypothecation in favour of the Employer should be done.\n                             The contractor should submit the proof of document related to Insurance and\n                                  Hypothecation  to  the  Engineer who  will  certify  that  the  insurance and\n                                   hypothecation to the Employer has been done in proper manner.\n                                Employer shall be the sole custodian of the entire plant & machinery and staging\n                                     materials whenever the advance amount is given to the contractor and the same\n                                         shall remain in the custody of Employer, till the Advance obtained from Employer,\n                                               is fully settled.\n                             The machinery, equipment and staging material brought to the site shall be\n                                      exclusively intended for the execution of the work of Employer and shall not be\n                              removed without the consent of the Engineer.\n                             The contractor shall indemnify and hold harmless, the Employer against  all\n                                       actions,  suits, proceedings, claims, damages, losses, expenses, demands\n                                      pertaining to Advance amount towards plant and machinery.\n\n                             The contractor;\n                                      a) Shall not mortgage / create charge / hypothecate /encumber, in any way the\n                                   machinery, equipment and staging material brought to site from the amounts\n                               advanced by Employer and shall give an undertaking in writing to that effect in"
 > }
 
-### Jaddb352ddef52cd5
+### Je5a9908856cd7981
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]
 
@@ -16075,7 +16900,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "vi. Custom Duty\n\n\n                                Bangalore Metro Rail Project is eligible for the concessional rate of custom\n                                 duty under Chapter 98.01 of Custom Tariff Act for Project Imports. All the\n                                process of project import registration, deposits of security money (if any) to\n                              custom authority and refund back after the completion of imported supplies\n                                       shall be the responsibility of contractor. The contractor shall indemnify BMRCL\n                                      of clearance and projects imports proceedings. Upon receipt of request from\n                                     contractor, BMRCL will issue authorization letter or facilitate the Contractor for\n                                   obtaining sponsoring/recommendation letter from the Ministry of Housing and\n                             Urban Affairs (MoHUA) or from the Government of Karnataka (GoK) or any\n                                   other authority as the case may be for getting the project registered with the\n                            Custom Department for availing Project Import benefits\n\n\n                                               vii. Project Authority certificate shall be issued by the Employer for imported items.\n                           The imports for the metro project under Project Import Regulation (PIR) are\n                               covered under HSN 98010019(other Projects) and present Basic custom duty\n                             (BCD) applicable as mentioned in ‘Contract Data’.\n                                                 viii. Any change in the rate of existing Basic custom duty (BCD) will be reckoned\n                              by payment of extra amount in case of increase of Basic custom duty (BCD)\n                             based on difference of revised Basic custom duty (BCD) and existing Basic\n                             custom duty (BCD) or by recovery amount if the BCD reduces with respect to\n                                  the existing BCD.\n\n\nPrice Variation/   11.1.2      Price Variation/ Price Adjustment:\nAdjustment in               Price  Variation   /  Adjustment  is  applicable,   if  value  of  weightages\nContract Price                 (coefficients) are given in the ‘contract data’.  If no value of weightages\n                                  (Coefficients) given in ‘Contract Data’, Price variation / adjustment shall not be\n                                 applicable. The rates as per the accepted Bill of Quantities shall be applicable until\n                               the completion of the Work and will be varied only to the extent of permissible\n                                 price variation under this Clause. However, this adjustment shall be to the extent\n                                  that full compensation for any rise or fall in costs to the Contractor if not covered\n                           by the Price variation formula, the rates in the accepted Bill of Quantities shall be\n                        deemed to include amounts to cover the contingency of such rise or fall in costs.\n                         Payment as per the contract shall be subject to adjustment in accordance with the\n                                 following Price Variation formula, and other terms given herein, to provide for\n                                  variation in the market rates of inputs like labour, materials and fuel / energy during\n                               the currency of the Contract:\n\n                                                         i. V = VL +VF+VM+VP+VSR+VSS+VC Where\n\n                        V = Total adjustment on account of all components.\n\n                                VL = Adjustment on account of labour component.\n\n                               VF = Adjustment on account of High-speed diesel component.\n\n                           VM = Adjustment on account of other materials component.\n\n                              VP = Adjustment on account of Plant, machinery and spares.\n\n                                VSR = Adjustment on account of Steel Reinforcement component.\n\n                                VSS = Adjustment on account of Structural Steel / MS Steel / Pre-stressing\n\n                                        strands components.\n\n                             VC = Adjustment on account of Cement component.\n\n\n                                       a.    Adjustment for Labour Component:\n\n                               Price adjustment for increase or decrease in the cost due to labour shall be paid\n\n                                     in accordance with following formula. (Base: 2016=100).\n\n                            VL = R X PL x [(Li – Lo)/Lo] Where\n\n                             VL = Increase or decrease in the cost of work during the month under consideration\n\n                          due to changes in rates for local labour."
 > }
 
-### Jd9eb2e0f3944651f
+### J460da7cbbe01754e
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]
 
@@ -16084,7 +16909,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "to do so due to any reason whatsoever, then pay interest at the prevailing\n                                one-year MCLR of the State Bank of India. prevailing on the date of issue of\n                                     notice   of   termination/rescission/foreclosure   shall  be  charged  on  the\n                                 unrecovered amount of such advances from 16th day onwards compounded\n                                      quarterly  till the same is returned by the Contractor.\n                                        Interest in Case of Delay in Repayment of Advances  : In case of a delay in the\n                                  progress and/or completion of Work, as a result of which  it  is not possible\n                                          for  the  Employer  to  recover  the  advance,  before  the original  date  of\n                                  completion  of Works  stipulated  in  the  Contract,  then  the interest  to be\n                                charged from the Contractor on the remaining portion of the advance beyond\n                               such original completion date specified in the Contract, as detailed here under:\n                                                        (i) “For period(s) for which “Extension of Time” has been granted under clauses\n                                            (a) to (h) of clause 8.4.1, Interest shall be charged at State Bank of India’s\n                                      Marginal cost of fund based lending rate (MCLR) applicable of 1-year tenure,\n                                  as prevailing on the last date of original time for completion specified in the\n                                           contract”.\n                                                            (ii) “For all the other period(s) for which “Extension of Time” has been granted\n                                    under clauses other than the clauses (a) to (h) of clause 8.4.1, Interest shall\n                                 be charged at State Bank of India’s Marginal cost of fund based lending rate\n                               (MCLR) applicable of 1-year tenure, as prevailing on the last date of original\n                                      time for completion specified in the contract plus a penal interest of 3%”.\n\n    Advances to be  11.2.5     The advances shall be used by the Contractor strictly for the purpose of the\n    Used only for                 Contract, and for the purpose for which they are paid. Under no circumstances,\n     This Work.                      shall the advances be diverted for other purposes. Any such diversion shall be\n                                  construed as a breach of the Contract and the Contractor shall be asked to return\n                                    the advance at once and pay interest at 18% per annum  till the advance is\n                                  recovered back from him. The Contractor shall return the advance and pay the\n                                        interests in one go without demur.\n                             The Employer retains the right for any other remedy prescribed for breach of\n                                   Contract in this regard.\n                             The Contractor, if required by the Employer shall provide the details of Mobilization\n                               advance expended or to be expended.\n\n     Provisional      11.3        Provisional Payment against receipt of Materials at site /Yard\n    Payment                       Provisional Payment against receipt of Materials at site/yard shall not be paid.\n     against Receipt             Unless otherwise specified in Special condition of Contract.\n     of\n     Materials at\n     site/yard\n\n    Measurement    11.4      Works to be Measured\n   & Evaluation\n                             The Works shall be measured, and valued for payment, in accordance with this\n                                  Clause. The Contractor shall show in each application under Sub-Clauses 11.5.1\n                                      [Application for Interim Payment Certificates], 11.8[Statement on Completion] and\n                                  11.9 [Application for Final Payment Certificate] the quantities and other particulars\n                                        detailing the amounts which he considers to be entitled under the Contract.\n\n                             Whenever the Engineer requires any part  of the Works  to be measured,\n                                  reasonable notice shall be given to the Contractor’s Representative, who shall:\n\n                                         (a) promptly either attend or send another qualified representative to assist the\n                                 Engineer in making the measurement, and\n                                         (b) supply any particulars requested by the Engineer.\n\n                                                            If the Contractor fails to attend or send a representative, the measurement made\n                               by (or on behalf of) the Engineer shall be accepted as accurate.\n\n                       11.4.1     Method of Measurement\n                                 Except as otherwise stated in the Contract and notwithstanding local practice:\n                                         (a) measurement shall be made of the net actual quantity of each item of the\n                              Permanent Works, and\n                                         (b) the method of measurement shall be in accordance with the Bill of Quantities\n                                     or other applicable contract document."
 > }
 
-### Jda9bfcfa83f1277c
+### Je5457b35d125e14f
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]
 
@@ -16093,7 +16918,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "Co = All India average wholesale price index for Ordinary Portland Cement as\n\n                                     applicable for the month of submission of the tender as published by Office of the\n\n                              Economic Adviser.\n\n                                   Ci = All India average wholesale price index for Ordinary Portland Cement for\n\n                                    the month preceding the ‘month under consideration’ as published by Office of the\n\n                              Economic Adviser.\n\n                              PC =cost co-efficient of “Cement” to the total cost.\n\n\n                                         h. R= “Gross value of the work done” by the Contractor for the period of work\n                                   under consideration, after excluding there from the cost of any materials\n                                      supplied free or at fixed rate to the Contractor as also any specific payments to\n                                be made to the Consultants engaged by the Contractor, which shall be\n                                        indicated in the Contractor’s offer letter.\n\n                                    “Gross value of the work done” means work done value of the all the schedules\n                                           of BoQ. Unless otherwise specified in ‘contract Data’, determination of\n                                     Price variation is applicable to all the schedules of BoQ.\n\n                                                                  i.  “PL”, “PF”, “PM”, PP”,”PSR”,”PSS”,” PC” and “PX” are weightages (coefficients) of\n                                       the Components representing the estimated proportion of Labour, Fuel, Other\n                                         Materials, Plant& Machinery, Reinforcement Steel, Structural Steel / MS Steel\n                                                                / Pre-stressing  strands, Cement cost element and Nonadjustable Fixed\n                                component related to the execution of the Works, as stated in the relevant table\n                                              in ‘contract data’.\n\n\n                                                                  ii. Period of Work under consideration will mean as under:\n\n                                          a. In the case of first “On- account Bill” (IPC) the period from the month in\n                                     which the Contract agreement executed to the month of measurement of\n                                         the first bill.\n                                          b. In the case of second and subsequent “On-account” (IPC) and final bills, the\n                                       Period from the date of measurement for previous  bill to the date of\n                                  measurement of that bill.\n\n                                                                  iii. Note:\n\n                                                1. Responsibility of arranging the Price indices from the Office of the\n                                 Economic Adviser/ Labour Bureau (Ministry of Labour, GOI) etc., as desired\n                                  by the Employer or the Engineer shall rest with the Contractor.\n                                                2. In case, Office of the Economic Adviser stops publishing the Price indices,\n                                      then Price indices of any other Government Publications shall be considered.\n\n                                                  iv. Procedure in case of Delay in Availability of Final Indices:\n                              Where the final Price Indices are not available in the Office of the Economic\n                                       Adviser, while making payment towards On-account  bills (IPC), payment\n                                   towards Price Variation will be made on provisional basis based on the indices\n                                          available, to be adjusted in subsequent Payments as and when the final Indices\n                                         figures become available.\n\n                        11.1.2.1    Adjustment on Account of Price Variation:\n\n                                 Adjustment on account of Price Variations may be positive (in which case extra\n                              amount shall be paid to the Contractor), or negative (in which case the amount of\n                                    Price Variation shall be recovered from the Contractor). Adjustment on account of\n                                    Price Variation shall be calculated separately, for each period, between two\n                                  successive dates of measurements for bills and to be claimed in each IPC.\n\n                                    Preferably contractor to submit IPCs (RA Bills) monthly. In case, the IPCs (RA\n                                              Bills) submission period is more than One Month, then the indices considered in\n                                      price adjustment formula shall be average of the indices of the corresponding\n                              months under consideration between previous and present IPCs."
 > }
 
-### Je94c427ee13a318d
+### Jf536bea58b7fb32a
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]
 
@@ -16102,7 +16927,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "Pi = the wholesale price index for Construction Machine/Equipment including\n\n                         Batching Plants during the month preceding the ‘month under consideration’ as\n\n                            published by Office of the Economic Adviser.\n\n                           PP=cost co-efficient of “Plant, Machinery and Spares” to the total cost.\n\n                                   e. Adjustment on account of Reinforcement Steel components:\n\n                             Price adjustment for increase or decrease in the cost of Reinforcement Steel shall\n\n                        be paid in accordance with following formula. (Base: 2022-23=100)\n\n                           VSR = R X PSR x [(Si – So)/So] where\n\n                          VSR= Increase  or decrease  in  the  cost  of work  during the month under\n\n                             consideration due to changes in rates for HYSD/TMT FE 500/550D Steel bar\n\n                             reinforcement.\n\n                      So = All India average wholesale price index for Bars and Rods of Mild Steel as\n\n                              applicable for the month of submission of the tender as published by Office of the\n\n                        Economic Adviser.\n\n                              Si = All India average wholesale price index for Bars and Rods of Mild Steel for\n\n                             the month preceding the ‘month under consideration’ as published by Office of the\n\n                        Economic Adviser.\n\n                           PSR=cost co-efficient of “Reinforcement Steel” to the total cost.\n\n                                                f. Adjustment on account of Structural Steel  / MS Steel  / Pre-stressing\n                            strands components:\n\n                             Price adjustment for increase or decrease in the cost of Structural Steel and Pre-\n\n                              stressing strands shall be paid in accordance with following formula. (Base: 2022-\n\n                         23=100)\n\n                           VSS = R X PSS x [(Si – So)/So] where\n\n                          VSS= Increase  or decrease  in  the  cost  of work  during the month under\n\n                             consideration due to changes in rates for Structural Steel  / MS Steel  / Pre-\n\n                           stressing strands.\n\n                      So = All India average wholesale price index for Hot-Rolled Structural Angles,\n\n                        Shapes, Sections, Beams, Channels and Girders of Iron and Non-Alloy Steel\n\n                         as applicable for the month of submission of the tender as published by Office of\n\n                             the Economic Adviser.\n\n                              Si = All India average wholesale price index for Hot-Rolled Structural Angles,\n\n                        Shapes, Sections, Beams, Channels and Girders of Iron and Non-Alloy Steel\n\n                                  for the month preceding the ‘month under consideration’ as published by Office of\n\n                             the Economic Adviser.\n\n                           PSS=cost co-efficient of “Structural Steel” to the total cost.\n\n                                 g. Adjustment on account of cement component:\n\n                             Price adjustment for increase or decrease in the cost of cement shall be paid in\n\n                          accordance with following formula. (Base: 2022-23=100)\n\n                        VC = R X PC x [(Ci – Co)/Co] where\n\n                        VC= Increase or decrease in the cost of work during the month under consideration\n\n                        due to changes in rates for cement components."
 > }
 
-### Jf1391b18570b6a3b
+### Jdbf2f72cdd4e3f45
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]
 
@@ -16111,7 +16936,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "favour of Employer. For other machinery and staging materials not advanced by\n                     BMRCL the contractor can mortgage the same for financial undertakings.\n                                 b)      Shall not sell or alienate any part/portion of machinery, equipment and\n                                staging material without the consent of Employer.\n                                   c)      In the event of any such sale/alienation of any portion or part of machinery\n                                 or staging materials, Employer shall hold First Charge and the proceeds of such\n                                sale or alienation shall be appropriated towards the loan/ credit/ advance in\n                               respect of plant & machinery and staging materials brought to the site by\n                                  contractor.\n\nSpecial /          11.2.3     The cumulative Special/Acceleration Advance Payment shall be paid for an\nAcceleration               amount as stated in ‘Contact Data. If an amount is not stated in ‘contract data’,\nAdvances                         this sub- clause shall not apply. The Special advance shall be payable in the\n                              currency and in same proportion as stated in the LOA, which shall be released in\n                             stages as and when deemed appropriate as decided by the Engineer/Employer.\n                         The advance released at the time shall not exceed 2.5% of the contract price.\n\n                           Employer at his sole discretion, may provide Special/Acceleration Advance based\n                          on the recommendation of the Engineer to expedite works or to bring forward the\n                             completion date(s) and on account  of immediate additional mobilization  to\n                            complete   balance   works   as   targeted,   the   Employer  may   grant\n                                ‘Special/Acceleration Advance’ to the contractor.\n\n                         The Special/Acceleration Advance shall carry interest at the prevailing one-year\n                    MCLR rate of the State Bank of India. Further, if the contractor does not accelerate\n                          even after getting the advance and does not fulfil the commitments regarding\n                              work, then the simple interest shall be levied 18% per annum on the balance\n                          amount to be recovered against the Special/Acceleration advance, from the date\n                                  of  communication   to  the  contractor  by  the  Engineer/Employer.  The\n                               Special/Acceleration Advance shall be paid on request of the Contractor.\n\n                              Special Advance Payment will be paid against submission of unconditional and\n                                irrevocable Bank Guarantee(s)/Insurance Surety Bond for a value of 110% of an\n                           approved advance amount.\n\nRecovery of      11.2.4     The recovery of advances granted under Sub-Clauses 11.2 commences once\nAdvances              15% of the original Contract Price has been paid and shall be completed by the\n                              time 85% of the original Contract Price has been paid or by the original Date of\n                             Completion, whichever occurs  earlier. The  total recovery from each Interim\n                         Payment Certificate (IPC) shall not exceed 30%. Recoveries shall be effected in\n                               the same proportion of currency(ies) in which the advance was originally paid.\n                      No  request  for  deferment  of  recovery  of  interest-free  advances, namely\n                                Mobilization Advance and Plant & Machinery Advance,  shall  ordinarily be\n                                entertained. However, in exceptional circumstances, such as low billing or to ease\n                               the Contractor’s cash flow, BMRCL may consider such requests subject to the\n                                 following conditions:\n\n                                                (i) The amount of deferred recovery shall be treated as a Special Advance.\n\n                                                   (ii) The e-BG/Insurance Surety Bond shall neither be released nor reduced until\n                                            full recovery of the Special Advance.\n\n                                                      (iii) The Contractor shall pay interest at the prevailing one-year MCLR of the State\n                         Bank of India.\n\n                           SBI MCLR shall be applicable on such Special Advance from the date of the IPC\n                                     in which recovery is deferred until the date of full recovery, at the prevailing one-\n                             year MCLR of the State Bank of India.\n                        The  Contractor  shall have  the  option  to have  the  aforesaid  recoveries\n                       commenced and / or completed earlier, and / or to have recoveries effected in\n                               instalments of higher amounts, and to repay part or whole of the advance by direct\n                          payment in advance rather than through on-account bills. The contractor shall\n                            ensure that the guarantee is valid and enforceable until the advance payment has\n                          been repaid. In  case  the  Contract  is  terminated  due  to  default  of  the\n                               Contractor or rescinded/foreclosed, due to any other reason, the Contractor shall\n                                 return the unrecovered amount  of  all advances  within 15 days  of issue  of\n                                notice of termination/rescission/ foreclosure of the Contract if the Contractor fails"
 > }
 
-### J25554cbe423a2266
+### J4417d9e6dbc778a8
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]
 
@@ -16120,7 +16945,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "Employer to the Contractor. Such payments or recoveries, however, shall not carry\n                          any interest.\n\nRecovery of      11.21         All damages (including, without limitation, Liquidated damages), costs, charges,\nmoney due to               expenses, debts, or sums for which the Contractor is liable to the Employer under\nthe Employer              any provision of the Contract may be deducted by the Employer from amount due\n                                  to the Contractor under the Contract including, without limitation, and the Employer\n                                   shall have the power to recover any balance not so deducted from amount due to\n                               the Contractor under any other contract between the Employer and the Contractor.\n\n                      When the Contractor has assigned to a third party the right to receive amount due,\n                                    or, to become due, under the Contract to the Contractor or charged such amount\n                                     in favour of a third party, the Employer's right to deduct damages (including without\n                                    limitation Liquidated damages), costs, charges, expenses, debts or sums for which\n                               the Contractor is liable to the Employer from amount due to the Contractor under\n                               the Contract shall be limited to the right expressed above."
 > }
 
-### J3e7d1573f2d6b62f
+### Ja847246bb76162ce
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]
 
@@ -16129,7 +16954,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "account or a practicing Chartered Accountant (in respect of suppliers other\n                                         than companies) giving the percentage of ‘Local Content’ as per contract\n                                           forms.\n\n                             The estimated amounts  shall be shown  separately  in such statement  at\n                                    completion. The Engineer shall certify payment under Sub-Clause 11.5.2.\n\n     Application for    11.9       Not  later than 60 days  after the issue of the Performance  Certificate, the\n     Final Payment                Contractor shall submit to the Engineer six copies of a draft final statement with\n     Certificate                    supporting documents showing in detail, in a form approved by the Engineer:\n                                          (a)    the value of all work done in accordance with the Contract, and\n                                          (b)   any further sums which the Contractor considers to be due to him under\n                                           the Contract or otherwise.\n                                            (c)    Applicable Output GST.\n                                          (d)    Applicable Price Variation.\n\n                                          (e)   The contractor to submit final bills along with ‘as built drawings’ (if not\n                                          submitted as per clause 11.8) otherwise, final bills will not be entertained\n                                    and final bills will be considered as incomplete and returned.\n\n                                                            If the Engineer disagrees with or cannot verify any part of the draft final statement,\n                                    the Contractor  shall submit such  further information as the Engineer may\n                                  reasonably require and shall make changes in the draft as may be agreed\n                               between them. The Contractor shall then prepare and submit to the Engineer the\n                                      Final Statement as agreed.\n\n                                                           If, following discussions between the Engineer and the Contractor and any\n                               changes to the draft final statement which may be agreed between them,  it\n                            becomes evident that a dispute exists, the Employer shall pay those parts of the\n                                         draft final statement as certified by the Engineer as not being in dispute. The\n                                 remainder of the dispute may then be resolved under Clause 17, in which case\n                                    the Contractor shall then prepare and submit to the Engineer a Final Statement in\n                                accordance with the outcome of the dispute.\n\n    Discharge        11.10    When submitting the  final statement, the Contractor  shall submit a written\n                                  discharge which confirms that the total of the Final Statement represents full and\n                                             final settlement of all amounts due to the Contractor under the Contract. Such\n                                  discharge may state that it shall become effective only after payment due under\n                                    the Final Payment Certificate has been made and the Performance security\n                                      referred to in Sub-Clause 4.2 has been returned to the Contractor.\n\n     Issue of Final     11.11     The Engineer shall issue to the Employer, with a copy to the Contractor, the Final\n    Payment                  Payment Certificate within 28 days after receiving the Final Statement and written\n     Certificate                    discharge in accordance with Sub-Clause 11.9 and 11.10 stating:\n\n                                         (a)     the amount which is finally due, and\n                                         (b)      after giving credit to the Employer for all amounts previously paid by the\n                                      Employer and for all sums to which the Employer is entitled, the balance,\n                                                                                 if any, due from the Employer to the Contractor or from the Contractor to\n                                            the Employer, as the case may be.\n                                                            If the Contractor has not applied for a Final Payment Certificate in accordance\n                                     with Sub-Clauses 11.9 and 11.10, the Engineer shall request the Contractor to do\n                                     so. If the Contractor fails to make such an application within a period of 28 days,\n                                    the Engineer shall issue the Final Payment Certificate for such amount as he\n                                   considers being due.\n\n\n                                   Notwithstanding anything contained herein the issue  of  Interim Payment\n                                         Certificate / Final Payment Certificate would not restrict/hinder the right of the\n                               Employer under the law/Contract to recover from the Contractor any loss,\n                              damage, compensation    arising out of fraudulent practice/corrupt practices\n                                   indulged into by the Contractor prior to the execution of the Contract, during the\n                                   execution of the Contract and after the completion of the Contract.\n\n                                   Notwithstanding  anything  contained  herein, the  issue  of Interim Payment\n                                         Certificate / Final  Payment Certificate would not absolve the Contractor from"
 > }
 
-### J698e684a20f2b1b9
+### Jc35a93986fa1e949
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]
 
@@ -16138,7 +16963,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "deduct the amount of the said claim from the amount, securities and / or\n                                         deposits which may have become or will become payable to the Contractor\n                                     under the existing contract, or under any other Contract or transaction\n                                     whatsoever between the Employer and the Contractor even  if the matter\n                                       stands referred to competent Court of Law. The Contractor shall have no\n                                         claim for any interest or damage whatsoever in respect of any amounts\n                                         withheld or treated as withheld under the lien referred to above and duly\n                                               notified as such to the Contractor.\n\n                                                                       iii.  Whenever any claim or claims for payment of a sum of money arise out of or\n                                     under the contract against the Contractor, the Employer shall be entitled to\n                                         withhold and also have a lien to retain such sum or sums in whole or in part\n                                      from the security,  if any, deposited by the Contractor and for the purpose\n                                           aforesaid, the EMPLOYER shall be entitled to withhold the said Security\n                                       Deposit or the security, if any, furnished as the case may be also have a lien\n                                       over the same pending finalisation or adjudication of any such claim. In the\n                                       event of security being insufficient to cover the claimed amount or amounts\n                                           or if no security has been taken from the Contractor, the Employer shall be\n                                               entitled to withhold and have a lien to the extent of such claimed amount or\n                                  amounts referred to supra, from any sum or sums found payable or which at\n                                   any time thereafter may become payable to the Contractor under the same\n                                          contract or any other contract with the Employer  or any Department of the\n                                         Central and State Government pending finalisation or adjudication of any\n                                    such claim. It is an agreed term of the contract that the sum of money or\n                                   monies so withheld or retained under the lien referred to above,  by the\n                                    Employer will be kept withheld or retained as such by the Employer till the\n                                         claim arising out of or under the contract is determined by the competent\n                                       Court of Law as the case may be and that the Contractor will have no claim\n                                                for interest or damage whatsoever on any account in respect of such\n                                          withholding or retention under the lien referred to Supra and duly notified as\n                                    such to the Contractor. For the purpose of this clause, where the Contractor\n                                                     is a partnership firm or a limited company, the Employer shall be entitled to\n                                         withhold and also have a lien to retain towards such claimed amount or\n                                  amounts in whole or in part from any sum found payable to any partner\n                                              limited company, as the case may be whether in his individual capacity or\n                                         otherwise.\n\n                                                   iv.  Amount due  for recovery on account  of  hire charges  of Employer’s\n                                     Machinery and other facilities  (if provided) as also for other services and\n                                                  electricity charges and expenditure,  if any, incurred by the Employer on\n                                          Contractor’s behalf on labour, materials and equipment which may become\n                                  due from the Contractor as per terms of this contract as well as under any\n                                          other prevailing laws will be recovered from the payments to the Contractor\n                                    as and when due.\n\n\n\n     Signature on     11.19      Every receipt of payment to Contractor including refund of the Performance\n     Receipts For                  Security shall be signed by the person authorized to do so on his behalf. In the\n    Payments                   event of death of any of the Contractor’s partners in case the Contractor is a\n                                    partnership firm, during the currency of the Contract, it is hereby expressly agreed\n                                        that every receipt by any one of surviving Contractor’s partners, shall, if so signed\n                               as aforesaid, be a good and sufficient discharge as aforesaid, provided that\n                                   nothing in this Clause shall be deemed to prejudice or affect any claim, which the\n                               Employer may hereafter have against the legal representatives of any Contractor’s\n                                     partner so dying, for or in respect of breach of any of the conditions of the Contract.\n                                 Provided also that nothing contained in this clause shall be deemed to prejudice\n                                     or affect the respective rights and obligations of the Contractor’s partners, or of\n                                    the legal heirs / representatives of any deceased Contractor / partner interest\n\n    Post Payment    11.20           It is an agreed term of the Contract, that the Employer reserves to himself the right\n     Audit                            to carry out a post payment audit and / or technical examination of the Works, and\n                                    the Final bill including all supporting vouchers, abstracts, etc., and to make a claim\n                              on the Contractor for the refund of any excess amount paid to him, if as a result of\n                               such examination, any over-payment to him is discovered to have been made in\n                                   respect of any work done or alleged to have been done by the Contractor, under\n                                    the Contract.  If any under-payment is discovered, the same shall be paid by the"
 > }
 
-### J80396ccc60e8914a
+### J07840889aa7fb49a
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]
 
@@ -16147,7 +16972,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "Retention        11.7\nMoney\n                  11.7.1                               Retention Money is the Security Deposit for the performance of the obligations of\n                                the contractor during the contract period.\n\n                                                             i. From running account bills/IPCs the Employer shall deduct towards Retention\n                          money as an amount as stated ‘Contract Data’, subject to condition that\n                          maximum amount of Retention money shall not exceed as Stated in ‘Contract\n                                  Data’ Alternatively, the contractor may submit e-Bank guarantee/Insurance\n                                 Surety Bond equal to maximum amount of Retention money stated in above\n                                para along with 1st IPC so as to facilitate not to deduct retention money in\n                             each IPC.\n\n                                                              ii. If the contractor chooses to recover money from IPCs, then, at the request of\n                                   the contractor, the Employer shall exchange retention money held by him for\n                             a e-Bank Guarantee/Insurance Surety Bond of like amount.\n\n                                                              iii. Whenever contract amount exceeds the contract price (as stated in LoA),\n                                     retention money equal to 5 percent of the increased amount due to the\n                                  Contractor will be deducted from subsequent IPCs. At the request of the\n                                     contractor, the Employer shall exchange retention money held by him for a e-\n                            Bank Guarantee/Insurance Surety Bond of like amount.\n\n                                             iv. No retention money will be deducted against the Price Variation sums paid to\n                                   the contractor.\n\n                                      v. The Retention money is held by the Employer without obligation to invest them\n                                    or account for interest thereon or to place them in a designated account. No\n                                       interest of whatsoever nature and type will be paid to the Contractor by the\n                              Employer in respect of Retention money.\n\n                                            vi. e-Bank Guarantees shall be issued by an Indian Schedule bank (excluding\n                                 Cooperative Banks) or from a schedule Foreign Bank as defined in Section\n                                    2(e) of RBI Act 1934 read with Second Schedule.\n\n                                                vii. Insurance Surety Bond: The Insurance Surety Bond shall be issued by an\n                                 Insurance  Company  authorized  by  the  Insurance  Regulatory  and\n                              Development Authority of India (IRDAI) and shall be payable in Bengaluru in\n                                  favour of Bangalore Metro Rail Corporation Limited (BMRCL).\n\n                                                   viii. Retention Money e-BGs/Insurance Surety Bond shall be valid for a period of\n                             6 months beyond the contract period and should be extended, as and when\n                                   required by the Employer. The cost towards getting fresh e-BG/Insurance\n                                 Surety Bond or extension of e-BG/Insurance Surety Bond will be borne by the\n                                     contractor. Format  for Retention Money e-BG/Insurance surety Bond  is\n                                 provided in contract forms.\n\n                                            ix. In case contractor is a Joint Venture, then e-BG /Insurance Surety Bond shall\n                             be submitted by any member or members of JV.\n\n                  11.7.2                           Release of Retention Money:\n\n                                                           i. One half of the Retention money (Bank Guarantees and/or money) shall\n                         become due to the Contractor on the date of issue of the Taking Over Certificate\n                                     for the whole of the works or the date of issue of last Taking over Certificate, if\n                         more than one Taking Over Certificate exist.\n\n                                                              ii. One half of the balance of the Retention money (Bank Guarantees and/or\n                          money) shall become due to the Contractor on the date  of issue  of the\n                            Performance Certificate and the remainder shall become due to the Contractor\n                          upon final payment by the employer.\n\nStatement at      11.8       Not later than 60 days after the issue of the Taking Over Certificate for the whole\nCompletion                     of Works, the Contractor shall submit, to the Engineer, six copies of a statement\n                                  of completion with supporting documents, showing in detail, in the form approved\n                           by the Engineer under Sub-Clause 11.5:\n                                    (a)    the final value of all work done in accordance with the Contract, up to the\n                                     date stated in such Taking Over Certificate,\n                                    (b)   any further sums which the Contractor considers to be due, and\n                                      (c)   an estimate of amounts which the Contractor considers will become due\n                                           to him under the Contract.\n                                    (d)   As built drawings.\n                                    (e)    ‘Local content certificate’ (if applicable) from the statutory auditor or cost\n                                         auditor of the company (In case of companies) or from a practicing cost"
 > }
 
-### J8e79f5666980cdde
+### Jcbfd2f279820d2b7
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]
 
@@ -16156,7 +16981,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "any  liability/loss/damage/ compensation towards the Employer under the\n                               law/Contract arising out of latent and hidden defects in the Works executed by\n                               the Contractor under the Contract.\n\n\nCessation of      11.12       In respect of any matter or thing arising out of (or in connection with) the Contract\nEmployer's                    or execution of the Works before the issue of the Taking Over Certificate for the\nLiability                    whole of the Works, the Employer shall not be liable to the Contractor unless the\n                               Contractor shall have included a claim for  it in his Statement at Completion\n                              described in Sub-Clause 11.8. For any such matter or thing arising after the issue\n                                  of the Taking Over Certificate for the whole of the Works, the Employer shall not\n                          be liable to the Contractor unless the Contractor shall have included a claim for it\n                                     in his Final Statement.\n\nCalculation       11.13        All payments made by the Employer pursuant to the terms of the Contract shall\nof Payments               be in the currency or currencies specified in the Contract. Wherever any sum in a\nin Foreign                      foreign currency has to be converted into Indian Rupees for any purpose, the\nCurrency                  exchange rate to be employed for such conversion shall be the selling rate of\n                          exchange at the close of business of the State Bank of India 28 days before the\n                             date of submission of Tenders.\n\nRound off        11.14        In every payment to the Contractor, sums of less than fifty paisa shall be omitted\n                          and sums of fifty paisa and more up to one rupee shall be reckoned as one rupee.\nPayment by      11.15         All payments to the Contractor for the Rupee portion shall be made by RTGS (Real\nCheque and               Time Gross Settlement)/crossed cheque. No cheque will be issued for an amount\nE-Payment                      of less than Rs. 1000/-. This shall not apply to the final payment.\n\nTax Deduction   11.16      Tax deductions will be made at source as per statutory requirement from every\nat Source                  payment made to the Contractor at rates notified from time to time.\n                                   (a) Income tax deduction: Income Tax deduction shall be as per law.\n                                   (b) Labour Cess: The labour Cess will be deducted as per norms of applicable\n                                law from each IPCs/Final Bill and remitted to the concerned Authorities.\n                                    (c) Royalties: The contractor shall mandatorily submit Mineral Despatch Permits\n                            (MDP) from authorised Mines. Otherwise, the Royalty will be deducted from\n                                   IPCs/Final bill as per prevailing notifications and remitted to the concerned\n                                      Authorities.\n\nProduction of    11.17              i.    The Contractor shall, whenever required by the Engineer, produce or cause\nVouchers                               to be produced for examination by the Engineer, any quotation, invoice,\n                                      cost or other account books, vouchers, receipts, letters, memoranda or any\n                                 copy of or extract from any such documents and also furnish information\n                               and returns, as may be required, relating to the execution of this Contract\n                                       or relevant for verifying or ascertaining the cost of execution of this Contract\n                                       or ascertaining the Materials supplied by the Contractor are in accordance\n                                       with the Specifications laid down in the Contract. The Engineer’s decision\n                               on the question of relevancy of any documents, information or returns shall\n                               be final and binding on the parties.\n\n                                                             ii.        If any part or item of the Work is allowed to be carried out by a Sub-\n                                      Contractor, assignee or any subsidiary or allied firm, the Engineer shall\n                                have power to secure the books of such Sub-Contractor, assignee or any\n                                      subsidiary or allied firm through the Contractor, and shall have power to\n                                examine and inspect the same.  The above obligations are without\n                                      prejudice to the obligations of the Contractor under any statute, rules or\n                                       orders.\n\nWithholding     11.18              i.   The Employer shall have lien on and over all materials of every description,\nand Lien For                           tools, tackles, plant, equipment or any amount due and/or that may become\nSums Claimed                 due and payable to the Contractor under the Contract, and / or on and over\n                                    the deposit of Performance Security or other amount or amounts made under\n                                    the Contract and which may become payable to the Contractor. Employer\n                          may exercise a general lien also.\n\n\n                                                             ii.  And further, unless the Contractor pays and clears immediately on demand\n                               any claim of the Employer, the Employer shall at all times be entitled to"
 > }
 
-### J9c51544f86890db8
+### J1ba0c2a536865ea1
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]
 
@@ -16165,7 +16990,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "11.4.2      Evaluation\n                            Except as otherwise stated  in the Contract, the Engineer shall proceed  in\n                            accordance with Sub-Clause 3.5 [Determinations] to agree or determine the\n                              Contract Price by evaluating each item of work applying the measurement agreed\n                                or determined in accordance with the above Sub-Clauses 11.4 and 11.4.1 and the\n                            accepted rate for the item.\n\nInterim           11.5        Interim Payment Certificates\nPayment\nCertificates\n\nApplication for   11.5.1     The Contractor shall submit Statement in Two copies to the Engineer preferably\nInterim                           after the end of each month, in a form approved by the Engineer, showing in detail\nPayment                      the amounts to which the Contractor considers himself to be entitled, together with\nCertificates                   supporting documents. The contractor shall submit supporting documents viz.,\n                               Detailed measurements recorded in Measurement sheets, Abstract sheets along\n                                with recorded bill for the item actually executed including soft copy of the same for\n                             checking and payment.\n\n                         The Statement shall include the following items, as applicable, which shall be\n                            expressed in the various currencies in which the Contract Price is payable, in the\n                          sequence listed:\n                                   (a) Value of the Works executed.\n                                   (b) any amount to be deducted for retention in accordance with GCC Cl.11.7;\n                                    (c) any amounts to be added and/or deducted for ‘Change in law’ in accordance\n                                    with Sub-Clause 11.1.1;\n                                   (d) Applicable Output GST. Declaration of the turnover of the previous  bill in\n                       GSTR 1 and payment of taxes in GSTR 3B of the particular month is the\n                                evidence to be submitted as documentary proof of payment of taxes.\n                                   (e) Applicable Price variation,\n                                            (f)  any other additions or deductions which may have become due under the\n                                  Contract or otherwise, including those under Clause 17 [Claims and Disputes];\n                             and\n                                   (g) the deduction of amounts certified in all previous Payment Certificates.\n                                   (h) Any other document specified in Special condition of Contract.\n\nIssue of Interim   11.5.2     Engineer shall, within 02 working days after receiving a Statement & supporting\nPayment                  documents under sub-clause11.5.1, deliver to the Employer, with a copy to the\nCertificates                    Contractor, an Interim Payment Certificate for adhoc payment of 80% of bill value.\n                                 Further, the Engineer shall, within 7 working days of receiving a statement and\n                              supporting documents, deliver to the Employer, with a copy to the Contractor, an\n                                 Interim Payment Certificate showing the balance amount (i.e. 20%) which the\n                            Engineer  fairly determines to be due, with  all supporting particulars for any\n                               reduction or withholding made by the Engineer on the Statement if any.\n\n                         The Engineer may exclude any item certified in any previous interim payments or\n                            reduce the proportion of any item previously certified in any of the interim\n                          payments in light of any information provided at a later stage.\n\n                        Where only a part of the payment applied for is disputed, payment certificate shall\n                          be issued for the undisputed amount.\n\n                         The Engineer shall have the power to omit from any of the contractor’s requests\n                                    for payment the value of any work executed or Materials supplied or services\n                              rendered, with which he may for the time being be dissatisfied and for that purpose\n                          and for any other reason which to him may seem proper, may delete, correct or\n                             modify the sum(s) previously certified by him as being due to the Contractor.\n\nPayment-         11.6     No amount  will be paid  until the Employer has received and approved the\nInterim and                 Performance Security. Also, no amount  will be paid  until the Employer has\nFinal                         received the Mobilization advance  utilization  certificate from Contractor duly\n                                     certified by the Engineer.\n\n                                  In case of joint venture following procedure will  be adopted for payment"
 > }
 
-### Je053a5fbb65fa773
+### J51512a62ff7facb4
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 11 — Contract Price and Payment|Clause 11 — Contract Price and Payment]]
 
@@ -16174,7 +16999,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "A) Invoicing: The invoice shall be raised by\n                                                                          i. the Joint venture\n                                              or\n                                                                             ii.  the  lead member  provided such  provision has been made  in  the\n                                     JV/consortium agreement.\n\n                                 B) Payment: subject to (A)\n\n                                                                          i.   Payment shall be made to Joint Venture\n                                         or\n                                                                             ii.    to the lead member provided such provision has been made in the JV\n                                  agreement\n                                          or\n                                                                             iii.  To the JV members separately in their account provided such provision\n                                  has been made in the JV/consortium agreement.\n\n                                     a)   Payment of IPCs\n\n                                                        (i)   After scrutiny and certification by the Engineer for payment of 80% of bill\n                                       value issued under sub-clause 11.5.2, the Employer within 04 working days\n                                             shall make the payment for the certified value. The balance amount (i.e. 20%)\n                                             shall be paid within 05 working days from the certification of interim payment\n                                                certificate by the Engineer.\n                                                            (ii)  In the IPC, the contractor should certify that the amount received through IPC\n                                    No. ______ for a value of Rs. ______ has not been diverted to other projects\n                                  and the funds are fully utilised for execution of the subject contract. The\n                                       copies  of the supporting vouchers  of the disbursement made by the\n                                        Contractor should also be attached with the IPC.\n                                                               (iii)  In case the contractor diverts the funds from this work to other projects\n                                            resulting in poor progress/mobilization of resources at work site, then the\n                                    employer is at liberty to either have the jointly managed account or monitoring\n                                 mechanism for contractor’s Bank account.\n                                                (iv) For payment of the contractor’s  bills and such other payment releases,\n                              BMRCL, at  its discretion, may adopt ESCROW mechanism of accounts,\n                                     which shall be binding on the contractor.\n\n                                     b)   Incorrect Measurements and Billing.\n                                            In the event of Contractor submitting incorrect measurements or bill for the\n                                                        first time, the Engineer will issue a written warning to him to the effect that the\n                                                    facility of 80% payment without detailed check will be withdrawn in future.  If\n                                        the contractor repeats the same, this 80% payment facility may be completely\n                                     withdrawn in respect of this contract with BMRCL.\n                                            In addition, a penalty of Rupees one lakh shall be imposed for submission of\n                                        the incorrect bill.\n                                        c) On-Accounts” Payments not prejudicial to final settlement.\n                                     “On-Accounts” Payments made to the Contractor shall be without prejudice to\n                                        the  final making up  of the accounts (except where measurements are\n                                             specifically noted in the Measurement Book as “Final Measurement” and as\n                                   such have signed by the Contractor) and shall in no respect be considered or\n                                  used as evidence of any facts stated in or to be inferred from such accounts\n                                      nor of any particular quantity/quality of work having been executed nor the\n                                manner of its execution being satisfactory.\n                                Payment made against any item doesn’t necessarily mean acceptance are\n                                   hundred percent with respect to quality of construction (as defects could arise\n                                               later on), tests to be done may not have been undertaken due to whatever\n                                    reason before release of payment\n                                     d)   Final Payment\n                                The Employer shall pay the amount certified in the Final Payment Certificate\n                                     payable within 56 days from the date of issue of the Final Payment Certificate.\n                                   Employer shall make the payment of applicable Output GST.\n                                The Employer shall make Price Variation Payment\n\n                                     e)  BMRCL is not liable to pay Interest, for any delay in payment/payments due\n                                             to the contractor under this contract."
 > }
 
-### J34dd4978a26ba674
+### J4821b3a8ad55cf39
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 12 — Variations|Clause 12 — Variations]]
 
@@ -16207,7 +17032,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Variations"
 > }
 
-### Jab380d877ae91925
+### J2d2ff78aa38287b3
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 13 — Determination/Termination of the Contract|Clause 13 — Determination/Termination of the Contract]]
 
@@ -16236,7 +17061,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Determination/Termination of the Contract"
 > }
 
-### J7bf0d00829ade4bd
+### Je54c7d2ea0825007
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 14 — Risk and Responsibility|Clause 14 — Risk and Responsibility]]
 
@@ -16257,7 +17082,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Risk and Responsibility"
 > }
 
-### J3d99ac833d30d558
+### J3808711ea48ee2c8
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 17 — Claims, Disputes and Conciliation|Clause 17 — Claims, Disputes and Conciliation]]
 
@@ -16282,7 +17107,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Claims, Disputes and Conciliation"
 > }
 
-### J5516f07161b435b2
+### Jb6d88198cad1dbbd
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -16303,7 +17128,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Contract Data"
 > }
 
-### J6106502aaeac9922
+### Jef4907e87becd01a
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 18 — Service of Notices|Clause 18 — Service of Notices]]
 
@@ -16320,7 +17145,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Service of Notices"
 > }
 
-### J66bb662a0f3422b9
+### J60650fa2dd4a1e9f
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 16 — Force Majeure|Clause 16 — Force Majeure]]
 
@@ -16341,7 +17166,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Force Majeure"
 > }
 
-### J7957e3c3de8aec5b
+### J6539d43b623dd956
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 15 — Insurance|Clause 15 — Insurance]]
 
@@ -16370,7 +17195,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Insurance"
 > }
 
-### J4954cab466983818
+### Jc55728d55a75639f
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -16414,7 +17239,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value": "NOT APPLICABLE"
 > }
 
-### J8565a5e674ba4694
+### J685ffec94f86ce6e
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -16458,7 +17283,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value": "NOT APPLICABLE"
 > }
 
-### J8df0ee6180c6bca7
+### Jc8e0050a04c093f1
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -16502,7 +17327,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value": "NOT APPLICABLE"
 > }
 
-### Ja4c36b878b83ce15
+### Jefeb0c84a448ac2f
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -16546,7 +17371,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value": "NOT APPLICABLE"
 > }
 
-### Jd63702bce5914d55
+### Ja740f4ef77fe8481
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -16590,7 +17415,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value": "NOT APPLICABLE"
 > }
 
-### J1dd8bce37ef510fc
+### J42ebc7a9caffaf7c
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -16628,7 +17453,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### Jb6dbe6e9c034af69
+### J9f1e91a67a75186a
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -16670,7 +17495,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### J2cc37360d6e327cb
+### J03d7bc25e8c4862c
 
 [[OKF_bundle/addendum_and_corrigendum/A_and_C2#Addendum and Corrigendum No. 2|Addendum and Corrigendum No. 2]]
 
@@ -16707,7 +17532,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription"
 > }
 
-### Jf9d2ada6599b727b
+### Jcc49f8beaf50a801
 
 [[OKF_bundle/Technical/Vol1/secG#Contract Form 1 — Contract Agreement|Contract Form 1 — Contract Agreement]]
 
@@ -16738,7 +17563,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Contract Agreement"
 > }
 
-### Jede127bc7333e750
+### J334035669e5961a3
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -16782,7 +17607,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value": "Not Permitted"
 > }
 
-### Je6ac80eb69f46bb5
+### J45d7d58d24286667
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -16826,7 +17651,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value": "To be submitted  within 4 weeks from  the issue  of  Letter  of\nAcceptance."
 > }
 
-### J90b7e8b79b96f3f6
+### J7ded2d3391e4e5fd
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -16870,7 +17695,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value": "To be submitted  within 4 weeks from  the issue  of  Letter  of\nAcceptance."
 > }
 
-### J4d88f9523ba735a6
+### J52e5fd6afe9bd8b2
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -16914,7 +17739,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value": "NOT APPLICABLE"
 > }
 
-### Je61e896d6545169a
+### J69286fc9df529874
 
 [[OKF_bundle/Technical/Vol1/secE#General Conditions of Contract and Contract Data|General Conditions of Contract and Contract Data]]
 
@@ -16958,7 +17783,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "value": "Within 06 weeks from the date of commencement of works."
 > }
 
-### Jada3f43d4b5cb9df
+### Jbabe5feb9b94a9ca
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -16967,7 +17792,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "(a)     That the programme has received his consent; or\n                                   (b)     That the programme is rejected, in which case  reasons     for    such\n                                  rejection shall be given; or\n                                    (c)     That further information is required to clarify or  substantiate        the\n                         programme or to satisfy the    Engineer as to its reasonableness, or\n                                   (d)     That the programme has received his consent   subject to incorporation\n                                  of comments attached to the Notice of No Objection. Provided that if none of the\n                          above actions is taken within a 30-day period, the Engineer shall be deemed to\n                          have given consent to the programme submitted.\n\n                         The Contractor shall, within 21 days of receiving notification under sub-paragraphs\n                                    (c) or (d) above, provide further information requested or the programme shall be\n                        deemed to have been rejected. The Engineer shall, within 21 days of receipt of\n                           such further information, either reject the programme or give his consent.\n\n                                  In the event of a programme being rejected, or deemed to have been rejected, the\n                               Contractor shall, within 21 days thereafter, submit a revised programme taking\n                            account of the reasons given for the rejection or incorporating further information\n                             requested by the Engineer, as the case may be.\n\n                         The Contractor, following receipt of consent to the Works Programme, may at any\n                                 time, submit to the Engineer an amended version. In the event that the Engineer\n                               grants an extension  of  time,  instructs an Employer's  Variation, or on the\n                             occurrence of any event or happening or situation, which could materially affect\n                               the progress of the Works, the Contractor shall submit a revised programme to\n                               the Engineer for his consent.\n                                                   If the Engineer feels that there is a significant deviation between the actual or\n                                anticipated progress of the Works and the Works programme, the Engineer may\n                                require the Contractor to submit a revised/modified programme to ensure timely\n                             completion of Whole of Works or a Key Date. The Contractor shall submit such\n                               revised programme within 14 days of the Engineer's instruction or within such\n                               other time as the Engineer will allow in writing.\n                            Unless and until an amended version has the consent of the Engineer, the existing\n                         programme shall remain as the Works Programme  for  all purposes of the\n                                Contract.\n                           Consent by the Engineer to a Works Programme shall not relieve the Contractor\n                                  of any of his duties or responsibilities under the Contract, nor in the event that a\n                         Works Programme indicates that a Key Date has not or will not be met, constitute\n                          any form of acknowledgement that the Contractor is or may be entitled to an\n                              extension of time in relation to such Key Date.\n\nProgress         4.14       The Contractor shall submit to the Engineer by the end of each calendar month\nReports                         his Monthly Progress Report which shall, amongst other things, highlight actual or\n                                  potential departures from the Works Programmes and/or the Design Submission\n                        Programme and state the measures which the Contractor proposes to take in\n                               order to make good or reduce any delay.\n\n                                                   If requested by the Engineer, the Contractor shall submit to the Engineer, at\n                            weekly intervals, a written report as to the progress of off-Site manufacture of\n                                 Plant, and Materials.\n                         The Contractor shall also submit to the Engineer such other reports as may\n                             reasonably be required by him or any relevant authority or public body.\n                         The progress reports shall conform to the Employer’s Requirements.\n\nContractor's     4.15\nEquipment\n                  4.15.1     The contractor shall have to arrange plant & equipment required for execution as\n                                 stipulated in Employer Requirement & Technical Specifications, completion or\n                           maintenance of the works within the Scope of Work. The following conditions\n                              regarding use of equipment in works shall be satisfied:\n\n                         The Contractor shall be required to give a trial run of the equipment on works\n                              intended to use, for establishing their capability to achieve the laid down / claimed"
 > }
 
-### J1f819820cf715c7c
+### Je087084d48108fc5
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -16976,7 +17801,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "(ii)   consult, liaise and co-operate with those responsible for carrying out\n                                          such other works, including where necessary, in the preparation of\n                                                the respective designs, the preparation of co-ordinated programmes,\n                                        method  statements,  co-ordination  drawings  and  specifications\n                                                 together with arrangements of service priorities and zoning;\n\n                                                                                iii)   Subjected to the applicability of the Clause 7.12, Contractor shall\n                                                     participate in integrated testing and commissioning of the system\n                                                  with designated contractors and demonstrate  to the Engineer's\n                                                     satisfaction that the Works have been designed and constructed in a\n                                       manner compatible with the works of other designated contractors.\n\n                               b   The Contractor shall undertake Design co-ordination with other contractors\n                                who are carrying out works forming part of the Project as described in the\n                                        Employer's Requirements. At the end of each such co-ordination period,\n                                          the Contractor and the other contractor with whose works the interface\n                                          period refers shall jointly state in writing that their design co-ordination\n                                                   activities are complete and that their respective designs are integrated and\n                                    can be finalised without interference with each other's designs or the\n                                       designs with which their designs have already been integrated. A copy of\n                                                  this joint written statement shall be provided to the Engineer within 7 days\n                                               of the end of the said design co-ordination period. Unless and until copies\n                                               of all relevant and necessary design co-ordination statements have been\n                                        submitted to the Engineer, the Engineer shall be entitled to suspend any\n                                        review or further review of the Contractor's or the other contractor's design\n                                        submissions. Such suspension shall not be grounds for the Contractor to\n                                          claim nor shall be entitled to receive an extension of time or additional\n                                      payments.\n\n                                  c   The Contractor shall share within the Site, staging, storage and unloading\n                                       areas for the use of Designated Contractors,  if any, who are undertaking\n                                                          civil work, fare collection system, supply, testing and commissioning of\n                                            Rolling Stock, escalators,  lifts, signalling and telecommunications and\n                                               traction power installation works, etc. Separate locations shall be provided\n                                                  for each such contractor. The exact size and location of these staging,\n                                         storage and unloading areas, and the commencement date shall be co-\n                                          ordinated and agreed  during  the design  interface  period  with each\n                                      Designated Contractor.\n\n                               d   Any other contract which depends for its execution on the Contract or upon\n                                      which the Contract is dependent for its own execution shall be identified by\n                                          the Engineer as a \"Designated Contract\". The Contractor shall provide\n                                       attendance on Designated Contractors in accordance with the Employer's\n                                     Requirements and as instructed by the Engineer. The identity of the\n                                            contractor  for a Designated Contract may not be known before the\n                                         execution of the Contract but this shall not be a ground for the Contractor\n                                               to object to the subsequent appointment of a Designated Contractor.\n\n                               e   The Contractor shall in accordance with the requirements of the Engineer\n                                           co-ordinate his own Works with that of Designated Contractors through Co-\n                                          ordinated  Installation  Programme  (CIP)  stated  in  the  Employer's\n                                       Requirements, or as the Engineer may require, and shall afford the\n                                      Designated Contractors all reasonable opportunities for carrying out their\n                                        works.\n\n                                                              f   The Contractor shall afford all reasonable opportunities, for carrying out\n                                                  their work, to other contractors employed by the Employer and  their\n                                 workmen respectively and the workmen of the Employer who may be\n                                   engaged on or near the Site of any work, ancillary to the Works, but, not\n                                          included in the Contract and shall not cause them inconvenience.\n\n                               g      If the Contractor shall suffer delay by reason of failure by any Designated\n                                          Contractor to meet the specified installation interfacing and co-ordination,\n                                        completion dates, which delay shall be caused otherwise than by fault of\n                                          the Contractor, or, if compliance with sub-clause (f) herein shall involve the\n                                          Contractor in delay beyond that which could be reasonably foreseen by an"
 > }
 
-### Jefd7aa60b6e10054
+### Jc0b69557db8e02f2
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -16985,7 +17810,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "Guarantees and  4.2.4        Within time period stated  in ‘Contract Data’, Contractor shall submit to the\nWarranties                  Employer:\n\n                                                  (i)  An Undertaking and written Guarantee in the approved formats from a parent\n                              company, the identity of which shall have been submitted in writing to the\n                               Employer prior to acceptance of the Tender and against which the Employer\n                                        shall have raised no objection.\n                                                     (ii) A contractor warranty  in the approved format. The formats  of Parent\n                           Company  Undertaking, Parent Company Guarantee, and  Contractor’s\n                                Warranty are provided in the contract forms.\n                                   In the event  that  the Contractor  shall comprise two  or more members,\n                                corporations acting in partnership, joint venture, consortium or otherwise each\n                            such member or corporation shall submit a parent company Undertaking and\n                             Guarantee.\n\n\n\nContractor’s       4.3      The contractor shall appoint the Contractor's Representative and shall give\nRepresentative               him/her  all authority necessary to act on the Contractor’s behalf under the\n                                Contract, except another replacement of the Contractor’s Representative.\n                         The Contractor’s Representative shall be qualified, experienced and competent in\n                               the main engineering discipline applicable to the works and fluent in English\n                             language.\n\n                             Unless the Contractor's Representative is named in the Contract, the Contractor\n                                     shall, within 14 days of signing the ‘Contract Agreement’, submit to the Engineer\n                                     for consent the name and particulars of the person the Contractor proposes to\n                                appoint. The Contractor shall not revoke the appointment of the Contractor's\n                              Representative  without  the  prior consent  of  the Engineer and  appoint a\n                             replacement (unless the Contractor's Representative is unable to act as a result\n                                  of death, illness, disability or resignation) The Contractor’s Representative so\n                            nominated shall have  full authority to act on behalf of the Contractor. The\n                                Contractor's Representative shall give his whole time to directing the preparation\n                                  of the Construction and/or Manufacture Documents and the execution of the\n                           Works. The Contractor's Representative shall receive (on behalf of the Contractor)\n                                           all notices, instructions, consents, approvals, certificates, determinations and\n                                other  communications  under  the  Contract.  Whenever  the  Contractor's\n                              Representative is to be temporarily absent from the Site during execution of works,\n                          a suitable replacement person shall be appointed, with prior consent of Engineer.\n\n                                 Failure on part of the Contractor to comply with these provisions shall constitute a\n                            breach of Contract leading to action under Sub Clause no. 13.2.\n\n                         The Contractor's Representative may delegate any of his powers, functions and\n                                  authorities to any competent person, and may at any time revoke any such\n                                delegation. Any such delegation or revocation shall be in writing and shall not take\n                                   effect  until the Engineer has given  prior consent thereto. The Contractor’s\n                              Representative and such persons shall be fluent in the language of day–to-day\n                            communication and the Contractor shall be bound by and fully liable for the acts\n                                or omissions of the Contractor’s Representatives or any of his employees and/or\n                               delegates, agents or nominees.\n\nFacilities for       4.4      The Contractor shall not impede and shall afford all necessary facilities, access\nand                          and/or  services  to the Employer, Engineer, Designated  Contractors,  utility\nCo-ordination                 undertakings, other relevant authorities and other contractors (whether employed\nwith Others.                by  the Employer or not) who are carrying out on, or in the vicinity of, the Site,\n                           works not included in the Contract but forming part of the Project:\n\n                           a   The Contractor shall take all reasonable steps to ensure that the Works are\n                                     co-ordinated and integrated with the Design, manufacture, installation\n                                    execution and  testing of such other works and shall in particular (but\n                                      without limitation):\n\n                                                            (i)   comply with any direction which the Engineer may give for the\n                                               integration of the Design with the design of any other part of the\n                                               Project;"
 > }
 
-### Je42afcdd3719ec15
+### J87327422164e9c7a
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -16994,7 +17819,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "Employer’s      4.20       Except for items mentioned in the Special Conditions of Contract, the Contractor\nMaterials                        shall provide  all materials for the Works. Material  if any, to be provided by\n                           Employer will be done only in a phased manner as per pre-approved program,\n                               against an e-Bank Guarantee/ Insurance Surety Bond for the value of the Material\n                          and at terms and conditions for issue, upkeep, usage, return and recovery of such\n                                Materials as specified in Special Conditions of Contract.\n\nSheds,           4.21             It shall be the responsibility of the Contractor to provide at his own expense the\nStores,                        required sheds, store houses, and yards for both Permanent and Temporary\nYards                    Works and provide free access to the Engineer and the Engineer’s Representative\n                       who will have right of inspection including that of instructing the Contractor to\n                          remove a particular material from the stores and not to use the same on the Works.\n\nTemporary       4.22      The Contractor’s proposals for erection of all ancillary and temporary works shall\nWorks                    be  in conformity with the proposals submitted along with the Tender and\n                                modifications thereto as approved by Engineer.\n                        The  Contractor  shall  submit  drawings,  supporting  design  calculations  of\n                          Temporary works, where called for by the Engineer and other relevant details of\n                                           all such works to the Engineer for approval at least one month before he desires\n                                  to commence such works. Approval by the Engineer of any such proposal shall\n                               not relieve the Contractor of his responsibility for sufficiency of such works.\n\n                                      All temporary works necessary for the proper execution of the Works shall be\n                              provided and maintained by the Contractor at his cost (unless otherwise provided\n                                      in tender document) and subject to the consent of the Engineer shall be removed\n                           by Contractor at his own expense when they are no longer required and in such\n                          manner as the Engineer shall direct. In case the Contractor fails to remove the\n                             temporary works on completion the Engineer is authorized to get the same\n                          removed and recover the cost thereof from the Contractor.\n\nUnforeseeable   4.23          In this Clause “physical conditions” means natural physical conditions, which the\nPhysical                      Contractor encounters at Site while executing the Works excluding climatic\nConditions                     conditions.\n                                                    If, during the execution of the Works, the Contractor shall encounter physical\n                                 conditions, which, in his opinion, could not have been reasonably foreseen by an\n                             experienced Contractor, the Contractor shall forthwith give written notice thereof\n                                   to the Engineer and if, in the opinion of the Engineer, such conditions could not\n                           have been reasonably foreseen by an experienced Contractor, then the Engineer\n                                   shall certify and the Employer shall pay reasonable additional cost to which the\n                               Contractor shall have been put by reason of such conditions in the following\n                              cases:\n                                      a.  for complying with any instruction which the Engineer may issue to the\n                                  Contractor in connection therewith, and\n                                      b.  for any proper and reasonable measures approved by the Engineer which\n                                   the Contractor may take in the absence of specific instructions from the\n                                  Engineer, as a result of such conditions or obstructions being encountered.\n                         The decision of the Engineer as to the additional cost shall be final and binding.\n\nAccess for       4.24      The Contractor shall allow at all times the Engineer or the Engineer’s assistant or\nEngineer                   any other person authorised by the Engineer access to the Site and to any place\n                           where work in connection with the Contract is being carried out or is intended to\n                          be carried out and to any place where materials or plant are being manufactured,\n                                 fabricated and/or assembled for the Works. The Contractor shall ensure that sub\n                                contracts  if any shall contain provisions entitling the Engineer or any person\n                               authorised by him to have such access.\n\nAccess Road     4.25        Providing access roads/ way leaves to the site will be Contractor’s responsibility.\nand Way                 The Contractor shall pay the statutory vehicle license and permit fees for use of\nLeaves                         public roads. The Contractor’s heavy construction or tracked equipment shall not\n                                   travel on any public road or bridge, unless the Contractor has made arrangements\n                                with the authority concerned and has obtained the approval of the Engineer to such\n                            arrangements.\n                        The Contractor shall repair any damage to the road or bear the cost thereof due\n                                  to movement  of  contractor’s  plants and  equipment,  vehicles  etc.  to  the\n                                 specifications and satisfaction of road authorities as well as of Engineer."
 > }
 
-### J919318f1e3e3911e
+### Jae8c522e7fce7f56
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -17003,7 +17828,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "The Contractor, after obtaining any necessary consent from any relevant authority,\n                                   shall submit to the Engineer proposals showing the layout of pedestrian routes,\n                                     lighting, signs, and guarding any road opening or traffic diversion which may be\n                               required in connection with the execution of the Works and which the Contractor\n                               intends to construct. Any consent given by the Engineer to such proposals shall\n                               not relieve the Contractor of any obligation under the Contract or absolve the\n                               Contractor  from  any  liability  for  or  arising  from  such  proposals  or  the\n                             implementation thereof.\n\n                                      All lights provided by the Contractor shall be so placed or screened as not to\n                                   interfere with signs, signals or lights. The Contractor shall not in any way obscure\n                                or affect signs, signals or lights, in use by any relevant authority. In the event that\n                               the Contractor does so, the Contractor shall pay all costs associated with the re-\n                                           fitting, re-instating or provision of alternatives for any sign, signal or light, obscured\n                                or affected.\n\n                            For the purposes of this Clause only, \"Site\" shall include off-Site places of\n                            manufacture or storage and the Contractor's Work Areas and shall include, areas\n                              provided to the Contractor by others.\n\n Discoveries of   4.29         All fossils, coins, articles of value or antiquity and structures and other remains or\nArchaeological                things of geological or archaeological interest, in addition to oil and other minerals\nand Geological               discovered on the Site shall be the absolute property of the Government of India\nvalue.                     and the Contractor shall take all the necessary precautions to prevent its workmen\n                                or its sub-contractors' workmen or any other person from removing or damaging\n                          any such article or thing and shall immediately upon discovery thereof, acquaint\n                               the Engineer of such discovery and carry out the instructions of the Engineer.\n\nPublicity          4. 30      The Contractor shall not publish or otherwise circulate alone or in conjunction with\n                          any other person, any articles, photographs or other materials relating to the\n                                Contract, the Site, the Works, the Project or any part thereof, nor impart to the\n                               press, or any radio or television network any information relating thereto, nor allow\n                          any representative of the media access to the Site, Contractor's Works Areas, or\n                                    off-Site place of manufacture, or storage except with the permission, in writing, of\n                               the Employer. The Contractor shall ensure that his sub-contractors of any tier\n                                   shall be bound by a like obligation and shall,  if so required by the Employer,\n                              enforce the same at his own expense. The provisions of this Sub-Clause shall not\n                          exempt the Contractor from complying with any statutory provision in regard to the\n                                taking and publication of photographs.\n\nDisclosure of     4.31              If the Contractor or any partner of the Contractor or Director of the Contractor’s\nRelationship              company is closely related to any of the Officers of the Employer or the Engineer,\n                                or alternatively, if any close relative of an officer of the Employer or the Engineer\n                           has financial interest / stake in the Contractor’s firm, the same shall be disclosed\n                           by the Contractor at the time of filing his tender. Any failure to disclose the interest\n                                involved, shall entitle the Employer to rescind the Contract, without payment of\n                          any compensation to the Contractor.  The Contractor shall note that he  is\n                                prohibited from developing such interest during the Contract period.\n\nUse of           4.32        Explosives  if required on the Work shall be used by Contractor only with prior\nExplosives                  Approval of the Engineer and in the manner and to the extent permitted by him.\n                         The explosives shall be handled, stored in a special magazine to be provided at\n                               the cost of the Contractor and used under the strict supervision of persons\n                               licensed for this purpose under the requisite statutory rules and regulations. The\n                               Contractor shall take all precautions in transporting and using the explosives and\n                              avoid damage  to nearby  structures and  utilities. The Contractor  shall be\n                               responsible for taking  all the precautions in the usage of the explosives at\n                                Contractor’s cost, sole risk and responsibility. The Contractor shall hold the\n                           Employer harmless and indemnify for the above.\nProhibited       4.33\nconduct\n                  4.33.1     The Employer requires  that the Tenderers/Contractors observe the highest\n                             standards of ethics during Tendering and execution of this Contract and should"
 > }
 
-### Jb6331f6c243c0e9a
+### J8e92493e9e5f8f82
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -17012,7 +17837,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "Agencies Similarly the agreement should also incorporate the provision of\n                                    Dispute Resolution. An undertaking in the format provided in contact forms shall\n                                be submitted by Contractor in respect of each such agency:\n\n\n                                         4.5.5      A copy of the contract between the Contractor and Sub-Contractor\n                                           shall be given  to the Engineer and the Contractor  shall not make any\n                                       modifications without the Engineer's prior written consent. The terms and\n                                       conditions of subcontracts, including payments to subcontractors, shall be the\n                                       sole responsibility of the Contractor, and such payments shall be deemed\n                                      included in the Contract Price. The Contractor shall obtain the Employer's prior\n                                          written consent to the identity of the subcontractor, which shall be granted after\n                                      the Employer assesses and  satisfies  itself regarding the subcontractor's\n                                            capability, experience, and equipment resources. The Engineer's decision in\n                                              this regard shall be final and binding. The Contractor shall provide sufficient\n                                    superintendence to ensure that work carried out by subcontractors complies\n                                        with the Contract requirements\n\n                                         4.5.6        Engineer’s decision to define whether the party is subcontractor or\n                                      not shall be final and binding on the Contractor.\n\n                                 Employer reserves the right to have access to the agreement/MOU between\n                                      the contractor and the sub-contractor and demand a copy of the same for\n                                       records.\n                              The proposed sub-contract terms and conditions shall impose on the sub-\n                                        contractor such terms of the Contract as are applicable and appropriate to the\n                                         part of the Works to be sub-contracted, to enable the Contractor to comply with\n                                          his obligations under the Contract.\n\n                                         4.5.7           Notwithstanding any consent  to  sub-contract  given by  the\n                                     Engineer, if in his opinion he considers it necessary, the Engineer shall have\n                                                       full power to order the removal of any sub-contractor from the Site or off-Site\n                                     place  of manufacture  or  storage, which power  shall  not be  exercised\n                                    unreasonably.\n\n                                    Provided  further  that  in the event  of poor/unsatisfactory performance  of\n                                      subcontractor in terms of quality, progress, poor workmanship, adherence to\n                                       safety norms the Engineer may order for removal of such subcontractor from\n                                      the site of work. The Contractor shall demobilize/remove such subcontractor\n                                         within 10 days from the receipt of such instructions from the Engineer.\n\n    Assignment of   4.6       The Contractor shall not assign a right or benefit under the Contract without first\n     Contractor’s                  obtaining Employer’s prior written consent, otherwise than by:\n    and Sub-\n     contractor’s                    a.   a charge in favour of the Contractor’s bankers of any money due or to\n     Obligations                   become due under the Contract, or\n                                        b.    Assignment to the Contractor’s insurers (in cases where the insurers have\n                                       discharged the Contractor’s loss or liability) of the Contractor’s right to obtain\n                                                      relief against any other party liable.\n\n                                                            If a Subcontractor’s obligations extend beyond the expiry date of Defects Liability\n                                     Period, then the Contractor shall assign the benefits of such obligations to the\n                                 Employer.\n                                        In the event that a sub-contractor of any tier provides to the Contractor or any\n                                     other sub-contractor a warranty in respect of Plant, Materials or services supplied\n                                           in connection with the Works, or undertakes a continuing obligation of any nature\n                                whatsoever in relation to such Plant, Materials or services (including without\n                                          limitation an obligation to maintain stocks of spare parts) extending for a period\n                                 exceeding that of the Defects Liability Period or where there is more than one\n                                  Defects Liability Period exceeding that of the latest Defects Liability Period, and if\n                                    the Engineer so directs in writing within 21 days of the expiry of the Defects\n                                             Liability Period or the latest Defects Liability Period (as the case may be), the\n                                    Contractor shall immediately assign or obtain the assignment of the benefit of such\n                                  warranty or obligation to the Employer or at the direction of the Employer, to any\n                                           third party referred to in Sub-Clause 2.4."
 > }
 
-### Jf25f89c198cf1628
+### J883b354f2814258f
 
 [[OKF_bundle/Technical/Vol1/secE#Clause 4 — The Contractor|Clause 4 — The Contractor]]
 
@@ -17021,7 +17846,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "Compensation   4.7       Any breach of Sub-clauses 4.5 to 4.6 shall entitle the Employer to rescind the\nfor Breach                    Contract under Sub-Clause 13.2 and render the Contractor liable for any loss or\n                        damage arising from such termination\nSetting Out       4.8\nAccurate          4.8.1      The Contractor shall be responsible for\nSetting Out\n                                   (a) the accurate setting out of the Works in relation to the original points, lines and\n                                      levels of reference given in the documents provided by the Engineer in writing.\n                                   (b) the correctness of position, levels, dimensions and alignments of all parts of\n                                   the Works\n                                    (c) the provisions of all necessary instruments, equipment, apparatus and labour\n                                          in connection with the foregoing responsibilities\n                                   (d) Carefully protecting and preserving all bench marks, sight rails, pegs and other\n                                    things used in setting out the Works\n                         The checking of any setting-out or of any line or level by the Engineer shall not in\n                          any way relieve the Contractor of his responsibility for the accuracy or correctness\n                                thereof and the Contractor shall carefully protect and preserve all bench-marks,\n                                     sight-rails, pegs and other things used in setting out the Works.\n\nErrors in          4.8.2             If at any time during the execution of the Work, an error appears in the positions,\nSetting out                      levels, dimensions or alignment of any part of the Works, the Contractor on being\n                               required to do so by the Engineer shall, at Contractor’s cost, rectify such error to\n                               the satisfaction of the Engineer.\nSite Data         4.9       The Employer shall have made available to the Contractor with the Tender\n                          documents such relevant data in Employer’s possession on Geo technical data\n                          and sub-surface conditions. The accuracy or reliability of the data/studies/reports\n                          and of any other information supplied at any time by the Employer or Engineer is\n                               not warranted with respect to the viability of his Design and execution of Works\n                          and the Contractor shall be responsible for interpreting all such data any error,\n                               discrepancies. The Contractor shall conduct further investigations considered\n                            necessary by him at his own cost and any error, discrepancies  if found in\n                             Employer’s data at any stage will not constitute ground for any claim for extra time\n                          and costs.\n                         The Contractor shall not be relieved from any risk or obligation imposed on or\n                            undertaken by him under the Contract on any such ground or on the ground that\n                          he did not or could not foresee any matter which may affect or have affected the\n                              execution of the Works, or compliance with his other obligations under the\n                                Contract.\n\n                         The Contractor shall be deemed to have obtained all necessary information as to\n                                    risks, contingencies and other circumstances which may influence or affect the\n                           Tender or Works.\n\n                        The Contractor shall also be deemed to have inspected and examined the Site, its\n                              surroundings, the above data and other available information with respect to the\n                                       viability of his Design and execution of Works and to have satisfied himself before\n                               submitting the Tender, as to all the relevant matters including without limitation:\n\n                                            (a) the form and nature of the Site, including the sub-surface conditions;\n                                            (b) the hydrological and climatic conditions;\n                                              (c) the extent and nature of the work, Plant, and Materials necessary for\n                                           the execution and completion of the Works and the remedying of any\n                                             defects;\n                                            (d) the applicable laws, procedures and labour practices\n                                            (e) The Contractor’s requirement for access, accommodation, facilities,\n                                          personnel, power, transport and other services.\n                                                        (f)  the risk of injury or damage to property adjacent to the Site and to the\n                                         occupiers of such property or any other risk.\n\nSufficiency of    4.10       The Contractor shall be deemed to have satisfied himself as to the correctness\naccepted                  and sufficiency of the Contract Price. Unless otherwise stated in the Contract, the\nContract                     Contract Price shall cover all his obligations under the Contract and all things\nAmount                     necessary for the proper design, execution and completion of the Works, testing\n                          and commissioning and remedying of any defects."
 > }
 
-### J2b2f745124be1231
+### J1693150d9155007c
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 11 — Use of Explosives|Clause 11 — Use of Explosives]]
 

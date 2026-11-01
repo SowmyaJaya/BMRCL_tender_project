@@ -3,6 +3,7 @@ type: wiki_qa
 title: Schema Alignment and Amendment State Register
 status: draft
 updated_at: '2026-11-01T12:36:19+00:00'
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Amendment State Register
@@ -11,23 +12,23 @@ All entries are draft transcriptions. Superseded refers only to the stated field
 
 | Record | State/scope | Source wording | Evidence |
 |---|---|---|---|
-| corrigendum_1/nit_key_detail_10 | superseded date/time fields by C3; baseline notice retained | 09.10.2026 (From 10.00 AM) to 15.10.2026 (up to 3.00 PM) (IST) | [^amendment_register_1]; PDF page(s) 1; `J51c423559e058474` |
-| corrigendum_1/nit_key_detail_11 | superseded date/time fields by C3; baseline notice retained | 17.10.2026 at 11.30 AM (IST) | [^amendment_register_2]; PDF page(s) 1; `J4d688ca3a59e0867` |
-| corrigendum_1/nit_key_detail_12 | superseded date/time fields by C3; baseline notice retained | 23.10.2026 up to 18.00 Hrs (IST) | [^amendment_register_3]; PDF page(s) 1; `J694eb1f7c6c20642` |
-| corrigendum_1/nit_key_detail_5 | superseded date/time fields by C3; baseline notice retained | 09.09.2026 to 15.10.2026 (up to 3.00 PM (IST)) | [^amendment_register_4]; PDF page(s) 1; `J9631f301faa8967c` |
-| corrigendum_2/contract_data_price_variation | amended fields/added instruction; latest among supplied notices only | NOT APPLICABLE | [^amendment_register_5]; PDF page(s) 1; `J2cc37360d6e327cb` |
-| corrigendum_2/gcc_minor_value_item_variation | amended fields/added instruction; latest among supplied notices only | ["(i) Quantities operated upto and including 200% of the agreement quantity of the concerned minor value item, shall be paid at the rate awarded for that item as per accepted rate;", "(ii) Quantities operated in excess of 200% but upto 300% of the agreement quantity of the concerned minor value item, shall be paid at 98% of the rate awarded for that item as per accepted rate;", "(iii) Variation in quantities of individual minor value item beyond 300% shall be paid at 96% of the rate awarded for that item as per accepted rate."] | [^amendment_register_6]; PDF page(s) 1; `Jdbaceb05b8fa1555` |
-| corrigendum_2/added_scc_clause_4 | superseded historical GCC text for listed subclauses: 4.5 | Entire Sub-clause stands DELETED | [^amendment_register_7]; PDF page(s) 2; `J1dd8bce37ef510fc` |
-| corrigendum_2/added_scc_clause_5 | superseded historical GCC text for listed subclauses: 8.10 | Entire Sub-clause stands DELETED | [^amendment_register_8]; PDF page(s) 2; `Jfd41b6562ee997ba` |
-| corrigendum_2/added_scc_clause_6 | superseded historical GCC text for listed subclauses: 11.1.2, 11.1.2.1, 11.1.2.2, 11.1.2.3, 11.1.2.4 | Entire Sub-clauses stands DELETED | [^amendment_register_9]; PDF page(s) 2; `Jb6dbe6e9c034af69` |
-| corrigendum_2/added_scc_clause_7 | superseded historical GCC text for listed subclauses: 11.2.1 | Entire Sub-clause stands DELETED | [^amendment_register_10]; PDF page(s) 2; `J5d3bb44b86c8dbc6` |
-| corrigendum_2/added_scc_clause_8 | superseded historical GCC text for listed subclauses: 11.2.2 | Entire Sub-clause stands DELETED | [^amendment_register_11]; PDF page(s) 2; `Ja338361a10571a5c` |
-| corrigendum_2/added_scc_clause_10 | superseded historical GCC text for listed subclauses: 15.1 | Entire Sub clause stands DELETED | [^amendment_register_12]; PDF page(s) 3; `J432b23c1c3a0838e` |
-| corrigendum_2/added_scc_clause_9 | superseded historical GCC text for listed subclauses: 11.2.3 | Entire Sub clause stands DELETED | [^amendment_register_13]; PDF page(s) 3; `J5075223d6e496a2a` |
-| corrigendum_3/nit_key_detail_10 | amended fields/added instruction; latest among supplied notices only | 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST) | [^amendment_register_14]; PDF page(s) 1; `J4805b52601f511db` |
-| corrigendum_3/nit_key_detail_11 | amended fields/added instruction; latest among supplied notices only | 27.10.2026 at 11.30 AM (IST) | [^amendment_register_15]; PDF page(s) 1; `Ja47b3c8a3cc00974` |
-| corrigendum_3/nit_key_detail_12 | amended fields/added instruction; latest among supplied notices only | 31.10.2026 up to 18.00 Hrs (IST) | [^amendment_register_16]; PDF page(s) 1; `J9e0c4f73f95653c7` |
-| corrigendum_3/nit_key_detail_5 | amended fields/added instruction; latest among supplied notices only | 09.09.2026 to 23.10.2026 (up to 3.00 PM (IST)) | [^amendment_register_17]; PDF page(s) 1; `J8827536a17c54d1a` |
+| corrigendum_1/nit_key_detail_10 | superseded date/time fields by C3; baseline notice retained | 09.10.2026 (From 10.00 AM) to 15.10.2026 (up to 3.00 PM) (IST) | [^amendment_register_1]; PDF page(s) 1; `J6b36427c3b2760b1` |
+| corrigendum_1/nit_key_detail_11 | superseded date/time fields by C3; baseline notice retained | 17.10.2026 at 11.30 AM (IST) | [^amendment_register_2]; PDF page(s) 1; `J43cffd80e0a17b4e` |
+| corrigendum_1/nit_key_detail_12 | superseded date/time fields by C3; baseline notice retained | 23.10.2026 up to 18.00 Hrs (IST) | [^amendment_register_3]; PDF page(s) 1; `Jadc1b38fe5d638d9` |
+| corrigendum_1/nit_key_detail_5 | superseded date/time fields by C3; baseline notice retained | 09.09.2026 to 15.10.2026 (up to 3.00 PM (IST)) | [^amendment_register_4]; PDF page(s) 1; `J5c7b124982dd60e9` |
+| corrigendum_2/contract_data_price_variation | amended fields/added instruction; latest among supplied notices only | NOT APPLICABLE | [^amendment_register_5]; PDF page(s) 1; `J03d7bc25e8c4862c` |
+| corrigendum_2/gcc_minor_value_item_variation | amended fields/added instruction; latest among supplied notices only | ["(i) Quantities operated upto and including 200% of the agreement quantity of the concerned minor value item, shall be paid at the rate awarded for that item as per accepted rate;", "(ii) Quantities operated in excess of 200% but upto 300% of the agreement quantity of the concerned minor value item, shall be paid at 98% of the rate awarded for that item as per accepted rate;", "(iii) Variation in quantities of individual minor value item beyond 300% shall be paid at 96% of the rate awarded for that item as per accepted rate."] | [^amendment_register_6]; PDF page(s) 1; `J4e809387ba405ea9` |
+| corrigendum_2/added_scc_clause_4 | superseded historical GCC text for listed subclauses: 4.5 | Entire Sub-clause stands DELETED | [^amendment_register_7]; PDF page(s) 2; `J42ebc7a9caffaf7c` |
+| corrigendum_2/added_scc_clause_5 | superseded historical GCC text for listed subclauses: 8.10 | Entire Sub-clause stands DELETED | [^amendment_register_8]; PDF page(s) 2; `J830981895ce0b48b` |
+| corrigendum_2/added_scc_clause_6 | superseded historical GCC text for listed subclauses: 11.1.2, 11.1.2.1, 11.1.2.2, 11.1.2.3, 11.1.2.4 | Entire Sub-clauses stands DELETED | [^amendment_register_9]; PDF page(s) 2; `J9f1e91a67a75186a` |
+| corrigendum_2/added_scc_clause_7 | superseded historical GCC text for listed subclauses: 11.2.1 | Entire Sub-clause stands DELETED | [^amendment_register_10]; PDF page(s) 2; `Ja33aa367f0eabe79` |
+| corrigendum_2/added_scc_clause_8 | superseded historical GCC text for listed subclauses: 11.2.2 | Entire Sub-clause stands DELETED | [^amendment_register_11]; PDF page(s) 2; `J68b661210475bcab` |
+| corrigendum_2/added_scc_clause_10 | superseded historical GCC text for listed subclauses: 15.1 | Entire Sub clause stands DELETED | [^amendment_register_12]; PDF page(s) 3; `J472f04a0581e5138` |
+| corrigendum_2/added_scc_clause_9 | superseded historical GCC text for listed subclauses: 11.2.3 | Entire Sub clause stands DELETED | [^amendment_register_13]; PDF page(s) 3; `J1daf1ac7056acbc2` |
+| corrigendum_3/nit_key_detail_10 | amended fields/added instruction; latest among supplied notices only | 09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST) | [^amendment_register_14]; PDF page(s) 1; `J827a319dc3712125` |
+| corrigendum_3/nit_key_detail_11 | amended fields/added instruction; latest among supplied notices only | 27.10.2026 at 11.30 AM (IST) | [^amendment_register_15]; PDF page(s) 1; `J8f918d1afc408a15` |
+| corrigendum_3/nit_key_detail_12 | amended fields/added instruction; latest among supplied notices only | 31.10.2026 up to 18.00 Hrs (IST) | [^amendment_register_16]; PDF page(s) 1; `J0daa272fa51cc074` |
+| corrigendum_3/nit_key_detail_5 | amended fields/added instruction; latest among supplied notices only | 09.09.2026 to 23.10.2026 (up to 3.00 PM (IST)) | [^amendment_register_17]; PDF page(s) 1; `J01cf445b9bb9f862` |
 
 ## Source-scope and precedence boundary
 

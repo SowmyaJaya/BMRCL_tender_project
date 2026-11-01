@@ -6,260 +6,260 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-31T06:48:08+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-10-31T07:05:34+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /preamble_retained_lines/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /preamble/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /preamble_retained_lines/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/4
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/5
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/6
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/7
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/8
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/9
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/10
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/11
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/12
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/13
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/2
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/0
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/1
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/3
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/14
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /clauses/15
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/5
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/7
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/9
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/8
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/6
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/11
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/13
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/10
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/12
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/14
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/18
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-  okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+  okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/part_1_she_management/she_management_clauses.json
   json_sha256: b017881487993483cddcb5c17ffd7e2c6898a21f9463d8fab51b9e05d5e0a9df
   json_pointer: /source_page_context/22
   source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
 - okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-  okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+  okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
   source_document: Vol3DLNP1.pdf
   json_path: parsed_json/vol3/forms/she_committee_forms.json
   json_sha256: d4d64ab8440b97f6a9deeb0d9cd0b5995bfe88b324ae3231d2f53c8fcbc17a7e
@@ -270,21 +270,21 @@ claims:
   text: Volume 3 Part I establishes the Safety, Health and Environment (SHE) management framework, targets, definitions,
     and application scope for BMRCL Tender Package P1 contractors and subcontractors.
   evidence_ids:
-  - J0f2ae9bce694a0a5
-  - J5925d3206b626471
-  - J9ce1875fd5080be9
-  - Jb9bec555769a8b6b
-  - Je8dc261fe0d80ab0
-  - S563d15b10a82f3aa
+  - J89e4131252f66e20
+  - Jc6bc7d8421ef0ef4
+  - J2f564415d8ab2f21
+  - Jde330d8fa6968654
+  - Jf6f9d2e1b936bade
+  - Sd961f353daab78a9
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C60512cf44eb2d6cb
+  id: C396760a0708e40fc
   citations:
-  - id: J0f2ae9bce694a0a5
+  - id: J89e4131252f66e20
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 2.0 — ‘SHE’ Targets and Goals
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -340,9 +340,9 @@ claims:
       review_status\": \"pending_manual_review\",\n  \"title\": \"‘SHE’ Targets and Goals\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J5925d3206b626471
+  - id: Jc6bc7d8421ef0ef4
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -358,9 +358,9 @@ claims:
       \ MANAGEMENT\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J9ce1875fd5080be9
+  - id: J2f564415d8ab2f21
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -375,9 +375,9 @@ claims:
     quote: "{\n  \"pdf_page\": 8,\n  \"text\": \"PART – I: SHE MANAGEMENT\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jb9bec555769a8b6b
+  - id: Jde330d8fa6968654
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 1.0 — General
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -800,9 +800,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"General\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Je8dc261fe0d80ab0
+  - id: Jf6f9d2e1b936bade
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -817,9 +817,9 @@ claims:
     quote: "{\n  \"pdf_page\": 8,\n  \"source_line_number\": 4,\n  \"text\": \"\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: S563d15b10a82f3aa
+  - id: Sd961f353daab78a9
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     pdf_pages:
@@ -852,22 +852,37 @@ claims:
     page_precision: document_metadata_range
   created_at: '2026-10-31T06:48:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C60512cf44eb2d6cb
+    previous_evidence_ids:
+    - J0f2ae9bce694a0a5
+    - J5925d3206b626471
+    - J9ce1875fd5080be9
+    - Jb9bec555769a8b6b
+    - Je8dc261fe0d80ab0
+    - S563d15b10a82f3aa
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: SHE targets for the Works include achieving zero total recordable injuries, zero reportable environmental
     incidents, 100% personnel induction as per the approved SHE plan, total compliance with inspection/audit schedules,
     100% incident recording/reporting, 100% PPE adherence, and executing work with least disturbance to the environment,
     traffic, and road users.
   evidence_ids:
-  - J0f2ae9bce694a0a5
+  - J89e4131252f66e20
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C883fe244fa1939b9
+  id: C801c156eeb6c0e69
   citations:
-  - id: J0f2ae9bce694a0a5
+  - id: J89e4131252f66e20
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 2.0 — ‘SHE’ Targets and Goals
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -925,20 +940,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:48:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C883fe244fa1939b9
+    previous_evidence_ids:
+    - J0f2ae9bce694a0a5
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contractual definitions establish that 'shall' indicates a mandatory requirement, 'should' indicates a strongly
     recommended guideline, and 'may' indicates a guideline to be considered.
   evidence_ids:
-  - Jb9bec555769a8b6b
+  - Jde330d8fa6968654
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd8c09535aad26355
+  id: C9189c7965ba4bd65
   citations:
-  - id: Jb9bec555769a8b6b
+  - id: Jde330d8fa6968654
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 1.0 — General
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1363,20 +1388,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:48:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd8c09535aad26355
+    previous_evidence_ids:
+    - Jb9bec555769a8b6b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The SHE management requirements apply universally across all contractor scopes, subcontractors, and associated
     agencies with zero exemptions.
   evidence_ids:
-  - Jb9bec555769a8b6b
+  - Jde330d8fa6968654
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf9ae820e3ffd2a9e
+  id: C0c7a1ca16972052c
   citations:
-  - id: Jb9bec555769a8b6b
+  - id: Jde330d8fa6968654
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 1.0 — General
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -1801,21 +1836,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:48:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf9ae820e3ffd2a9e
+    previous_evidence_ids:
+    - Jb9bec555769a8b6b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part 1 establishes the Safety, Health and Environment (SHE) Management framework, policies, statutory
     compliance requirements, and targets for BMRCL Tender Package P1.
   evidence_ids:
-  - J0562abcc824c4f49
-  - J4dbf3d178da92201
+  - J6e268122a6c15b66
+  - J7502791d30e9933d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb31348cc0da713cb
+  id: C5fbcba3a1bf29afb
   citations:
-  - id: J0562abcc824c4f49
+  - id: J6e268122a6c15b66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 4.0 — Contractor SHE Policy and Plan
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2001,9 +2046,9 @@ claims:
       \ SHE Policy and Plan\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J4dbf3d178da92201
+  - id: J7502791d30e9933d
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 3.0 — Compliance
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2278,21 +2323,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:50:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb31348cc0da713cb
+    previous_evidence_ids:
+    - J0562abcc824c4f49
+    - J4dbf3d178da92201
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Contractor must formulate a SHE policy under Section 39 of the BOCW Act, get it approved by the DG,
     and display it conspicuously at work sites in Kannada, Hindi, and other languages understood by the majority
     of construction workers.
   evidence_ids:
-  - J0562abcc824c4f49
+  - J6e268122a6c15b66
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1246ab48ddf405cb
+  id: C6c7c634b9bde714c
   citations:
-  - id: J0562abcc824c4f49
+  - id: J6e268122a6c15b66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 4.0 — Contractor SHE Policy and Plan
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2480,21 +2536,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:50:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1246ab48ddf405cb
+    previous_evidence_ids:
+    - J0562abcc824c4f49
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Within 4 weeks of the notification of acceptance of the tender, the Contractor must submit a detailed, comprehensive,
     contract-specific SHE Plan covering organizational arrangements, hazard identification, training, PPE, emergency
     procedures, and subcontractor safety compliance.
   evidence_ids:
-  - J0562abcc824c4f49
+  - J6e268122a6c15b66
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5fb69c1ba3acfaba
+  id: Cd2af8936f4612806
   citations:
-  - id: J0562abcc824c4f49
+  - id: J6e268122a6c15b66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 4.0 — Contractor SHE Policy and Plan
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -2682,20 +2748,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:50:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5fb69c1ba3acfaba
+    previous_evidence_ids:
+    - J0562abcc824c4f49
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: If the Employer considers the SHE plan insufficient or requiring modification, the Contractor must submit
     a revised plan within 7 days of receiving instructions.
   evidence_ids:
-  - J0562abcc824c4f49
+  - J6e268122a6c15b66
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2f02f1e45c26017e
+  id: C0d326482db81c4d4
   citations:
-  - id: J0562abcc824c4f49
+  - id: J6e268122a6c15b66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 4.0 — Contractor SHE Policy and Plan
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -3715,22 +3791,31 @@ claims:
         heading_alignment: exact_number_match
       created_at: '2026-10-31T07:03:52+00:00'
       status: draft
+  - previous_claim_id: C2f02f1e45c26017e
+    previous_evidence_ids:
+    - J0562abcc824c4f49
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T11:49:40+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Contractor must execute an MOU regarding SHE practices (Appendix 1) after award and before work commencement,
     adhere to BMRCL's SHE Policy, comply with primary statutory regulations like the BOCW Act 1996 and Central Rules
     1998, and aim for OHSAS 18001-1999 and ISO 14001-2004 certifications.
   evidence_ids:
-  - J4dbf3d178da92201
+  - J7502791d30e9933d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce0f270c8f037a30c
+  id: C6619ab91f93499eb
   citations:
-  - id: J4dbf3d178da92201
+  - id: J7502791d30e9933d
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 3.0 — Compliance
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4005,22 +4090,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:50:16+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce0f270c8f037a30c
+    previous_evidence_ids:
+    - J4dbf3d178da92201
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part I of the Safety, Health and Environment (SHE) Manual sets out the management framework, designer
     responsibilities, risk control hierarchies, and contractor organization requirements for BMRCL Tender Package
     P1.
   evidence_ids:
-  - J18d9d6b025a34658
-  - J6adabb174d1916a1
+  - Jf8809a71af85b566
+  - J9b89915bf84b73ea
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ccec6c901ebd71d14
+  id: C0ad4cb63c3b46be0
   citations:
-  - id: J18d9d6b025a34658
+  - id: Jf8809a71af85b566
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 5.0 — Designer’s role
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4231,9 +4326,9 @@ claims:
       ,\n  \"title\": \"Designer’s role\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J6adabb174d1916a1
+  - id: J9b89915bf84b73ea
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 6.0 — Contractor SHE Organisation
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4452,21 +4547,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:51:24+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ccec6c901ebd71d14
+    previous_evidence_ids:
+    - J18d9d6b025a34658
+    - J6adabb174d1916a1
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Designers must minimize health and safety risks for constructors, maintainers, cleaners, repairers, dismantlers,
     demolishers, and the general public by applying a hierarchy of risk control starting with hazard prevention,
     combating at source, collective protection, and personal protective equipment as a last resort.
   evidence_ids:
-  - J18d9d6b025a34658
+  - Jf8809a71af85b566
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cf449294a41309c71
+  id: Ca95c2be87d3087f6
   citations:
-  - id: J18d9d6b025a34658
+  - id: Jf8809a71af85b566
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 5.0 — Designer’s role
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4679,21 +4785,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:51:24+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cf449294a41309c71
+    previous_evidence_ids:
+    - J18d9d6b025a34658
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: All structures such as scaffolds, falsework, launching girders, and earth retaining structures must include
     design calculations in method statements and be approved by the Employer's designer or approved proof check
     consultants.
   evidence_ids:
-  - J18d9d6b025a34658
+  - Jf8809a71af85b566
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5674229b45e73283
+  id: C0001358b56f26ffd
   citations:
-  - id: J18d9d6b025a34658
+  - id: Jf8809a71af85b566
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 5.0 — Designer’s role
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -4906,20 +5022,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:51:24+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5674229b45e73283
+    previous_evidence_ids:
+    - J18d9d6b025a34658
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Non-standard structures like rebar trestles, very old, corroded, or repeatedly repaired structures lacking
     accurate national standard design calculations are strictly prohibited from site use even for short durations.
   evidence_ids:
-  - J18d9d6b025a34658
+  - Jf8809a71af85b566
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ccf93f82a46eced81
+  id: C679f90304c6348a1
   citations:
-  - id: J18d9d6b025a34658
+  - id: Jf8809a71af85b566
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 5.0 — Designer’s role
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5132,21 +5258,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:51:24+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ccf93f82a46eced81
+    previous_evidence_ids:
+    - J18d9d6b025a34658
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The main contractor bears sole responsibility for providing required SHE personnel across all works executed
     by the main contractor and all sub-contractors, and all SHE manpower must be on the direct payroll of the main
     contractor.
   evidence_ids:
-  - J6adabb174d1916a1
+  - J9b89915bf84b73ea
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4b5596d9beae3cdd
+  id: C9f80665392392dfb
   citations:
-  - id: J6adabb174d1916a1
+  - id: J9b89915bf84b73ea
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 6.0 — Contractor SHE Organisation
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5365,21 +5501,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:51:24+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4b5596d9beae3cdd
+    previous_evidence_ids:
+    - J6adabb174d1916a1
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: If the contractor fails to provide minimum required SHE manpower or fails to fill vacancies within 14 days,
     the Employer shall provide them at the contractor's cost including administrative expenses like paper advertisements
     and manpower consultant charges.
   evidence_ids:
-  - J6adabb174d1916a1
+  - J9b89915bf84b73ea
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cffd2acc3661a4e63
+  id: C93f233c1b22360bc
   citations:
-  - id: J6adabb174d1916a1
+  - id: J9b89915bf84b73ea
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 6.0 — Contractor SHE Organisation
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5598,21 +5744,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:51:24+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cffd2acc3661a4e63
+    previous_evidence_ids:
+    - J6adabb174d1916a1
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor must establish and maintain a site Safety, Health and Environment (SHE) Committee within
     14 days of award of contract, communicating the notification via Form SF 001, and conduct monthly site SHE committee
     meetings chaired by the Project Manager with specified minimum members.
   evidence_ids:
-  - J09eb38685b1042c6
+  - J9eeb4ca708ebff86
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Caec0e877f3c53eef
+  id: Caa629ce33a8661b6
   citations:
-  - id: J09eb38685b1042c6
+  - id: J9eeb4ca708ebff86
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 7.0 — Contractor SHE Committee
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -5943,20 +6099,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:52:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Caec0e877f3c53eef
+    previous_evidence_ids:
+    - J09eb38685b1042c6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Monthly SHE committee meetings require a minimum period of 21 days between any two meetings, and meeting
     agendas must be circulated by the secretary at least 7 working days in advance.
   evidence_ids:
-  - J09eb38685b1042c6
+  - J9eeb4ca708ebff86
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd6a37137d9e6b9e5
+  id: Cb15e21f04d8b1e26
   citations:
-  - id: J09eb38685b1042c6
+  - id: J9eeb4ca708ebff86
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 7.0 — Contractor SHE Committee
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6287,20 +6453,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:52:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd6a37137d9e6b9e5
+    previous_evidence_ids:
+    - J09eb38685b1042c6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Construction SHE committee meetings must be conducted at least once a week, and meeting minutes must be
     prepared using Form SF-002 and sent to all members within 2 working days.
   evidence_ids:
-  - J09eb38685b1042c6
+  - J9eeb4ca708ebff86
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2a62331f615bc61d
+  id: C76a4780ca73e6a9e
   citations:
-  - id: J09eb38685b1042c6
+  - id: J9eeb4ca708ebff86
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 7.0 — Contractor SHE Committee
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6631,21 +6807,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:52:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2a62331f615bc61d
+    previous_evidence_ids:
+    - J09eb38685b1042c6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor must ensure that all site personnel receive induction SHE training covering work nature,
     site hazards, and function-specific risks in accordance with General Instruction BMRC/SHE/CEO/004, and issue
     photo identity cards sized 85mm x 55mm as per BMRC/SHE/CEO/005 before engaging personnel.
   evidence_ids:
-  - Jf156ec29e25a1049
+  - J766ce0d79cb7e9e8
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C89d2e2133dbde75b
+  id: C81b10a7ec8283064
   citations:
-  - id: Jf156ec29e25a1049
+  - id: J766ce0d79cb7e9e8
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 8.0 — ID Card and First day at work, SHE orientation training
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6714,21 +6900,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:52:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C89d2e2133dbde75b
+    previous_evidence_ids:
+    - Jf156ec29e25a1049
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor must organize quality SHE training, behavioural-based training programs for executives, daily
     safety oaths for all employees and workmen, daily toolbox talks for high-risk workers, and refresher training
     every six months.
   evidence_ids:
-  - J1a6ea055d5764782
+  - J2d04a99a5037ea3a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C699ffdb70e878cf5
+  id: C7634b236fcc6376e
   citations:
-  - id: J1a6ea055d5764782
+  - id: J2d04a99a5037ea3a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 9.0 — SHE Training
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -6894,20 +7090,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:52:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C699ffdb70e878cf5
+    previous_evidence_ids:
+    - J1a6ea055d5764782
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: All vehicle drivers and heavy vehicle operators must be trained on defensive driving at the Central Training
     Institute KSRTC, Shanthinagar, Bangalore, or another registered motor vehicles act driving institute.
   evidence_ids:
-  - J1a6ea055d5764782
+  - J2d04a99a5037ea3a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C50c584105f6675ea
+  id: Cc61ee6f33c088747
   citations:
-  - id: J1a6ea055d5764782
+  - id: J2d04a99a5037ea3a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 9.0 — SHE Training
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7073,20 +7279,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:52:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C50c584105f6675ea
+    previous_evidence_ids:
+    - J1a6ea055d5764782
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The contractor must evolve and administer a comprehensive SHE inspection and risk management system, categorized
     into planned general, routine, specific, and other inspections.
   evidence_ids:
-  - J583ea0722db5bc0b
+  - J146a1bdce2491605
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce6c9e3825effc408
+  id: C18e84fe8f53addef
   citations:
-  - id: J583ea0722db5bc0b
+  - id: J146a1bdce2491605
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 10.0 — SHE Inspection
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7300,20 +7516,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:54:11+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce6c9e3825effc408
+    previous_evidence_ids:
+    - J583ea0722db5bc0b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Planned general inspections include monthly site safety committee inspections, weekly safety inspections
     by construction supervisors, and daily safety inspections by the contractor site SHE team.
   evidence_ids:
-  - J583ea0722db5bc0b
+  - J146a1bdce2491605
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cebc4e10aea990871
+  id: C8ebe08dfc54f613d
   citations:
-  - id: J583ea0722db5bc0b
+  - id: J146a1bdce2491605
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 10.0 — SHE Inspection
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7527,21 +7753,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:54:11+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cebc4e10aea990871
+    previous_evidence_ids:
+    - J583ea0722db5bc0b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Routine inspections cover daily plant/equipment checks by operators, weekly scaffold inspections, monthly
     electrical hand tool checks, quarterly temporary electrical system checks, and half-yearly lifting machinery
     inspections by approved competent persons.
   evidence_ids:
-  - J583ea0722db5bc0b
+  - J146a1bdce2491605
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4f7571c723f8cff5
+  id: C9631b81d34aa024b
   citations:
-  - id: J583ea0722db5bc0b
+  - id: J146a1bdce2491605
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 10.0 — SHE Inspection
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7755,20 +7991,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:54:11+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4f7571c723f8cff5
+    previous_evidence_ids:
+    - J583ea0722db5bc0b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Specific inspections must be performed without predetermined dates on high-risk activities such as heavy
     lifting, confined space entry, welding/gas cutting, and formwork concreting.
   evidence_ids:
-  - J583ea0722db5bc0b
+  - J146a1bdce2491605
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C230038d3d7416732
+  id: Ce45bad6983bbd70d
   citations:
-  - id: J583ea0722db5bc0b
+  - id: J146a1bdce2491605
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 10.0 — SHE Inspection
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -7982,20 +8228,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:54:11+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C230038d3d7416732
+    previous_evidence_ids:
+    - J583ea0722db5bc0b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: All inspection records and reports must be properly kept and filed for audit purposes, with planned general
     and routine inspection reports utilized during safety committee meetings.
   evidence_ids:
-  - J583ea0722db5bc0b
+  - J146a1bdce2491605
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd868d37947064b1a
+  id: C554be1e06da620b1
   citations:
-  - id: J583ea0722db5bc0b
+  - id: J146a1bdce2491605
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 10.0 — SHE Inspection
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8209,21 +8465,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:54:11+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd868d37947064b1a
+    previous_evidence_ids:
+    - J583ea0722db5bc0b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Vol 3 Part 1 Clause 11.0 establishes comprehensive SHE audit requirements including monthly audit rating
     scores (MARS), monthly electrical safety audits, and quarterly external SHE audits conducted by ISO-qualified
     independent agencies.
   evidence_ids:
-  - J54fb72d54b0d4203
+  - Ja911fab00f3bad38
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbf76b5a54fdbaa63
+  id: Cdf85adec5c00b36f
   citations:
-  - id: J54fb72d54b0d4203
+  - id: Ja911fab00f3bad38
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 11.0 — SHE Audit
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -8747,21 +9013,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:55:46+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbf76b5a54fdbaa63
+    previous_evidence_ids:
+    - J54fb72d54b0d4203
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Monthly Audit Rating Score (MARS) is weighed on a 1-10 scale and conducted at least 7 days prior to the
     scheduled Monthly SHE Committee meeting, classifying scores under 60% as immediate rectification within 24 hours,
     under 75% as rectification within 7 days, and under 90% as rectification within one month.
   evidence_ids:
-  - J54fb72d54b0d4203
+  - Ja911fab00f3bad38
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ceababce2f653a19c
+  id: C6fdc989a98af889e
   citations:
-  - id: J54fb72d54b0d4203
+  - id: Ja911fab00f3bad38
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 11.0 — SHE Audit
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9285,21 +9561,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:55:46+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ceababce2f653a19c
+    previous_evidence_ids:
+    - J54fb72d54b0d4203
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: External SHE audits are conducted quarterly throughout the currency of the contract, with audit reports
     sent to the Employer within 7 days, and conformity inspections scheduled after 14 days for Priority 1 items
     and 28 days for Priority 2 items.
   evidence_ids:
-  - J54fb72d54b0d4203
+  - Ja911fab00f3bad38
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbbfac4678fbd19fc
+  id: C641c0ceacec79094
   citations:
-  - id: J54fb72d54b0d4203
+  - id: Ja911fab00f3bad38
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 11.0 — SHE Audit
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9823,21 +10109,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:55:46+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbbfac4678fbd19fc
+    previous_evidence_ids:
+    - J54fb72d54b0d4203
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Vol 3 Part 1 Clause 12.0 mandates robust SHE communication through posters, billboards, banners, and glow
     signs in Hindi, English, and other suitable languages, requiring monthly rotation of displayed materials and
     observation of important days specified in General Instructions BMRC/SHE/CEO/008 and BMRC/SHE/CEO/009.
   evidence_ids:
-  - Jeb8081dba474675f
+  - J70b912d6881486c1
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C5d2901c40b33a473
+  id: C6b025ccf7a8fe320
   citations:
-  - id: Jeb8081dba474675f
+  - id: J70b912d6881486c1
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 12.0 — SHE Communication
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -9897,21 +10193,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:55:46+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C5d2901c40b33a473
+    previous_evidence_ids:
+    - Jeb8081dba474675f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part 1 of the SHE Manual governs Safety, Health and Environment (SHE) Management for BMRCL Tender
     Package P1, detailing mandatory submittals, reports, and incident reporting procedures.
   evidence_ids:
-  - J18c97608213f0958
-  - Jdfb67b661885be1f
+  - J8edcd48c6ac2acdf
+  - J226b324d4a855c2e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C378cff1b4ce472aa
+  id: C2228e242be6ccf7c
   citations:
-  - id: J18c97608213f0958
+  - id: J8edcd48c6ac2acdf
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 13.0 — SHE Submittals to the Employer
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10071,9 +10377,9 @@ claims:
       \ Employer\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jdfb67b661885be1f
+  - id: J226b324d4a855c2e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 14.0 — Accident reporting and investigation
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10446,21 +10752,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:57:12+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C378cff1b4ce472aa
+    previous_evidence_ids:
+    - J18c97608213f0958
+    - Jdfb67b661885be1f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The contractor must submit daily reports of the total number of workmen engaged by all entities (including
     subcontractors) within 2 hours of starting any shift through tele-fax or email, under the primary duty of the
     Chief SHE Manager.
   evidence_ids:
-  - J18c97608213f0958
+  - J8edcd48c6ac2acdf
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc9393d7f0099091e
+  id: C3fd2ceaca8519b20
   citations:
-  - id: J18c97608213f0958
+  - id: J8edcd48c6ac2acdf
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 13.0 — SHE Submittals to the Employer
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10622,20 +10939,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:57:12+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc9393d7f0099091e
+    previous_evidence_ids:
+    - J18c97608213f0958
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Monthly SHE reports containing 18 specified categories (including man-hours, accident details, training,
     audits, and PPE status) must be prepared and submitted in 3 copies within the 7th of the next month to the Employer.
   evidence_ids:
-  - J18c97608213f0958
+  - J8edcd48c6ac2acdf
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C68dc4578030f6c7d
+  id: Cd6bce6663c7f2088
   citations:
-  - id: J18c97608213f0958
+  - id: J8edcd48c6ac2acdf
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 13.0 — SHE Submittals to the Employer
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -10797,20 +11124,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:57:12+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C68dc4578030f6c7d
+    previous_evidence_ids:
+    - J18c97608213f0958
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: All accidents and dangerous occurrences must be informed verbally immediately to the Employer, followed
     by written reports within 24 hours in the specified format.
   evidence_ids:
-  - Jdfb67b661885be1f
+  - J226b324d4a855c2e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb0e3eca8eb14a2c5
+  id: Cbd7cd94c6dfc5ac8
   citations:
-  - id: Jdfb67b661885be1f
+  - id: J226b324d4a855c2e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 14.0 — Accident reporting and investigation
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11183,21 +11520,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:57:12+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb0e3eca8eb14a2c5
+    previous_evidence_ids:
+    - Jdfb67b661885be1f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Statutory accident reporting under Rule 210 of BOCWR requires notice within 4 hours for fatal accidents
     and 72 hours for other reportable accidents sent to the Regional Labour Commissioner, beneficiary board, Director
     General, and next of kin.
   evidence_ids:
-  - Jdfb67b661885be1f
+  - J226b324d4a855c2e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb25de4fcd8136607
+  id: C6f9815358135b5d1
   citations:
-  - id: Jdfb67b661885be1f
+  - id: J226b324d4a855c2e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 14.0 — Accident reporting and investigation
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11570,24 +11917,34 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:57:12+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb25de4fcd8136607
+    previous_evidence_ids:
+    - Jdfb67b661885be1f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part 1 of the Safety, Health and Environment (SHE) Manual establishes the overarching SHE management
     framework, mandatory statutory standards, targets, committee structures, and emergency preparedness requirements
     for BMRCL Tender Package P1.
   evidence_ids:
-  - J1fceb652fdb14450
-  - J29bce71f1d431a9e
-  - J47be167cce08117f
-  - Je8c72bdc8ab5695e
+  - Ja827df672cedbb7e
+  - J3e9baf89f38f9d24
+  - Jd8b8f8ab48417845
+  - J4837de2a737e90d7
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C16d425125b058b18
+  id: Ce3fa1c1f5eae9295
   citations:
-  - id: J1fceb652fdb14450
+  - id: Ja827df672cedbb7e
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11682,9 +12039,9 @@ claims:
       : 10,\n      \"text\": \"194\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J29bce71f1d431a9e
+  - id: J3e9baf89f38f9d24
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11792,9 +12149,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J47be167cce08117f
+  - id: Jd8b8f8ab48417845
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11849,9 +12206,9 @@ claims:
       : \"193\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Je8c72bdc8ab5695e
+  - id: J4837de2a737e90d7
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -11959,20 +12316,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:58:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C16d425125b058b18
+    previous_evidence_ids:
+    - J1fceb652fdb14450
+    - J29bce71f1d431a9e
+    - J47be167cce08117f
+    - Je8c72bdc8ab5695e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contractors must formulate a SHE policy approved by the DG under Section 39 of the BOCW Act and display
     it prominently at worksites in Kannada, Hindi, and other languages understood by the majority of workers.
   evidence_ids:
-  - J0562abcc824c4f49
+  - J6e268122a6c15b66
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8d2af0d1bb21cbe4
+  id: C8e89b0b4db95913c
   citations:
-  - id: J0562abcc824c4f49
+  - id: J6e268122a6c15b66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 4.0 — Contractor SHE Policy and Plan
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12160,21 +12530,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:58:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8d2af0d1bb21cbe4
+    previous_evidence_ids:
+    - J0562abcc824c4f49
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Within 4 weeks of the notification of acceptance of the tender, the Contractor must submit a detailed, contract-specific
     SHE Plan covering organization, hazard identification, training, PPE, equipment maintenance, subcontractor compliance,
     disciplinary procedures, and accident reporting.
   evidence_ids:
-  - J0562abcc824c4f49
+  - J6e268122a6c15b66
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C31527255152122d0
+  id: C629df314e6564e5d
   citations:
-  - id: J0562abcc824c4f49
+  - id: J6e268122a6c15b66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 4.0 — Contractor SHE Policy and Plan
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12362,21 +12742,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:58:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C31527255152122d0
+    previous_evidence_ids:
+    - J0562abcc824c4f49
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Contractor must establish a site SHE Committee within 14 days of award of contract and communicate the
     notification via Form SF 001, conducting monthly meetings chaired by the Project Manager with a minimum of 21
     days between consecutive monthly meetings.
   evidence_ids:
-  - J09eb38685b1042c6
+  - J9eeb4ca708ebff86
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8ae15fe942431349
+  id: C2a05d4490b592523
   citations:
-  - id: J09eb38685b1042c6
+  - id: J9eeb4ca708ebff86
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 7.0 — Contractor SHE Committee
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -12707,20 +13097,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:58:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8ae15fe942431349
+    previous_evidence_ids:
+    - J09eb38685b1042c6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Construction SHE Committee meetings must be conducted at least once a week, and meeting agendas must be
     circulated by the Secretary at least seven working days in advance.
   evidence_ids:
-  - J09eb38685b1042c6
+  - J9eeb4ca708ebff86
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9e402cccc1b76a2c
+  id: C0f087bf9deec627e
   citations:
-  - id: J09eb38685b1042c6
+  - id: J9eeb4ca708ebff86
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 7.0 — Contractor SHE Committee
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13051,20 +13451,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:58:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9e402cccc1b76a2c
+    previous_evidence_ids:
+    - J09eb38685b1042c6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Minutes of the SHE committee meeting must be prepared using Form SF 002 and sent to all members within 2
     working days, preferably by mail or fax followed by a hardcopy, and displayed on notice boards.
   evidence_ids:
-  - J09eb38685b1042c6
+  - J9eeb4ca708ebff86
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C17d6485739f35e75
+  id: Ca782abacfdc70ad5
   citations:
-  - id: J09eb38685b1042c6
+  - id: J9eeb4ca708ebff86
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 7.0 — Contractor SHE Committee
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13395,21 +13805,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:58:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C17d6485739f35e75
+    previous_evidence_ids:
+    - J09eb38685b1042c6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contractors must prepare an Emergency Response Plan under Rule 36 of BOCWR as part of the Contractor SHE
     Plan, integrate subcontractor emergency plans, conduct monthly onsite emergency mock drills, tie up with neighborhood
     hospitals and fire stations, and keep emergency vehicles on standby.
   evidence_ids:
-  - Jd086a6e3c99b9c3f
+  - Je1056d4f95bb7c6f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C16820ee0d4c5a3eb
+  id: Cc7241ac24e2e33bf
   citations:
-  - id: Jd086a6e3c99b9c3f
+  - id: Je1056d4f95bb7c6f
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 15.0 — Emergency preparedness plan
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13523,21 +13943,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:58:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C16820ee0d4c5a3eb
+    previous_evidence_ids:
+    - Jd086a6e3c99b9c3f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Contractors may utilize services of experts and agencies empanelled under Rule 250 of BOCWR or listed in
     General Instruction BMRC/SHE/CEO/010 for training, internal audit, and SHE services, subject to prior mandatory
     approval by the Employer.
   evidence_ids:
-  - J995122bfc56f4777
+  - Jd9fbeda14a931cb7
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C9d0da6e53e14a792
+  id: C75fc3063fb417abe
   citations:
-  - id: J995122bfc56f4777
+  - id: Jd9fbeda14a931cb7
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 16.0 — Experts / Agencies for SHE services
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13587,25 +14017,35 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:58:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C9d0da6e53e14a792
+    previous_evidence_ids:
+    - J995122bfc56f4777
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part 1 of the Safety, Health and Environment (SHE) Manual establishes statutory and international
     management obligations, targets, designer responsibilities, risk hierarchies, organizational structures, and
     committee mandates for BMRCL Tender Package P1.
   evidence_ids:
-  - J071c7e8dded8888d
-  - J164219c6180bba1c
-  - J56d6bfd1dd38645b
-  - J9adefab58d5bd52a
-  - Jddc9c179b183ffe3
+  - J4de43a8d7c16a7c5
+  - Jb9e46b4aa31bbb3d
+  - J24927d393ae56edd
+  - Jde580c9545e2869c
+  - Ja0fd942c8ef785e3
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ca3d2e8a52f654567
+  id: C60892cc3e275ab69
   citations:
-  - id: J071c7e8dded8888d
+  - id: J4de43a8d7c16a7c5
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13710,9 +14150,9 @@ claims:
       : 7,\n      \"text\": \"197\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J164219c6180bba1c
+  - id: Jb9e46b4aa31bbb3d
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13836,9 +14276,9 @@ claims:
       \      ],\n      \"block_number\": 9,\n      \"text\": \"199\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J56d6bfd1dd38645b
+  - id: J24927d393ae56edd
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -13936,9 +14376,9 @@ claims:
       \      ],\n      \"block_number\": 7,\n      \"text\": \"201\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J9adefab58d5bd52a
+  - id: Jde580c9545e2869c
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -14030,9 +14470,9 @@ claims:
       \      ],\n      \"block_number\": 4,\n      \"text\": \"200\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jddc9c179b183ffe3
+  - id: Ja0fd942c8ef785e3
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -14150,21 +14590,35 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:00:01+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ca3d2e8a52f654567
+    previous_evidence_ids:
+    - J071c7e8dded8888d
+    - J164219c6180bba1c
+    - J56d6bfd1dd38645b
+    - J9adefab58d5bd52a
+    - Jddc9c179b183ffe3
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The SHE targets and goals for Tender Package P1 include zero total recordable injuries, zero reportable
     environmental incidents, 100% personnel induction as per approved SHE plans, 100% audit compliance, 100% incident
     reporting, 100% appropriate PPE adherence, and execution with least environmental and traffic disturbance.
   evidence_ids:
-  - J0f2ae9bce694a0a5
+  - J89e4131252f66e20
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4861d09713ad64e6
+  id: C583cf79e9de55ac2
   citations:
-  - id: J0f2ae9bce694a0a5
+  - id: J89e4131252f66e20
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 2.0 — ‘SHE’ Targets and Goals
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -14222,21 +14676,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:00:01+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4861d09713ad64e6
+    previous_evidence_ids:
+    - J0f2ae9bce694a0a5
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Contractor must submit a detailed contract-specific SHE plan within 4 weeks of receiving the notification
     of acceptance of the tender, and must revise and submit the plan within 7 days if instructed by the Employer.
   evidence_ids:
-  - J0562abcc824c4f49
-  - Jddc9c179b183ffe3
+  - J6e268122a6c15b66
+  - Ja0fd942c8ef785e3
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C033196f4465ccffd
+  id: C19aa5d1a0d1cbf2f
   citations:
-  - id: J0562abcc824c4f49
+  - id: J6e268122a6c15b66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 4.0 — Contractor SHE Policy and Plan
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -14422,9 +14886,9 @@ claims:
       \ SHE Policy and Plan\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jddc9c179b183ffe3
+  - id: Ja0fd942c8ef785e3
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -14542,21 +15006,32 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:00:01+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C033196f4465ccffd
+    previous_evidence_ids:
+    - J0562abcc824c4f49
+    - Jddc9c179b183ffe3
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'Designers must minimize risks to constructors, maintainers, cleaners, repairers, dismantlers, demolishers,
     and the public by applying a hierarchy of risk control: preventing hazards at design, combating at source, collective
     protection measures, and using personal protection only as a last resort.'
   evidence_ids:
-  - J164219c6180bba1c
+  - Jb9e46b4aa31bbb3d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc36d4cdc407a016d
+  id: C6e79fdfa9c6a8766
   citations:
-  - id: J164219c6180bba1c
+  - id: Jb9e46b4aa31bbb3d
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -14682,20 +15157,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:00:01+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc36d4cdc407a016d
+    previous_evidence_ids:
+    - J164219c6180bba1c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: All SHE personnel must be on the direct payroll of the main contractor rather than subcontractors or outsourcing
     agencies, with the sole exception of daily-requirement personnel such as traffic marshals.
   evidence_ids:
-  - J56d6bfd1dd38645b
+  - J24927d393ae56edd
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C583eb5a9c27f2325
+  id: Ce09a50648a349c45
   citations:
-  - id: J56d6bfd1dd38645b
+  - id: J24927d393ae56edd
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -14795,26 +15280,36 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:00:01+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C583eb5a9c27f2325
+    previous_evidence_ids:
+    - J56d6bfd1dd38645b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part 1 of the Safety, Health and Environment (SHE) Manual establishes the comprehensive management
     framework, contractor policy and plan submission timelines, site committee meetings, inspection schedules, and
     monthly audit rating scores for BMRCL Tender Package P1.
   evidence_ids:
-  - J0562abcc824c4f49
-  - J2dd5e51ae6ff474c
-  - J8548b68993a39b18
-  - J96b5ab8e02993ca1
-  - Jabc863ad75cedefb
-  - Jd37f748901fe9872
+  - J6e268122a6c15b66
+  - J1529db7f21b890ef
+  - J4d5ab1b4374dae25
+  - J5e54b356035ab68b
+  - Jfc32cfa5329ced2d
+  - J5c7c6ab80940eb2a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C0c80f3ae211d322a
+  id: C8792deee0af4d30f
   citations:
-  - id: J0562abcc824c4f49
+  - id: J6e268122a6c15b66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 4.0 — Contractor SHE Policy and Plan
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15000,9 +15495,9 @@ claims:
       \ SHE Policy and Plan\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J2dd5e51ae6ff474c
+  - id: J1529db7f21b890ef
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15098,9 +15593,9 @@ claims:
       : 8,\n      \"text\": \"203\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J8548b68993a39b18
+  - id: J4d5ab1b4374dae25
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15193,9 +15688,9 @@ claims:
       \      ],\n      \"block_number\": 4,\n      \"text\": \"205\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J96b5ab8e02993ca1
+  - id: J5e54b356035ab68b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15308,9 +15803,9 @@ claims:
       \      ],\n      \"block_number\": 12,\n      \"text\": \"202\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jabc863ad75cedefb
+  - id: Jfc32cfa5329ced2d
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15402,9 +15897,9 @@ claims:
       \      ],\n      \"block_number\": 5,\n      \"text\": \"204\\n\"\n    }\n  ]\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jd37f748901fe9872
+  - id: J5c7c6ab80940eb2a
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15516,20 +16011,35 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:01:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C0c80f3ae211d322a
+    previous_evidence_ids:
+    - J0562abcc824c4f49
+    - J2dd5e51ae6ff474c
+    - J8548b68993a39b18
+    - J96b5ab8e02993ca1
+    - Jabc863ad75cedefb
+    - Jd37f748901fe9872
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Contractor must submit a detailed and comprehensive contract-specific SHE Plan within 4 weeks of the
     notification of acceptance of the tender.
   evidence_ids:
-  - J0562abcc824c4f49
+  - J6e268122a6c15b66
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C32bdb2e86f5f4cbc
+  id: C4632d531facdd40f
   citations:
-  - id: J0562abcc824c4f49
+  - id: J6e268122a6c15b66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 4.0 — Contractor SHE Policy and Plan
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15717,20 +16227,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T07:01:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C32bdb2e86f5f4cbc
+    previous_evidence_ids:
+    - J0562abcc824c4f49
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The contractor and sub-contractors site safety committee must be constituted within 14 days of the award
     of contract and communicate notification via Form SF 001.
   evidence_ids:
-  - J96b5ab8e02993ca1
+  - J5e54b356035ab68b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C93fcc85b0bb2e43a
+  id: C73e589e9603f1c3c
   citations:
-  - id: J96b5ab8e02993ca1
+  - id: J5e54b356035ab68b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15845,20 +16365,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:01:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C93fcc85b0bb2e43a
+    previous_evidence_ids:
+    - J96b5ab8e02993ca1
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Site SHE Committee meetings must be conducted at least once a month, while Construction SHE Committee meetings
     must be conducted at least once a week.
   evidence_ids:
-  - J96b5ab8e02993ca1
+  - J5e54b356035ab68b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C12b28e6b0f5d25c5
+  id: C4da25060447e3b2c
   citations:
-  - id: J96b5ab8e02993ca1
+  - id: J5e54b356035ab68b
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -15973,20 +16503,30 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:01:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C12b28e6b0f5d25c5
+    previous_evidence_ids:
+    - J96b5ab8e02993ca1
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: A minimum period of 21 days must be maintained between any two monthly SHE committee meetings, and meeting
     agendas must be circulated at least seven working days in advance.
   evidence_ids:
-  - J2dd5e51ae6ff474c
+  - J1529db7f21b890ef
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cbdfd737cb1e7f80d
+  id: C80b68163d4161bf4
   citations:
-  - id: J2dd5e51ae6ff474c
+  - id: J1529db7f21b890ef
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -16084,21 +16624,31 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:01:29+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cbdfd737cb1e7f80d
+    previous_evidence_ids:
+    - J2dd5e51ae6ff474c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part 1 establishes comprehensive provisions for contractor SHE policy, audit oversight, compliance
     reporting, and statutory accident notification under BMRCL Tender Package P1.
   evidence_ids:
-  - J0562abcc824c4f49
-  - J2d4de675fc0a4287
+  - J6e268122a6c15b66
+  - Jc031800b9641a2e5
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8f0958a96925ac2f
+  id: C6b51b3e1878ca9b4
   citations:
-  - id: J0562abcc824c4f49
+  - id: J6e268122a6c15b66
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 4.0 — Contractor SHE Policy and Plan
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -16284,9 +16834,9 @@ claims:
       \ SHE Policy and Plan\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J2d4de675fc0a4287
+  - id: Jc031800b9641a2e5
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -16375,22 +16925,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:03:52+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8f0958a96925ac2f
+    previous_evidence_ids:
+    - J0562abcc824c4f49
+    - J2d4de675fc0a4287
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: Volume 3 Part 1 of the SHE Manual establishes emergency preparedness obligations, requiring contractors
     to formulate an Emergency Response Plan under Rule 36 of BOCWR, conduct monthly on-site emergency mock drills,
     maintain tie-ups with neighborhood hospitals and fire stations, and immediately report emergencies to local
     authorities and BMRC.
   evidence_ids:
-  - Jf589071dc616fe7f
+  - Ja2df33b047bc41f9
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb3e4738842df5d7c
+  id: C25408c3c4a08b64f
   citations:
-  - id: Jf589071dc616fe7f
+  - id: Ja2df33b047bc41f9
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: 'Safety, Health and Environment Manual – Part I: SHE Management'
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -16491,23 +17052,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T07:05:34+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb3e4738842df5d7c
+    previous_evidence_ids:
+    - Jf589071dc616fe7f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: review_question
   text: 'Source discrepancy: SHE 7.8.1 requires agenda circulation at least seven working days before the scheduled
     meeting, while Form SF/001 states at least two days. Preserve the different wording without selecting precedence.
     Monthly Site SHE Committee meetings under 7.4 and weekly Construction SHE Committee meetings under 7.5 are distinct
     source provisions.'
   evidence_ids:
-  - J09eb38685b1042c6
-  - J81bb5479e7edcd11
+  - J9eeb4ca708ebff86
+  - J6af8ef325f51b6bf
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C3e933afd1cc15fb5
+  id: Cf940308ceb144ed9
   citations:
-  - id: J09eb38685b1042c6
+  - id: J9eeb4ca708ebff86
     okf_path: OKF_bundle/Technical/Vol3/vol3_part1.md
-    okf_sha256: 550d571c14aff187a5846487f9f7123aae5993ad6bc5efa6012196ca92619abb
+    okf_sha256: 6d3d536a7bdd68a40c05a233955b27e65e857ce6f72b9f0e755914d9adb85df6
     heading: Clause 7.0 — Contractor SHE Committee
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -16836,9 +17407,9 @@ claims:
       review_status\": \"pending_manual_review\",\n  \"title\": \"Contractor SHE Committee\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J81bb5479e7edcd11
+  - id: J6af8ef325f51b6bf
     okf_path: OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md
-    okf_sha256: 4bf2dd6ca29bbff0464ffc5fecbea9e86db21baafe4df5bda2628f3ddd97b36f
+    okf_sha256: 5a0cf8acada1fc881077147ee1d1f7e8c890314febb3371cd8c6cf779f56e738
     heading: Safety, Health and Environment Manual – Appendices, General Instructions and Forms
     source_document: Vol3DLNP1.pdf
     source_sha256: 1ee3fc8dfd12f659f34446b0a6db74e1e1cdd4d593ca91b2a48d59bf1ef97d52
@@ -17052,13 +17623,24 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T17:00:51+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C3e933afd1cc15fb5
+    previous_evidence_ids:
+    - J09eb38685b1042c6
+    - J81bb5479e7edcd11
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: concepts/amendment_sequence_and_conflicts.md
   title: Amendment Sequence and Unresolved Source Conflicts
   evidence_ids:
-  - J09eb38685b1042c6
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - J9eeb4ca708ebff86
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Safety, Health and Environment Manual – Part I: SHE Management Overview
@@ -17068,199 +17650,199 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - Volume 3 Part I establishes the Safety, Health and Environment (SHE) management framework, targets, definitions, and application scope for BMRCL Tender Package P1 contractors and subcontractors.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 2.0 — ‘SHE’ Targets and Goals|Clause 2.0 — ‘SHE’ Targets and Goals]]; `Vol3DLNP1.pdf`; PDF page(s) 11, 12; quotation `J0f2ae9bce694a0a5`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 8; quotation `J5925d3206b626471`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/preamble_retained_lines/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 8; quotation `J9ce1875fd5080be9`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/preamble/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 1.0 — General|Clause 1.0 — General]]; `Vol3DLNP1.pdf`; PDF page(s) 8, 9, 10, 11; quotation `Jb9bec555769a8b6b`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 8; quotation `Je8dc261fe0d80ab0`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/preamble_retained_lines/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30; quotation `S563d15b10a82f3aa`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 2.0 — ‘SHE’ Targets and Goals|Clause 2.0 — ‘SHE’ Targets and Goals]]; `Vol3DLNP1.pdf`; PDF page(s) 11, 12; quotation `J89e4131252f66e20`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 8; quotation `Jc6bc7d8421ef0ef4`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/preamble_retained_lines/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 8; quotation `J2f564415d8ab2f21`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/preamble/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 1.0 — General|Clause 1.0 — General]]; `Vol3DLNP1.pdf`; PDF page(s) 8, 9, 10, 11; quotation `Jde330d8fa6968654`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 8; quotation `Jf6f9d2e1b936bade`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/preamble_retained_lines/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30; quotation `Sd961f353daab78a9`.
 
 - Volume 3 Part 1 establishes the Safety, Health and Environment (SHE) Management framework, policies, statutory compliance requirements, and targets for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J0562abcc824c4f49`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 3.0 — Compliance|Clause 3.0 — Compliance]]; `Vol3DLNP1.pdf`; PDF page(s) 12, 13; quotation `J4dbf3d178da92201`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J6e268122a6c15b66`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 3.0 — Compliance|Clause 3.0 — Compliance]]; `Vol3DLNP1.pdf`; PDF page(s) 12, 13; quotation `J7502791d30e9933d`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/2`.
 
 - Volume 3 Part I of the Safety, Health and Environment (SHE) Manual sets out the management framework, designer responsibilities, risk control hierarchies, and contractor organization requirements for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 5.0 — Designer’s role|Clause 5.0 — Designer’s role]]; `Vol3DLNP1.pdf`; PDF page(s) 14, 15, 16; quotation `J18d9d6b025a34658`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 6.0 — Contractor SHE Organisation|Clause 6.0 — Contractor SHE Organisation]]; `Vol3DLNP1.pdf`; PDF page(s) 16, 17; quotation `J6adabb174d1916a1`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 5.0 — Designer’s role|Clause 5.0 — Designer’s role]]; `Vol3DLNP1.pdf`; PDF page(s) 14, 15, 16; quotation `Jf8809a71af85b566`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 6.0 — Contractor SHE Organisation|Clause 6.0 — Contractor SHE Organisation]]; `Vol3DLNP1.pdf`; PDF page(s) 16, 17; quotation `J9b89915bf84b73ea`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/5`.
 
 - The Contractor must establish and maintain a site Safety, Health and Environment (SHE) Committee within 14 days of award of contract, communicating the notification via Form SF 001, and conduct monthly site SHE committee meetings chaired by the Project Manager with specified minimum members.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J09eb38685b1042c6`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J9eeb4ca708ebff86`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
 
 - The Contractor must ensure that all site personnel receive induction SHE training covering work nature, site hazards, and function-specific risks in accordance with General Instruction BMRC/SHE/CEO/004, and issue photo identity cards sized 85mm x 55mm as per BMRC/SHE/CEO/005 before engaging personnel.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 8.0 — ID Card and First day at work, SHE orientation training|Clause 8.0 — ID Card and First day at work, SHE orientation training]]; `Vol3DLNP1.pdf`; PDF page(s) 19, 20; quotation `Jf156ec29e25a1049`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 8.0 — ID Card and First day at work, SHE orientation training|Clause 8.0 — ID Card and First day at work, SHE orientation training]]; `Vol3DLNP1.pdf`; PDF page(s) 19, 20; quotation `J766ce0d79cb7e9e8`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/7`.
 
 - The Contractor must organize quality SHE training, behavioural-based training programs for executives, daily safety oaths for all employees and workmen, daily toolbox talks for high-risk workers, and refresher training every six months.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 9.0 — SHE Training|Clause 9.0 — SHE Training]]; `Vol3DLNP1.pdf`; PDF page(s) 20, 21; quotation `J1a6ea055d5764782`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 9.0 — SHE Training|Clause 9.0 — SHE Training]]; `Vol3DLNP1.pdf`; PDF page(s) 20, 21; quotation `J2d04a99a5037ea3a`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/8`.
 
 - The contractor must evolve and administer a comprehensive SHE inspection and risk management system, categorized into planned general, routine, specific, and other inspections.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 10.0 — SHE Inspection|Clause 10.0 — SHE Inspection]]; `Vol3DLNP1.pdf`; PDF page(s) 21, 22; quotation `J583ea0722db5bc0b`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 10.0 — SHE Inspection|Clause 10.0 — SHE Inspection]]; `Vol3DLNP1.pdf`; PDF page(s) 21, 22; quotation `J146a1bdce2491605`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/9`.
 
 - All inspection records and reports must be properly kept and filed for audit purposes, with planned general and routine inspection reports utilized during safety committee meetings.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 10.0 — SHE Inspection|Clause 10.0 — SHE Inspection]]; `Vol3DLNP1.pdf`; PDF page(s) 21, 22; quotation `J583ea0722db5bc0b`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 10.0 — SHE Inspection|Clause 10.0 — SHE Inspection]]; `Vol3DLNP1.pdf`; PDF page(s) 21, 22; quotation `J146a1bdce2491605`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/9`.
 
 - Vol 3 Part 1 Clause 11.0 establishes comprehensive SHE audit requirements including monthly audit rating scores (MARS), monthly electrical safety audits, and quarterly external SHE audits conducted by ISO-qualified independent agencies.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 11.0 — SHE Audit|Clause 11.0 — SHE Audit]]; `Vol3DLNP1.pdf`; PDF page(s) 22, 23, 24, 25, 26; quotation `J54fb72d54b0d4203`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 11.0 — SHE Audit|Clause 11.0 — SHE Audit]]; `Vol3DLNP1.pdf`; PDF page(s) 22, 23, 24, 25, 26; quotation `Ja911fab00f3bad38`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/10`.
 
 - Vol 3 Part 1 Clause 12.0 mandates robust SHE communication through posters, billboards, banners, and glow signs in Hindi, English, and other suitable languages, requiring monthly rotation of displayed materials and observation of important days specified in General Instructions BMRC/SHE/CEO/008 and BMRC/SHE/CEO/009.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 12.0 — SHE Communication|Clause 12.0 — SHE Communication]]; `Vol3DLNP1.pdf`; PDF page(s) 26; quotation `Jeb8081dba474675f`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 12.0 — SHE Communication|Clause 12.0 — SHE Communication]]; `Vol3DLNP1.pdf`; PDF page(s) 26; quotation `J70b912d6881486c1`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/11`.
 
 - Volume 3 Part 1 of the SHE Manual governs Safety, Health and Environment (SHE) Management for BMRCL Tender Package P1, detailing mandatory submittals, reports, and incident reporting procedures.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 13.0 — SHE Submittals to the Employer|Clause 13.0 — SHE Submittals to the Employer]]; `Vol3DLNP1.pdf`; PDF page(s) 26, 27; quotation `J18c97608213f0958`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/12`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 14.0 — Accident reporting and investigation|Clause 14.0 — Accident reporting and investigation]]; `Vol3DLNP1.pdf`; PDF page(s) 27, 28, 29, 30; quotation `Jdfb67b661885be1f`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 13.0 — SHE Submittals to the Employer|Clause 13.0 — SHE Submittals to the Employer]]; `Vol3DLNP1.pdf`; PDF page(s) 26, 27; quotation `J8edcd48c6ac2acdf`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 14.0 — Accident reporting and investigation|Clause 14.0 — Accident reporting and investigation]]; `Vol3DLNP1.pdf`; PDF page(s) 27, 28, 29, 30; quotation `J226b324d4a855c2e`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/13`.
 
 - Volume 3 Part 1 of the Safety, Health and Environment (SHE) Manual establishes the overarching SHE management framework, mandatory statutory standards, targets, committee structures, and emergency preparedness requirements for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 10; quotation `J1fceb652fdb14450`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 8; quotation `J29bce71f1d431a9e`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 9; quotation `J47be167cce08117f`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 11; quotation `Je8c72bdc8ab5695e`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 10; quotation `Ja827df672cedbb7e`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 8; quotation `J3e9baf89f38f9d24`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 9; quotation `Jd8b8f8ab48417845`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 11; quotation `J4837de2a737e90d7`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/3`.
 
 - Volume 3 Part 1 of the Safety, Health and Environment (SHE) Manual establishes statutory and international management obligations, targets, designer responsibilities, risk hierarchies, organizational structures, and committee mandates for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 13; quotation `J071c7e8dded8888d`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/5`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 15; quotation `J164219c6180bba1c`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/7`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 17; quotation `J56d6bfd1dd38645b`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/9`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 16; quotation `J9adefab58d5bd52a`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/8`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 14; quotation `Jddc9c179b183ffe3`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 13; quotation `J4de43a8d7c16a7c5`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 15; quotation `Jb9e46b4aa31bbb3d`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 17; quotation `J24927d393ae56edd`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 16; quotation `Jde580c9545e2869c`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 14; quotation `Ja0fd942c8ef785e3`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/6`.
 
 - Volume 3 Part 1 of the Safety, Health and Environment (SHE) Manual establishes the comprehensive management framework, contractor policy and plan submission timelines, site committee meetings, inspection schedules, and monthly audit rating scores for BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J0562abcc824c4f49`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 19; quotation `J2dd5e51ae6ff474c`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/11`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 21; quotation `J8548b68993a39b18`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/13`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 18; quotation `J96b5ab8e02993ca1`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/10`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 20; quotation `Jabc863ad75cedefb`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/12`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 22; quotation `Jd37f748901fe9872`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J6e268122a6c15b66`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 19; quotation `J1529db7f21b890ef`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 21; quotation `J4d5ab1b4374dae25`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 18; quotation `J5e54b356035ab68b`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 20; quotation `Jfc32cfa5329ced2d`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 22; quotation `J5c7c6ab80940eb2a`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/14`.
 
 - Volume 3 Part 1 establishes comprehensive provisions for contractor SHE policy, audit oversight, compliance reporting, and statutory accident notification under BMRCL Tender Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J0562abcc824c4f49`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 26; quotation `J2d4de675fc0a4287`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/18`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J6e268122a6c15b66`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 26; quotation `Jc031800b9641a2e5`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/18`.
 
 - Volume 3 Part 1 of the SHE Manual establishes emergency preparedness obligations, requiring contractors to formulate an Emergency Response Plan under Rule 36 of BOCWR, conduct monthly on-site emergency mock drills, maintain tie-ups with neighborhood hospitals and fire stations, and immediately report emergencies to local authorities and BMRC.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 30; quotation `Jf589071dc616fe7f`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/22`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 30; quotation `Ja2df33b047bc41f9`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/22`.
 
 ## Key Parameters and Source Statements
 
 - SHE targets for the Works include achieving zero total recordable injuries, zero reportable environmental incidents, 100% personnel induction as per the approved SHE plan, total compliance with inspection/audit schedules, 100% incident recording/reporting, 100% PPE adherence, and executing work with least disturbance to the environment, traffic, and road users.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 2.0 — ‘SHE’ Targets and Goals|Clause 2.0 — ‘SHE’ Targets and Goals]]; `Vol3DLNP1.pdf`; PDF page(s) 11, 12; quotation `J0f2ae9bce694a0a5`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 2.0 — ‘SHE’ Targets and Goals|Clause 2.0 — ‘SHE’ Targets and Goals]]; `Vol3DLNP1.pdf`; PDF page(s) 11, 12; quotation `J89e4131252f66e20`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/1`.
 
 - Contractual definitions establish that 'shall' indicates a mandatory requirement, 'should' indicates a strongly recommended guideline, and 'may' indicates a guideline to be considered.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 1.0 — General|Clause 1.0 — General]]; `Vol3DLNP1.pdf`; PDF page(s) 8, 9, 10, 11; quotation `Jb9bec555769a8b6b`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 1.0 — General|Clause 1.0 — General]]; `Vol3DLNP1.pdf`; PDF page(s) 8, 9, 10, 11; quotation `Jde330d8fa6968654`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/0`.
 
 - The SHE management requirements apply universally across all contractor scopes, subcontractors, and associated agencies with zero exemptions.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 1.0 — General|Clause 1.0 — General]]; `Vol3DLNP1.pdf`; PDF page(s) 8, 9, 10, 11; quotation `Jb9bec555769a8b6b`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 1.0 — General|Clause 1.0 — General]]; `Vol3DLNP1.pdf`; PDF page(s) 8, 9, 10, 11; quotation `Jde330d8fa6968654`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/0`.
 
 - The Contractor must formulate a SHE policy under Section 39 of the BOCW Act, get it approved by the DG, and display it conspicuously at work sites in Kannada, Hindi, and other languages understood by the majority of construction workers.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J0562abcc824c4f49`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J6e268122a6c15b66`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
 
 - Within 4 weeks of the notification of acceptance of the tender, the Contractor must submit a detailed, comprehensive, contract-specific SHE Plan covering organizational arrangements, hazard identification, training, PPE, emergency procedures, and subcontractor safety compliance.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J0562abcc824c4f49`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J6e268122a6c15b66`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
 
 - If the Employer considers the SHE plan insufficient or requiring modification, the Contractor must submit a revised plan within 7 days of receiving instructions.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J0562abcc824c4f49`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J6e268122a6c15b66`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
 
 - The Contractor must execute an MOU regarding SHE practices (Appendix 1) after award and before work commencement, adhere to BMRCL's SHE Policy, comply with primary statutory regulations like the BOCW Act 1996 and Central Rules 1998, and aim for OHSAS 18001-1999 and ISO 14001-2004 certifications.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 3.0 — Compliance|Clause 3.0 — Compliance]]; `Vol3DLNP1.pdf`; PDF page(s) 12, 13; quotation `J4dbf3d178da92201`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 3.0 — Compliance|Clause 3.0 — Compliance]]; `Vol3DLNP1.pdf`; PDF page(s) 12, 13; quotation `J7502791d30e9933d`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/2`.
 
 - Designers must minimize health and safety risks for constructors, maintainers, cleaners, repairers, dismantlers, demolishers, and the general public by applying a hierarchy of risk control starting with hazard prevention, combating at source, collective protection, and personal protective equipment as a last resort.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 5.0 — Designer’s role|Clause 5.0 — Designer’s role]]; `Vol3DLNP1.pdf`; PDF page(s) 14, 15, 16; quotation `J18d9d6b025a34658`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 5.0 — Designer’s role|Clause 5.0 — Designer’s role]]; `Vol3DLNP1.pdf`; PDF page(s) 14, 15, 16; quotation `Jf8809a71af85b566`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/4`.
 
 - All structures such as scaffolds, falsework, launching girders, and earth retaining structures must include design calculations in method statements and be approved by the Employer's designer or approved proof check consultants.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 5.0 — Designer’s role|Clause 5.0 — Designer’s role]]; `Vol3DLNP1.pdf`; PDF page(s) 14, 15, 16; quotation `J18d9d6b025a34658`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 5.0 — Designer’s role|Clause 5.0 — Designer’s role]]; `Vol3DLNP1.pdf`; PDF page(s) 14, 15, 16; quotation `Jf8809a71af85b566`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/4`.
 
 - Non-standard structures like rebar trestles, very old, corroded, or repeatedly repaired structures lacking accurate national standard design calculations are strictly prohibited from site use even for short durations.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 5.0 — Designer’s role|Clause 5.0 — Designer’s role]]; `Vol3DLNP1.pdf`; PDF page(s) 14, 15, 16; quotation `J18d9d6b025a34658`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 5.0 — Designer’s role|Clause 5.0 — Designer’s role]]; `Vol3DLNP1.pdf`; PDF page(s) 14, 15, 16; quotation `Jf8809a71af85b566`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/4`.
 
 - The main contractor bears sole responsibility for providing required SHE personnel across all works executed by the main contractor and all sub-contractors, and all SHE manpower must be on the direct payroll of the main contractor.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 6.0 — Contractor SHE Organisation|Clause 6.0 — Contractor SHE Organisation]]; `Vol3DLNP1.pdf`; PDF page(s) 16, 17; quotation `J6adabb174d1916a1`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 6.0 — Contractor SHE Organisation|Clause 6.0 — Contractor SHE Organisation]]; `Vol3DLNP1.pdf`; PDF page(s) 16, 17; quotation `J9b89915bf84b73ea`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/5`.
 
 - If the contractor fails to provide minimum required SHE manpower or fails to fill vacancies within 14 days, the Employer shall provide them at the contractor's cost including administrative expenses like paper advertisements and manpower consultant charges.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 6.0 — Contractor SHE Organisation|Clause 6.0 — Contractor SHE Organisation]]; `Vol3DLNP1.pdf`; PDF page(s) 16, 17; quotation `J6adabb174d1916a1`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 6.0 — Contractor SHE Organisation|Clause 6.0 — Contractor SHE Organisation]]; `Vol3DLNP1.pdf`; PDF page(s) 16, 17; quotation `J9b89915bf84b73ea`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/5`.
 
 - Monthly SHE committee meetings require a minimum period of 21 days between any two meetings, and meeting agendas must be circulated by the secretary at least 7 working days in advance.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J09eb38685b1042c6`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J9eeb4ca708ebff86`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
 
 - Construction SHE committee meetings must be conducted at least once a week, and meeting minutes must be prepared using Form SF-002 and sent to all members within 2 working days.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J09eb38685b1042c6`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J9eeb4ca708ebff86`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
 
 - All vehicle drivers and heavy vehicle operators must be trained on defensive driving at the Central Training Institute KSRTC, Shanthinagar, Bangalore, or another registered motor vehicles act driving institute.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 9.0 — SHE Training|Clause 9.0 — SHE Training]]; `Vol3DLNP1.pdf`; PDF page(s) 20, 21; quotation `J1a6ea055d5764782`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 9.0 — SHE Training|Clause 9.0 — SHE Training]]; `Vol3DLNP1.pdf`; PDF page(s) 20, 21; quotation `J2d04a99a5037ea3a`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/8`.
 
 - Planned general inspections include monthly site safety committee inspections, weekly safety inspections by construction supervisors, and daily safety inspections by the contractor site SHE team.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 10.0 — SHE Inspection|Clause 10.0 — SHE Inspection]]; `Vol3DLNP1.pdf`; PDF page(s) 21, 22; quotation `J583ea0722db5bc0b`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 10.0 — SHE Inspection|Clause 10.0 — SHE Inspection]]; `Vol3DLNP1.pdf`; PDF page(s) 21, 22; quotation `J146a1bdce2491605`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/9`.
 
 - Routine inspections cover daily plant/equipment checks by operators, weekly scaffold inspections, monthly electrical hand tool checks, quarterly temporary electrical system checks, and half-yearly lifting machinery inspections by approved competent persons.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 10.0 — SHE Inspection|Clause 10.0 — SHE Inspection]]; `Vol3DLNP1.pdf`; PDF page(s) 21, 22; quotation `J583ea0722db5bc0b`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 10.0 — SHE Inspection|Clause 10.0 — SHE Inspection]]; `Vol3DLNP1.pdf`; PDF page(s) 21, 22; quotation `J146a1bdce2491605`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/9`.
 
 - Specific inspections must be performed without predetermined dates on high-risk activities such as heavy lifting, confined space entry, welding/gas cutting, and formwork concreting.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 10.0 — SHE Inspection|Clause 10.0 — SHE Inspection]]; `Vol3DLNP1.pdf`; PDF page(s) 21, 22; quotation `J583ea0722db5bc0b`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 10.0 — SHE Inspection|Clause 10.0 — SHE Inspection]]; `Vol3DLNP1.pdf`; PDF page(s) 21, 22; quotation `J146a1bdce2491605`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/9`.
 
 - Monthly Audit Rating Score (MARS) is weighed on a 1-10 scale and conducted at least 7 days prior to the scheduled Monthly SHE Committee meeting, classifying scores under 60% as immediate rectification within 24 hours, under 75% as rectification within 7 days, and under 90% as rectification within one month.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 11.0 — SHE Audit|Clause 11.0 — SHE Audit]]; `Vol3DLNP1.pdf`; PDF page(s) 22, 23, 24, 25, 26; quotation `J54fb72d54b0d4203`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 11.0 — SHE Audit|Clause 11.0 — SHE Audit]]; `Vol3DLNP1.pdf`; PDF page(s) 22, 23, 24, 25, 26; quotation `Ja911fab00f3bad38`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/10`.
 
 - External SHE audits are conducted quarterly throughout the currency of the contract, with audit reports sent to the Employer within 7 days, and conformity inspections scheduled after 14 days for Priority 1 items and 28 days for Priority 2 items.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 11.0 — SHE Audit|Clause 11.0 — SHE Audit]]; `Vol3DLNP1.pdf`; PDF page(s) 22, 23, 24, 25, 26; quotation `J54fb72d54b0d4203`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 11.0 — SHE Audit|Clause 11.0 — SHE Audit]]; `Vol3DLNP1.pdf`; PDF page(s) 22, 23, 24, 25, 26; quotation `Ja911fab00f3bad38`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/10`.
 
 - The contractor must submit daily reports of the total number of workmen engaged by all entities (including subcontractors) within 2 hours of starting any shift through tele-fax or email, under the primary duty of the Chief SHE Manager.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 13.0 — SHE Submittals to the Employer|Clause 13.0 — SHE Submittals to the Employer]]; `Vol3DLNP1.pdf`; PDF page(s) 26, 27; quotation `J18c97608213f0958`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 13.0 — SHE Submittals to the Employer|Clause 13.0 — SHE Submittals to the Employer]]; `Vol3DLNP1.pdf`; PDF page(s) 26, 27; quotation `J8edcd48c6ac2acdf`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/12`.
 
 - Monthly SHE reports containing 18 specified categories (including man-hours, accident details, training, audits, and PPE status) must be prepared and submitted in 3 copies within the 7th of the next month to the Employer.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 13.0 — SHE Submittals to the Employer|Clause 13.0 — SHE Submittals to the Employer]]; `Vol3DLNP1.pdf`; PDF page(s) 26, 27; quotation `J18c97608213f0958`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 13.0 — SHE Submittals to the Employer|Clause 13.0 — SHE Submittals to the Employer]]; `Vol3DLNP1.pdf`; PDF page(s) 26, 27; quotation `J8edcd48c6ac2acdf`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/12`.
 
 - All accidents and dangerous occurrences must be informed verbally immediately to the Employer, followed by written reports within 24 hours in the specified format.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 14.0 — Accident reporting and investigation|Clause 14.0 — Accident reporting and investigation]]; `Vol3DLNP1.pdf`; PDF page(s) 27, 28, 29, 30; quotation `Jdfb67b661885be1f`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 14.0 — Accident reporting and investigation|Clause 14.0 — Accident reporting and investigation]]; `Vol3DLNP1.pdf`; PDF page(s) 27, 28, 29, 30; quotation `J226b324d4a855c2e`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/13`.
 
 - Statutory accident reporting under Rule 210 of BOCWR requires notice within 4 hours for fatal accidents and 72 hours for other reportable accidents sent to the Regional Labour Commissioner, beneficiary board, Director General, and next of kin.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 14.0 — Accident reporting and investigation|Clause 14.0 — Accident reporting and investigation]]; `Vol3DLNP1.pdf`; PDF page(s) 27, 28, 29, 30; quotation `Jdfb67b661885be1f`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 14.0 — Accident reporting and investigation|Clause 14.0 — Accident reporting and investigation]]; `Vol3DLNP1.pdf`; PDF page(s) 27, 28, 29, 30; quotation `J226b324d4a855c2e`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/13`.
 
 - Contractors must formulate a SHE policy approved by the DG under Section 39 of the BOCW Act and display it prominently at worksites in Kannada, Hindi, and other languages understood by the majority of workers.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J0562abcc824c4f49`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J6e268122a6c15b66`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
 
 - Within 4 weeks of the notification of acceptance of the tender, the Contractor must submit a detailed, contract-specific SHE Plan covering organization, hazard identification, training, PPE, equipment maintenance, subcontractor compliance, disciplinary procedures, and accident reporting.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J0562abcc824c4f49`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J6e268122a6c15b66`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
 
 - The Contractor must establish a site SHE Committee within 14 days of award of contract and communicate the notification via Form SF 001, conducting monthly meetings chaired by the Project Manager with a minimum of 21 days between consecutive monthly meetings.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J09eb38685b1042c6`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J9eeb4ca708ebff86`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
 
 - Construction SHE Committee meetings must be conducted at least once a week, and meeting agendas must be circulated by the Secretary at least seven working days in advance.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J09eb38685b1042c6`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J9eeb4ca708ebff86`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
 
 - Minutes of the SHE committee meeting must be prepared using Form SF 002 and sent to all members within 2 working days, preferably by mail or fax followed by a hardcopy, and displayed on notice boards.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J09eb38685b1042c6`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J9eeb4ca708ebff86`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
 
 - Contractors must prepare an Emergency Response Plan under Rule 36 of BOCWR as part of the Contractor SHE Plan, integrate subcontractor emergency plans, conduct monthly onsite emergency mock drills, tie up with neighborhood hospitals and fire stations, and keep emergency vehicles on standby.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 15.0 — Emergency preparedness plan|Clause 15.0 — Emergency preparedness plan]]; `Vol3DLNP1.pdf`; PDF page(s) 30; quotation `Jd086a6e3c99b9c3f`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 15.0 — Emergency preparedness plan|Clause 15.0 — Emergency preparedness plan]]; `Vol3DLNP1.pdf`; PDF page(s) 30; quotation `Je1056d4f95bb7c6f`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/14`.
 
 - Contractors may utilize services of experts and agencies empanelled under Rule 250 of BOCWR or listed in General Instruction BMRC/SHE/CEO/010 for training, internal audit, and SHE services, subject to prior mandatory approval by the Employer.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 16.0 — Experts / Agencies for SHE services|Clause 16.0 — Experts / Agencies for SHE services]]; `Vol3DLNP1.pdf`; PDF page(s) 30; quotation `J995122bfc56f4777`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 16.0 — Experts / Agencies for SHE services|Clause 16.0 — Experts / Agencies for SHE services]]; `Vol3DLNP1.pdf`; PDF page(s) 30; quotation `Jd9fbeda14a931cb7`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/15`.
 
 - The SHE targets and goals for Tender Package P1 include zero total recordable injuries, zero reportable environmental incidents, 100% personnel induction as per approved SHE plans, 100% audit compliance, 100% incident reporting, 100% appropriate PPE adherence, and execution with least environmental and traffic disturbance.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 2.0 — ‘SHE’ Targets and Goals|Clause 2.0 — ‘SHE’ Targets and Goals]]; `Vol3DLNP1.pdf`; PDF page(s) 11, 12; quotation `J0f2ae9bce694a0a5`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 2.0 — ‘SHE’ Targets and Goals|Clause 2.0 — ‘SHE’ Targets and Goals]]; `Vol3DLNP1.pdf`; PDF page(s) 11, 12; quotation `J89e4131252f66e20`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/1`.
 
 - The Contractor must submit a detailed contract-specific SHE plan within 4 weeks of receiving the notification of acceptance of the tender, and must revise and submit the plan within 7 days if instructed by the Employer.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J0562abcc824c4f49`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 14; quotation `Jddc9c179b183ffe3`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J6e268122a6c15b66`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 14; quotation `Ja0fd942c8ef785e3`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/6`.
 
 - Designers must minimize risks to constructors, maintainers, cleaners, repairers, dismantlers, demolishers, and the public by applying a hierarchy of risk control: preventing hazards at design, combating at source, collective protection measures, and using personal protection only as a last resort.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 15; quotation `J164219c6180bba1c`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 15; quotation `Jb9e46b4aa31bbb3d`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/7`.
 
 - All SHE personnel must be on the direct payroll of the main contractor rather than subcontractors or outsourcing agencies, with the sole exception of daily-requirement personnel such as traffic marshals.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 17; quotation `J56d6bfd1dd38645b`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 17; quotation `J24927d393ae56edd`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/9`.
 
 - The Contractor must submit a detailed and comprehensive contract-specific SHE Plan within 4 weeks of the notification of acceptance of the tender.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J0562abcc824c4f49`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]; `Vol3DLNP1.pdf`; PDF page(s) 13, 14; quotation `J6e268122a6c15b66`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/3`.
 
 - The contractor and sub-contractors site safety committee must be constituted within 14 days of the award of contract and communicate notification via Form SF 001.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 18; quotation `J96b5ab8e02993ca1`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 18; quotation `J5e54b356035ab68b`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/10`.
 
 - Site SHE Committee meetings must be conducted at least once a month, while Construction SHE Committee meetings must be conducted at least once a week.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 18; quotation `J96b5ab8e02993ca1`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 18; quotation `J5e54b356035ab68b`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/10`.
 
 - A minimum period of 21 days must be maintained between any two monthly SHE committee meetings, and meeting agendas must be circulated at least seven working days in advance.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 19; quotation `J2dd5e51ae6ff474c`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]; `Vol3DLNP1.pdf`; PDF page(s) 19; quotation `J1529db7f21b890ef`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/source_page_context/11`.
 
 ## Open Questions and Contradictions
 
 - Source discrepancy: SHE 7.8.1 requires agenda circulation at least seven working days before the scheduled meeting, while Form SF/001 states at least two days. Preserve the different wording without selecting precedence. Monthly Site SHE Committee meetings under 7.4 and weekly Construction SHE Committee meetings under 7.5 are distinct source provisions.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J09eb38685b1042c6`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 116; quotation `J81bb5479e7edcd11`. JSON: `parsed_json/vol3/forms/she_committee_forms.json#/forms/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; quotation `J9eeb4ca708ebff86`. JSON: `parsed_json/vol3/part_1_she_management/she_management_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]; `Vol3DLNP1.pdf`; PDF page(s) 116; quotation `J6af8ef325f51b6bf`. JSON: `parsed_json/vol3/forms/she_committee_forms.json#/forms/0`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 2.0 — ‘SHE’ Targets and Goals|Clause 2.0 — ‘SHE’ Targets and Goals]]
@@ -17285,12 +17867,12 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Typed Relations
 
 - **relates_to (editorial, inferred):** [[wiki/concepts/amendment_sequence_and_conflicts|Amendment Sequence and Unresolved Source Conflicts]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; `J09eb38685b1042c6`.
+  - Evidence: [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]; `Vol3DLNP1.pdf`; PDF page(s) 17, 18, 19; `J9eeb4ca708ebff86`.
 
 <details>
 <summary>Supporting source passages</summary>
 
-### J0f2ae9bce694a0a5
+### J89e4131252f66e20
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 2.0 — ‘SHE’ Targets and Goals|Clause 2.0 — ‘SHE’ Targets and Goals]]
 
@@ -17433,7 +18015,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "‘SHE’ Targets and Goals"
 > }
 
-### J5925d3206b626471
+### Jc6bc7d8421ef0ef4
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -17443,7 +18025,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "                     PART – I: SHE MANAGEMENT"
 > }
 
-### J9ce1875fd5080be9
+### J2f564415d8ab2f21
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -17452,7 +18034,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": "PART – I: SHE MANAGEMENT"
 > }
 
-### Jb9bec555769a8b6b
+### Jde330d8fa6968654
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 1.0 — General|Clause 1.0 — General]]
 
@@ -18628,7 +19210,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "General"
 > }
 
-### Je8dc261fe0d80ab0
+### Jf6f9d2e1b936bade
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -18638,13 +19220,13 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "text": ""
 > }
 
-### S563d15b10a82f3aa
+### Sd961f353daab78a9
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
 > This part contains Part I (SHE Management) of Section I (SHE - Manual) in Volume 3 of BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`.
 
-### J0562abcc824c4f49
+### J6e268122a6c15b66
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 4.0 — Contractor SHE Policy and Plan|Clause 4.0 — Contractor SHE Policy and Plan]]
 
@@ -19102,7 +19684,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Contractor SHE Policy and Plan"
 > }
 
-### J4dbf3d178da92201
+### J7502791d30e9933d
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 3.0 — Compliance|Clause 3.0 — Compliance]]
 
@@ -19865,7 +20447,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Compliance"
 > }
 
-### J18d9d6b025a34658
+### Jf8809a71af85b566
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 5.0 — Designer’s role|Clause 5.0 — Designer’s role]]
 
@@ -20377,7 +20959,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Designer’s role"
 > }
 
-### J6adabb174d1916a1
+### J9b89915bf84b73ea
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 6.0 — Contractor SHE Organisation|Clause 6.0 — Contractor SHE Organisation]]
 
@@ -20965,7 +21547,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Contractor SHE Organisation"
 > }
 
-### J09eb38685b1042c6
+### J9eeb4ca708ebff86
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 7.0 — Contractor SHE Committee|Clause 7.0 — Contractor SHE Committee]]
 
@@ -21872,7 +22454,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Contractor SHE Committee"
 > }
 
-### Jf156ec29e25a1049
+### J766ce0d79cb7e9e8
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 8.0 — ID Card and First day at work, SHE orientation training|Clause 8.0 — ID Card and First day at work, SHE orientation training]]
 
@@ -22035,7 +22617,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "ID Card and First day at work, SHE orientation training"
 > }
 
-### J1a6ea055d5764782
+### J2d04a99a5037ea3a
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 9.0 — SHE Training|Clause 9.0 — SHE Training]]
 
@@ -22483,7 +23065,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "SHE Training"
 > }
 
-### J583ea0722db5bc0b
+### J146a1bdce2491605
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 10.0 — SHE Inspection|Clause 10.0 — SHE Inspection]]
 
@@ -23086,7 +23668,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "SHE Inspection"
 > }
 
-### J54fb72d54b0d4203
+### Ja911fab00f3bad38
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 11.0 — SHE Audit|Clause 11.0 — SHE Audit]]
 
@@ -24671,7 +25253,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "SHE Audit"
 > }
 
-### Jeb8081dba474675f
+### J70b912d6881486c1
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 12.0 — SHE Communication|Clause 12.0 — SHE Communication]]
 
@@ -24800,7 +25382,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "SHE Communication"
 > }
 
-### J18c97608213f0958
+### J8edcd48c6ac2acdf
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 13.0 — SHE Submittals to the Employer|Clause 13.0 — SHE Submittals to the Employer]]
 
@@ -25258,7 +25840,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "SHE Submittals to the Employer"
 > }
 
-### Jdfb67b661885be1f
+### J226b324d4a855c2e
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 14.0 — Accident reporting and investigation|Clause 14.0 — Accident reporting and investigation]]
 
@@ -26319,7 +26901,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Accident reporting and investigation"
 > }
 
-### J1fceb652fdb14450
+### Ja827df672cedbb7e
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -26450,7 +27032,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### J29bce71f1d431a9e
+### J3e9baf89f38f9d24
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -26611,7 +27193,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### J47be167cce08117f
+### Jd8b8f8ab48417845
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -26742,7 +27324,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### Je8c72bdc8ab5695e
+### J4837de2a737e90d7
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -26873,7 +27455,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### Jd086a6e3c99b9c3f
+### Je1056d4f95bb7c6f
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 15.0 — Emergency preparedness plan|Clause 15.0 — Emergency preparedness plan]]
 
@@ -27157,7 +27739,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Emergency preparedness plan"
 > }
 
-### J995122bfc56f4777
+### Jd9fbeda14a931cb7
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Clause 16.0 — Experts / Agencies for SHE services|Clause 16.0 — Experts / Agencies for SHE services]]
 
@@ -27266,7 +27848,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   "title": "Experts / Agencies for SHE services"
 > }
 
-### J071c7e8dded8888d
+### J4de43a8d7c16a7c5
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -27367,7 +27949,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### J164219c6180bba1c
+### Jb9e46b4aa31bbb3d
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -27488,7 +28070,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### J56d6bfd1dd38645b
+### J24927d393ae56edd
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -27589,7 +28171,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### J9adefab58d5bd52a
+### Jde580c9545e2869c
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -27660,7 +28242,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### Jddc9c179b183ffe3
+### Ja0fd942c8ef785e3
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -27781,7 +28363,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### J2dd5e51ae6ff474c
+### J1529db7f21b890ef
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -27892,7 +28474,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### J8548b68993a39b18
+### J4d5ab1b4374dae25
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -27963,7 +28545,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### J96b5ab8e02993ca1
+### J5e54b356035ab68b
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -28114,7 +28696,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### Jabc863ad75cedefb
+### Jfc32cfa5329ced2d
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -28195,7 +28777,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### Jd37f748901fe9872
+### J5c7c6ab80940eb2a
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -28366,7 +28948,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### J2d4de675fc0a4287
+### Jc031800b9641a2e5
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -28437,7 +29019,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### Jf589071dc616fe7f
+### Ja2df33b047bc41f9
 
 [[OKF_bundle/Technical/Vol3/vol3_part1#Safety, Health and Environment Manual – Part I: SHE Management|Safety, Health and Environment Manual – Part I: SHE Management]]
 
@@ -28518,7 +29100,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 >   ]
 > }
 
-### J81bb5479e7edcd11
+### J6af8ef325f51b6bf
 
 [[OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms#Safety, Health and Environment Manual – Appendices, General Instructions and Forms|Safety, Health and Environment Manual – Appendices, General Instructions and Forms]]
 

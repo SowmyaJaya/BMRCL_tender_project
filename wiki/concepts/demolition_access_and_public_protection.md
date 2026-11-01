@@ -6,26 +6,26 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-11-01T12:14:18+00:00'
-updated_at: '2026-11-01T12:36:19+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T12:14:18+00:00'
 model: source-backed editorial synthesis; no API call
 sources:
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4A.md
-  okf_sha256: 8005c3c33933c409a72842e20615b61ab08ad5cd077f4d65921d1f727b6202b0
+  okf_sha256: 520ac8689dbcfe1f3be2ed99dafda8715eb436313221c6ca77dd66080cd2f726
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4a_demolition/demolition_clauses.json
   json_sha256: e15324023aacf8bda736e3cf21e3a65735deb4ba19d458a5cd2099534b681a2e
   json_pointer: /clauses/2/fragments/1
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4A.md
-  okf_sha256: 8005c3c33933c409a72842e20615b61ab08ad5cd077f4d65921d1f727b6202b0
+  okf_sha256: 520ac8689dbcfe1f3be2ed99dafda8715eb436313221c6ca77dd66080cd2f726
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4a_demolition/demolition_clauses.json
   json_sha256: e15324023aacf8bda736e3cf21e3a65735deb4ba19d458a5cd2099534b681a2e
   json_pointer: /clauses/2/fragments/4
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4A.md
-  okf_sha256: 8005c3c33933c409a72842e20615b61ab08ad5cd077f4d65921d1f727b6202b0
+  okf_sha256: 520ac8689dbcfe1f3be2ed99dafda8715eb436313221c6ca77dd66080cd2f726
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4a_demolition/demolition_clauses.json
   json_sha256: e15324023aacf8bda736e3cf21e3a65735deb4ba19d458a5cd2099534b681a2e
@@ -36,18 +36,18 @@ claims:
   text: This page brings together the cited requirements for demolition access, escape and public protection. Each
     source statement retains its own stage, conditions and review limitations.
   evidence_ids:
-  - J41b395b066d7bd2d
-  - J9984ce2b513c90ab
-  - Jb3124124c0d4c13e
+  - Je57f51de5f815015
+  - Jb29804ec5d4e0387
+  - J51ad754a214f5d7b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2ff73685389f5e55
+  id: C396eecad1adbe2fe
   citations:
-  - id: J41b395b066d7bd2d
+  - id: Je57f51de5f815015
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4A.md
-    okf_sha256: 8005c3c33933c409a72842e20615b61ab08ad5cd077f4d65921d1f727b6202b0
+    okf_sha256: 520ac8689dbcfe1f3be2ed99dafda8715eb436313221c6ca77dd66080cd2f726
     heading: Clause 3 — Serviceable and Unserviceable Materials
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -108,9 +108,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger demolition provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: J9984ce2b513c90ab
+  - id: Jb29804ec5d4e0387
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4A.md
-    okf_sha256: 8005c3c33933c409a72842e20615b61ab08ad5cd077f4d65921d1f727b6202b0
+    okf_sha256: 520ac8689dbcfe1f3be2ed99dafda8715eb436313221c6ca77dd66080cd2f726
     heading: Clause 3 — Serviceable and Unserviceable Materials
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -174,9 +174,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger demolition provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: Jb3124124c0d4c13e
+  - id: J51ad754a214f5d7b
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4A.md
-    okf_sha256: 8005c3c33933c409a72842e20615b61ab08ad5cd077f4d65921d1f727b6202b0
+    okf_sha256: 520ac8689dbcfe1f3be2ed99dafda8715eb436313221c6ca77dd66080cd2f726
     heading: Clause 3 — Serviceable and Unserviceable Materials
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -240,20 +240,32 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2ff73685389f5e55
+    previous_evidence_ids:
+    - J41b395b066d7bd2d
+    - J9984ce2b513c90ab
+    - Jb3124124c0d4c13e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'Before demolition, access control and emergency escape are linked requirements: danger signals and barricaded
     or manned openings are specified together with at least two independent exits.'
   evidence_ids:
-  - J41b395b066d7bd2d
+  - Je57f51de5f815015
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cd0f5a9aea4e9ab52
+  id: C21bc0ac178042ae1
   citations:
-  - id: J41b395b066d7bd2d
+  - id: Je57f51de5f815015
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4A.md
-    okf_sha256: 8005c3c33933c409a72842e20615b61ab08ad5cd077f4d65921d1f727b6202b0
+    okf_sha256: 520ac8689dbcfe1f3be2ed99dafda8715eb436313221c6ca77dd66080cd2f726
     heading: Clause 3 — Serviceable and Unserviceable Materials
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -316,20 +328,30 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cd0f5a9aea4e9ab52
+    previous_evidence_ids:
+    - J41b395b066d7bd2d
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Where worker entrances lack full sidewalk-shed protection, the source calls for a canopy extending at least
     2.5 m from the face, at least 0.6 m wider than the entrance/opening, and as strong as the sidewalk shed.
   evidence_ids:
-  - J9984ce2b513c90ab
+  - Jb29804ec5d4e0387
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce6b02c9ac0dc7a32
+  id: C77e8d1b955d405e9
   citations:
-  - id: J9984ce2b513c90ab
+  - id: Jb29804ec5d4e0387
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4A.md
-    okf_sha256: 8005c3c33933c409a72842e20615b61ab08ad5cd077f4d65921d1f727b6202b0
+    okf_sha256: 520ac8689dbcfe1f3be2ed99dafda8715eb436313221c6ca77dd66080cd2f726
     heading: Clause 3 — Serviceable and Unserviceable Materials
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -395,21 +417,31 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce6b02c9ac0dc7a32
+    previous_evidence_ids:
+    - J9984ce2b513c90ab
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Wall-removal precautions include the height-to-thickness bracing condition and its exception, walkways at
     least three planks and 0.8 m wide, stable walls at day-end, and support/earth-removal precautions before demolishing
     retaining foundation walls.
   evidence_ids:
-  - Jb3124124c0d4c13e
+  - J51ad754a214f5d7b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6857a660796f3639
+  id: Cbe26e3f60bf58669
   citations:
-  - id: Jb3124124c0d4c13e
+  - id: J51ad754a214f5d7b
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4A.md
-    okf_sha256: 8005c3c33933c409a72842e20615b61ab08ad5cd077f4d65921d1f727b6202b0
+    okf_sha256: 520ac8689dbcfe1f3be2ed99dafda8715eb436313221c6ca77dd66080cd2f726
     heading: Clause 3 — Serviceable and Unserviceable Materials
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -473,22 +505,32 @@ claims:
       in adjacent fragments; do not infer missing conditions.
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6857a660796f3639
+    previous_evidence_ids:
+    - Jb3124124c0d4c13e
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: relation
   text: 'Editorial topic mapping for Demolition Access, Escape and Public Protection: the two cited source records
     are connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence
     rule or a compliance decision.'
   evidence_ids:
-  - J41b395b066d7bd2d
-  - J9984ce2b513c90ab
+  - Je57f51de5f815015
+  - Jb29804ec5d4e0387
   relation_type: relates_to
   explicitness: inferred
-  from_id: J41b395b066d7bd2d
-  to_id: J9984ce2b513c90ab
-  id: Ca4bc2d1dd0ce0741
+  from_id: Je57f51de5f815015
+  to_id: Jb29804ec5d4e0387
+  id: C474c7a6c3de97bbb
   citations:
-  - id: J41b395b066d7bd2d
+  - id: Je57f51de5f815015
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4A.md
-    okf_sha256: 8005c3c33933c409a72842e20615b61ab08ad5cd077f4d65921d1f727b6202b0
+    okf_sha256: 520ac8689dbcfe1f3be2ed99dafda8715eb436313221c6ca77dd66080cd2f726
     heading: Clause 3 — Serviceable and Unserviceable Materials
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -549,9 +591,9 @@ claims:
       review_status: pending_manual_review
     scope_note: One complete PDF-page fragment of a larger demolition provision. A sentence or subclause can continue
       in adjacent fragments; do not infer missing conditions.
-  - id: J9984ce2b513c90ab
+  - id: Jb29804ec5d4e0387
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4A.md
-    okf_sha256: 8005c3c33933c409a72842e20615b61ab08ad5cd077f4d65921d1f727b6202b0
+    okf_sha256: 520ac8689dbcfe1f3be2ed99dafda8715eb436313221c6ca77dd66080cd2f726
     heading: Clause 3 — Serviceable and Unserviceable Materials
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -623,17 +665,27 @@ claims:
       not an explicit hierarchy or a compliance determination.
     corrected_at: '2026-11-01T12:20:49+00:00'
     method: topic-specific editorial relation label
+  - previous_claim_id: Ca4bc2d1dd0ce0741
+    previous_evidence_ids:
+    - J41b395b066d7bd2d
+    - J9984ce2b513c90ab
+    previous_from_id: J41b395b066d7bd2d
+    previous_to_id: J9984ce2b513c90ab
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T12:20:49+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: concepts/demolition_specifications_vol2_part4a.md
   title: Source topic page
   evidence_ids:
-  - J41b395b066d7bd2d
+  - Je57f51de5f815015
 source_scope_note: The complete creation prompt explicitly includes matching JSON with each OKF file. These are
   source-linked extracts, not independent external assumptions. PDF/source review remains pending.
 editorial_method: Source-backed editorial synthesis; no new API generation call
-last_editorial_review: '2026-11-01T12:36:19+00:00'
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Demolition Access, Escape and Public Protection
@@ -643,27 +695,27 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Summary
 
 - This page brings together the cited requirements for demolition access, escape and public protection. Each source statement retains its own stage, conditions and review limitations.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 24; quotation `J41b395b066d7bd2d`. JSON: `parsed_json/vol2/part_4a_demolition/demolition_clauses.json#/clauses/2/fragments/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 27; quotation `J9984ce2b513c90ab`. JSON: `parsed_json/vol2/part_4a_demolition/demolition_clauses.json#/clauses/2/fragments/4`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 28; quotation `Jb3124124c0d4c13e`. JSON: `parsed_json/vol2/part_4a_demolition/demolition_clauses.json#/clauses/2/fragments/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 24; quotation `Je57f51de5f815015`. JSON: `parsed_json/vol2/part_4a_demolition/demolition_clauses.json#/clauses/2/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 27; quotation `Jb29804ec5d4e0387`. JSON: `parsed_json/vol2/part_4a_demolition/demolition_clauses.json#/clauses/2/fragments/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 28; quotation `J51ad754a214f5d7b`. JSON: `parsed_json/vol2/part_4a_demolition/demolition_clauses.json#/clauses/2/fragments/5`.
 
 ## Key Parameters and Source Statements
 
 - Before demolition, access control and emergency escape are linked requirements: danger signals and barricaded or manned openings are specified together with at least two independent exits.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 24; quotation `J41b395b066d7bd2d`. JSON: `parsed_json/vol2/part_4a_demolition/demolition_clauses.json#/clauses/2/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 24; quotation `Je57f51de5f815015`. JSON: `parsed_json/vol2/part_4a_demolition/demolition_clauses.json#/clauses/2/fragments/1`.
 
 - Where worker entrances lack full sidewalk-shed protection, the source calls for a canopy extending at least 2.5 m from the face, at least 0.6 m wider than the entrance/opening, and as strong as the sidewalk shed.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 27; quotation `J9984ce2b513c90ab`. JSON: `parsed_json/vol2/part_4a_demolition/demolition_clauses.json#/clauses/2/fragments/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 27; quotation `Jb29804ec5d4e0387`. JSON: `parsed_json/vol2/part_4a_demolition/demolition_clauses.json#/clauses/2/fragments/4`.
 
 - Wall-removal precautions include the height-to-thickness bracing condition and its exception, walkways at least three planks and 0.8 m wide, stable walls at day-end, and support/earth-removal precautions before demolishing retaining foundation walls.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 28; quotation `Jb3124124c0d4c13e`. JSON: `parsed_json/vol2/part_4a_demolition/demolition_clauses.json#/clauses/2/fragments/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 28; quotation `J51ad754a214f5d7b`. JSON: `parsed_json/vol2/part_4a_demolition/demolition_clauses.json#/clauses/2/fragments/5`.
 
 ## Typed Relations
 
 - Editorial topic mapping for Demolition Access, Escape and Public Protection: the two cited source records are connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence rule or a compliance decision.
   - **relates_to (inferred):** [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]] → [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 24; quotation `J41b395b066d7bd2d`. JSON: `parsed_json/vol2/part_4a_demolition/demolition_clauses.json#/clauses/2/fragments/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 27; quotation `J9984ce2b513c90ab`. JSON: `parsed_json/vol2/part_4a_demolition/demolition_clauses.json#/clauses/2/fragments/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 24; quotation `Je57f51de5f815015`. JSON: `parsed_json/vol2/part_4a_demolition/demolition_clauses.json#/clauses/2/fragments/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 27; quotation `Jb29804ec5d4e0387`. JSON: `parsed_json/vol2/part_4a_demolition/demolition_clauses.json#/clauses/2/fragments/4`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]
@@ -671,7 +723,7 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Related Wiki Entities
 
 - **relates_to (editorial, inferred):** [[wiki/concepts/demolition_specifications_vol2_part4a|Source topic page]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 24; `J41b395b066d7bd2d`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 24; `Je57f51de5f815015`.
 
 ## Open Questions and Contradictions
 
@@ -680,7 +732,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### J41b395b066d7bd2d
+### Je57f51de5f815015
 
 [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]
 
@@ -689,7 +741,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "3.5    Planning.    Before beginning the actual work of demolition, the contractor shall\n        carefully study the structure, which is to be pulled down and also of its surroundings. This\n        shall include the following:\n\n        a) The manner in which the various parts of buildings are supported and how far the\n          stage by stage demolition would affect the safety of the rest of the same structure\n         and the adjoining structure;\n        b) A definite plan and procedure of demolition work shall be prepared, taking into\n          account the loads on various structural parts and their supports;\n        c)  Before commencement of each stage of demolition, the supervisor shall brief the\n         workmen in detail regarding the safety aspects to be kept in view;\n        d)  Ensure that the demolition conditions do not, at any stage, enhance the nuisance\n           value of demolition work on the use of adjacent buildings;\n        e) No structure or part of the structure or any floor or temporary support or scaffold, side\n            wall or any device for equipment shall be loaded in excess of the safe load bearing\n            capacity, in its then existing condition; and\n           f)   Stairs and stair railings, passage ways and ladders shall be left in place as long as\n            possible. These should be maintained in a safe condition.\n\n       3.6    Precautions and protective measures before starting demolition work\n      The following precautions and protective measures shall be taken before commencement\n        of demolition work:\n\n        (a)   On every demolition job, danger signals shall be conspicuously posted all around\n       the structure and all doors, openings giving access to structures shall be kept barricaded\n        or manned except during the actual passage of workmen or equipment. However,\n        provision shall be made for at least two independent exits for escape of workmen during\n      any emergency.\n        (b)   Walkways and passageways shall be provided for the use of the workmen who\n        shall be instructed to use them and all such walkways and passageways shall be kept\n       adequately lighted, free from all debris and other materials.\n        (c)    Where in any work of demolition it is imperative, because of existing danger, to\n      ensure that no unauthorized person shall enter the site of demolition outside working\n       hours, watchmen shall be employed all 24 hrs.in a day. In addition to watching the site\n      he shall also be responsible for maintaining all signs, notices, lights, barricades, etc.\n       During nights, red lights shall be placed on or about the barricades.\n        (d)    The power on all electrical service lines shall be shutoff and all such lines cut or\n       disconnected at or outside the property line. The only exception would be any power lines\n       required for the demolition work itself.  Prior to cutting of/disconnecting such lines, the\n      necessary approval of the Authority shall be obtained and beneficiaries intimated in\n      advance.\n        (e)    The structure to be demolished/dismantled must have barricades, which shall be\n        of plain MS Sheet of 16 gauge fixed with steel frame, painting, with synthetic enamel paint\n        of approved  color,  quality and brand,  writing  letter and logo  of metro  including\n      maintenance of the same, duly cleaning the same frequently, arrangement for blinker\n         light as per requirement. During demolition barricades has to be kept continuously.\n      Removal of barricade will not be permitted  till completion of demolition, dismantling of\n       properties\n\n          (f)   All mains and meters of the building shall be removed or protected from damage.\n        (g)  All gas, water, steam and other service lines shall be shutoff and capped or otherwise\n            controlled at or outside the property line.\n        (h)  If a structure to be demolished has been partially wrecked by fire, explosion or other\n           catastrophe, the walls and damaged roofs shall be shored and braced suitably."
 > }
 
-### J9984ce2b513c90ab
+### Jb29804ec5d4e0387
 
 [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]
 
@@ -698,7 +750,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "roadway along the entire length of demolition side of the property with movable bars\n               as may be necessary for the proper prosecution of the work.\n                       l)  Where workers entrances to the building being demolished are not completely\n                 protected by sidewalk sheds, all such entrances shall be protected by canopies\n                extending from the face of the building to a point not less than 2.5 m from it. In such\n              a case, overhead projection shall be at least 0.6 m wider than the building entrance\n                  or opening and every canopy shall be as strong as the sidewalk shed.\n\n             3.8   Sequence of demolition operations: The sequence of demolition shall generally\n           be as given below:\n\n              a) The demolition shall always proceed systematically storey by storey in descending\n             order and the demolition of upper floors shall be completely over before any of the\n             supporting members or other important portion on the lower floor  is disturbed. No\n            unnecessary work shall go on below when the demolition is in progress above. When\n          some work is to be done at the lower level, adequate protection shall be provided for all\n             the workmen so engaged.\n              b) The requirements of (a) shall not prohibit the demolition of structures by sections, if\n          means are taken to prevent injuries to persons or damage to property.\n               c)     Roofs (or floors), generally, be demolished first before demolishing the supporting\n              walls structural elements.\n              d)      All glazed sash, glazed doors and windows etc., shall be removed before the\n              demolition of roofs and walls starts. All fragile and loose fixtures shall be removed. Lath\n           and loose plaster be stripped off throughout the entire structure. This is advantageous\n           because it reduces glass breakage and also eliminates a large amount of dust producing\n              material before more substantial parts of the building are removed.\n              e) The structure to be demolished/dismantled must have barricades, which shall be of\n               plain MS Sheet of 16 gauge fixed with steel frame, painting, with synthetic enamel paint\n               of approved  color,  quality and brand,  writing  letter and logo  of metro  including\n            maintenance of the same, duly cleaning the same frequently, arrangement for blinker\n                 light as per requirement. During demolition barricades has to be kept continuously.\n           Removal of barricade will not be permitted  till completion of demolition, dismantling of\n              properties\n\n             3.9    Demolition of floors. For demolition of floors the following procedure may be\n               followed:\n\n              a) A slit in width not exceeding 300 mm shall be cut at the first stage for the entire length\n               of the slab along which it spans. The opening shall thereafter be increased to the desired\n             width by suitable installments.\n              b)     Planks of sufficient strength not less than 50 mm thick and 250 mm wide shall be\n             provided at a spacing not greater than 0.4 m. These planks shall be so placed as to give\n           workmen firm support to guard against any unexpected collapse.\n               c)     Stringers of ample strength shall be installed to support the planks where\n            necessary and the ends of stringers shall be supported by floor beams, girders and not\n            by floor slab alone.\n              d)    When floors are being removed, no workmen shall be allowed to work in the area,\n                directly underneath and such area shall be barricaded to prevent access to it.\n              e)    The demolition of the floor in question shall be started only after the surrounding\n            area for a distance of 6 m have been entirely cleared of persons, and the debris and other\n            unnecessary material removed.\n                    f)     Planks used for temporary protection shall be sound and at least 50 mm thick.\n           They shall be laid close together with ends overlapping at least 100 mm over solid bearing\n               to prevent tipping under load."
 > }
 
-### Jb3124124c0d4c13e
+### J51ad754a214f5d7b
 
 [[OKF_bundle/Technical/Vol2/vol2_part4A#Clause 3 — Serviceable and Unserviceable Materials|Clause 3 — Serviceable and Unserviceable Materials]]
 

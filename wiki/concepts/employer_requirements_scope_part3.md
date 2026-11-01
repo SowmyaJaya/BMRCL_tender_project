@@ -6,260 +6,260 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-31T06:27:20+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T06:38:08+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /preamble/0
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/0
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /other_numbered_lines/3
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /other_numbered_lines/1
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /other_numbered_lines/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /other_numbered_lines/0
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/1
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/10
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/19
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/9
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/3
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/4
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/20
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/17
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/13
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/15
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/16
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/14
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_3_equipment/equipment_requirements.json
   json_sha256: 748f008ccf7681c330c32363d7d31900b33cbd45ef94ebaead651e3832df885a
   json_pointer: /equipment_requirements/0/cells/0
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_3_equipment/equipment_requirements.json
   json_sha256: 748f008ccf7681c330c32363d7d31900b33cbd45ef94ebaead651e3832df885a
   json_pointer: /equipment_requirements/1/cells/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_3_equipment/equipment_requirements.json
   json_sha256: 748f008ccf7681c330c32363d7d31900b33cbd45ef94ebaead651e3832df885a
   json_pointer: /equipment_requirements/2/cells/0
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_3_equipment/equipment_requirements.json
   json_sha256: 748f008ccf7681c330c32363d7d31900b33cbd45ef94ebaead651e3832df885a
   json_pointer: /equipment_requirements/2/cells/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_3_equipment/equipment_requirements.json
   json_sha256: 748f008ccf7681c330c32363d7d31900b33cbd45ef94ebaead651e3832df885a
   json_pointer: /equipment_requirements/4/cells/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_3_equipment/equipment_requirements.json
   json_sha256: 748f008ccf7681c330c32363d7d31900b33cbd45ef94ebaead651e3832df885a
   json_pointer: /equipment_requirements/5/cells/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_3_equipment/equipment_requirements.json
   json_sha256: 748f008ccf7681c330c32363d7d31900b33cbd45ef94ebaead651e3832df885a
   json_pointer: /equipment_requirements/6/cells/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_3_equipment/equipment_requirements.json
   json_sha256: 748f008ccf7681c330c32363d7d31900b33cbd45ef94ebaead651e3832df885a
   json_pointer: /equipment_requirements/7/cells/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_3_equipment/equipment_requirements.json
   json_sha256: 748f008ccf7681c330c32363d7d31900b33cbd45ef94ebaead651e3832df885a
   json_pointer: /equipment_requirements/8/cells/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/annexure_3_equipment/equipment_requirements.json
   json_sha256: 748f008ccf7681c330c32363d7d31900b33cbd45ef94ebaead651e3832df885a
   json_pointer: /equipment_requirements/9/cells/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/6
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/7
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/5
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/8
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/11
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
   json_pointer: /clauses/12
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-  okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+  okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_3_scope/scope_clauses.json
   json_sha256: 21079b852b5a29d3d0e7bf4ecafcfec1b2a79436cd6a55c3806f8b92dbbc44d0
@@ -271,18 +271,18 @@ claims:
     and dismantling of structures from JP Nagar 4th Phase Station to Mysore Road Station (Ch: (-) 0.330 Km to Ch:
     10.550 Km) in Corridor-1 of Phase-3.'
   evidence_ids:
-  - J3478c78c10d0e2b8
-  - J8a652c9904034b79
-  - S5e20ea2b82e13188
+  - J9dfae1ca0ed04e3d
+  - J83ecd743b319c856
+  - S89bdb908116a21bf
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce92549cae7808a0e
+  id: Ce5a1cf8ef212f7bc
   citations:
-  - id: J3478c78c10d0e2b8
+  - id: J9dfae1ca0ed04e3d
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -297,9 +297,9 @@ claims:
     quote: "{\n  \"pdf_page\": 15,\n  \"text\": \"PART-3: SCOPE OF WORK\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J8a652c9904034b79
+  - id: J83ecd743b319c856
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 1 — General Requirements
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -376,9 +376,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"General Requirements\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: S5e20ea2b82e13188
+  - id: S89bdb908116a21bf
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     pdf_pages:
@@ -391,24 +391,36 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T06:27:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce92549cae7808a0e
+    previous_evidence_ids:
+    - J3478c78c10d0e2b8
+    - J8a652c9904034b79
+    - S5e20ea2b82e13188
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'The scope specifies four primary categories of demolition: partial demolition, full demolition, compound
     wall demolition, and steel structure dismantling (such as bus stops, median grills, and hoardings).'
   evidence_ids:
-  - J7c099bb6c8d2c188
-  - J7cc1158070142af7
-  - J8a652c9904034b79
-  - Jce4ef86f746b3965
-  - Jf14e5e3de20712a1
+  - J50beb5c0e97ab64d
+  - Jee212ae8c5dd2297
+  - J83ecd743b319c856
+  - Jd028ac07c41d45cb
+  - Ja76df8a6f3b23fa5
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C47e8edba9176d57f
+  id: Cc9250094fd455d1e
   citations:
-  - id: J7c099bb6c8d2c188
+  - id: J50beb5c0e97ab64d
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -425,9 +437,9 @@ claims:
       \ compound\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J7cc1158070142af7
+  - id: Jee212ae8c5dd2297
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -444,9 +456,9 @@ claims:
       \ consisting of\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J8a652c9904034b79
+  - id: J83ecd743b319c856
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 1 — General Requirements
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -523,9 +535,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"General Requirements\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jce4ef86f746b3965
+  - id: Jd028ac07c41d45cb
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -542,9 +554,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf14e5e3de20712a1
+  - id: Ja76df8a6f3b23fa5
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -563,20 +575,34 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:27:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C47e8edba9176d57f
+    previous_evidence_ids:
+    - J7c099bb6c8d2c188
+    - J7cc1158070142af7
+    - J8a652c9904034b79
+    - Jce4ef86f746b3965
+    - Jf14e5e3de20712a1
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Permanent remedial and restoration works resulting from Building Condition Studies are executed in accordance
     with KPWD Common SR 2023-24 and the accepted bill of quantities.
   evidence_ids:
-  - J8a652c9904034b79
+  - J83ecd743b319c856
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C49ec42be91bc2c11
+  id: C87b49cbc80e5881b
   citations:
-  - id: J8a652c9904034b79
+  - id: J83ecd743b319c856
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 1 — General Requirements
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -655,28 +681,38 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:27:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C49ec42be91bc2c11
+    previous_evidence_ids:
+    - J8a652c9904034b79
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Demolition and dismantling procedures require an initial engineering survey, development of structural strengthening
     methods for balance/neighboring portions, continuous worker and public protection using wire nets and shoring,
     strict dust and noise controls, prohibition of explosives and on-site burning, and mandatory property barricading
     with 16-gauge MS sheets.
   evidence_ids:
-  - J1f501d9135a42721
-  - J2b2f745124be1231
-  - J6d5217698a7a1db4
-  - J897688578966fa2d
-  - J97a363eb819533d2
-  - Ja30145af823d2e14
-  - Jec778baaea14047c
+  - J3eb6197035e8c73a
+  - J1693150d9155007c
+  - J320d8fc241b67041
+  - Jb3cd2ede20a3ce4b
+  - J2ccbbb9598852f12
+  - J1d55bdf3a23af5fa
+  - Jdc6c0d4dac261c26
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cc00470582496b6bb
+  id: C791c460ce57be87b
   citations:
-  - id: J1f501d9135a42721
+  - id: J3eb6197035e8c73a
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 2 — Work Plan
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -702,9 +738,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"Work Plan\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J2b2f745124be1231
+  - id: J1693150d9155007c
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 11 — Use of Explosives
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -722,9 +758,9 @@ claims:
       ,\n  \"title\": \"Use of explosives\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J6d5217698a7a1db4
+  - id: J320d8fc241b67041
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 3 — Dust Control
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -747,9 +783,9 @@ claims:
       ,\n  \"title\": \"Dust Control\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J897688578966fa2d
+  - id: Jb3cd2ede20a3ce4b
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 20 — Barricading the Properties During Demolition/Dismantling
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -773,9 +809,9 @@ claims:
       \ demolition / dismantling\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J97a363eb819533d2
+  - id: J2ccbbb9598852f12
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 10 — Burning
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -794,9 +830,9 @@ claims:
       }"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Ja30145af823d2e14
+  - id: J1d55bdf3a23af5fa
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 4 — Protection of Personnel
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -823,9 +859,9 @@ claims:
       ,\n  \"review_status\": \"pending_manual_review\",\n  \"title\": \"Protection of Personnel\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Jec778baaea14047c
+  - id: Jdc6c0d4dac261c26
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 5 — Protection of Structures
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -852,20 +888,36 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:27:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cc00470582496b6bb
+    previous_evidence_ids:
+    - J1f501d9135a42721
+    - J2b2f745124be1231
+    - J6d5217698a7a1db4
+    - J897688578966fa2d
+    - J97a363eb819533d2
+    - Ja30145af823d2e14
+    - Jec778baaea14047c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Demolition of buildings and structures must ensure minimal vibration without affecting remaining stability,
     permitting dismantling strictly via diamond disc cutter or floor saw machine at all levels under engineer direction.
   evidence_ids:
-  - J3af981535cf3c95f
+  - J1487f186edcf9b22
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6eeb719c2f326e57
+  id: C92ab5e5c9c87c392
   citations:
-  - id: J3af981535cf3c95f
+  - id: J1487f186edcf9b22
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 21 — Demolition of Buildings/Structures
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -897,21 +949,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:27:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6eeb719c2f326e57
+    previous_evidence_ids:
+    - J3af981535cf3c95f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Debris must be removed daily and disposed of at BBMP/GBA identified C&D waste management facilities, with
     transportation managed to prevent street spillage.
   evidence_ids:
-  - J8a652c9904034b79
-  - Je50c7eaf7b26dc03
+  - J83ecd743b319c856
+  - Je0d1d52d7339f41b
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C699f3832a397025d
+  id: C0f4dbe9b2109b488
   citations:
-  - id: J8a652c9904034b79
+  - id: J83ecd743b319c856
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 1 — General Requirements
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -988,9 +1050,9 @@ claims:
       : \"pending_manual_review\",\n  \"title\": \"General Requirements\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Je50c7eaf7b26dc03
+  - id: Je0d1d52d7339f41b
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 18 — Clean Up
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1012,24 +1074,35 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:27:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C699f3832a397025d
+    previous_evidence_ids:
+    - J8a652c9904034b79
+    - Je50c7eaf7b26dc03
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Salvage provisions dictate that landowners losing land/structures have rights to salvage materials, while
     non-interest items belong to the Contractor with values credited to BMRCL; selling salvaged materials at site
     is prohibited.
   evidence_ids:
-  - J186aa0bc2d6a9b41
-  - J2a0339dd70c0c1e7
-  - J37cdd1151af09b0e
-  - J5b556987a9fd11b6
+  - J8d2c563b9d83facb
+  - Jb1ec0b1cda22a2ca
+  - J290c3ada0610488f
+  - J6b4a741b13fd1302
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C6c6dac4af2624f57
+  id: C4101920c4207a13b
   citations:
-  - id: J186aa0bc2d6a9b41
+  - id: J8d2c563b9d83facb
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 14 — Disposal of Material
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1051,9 +1124,9 @@ claims:
       title\": \"Disposal of material\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J2a0339dd70c0c1e7
+  - id: Jb1ec0b1cda22a2ca
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 16 — Material Salvaged for the Contractor
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1072,9 +1145,9 @@ claims:
       \ Salvaged for the contractor\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J37cdd1151af09b0e
+  - id: J290c3ada0610488f
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 17 — Item Salvaged for the Government
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1097,9 +1170,9 @@ claims:
       ,\n  \"title\": \"Item salvaged for the Government\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J5b556987a9fd11b6
+  - id: J6b4a741b13fd1302
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 15 — Salvageable Items and Material
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1124,31 +1197,44 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-10-31T06:27:20+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C6c6dac4af2624f57
+    previous_evidence_ids:
+    - J186aa0bc2d6a9b41
+    - J2a0339dd70c0c1e7
+    - J37cdd1151af09b0e
+    - J5b556987a9fd11b6
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Annexure 3 of Volume 2 Part 3 mandates specific minimum plant and equipment deployments for Tender Package
     P1, including diamond disc cutters/floor saw machines, wall sawing machines, floor saw machines, electric drill
     motors/hammer drilling machines, chipping machines, crushers/combi crushers, hydraulic mobile cranes, high/long
     reach demolition equipment, hydraulic rock breakers with loaders, and DG sets of 100kVA or higher capacity.
   evidence_ids:
-  - Je3c46216f17738f5
-  - J7ea387c9d4ffac3b
-  - J7f85bc5fd6a7099b
-  - J609780c95b251c3e
-  - J20c51a8a096967a8
-  - J8a7a071567d94a32
-  - Jf08376653978058e
-  - J4d7b51e46aa5f167
-  - Jcb10e1591a8aea5f
-  - Jfc0d8c794bb0090c
+  - J6c90d51bd6d78598
+  - J932dfabc5afaa1cb
+  - J9f95c972e946a905
+  - Jc004bb14696c3ff1
+  - J23328bca576fdc3c
+  - Jaddbd9dad74fda14
+  - Jf4bd8b74e2294fc4
+  - J7292981c74bec1a4
+  - J89130b1b48541662
+  - Jef2528a1c7379af4
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C31d51d74b8270586
+  id: C2522825bca7ddcfc
   citations:
-  - id: Je3c46216f17738f5
+  - id: J6c90d51bd6d78598
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1164,9 +1250,9 @@ claims:
       \  \"field_id\": \"serial_number\",\n  \"text\": \"1\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J7ea387c9d4ffac3b
+  - id: J932dfabc5afaa1cb
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1182,9 +1268,9 @@ claims:
       \  \"field_id\": \"printed_deployment_quantity\",\n  \"text\": \"3 Nos\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J7f85bc5fd6a7099b
+  - id: J9f95c972e946a905
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1200,9 +1286,9 @@ claims:
       \  \"field_id\": \"serial_number\",\n  \"text\": \"3\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J609780c95b251c3e
+  - id: Jc004bb14696c3ff1
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1218,9 +1304,9 @@ claims:
       \  \"field_id\": \"printed_deployment_quantity\",\n  \"text\": \"4 Nos\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J20c51a8a096967a8
+  - id: J23328bca576fdc3c
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1236,9 +1322,9 @@ claims:
       \  \"field_id\": \"printed_deployment_quantity\",\n  \"text\": \"12 Nos\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J8a7a071567d94a32
+  - id: Jaddbd9dad74fda14
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1254,9 +1340,9 @@ claims:
       \  \"field_id\": \"printed_deployment_quantity\",\n  \"text\": \"2 Nos\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jf08376653978058e
+  - id: Jf4bd8b74e2294fc4
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1272,9 +1358,9 @@ claims:
       \  \"field_id\": \"printed_deployment_quantity\",\n  \"text\": \"2 Nos\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: J4d7b51e46aa5f167
+  - id: J7292981c74bec1a4
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1290,9 +1376,9 @@ claims:
       \  \"field_id\": \"printed_deployment_quantity\",\n  \"text\": \"1 Nos\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jcb10e1591a8aea5f
+  - id: J89130b1b48541662
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1308,9 +1394,9 @@ claims:
       \  \"field_id\": \"printed_deployment_quantity\",\n  \"text\": \"2 Nos\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: document_heading_fallback_not_a_subclause_match
-  - id: Jfc0d8c794bb0090c
+  - id: Jef2528a1c7379af4
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1328,19 +1414,38 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:28:26+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C31d51d74b8270586
+    previous_evidence_ids:
+    - Je3c46216f17738f5
+    - J7ea387c9d4ffac3b
+    - J7f85bc5fd6a7099b
+    - J609780c95b251c3e
+    - J20c51a8a096967a8
+    - J8a7a071567d94a32
+    - Jf08376653978058e
+    - J4d7b51e46aa5f167
+    - Jcb10e1591a8aea5f
+    - Jfc0d8c794bb0090c
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Salvageable materials and equipment must be protected from the weather at all times.
   evidence_ids:
-  - J304bc20eccc75f91
+  - J95b681187d250aa1
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C8f4812a5640b4376
+  id: Cb7b4f8fb9fa86421
   citations:
-  - id: J304bc20eccc75f91
+  - id: J95b681187d250aa1
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 7 — Protection from the Weather
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1361,21 +1466,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T06:38:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C8f4812a5640b4376
+    previous_evidence_ids:
+    - J304bc20eccc75f91
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Trees within project sites designated to remain that are damaged during demolition must be replaced in kind
     or as approved by the contracting officer, and protected by a high fence erected a minimum of 2 m from the trunk
     or following the outer perimeter.
   evidence_ids:
-  - J520e65c12fa6354a
+  - Jc90e385438ad8f04
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C000fe171fb50eded
+  id: Cbc505019116222ee
   citations:
-  - id: J520e65c12fa6354a
+  - id: Jc90e385438ad8f04
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 8 — Protection of Trees
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1400,21 +1515,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T06:38:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C000fe171fb50eded
+    previous_evidence_ids:
+    - J520e65c12fa6354a
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Before beginning any demolition work, the contractor must survey the site and examine drawings and specifications,
     take precautions to avoid damage to existing items to remain, ensure structural elements are not overloaded,
     and add or increase structural supports as required.
   evidence_ids:
-  - J7c86cb9dbb9633be
+  - J771bc4092382b96f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ceb5142b7022ece21
+  id: Ccd55c2f0a3a8698a
   citations:
-  - id: J7c86cb9dbb9633be
+  - id: J771bc4092382b96f
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 6 — Protection of Existing Property
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1442,19 +1567,29 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T06:38:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ceb5142b7022ece21
+    previous_evidence_ids:
+    - J7c86cb9dbb9633be
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Demolition work must comply with relevant environmental protection clauses.
   evidence_ids:
-  - J8e3e83cd377d1290
+  - Jc1645d2e109db1bb
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C1c9a0fe65e039e7c
+  id: Cf83558b62f6a1548
   citations:
-  - id: J8e3e83cd377d1290
+  - id: Jc1645d2e109db1bb
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 9 — Environmental Protection
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1475,20 +1610,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T06:38:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C1c9a0fe65e039e7c
+    previous_evidence_ids:
+    - J8e3e83cd377d1290
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Existing utilities must be removed as indicated, and unindicated utility lines encountered require work
     to stop in that area pending notification and instruction.
   evidence_ids:
-  - Ja8c64ddd1a22274f
+  - J2c261a0cd59e165e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C4f1b3cf6b31d959e
+  id: Ceacc870c4fc96506
   citations:
-  - id: Ja8c64ddd1a22274f
+  - id: J2c261a0cd59e165e
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 12 — Utilities
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1510,20 +1655,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T06:38:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C4f1b3cf6b31d959e
+    previous_evidence_ids:
+    - Ja8c64ddd1a22274f
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: Holes, open basements, and other hazardous openings resulting from demolition must be filled in accordance
     with relevant IS codes.
   evidence_ids:
-  - J4235c24591df1103
+  - J3ce394f250504d2d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cb324433c87074680
+  id: Cac1a292ffeedd4ff
   citations:
-  - id: J4235c24591df1103
+  - id: J3ce394f250504d2d
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 13 — Filling
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1544,20 +1699,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T06:38:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cb324433c87074680
+    previous_evidence_ids:
+    - J4235c24591df1103
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: BMRCL will progressively make available to the contractor a list of buildings to be demolished, including
     demolition areas and related details for handing over the work front.
   evidence_ids:
-  - J429f0443d60cbbd2
+  - Jeca1def615e37497
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C02ef3d951590dc7a
+  id: Cd1a00d51a93464ae
   citations:
-  - id: J429f0443d60cbbd2
+  - id: Jeca1def615e37497
     okf_path: OKF_bundle/Technical/Vol2/vol2_part3.md
-    okf_sha256: f86fc19695fbc8a357a024de37ffca46831c0862a8aae6ee5ffaf1faf0a4d5ec
+    okf_sha256: 1c0abd5283c7245b910ad0492985a64b765da25dd5f637fb8dc844b302f86baa
     heading: Clause 19 — Handing Over of Work Front
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -1578,13 +1743,23 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T06:38:08+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C02ef3d951590dc7a
+    previous_evidence_ids:
+    - J429f0443d60cbbd2
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: concepts/salvage_ownership_and_credit.md
   title: Salvage Ownership and Schedule C Credit
   evidence_ids:
-  - J186aa0bc2d6a9b41
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - J8d2c563b9d83facb
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Employer Requirements and Scope of Work (Vol 2 Part 3)
@@ -1594,76 +1769,76 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - Volume 2 Part 3 defines the scope of work for BMRCL Tender Package P1, covering partial and full demolition and dismantling of structures from JP Nagar 4th Phase Station to Mysore Road Station (Ch: (-) 0.330 Km to Ch: 10.550 Km) in Corridor-1 of Phase-3.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 15; quotation `J3478c78c10d0e2b8`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/preamble/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 1 — General Requirements|Clause 1 — General Requirements]]; `Vol2DLNP1.pdf`; PDF page(s) 15, 16; quotation `J8a652c9904034b79`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 19; quotation `S5e20ea2b82e13188`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 15; quotation `J9dfae1ca0ed04e3d`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/preamble/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 1 — General Requirements|Clause 1 — General Requirements]]; `Vol2DLNP1.pdf`; PDF page(s) 15, 16; quotation `J83ecd743b319c856`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 19; quotation `S89bdb908116a21bf`.
 
 ## Key Parameters and Source Statements
 
 - The scope specifies four primary categories of demolition: partial demolition, full demolition, compound wall demolition, and steel structure dismantling (such as bus stops, median grills, and hoardings).
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 15; quotation `J7c099bb6c8d2c188`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/other_numbered_lines/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 15; quotation `J7cc1158070142af7`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/other_numbered_lines/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 1 — General Requirements|Clause 1 — General Requirements]]; `Vol2DLNP1.pdf`; PDF page(s) 15, 16; quotation `J8a652c9904034b79`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 15; quotation `Jce4ef86f746b3965`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/other_numbered_lines/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 15; quotation `Jf14e5e3de20712a1`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/other_numbered_lines/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 15; quotation `J50beb5c0e97ab64d`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/other_numbered_lines/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 15; quotation `Jee212ae8c5dd2297`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/other_numbered_lines/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 1 — General Requirements|Clause 1 — General Requirements]]; `Vol2DLNP1.pdf`; PDF page(s) 15, 16; quotation `J83ecd743b319c856`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 15; quotation `Jd028ac07c41d45cb`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/other_numbered_lines/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 15; quotation `Ja76df8a6f3b23fa5`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/other_numbered_lines/0`.
 
 - Permanent remedial and restoration works resulting from Building Condition Studies are executed in accordance with KPWD Common SR 2023-24 and the accepted bill of quantities.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 1 — General Requirements|Clause 1 — General Requirements]]; `Vol2DLNP1.pdf`; PDF page(s) 15, 16; quotation `J8a652c9904034b79`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 1 — General Requirements|Clause 1 — General Requirements]]; `Vol2DLNP1.pdf`; PDF page(s) 15, 16; quotation `J83ecd743b319c856`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/0`.
 
 - Demolition and dismantling procedures require an initial engineering survey, development of structural strengthening methods for balance/neighboring portions, continuous worker and public protection using wire nets and shoring, strict dust and noise controls, prohibition of explosives and on-site burning, and mandatory property barricading with 16-gauge MS sheets.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 2 — Work Plan|Clause 2 — Work Plan]]; `Vol2DLNP1.pdf`; PDF page(s) 16; quotation `J1f501d9135a42721`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 11 — Use of Explosives|Clause 11 — Use of Explosives]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J2b2f745124be1231`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/10`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 3 — Dust Control|Clause 3 — Dust Control]]; `Vol2DLNP1.pdf`; PDF page(s) 16; quotation `J6d5217698a7a1db4`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 20 — Barricading the Properties During Demolition/Dismantling|Clause 20 — Barricading the Properties During Demolition/Dismantling]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J897688578966fa2d`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/19`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 10 — Burning|Clause 10 — Burning]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J97a363eb819533d2`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/9`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 4 — Protection of Personnel|Clause 4 — Protection of Personnel]]; `Vol2DLNP1.pdf`; PDF page(s) 16, 17; quotation `Ja30145af823d2e14`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 5 — Protection of Structures|Clause 5 — Protection of Structures]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `Jec778baaea14047c`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/4`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 2 — Work Plan|Clause 2 — Work Plan]]; `Vol2DLNP1.pdf`; PDF page(s) 16; quotation `J3eb6197035e8c73a`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 11 — Use of Explosives|Clause 11 — Use of Explosives]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J1693150d9155007c`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/10`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 3 — Dust Control|Clause 3 — Dust Control]]; `Vol2DLNP1.pdf`; PDF page(s) 16; quotation `J320d8fc241b67041`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 20 — Barricading the Properties During Demolition/Dismantling|Clause 20 — Barricading the Properties During Demolition/Dismantling]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `Jb3cd2ede20a3ce4b`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/19`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 10 — Burning|Clause 10 — Burning]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J2ccbbb9598852f12`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/9`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 4 — Protection of Personnel|Clause 4 — Protection of Personnel]]; `Vol2DLNP1.pdf`; PDF page(s) 16, 17; quotation `J1d55bdf3a23af5fa`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 5 — Protection of Structures|Clause 5 — Protection of Structures]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `Jdc6c0d4dac261c26`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/4`.
 
 - Demolition of buildings and structures must ensure minimal vibration without affecting remaining stability, permitting dismantling strictly via diamond disc cutter or floor saw machine at all levels under engineer direction.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 21 — Demolition of Buildings/Structures|Clause 21 — Demolition of Buildings/Structures]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J3af981535cf3c95f`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/20`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 21 — Demolition of Buildings/Structures|Clause 21 — Demolition of Buildings/Structures]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J1487f186edcf9b22`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/20`.
 
 - Debris must be removed daily and disposed of at BBMP/GBA identified C&D waste management facilities, with transportation managed to prevent street spillage.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 1 — General Requirements|Clause 1 — General Requirements]]; `Vol2DLNP1.pdf`; PDF page(s) 15, 16; quotation `J8a652c9904034b79`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 18 — Clean Up|Clause 18 — Clean Up]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `Je50c7eaf7b26dc03`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/17`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 1 — General Requirements|Clause 1 — General Requirements]]; `Vol2DLNP1.pdf`; PDF page(s) 15, 16; quotation `J83ecd743b319c856`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 18 — Clean Up|Clause 18 — Clean Up]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `Je0d1d52d7339f41b`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/17`.
 
 - Salvage provisions dictate that landowners losing land/structures have rights to salvage materials, while non-interest items belong to the Contractor with values credited to BMRCL; selling salvaged materials at site is prohibited.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 14 — Disposal of Material|Clause 14 — Disposal of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J186aa0bc2d6a9b41`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/13`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 16 — Material Salvaged for the Contractor|Clause 16 — Material Salvaged for the Contractor]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J2a0339dd70c0c1e7`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/15`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 17 — Item Salvaged for the Government|Clause 17 — Item Salvaged for the Government]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J37cdd1151af09b0e`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/16`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 15 — Salvageable Items and Material|Clause 15 — Salvageable Items and Material]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J5b556987a9fd11b6`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/14`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 14 — Disposal of Material|Clause 14 — Disposal of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J8d2c563b9d83facb`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/13`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 16 — Material Salvaged for the Contractor|Clause 16 — Material Salvaged for the Contractor]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `Jb1ec0b1cda22a2ca`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/15`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 17 — Item Salvaged for the Government|Clause 17 — Item Salvaged for the Government]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J290c3ada0610488f`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/16`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 15 — Salvageable Items and Material|Clause 15 — Salvageable Items and Material]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J6b4a741b13fd1302`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/14`.
 
 - Annexure 3 of Volume 2 Part 3 mandates specific minimum plant and equipment deployments for Tender Package P1, including diamond disc cutters/floor saw machines, wall sawing machines, floor saw machines, electric drill motors/hammer drilling machines, chipping machines, crushers/combi crushers, hydraulic mobile cranes, high/long reach demolition equipment, hydraulic rock breakers with loaders, and DG sets of 100kVA or higher capacity.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `Je3c46216f17738f5`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/0/cells/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `J7ea387c9d4ffac3b`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/1/cells/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `J7f85bc5fd6a7099b`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/2/cells/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `J609780c95b251c3e`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/2/cells/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `J20c51a8a096967a8`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/4/cells/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `J8a7a071567d94a32`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/5/cells/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `Jf08376653978058e`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/6/cells/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `J4d7b51e46aa5f167`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/7/cells/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `Jcb10e1591a8aea5f`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/8/cells/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `Jfc0d8c794bb0090c`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/9/cells/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `J6c90d51bd6d78598`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/0/cells/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `J932dfabc5afaa1cb`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/1/cells/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `J9f95c972e946a905`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/2/cells/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `Jc004bb14696c3ff1`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/2/cells/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `J23328bca576fdc3c`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/4/cells/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `Jaddbd9dad74fda14`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/5/cells/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `Jf4bd8b74e2294fc4`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/6/cells/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `J7292981c74bec1a4`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/7/cells/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `J89130b1b48541662`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/8/cells/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]; `Vol2DLNP1.pdf`; PDF page(s) 22; quotation `Jef2528a1c7379af4`. JSON: `parsed_json/vol2/annexure_3_equipment/equipment_requirements.json#/equipment_requirements/9/cells/2`.
 
 - Salvageable materials and equipment must be protected from the weather at all times.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 7 — Protection from the Weather|Clause 7 — Protection from the Weather]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J304bc20eccc75f91`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/6`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 7 — Protection from the Weather|Clause 7 — Protection from the Weather]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J95b681187d250aa1`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/6`.
 
 - Trees within project sites designated to remain that are damaged during demolition must be replaced in kind or as approved by the contracting officer, and protected by a high fence erected a minimum of 2 m from the trunk or following the outer perimeter.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 8 — Protection of Trees|Clause 8 — Protection of Trees]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J520e65c12fa6354a`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/7`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 8 — Protection of Trees|Clause 8 — Protection of Trees]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `Jc90e385438ad8f04`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/7`.
 
 - Before beginning any demolition work, the contractor must survey the site and examine drawings and specifications, take precautions to avoid damage to existing items to remain, ensure structural elements are not overloaded, and add or increase structural supports as required.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 6 — Protection of Existing Property|Clause 6 — Protection of Existing Property]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J7c86cb9dbb9633be`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/5`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 6 — Protection of Existing Property|Clause 6 — Protection of Existing Property]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J771bc4092382b96f`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/5`.
 
 - Demolition work must comply with relevant environmental protection clauses.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 9 — Environmental Protection|Clause 9 — Environmental Protection]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J8e3e83cd377d1290`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/8`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 9 — Environmental Protection|Clause 9 — Environmental Protection]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `Jc1645d2e109db1bb`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/8`.
 
 - Existing utilities must be removed as indicated, and unindicated utility lines encountered require work to stop in that area pending notification and instruction.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 12 — Utilities|Clause 12 — Utilities]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `Ja8c64ddd1a22274f`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/11`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 12 — Utilities|Clause 12 — Utilities]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J2c261a0cd59e165e`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/11`.
 
 - Holes, open basements, and other hazardous openings resulting from demolition must be filled in accordance with relevant IS codes.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 13 — Filling|Clause 13 — Filling]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J4235c24591df1103`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/12`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 13 — Filling|Clause 13 — Filling]]; `Vol2DLNP1.pdf`; PDF page(s) 17; quotation `J3ce394f250504d2d`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/12`.
 
 - BMRCL will progressively make available to the contractor a list of buildings to be demolished, including demolition areas and related details for handing over the work front.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 19 — Handing Over of Work Front|Clause 19 — Handing Over of Work Front]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `J429f0443d60cbbd2`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/18`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 19 — Handing Over of Work Front|Clause 19 — Handing Over of Work Front]]; `Vol2DLNP1.pdf`; PDF page(s) 18; quotation `Jeca1def615e37497`. JSON: `parsed_json/vol2/part_3_scope/scope_clauses.json#/clauses/18`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
@@ -1692,7 +1867,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Typed Relations
 
 - **relates_to (editorial, inferred):** [[wiki/concepts/salvage_ownership_and_credit|Salvage Ownership and Schedule C Credit]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 14 — Disposal of Material|Clause 14 — Disposal of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 17; `J186aa0bc2d6a9b41`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 14 — Disposal of Material|Clause 14 — Disposal of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 17; `J8d2c563b9d83facb`.
 
 ## Open Questions and Contradictions
 
@@ -1701,7 +1876,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### J3478c78c10d0e2b8
+### J9dfae1ca0ed04e3d
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -1710,7 +1885,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "PART-3: SCOPE OF WORK"
 > }
 
-### J8a652c9904034b79
+### J83ecd743b319c856
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 1 — General Requirements|Clause 1 — General Requirements]]
 
@@ -1731,13 +1906,13 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "General Requirements"
 > }
 
-### S5e20ea2b82e13188
+### S89bdb908116a21bf
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
 > This part contains the scope of work of Section H (Employer Requirement, Scope of Work and Technical Specifications) in Volume 2 of BMRCL Tender No. `BMRCL/Phase-3/JPN-MRS/Demolition/DLN-P1/2026/157`, concerning partial and full demolition or dismantling of buildings and structures identified for Bangalore Metro Rail Project Phase 3.
 
-### J7c099bb6c8d2c188
+### J50beb5c0e97ab64d
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -1748,7 +1923,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "              4.  Demolition/dismantling of steel structures such as bus stops, median grills, compound"
 > }
 
-### J7cc1158070142af7
+### Jee212ae8c5dd2297
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -1759,7 +1934,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "              2.  Full demolition/dismantling of all types of structures of varying heights, consisting of"
 > }
 
-### Jce4ef86f746b3965
+### Jd028ac07c41d45cb
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -1770,7 +1945,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "              3.  Demolition/dismantling of compound walls of all shapes and heights by mechanical"
 > }
 
-### Jf14e5e3de20712a1
+### Ja76df8a6f3b23fa5
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -1781,7 +1956,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "              1.  Partial demolition/dismantling of all types of structures of varying heights, consisting of"
 > }
 
-### J1f501d9135a42721
+### J3eb6197035e8c73a
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 2 — Work Plan|Clause 2 — Work Plan]]
 
@@ -1798,7 +1973,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Work Plan"
 > }
 
-### J2b2f745124be1231
+### J1693150d9155007c
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 11 — Use of Explosives|Clause 11 — Use of Explosives]]
 
@@ -1815,7 +1990,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Use of explosives"
 > }
 
-### J6d5217698a7a1db4
+### J320d8fc241b67041
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 3 — Dust Control|Clause 3 — Dust Control]]
 
@@ -1832,7 +2007,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Dust Control"
 > }
 
-### J897688578966fa2d
+### Jb3cd2ede20a3ce4b
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 20 — Barricading the Properties During Demolition/Dismantling|Clause 20 — Barricading the Properties During Demolition/Dismantling]]
 
@@ -1849,7 +2024,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Barricading the properties during demolition / dismantling"
 > }
 
-### J97a363eb819533d2
+### J2ccbbb9598852f12
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 10 — Burning|Clause 10 — Burning]]
 
@@ -1866,7 +2041,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Burning"
 > }
 
-### Ja30145af823d2e14
+### J1d55bdf3a23af5fa
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 4 — Protection of Personnel|Clause 4 — Protection of Personnel]]
 
@@ -1887,7 +2062,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Protection of Personnel"
 > }
 
-### Jec778baaea14047c
+### Jdc6c0d4dac261c26
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 5 — Protection of Structures|Clause 5 — Protection of Structures]]
 
@@ -1904,7 +2079,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Protection of Structures"
 > }
 
-### J3af981535cf3c95f
+### J1487f186edcf9b22
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 21 — Demolition of Buildings/Structures|Clause 21 — Demolition of Buildings/Structures]]
 
@@ -1921,7 +2096,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Demolition of buildings/structures"
 > }
 
-### Je50c7eaf7b26dc03
+### Je0d1d52d7339f41b
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 18 — Clean Up|Clause 18 — Clean Up]]
 
@@ -1938,7 +2113,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Clean up"
 > }
 
-### J186aa0bc2d6a9b41
+### J8d2c563b9d83facb
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 14 — Disposal of Material|Clause 14 — Disposal of Material]]
 
@@ -1955,7 +2130,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Disposal of material"
 > }
 
-### J2a0339dd70c0c1e7
+### Jb1ec0b1cda22a2ca
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 16 — Material Salvaged for the Contractor|Clause 16 — Material Salvaged for the Contractor]]
 
@@ -1972,7 +2147,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Material Salvaged for the contractor"
 > }
 
-### J37cdd1151af09b0e
+### J290c3ada0610488f
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 17 — Item Salvaged for the Government|Clause 17 — Item Salvaged for the Government]]
 
@@ -1989,7 +2164,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Item salvaged for the Government"
 > }
 
-### J5b556987a9fd11b6
+### J6b4a741b13fd1302
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 15 — Salvageable Items and Material|Clause 15 — Salvageable Items and Material]]
 
@@ -2006,7 +2181,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Salvageable items and material"
 > }
 
-### Je3c46216f17738f5
+### J6c90d51bd6d78598
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2022,7 +2197,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "1"
 > }
 
-### J7ea387c9d4ffac3b
+### J932dfabc5afaa1cb
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2038,7 +2213,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "3 Nos"
 > }
 
-### J7f85bc5fd6a7099b
+### J9f95c972e946a905
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2054,7 +2229,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "3"
 > }
 
-### J609780c95b251c3e
+### Jc004bb14696c3ff1
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2070,7 +2245,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "4 Nos"
 > }
 
-### J20c51a8a096967a8
+### J23328bca576fdc3c
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2086,7 +2261,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "12 Nos"
 > }
 
-### J8a7a071567d94a32
+### Jaddbd9dad74fda14
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2102,7 +2277,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "2 Nos"
 > }
 
-### Jf08376653978058e
+### Jf4bd8b74e2294fc4
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2118,7 +2293,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "2 Nos"
 > }
 
-### J4d7b51e46aa5f167
+### J7292981c74bec1a4
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2134,7 +2309,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "1 Nos"
 > }
 
-### Jcb10e1591a8aea5f
+### J89130b1b48541662
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2150,7 +2325,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "2 Nos"
 > }
 
-### Jfc0d8c794bb0090c
+### Jef2528a1c7379af4
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work|Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work]]
 
@@ -2166,7 +2341,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "2 Nos"
 > }
 
-### J304bc20eccc75f91
+### J95b681187d250aa1
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 7 — Protection from the Weather|Clause 7 — Protection from the Weather]]
 
@@ -2183,7 +2358,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Protection from the weather"
 > }
 
-### J520e65c12fa6354a
+### Jc90e385438ad8f04
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 8 — Protection of Trees|Clause 8 — Protection of Trees]]
 
@@ -2200,7 +2375,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Protection of Trees"
 > }
 
-### J7c86cb9dbb9633be
+### J771bc4092382b96f
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 6 — Protection of Existing Property|Clause 6 — Protection of Existing Property]]
 
@@ -2217,7 +2392,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Protection of Existing Property"
 > }
 
-### J8e3e83cd377d1290
+### Jc1645d2e109db1bb
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 9 — Environmental Protection|Clause 9 — Environmental Protection]]
 
@@ -2234,7 +2409,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Environmental Protection"
 > }
 
-### Ja8c64ddd1a22274f
+### J2c261a0cd59e165e
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 12 — Utilities|Clause 12 — Utilities]]
 
@@ -2251,7 +2426,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Utilities"
 > }
 
-### J4235c24591df1103
+### J3ce394f250504d2d
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 13 — Filling|Clause 13 — Filling]]
 
@@ -2268,7 +2443,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "Filling"
 > }
 
-### J429f0443d60cbbd2
+### Jeca1def615e37497
 
 [[OKF_bundle/Technical/Vol2/vol2_part3#Clause 19 — Handing Over of Work Front|Clause 19 — Handing Over of Work Front]]
 

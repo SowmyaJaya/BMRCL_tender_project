@@ -3927,3 +3927,15 @@ Correction manifest:
 - Active claims 813 -> 822; expected Markdown pages 43; concept count remains 26.
 - Matching parsed JSON is explicitly included in the user-supplied ingest workflow; it is source evidence, not an external assumption. The exclusive-OKF schema wording remains a documentation ambiguity, not a reason to claim approval or discard evidence.
 - Sources/schema and original checkpoints unchanged. No API/Git/backups or reviewed-status promotion. PDF and exhaustive cross-clause review remain pending.
+
+
+## 2026-11-01T13:54:09+00:00 — Verified post-rebase provenance migration
+
+<!-- bmrcl_rebase_provenance_v1 -->
+
+- Reconciled 794 stored citation identities (1671 claim-citation occurrences) against unchanged tender quotations/pages/headings and byte-identical parsed JSON.
+- All 822 claim texts unchanged; active IDs migrated with old IDs retained in claim history and output/provenance_migration/rebase_v1/migration.json.
+- Three historical source quotations lose only the previously stored stray conflict-marker line. No tender wording reconstructed.
+- Kept the upstream schema and all source files unchanged. Original log/checkpoint markers preserved.
+- Fixed auditor handling of code examples; actual link/source validation remains enabled.
+- Human approval, latest-schema alignment and historical checkpoint interpretation remain pending. No API/Git operations or backup files.

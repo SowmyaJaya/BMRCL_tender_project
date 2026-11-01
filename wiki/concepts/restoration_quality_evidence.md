@@ -6,19 +6,19 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-11-01T12:14:18+00:00'
-updated_at: '2026-11-01T12:36:19+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-11-01T12:14:18+00:00'
 model: source-backed editorial synthesis; no API call
 sources:
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
   json_pointer: /technical_specifications/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-  okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+  okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_4b_restoration/restoration_clauses.json
   json_sha256: 1bd9b7794eaf5e192837559f6752a01d367b4a0d6c6764fdf73d30054388100c
@@ -29,17 +29,17 @@ claims:
   text: This page brings together the cited requirements for restoration quality, samples and testing. Each source
     statement retains its own stage, conditions and review limitations.
   evidence_ids:
-  - J6fbd8c1521884f0b
-  - J698146021cb33654
+  - J63e2b62b5192e71f
+  - Jc09ace3a6f098d6d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C66d7f6ac99ed3ede
+  id: C85058c9dac42f1dc
   citations:
-  - id: J6fbd8c1521884f0b
+  - id: J63e2b62b5192e71f
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 3 — Samples of Material
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -67,9 +67,9 @@ claims:
       review_status\": \"pending_manual_review\",\n  \"title\": \"SAMPLES OF MATERIAL\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J698146021cb33654
+  - id: Jc09ace3a6f098d6d
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 2 — Testing of Works and Materials
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -107,20 +107,31 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C66d7f6ac99ed3ede
+    previous_evidence_ids:
+    - J6fbd8c1521884f0b
+    - J698146021cb33654
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: 'Material sample approval precedes ordering: the restoration source requires samples at the Engineer’s office
     at least 15 days before supply orders are placed.'
   evidence_ids:
-  - J6fbd8c1521884f0b
+  - J63e2b62b5192e71f
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Cae5e4977c4f608b6
+  id: C837678d9d63d0fa5
   citations:
-  - id: J6fbd8c1521884f0b
+  - id: J63e2b62b5192e71f
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 3 — Samples of Material
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -150,20 +161,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Cae5e4977c4f608b6
+    previous_evidence_ids:
+    - J6fbd8c1521884f0b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: When the Engineer or Employer requires testing, the contractor bears the cost of tests on materials, concrete
     cubes and work portions to demonstrate soundness and sufficiency.
   evidence_ids:
-  - J698146021cb33654
+  - Jc09ace3a6f098d6d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C680d7d339945fcf3
+  id: C6ce72522d156c791
   citations:
-  - id: J698146021cb33654
+  - id: Jc09ace3a6f098d6d
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 2 — Testing of Works and Materials
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -201,20 +222,30 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C680d7d339945fcf3
+    previous_evidence_ids:
+    - J698146021cb33654
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: An Engineer finding defective or unsound material/workmanship after testing leads to contractor-funded removal
     and re-execution; defective materials must be removed from site immediately.
   evidence_ids:
-  - J698146021cb33654
+  - Jc09ace3a6f098d6d
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C77dd58492256f395
+  id: C94fa256efb4a8aea
   citations:
-  - id: J698146021cb33654
+  - id: Jc09ace3a6f098d6d
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 2 — Testing of Works and Materials
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -252,22 +283,32 @@ claims:
     heading_alignment: exact_number_match
   created_at: '2026-11-01T12:14:18+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C77dd58492256f395
+    previous_evidence_ids:
+    - J698146021cb33654
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: relation
   text: 'Editorial topic mapping for Restoration Quality, Samples and Testing: the two cited source records are
     connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence
     rule or a compliance decision.'
   evidence_ids:
-  - J6fbd8c1521884f0b
-  - J698146021cb33654
+  - J63e2b62b5192e71f
+  - Jc09ace3a6f098d6d
   relation_type: relates_to
   explicitness: inferred
-  from_id: J6fbd8c1521884f0b
-  to_id: J698146021cb33654
-  id: Ce08578d47e41ac36
+  from_id: J63e2b62b5192e71f
+  to_id: Jc09ace3a6f098d6d
+  id: Cf27f6c1c7335d7a7
   citations:
-  - id: J6fbd8c1521884f0b
+  - id: J63e2b62b5192e71f
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 3 — Samples of Material
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -295,9 +336,9 @@ claims:
       review_status\": \"pending_manual_review\",\n  \"title\": \"SAMPLES OF MATERIAL\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: J698146021cb33654
+  - id: Jc09ace3a6f098d6d
     okf_path: OKF_bundle/Technical/Vol2/vol2_part4B.md
-    okf_sha256: 09047352df07521375be4702cc630438bbc82d802fef043c8daf626897b5b9f5
+    okf_sha256: bc02d5fe8d740ef4ded4ac8ce95309486e862823846b80fa9f63fe957ec9716a
     heading: Clause 2 — Testing of Works and Materials
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -341,17 +382,27 @@ claims:
       not an explicit hierarchy or a compliance determination.
     corrected_at: '2026-11-01T12:20:49+00:00'
     method: topic-specific editorial relation label
+  - previous_claim_id: Ce08578d47e41ac36
+    previous_evidence_ids:
+    - J6fbd8c1521884f0b
+    - J698146021cb33654
+    previous_from_id: J6fbd8c1521884f0b
+    previous_to_id: J698146021cb33654
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
   updated_at: '2026-11-01T12:20:49+00:00'
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: relates_to
   target: concepts/rehabilitation_and_restoration_specifications_vol2_part4b.md
   title: Source topic page
   evidence_ids:
-  - J6fbd8c1521884f0b
+  - J63e2b62b5192e71f
 source_scope_note: The complete creation prompt explicitly includes matching JSON with each OKF file. These are
   source-linked extracts, not independent external assumptions. PDF/source review remains pending.
 editorial_method: Source-backed editorial synthesis; no new API generation call
-last_editorial_review: '2026-11-01T12:36:19+00:00'
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Restoration Quality, Samples and Testing
@@ -361,26 +412,26 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Summary
 
 - This page brings together the cited requirements for restoration quality, samples and testing. Each source statement retains its own stage, conditions and review limitations.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J6fbd8c1521884f0b`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J698146021cb33654`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J63e2b62b5192e71f`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `Jc09ace3a6f098d6d`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`.
 
 ## Key Parameters and Source Statements
 
 - Material sample approval precedes ordering: the restoration source requires samples at the Engineer’s office at least 15 days before supply orders are placed.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J6fbd8c1521884f0b`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J63e2b62b5192e71f`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/2`.
 
 - When the Engineer or Employer requires testing, the contractor bears the cost of tests on materials, concrete cubes and work portions to demonstrate soundness and sufficiency.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J698146021cb33654`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `Jc09ace3a6f098d6d`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`.
 
 - An Engineer finding defective or unsound material/workmanship after testing leads to contractor-funded removal and re-execution; defective materials must be removed from site immediately.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J698146021cb33654`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `Jc09ace3a6f098d6d`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`.
 
 ## Typed Relations
 
 - Editorial topic mapping for Restoration Quality, Samples and Testing: the two cited source records are connected for this topic only. The connection is inferred, not an explicit contractual reference, a document-precedence rule or a compliance decision.
   - **relates_to (inferred):** [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]] → [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J6fbd8c1521884f0b`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J698146021cb33654`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `J63e2b62b5192e71f`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]; `Vol2DLNP1.pdf`; PDF page(s) 34; quotation `Jc09ace3a6f098d6d`. JSON: `parsed_json/vol2/part_4b_restoration/restoration_clauses.json#/technical_specifications/1`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]
@@ -389,7 +440,7 @@ last_editorial_review: '2026-11-01T12:36:19+00:00'
 ## Related Wiki Entities
 
 - **relates_to (editorial, inferred):** [[wiki/concepts/rehabilitation_and_restoration_specifications_vol2_part4b|Source topic page]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 34; `J6fbd8c1521884f0b`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]; `Vol2DLNP1.pdf`; PDF page(s) 34; `J63e2b62b5192e71f`.
 
 ## Open Questions and Contradictions
 
@@ -398,7 +449,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### J6fbd8c1521884f0b
+### J63e2b62b5192e71f
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 3 — Samples of Material|Clause 3 — Samples of Material]]
 
@@ -442,7 +493,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "SAMPLES OF MATERIAL"
 > }
 
-### J698146021cb33654
+### Jc09ace3a6f098d6d
 
 [[OKF_bundle/Technical/Vol2/vol2_part4B#Clause 2 — Testing of Works and Materials|Clause 2 — Testing of Works and Materials]]
 

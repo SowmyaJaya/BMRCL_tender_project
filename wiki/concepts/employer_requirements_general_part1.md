@@ -6,43 +6,43 @@ status: draft
 review_status: pending_manual_review
 generator: bmrcl-dynamic-wiki-v2
 created_at: '2026-10-31T06:22:41+00:00'
-updated_at: '2026-11-01T12:14:18+00:00'
+updated_at: '2026-11-01T13:54:09+00:00'
 last_ingested: '2026-10-31T06:22:41+00:00'
 model: gemini-3.5-flash-lite
 sources:
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part1.md
-  okf_sha256: 5fba7c48a698e1d3d5574b35f7b1d0d90660c5b59fa4d29c732ca731e8a6d903
+  okf_sha256: e8e6ca0de3f1f6c9864b2afe9f23d25eb19fc870a38a5703e42932bb6fe72aec
   source_document: Vol2DLNP1.pdf
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part1.md
-  okf_sha256: 5fba7c48a698e1d3d5574b35f7b1d0d90660c5b59fa4d29c732ca731e8a6d903
+  okf_sha256: e8e6ca0de3f1f6c9864b2afe9f23d25eb19fc870a38a5703e42932bb6fe72aec
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_1_general/general_clauses.json
   json_sha256: 34ec406c359b1dac3baf971394f26ac87bb42e00ba1d8676d18ebf117661e5ac
   json_pointer: /preamble/0
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part1.md
-  okf_sha256: 5fba7c48a698e1d3d5574b35f7b1d0d90660c5b59fa4d29c732ca731e8a6d903
+  okf_sha256: e8e6ca0de3f1f6c9864b2afe9f23d25eb19fc870a38a5703e42932bb6fe72aec
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_1_general/general_clauses.json
   json_sha256: 34ec406c359b1dac3baf971394f26ac87bb42e00ba1d8676d18ebf117661e5ac
   json_pointer: /clauses/0
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part1.md
-  okf_sha256: 5fba7c48a698e1d3d5574b35f7b1d0d90660c5b59fa4d29c732ca731e8a6d903
+  okf_sha256: e8e6ca0de3f1f6c9864b2afe9f23d25eb19fc870a38a5703e42932bb6fe72aec
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_1_general/general_clauses.json
   json_sha256: 34ec406c359b1dac3baf971394f26ac87bb42e00ba1d8676d18ebf117661e5ac
   json_pointer: /clauses/1
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part1.md
-  okf_sha256: 5fba7c48a698e1d3d5574b35f7b1d0d90660c5b59fa4d29c732ca731e8a6d903
+  okf_sha256: e8e6ca0de3f1f6c9864b2afe9f23d25eb19fc870a38a5703e42932bb6fe72aec
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_1_general/general_clauses.json
   json_sha256: 34ec406c359b1dac3baf971394f26ac87bb42e00ba1d8676d18ebf117661e5ac
   json_pointer: /clauses/2
   source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
 - okf_path: OKF_bundle/Technical/Vol2/vol2_part1.md
-  okf_sha256: 5fba7c48a698e1d3d5574b35f7b1d0d90660c5b59fa4d29c732ca731e8a6d903
+  okf_sha256: e8e6ca0de3f1f6c9864b2afe9f23d25eb19fc870a38a5703e42932bb6fe72aec
   source_document: Vol2DLNP1.pdf
   json_path: parsed_json/vol2/part_1_general/general_clauses.json
   json_sha256: 34ec406c359b1dac3baf971394f26ac87bb42e00ba1d8676d18ebf117661e5ac
@@ -53,17 +53,17 @@ claims:
   text: Volume 2 Part 1 of the Employer Requirements sets out the fundamental obligations of the Employer, Contractor,
     and Consultant/Engineer for Bangalore Metro Rail Project Phase 3 Demolition Package P1.
   evidence_ids:
-  - Sf5e705dd10a16477
-  - J706c0937ce21583b
+  - S66143a4df33afbe6
+  - J8b1974cb59318329
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C47a5c2f4b59c6e93
+  id: C84fd3649c747e11a
   citations:
-  - id: Sf5e705dd10a16477
+  - id: S66143a4df33afbe6
     okf_path: OKF_bundle/Technical/Vol2/vol2_part1.md
-    okf_sha256: 5fba7c48a698e1d3d5574b35f7b1d0d90660c5b59fa4d29c732ca731e8a6d903
+    okf_sha256: e8e6ca0de3f1f6c9864b2afe9f23d25eb19fc870a38a5703e42932bb6fe72aec
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 1: General'
     source_document: Vol2DLNP1.pdf
     pdf_pages:
@@ -81,9 +81,9 @@ claims:
       principles and precautions for safe demolition and dismantling work.'
     page_basis: OKF reference, not independently PDF-verified
     page_precision: document_metadata_range
-  - id: J706c0937ce21583b
+  - id: J8b1974cb59318329
     okf_path: OKF_bundle/Technical/Vol2/vol2_part1.md
-    okf_sha256: 5fba7c48a698e1d3d5574b35f7b1d0d90660c5b59fa4d29c732ca731e8a6d903
+    okf_sha256: e8e6ca0de3f1f6c9864b2afe9f23d25eb19fc870a38a5703e42932bb6fe72aec
     heading: 'Employer Requirement, Scope of Work and Technical Specifications – Part 1: General'
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -100,22 +100,33 @@ claims:
     heading_alignment: document_heading_fallback_not_a_subclause_match
   created_at: '2026-10-31T06:22:41+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C47a5c2f4b59c6e93
+    previous_evidence_ids:
+    - Sf5e705dd10a16477
+    - J706c0937ce21583b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: The Employer grants the Contractor progressive right of access and possession of the Site, and if delayed,
     the Contractor must give notice within 28 days for an extension of time, without entitlement to monetary claims
     for handover delays.
   evidence_ids:
-  - Je3cd3e66d53387e9
-  - Sccd1f6e7ff5a9ea7
+  - Jac5237c0c5ca1efb
+  - S11cfbd4e5a62210a
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C84cb9a632f993345
+  id: C703708a35bd7c683
   citations:
-  - id: Je3cd3e66d53387e9
+  - id: Jac5237c0c5ca1efb
     okf_path: OKF_bundle/Technical/Vol2/vol2_part1.md
-    okf_sha256: 5fba7c48a698e1d3d5574b35f7b1d0d90660c5b59fa4d29c732ca731e8a6d903
+    okf_sha256: e8e6ca0de3f1f6c9864b2afe9f23d25eb19fc870a38a5703e42932bb6fe72aec
     heading: Clause 1 — The Employer's Responsibility
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -146,9 +157,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: Sccd1f6e7ff5a9ea7
+  - id: S11cfbd4e5a62210a
     okf_path: OKF_bundle/Technical/Vol2/vol2_part1.md
-    okf_sha256: 5fba7c48a698e1d3d5574b35f7b1d0d90660c5b59fa4d29c732ca731e8a6d903
+    okf_sha256: e8e6ca0de3f1f6c9864b2afe9f23d25eb19fc870a38a5703e42932bb6fe72aec
     heading: Clause 1 — The Employer's Responsibility
     source_document: Vol2DLNP1.pdf
     pdf_pages:
@@ -166,22 +177,33 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T06:22:41+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C84cb9a632f993345
+    previous_evidence_ids:
+    - Je3cd3e66d53387e9
+    - Sccd1f6e7ff5a9ea7
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The Contractor takes full responsibility for the adequacy, stability, and safety of all dismantling and
     demolition methods, equipment, superintendence, and labour, as well as protecting the environment and adjacent
     structures.
   evidence_ids:
-  - Jbcf495beaf8fa200
-  - S4b4278bf868015ee
+  - J43a010931004e27a
+  - S562d68434d32d8ee
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: Ce507570087423979
+  id: Ca339964b11ac5a82
   citations:
-  - id: Jbcf495beaf8fa200
+  - id: J43a010931004e27a
     okf_path: OKF_bundle/Technical/Vol2/vol2_part1.md
-    okf_sha256: 5fba7c48a698e1d3d5574b35f7b1d0d90660c5b59fa4d29c732ca731e8a6d903
+    okf_sha256: e8e6ca0de3f1f6c9864b2afe9f23d25eb19fc870a38a5703e42932bb6fe72aec
     heading: Clause 2 — The Contractor's Responsibility
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -215,9 +237,9 @@ claims:
       : \"The Contractor’s Responsibility\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: S4b4278bf868015ee
+  - id: S562d68434d32d8ee
     okf_path: OKF_bundle/Technical/Vol2/vol2_part1.md
-    okf_sha256: 5fba7c48a698e1d3d5574b35f7b1d0d90660c5b59fa4d29c732ca731e8a6d903
+    okf_sha256: e8e6ca0de3f1f6c9864b2afe9f23d25eb19fc870a38a5703e42932bb6fe72aec
     heading: Clause 2 — The Contractor's Responsibility
     source_document: Vol2DLNP1.pdf
     pdf_pages:
@@ -235,22 +257,33 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T06:22:41+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: Ce507570087423979
+    previous_evidence_ids:
+    - Jbcf495beaf8fa200
+    - S4b4278bf868015ee
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: summary
   text: The nominated Consultant/Engineer is responsible for providing equipment recommendations, preparing structure-wise
     demolition sequence reports, establishing disposal pathways, issuing temporary structure designs, supervising
     works, and certifying contractor bills.
   evidence_ids:
-  - J4f036aff7a8074e1
-  - S6fe327de0f3926b1
+  - Jbd883e6cf037b159
+  - S933c3d4622df5491
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C2c96a4a5f37e3161
+  id: C945d398f4f457086
   citations:
-  - id: J4f036aff7a8074e1
+  - id: Jbd883e6cf037b159
     okf_path: OKF_bundle/Technical/Vol2/vol2_part1.md
-    okf_sha256: 5fba7c48a698e1d3d5574b35f7b1d0d90660c5b59fa4d29c732ca731e8a6d903
+    okf_sha256: e8e6ca0de3f1f6c9864b2afe9f23d25eb19fc870a38a5703e42932bb6fe72aec
     heading: Clause 3 — The Consultant's/Engineer's Responsibility
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -283,9 +316,9 @@ claims:
       \  \"title\": \"The Consultant’s/Engineer’s Responsibility\"\n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: S6fe327de0f3926b1
+  - id: S933c3d4622df5491
     okf_path: OKF_bundle/Technical/Vol2/vol2_part1.md
-    okf_sha256: 5fba7c48a698e1d3d5574b35f7b1d0d90660c5b59fa4d29c732ca731e8a6d903
+    okf_sha256: e8e6ca0de3f1f6c9864b2afe9f23d25eb19fc870a38a5703e42932bb6fe72aec
     heading: Clause 3 — The Consultant's/Engineer's Responsibility
     source_document: Vol2DLNP1.pdf
     pdf_pages:
@@ -310,22 +343,33 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T06:22:41+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C2c96a4a5f37e3161
+    previous_evidence_ids:
+    - J4f036aff7a8074e1
+    - S6fe327de0f3926b1
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 - kind: parameter
   text: General demolition principles require pre-demolition engineering surveys, shutting off and capping utility
     lines outside building lines, eliminating hazardous substances, protection of floor and wall openings, top-down
     demolition sequencing, and installation of compliant 16-gauge plain MS sheet barricades.
   evidence_ids:
-  - Jd8c3dba357513358
-  - S74ba6a4eb06cea6b
+  - J833a01a77569c205
+  - Se04308b24ba0ac1e
   relation_type: none
   explicitness: not_a_relation
   from_id: ''
   to_id: ''
-  id: C19c50887c38ef0ee
+  id: C8791621e622bb91d
   citations:
-  - id: Jd8c3dba357513358
+  - id: J833a01a77569c205
     okf_path: OKF_bundle/Technical/Vol2/vol2_part1.md
-    okf_sha256: 5fba7c48a698e1d3d5574b35f7b1d0d90660c5b59fa4d29c732ca731e8a6d903
+    okf_sha256: e8e6ca0de3f1f6c9864b2afe9f23d25eb19fc870a38a5703e42932bb6fe72aec
     heading: Clause 4 — General Principles of Demolition/Dismantling of the Buildings/Structures
     source_document: Vol2DLNP1.pdf
     source_sha256: e44cc4945aec704af8350cca6388b3fe3b741d76577f7da70cee6a836662582b
@@ -446,9 +490,9 @@ claims:
       \n}"
     page_basis: Parsed record provenance; not independently PDF-verified
     heading_alignment: exact_number_match
-  - id: S74ba6a4eb06cea6b
+  - id: Se04308b24ba0ac1e
     okf_path: OKF_bundle/Technical/Vol2/vol2_part1.md
-    okf_sha256: 5fba7c48a698e1d3d5574b35f7b1d0d90660c5b59fa4d29c732ca731e8a6d903
+    okf_sha256: e8e6ca0de3f1f6c9864b2afe9f23d25eb19fc870a38a5703e42932bb6fe72aec
     heading: Clause 4 — General Principles of Demolition/Dismantling of the Buildings/Structures
     source_document: Vol2DLNP1.pdf
     pdf_pages:
@@ -474,13 +518,24 @@ claims:
     page_precision: section_reference
   created_at: '2026-10-31T06:22:41+00:00'
   status: draft
+  editorial_history:
+  - previous_claim_id: C19c50887c38ef0ee
+    previous_evidence_ids:
+    - Jd8c3dba357513358
+    - S74ba6a4eb06cea6b
+    previous_from_id: ''
+    previous_to_id: ''
+    migrated_at: '2026-11-01T13:54:09+00:00'
+    method: Verified source-identity migration only; claim text unchanged
+    migration_manifest: output/provenance_migration/rebase_v1/migration.json
+  last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 entity_relations:
 - relation_type: belongs_to
   target: index.md
   title: BMRCL Wiki Index
   evidence_ids:
-  - Sf5e705dd10a16477
-last_editorial_review: '2026-11-01T12:14:18+00:00'
+  - S66143a4df33afbe6
+last_provenance_migrated: '2026-11-01T13:54:09+00:00'
 ---
 
 # Employer Requirements and General Demolition Principles (Vol 2 Part 1)
@@ -490,26 +545,26 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Summary
 
 - Volume 2 Part 1 of the Employer Requirements sets out the fundamental obligations of the Employer, Contractor, and Consultant/Engineer for Bangalore Metro Rail Project Phase 3 Demolition Package P1.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Employer Requirement, Scope of Work and Technical Specifications – Part 1: General|Employer Requirement, Scope of Work and Technical Specifications – Part 1: General]]; `Vol2DLNP1.pdf`; PDF page(s) 5, 6, 7, 8; quotation `Sf5e705dd10a16477`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Employer Requirement, Scope of Work and Technical Specifications – Part 1: General|Employer Requirement, Scope of Work and Technical Specifications – Part 1: General]]; `Vol2DLNP1.pdf`; PDF page(s) 5; quotation `J706c0937ce21583b`. JSON: `parsed_json/vol2/part_1_general/general_clauses.json#/preamble/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Employer Requirement, Scope of Work and Technical Specifications – Part 1: General|Employer Requirement, Scope of Work and Technical Specifications – Part 1: General]]; `Vol2DLNP1.pdf`; PDF page(s) 5, 6, 7, 8; quotation `S66143a4df33afbe6`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Employer Requirement, Scope of Work and Technical Specifications – Part 1: General|Employer Requirement, Scope of Work and Technical Specifications – Part 1: General]]; `Vol2DLNP1.pdf`; PDF page(s) 5; quotation `J8b1974cb59318329`. JSON: `parsed_json/vol2/part_1_general/general_clauses.json#/preamble/0`.
 
 - The Contractor takes full responsibility for the adequacy, stability, and safety of all dismantling and demolition methods, equipment, superintendence, and labour, as well as protecting the environment and adjacent structures.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 2 — The Contractor's Responsibility|Clause 2 — The Contractor's Responsibility]]; `Vol2DLNP1.pdf`; PDF page(s) 5; quotation `Jbcf495beaf8fa200`. JSON: `parsed_json/vol2/part_1_general/general_clauses.json#/clauses/1`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 2 — The Contractor's Responsibility|Clause 2 — The Contractor's Responsibility]]; `Vol2DLNP1.pdf`; PDF page(s) 5; quotation `S4b4278bf868015ee`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 2 — The Contractor's Responsibility|Clause 2 — The Contractor's Responsibility]]; `Vol2DLNP1.pdf`; PDF page(s) 5; quotation `J43a010931004e27a`. JSON: `parsed_json/vol2/part_1_general/general_clauses.json#/clauses/1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 2 — The Contractor's Responsibility|Clause 2 — The Contractor's Responsibility]]; `Vol2DLNP1.pdf`; PDF page(s) 5; quotation `S562d68434d32d8ee`.
 
 - The nominated Consultant/Engineer is responsible for providing equipment recommendations, preparing structure-wise demolition sequence reports, establishing disposal pathways, issuing temporary structure designs, supervising works, and certifying contractor bills.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 3 — The Consultant's/Engineer's Responsibility|Clause 3 — The Consultant's/Engineer's Responsibility]]; `Vol2DLNP1.pdf`; PDF page(s) 5, 6; quotation `J4f036aff7a8074e1`. JSON: `parsed_json/vol2/part_1_general/general_clauses.json#/clauses/2`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 3 — The Consultant's/Engineer's Responsibility|Clause 3 — The Consultant's/Engineer's Responsibility]]; `Vol2DLNP1.pdf`; PDF page(s) 5, 6; quotation `S6fe327de0f3926b1`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 3 — The Consultant's/Engineer's Responsibility|Clause 3 — The Consultant's/Engineer's Responsibility]]; `Vol2DLNP1.pdf`; PDF page(s) 5, 6; quotation `Jbd883e6cf037b159`. JSON: `parsed_json/vol2/part_1_general/general_clauses.json#/clauses/2`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 3 — The Consultant's/Engineer's Responsibility|Clause 3 — The Consultant's/Engineer's Responsibility]]; `Vol2DLNP1.pdf`; PDF page(s) 5, 6; quotation `S933c3d4622df5491`.
 
 ## Key Parameters and Source Statements
 
 - The Employer grants the Contractor progressive right of access and possession of the Site, and if delayed, the Contractor must give notice within 28 days for an extension of time, without entitlement to monetary claims for handover delays.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 1 — The Employer's Responsibility|Clause 1 — The Employer's Responsibility]]; `Vol2DLNP1.pdf`; PDF page(s) 5; quotation `Je3cd3e66d53387e9`. JSON: `parsed_json/vol2/part_1_general/general_clauses.json#/clauses/0`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 1 — The Employer's Responsibility|Clause 1 — The Employer's Responsibility]]; `Vol2DLNP1.pdf`; PDF page(s) 5; quotation `Sccd1f6e7ff5a9ea7`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 1 — The Employer's Responsibility|Clause 1 — The Employer's Responsibility]]; `Vol2DLNP1.pdf`; PDF page(s) 5; quotation `Jac5237c0c5ca1efb`. JSON: `parsed_json/vol2/part_1_general/general_clauses.json#/clauses/0`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 1 — The Employer's Responsibility|Clause 1 — The Employer's Responsibility]]; `Vol2DLNP1.pdf`; PDF page(s) 5; quotation `S11cfbd4e5a62210a`.
 
 - General demolition principles require pre-demolition engineering surveys, shutting off and capping utility lines outside building lines, eliminating hazardous substances, protection of floor and wall openings, top-down demolition sequencing, and installation of compliant 16-gauge plain MS sheet barricades.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 4 — General Principles of Demolition/Dismantling of the Buildings/Structures|Clause 4 — General Principles of Demolition/Dismantling of the Buildings/Structures]]; `Vol2DLNP1.pdf`; PDF page(s) 6, 7, 8; quotation `Jd8c3dba357513358`. JSON: `parsed_json/vol2/part_1_general/general_clauses.json#/clauses/3`.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 4 — General Principles of Demolition/Dismantling of the Buildings/Structures|Clause 4 — General Principles of Demolition/Dismantling of the Buildings/Structures]]; `Vol2DLNP1.pdf`; PDF page(s) 6, 7, 8; quotation `S74ba6a4eb06cea6b`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 4 — General Principles of Demolition/Dismantling of the Buildings/Structures|Clause 4 — General Principles of Demolition/Dismantling of the Buildings/Structures]]; `Vol2DLNP1.pdf`; PDF page(s) 6, 7, 8; quotation `J833a01a77569c205`. JSON: `parsed_json/vol2/part_1_general/general_clauses.json#/clauses/3`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 4 — General Principles of Demolition/Dismantling of the Buildings/Structures|Clause 4 — General Principles of Demolition/Dismantling of the Buildings/Structures]]; `Vol2DLNP1.pdf`; PDF page(s) 6, 7, 8; quotation `Se04308b24ba0ac1e`.
 
 ## Source Headings
 - [[OKF_bundle/Technical/Vol2/vol2_part1#Employer Requirement, Scope of Work and Technical Specifications – Part 1: General|Employer Requirement, Scope of Work and Technical Specifications – Part 1: General]]
@@ -521,7 +576,7 @@ last_editorial_review: '2026-11-01T12:14:18+00:00'
 ## Typed Relations
 
 - **belongs_to (editorial, inferred):** [[wiki/index|BMRCL Wiki Index]]. Topic navigation only; not a contractual precedence rule.
-  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Employer Requirement, Scope of Work and Technical Specifications – Part 1: General|Employer Requirement, Scope of Work and Technical Specifications – Part 1: General]]; `Vol2DLNP1.pdf`; PDF page(s) 5, 6, 7, 8; `Sf5e705dd10a16477`.
+  - Evidence: [[OKF_bundle/Technical/Vol2/vol2_part1#Employer Requirement, Scope of Work and Technical Specifications – Part 1: General|Employer Requirement, Scope of Work and Technical Specifications – Part 1: General]]; `Vol2DLNP1.pdf`; PDF page(s) 5, 6, 7, 8; `S66143a4df33afbe6`.
 
 ## Open Questions and Contradictions
 
@@ -530,7 +585,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 <details>
 <summary>Supporting source passages</summary>
 
-### Sf5e705dd10a16477
+### S66143a4df33afbe6
 
 [[OKF_bundle/Technical/Vol2/vol2_part1#Employer Requirement, Scope of Work and Technical Specifications – Part 1: General|Employer Requirement, Scope of Work and Technical Specifications – Part 1: General]]
 
@@ -538,7 +593,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > 
 > It sets out the responsibilities of the Employer, the Contractor and the Consultant/Engineer, and the general principles and precautions for safe demolition and dismantling work.
 
-### J706c0937ce21583b
+### J8b1974cb59318329
 
 [[OKF_bundle/Technical/Vol2/vol2_part1#Employer Requirement, Scope of Work and Technical Specifications – Part 1: General|Employer Requirement, Scope of Work and Technical Specifications – Part 1: General]]
 
@@ -547,7 +602,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "text": "PART 1 - GENERAL"
 > }
 
-### Je3cd3e66d53387e9
+### Jac5237c0c5ca1efb
 
 [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 1 — The Employer's Responsibility|Clause 1 — The Employer's Responsibility]]
 
@@ -564,7 +619,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "The Employer’s Responsibility"
 > }
 
-### Sccd1f6e7ff5a9ea7
+### S11cfbd4e5a62210a
 
 [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 1 — The Employer's Responsibility|Clause 1 — The Employer's Responsibility]]
 
@@ -574,7 +629,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Assistance with Permits, Licences and Approvals** (Clause 1.3)
 > - **Issue of Demolition/Dismantling Scheme Drawings** (Clause 1.4)
 
-### Jbcf495beaf8fa200
+### J43a010931004e27a
 
 [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 2 — The Contractor's Responsibility|Clause 2 — The Contractor's Responsibility]]
 
@@ -591,7 +646,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "The Contractor’s Responsibility"
 > }
 
-### S4b4278bf868015ee
+### S562d68434d32d8ee
 
 [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 2 — The Contractor's Responsibility|Clause 2 — The Contractor's Responsibility]]
 
@@ -601,7 +656,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Site Conditions and Services to Be Ascertained and Secured** (Clause 2.4)
 > - **Facilities and Access for Others on or near the Site** (Clause 2.5)
 
-### J4f036aff7a8074e1
+### Jbd883e6cf037b159
 
 [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 3 — The Consultant's/Engineer's Responsibility|Clause 3 — The Consultant's/Engineer's Responsibility]]
 
@@ -622,7 +677,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "The Consultant’s/Engineer’s Responsibility"
 > }
 
-### S6fe327de0f3926b1
+### S933c3d4622df5491
 
 [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 3 — The Consultant's/Engineer's Responsibility|Clause 3 — The Consultant's/Engineer's Responsibility]]
 
@@ -635,7 +690,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 > - **Supervision of Demolition and Restoration Works** (Clause 3(v))
 > - **Certification of Contractor's Bills** (Clause 3(vi))
 
-### Jd8c3dba357513358
+### J833a01a77569c205
 
 [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 4 — General Principles of Demolition/Dismantling of the Buildings/Structures|Clause 4 — General Principles of Demolition/Dismantling of the Buildings/Structures]]
 
@@ -660,7 +715,7 @@ No additional contradiction is recorded on this page. PDF verification and full 
 >   "title": "General Principles of Demolitions/Dismantling of the Buildings/Structures"
 > }
 
-### S74ba6a4eb06cea6b
+### Se04308b24ba0ac1e
 
 [[OKF_bundle/Technical/Vol2/vol2_part1#Clause 4 — General Principles of Demolition/Dismantling of the Buildings/Structures|Clause 4 — General Principles of Demolition/Dismantling of the Buildings/Structures]]
 
