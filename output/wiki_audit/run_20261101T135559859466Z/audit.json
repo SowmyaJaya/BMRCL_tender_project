@@ -1,0 +1,3670 @@
+{
+  "generated_at": "2026-11-01T13:55:59.779849+00:00",
+  "project": "C:\\Users\\HP\\Downloads\\BMRCL_tender_project",
+  "wiki_page_count": 44,
+  "claim_count": 822,
+  "errors": [],
+  "review_findings": [
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol1/secA.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/Technical/Vol1/secA.md",
+      "detail": "26 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol1/secB.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/Technical/Vol1/secB.md",
+      "detail": "22 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol1/secC.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/Technical/Vol1/secC.md",
+      "detail": "25 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol1/secD.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/Technical/Vol1/secD.md",
+      "detail": "61 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol1/secE.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/Technical/Vol1/secE.md",
+      "detail": "16 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol1/secF.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol1/secG.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/Technical/Vol1/secG.md",
+      "detail": "1 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol2/vol2_part1.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol2/vol2_part2.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol2/vol2_part3.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/Technical/Vol2/vol2_part3.md",
+      "detail": "22 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol2/vol2_part4A.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/Technical/Vol2/vol2_part4A.md",
+      "detail": "24 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol2/vol2_part4B.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/Technical/Vol2/vol2_part4B.md",
+      "detail": "32 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol3/vol3_part1.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/Technical/Vol3/vol3_part1.md",
+      "detail": "2 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol3/vol3_part2.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/Technical/Vol3/vol3_part2.md",
+      "detail": "1 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol3/vol3_part3.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/Technical/Vol3/vol3_part3.md",
+      "detail": "5 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol3/vol3_part4.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/Technical/Vol3/vol3_part4.md",
+      "detail": "3 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol3/vol3_part5.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/Technical/Vol3/vol3_part5.md",
+      "detail": "2 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md",
+      "detail": "83 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/Financial/vol4_secJ.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/Financial/vol4_secJ.md",
+      "detail": "20 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/addendum_and_corrigendum/A_and_C1.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/addendum_and_corrigendum/A_and_C1.md",
+      "detail": "1 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/addendum_and_corrigendum/A_and_C2.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/addendum_and_corrigendum/A_and_C2.md",
+      "detail": "11 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    },
+    {
+      "kind": "batch_status",
+      "location": "OKF_bundle/addendum_and_corrigendum/A_and_C3.md",
+      "detail": "legacy_ingest_record_no_matching_checkpoints. Inspect historical logs and source/schema versions before deciding whether to rerun."
+    },
+    {
+      "kind": "citation_coverage",
+      "location": "OKF_bundle/addendum_and_corrigendum/A_and_C3.md",
+      "detail": "1 evidence units have no saved claim citation. These may be context, duplicates or genuine knowledge gaps."
+    }
+  ],
+  "sources": [
+    {
+      "source": "OKF_bundle/Technical/Vol1/secA.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 2,
+      "evidence_units": 66,
+      "cited_units": 40,
+      "uncited": [
+        {
+          "id": "J00fcf00566ca7030",
+          "heading": "Key Detail 15 — eProcurement Portal",
+          "json_pointer": "/rows/14"
+        },
+        {
+          "id": "J062376351ee7db5c",
+          "heading": "Key Detail 6 — Site Visit",
+          "json_pointer": "/rows/5"
+        },
+        {
+          "id": "J0bf4733062ba294f",
+          "heading": "Key Detail 8 — Last Date and Time for Seeking Clarification",
+          "json_pointer": "/rows/7"
+        },
+        {
+          "id": "J2df83ffbe7ba9a7a",
+          "heading": "Key Detail 14 — Opening of Financial Bid",
+          "json_pointer": "/rows/13"
+        },
+        {
+          "id": "J3f30135bedb9ec92",
+          "heading": "Instruction 8 — Portal Updates",
+          "json_pointer": "/instructions/7"
+        },
+        {
+          "id": "J856bde5ca18bdb54",
+          "heading": "Key Detail 7 — Pre-Bid Meeting",
+          "json_pointer": "/rows/6"
+        },
+        {
+          "id": "J87c6b93bec805b25",
+          "heading": "Instruction 6 — Tender Security",
+          "json_pointer": "/instructions/5"
+        },
+        {
+          "id": "J9738bd317e1a7ef8",
+          "heading": "Instruction 1 — Downloading Tender Documents",
+          "json_pointer": "/instructions/0"
+        },
+        {
+          "id": "Ja594f31c2224d02c",
+          "heading": "Instruction 7 — Eligibility and Qualification",
+          "json_pointer": "/instructions/6"
+        },
+        {
+          "id": "Jbb50e793d56244b7",
+          "heading": "Instruction 4 — Submission Deadline and Responsibility",
+          "json_pointer": "/instructions/3"
+        },
+        {
+          "id": "Jc6c21a389fd56cd7",
+          "heading": "Key Detail 9 — Venue for Pre-Bid Meeting",
+          "json_pointer": "/rows/8"
+        },
+        {
+          "id": "Jc7b5f8204bcd60e5",
+          "heading": "Instruction 3 — Digital Signature Requirement",
+          "json_pointer": "/instructions/2"
+        },
+        {
+          "id": "Jd5ee02ba5cf0efb1",
+          "heading": "Key Detail 15 — eProcurement Portal",
+          "json_pointer": "/key_details/14"
+        },
+        {
+          "id": "S0302342d354fce99",
+          "heading": "Instruction 6 — Tender Security",
+          "json_pointer": null
+        },
+        {
+          "id": "S1428afaf4f8935ad",
+          "heading": "Key Detail 14 — Opening of Financial Bid",
+          "json_pointer": null
+        },
+        {
+          "id": "S243f3dcde3d858fc",
+          "heading": "Notice Inviting Tender",
+          "json_pointer": null
+        },
+        {
+          "id": "S2976c205654f05a6",
+          "heading": "Key Detail 9 — Venue for Pre-Bid Meeting",
+          "json_pointer": null
+        },
+        {
+          "id": "S47fc51c8bbc604f0",
+          "heading": "Key Detail 8 — Last Date and Time for Seeking Clarification",
+          "json_pointer": null
+        },
+        {
+          "id": "S4eabccb3849a992b",
+          "heading": "Instruction 7 — Eligibility and Qualification",
+          "json_pointer": null
+        },
+        {
+          "id": "S5f7737a059af729d",
+          "heading": "Instruction 8 — Portal Updates",
+          "json_pointer": null
+        },
+        {
+          "id": "S8635b39ed96eacae",
+          "heading": "Key Detail 15 — eProcurement Portal",
+          "json_pointer": null
+        },
+        {
+          "id": "Sb5435b272e8605c0",
+          "heading": "Key Detail 7 — Pre-Bid Meeting",
+          "json_pointer": null
+        },
+        {
+          "id": "Sd58bebed34c2adbc",
+          "heading": "Instruction 4 — Submission Deadline and Responsibility",
+          "json_pointer": null
+        },
+        {
+          "id": "Seb3091c7fb5155a9",
+          "heading": "Instruction 3 — Digital Signature Requirement",
+          "json_pointer": null
+        },
+        {
+          "id": "Sf711735c2a7c49ec",
+          "heading": "Key Detail 6 — Site Visit",
+          "json_pointer": null
+        },
+        {
+          "id": "Sfb90b4956f8bbe9b",
+          "heading": "Instruction 1 — Downloading Tender Documents",
+          "json_pointer": null
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/Technical/Vol1/secB.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 3,
+      "evidence_units": 70,
+      "cited_units": 48,
+      "uncited": [
+        {
+          "id": "J18c98185fc989656",
+          "heading": "Instructions to Tenderers",
+          "json_pointer": "/group_headings/4"
+        },
+        {
+          "id": "J4daf56f22dd50204",
+          "heading": "Instructions to Tenderers",
+          "json_pointer": "/group_headings/1"
+        },
+        {
+          "id": "J5be810886a4d3253",
+          "heading": "Instructions to Tenderers",
+          "json_pointer": "/group_headings/3"
+        },
+        {
+          "id": "J60bb6c20ea90c5e0",
+          "heading": "Instructions to Tenderers",
+          "json_pointer": "/group_headings/0"
+        },
+        {
+          "id": "Jacfbaf0f335cb3e1",
+          "heading": "Instructions to Tenderers",
+          "json_pointer": "/group_headings/2"
+        },
+        {
+          "id": "Jb22df3fe34a1ccbd",
+          "heading": "Instructions to Tenderers",
+          "json_pointer": "/contents_page"
+        },
+        {
+          "id": "S01ed1acc8ed41120",
+          "heading": "Clause 23.0 — Award Criteria",
+          "json_pointer": null
+        },
+        {
+          "id": "S0f2d8ce5865d66c2",
+          "heading": "Clause 15.0 — Submission of Tenders",
+          "json_pointer": null
+        },
+        {
+          "id": "S265187ca9a5a217c",
+          "heading": "Clause 18.0 — Tender Opening",
+          "json_pointer": null
+        },
+        {
+          "id": "S3d16d636de4db6a5",
+          "heading": "Clause 17.0 — Modification and Withdrawal of Tenders",
+          "json_pointer": null
+        },
+        {
+          "id": "S5c264d179f6a744c",
+          "heading": "Clause 5.0 — Contents of Tender Documents",
+          "json_pointer": null
+        },
+        {
+          "id": "S67be01955926b19f",
+          "heading": "Clause 25.0 — Notification of Award",
+          "json_pointer": null
+        },
+        {
+          "id": "S6fc41f915231ef79",
+          "heading": "Clause 20.0 — Clarification of Tenders",
+          "json_pointer": null
+        },
+        {
+          "id": "S75a38c6b8fad7b3e",
+          "heading": "Clause 14.0 — Format and Signing of Tenders",
+          "json_pointer": null
+        },
+        {
+          "id": "S88c5ad2e762fd74a",
+          "heading": "Clause 16.0 — Failure to Submit Tenders in Time",
+          "json_pointer": null
+        },
+        {
+          "id": "Sb4d6a2075925dbc1",
+          "heading": "Clause 13.0 — Tender Security (EMD)",
+          "json_pointer": null
+        },
+        {
+          "id": "Sd236c9ea95aa91d6",
+          "heading": "Clause 12.0 — Tender Validity",
+          "json_pointer": null
+        },
+        {
+          "id": "Sdfab2b36bc68352f",
+          "heading": "Clause 19.0 — Process to Be Confidential",
+          "json_pointer": null
+        },
+        {
+          "id": "See6d0c896ee4467a",
+          "heading": "Clause 7.0 — Amendment to Tender Documents",
+          "json_pointer": null
+        },
+        {
+          "id": "Sf875c87ac4cbf13a",
+          "heading": "Clause 24.0 — Employer's Right to Accept Any Tender and to Reject Any or All Tenders",
+          "json_pointer": null
+        },
+        {
+          "id": "Sfb28482e56d93e0f",
+          "heading": "Clause 21.0 — Determination of Responsiveness",
+          "json_pointer": null
+        },
+        {
+          "id": "Sfbdf351f0be9d39d",
+          "heading": "Clause 22.0 — Evaluation of Tender",
+          "json_pointer": null
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/Technical/Vol1/secC.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 2,
+      "evidence_units": 53,
+      "cited_units": 28,
+      "uncited": [
+        {
+          "id": "J00d6c0925687ca60",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/criteria/1/requirement_fragments/0"
+        },
+        {
+          "id": "J012cb1f34b53e3bd",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/tables/4/recovered_text_blocks/1"
+        },
+        {
+          "id": "J030e21ee12f469fb",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/criteria/3/supporting_document_fragments/0"
+        },
+        {
+          "id": "J0c37b751c901c130",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/criteria/0/requirement_fragments/0"
+        },
+        {
+          "id": "J0ea32d1e4bc7f5e8",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/note_groups/financial_standing/2"
+        },
+        {
+          "id": "J2cb9b9f9e1b0c556",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/context_fragments/1"
+        },
+        {
+          "id": "J30a6d2ac25eba58c",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/criteria/6/supporting_document_fragments/0"
+        },
+        {
+          "id": "J5407ff590d315a14",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/tables/1/recovered_text_blocks/0"
+        },
+        {
+          "id": "J5c878fd186cf05b0",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/criteria/5/supporting_document_fragments/0"
+        },
+        {
+          "id": "J609e4aba3ce79744",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/tables/4/recovered_text_blocks/0"
+        },
+        {
+          "id": "J83466c34c08a72c3",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/criteria/2/supporting_document_fragments/0"
+        },
+        {
+          "id": "J85bf961962bde120",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/criteria/3/requirement_fragments/0"
+        },
+        {
+          "id": "J87d2548451b3de0d",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/context_fragments/0"
+        },
+        {
+          "id": "J88fb4ba4c95de9e4",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/tables/4/recovered_text_blocks/2"
+        },
+        {
+          "id": "Jb1ae1357db164610",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/criteria/1/supporting_document_fragments/0"
+        },
+        {
+          "id": "Jb7b546eaf7d7b19e",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/note_groups/bid_capacity/1"
+        },
+        {
+          "id": "Jbeb138e1ff6b0e8e",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/context_fragments/4"
+        },
+        {
+          "id": "Je8d7713e7900adc3",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/criteria/2/requirement_fragments/0"
+        },
+        {
+          "id": "Jf2caba0e936e1b7c",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/criteria/4/supporting_document_fragments/0"
+        },
+        {
+          "id": "Jf4fccb40e40bf4a1",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/criteria/0/supporting_document_fragments/0"
+        },
+        {
+          "id": "Jfb922f660b1ca6aa",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": "/criteria/3/requirement_fragments/1"
+        },
+        {
+          "id": "S1c6730cfc188199f",
+          "heading": "Clause 1.0 — General Information and Qualification Requirement",
+          "json_pointer": null
+        },
+        {
+          "id": "S351a3a19bea4b130",
+          "heading": "Clause 3.0 — Qualification Criteria",
+          "json_pointer": null
+        },
+        {
+          "id": "S8cf5041c58b8d575",
+          "heading": "Eligibility cum Qualification Criteria",
+          "json_pointer": null
+        },
+        {
+          "id": "Sfcc10afdd93df0cd",
+          "heading": "Clause 2.0 — Eligible Tenderers",
+          "json_pointer": null
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/Technical/Vol1/secD.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 4,
+      "evidence_units": 138,
+      "cited_units": 77,
+      "uncited": [
+        {
+          "id": "J0cc29407c2a8a57a",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/0/fields/1"
+        },
+        {
+          "id": "J116087cd464b0eb8",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/2/fields/6"
+        },
+        {
+          "id": "J1236a6eb5142820b",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/1/fields/2"
+        },
+        {
+          "id": "J124635795a844640",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/2/fields/1"
+        },
+        {
+          "id": "J18c88f91d115a88c",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/signature_template"
+        },
+        {
+          "id": "J1c14c7c681df87ee",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/1/fields/7"
+        },
+        {
+          "id": "J1e65206a385c67ed",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/signature_template"
+        },
+        {
+          "id": "J2bb1861053e24abd",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/2/fields/8"
+        },
+        {
+          "id": "J33751b88b04b3ccb",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/1/fields/10"
+        },
+        {
+          "id": "J342ccba3c949828a",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/2/fields/9"
+        },
+        {
+          "id": "J37e197f9f84dd36e",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/0/fields/6"
+        },
+        {
+          "id": "J3b87515a2c3c0e62",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/2/fields/4"
+        },
+        {
+          "id": "J409e4be0474f057e",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/forms/12"
+        },
+        {
+          "id": "J41bbdc82bbb5fb8e",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/1/fields/5"
+        },
+        {
+          "id": "J42ca645c11663f62",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/full_form_context/1"
+        },
+        {
+          "id": "J42d08899e1c902a9",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/forms/24"
+        },
+        {
+          "id": "J4a7baa9ee107decb",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/0/fields/5"
+        },
+        {
+          "id": "J4cde44b9eb42b3ba",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/personnel_requirements/0/proposed_personnel_fields/1"
+        },
+        {
+          "id": "J4f77938e2b8966eb",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/2/fields/11"
+        },
+        {
+          "id": "J613c3f04353babe4",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/0/fields/3"
+        },
+        {
+          "id": "J67942f6b66a7ab5a",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/0/fields/11"
+        },
+        {
+          "id": "J6addf102efd1da34",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/1/fields/3"
+        },
+        {
+          "id": "J72fb16f0ceb7a4f6",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/0/fields/2"
+        },
+        {
+          "id": "J736c7a0ec38d1fcc",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/2/fields/5"
+        },
+        {
+          "id": "J73c7c1d889614129",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/1/fields/9"
+        },
+        {
+          "id": "J7a3a4c9d629b84fd",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/0/fields/7"
+        },
+        {
+          "id": "J7c6084aa8d46b76a",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/personnel_requirements/1/proposed_personnel_fields/0"
+        },
+        {
+          "id": "J850498ee67e4b52e",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/introductory_context"
+        },
+        {
+          "id": "J89a7b4ca1498b28f",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/1/fields/6"
+        },
+        {
+          "id": "Ja11d613729285107",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/1/fields/4"
+        },
+        {
+          "id": "Ja52c0b25e377db74",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/2/fields/0"
+        },
+        {
+          "id": "Jaf7c098fe8cd4436",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/1/fields/11"
+        },
+        {
+          "id": "Jb48c3224132f813a",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/personnel_requirements/1/proposed_personnel_fields/2"
+        },
+        {
+          "id": "Jb7a03ebeea05d3ff",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_table/entry_rows/1/fields/0"
+        },
+        {
+          "id": "Jb7b5633011b2f545",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/2/fields/3"
+        },
+        {
+          "id": "Jb8241ff11390de49",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/0/fields/4"
+        },
+        {
+          "id": "Jbb80f73430ce9a10",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/notes/4"
+        },
+        {
+          "id": "Jca499446d97273e7",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/1/fields/0"
+        },
+        {
+          "id": "Jcc0f9530ec95e68e",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/personnel_requirements/0/proposed_personnel_fields/3"
+        },
+        {
+          "id": "Jd9249b76a51a00b1",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/2/fields/7"
+        },
+        {
+          "id": "Jdc7ac6c38b428d91",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/1/fields/8"
+        },
+        {
+          "id": "Jdeb7e78e7fa846ee",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/2/fields/10"
+        },
+        {
+          "id": "Je214b69086eb4293",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/signature_template"
+        },
+        {
+          "id": "Je5bf7bc158416f10",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/0/fields/0"
+        },
+        {
+          "id": "Jec2f173a16524a86",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/0/fields/8"
+        },
+        {
+          "id": "Jf5ddb80239aaee30",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/1/fields/1"
+        },
+        {
+          "id": "Jfe4c68ca7c54ad30",
+          "heading": "Letter of Technical Bid (Including Attachments)",
+          "json_pointer": "/main_form_table/entry_rows/0/fields/10"
+        },
+        {
+          "id": "S0225d71703e0d4af",
+          "heading": "Attachment-12A — Surety Bond for Bid Security",
+          "json_pointer": null
+        },
+        {
+          "id": "S0ff9f755f6d5800e",
+          "heading": "Attachment-7 — Works in Hand",
+          "json_pointer": null
+        },
+        {
+          "id": "S4dcd8ca8d7daedfb",
+          "heading": "Attachment-12 — Form of Bank Guarantee for Tender Security / Earnest Money Deposit",
+          "json_pointer": null
+        },
+        {
+          "id": "S756a2346b5fffe87",
+          "heading": "Attachment-6 — Summary of Information Provided in Attachment-5",
+          "json_pointer": null
+        },
+        {
+          "id": "S7612345bc02d0111",
+          "heading": "Attachment-8 — Financial Information: Updated Annual Turnover",
+          "json_pointer": null
+        },
+        {
+          "id": "S838fc8b11c9b2941",
+          "heading": "Attachment-4 — Tenderer's Information",
+          "json_pointer": null
+        },
+        {
+          "id": "S8dff5db6e5d0adf1",
+          "heading": "Attachment-13A — Liquidity Calculation (Deleted)",
+          "json_pointer": null
+        },
+        {
+          "id": "Sa98090c5936713f9",
+          "heading": "Attachment-4A — Tender Fee Payment Details and Tender Security Details",
+          "json_pointer": null
+        },
+        {
+          "id": "Sba0b4ad6df61990b",
+          "heading": "Attachment-15 — Format for Memorandum of Understanding (MoU) for Joint Venture Participation (Deleted)",
+          "json_pointer": null
+        },
+        {
+          "id": "Sc366271c8eff663e",
+          "heading": "Attachment-9A — Format of Curriculum Vitae (CV) for Proposed Key Personnel",
+          "json_pointer": null
+        },
+        {
+          "id": "Sc8e174236bd757c1",
+          "heading": "Attachment-5 — Works of Similar Nature",
+          "json_pointer": null
+        },
+        {
+          "id": "Scb7f084e360c8ef9",
+          "heading": "Attachment-13 — Form of Banker's Certificate for Liquidity",
+          "json_pointer": null
+        },
+        {
+          "id": "Sd3117be88af8861d",
+          "heading": "Attachment-11 — Format for Power of Attorney for Bidding",
+          "json_pointer": null
+        },
+        {
+          "id": "Se48daacd04ee9993",
+          "heading": "Letter of Technical Bid",
+          "json_pointer": null
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/Technical/Vol1/secE.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 10,
+      "evidence_units": 97,
+      "cited_units": 81,
+      "uncited": [
+        {
+          "id": "J674bf4b6a8889bc4",
+          "heading": "General Conditions of Contract and Contract Data",
+          "json_pointer": "/preamble/0"
+        },
+        {
+          "id": "J78e5a0396407ddf3",
+          "heading": "General Conditions of Contract and Contract Data",
+          "json_pointer": "/introducing_paragraph"
+        },
+        {
+          "id": "Jcafcd1b52869c9d6",
+          "heading": "Clause 8 — Commencement, Completion and Delay",
+          "json_pointer": "/gcc_context_reference"
+        },
+        {
+          "id": "S1103491c8adfaaef",
+          "heading": "Clause 8 — Commencement, Completion and Delay",
+          "json_pointer": null
+        },
+        {
+          "id": "S1e4379dde2a50737",
+          "heading": "Clause 15 — Insurance",
+          "json_pointer": null
+        },
+        {
+          "id": "S3e53ecbeb101ee4f",
+          "heading": "Clause 17 — Claims, Disputes and Conciliation",
+          "json_pointer": null
+        },
+        {
+          "id": "S473e96521e7b14ed",
+          "heading": "Clause 13 — Determination/Termination of the Contract",
+          "json_pointer": null
+        },
+        {
+          "id": "S5a022915aef93369",
+          "heading": "Clause 12 — Variations",
+          "json_pointer": null
+        },
+        {
+          "id": "S6e730b6a2cbc4fd9",
+          "heading": "Clause 2 — The Employer",
+          "json_pointer": null
+        },
+        {
+          "id": "S73e36ad830e4229b",
+          "heading": "Clause 4 — The Contractor",
+          "json_pointer": null
+        },
+        {
+          "id": "Sab5e7b7db981cfac",
+          "heading": "Contract Data",
+          "json_pointer": null
+        },
+        {
+          "id": "Sac5fd49e784cde85",
+          "heading": "Clause 16 — Force Majeure",
+          "json_pointer": null
+        },
+        {
+          "id": "Sb44dd233c70e40d7",
+          "heading": "Clause 3 — The Engineer",
+          "json_pointer": null
+        },
+        {
+          "id": "Scd2575c4ff6208e0",
+          "heading": "Clause 14 — Risk and Responsibility",
+          "json_pointer": null
+        },
+        {
+          "id": "Sde70de43bf6bfb19",
+          "heading": "Clause 1 — Definitions and Interpretation",
+          "json_pointer": null
+        },
+        {
+          "id": "Se46088a2823002f4",
+          "heading": "Clause 18 — Service of Notices",
+          "json_pointer": null
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/Technical/Vol1/secF.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 1,
+      "evidence_units": 9,
+      "cited_units": 9,
+      "uncited": []
+    },
+    {
+      "source": "OKF_bundle/Technical/Vol1/secG.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 1,
+      "evidence_units": 10,
+      "cited_units": 9,
+      "uncited": [
+        {
+          "id": "Jf11d0be3c192f31f",
+          "heading": "Contract Form 2 — Bank Guarantee for Performance Security / Mobilisation Advance / Plant & Machinery Advance / Special Advance / Payment of Retention Money / Safe Custody of Materials Supplied by Employer to the Contractor etc.",
+          "json_pointer": "/details/0"
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/Technical/Vol2/vol2_part1.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 1,
+      "evidence_units": 10,
+      "cited_units": 10,
+      "uncited": []
+    },
+    {
+      "source": "OKF_bundle/Technical/Vol2/vol2_part2.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 1,
+      "evidence_units": 18,
+      "cited_units": 18,
+      "uncited": []
+    },
+    {
+      "source": "OKF_bundle/Technical/Vol2/vol2_part3.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 2,
+      "evidence_units": 86,
+      "cited_units": 64,
+      "uncited": [
+        {
+          "id": "J34545087ab87889f",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/8/cells/1"
+        },
+        {
+          "id": "J34a7dc587e02a367",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/0/cells/1"
+        },
+        {
+          "id": "J5654ccdc61a49767",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/0/cells/2"
+        },
+        {
+          "id": "J576e740133c5c620",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/4/cells/0"
+        },
+        {
+          "id": "J66a8d3ae475278d5",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/personnel_requirements/1/cells/8"
+        },
+        {
+          "id": "J6f22104d76ce11bc",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/7/cells/0"
+        },
+        {
+          "id": "J78d4f9840fb71e83",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/5/cells/0"
+        },
+        {
+          "id": "J7a0f72a1aeee7683",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/3/cells/1"
+        },
+        {
+          "id": "J7f650793cad9c996",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/7/cells/1"
+        },
+        {
+          "id": "J86a84d24352347fc",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/9/cells/0"
+        },
+        {
+          "id": "J8eb0b3c8814406e1",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/personnel_requirements/0/cells/1"
+        },
+        {
+          "id": "J9345d1baed232870",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/3/cells/0"
+        },
+        {
+          "id": "Ja247679990ccbc39",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/5/cells/1"
+        },
+        {
+          "id": "Jc6411a8ea17f665e",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/1/cells/0"
+        },
+        {
+          "id": "Jcbbfab0fba139de0",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/9/cells/1"
+        },
+        {
+          "id": "Jd1e04d38029937d9",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/1/cells/1"
+        },
+        {
+          "id": "Jd39dcada371e02ac",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/6/cells/1"
+        },
+        {
+          "id": "Jd6ddf77267a5ac7b",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/6/cells/0"
+        },
+        {
+          "id": "Jd7c885577eb1eb9a",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/3/cells/2"
+        },
+        {
+          "id": "Je2efc1010dfa24e9",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/equipment_requirements/2/cells/1"
+        },
+        {
+          "id": "Jf9c97f5b23917cb8",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 3: Scope of Work",
+          "json_pointer": "/personnel_requirements/1/cells/0"
+        },
+        {
+          "id": "S12dedf8df87bdfbf",
+          "heading": "Clause 21 — Demolition of Buildings/Structures",
+          "json_pointer": null
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/Technical/Vol2/vol2_part4A.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 4,
+      "evidence_units": 64,
+      "cited_units": 40,
+      "uncited": [
+        {
+          "id": "J16942be0c5fd2083",
+          "heading": "Clause 1 — Dismantling",
+          "json_pointer": "/clauses/0"
+        },
+        {
+          "id": "J2923021821407407",
+          "heading": "Clause 3 — Serviceable and Unserviceable Materials",
+          "json_pointer": "/clauses/2/fragments/8"
+        },
+        {
+          "id": "J2a1645102ea91e9d",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/other_numbered_lines/4"
+        },
+        {
+          "id": "J2fadb4e574ebda68",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/other_numbered_lines/0"
+        },
+        {
+          "id": "J39701ed2241e4c4e",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/preamble_retained_lines/4"
+        },
+        {
+          "id": "J3d820263e27b73d8",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/subclause_headings/13"
+        },
+        {
+          "id": "J4537e52daa78518e",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/other_numbered_lines/7"
+        },
+        {
+          "id": "J5712843e16b6d9ed",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/subclause_headings/10"
+        },
+        {
+          "id": "J7b720d176b997dae",
+          "heading": "Clause 3 — Serviceable and Unserviceable Materials",
+          "json_pointer": "/clauses/2/fragments/7"
+        },
+        {
+          "id": "J85347edb7f1787b6",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/preamble_retained_lines/3"
+        },
+        {
+          "id": "J90df6bcaf6c13407",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/preamble_retained_lines/2"
+        },
+        {
+          "id": "J93f2938d59b3abd2",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/subclause_headings/3"
+        },
+        {
+          "id": "J9670648184aecd1a",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/preamble_retained_lines/5"
+        },
+        {
+          "id": "Ja14a622b0ac7890c",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/preamble_retained_lines/1"
+        },
+        {
+          "id": "Jcbda4470313ad258",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/other_numbered_lines/2"
+        },
+        {
+          "id": "Jd8e0ab471d08965e",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/subclause_headings/4"
+        },
+        {
+          "id": "Jdb22b28e501cf5c4",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/other_numbered_lines/3"
+        },
+        {
+          "id": "Jee8f570bd8c2e399",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/preamble_retained_lines/0"
+        },
+        {
+          "id": "Jf022e4dd4656647b",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/other_numbered_lines/6"
+        },
+        {
+          "id": "Jf54798b411922cca",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/subclause_headings/12"
+        },
+        {
+          "id": "Jf663a82b6b004c41",
+          "heading": "Clause 2 — Demolition",
+          "json_pointer": "/clauses/1"
+        },
+        {
+          "id": "Jf99a80fea0e0d70b",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/subclause_headings/24"
+        },
+        {
+          "id": "Jfdbee673c545603a",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4A: Specifications for Demolition/Dismantling Works",
+          "json_pointer": "/other_numbered_lines/5"
+        },
+        {
+          "id": "Sd31d60566eb1fef2",
+          "heading": "3.13 References",
+          "json_pointer": null
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/Technical/Vol2/vol2_part4B.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 4,
+      "evidence_units": 66,
+      "cited_units": 34,
+      "uncited": [
+        {
+          "id": "J043f944d3f4e7b32",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/10"
+        },
+        {
+          "id": "J11488c339834fa29",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/8"
+        },
+        {
+          "id": "J16652e88c066437d",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/7"
+        },
+        {
+          "id": "J1fc46e3621d69415",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/12"
+        },
+        {
+          "id": "J29ed22cc9cb57eba",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/4"
+        },
+        {
+          "id": "J3ffdb53f29be3eb2",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/18"
+        },
+        {
+          "id": "J4803737560fbab36",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/3"
+        },
+        {
+          "id": "J53e05277816451cf",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/0"
+        },
+        {
+          "id": "J5bd4781a9811cd15",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/19"
+        },
+        {
+          "id": "J697638d0bb4109a4",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/1"
+        },
+        {
+          "id": "J6a5a2b86842d5ca8",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/5"
+        },
+        {
+          "id": "J6f1ad1071c705e2d",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/20"
+        },
+        {
+          "id": "J6fba619f8ff87e9c",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/21"
+        },
+        {
+          "id": "J75b73ab35e79e682",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/15"
+        },
+        {
+          "id": "J766a8875a3823950",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/23"
+        },
+        {
+          "id": "J7f8132220e550113",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/preamble_retained_lines/0"
+        },
+        {
+          "id": "J836f894513d9a8e1",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/preamble_retained_lines/4"
+        },
+        {
+          "id": "J8601772af2248a35",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/14"
+        },
+        {
+          "id": "J972ad4e0bd6e65d4",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/preamble_retained_lines/2"
+        },
+        {
+          "id": "Ja088fd07557e6b49",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/preamble_retained_lines/1"
+        },
+        {
+          "id": "Ja1879b46da2c358b",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/technical_specifications_heading/1"
+        },
+        {
+          "id": "Ja8f836780c09ee1f",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/technical_specifications_heading/0"
+        },
+        {
+          "id": "Jb7de0d90a761746c",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/9"
+        },
+        {
+          "id": "Jbf6aefc7a6a871d7",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/2"
+        },
+        {
+          "id": "Jc76993bd40265c89",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/11"
+        },
+        {
+          "id": "Jc949da80a8571a80",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/17"
+        },
+        {
+          "id": "Jca27c9640970cbed",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/22"
+        },
+        {
+          "id": "Jcc56738cf1d00012",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/preamble_retained_lines/3"
+        },
+        {
+          "id": "Jddf529e09453a5d2",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/24"
+        },
+        {
+          "id": "Jf1a1c78fbfd7b09b",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/16"
+        },
+        {
+          "id": "Jfd3b5448a13ac318",
+          "heading": "Employer Requirement, Scope of Work and Technical Specifications – Part 4B: Specifications for Rehabilitation and Restoration Works",
+          "json_pointer": "/other_numbered_lines/13"
+        },
+        {
+          "id": "S88121b46f523a698",
+          "heading": "Clause 17 — Earthwork Including General Filling, Dewatering and Backfilling",
+          "json_pointer": null
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/Technical/Vol3/vol3_part1.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 12,
+      "evidence_units": 44,
+      "cited_units": 42,
+      "uncited": [
+        {
+          "id": "J0912f5755c70eb89",
+          "heading": "Clause 5.0 — Designer’s role",
+          "json_pointer": "/repeated_headings/0"
+        },
+        {
+          "id": "Jee6e030bd8a9922d",
+          "heading": "Safety, Health and Environment Manual – Part I: SHE Management",
+          "json_pointer": "/source_page_context/4"
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/Technical/Vol3/vol3_part2.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 13,
+      "evidence_units": 76,
+      "cited_units": 75,
+      "uncited": [
+        {
+          "id": "J16ba87dd60d22180",
+          "heading": "Safety, Health and Environment Manual – Part II: Safety",
+          "json_pointer": "/preamble_retained_lines/1"
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/Technical/Vol3/vol3_part3.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 3,
+      "evidence_units": 25,
+      "cited_units": 20,
+      "uncited": [
+        {
+          "id": "J26f6d30647fd7c03",
+          "heading": "Safety, Health and Environment Manual – Part III: Occupational Health and Welfare",
+          "json_pointer": "/preamble_retained_lines/0"
+        },
+        {
+          "id": "J7cdc97220667680c",
+          "heading": "Safety, Health and Environment Manual – Part III: Occupational Health and Welfare",
+          "json_pointer": "/preamble/0"
+        },
+        {
+          "id": "Jd093b18b5c7e0dcf",
+          "heading": "Safety, Health and Environment Manual – Part III: Occupational Health and Welfare",
+          "json_pointer": "/preamble_retained_lines/1"
+        },
+        {
+          "id": "Jd2a7c9c5b7f5315b",
+          "heading": "Safety, Health and Environment Manual – Part III: Occupational Health and Welfare",
+          "json_pointer": "/preamble_retained_lines/2"
+        },
+        {
+          "id": "Je947f683ae36dcb3",
+          "heading": "Safety, Health and Environment Manual – Part III: Occupational Health and Welfare",
+          "json_pointer": "/preamble_retained_lines/3"
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/Technical/Vol3/vol3_part4.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 4,
+      "evidence_units": 20,
+      "cited_units": 17,
+      "uncited": [
+        {
+          "id": "J0b2b29ca68d7fbca",
+          "heading": "Safety, Health and Environment Manual – Part IV: Environmental Management",
+          "json_pointer": "/preamble_retained_lines/1"
+        },
+        {
+          "id": "J61bb054dd470086f",
+          "heading": "Safety, Health and Environment Manual – Part IV: Environmental Management",
+          "json_pointer": "/preamble/0"
+        },
+        {
+          "id": "Jb10aa4a869b01e16",
+          "heading": "Safety, Health and Environment Manual – Part IV: Environmental Management",
+          "json_pointer": "/preamble_retained_lines/0"
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/Technical/Vol3/vol3_part5.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 3,
+      "evidence_units": 23,
+      "cited_units": 21,
+      "uncited": [
+        {
+          "id": "J00ad3eb7c8d19902",
+          "heading": "Safety, Health and Environment Manual – Part V: Penalty and Awards",
+          "json_pointer": "/preamble_retained_lines/1"
+        },
+        {
+          "id": "Jd1d5c5251516fb2a",
+          "heading": "Safety, Health and Environment Manual – Part V: Penalty and Awards",
+          "json_pointer": "/preamble_retained_lines/2"
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/Technical/Vol3/vol3_appendices_instructions_forms.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 11,
+      "evidence_units": 155,
+      "cited_units": 72,
+      "uncited": [
+        {
+          "id": "J01c4c6f779ad0187",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/56"
+        },
+        {
+          "id": "J0843cf7c896a1a7c",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/18"
+        },
+        {
+          "id": "J09afc9314f8a2467",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/27"
+        },
+        {
+          "id": "J0a0c0329564435ec",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/1"
+        },
+        {
+          "id": "J0a8328766684b694",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/10"
+        },
+        {
+          "id": "J0c258489b4219964",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/21"
+        },
+        {
+          "id": "J0c574c4e7baefd51",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/15"
+        },
+        {
+          "id": "J10033f56db1ad8c2",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/19"
+        },
+        {
+          "id": "J108bd55f84c2eefa",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/43"
+        },
+        {
+          "id": "J15900e3cd89c7dbe",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/10"
+        },
+        {
+          "id": "J18097d0f65e63bf2",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/16"
+        },
+        {
+          "id": "J1f16168f21543893",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/17"
+        },
+        {
+          "id": "J2094dd7df5ab9ea2",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/13"
+        },
+        {
+          "id": "J281b236ed5f9afb9",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/72"
+        },
+        {
+          "id": "J2c4527fcaaf6bcfa",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/78"
+        },
+        {
+          "id": "J2deb36f7ba1034ca",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/31"
+        },
+        {
+          "id": "J2df507ba1a85180a",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/32"
+        },
+        {
+          "id": "J300a6993f165f65d",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/25"
+        },
+        {
+          "id": "J34e4190482c71119",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/69"
+        },
+        {
+          "id": "J3af639fc621d5895",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/41"
+        },
+        {
+          "id": "J3b1aee9324d8bb04",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/51"
+        },
+        {
+          "id": "J43ad13f33b29e37f",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/7"
+        },
+        {
+          "id": "J494ba737d9bcf550",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/9"
+        },
+        {
+          "id": "J53a3339a3a5f8e67",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/11"
+        },
+        {
+          "id": "J5629dc554fa32d23",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/59"
+        },
+        {
+          "id": "J5755d97b62720fdf",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/5"
+        },
+        {
+          "id": "J58dd70a7ae0faa14",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/0"
+        },
+        {
+          "id": "J5a9388f5997d513e",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/77"
+        },
+        {
+          "id": "J5c26c094ffdf9664",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/18"
+        },
+        {
+          "id": "J5db436cbcce71ef6",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/39"
+        },
+        {
+          "id": "J61d19d1b3c90cb3a",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/8"
+        },
+        {
+          "id": "J67e27ce24b6b4c45",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/19"
+        },
+        {
+          "id": "J69dc69abc103c9cb",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/38"
+        },
+        {
+          "id": "J6cc8cb2015f1d057",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/12"
+        },
+        {
+          "id": "J6f36e320950816c6",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/46"
+        },
+        {
+          "id": "J6f7e1c4e7ad09d56",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/71"
+        },
+        {
+          "id": "J71d35ba99abb3632",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/83"
+        },
+        {
+          "id": "J747161928226a0fe",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/55"
+        },
+        {
+          "id": "J74f388ab951d28aa",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/42"
+        },
+        {
+          "id": "J76499f335ee35607",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/66"
+        },
+        {
+          "id": "J7665bd5ea9dfd17d",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/11"
+        },
+        {
+          "id": "J7c1284802d978a2b",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/60"
+        },
+        {
+          "id": "J7c235e6b37c3a34c",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/37"
+        },
+        {
+          "id": "J7ddaaa9899504566",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/35"
+        },
+        {
+          "id": "J81897fad6f1adefd",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/4"
+        },
+        {
+          "id": "J81e99865d6eca222",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/17"
+        },
+        {
+          "id": "J8217493cde258312",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/14"
+        },
+        {
+          "id": "J886276d6500ceb65",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/34"
+        },
+        {
+          "id": "J8cdd46bc2b7da3ec",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/6"
+        },
+        {
+          "id": "J963efec5a1331988",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/8"
+        },
+        {
+          "id": "J96d250685a610c8d",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/14"
+        },
+        {
+          "id": "J970500ee27c23f5c",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/64"
+        },
+        {
+          "id": "J9cb384112e10107c",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/52"
+        },
+        {
+          "id": "J9dfe10cb2dd6a233",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/48"
+        },
+        {
+          "id": "Ja47dd50c2a06deb2",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/24"
+        },
+        {
+          "id": "Ja90682dfa3f68862",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/16"
+        },
+        {
+          "id": "Jaa4e13496fe50211",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/57"
+        },
+        {
+          "id": "Jab8a6034bfc300f9",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/5"
+        },
+        {
+          "id": "Jb4257f4644fb470a",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/50"
+        },
+        {
+          "id": "Jb51e01e4bd932a70",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/2"
+        },
+        {
+          "id": "Jb733cea0f624d1bc",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/47"
+        },
+        {
+          "id": "Jbeef84d2bae3de89",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/12"
+        },
+        {
+          "id": "Jbfa806a7230d776f",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/20"
+        },
+        {
+          "id": "Jc5a29c7715f14889",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/54"
+        },
+        {
+          "id": "Jc7040a707f7a3b23",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/15"
+        },
+        {
+          "id": "Jc7263ac8854eb5fe",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/source_page_context/0"
+        },
+        {
+          "id": "Jcc84e7467cf60994",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/67"
+        },
+        {
+          "id": "Jcce4dcf28213d0c1",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/80"
+        },
+        {
+          "id": "Jcf115c5f22d2414f",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/82"
+        },
+        {
+          "id": "Jd4d4f5ca3d949a8d",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/45"
+        },
+        {
+          "id": "Jd66af579c4605ece",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/65"
+        },
+        {
+          "id": "Jd7ac615c21b115ca",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/61"
+        },
+        {
+          "id": "Jd84b0fa2e85483b8",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/6"
+        },
+        {
+          "id": "Jdcd58d524487a6fe",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/79"
+        },
+        {
+          "id": "Jee39e51a3972e43e",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/36"
+        },
+        {
+          "id": "Jf2042e5ca867ab65",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/68"
+        },
+        {
+          "id": "Jf5f3d81079d41bab",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/topics/4"
+        },
+        {
+          "id": "Jf70f229b9466e792",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/49"
+        },
+        {
+          "id": "Jf85da0f4931830fe",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/44"
+        },
+        {
+          "id": "Jfaf962d59661d4fe",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/source_page_context/1"
+        },
+        {
+          "id": "Jfe112bf906b1de95",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/81"
+        },
+        {
+          "id": "Jffb13e9554ed0e0c",
+          "heading": "Safety, Health and Environment Manual – Appendices, General Instructions and Forms",
+          "json_pointer": "/items/26"
+        },
+        {
+          "id": "S4c188e9fe4f46a7d",
+          "heading": "Appendix No. 4 — WORKPLACE POLICY ON HIV/AIDS PREVENTION & CONTROL FOR WORKMEN ENGAGED BY CONTRACTORS",
+          "json_pointer": null
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/Financial/vol4_secJ.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 4,
+      "evidence_units": 76,
+      "cited_units": 56,
+      "uncited": [
+        {
+          "id": "J032cd55faeb19c9d",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/formulas/1"
+        },
+        {
+          "id": "J0b07ffe8adb3460e",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/formulas/15"
+        },
+        {
+          "id": "J3bc716f2057df103",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/formulas/16"
+        },
+        {
+          "id": "J4029913271fcd051",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/formulas/11"
+        },
+        {
+          "id": "J5451d23aff5f1c6e",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/formulas/10"
+        },
+        {
+          "id": "J611884838db34d8c",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/formulas/2"
+        },
+        {
+          "id": "J679f2f014d87658a",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/pages/2"
+        },
+        {
+          "id": "J6cb7baf087f3d185",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/formulas/7"
+        },
+        {
+          "id": "J8a5f2d50dfa7382e",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/formulas/13"
+        },
+        {
+          "id": "J9d765b8b4b5db67b",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/formulas/3"
+        },
+        {
+          "id": "Ja42b8dfa27f4ad86",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/context_records/0"
+        },
+        {
+          "id": "Ja4c17c9376f697e3",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/formulas/12"
+        },
+        {
+          "id": "Jaf7b2a8ae0c1f01f",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/formulas/9"
+        },
+        {
+          "id": "Jb4bbc0a072c241e9",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/formulas/5"
+        },
+        {
+          "id": "Jbadfbef5bca2ac84",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/formulas/14"
+        },
+        {
+          "id": "Jbdb5d6172738a4ea",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/records/21"
+        },
+        {
+          "id": "Jc1b5eff2b20a2b88",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/formulas/4"
+        },
+        {
+          "id": "Jcace085a0c83f406",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/formulas/8"
+        },
+        {
+          "id": "Jd7d9694740b913b1",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/formulas/6"
+        },
+        {
+          "id": "Je89f73e98266a6f3",
+          "heading": "Financial Document and Bill of Quantities",
+          "json_pointer": "/formulas/0"
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/addendum_and_corrigendum/A_and_C1.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 1,
+      "evidence_units": 11,
+      "cited_units": 10,
+      "uncited": [
+        {
+          "id": "Sffdcc66eb50c3d3f",
+          "heading": "Addendum and Corrigendum No. 1",
+          "json_pointer": null
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/addendum_and_corrigendum/A_and_C2.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 1,
+      "evidence_units": 24,
+      "cited_units": 13,
+      "uncited": [
+        {
+          "id": "S27bfbdedb301caf7",
+          "heading": "Replacement Wording",
+          "json_pointer": null
+        },
+        {
+          "id": "S3005f69fb33e2714",
+          "heading": "Change 1 — Variation to Quantities of Minor Value Items",
+          "json_pointer": null
+        },
+        {
+          "id": "S406d46ea5d4e84c8",
+          "heading": "Change 9 — Add SCC Clause 10: Professional Indemnity Insurance",
+          "json_pointer": null
+        },
+        {
+          "id": "S8bfc53f835f5f4dc",
+          "heading": "Addendum and Corrigendum No. 2",
+          "json_pointer": null
+        },
+        {
+          "id": "S8cf8d2f858ef197a",
+          "heading": "Reading Note",
+          "json_pointer": null
+        },
+        {
+          "id": "Sa71f58915d45f58d",
+          "heading": "Existing Wording",
+          "json_pointer": null
+        },
+        {
+          "id": "Saa95fecf9ddbac3c",
+          "heading": "Change 8 — Add SCC Clause 9: Special/Acceleration Advance",
+          "json_pointer": null
+        },
+        {
+          "id": "Sad7ee5cf883c92c5",
+          "heading": "Change 6 — Add SCC Clause 7: Mobilization Advance",
+          "json_pointer": null
+        },
+        {
+          "id": "Scc1331c8f7630820",
+          "heading": "Change 4 — Add SCC Clause 5: Incentives for Early Completion",
+          "json_pointer": null
+        },
+        {
+          "id": "Sd0433d1c70aec2e9",
+          "heading": "Change 3 — Add SCC Clause 4: Sub-Contractor",
+          "json_pointer": null
+        },
+        {
+          "id": "Sd9b6ef9b917fdd41",
+          "heading": "Change 7 — Add SCC Clause 8: Advance Against Plant & Machinery",
+          "json_pointer": null
+        }
+      ]
+    },
+    {
+      "source": "OKF_bundle/addendum_and_corrigendum/A_and_C3.md",
+      "batch_status": "legacy_ingest_record_no_matching_checkpoints",
+      "saved_batches": 0,
+      "planned_batches": 1,
+      "evidence_units": 11,
+      "cited_units": 10,
+      "uncited": [
+        {
+          "id": "Sf5c608c7fea255a3",
+          "heading": "Addendum and Corrigendum No. 3",
+          "json_pointer": null
+        }
+      ]
+    }
+  ],
+  "exact_duplicate_groups": [],
+  "possible_duplicates": [
+    {
+      "first": "wiki/source_quirks.md#C875ac595d1efe273",
+      "second": "wiki/source_quirks.md#C37950254a6a71c7b",
+      "similarity": 0.981,
+      "first_text": "Technical Bid form tables in Section D (such as Attachment 6) are structured as empty templates requiring bidder completion, containing no pre-filled tenderer values in the source document.",
+      "second_text": "Technical Bid form tables in Section D (such as Attachments 6, 7, 8, 9) are structured as empty templates requiring bidder completion, containing no pre-filled tenderer values in the source document."
+    },
+    {
+      "first": "wiki/source_quirks.md#C875ac595d1efe273",
+      "second": "wiki/source_quirks.md#Cd49e3b1ac7634aed",
+      "similarity": 0.964,
+      "first_text": "Technical Bid form tables in Section D (such as Attachment 6) are structured as empty templates requiring bidder completion, containing no pre-filled tenderer values in the source document.",
+      "second_text": "Technical Bid form tables in Section D (such as Attachments 6, 7, and others) are structured as empty templates requiring bidder completion, containing no pre-filled tenderer values in the source document."
+    },
+    {
+      "first": "wiki/source_quirks.md#C875ac595d1efe273",
+      "second": "wiki/source_quirks.md#Cffbb78a2b00ea4cb",
+      "similarity": 0.925,
+      "first_text": "Technical Bid form tables in Section D (such as Attachment 6) are structured as empty templates requiring bidder completion, containing no pre-filled tenderer values in the source document.",
+      "second_text": "Technical Bid form tables in Section D such as Attachments 6, 7, and 8 are presented as empty templates requiring bidder completion, containing no pre-filled tenderer values in the source text."
+    },
+    {
+      "first": "wiki/source_quirks.md#C37950254a6a71c7b",
+      "second": "wiki/source_quirks.md#Cd49e3b1ac7634aed",
+      "similarity": 0.972,
+      "first_text": "Technical Bid form tables in Section D (such as Attachments 6, 7, 8, 9) are structured as empty templates requiring bidder completion, containing no pre-filled tenderer values in the source document.",
+      "second_text": "Technical Bid form tables in Section D (such as Attachments 6, 7, and others) are structured as empty templates requiring bidder completion, containing no pre-filled tenderer values in the source document."
+    },
+    {
+      "first": "wiki/source_quirks.md#C37950254a6a71c7b",
+      "second": "wiki/source_quirks.md#Cffbb78a2b00ea4cb",
+      "similarity": 0.934,
+      "first_text": "Technical Bid form tables in Section D (such as Attachments 6, 7, 8, 9) are structured as empty templates requiring bidder completion, containing no pre-filled tenderer values in the source document.",
+      "second_text": "Technical Bid form tables in Section D such as Attachments 6, 7, and 8 are presented as empty templates requiring bidder completion, containing no pre-filled tenderer values in the source text."
+    },
+    {
+      "first": "wiki/source_quirks.md#Cd49e3b1ac7634aed",
+      "second": "wiki/source_quirks.md#Cffbb78a2b00ea4cb",
+      "similarity": 0.933,
+      "first_text": "Technical Bid form tables in Section D (such as Attachments 6, 7, and others) are structured as empty templates requiring bidder completion, containing no pre-filled tenderer values in the source document.",
+      "second_text": "Technical Bid form tables in Section D such as Attachments 6, 7, and 8 are presented as empty templates requiring bidder completion, containing no pre-filled tenderer values in the source text."
+    }
+  ],
+  "amendments": [
+    {
+      "source_record": {
+        "record_id": "corrigendum_1/nit_key_detail_10",
+        "corrigendum_number": 1,
+        "document_date": "2026-10-01",
+        "source_document": "DLN_P1_AandC1_157.PDF",
+        "source_sha256": "26b25a4e3c3d3206635d0ddae6ce70c00e51468ebb4fe5d93f5e9d65902942d1",
+        "pdf_pages": [
+          1
+        ],
+        "review_status": "pending_manual_review",
+        "field_provenance": "Prepared from visual inspection of the source scan; not automatically inferred from OCR",
+        "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription",
+        "printed_amendment_serial": "1",
+        "affected_section": "NIT",
+        "affected_reference": "Key Detail 10",
+        "label": "Tender submission Date and Time (online)",
+        "operation": "replace_date_time_fields",
+        "existing_selected_text": "03.10.2026 (From 10.00 AM) to 09.10.2026 (up to 3.00 PM) (IST)",
+        "replacement_selected_text": "09.10.2026 (From 10.00 AM) to 15.10.2026 (up to 3.00 PM) (IST)",
+        "scope": "Date/time fields only; other wording, venue and submission conditions are retained in the source OCR",
+        "booklet_page_reference": "001",
+        "ocr_evidence_relative_to_project": "output/corrigenda/ocr/run_20261030T051229372457Z/corrigendum_1/ocr.json"
+      },
+      "linked_claims": [
+        {
+          "location": "wiki/concepts/amendment_sequence_and_conflicts.md#C1e9ca2df5b17997f",
+          "text": "This page brings together the cited requirements for amendment sequence and unresolved source conflicts. Each source statement retains its own stage, conditions and review limitations."
+        },
+        {
+          "location": "wiki/concepts/amendment_sequence_and_conflicts.md#Cd7fc0fcc7de94429",
+          "text": "The historical submission sequence is baseline 03-09 October 2026, C1 09-15 October, and C3 09-23 October, with the closing time 3 PM IST. These are recorded tender-history states, not live submission advice."
+        },
+        {
+          "location": "wiki/cross_reference_master.md#Cf5504c7820f7e6e1",
+          "text": "C3 explicitly replaces the C1 date/time fields for NIT Key Detail 10; this supersession concerns those fields only and preserves C1 as historical evidence."
+        },
+        {
+          "location": "wiki/source_quirks.md#C13edd62ae79b09f7",
+          "text": "Subsequent amendments (such as Corrigendum No. 3) further adjust dates previously modified by Corrigendum No. 1, requiring historical preservation of intermediate dates rather than treating Corrigendum No. 1 values as current."
+        },
+        {
+          "location": "wiki/source_quirks.md#Ce08e20da315382c0",
+          "text": "Corrigendum No. 1 values represent historical amendment states that are subsequently superseded by later corrigenda notices while remaining active audit trail records."
+        },
+        {
+          "location": "wiki/timeline.md#C736d193ce1219692",
+          "text": "Baseline online tender submission period is 03.10.2026 to 09.10.2026, amended by Corrigendum 1 to 09.10.2026 to 15.10.2026, and further amended by Corrigendum 3 to 09.10.2026 to 23.10.2026 up to 3.00 PM IST."
+        },
+        {
+          "location": "wiki/timeline.md#Cdc59714738cbdbf0",
+          "text": "Corrigendum No. 1 modifies key schedule dates for the tender, extending the tender document availability, online submission window, technical bid opening date, and original tender security submission deadline."
+        },
+        {
+          "location": "wiki/timeline.md#C492500960b0c9910",
+          "text": "The online tender submission date and time window was amended from 03.10.2026 (10.00 AM) to 09.10.2026 (up to 3.00 PM IST) to 09.10.2026 (10.00 AM) to 15.10.2026 (up to 3.00 PM IST)."
+        },
+        {
+          "location": "wiki/timeline.md#C5db507bb060ffcc8",
+          "text": "Corrigendum No. 1 amends NIT Key Detail 10 relating to online tender submission."
+        },
+        {
+          "location": "wiki/timeline.md#C67b6f8b8e76c71e6",
+          "text": "Online tender submission closing dates are successively replaced by Corrigendum 1 and Corrigendum 3 up to 23.10.2026 at 3.00 PM IST."
+        }
+      ],
+      "status": "cited_meaning_and_supersession_pending"
+    },
+    {
+      "source_record": {
+        "record_id": "corrigendum_1/nit_key_detail_11",
+        "corrigendum_number": 1,
+        "document_date": "2026-10-01",
+        "source_document": "DLN_P1_AandC1_157.PDF",
+        "source_sha256": "26b25a4e3c3d3206635d0ddae6ce70c00e51468ebb4fe5d93f5e9d65902942d1",
+        "pdf_pages": [
+          1
+        ],
+        "review_status": "pending_manual_review",
+        "field_provenance": "Prepared from visual inspection of the source scan; not automatically inferred from OCR",
+        "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription",
+        "printed_amendment_serial": "1",
+        "affected_section": "NIT",
+        "affected_reference": "Key Detail 11",
+        "label": "Date & Time of opening of Tender (Technical Bid) (online)",
+        "operation": "replace_date_time_fields",
+        "existing_selected_text": "12.10.2026 at 11.30 AM (IST)",
+        "replacement_selected_text": "17.10.2026 at 11.30 AM (IST)",
+        "scope": "Date/time fields only; other wording, venue and submission conditions are retained in the source OCR",
+        "booklet_page_reference": "001",
+        "ocr_evidence_relative_to_project": "output/corrigenda/ocr/run_20261030T051229372457Z/corrigendum_1/ocr.json"
+      },
+      "linked_claims": [
+        {
+          "location": "wiki/cross_reference_master.md#C1d936b620f3567b1",
+          "text": "C3 explicitly replaces the C1 date/time fields for NIT Key Detail 11; this supersession concerns those fields only and preserves C1 as historical evidence."
+        },
+        {
+          "location": "wiki/source_quirks.md#C13edd62ae79b09f7",
+          "text": "Subsequent amendments (such as Corrigendum No. 3) further adjust dates previously modified by Corrigendum No. 1, requiring historical preservation of intermediate dates rather than treating Corrigendum No. 1 values as current."
+        },
+        {
+          "location": "wiki/source_quirks.md#Ce08e20da315382c0",
+          "text": "Corrigendum No. 1 values represent historical amendment states that are subsequently superseded by later corrigenda notices while remaining active audit trail records."
+        },
+        {
+          "location": "wiki/timeline.md#C5e10c1e05203f0d8",
+          "text": "Baseline technical bid opening date is 12.10.2026, amended to 17.10.2026 by Corrigendum 1, and further amended to 27.10.2026 by Corrigendum 3."
+        },
+        {
+          "location": "wiki/timeline.md#Cdc59714738cbdbf0",
+          "text": "Corrigendum No. 1 modifies key schedule dates for the tender, extending the tender document availability, online submission window, technical bid opening date, and original tender security submission deadline."
+        },
+        {
+          "location": "wiki/timeline.md#C3bc23c2326b69e8f",
+          "text": "The online technical bid opening date and time was amended from 12.10.2026 at 11.30 AM (IST) to 17.10.2026 at 11.30 AM (IST)."
+        },
+        {
+          "location": "wiki/timeline.md#Ce39c05594693d66f",
+          "text": "Corrigendum No. 1 amends NIT Key Detail 11 relating to the opening of technical bids."
+        },
+        {
+          "location": "wiki/timeline.md#Ca1cd201198150f5f",
+          "text": "Technical bid opening date is amended from the initial schedule to 17.10.2026 by Corrigendum 1 and further extended to 27.10.2026 by Corrigendum 3."
+        }
+      ],
+      "status": "cited_meaning_and_supersession_pending"
+    },
+    {
+      "source_record": {
+        "record_id": "corrigendum_1/nit_key_detail_12",
+        "corrigendum_number": 1,
+        "document_date": "2026-10-01",
+        "source_document": "DLN_P1_AandC1_157.PDF",
+        "source_sha256": "26b25a4e3c3d3206635d0ddae6ce70c00e51468ebb4fe5d93f5e9d65902942d1",
+        "pdf_pages": [
+          1
+        ],
+        "review_status": "pending_manual_review",
+        "field_provenance": "Prepared from visual inspection of the source scan; not automatically inferred from OCR",
+        "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription",
+        "printed_amendment_serial": "1",
+        "affected_section": "NIT",
+        "affected_reference": "Key Detail 12",
+        "label": "Last date for submission of original Tender Security instruments",
+        "operation": "replace_date_time_fields",
+        "existing_selected_text": "16.10.2026 up to 18.00 Hrs (IST)",
+        "replacement_selected_text": "23.10.2026 up to 18.00 Hrs (IST)",
+        "scope": "Date/time fields only; other wording, venue and submission conditions are retained in the source OCR",
+        "booklet_page_reference": "001",
+        "ocr_evidence_relative_to_project": "output/corrigenda/ocr/run_20261030T051229372457Z/corrigendum_1/ocr.json"
+      },
+      "linked_claims": [
+        {
+          "location": "wiki/commercial_entity_index.md#C3a934dadadeaffe0",
+          "text": "Corrigendum No. 1 updates the timeline for delivering original Tender Security instruments (Bank Guarantee, Insurance Surety Bond, Demand Draft, or Banker's Cheque) to BMRCL."
+        },
+        {
+          "location": "wiki/commercial_entity_index.md#Ce7a5ac5dee143b00",
+          "text": "The deadline for physical submission of original tender security instruments was extended to 23.10.2026 up to 18.00 Hrs (IST)."
+        },
+        {
+          "location": "wiki/cross_reference_master.md#Ce961fb6e71afe807",
+          "text": "C3 explicitly replaces the C1 date/time fields for NIT Key Detail 12; this supersession concerns those fields only and preserves C1 as historical evidence."
+        },
+        {
+          "location": "wiki/source_quirks.md#C13edd62ae79b09f7",
+          "text": "Subsequent amendments (such as Corrigendum No. 3) further adjust dates previously modified by Corrigendum No. 1, requiring historical preservation of intermediate dates rather than treating Corrigendum No. 1 values as current."
+        },
+        {
+          "location": "wiki/source_quirks.md#Ce08e20da315382c0",
+          "text": "Corrigendum No. 1 values represent historical amendment states that are subsequently superseded by later corrigenda notices while remaining active audit trail records."
+        },
+        {
+          "location": "wiki/timeline.md#C808a32d75d242ca0",
+          "text": "Baseline physical submission deadline for original tender security is 16.10.2026, amended to 23.10.2026 by Corrigendum 1, and further amended to 31.10.2026 by Corrigendum 3."
+        },
+        {
+          "location": "wiki/timeline.md#Cdc59714738cbdbf0",
+          "text": "Corrigendum No. 1 modifies key schedule dates for the tender, extending the tender document availability, online submission window, technical bid opening date, and original tender security submission deadline."
+        },
+        {
+          "location": "wiki/timeline.md#C4462dfb4975d34e1",
+          "text": "The last date for physical submission of original tender security instruments was amended from 16.10.2026 up to 18.00 Hrs (IST) to 23.10.2026 up to 18.00 Hrs (IST)."
+        },
+        {
+          "location": "wiki/timeline.md#C9e93a2f0165d6769",
+          "text": "Corrigendum No. 1 amends NIT Key Detail 12 relating to the submission of original tender security."
+        },
+        {
+          "location": "wiki/timeline.md#Ca25a020ea77f3c84",
+          "text": "Last date for physical submission of original tender security instruments is extended to 23.10.2026 by Corrigendum 1 and further extended to 31.10.2026 by Corrigendum 3."
+        }
+      ],
+      "status": "cited_meaning_and_supersession_pending"
+    },
+    {
+      "source_record": {
+        "record_id": "corrigendum_1/nit_key_detail_5",
+        "corrigendum_number": 1,
+        "document_date": "2026-10-01",
+        "source_document": "DLN_P1_AandC1_157.PDF",
+        "source_sha256": "26b25a4e3c3d3206635d0ddae6ce70c00e51468ebb4fe5d93f5e9d65902942d1",
+        "pdf_pages": [
+          1
+        ],
+        "review_status": "pending_manual_review",
+        "field_provenance": "Prepared from visual inspection of the source scan; not automatically inferred from OCR",
+        "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription",
+        "printed_amendment_serial": "1",
+        "affected_section": "NIT",
+        "affected_reference": "Key Detail 5",
+        "label": "Tender Documents available on eProcurement Portal",
+        "operation": "replace_date_time_fields",
+        "existing_selected_text": "09.09.2026 to 09.10.2026 (up to 3.00 PM (IST))",
+        "replacement_selected_text": "09.09.2026 to 15.10.2026 (up to 3.00 PM (IST))",
+        "scope": "Date/time fields only; other wording, venue and submission conditions are retained in the source OCR",
+        "booklet_page_reference": "001",
+        "ocr_evidence_relative_to_project": "output/corrigenda/ocr/run_20261030T051229372457Z/corrigendum_1/ocr.json"
+      },
+      "linked_claims": [
+        {
+          "location": "wiki/cross_reference_master.md#C06709df9fbea348f",
+          "text": "C3 explicitly replaces the C1 date/time fields for NIT Key Detail 5; this supersession concerns those fields only and preserves C1 as historical evidence."
+        },
+        {
+          "location": "wiki/source_quirks.md#C13edd62ae79b09f7",
+          "text": "Subsequent amendments (such as Corrigendum No. 3) further adjust dates previously modified by Corrigendum No. 1, requiring historical preservation of intermediate dates rather than treating Corrigendum No. 1 values as current."
+        },
+        {
+          "location": "wiki/source_quirks.md#Ce08e20da315382c0",
+          "text": "Corrigendum No. 1 values represent historical amendment states that are subsequently superseded by later corrigenda notices while remaining active audit trail records."
+        },
+        {
+          "location": "wiki/timeline.md#Cd11070148764da34",
+          "text": "The baseline tender document availability period runs from 09.09.2026 to 09.10.2026 up to 3.00 PM IST, subsequently amended by Corrigendum No. 1 and Corrigendum No. 3."
+        },
+        {
+          "location": "wiki/timeline.md#Cdc59714738cbdbf0",
+          "text": "Corrigendum No. 1 modifies key schedule dates for the tender, extending the tender document availability, online submission window, technical bid opening date, and original tender security submission deadline."
+        },
+        {
+          "location": "wiki/timeline.md#Cc806c21df7a86e89",
+          "text": "The tender document availability period on the eProcurement Portal was amended from 09.09.2026 to 09.10.2026 (up to 3.00 PM IST) to 09.09.2026 to 15.10.2026 (up to 3.00 PM IST)."
+        },
+        {
+          "location": "wiki/timeline.md#C30f00d0a103a7c1c",
+          "text": "Corrigendum No. 1 amends NIT Key Detail 5 relating to tender document availability."
+        },
+        {
+          "location": "wiki/timeline.md#C81741fe71cbfe17c",
+          "text": "Tender Document availability dates are amended by Corrigendum 1 and Corrigendum 3, adjusting the closing window through 23.10.2026."
+        }
+      ],
+      "status": "cited_meaning_and_supersession_pending"
+    },
+    {
+      "source_record": {
+        "record_id": "corrigendum_2/contract_data_price_variation",
+        "corrigendum_number": 2,
+        "document_date": "2026-10-08",
+        "source_document": "AandC2_DLN_P1_157.PDF",
+        "source_sha256": "db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a",
+        "pdf_pages": [
+          1
+        ],
+        "review_status": "pending_manual_review",
+        "field_provenance": "Prepared from visual inspection of the source scan; not automatically inferred from OCR",
+        "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription",
+        "printed_amendment_serial": "2",
+        "booklet_page_reference": "136 & 137",
+        "affected_section": "Contract Data",
+        "affected_reference": "Item 14 — Price Variation/Adjustment",
+        "operation": "replace_clause_reference_list",
+        "existing_clause_references": [
+          "11.1.2"
+        ],
+        "replacement_clause_references": [
+          "11.1.2",
+          "11.1.2.1",
+          "11.1.2.2",
+          "11.1.2.3",
+          "11.1.2.4"
+        ],
+        "existing_selected_text": "NOT APPLICABLE",
+        "replacement_selected_text": "NOT APPLICABLE",
+        "scope": "The not-applicable label remains; the referenced GCC clause list is expanded.",
+        "ocr_evidence_relative_to_project": "output/corrigenda/ocr/run_20261030T051229372457Z/corrigendum_2/ocr.json"
+      },
+      "linked_claims": [
+        {
+          "location": "wiki/concepts/general_conditions_of_contract_overview.md#C3aff26dec86721e4",
+          "text": "Reconcile the historical GCC price-variation discussion with Corrigendum 2 new SCC 6 and amended Contract Data Item 14. The deletion instruction lists GCC 11.1.2 and 11.1.2.1 through 11.1.2.4, while Item 14 retains NOT APPLICABLE. This does not delete all of GCC Clause 11 or decide unrelated GST/change-in-law provisions."
+        },
+        {
+          "location": "wiki/review_queue.md#Cb358341fb09526e3",
+          "text": "Verify whether Corrigendum No. 2 deletion instructions targeting specific GCC subclauses supersede the Contract Data table entries or if the Contract Data designations remain the controlling operative rules."
+        },
+        {
+          "location": "wiki/review_queue.md#C2aa83f2231e20da9",
+          "text": "Verify whether Corrigendum No. 2 deletion instructions targeting specific GCC subclauses (such as Sub-Clauses 4.5, 8.10, 11.2.1 through 11.2.3, and 15.1) supersede the Contract Data table entries or if the Contract Data designations remain the controlling operative rules."
+        },
+        {
+          "location": "wiki/review_queue.md#C00605ee8670edd1a",
+          "text": "Verify the operational impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses (including sub-contracting restrictions, early completion incentives, price variation bands, and various advances) while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C5f1a71f196373cd4",
+          "text": "Review findings regarding Corrigendum No. 2 modifications to GCC and SCC provisions, specifically the deletion instruction scope across multiple clauses."
+        },
+        {
+          "location": "wiki/review_queue.md#Cffc1dc5c9ccada1b",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses (sub-contracting under 4.5, early completion incentives under 8.10, price variation under 11.1.2 series, mobilization and equipment advances under 11.2 series, special/acceleration advance under 11.2.3, and professional indemnity insurance under 15.1) while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C90b5ef08dd7a4c97",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C2ba4ccbd578fd11f",
+          "text": "Verify whether the addition of SCC clauses deleting specific GCC subclauses (such as subclauses 4.5, 8.10, 11.1.2 through 11.1.2.4, 11.2.1, 11.2.2, 11.2.3, and 15.1) requires corresponding textual removal from GCC source files or is fully managed by SCC precedence instructions."
+        },
+        {
+          "location": "wiki/review_queue.md#Cdc1f99fa0e9ac885",
+          "text": "Verify whether Corrigendum No. 2 additions of SCC clauses deleting GCC Sub-Clauses 4.5, 8.10, 11.1.2 series, 11.2.1, 11.2.2, 11.2.3, and 15.1 supersede the original GCC baseline provisions without altering Contract Data labels."
+        },
+        {
+          "location": "wiki/source_quirks.md#Ca525866660152a53",
+          "text": "Corrigendum No. 2 deletion instructions target specific GCC subclauses while introducing new SCC clauses, leaving potential interpretation questions regarding whether the Contract Data table designations or the SCC deletion instructions control."
+        },
+        {
+          "location": "wiki/source_quirks.md#C0ba44dd732dbff7c",
+          "text": "Corrigendum No. 2 introduces new Special Conditions of Contract (SCC clauses 4 through 10) that explicitly instruct the entire deletion of specific listed GCC subclauses, requiring careful cross-referencing between historical GCC text and amending SCC instruments."
+        },
+        {
+          "location": "wiki/source_quirks.md#Cb7d7cc9df643249d",
+          "text": "Corrigendum No. 2 amends Contract Data Item 14 by keeping the label 'NOT APPLICABLE' while expanding the referenced GCC clause list to include 11.1.2, 11.1.2.1, 11.1.2.2, 11.1.2.3, and 11.1.2.4."
+        },
+        {
+          "location": "wiki/timeline.md#Ca306a29f177045c3",
+          "text": "Addendum and Corrigendum No. 2 was officially issued on 2026-10-08."
+        }
+      ],
+      "status": "cited_meaning_and_supersession_pending"
+    },
+    {
+      "source_record": {
+        "record_id": "corrigendum_2/gcc_minor_value_item_variation",
+        "corrigendum_number": 2,
+        "document_date": "2026-10-08",
+        "source_document": "AandC2_DLN_P1_157.PDF",
+        "source_sha256": "db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a",
+        "pdf_pages": [
+          1
+        ],
+        "review_status": "pending_manual_review",
+        "field_provenance": "Prepared from visual inspection of the source scan; not automatically inferred from OCR",
+        "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription",
+        "printed_amendment_serial": "1",
+        "booklet_page_reference": "121 & 122",
+        "affected_section": "GCC",
+        "affected_reference": "12.3.1, (iii) c",
+        "operation": "replace_specified_minor_value_item_passage",
+        "unchanged_selected_text": "A minor value item for this purpose is defined as an item whose original agreement value is less than 1 % of the total original contract value.",
+        "existing_selected_text": [
+          "(i) Quantities operated upto and in excess of 100% of the agreement quantity of the concerned minor value item, shall be paid at the rate awarded for that item as per accepted rate;",
+          "(ii) Quantities operated in excess of 100% but upto 200% of the agreement quantity of the concerned minor value item, shall be paid at 98% of the rate awarded for that item as per accepted rate;",
+          "(iii) Variation in quantities of individual minor value item beyond 200% shall be paid at 96% of the rate awarded for that item as per accepted rate."
+        ],
+        "replacement_selected_text": [
+          "(i) Quantities operated upto and including 200% of the agreement quantity of the concerned minor value item, shall be paid at the rate awarded for that item as per accepted rate;",
+          "(ii) Quantities operated in excess of 200% but upto 300% of the agreement quantity of the concerned minor value item, shall be paid at 98% of the rate awarded for that item as per accepted rate;",
+          "(iii) Variation in quantities of individual minor value item beyond 300% shall be paid at 96% of the rate awarded for that item as per accepted rate."
+        ],
+        "replacement_rate_bands": [
+          {
+            "quantity_percentage_upper_inclusive": 200,
+            "payment_percentage_of_accepted_rate": 100
+          },
+          {
+            "quantity_percentage_lower_exclusive": 200,
+            "quantity_percentage_upper_inclusive": 300,
+            "payment_percentage_of_accepted_rate": 98
+          },
+          {
+            "quantity_percentage_lower_exclusive": 300,
+            "payment_percentage_of_accepted_rate": 96
+          }
+        ],
+        "review_notes": [
+          "Preserve the unusual existing wording 'upto and in excess of 100%'; do not silently repair it.",
+          "The replacement rate bands are derived structured fields.",
+          "The surrounding unchanged passage remains in the OCR."
+        ],
+        "ocr_evidence_relative_to_project": "output/corrigenda/ocr/run_20261030T051229372457Z/corrigendum_2/ocr.json"
+      },
+      "linked_claims": [
+        {
+          "location": "wiki/commercial_entity_index.md#C2a6ee8a6964b356c",
+          "text": "Under Corrigendum No. 2 amending GCC Sub-Clause 12.3.1 (iii) c, minor value item quantities operated up to and including 200% of the agreement quantity are paid at 100% of the accepted rate."
+        },
+        {
+          "location": "wiki/commercial_entity_index.md#Cf76319b17a27ef6b",
+          "text": "Under Corrigendum No. 2 amending GCC Sub-Clause 12.3.1 (iii) c, quantities operated in excess of 200% up to 300% are paid at 98% of the accepted rate."
+        },
+        {
+          "location": "wiki/commercial_entity_index.md#C674380e92a8ef4a4",
+          "text": "Under Corrigendum No. 2 amending GCC Sub-Clause 12.3.1 (iii) c, variations in quantities of individual minor value items beyond 300% are paid at 96% of the accepted rate."
+        },
+        {
+          "location": "wiki/review_queue.md#C00605ee8670edd1a",
+          "text": "Verify the operational impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses (including sub-contracting restrictions, early completion incentives, price variation bands, and various advances) while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C5f1a71f196373cd4",
+          "text": "Review findings regarding Corrigendum No. 2 modifications to GCC and SCC provisions, specifically the deletion instruction scope across multiple clauses."
+        },
+        {
+          "location": "wiki/review_queue.md#Cffc1dc5c9ccada1b",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses (sub-contracting under 4.5, early completion incentives under 8.10, price variation under 11.1.2 series, mobilization and equipment advances under 11.2 series, special/acceleration advance under 11.2.3, and professional indemnity insurance under 15.1) while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C90b5ef08dd7a4c97",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#Cdc1f99fa0e9ac885",
+          "text": "Verify whether Corrigendum No. 2 additions of SCC clauses deleting GCC Sub-Clauses 4.5, 8.10, 11.1.2 series, 11.2.1, 11.2.2, 11.2.3, and 15.1 supersede the original GCC baseline provisions without altering Contract Data labels."
+        },
+        {
+          "location": "wiki/source_quirks.md#C0ba44dd732dbff7c",
+          "text": "Corrigendum No. 2 introduces new Special Conditions of Contract (SCC clauses 4 through 10) that explicitly instruct the entire deletion of specific listed GCC subclauses, requiring careful cross-referencing between historical GCC text and amending SCC instruments."
+        }
+      ],
+      "status": "cited_meaning_and_supersession_pending"
+    },
+    {
+      "source_record": {
+        "record_id": "corrigendum_2/added_scc_clause_4",
+        "corrigendum_number": 2,
+        "document_date": "2026-10-08",
+        "source_document": "AandC2_DLN_P1_157.PDF",
+        "source_sha256": "db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a",
+        "pdf_pages": [
+          2
+        ],
+        "review_status": "pending_manual_review",
+        "field_provenance": "Prepared from visual inspection of the source scan; not automatically inferred from OCR",
+        "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription",
+        "printed_amendment_serial": "3 (continued across pages 2–3)",
+        "booklet_page_reference": "139",
+        "affected_section": "SCC",
+        "affected_reference": "New SCC Clause 4",
+        "title": "Sub-Contractor",
+        "operation": "add_scc_clause_with_gcc_deletion_instruction",
+        "insertion_instruction": "Add after SCC Clause No3 as under:",
+        "existing_column_context": "New SCC Clause No 4,5,6,7,8,9 & 10",
+        "existing_gcc_text": null,
+        "existing_gcc_text_status": "Not reproduced in this amendment row; must be retrieved from original GCC evidence",
+        "target_gcc_subclauses": [
+          "4.5"
+        ],
+        "replacement_selected_text": "Entire Sub-clause stands DELETED",
+        "deletion_scope": "entire listed GCC subclause(s)",
+        "review_notes": [
+          "This adds an SCC instruction. It does not delete source files or erase historical GCC text.",
+          "The page-2 section heading is printed as 'SECTION-E: SECTION-F:SPECIAL CONDITIONS OF CONTRACT (SCC)'."
+        ],
+        "ocr_evidence_relative_to_project": "output/corrigenda/ocr/run_20261030T051229372457Z/corrigendum_2/ocr.json"
+      },
+      "linked_claims": [
+        {
+          "location": "wiki/concepts/general_conditions_of_contract_overview.md#C21a5e5c516f65643",
+          "text": "Reconcile the historical GCC 4.5 subcontracting statement with Corrigendum 2 new SCC 4, which instructs that the entire listed subclause stands deleted. Preserve both source versions; this finding does not decide remaining subcontracting rights or obligations."
+        },
+        {
+          "location": "wiki/contractual_obligation_map.md#Ca046d47e526c4472",
+          "text": "Corrigendum No. 2 introduces new Special Conditions of Contract (SCC Clauses 4 through 10) which explicitly state that entire GCC subclauses regarding sub-contractors, early completion incentives, price variations, mobilization advances, plant & machinery advances, special/acceleration advances, and professional indemnity insurance stand deleted."
+        },
+        {
+          "location": "wiki/review_queue.md#Cb358341fb09526e3",
+          "text": "Verify whether Corrigendum No. 2 deletion instructions targeting specific GCC subclauses supersede the Contract Data table entries or if the Contract Data designations remain the controlling operative rules."
+        },
+        {
+          "location": "wiki/review_queue.md#C2aa83f2231e20da9",
+          "text": "Verify whether Corrigendum No. 2 deletion instructions targeting specific GCC subclauses (such as Sub-Clauses 4.5, 8.10, 11.2.1 through 11.2.3, and 15.1) supersede the Contract Data table entries or if the Contract Data designations remain the controlling operative rules."
+        },
+        {
+          "location": "wiki/review_queue.md#C5f1a71f196373cd4",
+          "text": "Review findings regarding Corrigendum No. 2 modifications to GCC and SCC provisions, specifically the deletion instruction scope across multiple clauses."
+        },
+        {
+          "location": "wiki/review_queue.md#Cffc1dc5c9ccada1b",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses (sub-contracting under 4.5, early completion incentives under 8.10, price variation under 11.1.2 series, mobilization and equipment advances under 11.2 series, special/acceleration advance under 11.2.3, and professional indemnity insurance under 15.1) while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C90b5ef08dd7a4c97",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C2ba4ccbd578fd11f",
+          "text": "Verify whether the addition of SCC clauses deleting specific GCC subclauses (such as subclauses 4.5, 8.10, 11.1.2 through 11.1.2.4, 11.2.1, 11.2.2, 11.2.3, and 15.1) requires corresponding textual removal from GCC source files or is fully managed by SCC precedence instructions."
+        },
+        {
+          "location": "wiki/review_queue.md#Cdc1f99fa0e9ac885",
+          "text": "Verify whether Corrigendum No. 2 additions of SCC clauses deleting GCC Sub-Clauses 4.5, 8.10, 11.1.2 series, 11.2.1, 11.2.2, 11.2.3, and 15.1 supersede the original GCC baseline provisions without altering Contract Data labels."
+        },
+        {
+          "location": "wiki/source_quirks.md#C79eef93bb80ed01a",
+          "text": "Corrigendum No. 2 prints section headings referencing both Section E and Section F simultaneously on page 2 while introducing Special Conditions of Contract (SCC) additions."
+        },
+        {
+          "location": "wiki/source_quirks.md#Ca525866660152a53",
+          "text": "Corrigendum No. 2 deletion instructions target specific GCC subclauses while introducing new SCC clauses, leaving potential interpretation questions regarding whether the Contract Data table designations or the SCC deletion instructions control."
+        },
+        {
+          "location": "wiki/source_quirks.md#C89d36bd5f629b298",
+          "text": "Corrigendum No. 2 contains a printed page-2 section heading displaying both 'SECTION-E:' and 'SECTION-F:SPECIAL CONDITIONS OF CONTRACT (SCC)' simultaneously."
+        },
+        {
+          "location": "wiki/source_quirks.md#C0ba44dd732dbff7c",
+          "text": "Corrigendum No. 2 introduces new Special Conditions of Contract (SCC clauses 4 through 10) that explicitly instruct the entire deletion of specific listed GCC subclauses, requiring careful cross-referencing between historical GCC text and amending SCC instruments."
+        },
+        {
+          "location": "wiki/source_quirks.md#Cf389da81f95ab253",
+          "text": "Corrigendum No. 2 contains heading anomalies on page 2 where the section heading is printed as 'SECTION-E: SECTION-F:SPECIAL CONDITIONS OF CONTRACT (SCC)', mixing Section E and Section F labels while introducing SCC clauses."
+        },
+        {
+          "location": "wiki/source_quirks.md#C1cf9b5e89f78f601",
+          "text": "Addendum and Corrigendum No. 2 contains a printed section heading on page 2 that combines Section-E and Section-F as 'SECTION-E: SECTION-F:SPECIAL CONDITIONS OF CONTRACT (SCC)', requiring careful navigation."
+        }
+      ],
+      "status": "cited_meaning_and_supersession_pending"
+    },
+    {
+      "source_record": {
+        "record_id": "corrigendum_2/added_scc_clause_5",
+        "corrigendum_number": 2,
+        "document_date": "2026-10-08",
+        "source_document": "AandC2_DLN_P1_157.PDF",
+        "source_sha256": "db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a",
+        "pdf_pages": [
+          2
+        ],
+        "review_status": "pending_manual_review",
+        "field_provenance": "Prepared from visual inspection of the source scan; not automatically inferred from OCR",
+        "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription",
+        "printed_amendment_serial": "3 (continued across pages 2–3)",
+        "booklet_page_reference": "139",
+        "affected_section": "SCC",
+        "affected_reference": "New SCC Clause 5",
+        "title": "Incentives for early completion of whole work",
+        "operation": "add_scc_clause_with_gcc_deletion_instruction",
+        "insertion_instruction": "Add after SCC Clause No3 as under:",
+        "existing_column_context": "New SCC Clause No 4,5,6,7,8,9 & 10",
+        "existing_gcc_text": null,
+        "existing_gcc_text_status": "Not reproduced in this amendment row; must be retrieved from original GCC evidence",
+        "target_gcc_subclauses": [
+          "8.10"
+        ],
+        "replacement_selected_text": "Entire Sub-clause stands DELETED",
+        "deletion_scope": "entire listed GCC subclause(s)",
+        "review_notes": [
+          "This adds an SCC instruction. It does not delete source files or erase historical GCC text.",
+          "The page-2 section heading is printed as 'SECTION-E: SECTION-F:SPECIAL CONDITIONS OF CONTRACT (SCC)'."
+        ],
+        "ocr_evidence_relative_to_project": "output/corrigenda/ocr/run_20261030T051229372457Z/corrigendum_2/ocr.json"
+      },
+      "linked_claims": [
+        {
+          "location": "wiki/contractual_obligation_map.md#Ca046d47e526c4472",
+          "text": "Corrigendum No. 2 introduces new Special Conditions of Contract (SCC Clauses 4 through 10) which explicitly state that entire GCC subclauses regarding sub-contractors, early completion incentives, price variations, mobilization advances, plant & machinery advances, special/acceleration advances, and professional indemnity insurance stand deleted."
+        },
+        {
+          "location": "wiki/review_queue.md#C2aa83f2231e20da9",
+          "text": "Verify whether Corrigendum No. 2 deletion instructions targeting specific GCC subclauses (such as Sub-Clauses 4.5, 8.10, 11.2.1 through 11.2.3, and 15.1) supersede the Contract Data table entries or if the Contract Data designations remain the controlling operative rules."
+        },
+        {
+          "location": "wiki/review_queue.md#C5f1a71f196373cd4",
+          "text": "Review findings regarding Corrigendum No. 2 modifications to GCC and SCC provisions, specifically the deletion instruction scope across multiple clauses."
+        },
+        {
+          "location": "wiki/review_queue.md#Cffc1dc5c9ccada1b",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses (sub-contracting under 4.5, early completion incentives under 8.10, price variation under 11.1.2 series, mobilization and equipment advances under 11.2 series, special/acceleration advance under 11.2.3, and professional indemnity insurance under 15.1) while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C90b5ef08dd7a4c97",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C2ba4ccbd578fd11f",
+          "text": "Verify whether the addition of SCC clauses deleting specific GCC subclauses (such as subclauses 4.5, 8.10, 11.1.2 through 11.1.2.4, 11.2.1, 11.2.2, 11.2.3, and 15.1) requires corresponding textual removal from GCC source files or is fully managed by SCC precedence instructions."
+        },
+        {
+          "location": "wiki/review_queue.md#Cdc1f99fa0e9ac885",
+          "text": "Verify whether Corrigendum No. 2 additions of SCC clauses deleting GCC Sub-Clauses 4.5, 8.10, 11.1.2 series, 11.2.1, 11.2.2, 11.2.3, and 15.1 supersede the original GCC baseline provisions without altering Contract Data labels."
+        },
+        {
+          "location": "wiki/source_quirks.md#C0ba44dd732dbff7c",
+          "text": "Corrigendum No. 2 introduces new Special Conditions of Contract (SCC clauses 4 through 10) that explicitly instruct the entire deletion of specific listed GCC subclauses, requiring careful cross-referencing between historical GCC text and amending SCC instruments."
+        }
+      ],
+      "status": "cited_meaning_and_supersession_pending"
+    },
+    {
+      "source_record": {
+        "record_id": "corrigendum_2/added_scc_clause_6",
+        "corrigendum_number": 2,
+        "document_date": "2026-10-08",
+        "source_document": "AandC2_DLN_P1_157.PDF",
+        "source_sha256": "db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a",
+        "pdf_pages": [
+          2
+        ],
+        "review_status": "pending_manual_review",
+        "field_provenance": "Prepared from visual inspection of the source scan; not automatically inferred from OCR",
+        "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription",
+        "printed_amendment_serial": "3 (continued across pages 2–3)",
+        "booklet_page_reference": "139",
+        "affected_section": "SCC",
+        "affected_reference": "New SCC Clause 6",
+        "title": "Price Variation/Adjustment",
+        "operation": "add_scc_clause_with_gcc_deletion_instruction",
+        "insertion_instruction": "Add after SCC Clause No3 as under:",
+        "existing_column_context": "New SCC Clause No 4,5,6,7,8,9 & 10",
+        "existing_gcc_text": null,
+        "existing_gcc_text_status": "Not reproduced in this amendment row; must be retrieved from original GCC evidence",
+        "target_gcc_subclauses": [
+          "11.1.2",
+          "11.1.2.1",
+          "11.1.2.2",
+          "11.1.2.3",
+          "11.1.2.4"
+        ],
+        "replacement_selected_text": "Entire Sub-clauses stands DELETED",
+        "deletion_scope": "entire listed GCC subclause(s)",
+        "review_notes": [
+          "This adds an SCC instruction. It does not delete source files or erase historical GCC text.",
+          "The page-2 section heading is printed as 'SECTION-E: SECTION-F:SPECIAL CONDITIONS OF CONTRACT (SCC)'."
+        ],
+        "ocr_evidence_relative_to_project": "output/corrigenda/ocr/run_20261030T051229372457Z/corrigendum_2/ocr.json"
+      },
+      "linked_claims": [
+        {
+          "location": "wiki/concepts/general_conditions_of_contract_overview.md#C3aff26dec86721e4",
+          "text": "Reconcile the historical GCC price-variation discussion with Corrigendum 2 new SCC 6 and amended Contract Data Item 14. The deletion instruction lists GCC 11.1.2 and 11.1.2.1 through 11.1.2.4, while Item 14 retains NOT APPLICABLE. This does not delete all of GCC Clause 11 or decide unrelated GST/change-in-law provisions."
+        },
+        {
+          "location": "wiki/contractual_obligation_map.md#Ca046d47e526c4472",
+          "text": "Corrigendum No. 2 introduces new Special Conditions of Contract (SCC Clauses 4 through 10) which explicitly state that entire GCC subclauses regarding sub-contractors, early completion incentives, price variations, mobilization advances, plant & machinery advances, special/acceleration advances, and professional indemnity insurance stand deleted."
+        },
+        {
+          "location": "wiki/review_queue.md#C2aa83f2231e20da9",
+          "text": "Verify whether Corrigendum No. 2 deletion instructions targeting specific GCC subclauses (such as Sub-Clauses 4.5, 8.10, 11.2.1 through 11.2.3, and 15.1) supersede the Contract Data table entries or if the Contract Data designations remain the controlling operative rules."
+        },
+        {
+          "location": "wiki/review_queue.md#C5f1a71f196373cd4",
+          "text": "Review findings regarding Corrigendum No. 2 modifications to GCC and SCC provisions, specifically the deletion instruction scope across multiple clauses."
+        },
+        {
+          "location": "wiki/review_queue.md#Cffc1dc5c9ccada1b",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses (sub-contracting under 4.5, early completion incentives under 8.10, price variation under 11.1.2 series, mobilization and equipment advances under 11.2 series, special/acceleration advance under 11.2.3, and professional indemnity insurance under 15.1) while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C90b5ef08dd7a4c97",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C2ba4ccbd578fd11f",
+          "text": "Verify whether the addition of SCC clauses deleting specific GCC subclauses (such as subclauses 4.5, 8.10, 11.1.2 through 11.1.2.4, 11.2.1, 11.2.2, 11.2.3, and 15.1) requires corresponding textual removal from GCC source files or is fully managed by SCC precedence instructions."
+        },
+        {
+          "location": "wiki/review_queue.md#Cdc1f99fa0e9ac885",
+          "text": "Verify whether Corrigendum No. 2 additions of SCC clauses deleting GCC Sub-Clauses 4.5, 8.10, 11.1.2 series, 11.2.1, 11.2.2, 11.2.3, and 15.1 supersede the original GCC baseline provisions without altering Contract Data labels."
+        },
+        {
+          "location": "wiki/source_quirks.md#C0ba44dd732dbff7c",
+          "text": "Corrigendum No. 2 introduces new Special Conditions of Contract (SCC clauses 4 through 10) that explicitly instruct the entire deletion of specific listed GCC subclauses, requiring careful cross-referencing between historical GCC text and amending SCC instruments."
+        }
+      ],
+      "status": "cited_meaning_and_supersession_pending"
+    },
+    {
+      "source_record": {
+        "record_id": "corrigendum_2/added_scc_clause_7",
+        "corrigendum_number": 2,
+        "document_date": "2026-10-08",
+        "source_document": "AandC2_DLN_P1_157.PDF",
+        "source_sha256": "db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a",
+        "pdf_pages": [
+          2
+        ],
+        "review_status": "pending_manual_review",
+        "field_provenance": "Prepared from visual inspection of the source scan; not automatically inferred from OCR",
+        "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription",
+        "printed_amendment_serial": "3 (continued across pages 2–3)",
+        "booklet_page_reference": "139",
+        "affected_section": "SCC",
+        "affected_reference": "New SCC Clause 7",
+        "title": "Mobilization Advance",
+        "operation": "add_scc_clause_with_gcc_deletion_instruction",
+        "insertion_instruction": "Add after SCC Clause No3 as under:",
+        "existing_column_context": "New SCC Clause No 4,5,6,7,8,9 & 10",
+        "existing_gcc_text": null,
+        "existing_gcc_text_status": "Not reproduced in this amendment row; must be retrieved from original GCC evidence",
+        "target_gcc_subclauses": [
+          "11.2.1"
+        ],
+        "replacement_selected_text": "Entire Sub-clause stands DELETED",
+        "deletion_scope": "entire listed GCC subclause(s)",
+        "review_notes": [
+          "This adds an SCC instruction. It does not delete source files or erase historical GCC text.",
+          "The page-2 section heading is printed as 'SECTION-E: SECTION-F:SPECIAL CONDITIONS OF CONTRACT (SCC)'."
+        ],
+        "ocr_evidence_relative_to_project": "output/corrigenda/ocr/run_20261030T051229372457Z/corrigendum_2/ocr.json"
+      },
+      "linked_claims": [
+        {
+          "location": "wiki/contractual_obligation_map.md#Ca046d47e526c4472",
+          "text": "Corrigendum No. 2 introduces new Special Conditions of Contract (SCC Clauses 4 through 10) which explicitly state that entire GCC subclauses regarding sub-contractors, early completion incentives, price variations, mobilization advances, plant & machinery advances, special/acceleration advances, and professional indemnity insurance stand deleted."
+        },
+        {
+          "location": "wiki/review_queue.md#C2aa83f2231e20da9",
+          "text": "Verify whether Corrigendum No. 2 deletion instructions targeting specific GCC subclauses (such as Sub-Clauses 4.5, 8.10, 11.2.1 through 11.2.3, and 15.1) supersede the Contract Data table entries or if the Contract Data designations remain the controlling operative rules."
+        },
+        {
+          "location": "wiki/review_queue.md#C5f1a71f196373cd4",
+          "text": "Review findings regarding Corrigendum No. 2 modifications to GCC and SCC provisions, specifically the deletion instruction scope across multiple clauses."
+        },
+        {
+          "location": "wiki/review_queue.md#Cffc1dc5c9ccada1b",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses (sub-contracting under 4.5, early completion incentives under 8.10, price variation under 11.1.2 series, mobilization and equipment advances under 11.2 series, special/acceleration advance under 11.2.3, and professional indemnity insurance under 15.1) while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C90b5ef08dd7a4c97",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C2ba4ccbd578fd11f",
+          "text": "Verify whether the addition of SCC clauses deleting specific GCC subclauses (such as subclauses 4.5, 8.10, 11.1.2 through 11.1.2.4, 11.2.1, 11.2.2, 11.2.3, and 15.1) requires corresponding textual removal from GCC source files or is fully managed by SCC precedence instructions."
+        },
+        {
+          "location": "wiki/review_queue.md#Cdc1f99fa0e9ac885",
+          "text": "Verify whether Corrigendum No. 2 additions of SCC clauses deleting GCC Sub-Clauses 4.5, 8.10, 11.1.2 series, 11.2.1, 11.2.2, 11.2.3, and 15.1 supersede the original GCC baseline provisions without altering Contract Data labels."
+        },
+        {
+          "location": "wiki/source_quirks.md#C0ba44dd732dbff7c",
+          "text": "Corrigendum No. 2 introduces new Special Conditions of Contract (SCC clauses 4 through 10) that explicitly instruct the entire deletion of specific listed GCC subclauses, requiring careful cross-referencing between historical GCC text and amending SCC instruments."
+        },
+        {
+          "location": "wiki/source_quirks.md#C1cf9b5e89f78f601",
+          "text": "Addendum and Corrigendum No. 2 contains a printed section heading on page 2 that combines Section-E and Section-F as 'SECTION-E: SECTION-F:SPECIAL CONDITIONS OF CONTRACT (SCC)', requiring careful navigation."
+        }
+      ],
+      "status": "cited_meaning_and_supersession_pending"
+    },
+    {
+      "source_record": {
+        "record_id": "corrigendum_2/added_scc_clause_8",
+        "corrigendum_number": 2,
+        "document_date": "2026-10-08",
+        "source_document": "AandC2_DLN_P1_157.PDF",
+        "source_sha256": "db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a",
+        "pdf_pages": [
+          2
+        ],
+        "review_status": "pending_manual_review",
+        "field_provenance": "Prepared from visual inspection of the source scan; not automatically inferred from OCR",
+        "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription",
+        "printed_amendment_serial": "3 (continued across pages 2–3)",
+        "booklet_page_reference": "139",
+        "affected_section": "SCC",
+        "affected_reference": "New SCC Clause 8",
+        "title": "Advance Against Plant & Machinery",
+        "operation": "add_scc_clause_with_gcc_deletion_instruction",
+        "insertion_instruction": "Add after SCC Clause No3 as under:",
+        "existing_column_context": "New SCC Clause No 4,5,6,7,8,9 & 10",
+        "existing_gcc_text": null,
+        "existing_gcc_text_status": "Not reproduced in this amendment row; must be retrieved from original GCC evidence",
+        "target_gcc_subclauses": [
+          "11.2.2"
+        ],
+        "replacement_selected_text": "Entire Sub-clause stands DELETED",
+        "deletion_scope": "entire listed GCC subclause(s)",
+        "review_notes": [
+          "This adds an SCC instruction. It does not delete source files or erase historical GCC text.",
+          "The page-2 section heading is printed as 'SECTION-E: SECTION-F:SPECIAL CONDITIONS OF CONTRACT (SCC)'."
+        ],
+        "ocr_evidence_relative_to_project": "output/corrigenda/ocr/run_20261030T051229372457Z/corrigendum_2/ocr.json"
+      },
+      "linked_claims": [
+        {
+          "location": "wiki/contractual_obligation_map.md#Ca046d47e526c4472",
+          "text": "Corrigendum No. 2 introduces new Special Conditions of Contract (SCC Clauses 4 through 10) which explicitly state that entire GCC subclauses regarding sub-contractors, early completion incentives, price variations, mobilization advances, plant & machinery advances, special/acceleration advances, and professional indemnity insurance stand deleted."
+        },
+        {
+          "location": "wiki/review_queue.md#C2aa83f2231e20da9",
+          "text": "Verify whether Corrigendum No. 2 deletion instructions targeting specific GCC subclauses (such as Sub-Clauses 4.5, 8.10, 11.2.1 through 11.2.3, and 15.1) supersede the Contract Data table entries or if the Contract Data designations remain the controlling operative rules."
+        },
+        {
+          "location": "wiki/review_queue.md#C5f1a71f196373cd4",
+          "text": "Review findings regarding Corrigendum No. 2 modifications to GCC and SCC provisions, specifically the deletion instruction scope across multiple clauses."
+        },
+        {
+          "location": "wiki/review_queue.md#Cffc1dc5c9ccada1b",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses (sub-contracting under 4.5, early completion incentives under 8.10, price variation under 11.1.2 series, mobilization and equipment advances under 11.2 series, special/acceleration advance under 11.2.3, and professional indemnity insurance under 15.1) while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C90b5ef08dd7a4c97",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C2ba4ccbd578fd11f",
+          "text": "Verify whether the addition of SCC clauses deleting specific GCC subclauses (such as subclauses 4.5, 8.10, 11.1.2 through 11.1.2.4, 11.2.1, 11.2.2, 11.2.3, and 15.1) requires corresponding textual removal from GCC source files or is fully managed by SCC precedence instructions."
+        },
+        {
+          "location": "wiki/review_queue.md#Cdc1f99fa0e9ac885",
+          "text": "Verify whether Corrigendum No. 2 additions of SCC clauses deleting GCC Sub-Clauses 4.5, 8.10, 11.1.2 series, 11.2.1, 11.2.2, 11.2.3, and 15.1 supersede the original GCC baseline provisions without altering Contract Data labels."
+        },
+        {
+          "location": "wiki/source_quirks.md#C0ba44dd732dbff7c",
+          "text": "Corrigendum No. 2 introduces new Special Conditions of Contract (SCC clauses 4 through 10) that explicitly instruct the entire deletion of specific listed GCC subclauses, requiring careful cross-referencing between historical GCC text and amending SCC instruments."
+        }
+      ],
+      "status": "cited_meaning_and_supersession_pending"
+    },
+    {
+      "source_record": {
+        "record_id": "corrigendum_2/added_scc_clause_10",
+        "corrigendum_number": 2,
+        "document_date": "2026-10-08",
+        "source_document": "AandC2_DLN_P1_157.PDF",
+        "source_sha256": "db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a",
+        "pdf_pages": [
+          3
+        ],
+        "review_status": "pending_manual_review",
+        "field_provenance": "Prepared from visual inspection of the source scan; not automatically inferred from OCR",
+        "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription",
+        "printed_amendment_serial": "3 (continued across pages 2–3)",
+        "booklet_page_reference": "139",
+        "affected_section": "SCC",
+        "affected_reference": "New SCC Clause 10",
+        "title": "Professional Indemnity Insurance",
+        "operation": "add_scc_clause_with_gcc_deletion_instruction",
+        "insertion_instruction": "Add after SCC Clause No3 as under:",
+        "existing_column_context": "New SCC Clause No 4,5,6,7,8,9 & 10",
+        "existing_gcc_text": null,
+        "existing_gcc_text_status": "Not reproduced in this amendment row; must be retrieved from original GCC evidence",
+        "target_gcc_subclauses": [
+          "15.1"
+        ],
+        "replacement_selected_text": "Entire Sub clause stands DELETED",
+        "deletion_scope": "entire listed GCC subclause(s)",
+        "review_notes": [
+          "This adds an SCC instruction. It does not delete source files or erase historical GCC text.",
+          "The page-2 section heading is printed as 'SECTION-E: SECTION-F:SPECIAL CONDITIONS OF CONTRACT (SCC)'."
+        ],
+        "ocr_evidence_relative_to_project": "output/corrigenda/ocr/run_20261030T051229372457Z/corrigendum_2/ocr.json"
+      },
+      "linked_claims": [
+        {
+          "location": "wiki/contractual_obligation_map.md#Ca046d47e526c4472",
+          "text": "Corrigendum No. 2 introduces new Special Conditions of Contract (SCC Clauses 4 through 10) which explicitly state that entire GCC subclauses regarding sub-contractors, early completion incentives, price variations, mobilization advances, plant & machinery advances, special/acceleration advances, and professional indemnity insurance stand deleted."
+        },
+        {
+          "location": "wiki/review_queue.md#Cb358341fb09526e3",
+          "text": "Verify whether Corrigendum No. 2 deletion instructions targeting specific GCC subclauses supersede the Contract Data table entries or if the Contract Data designations remain the controlling operative rules."
+        },
+        {
+          "location": "wiki/review_queue.md#C2aa83f2231e20da9",
+          "text": "Verify whether Corrigendum No. 2 deletion instructions targeting specific GCC subclauses (such as Sub-Clauses 4.5, 8.10, 11.2.1 through 11.2.3, and 15.1) supersede the Contract Data table entries or if the Contract Data designations remain the controlling operative rules."
+        },
+        {
+          "location": "wiki/review_queue.md#C5f1a71f196373cd4",
+          "text": "Review findings regarding Corrigendum No. 2 modifications to GCC and SCC provisions, specifically the deletion instruction scope across multiple clauses."
+        },
+        {
+          "location": "wiki/review_queue.md#Cffc1dc5c9ccada1b",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses (sub-contracting under 4.5, early completion incentives under 8.10, price variation under 11.1.2 series, mobilization and equipment advances under 11.2 series, special/acceleration advance under 11.2.3, and professional indemnity insurance under 15.1) while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C90b5ef08dd7a4c97",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C2ba4ccbd578fd11f",
+          "text": "Verify whether the addition of SCC clauses deleting specific GCC subclauses (such as subclauses 4.5, 8.10, 11.1.2 through 11.1.2.4, 11.2.1, 11.2.2, 11.2.3, and 15.1) requires corresponding textual removal from GCC source files or is fully managed by SCC precedence instructions."
+        },
+        {
+          "location": "wiki/review_queue.md#Cdc1f99fa0e9ac885",
+          "text": "Verify whether Corrigendum No. 2 additions of SCC clauses deleting GCC Sub-Clauses 4.5, 8.10, 11.1.2 series, 11.2.1, 11.2.2, 11.2.3, and 15.1 supersede the original GCC baseline provisions without altering Contract Data labels."
+        },
+        {
+          "location": "wiki/source_quirks.md#Ca525866660152a53",
+          "text": "Corrigendum No. 2 deletion instructions target specific GCC subclauses while introducing new SCC clauses, leaving potential interpretation questions regarding whether the Contract Data table designations or the SCC deletion instructions control."
+        },
+        {
+          "location": "wiki/source_quirks.md#C0ba44dd732dbff7c",
+          "text": "Corrigendum No. 2 introduces new Special Conditions of Contract (SCC clauses 4 through 10) that explicitly instruct the entire deletion of specific listed GCC subclauses, requiring careful cross-referencing between historical GCC text and amending SCC instruments."
+        }
+      ],
+      "status": "cited_meaning_and_supersession_pending"
+    },
+    {
+      "source_record": {
+        "record_id": "corrigendum_2/added_scc_clause_9",
+        "corrigendum_number": 2,
+        "document_date": "2026-10-08",
+        "source_document": "AandC2_DLN_P1_157.PDF",
+        "source_sha256": "db6b30a513be4294cda22c931729ee418297a59dce4459fee508c8061a10d77a",
+        "pdf_pages": [
+          3
+        ],
+        "review_status": "pending_manual_review",
+        "field_provenance": "Prepared from visual inspection of the source scan; not automatically inferred from OCR",
+        "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription",
+        "printed_amendment_serial": "3 (continued across pages 2–3)",
+        "booklet_page_reference": "139",
+        "affected_section": "SCC",
+        "affected_reference": "New SCC Clause 9",
+        "title": "Special/Acceleration Advance",
+        "operation": "add_scc_clause_with_gcc_deletion_instruction",
+        "insertion_instruction": "Add after SCC Clause No3 as under:",
+        "existing_column_context": "New SCC Clause No 4,5,6,7,8,9 & 10",
+        "existing_gcc_text": null,
+        "existing_gcc_text_status": "Not reproduced in this amendment row; must be retrieved from original GCC evidence",
+        "target_gcc_subclauses": [
+          "11.2.3"
+        ],
+        "replacement_selected_text": "Entire Sub clause stands DELETED",
+        "deletion_scope": "entire listed GCC subclause(s)",
+        "review_notes": [
+          "This adds an SCC instruction. It does not delete source files or erase historical GCC text.",
+          "The page-2 section heading is printed as 'SECTION-E: SECTION-F:SPECIAL CONDITIONS OF CONTRACT (SCC)'."
+        ],
+        "ocr_evidence_relative_to_project": "output/corrigenda/ocr/run_20261030T051229372457Z/corrigendum_2/ocr.json"
+      },
+      "linked_claims": [
+        {
+          "location": "wiki/contractual_obligation_map.md#Ca046d47e526c4472",
+          "text": "Corrigendum No. 2 introduces new Special Conditions of Contract (SCC Clauses 4 through 10) which explicitly state that entire GCC subclauses regarding sub-contractors, early completion incentives, price variations, mobilization advances, plant & machinery advances, special/acceleration advances, and professional indemnity insurance stand deleted."
+        },
+        {
+          "location": "wiki/review_queue.md#C2aa83f2231e20da9",
+          "text": "Verify whether Corrigendum No. 2 deletion instructions targeting specific GCC subclauses (such as Sub-Clauses 4.5, 8.10, 11.2.1 through 11.2.3, and 15.1) supersede the Contract Data table entries or if the Contract Data designations remain the controlling operative rules."
+        },
+        {
+          "location": "wiki/review_queue.md#C5f1a71f196373cd4",
+          "text": "Review findings regarding Corrigendum No. 2 modifications to GCC and SCC provisions, specifically the deletion instruction scope across multiple clauses."
+        },
+        {
+          "location": "wiki/review_queue.md#Cffc1dc5c9ccada1b",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses (sub-contracting under 4.5, early completion incentives under 8.10, price variation under 11.1.2 series, mobilization and equipment advances under 11.2 series, special/acceleration advance under 11.2.3, and professional indemnity insurance under 15.1) while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C90b5ef08dd7a4c97",
+          "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+        },
+        {
+          "location": "wiki/review_queue.md#C2ba4ccbd578fd11f",
+          "text": "Verify whether the addition of SCC clauses deleting specific GCC subclauses (such as subclauses 4.5, 8.10, 11.1.2 through 11.1.2.4, 11.2.1, 11.2.2, 11.2.3, and 15.1) requires corresponding textual removal from GCC source files or is fully managed by SCC precedence instructions."
+        },
+        {
+          "location": "wiki/review_queue.md#Cdc1f99fa0e9ac885",
+          "text": "Verify whether Corrigendum No. 2 additions of SCC clauses deleting GCC Sub-Clauses 4.5, 8.10, 11.1.2 series, 11.2.1, 11.2.2, 11.2.3, and 15.1 supersede the original GCC baseline provisions without altering Contract Data labels."
+        },
+        {
+          "location": "wiki/source_quirks.md#C0ba44dd732dbff7c",
+          "text": "Corrigendum No. 2 introduces new Special Conditions of Contract (SCC clauses 4 through 10) that explicitly instruct the entire deletion of specific listed GCC subclauses, requiring careful cross-referencing between historical GCC text and amending SCC instruments."
+        }
+      ],
+      "status": "cited_meaning_and_supersession_pending"
+    },
+    {
+      "source_record": {
+        "record_id": "corrigendum_3/nit_key_detail_10",
+        "corrigendum_number": 3,
+        "document_date": "2026-10-13",
+        "source_document": "AandC3_DLN_P1_157.PDF",
+        "source_sha256": "623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de",
+        "pdf_pages": [
+          1
+        ],
+        "review_status": "pending_manual_review",
+        "field_provenance": "Prepared from visual inspection of the source scan; not automatically inferred from OCR",
+        "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription",
+        "printed_amendment_serial": "1",
+        "affected_section": "NIT",
+        "affected_reference": "Key Detail 10",
+        "label": "Tender submission Date and Time (online)",
+        "operation": "replace_date_time_fields",
+        "existing_selected_text": "09.10.2026 (From 10.00 AM) to 15.10.2026 (up to 3.00 PM) (IST)",
+        "replacement_selected_text": "09.10.2026 (From 10.00 AM) to 23.10.2026 (up to 3.00 PM) (IST)",
+        "scope": "Date/time fields only; other wording, venue and submission conditions are retained in the source OCR",
+        "replaces_record_id": "corrigendum_1/nit_key_detail_10",
+        "printed_cross_reference": "Sl.No 1 of Addendum and Corrigendum No. 1 Dated 01-10-2026",
+        "ocr_evidence_relative_to_project": "output/corrigenda/ocr/run_20261030T051229372457Z/corrigendum_3/ocr.json"
+      },
+      "linked_claims": [
+        {
+          "location": "wiki/concepts/amendment_sequence_and_conflicts.md#C1e9ca2df5b17997f",
+          "text": "This page brings together the cited requirements for amendment sequence and unresolved source conflicts. Each source statement retains its own stage, conditions and review limitations."
+        },
+        {
+          "location": "wiki/concepts/amendment_sequence_and_conflicts.md#Cd7fc0fcc7de94429",
+          "text": "The historical submission sequence is baseline 03-09 October 2026, C1 09-15 October, and C3 09-23 October, with the closing time 3 PM IST. These are recorded tender-history states, not live submission advice."
+        },
+        {
+          "location": "wiki/cross_reference_master.md#Cd14a8294b0dcad94",
+          "text": "Addendum and Corrigendum No. 3 explicitly amends serial 1 of Addendum and Corrigendum No. 1 dated 01-10-2026 across NIT Key Details 5, 10, 11, and 12."
+        },
+        {
+          "location": "wiki/cross_reference_master.md#Cf5504c7820f7e6e1",
+          "text": "C3 explicitly replaces the C1 date/time fields for NIT Key Detail 10; this supersession concerns those fields only and preserves C1 as historical evidence."
+        },
+        {
+          "location": "wiki/review_queue.md#C9b64bbbaff1634a0",
+          "text": "All parsed amendment records for Corrigendum No. 3 remain in pending_manual_review status and require final verification against the original PDF source document."
+        },
+        {
+          "location": "wiki/source_quirks.md#C277bca30147da1af",
+          "text": "Parsed JSON records for Corrigendum No. 3 capture selected amendment wording and fields rather than complete verbatim table transcriptions, focusing strictly on date and time modifications."
+        },
+        {
+          "location": "wiki/timeline.md#C736d193ce1219692",
+          "text": "Baseline online tender submission period is 03.10.2026 to 09.10.2026, amended by Corrigendum 1 to 09.10.2026 to 15.10.2026, and further amended by Corrigendum 3 to 09.10.2026 to 23.10.2026 up to 3.00 PM IST."
+        },
+        {
+          "location": "wiki/timeline.md#C706b02ef21062c55",
+          "text": "Addendum and Corrigendum No. 3 issued on 13.10.2026 further extends critical tender submission and opening dates, explicitly amending serial 1 of Addendum and Corrigendum No. 1."
+        },
+        {
+          "location": "wiki/timeline.md#Cca7b4c1fff31145c",
+          "text": "Online tender submission closing date and time is extended from 15.10.2026 up to 3.00 PM (IST) to 23.10.2026 up to 3.00 PM (IST)."
+        },
+        {
+          "location": "wiki/timeline.md#C67b6f8b8e76c71e6",
+          "text": "Online tender submission closing dates are successively replaced by Corrigendum 1 and Corrigendum 3 up to 23.10.2026 at 3.00 PM IST."
+        }
+      ],
+      "status": "cited_meaning_and_supersession_pending"
+    },
+    {
+      "source_record": {
+        "record_id": "corrigendum_3/nit_key_detail_11",
+        "corrigendum_number": 3,
+        "document_date": "2026-10-13",
+        "source_document": "AandC3_DLN_P1_157.PDF",
+        "source_sha256": "623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de",
+        "pdf_pages": [
+          1
+        ],
+        "review_status": "pending_manual_review",
+        "field_provenance": "Prepared from visual inspection of the source scan; not automatically inferred from OCR",
+        "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription",
+        "printed_amendment_serial": "1",
+        "affected_section": "NIT",
+        "affected_reference": "Key Detail 11",
+        "label": "Date & Time of opening of Tender (Technical Bid) (online)",
+        "operation": "replace_date_time_fields",
+        "existing_selected_text": "17.10.2026 at 11.30 AM (IST)",
+        "replacement_selected_text": "27.10.2026 at 11.30 AM (IST)",
+        "scope": "Date/time fields only; other wording, venue and submission conditions are retained in the source OCR",
+        "replaces_record_id": "corrigendum_1/nit_key_detail_11",
+        "printed_cross_reference": "Sl.No 1 of Addendum and Corrigendum No. 1 Dated 01-10-2026",
+        "ocr_evidence_relative_to_project": "output/corrigenda/ocr/run_20261030T051229372457Z/corrigendum_3/ocr.json"
+      },
+      "linked_claims": [
+        {
+          "location": "wiki/cross_reference_master.md#Cd14a8294b0dcad94",
+          "text": "Addendum and Corrigendum No. 3 explicitly amends serial 1 of Addendum and Corrigendum No. 1 dated 01-10-2026 across NIT Key Details 5, 10, 11, and 12."
+        },
+        {
+          "location": "wiki/cross_reference_master.md#C1d936b620f3567b1",
+          "text": "C3 explicitly replaces the C1 date/time fields for NIT Key Detail 11; this supersession concerns those fields only and preserves C1 as historical evidence."
+        },
+        {
+          "location": "wiki/review_queue.md#C9b64bbbaff1634a0",
+          "text": "All parsed amendment records for Corrigendum No. 3 remain in pending_manual_review status and require final verification against the original PDF source document."
+        },
+        {
+          "location": "wiki/source_quirks.md#C277bca30147da1af",
+          "text": "Parsed JSON records for Corrigendum No. 3 capture selected amendment wording and fields rather than complete verbatim table transcriptions, focusing strictly on date and time modifications."
+        },
+        {
+          "location": "wiki/timeline.md#C5e10c1e05203f0d8",
+          "text": "Baseline technical bid opening date is 12.10.2026, amended to 17.10.2026 by Corrigendum 1, and further amended to 27.10.2026 by Corrigendum 3."
+        },
+        {
+          "location": "wiki/timeline.md#C706b02ef21062c55",
+          "text": "Addendum and Corrigendum No. 3 issued on 13.10.2026 further extends critical tender submission and opening dates, explicitly amending serial 1 of Addendum and Corrigendum No. 1."
+        },
+        {
+          "location": "wiki/timeline.md#C7fe5dbf9ffdd9182",
+          "text": "Date and time of online opening of Technical Bids is rescheduled from 17.10.2026 at 11.30 AM (IST) to 27.10.2026 at 11.30 AM (IST)."
+        },
+        {
+          "location": "wiki/timeline.md#Ca1cd201198150f5f",
+          "text": "Technical bid opening date is amended from the initial schedule to 17.10.2026 by Corrigendum 1 and further extended to 27.10.2026 by Corrigendum 3."
+        }
+      ],
+      "status": "cited_meaning_and_supersession_pending"
+    },
+    {
+      "source_record": {
+        "record_id": "corrigendum_3/nit_key_detail_12",
+        "corrigendum_number": 3,
+        "document_date": "2026-10-13",
+        "source_document": "AandC3_DLN_P1_157.PDF",
+        "source_sha256": "623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de",
+        "pdf_pages": [
+          1
+        ],
+        "review_status": "pending_manual_review",
+        "field_provenance": "Prepared from visual inspection of the source scan; not automatically inferred from OCR",
+        "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription",
+        "printed_amendment_serial": "1",
+        "affected_section": "NIT",
+        "affected_reference": "Key Detail 12",
+        "label": "Last date for submission of original Tender Security instruments",
+        "operation": "replace_date_time_fields",
+        "existing_selected_text": "23.10.2026 up to 18.00 Hrs (IST)",
+        "replacement_selected_text": "31.10.2026 up to 18.00 Hrs (IST)",
+        "scope": "Date/time fields only; other wording, venue and submission conditions are retained in the source OCR",
+        "replaces_record_id": "corrigendum_1/nit_key_detail_12",
+        "printed_cross_reference": "Sl.No 1 of Addendum and Corrigendum No. 1 Dated 01-10-2026",
+        "ocr_evidence_relative_to_project": "output/corrigenda/ocr/run_20261030T051229372457Z/corrigendum_3/ocr.json"
+      },
+      "linked_claims": [
+        {
+          "location": "wiki/commercial_entity_index.md#C3d5912204c4af69b",
+          "text": "Corrigendum No. 3 updates key commercial submission deadlines for original Tender Security instruments and document availability."
+        },
+        {
+          "location": "wiki/commercial_entity_index.md#C034c7b014ec16654",
+          "text": "Original Tender Security submission final deadline under Corrigendum No. 3 is 31.10.2026 up to 18.00 Hrs (IST), replacing the 23.10.2026 deadline from Corrigendum No. 1."
+        },
+        {
+          "location": "wiki/cross_reference_master.md#Cd14a8294b0dcad94",
+          "text": "Addendum and Corrigendum No. 3 explicitly amends serial 1 of Addendum and Corrigendum No. 1 dated 01-10-2026 across NIT Key Details 5, 10, 11, and 12."
+        },
+        {
+          "location": "wiki/cross_reference_master.md#Ce961fb6e71afe807",
+          "text": "C3 explicitly replaces the C1 date/time fields for NIT Key Detail 12; this supersession concerns those fields only and preserves C1 as historical evidence."
+        },
+        {
+          "location": "wiki/review_queue.md#C9b64bbbaff1634a0",
+          "text": "All parsed amendment records for Corrigendum No. 3 remain in pending_manual_review status and require final verification against the original PDF source document."
+        },
+        {
+          "location": "wiki/source_quirks.md#C277bca30147da1af",
+          "text": "Parsed JSON records for Corrigendum No. 3 capture selected amendment wording and fields rather than complete verbatim table transcriptions, focusing strictly on date and time modifications."
+        },
+        {
+          "location": "wiki/timeline.md#C808a32d75d242ca0",
+          "text": "Baseline physical submission deadline for original tender security is 16.10.2026, amended to 23.10.2026 by Corrigendum 1, and further amended to 31.10.2026 by Corrigendum 3."
+        },
+        {
+          "location": "wiki/timeline.md#C706b02ef21062c55",
+          "text": "Addendum and Corrigendum No. 3 issued on 13.10.2026 further extends critical tender submission and opening dates, explicitly amending serial 1 of Addendum and Corrigendum No. 1."
+        },
+        {
+          "location": "wiki/timeline.md#C5efd58a6453f069f",
+          "text": "Last date for physical submission of original Tender Security instruments is extended from 23.10.2026 up to 18.00 Hrs (IST) to 31.10.2026 up to 18.00 Hrs (IST)."
+        },
+        {
+          "location": "wiki/timeline.md#Ca25a020ea77f3c84",
+          "text": "Last date for physical submission of original tender security instruments is extended to 23.10.2026 by Corrigendum 1 and further extended to 31.10.2026 by Corrigendum 3."
+        }
+      ],
+      "status": "cited_meaning_and_supersession_pending"
+    },
+    {
+      "source_record": {
+        "record_id": "corrigendum_3/nit_key_detail_5",
+        "corrigendum_number": 3,
+        "document_date": "2026-10-13",
+        "source_document": "AandC3_DLN_P1_157.PDF",
+        "source_sha256": "623067baa7cb9d7b2863567fea861767f42102f9e16ff3c2b547afed554280de",
+        "pdf_pages": [
+          1
+        ],
+        "review_status": "pending_manual_review",
+        "field_provenance": "Prepared from visual inspection of the source scan; not automatically inferred from OCR",
+        "transcription_scope": "Selected amendment wording and fields, not a complete verbatim table transcription",
+        "printed_amendment_serial": "1",
+        "affected_section": "NIT",
+        "affected_reference": "Key Detail 5",
+        "label": "Tender Documents available on eProcurement Portal",
+        "operation": "replace_date_time_fields",
+        "existing_selected_text": "09.09.2026 to 15.10.2026 (up to 3.00 PM (IST))",
+        "replacement_selected_text": "09.09.2026 to 23.10.2026 (up to 3.00 PM (IST))",
+        "scope": "Date/time fields only; other wording, venue and submission conditions are retained in the source OCR",
+        "replaces_record_id": "corrigendum_1/nit_key_detail_5",
+        "printed_cross_reference": "Sl.No 1 of Addendum and Corrigendum No. 1 Dated 01-10-2026",
+        "ocr_evidence_relative_to_project": "output/corrigenda/ocr/run_20261030T051229372457Z/corrigendum_3/ocr.json"
+      },
+      "linked_claims": [
+        {
+          "location": "wiki/commercial_entity_index.md#C3d5912204c4af69b",
+          "text": "Corrigendum No. 3 updates key commercial submission deadlines for original Tender Security instruments and document availability."
+        },
+        {
+          "location": "wiki/cross_reference_master.md#Cd14a8294b0dcad94",
+          "text": "Addendum and Corrigendum No. 3 explicitly amends serial 1 of Addendum and Corrigendum No. 1 dated 01-10-2026 across NIT Key Details 5, 10, 11, and 12."
+        },
+        {
+          "location": "wiki/cross_reference_master.md#C06709df9fbea348f",
+          "text": "C3 explicitly replaces the C1 date/time fields for NIT Key Detail 5; this supersession concerns those fields only and preserves C1 as historical evidence."
+        },
+        {
+          "location": "wiki/review_queue.md#C9b64bbbaff1634a0",
+          "text": "All parsed amendment records for Corrigendum No. 3 remain in pending_manual_review status and require final verification against the original PDF source document."
+        },
+        {
+          "location": "wiki/source_quirks.md#C277bca30147da1af",
+          "text": "Parsed JSON records for Corrigendum No. 3 capture selected amendment wording and fields rather than complete verbatim table transcriptions, focusing strictly on date and time modifications."
+        },
+        {
+          "location": "wiki/timeline.md#Cd11070148764da34",
+          "text": "The baseline tender document availability period runs from 09.09.2026 to 09.10.2026 up to 3.00 PM IST, subsequently amended by Corrigendum No. 1 and Corrigendum No. 3."
+        },
+        {
+          "location": "wiki/timeline.md#C706b02ef21062c55",
+          "text": "Addendum and Corrigendum No. 3 issued on 13.10.2026 further extends critical tender submission and opening dates, explicitly amending serial 1 of Addendum and Corrigendum No. 1."
+        },
+        {
+          "location": "wiki/timeline.md#C770442e1264c461e",
+          "text": "Tender document availability closing date on the eProcurement Portal is extended from 15.10.2026 up to 3.00 PM (IST) to 23.10.2026 up to 3.00 PM (IST)."
+        },
+        {
+          "location": "wiki/timeline.md#C81741fe71cbfe17c",
+          "text": "Tender Document availability dates are amended by Corrigendum 1 and Corrigendum 3, adjusting the closing window through 23.10.2026."
+        }
+      ],
+      "status": "cited_meaning_and_supersession_pending"
+    }
+  ],
+  "open_review_questions": [
+    {
+      "location": "wiki/concepts/contract_forms_overview.md#C2cf643b7257a6117",
+      "text": "Whether contract forms may be modified at the time of finalization of the contract as noted in the index page of Section G."
+    },
+    {
+      "location": "wiki/concepts/general_conditions_of_contract_overview.md#C21a5e5c516f65643",
+      "text": "Reconcile the historical GCC 4.5 subcontracting statement with Corrigendum 2 new SCC 4, which instructs that the entire listed subclause stands deleted. Preserve both source versions; this finding does not decide remaining subcontracting rights or obligations."
+    },
+    {
+      "location": "wiki/concepts/general_conditions_of_contract_overview.md#C3aff26dec86721e4",
+      "text": "Reconcile the historical GCC price-variation discussion with Corrigendum 2 new SCC 6 and amended Contract Data Item 14. The deletion instruction lists GCC 11.1.2 and 11.1.2.1 through 11.1.2.4, while Item 14 retains NOT APPLICABLE. This does not delete all of GCC Clause 11 or decide unrelated GST/change-in-law provisions."
+    },
+    {
+      "location": "wiki/concepts/general_conditions_of_contract_overview.md#C3c9ea7a86f0cc214",
+      "text": "Source discrepancy: Contract Data specifies a six-month Defects Liability Period, whereas Clause 6 in the unexecuted Contract Agreement template specifies twelve months. The source wording uses Taking Over Certificates and Final Taking Over Certificate respectively. Record both durations and seek clarification; this wiki does not establish which provision controls."
+    },
+    {
+      "location": "wiki/concepts/general_conditions_of_contract_overview.md#Cf83340e8aa5e8d9d",
+      "text": "GCC 4.32 contains generic conditional wording on Engineer-approved explosives, while Volume 2 Scope Clause 11 expressly states that use of explosives will not be permitted. Preserve both source statements and cross-reference the scope prohibition beside the GCC summary; the generic text must not be presented alone as permission for this demolition package. This draft finding does not decide document precedence or legal applicability."
+    },
+    {
+      "location": "wiki/concepts/she_manual_part1_overview.md#Cf940308ceb144ed9",
+      "text": "Source discrepancy: SHE 7.8.1 requires agenda circulation at least seven working days before the scheduled meeting, while Form SF/001 states at least two days. Preserve the different wording without selecting precedence. Monthly Site SHE Committee meetings under 7.4 and weekly Construction SHE Committee meetings under 7.5 are distinct source provisions."
+    },
+    {
+      "location": "wiki/review_queue.md#C9214c16b142ce183",
+      "text": "Final transcription and applicability review remains pending for Addendum and Corrigendum No. 1 and No. 3."
+    },
+    {
+      "location": "wiki/review_queue.md#C5e69caebdacf4292",
+      "text": "Verify whether any subsequent corrigenda modify the financial thresholds or work experience values specified in Section C EQC Clause 3.1."
+    },
+    {
+      "location": "wiki/review_queue.md#C96e2efa054a59142",
+      "text": "Verify whether foreign currency conversion procedures under EQC clause notes apply uniformly to all past financial turnover and work experience calculations without exception."
+    },
+    {
+      "location": "wiki/review_queue.md#C0e8abebd6caabdc0",
+      "text": "Verify whether all blank template fields across Section D attachments are correctly mapped to expected bidder data inputs without missing formatting instructions or notes."
+    },
+    {
+      "location": "wiki/review_queue.md#Cb358341fb09526e3",
+      "text": "Verify whether Corrigendum No. 2 deletion instructions targeting specific GCC subclauses supersede the Contract Data table entries or if the Contract Data designations remain the controlling operative rules."
+    },
+    {
+      "location": "wiki/review_queue.md#C2aa83f2231e20da9",
+      "text": "Verify whether Corrigendum No. 2 deletion instructions targeting specific GCC subclauses (such as Sub-Clauses 4.5, 8.10, 11.2.1 through 11.2.3, and 15.1) supersede the Contract Data table entries or if the Contract Data designations remain the controlling operative rules."
+    },
+    {
+      "location": "wiki/review_queue.md#C00605ee8670edd1a",
+      "text": "Verify the operational impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses (including sub-contracting restrictions, early completion incentives, price variation bands, and various advances) while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+    },
+    {
+      "location": "wiki/review_queue.md#Cffc1dc5c9ccada1b",
+      "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses (sub-contracting under 4.5, early completion incentives under 8.10, price variation under 11.1.2 series, mobilization and equipment advances under 11.2 series, special/acceleration advance under 11.2.3, and professional indemnity insurance under 15.1) while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+    },
+    {
+      "location": "wiki/review_queue.md#C90b5ef08dd7a4c97",
+      "text": "Verify the operational and legal impact of Corrigendum No. 2 deleting multiple major GCC sub-clauses while keeping the Contract Data label for Price Variation as NOT APPLICABLE with an expanded clause-reference list."
+    },
+    {
+      "location": "wiki/review_queue.md#Cbb2f5ae0933a4ccf",
+      "text": "Verify whether additional operational personnel tables or specialist safety officer requirements exist in un-ingested parts of Volume 2 or Volume 3 beyond the Project Manager specification in Annexure 2."
+    },
+    {
+      "location": "wiki/review_queue.md#C1e2c45924e59a80d",
+      "text": "Verify whether the proposed deployment quantities for plant and equipment in Annexure 3 of Volume 2 Part 3 are subject to adjustment based on specific site fronts handed over by BMRCL."
+    },
+    {
+      "location": "wiki/review_queue.md#C6da9cb1428c566ab",
+      "text": "Verify whether monetary penalties associated with repeated non-compliance under SHE audit findings cross-reference specific General Conditions of Contract clauses or if they are solely governed by administrative notices."
+    },
+    {
+      "location": "wiki/review_queue.md#C657998e24c19d205",
+      "text": "Verify whether general instructions such as BMRC/SHE/CEO/001 and BMRC/SHE/CEO/0011 referenced in Vol 3 Part II safety clauses are fully appended or available in separate unpublished administrative annexes."
+    },
+    {
+      "location": "wiki/review_queue.md#C7de634a7f2028604",
+      "text": "Verify the exact angle specification in Clause 19.0(ii) for overhead protection, where the source text states an angle 'not more than 200' which appears to represent a typographical error for 20 degrees."
+    },
+    {
+      "location": "wiki/review_queue.md#Cd0c4f1fddfc8e461",
+      "text": "Verify whether specific monetary penalty amounts or tariff schedules for safety non-compliance are detailed elsewhere in the tender or if they are entirely deferred to the General Conditions of Contract / Special Conditions of Contract penalty provisions."
+    },
+    {
+      "location": "wiki/review_queue.md#C189d3208e16ccef3",
+      "text": "Verify whether the schedules referenced in BOCWR (Schedules III, IV, V, X, XI) are fully appended or incorporated by reference in other volumes of the tender package."
+    },
+    {
+      "location": "wiki/review_queue.md#Ce76105841c331cb2",
+      "text": "Verify whether general instruction BMRC/SHE/CEO/011 referenced in illumination clause 44.2.1 contains additional quantitative lighting thresholds not explicitly listed in Part III text."
+    },
+    {
+      "location": "wiki/review_queue.md#C0c88d3b593b38b67",
+      "text": "Verify if subsequent amendments alter any of the penalty amounts specified in Volume 3 Part V across all categories."
+    },
+    {
+      "location": "wiki/review_queue.md#C5e0d03690e1102b2",
+      "text": "Verify whether compound penalty ceilings are consistently applied across all sub-contractor tiers under Tender Package P1."
+    },
+    {
+      "location": "wiki/review_queue.md#Ca46f29e3dab08ddf",
+      "text": "Verify column reconstruction for Appendix 2 statutory requirements items to ensure all manual references (S-xx) and statutory rules (R-xx) map correctly to their intended obligations."
+    },
+    {
+      "location": "wiki/review_queue.md#C0012c4628b50129b",
+      "text": "Verify column boundaries and cross-references for Appendix 2 statutory requirement items (e.g., items 41 through 77) due to unseparated text fragments in parsed records."
+    },
+    {
+      "location": "wiki/review_queue.md#Cbde01d7506bdd2c6",
+      "text": "Verify whether the duplicate entries for medical examination for occupational health hazards in Appendix 2 (item numbers 76 and 82) represent distinct statutory sub-provisions or an editorial duplication in the source document."
+    },
+    {
+      "location": "wiki/review_queue.md#C46096b345a73fc7d",
+      "text": "Verify whether the reference to DMRC in Appendix 4 represents a typographical error for BMRC in the tender documentation and confirm the intended governing entity."
+    },
+    {
+      "location": "wiki/review_queue.md#Ca5a4f04e7b2e4693",
+      "text": "Verify whether contract value tiers in General Instruction BMRC/SHE/CEO/001 (which lists 'More than 25' Cr in row headers) contain a typographical omission in the source text regarding crore thresholds compared to BMRC/SHE/CEO/003 ('More than 250 Cr')."
+    },
+    {
+      "location": "wiki/review_queue.md#Ce346a7c43f705165",
+      "text": "Verify whether additional operational roles or specialized subcontractor staff missing from the visible fragment of BMRC/SHE/CEO/007's training matrix are captured in subsequent pages of the SHE Manual appendices."
+    },
+    {
+      "location": "wiki/review_queue.md#C19a08cc40abbd096",
+      "text": "Verify whether layout review status for general instructions BMRC/SHE/CEO/008, 009, and 010 remains pending across all downstream sections."
+    },
+    {
+      "location": "wiki/review_queue.md#C9657d8ed67ca4fb3",
+      "text": "Verify whether the detailed graphical or tabular content for Warning Traffic Signs under General Instruction BMRC/SHE/CEO/012 is presented in subsequent unparsed sections or attachments."
+    },
+    {
+      "location": "wiki/review_queue.md#Cf0a1ee7101302401",
+      "text": "Verify how the lump-sum salvage credit offered under Schedule-C is incorporated into final contract evaluation given its placeholder status in the published tender document."
+    },
+    {
+      "location": "wiki/review_queue.md#C6bdb86d92d483cb5",
+      "text": "Verify whether any subsequent corrigenda modify the Schedule A estimated cost of ₹ 4,69,41,306.00 or introduce changes to Schedule B and Schedule C pricing instructions in Volume 4 Section J."
+    },
+    {
+      "location": "wiki/review_queue.md#C2ba4ccbd578fd11f",
+      "text": "Verify whether the addition of SCC clauses deleting specific GCC subclauses (such as subclauses 4.5, 8.10, 11.1.2 through 11.1.2.4, 11.2.1, 11.2.2, 11.2.3, and 15.1) requires corresponding textual removal from GCC source files or is fully managed by SCC precedence instructions."
+    },
+    {
+      "location": "wiki/review_queue.md#C9b64bbbaff1634a0",
+      "text": "All parsed amendment records for Corrigendum No. 3 remain in pending_manual_review status and require final verification against the original PDF source document."
+    },
+    {
+      "location": "wiki/review_queue.md#Cdc1f99fa0e9ac885",
+      "text": "Verify whether Corrigendum No. 2 additions of SCC clauses deleting GCC Sub-Clauses 4.5, 8.10, 11.1.2 series, 11.2.1, 11.2.2, 11.2.3, and 15.1 supersede the original GCC baseline provisions without altering Contract Data labels."
+    }
+  ],
+  "limitations": [
+    "Citation coverage does not establish complete meaning.",
+    "Similar-text detection is not semantic contradiction detection.",
+    "Repeated claims across hubs may be intentional.",
+    "Amendment citation does not prove correct supersession.",
+    "Original PDFs were not independently reviewed.",
+    "No compliance or legal applicability decision is made."
+  ]
+}
